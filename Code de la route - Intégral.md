@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2002-05-02
+Version Consolidée au 2002-08-06
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-3)](#2)
@@ -10967,18 +10967,22 @@ _Cite_:
 ###### Article R222-8
 
 Tout titulaire d'un certificat d'aptitude professionnelle de conducteur routier, d'un certificat d'aptitude professionnelle
-de conduite routière ou d'un brevet d'études professionnelles conduite et services dans le transport routier délivrés par le
-ministre chargé de l'éducation nationale, d'un certificat de formation professionnelle de conducteur routier délivré par le
-ministre chargé de la formation professionnelle peut, sans être tenu de subir les examens prévus au premier alinéa de
-l'article R. 221-3 obtenir la délivrance du permis de conduire selon les modalités définies par arrêté du ministre chargé des
-transports, pris après avis du ministre de l'intérieur, du ministre chargé de l'éducation nationale et du ministre chargé de
-la formation professionnelle.
+de conduite routière ou d'un brevet d'études professionnelles " conduite et services dans le transport routier " délivrés par
+le ministre chargé de l'éducation nationale, d'un titre professionnel de conducteur routier délivré par le ministre chargé de
+la formation professionnelle peut, sans être tenu de subir les examens prévus au premier alinéa de l'article R. 221-3 obtenir
+la délivrance du permis de conduire selon les modalités définies par arrêté du ministre chargé des transports, pris après
+avis du ministre de l'intérieur, du ministre chargé de l'éducation nationale et du ministre chargé de la formation
+professionnelle.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2002-1029 du 2 août 2002 - art. 9 () JORF 6 août 2002
 
 _Cité par_:
 
@@ -10988,6 +10992,10 @@ _Cité par_:
   - Arrêté du 30 octobre 2012 (P)
   - Code de la route. - art. R222-4 (VT)
 
+_Abrogé par_:
+
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 14
+
 _Anciens textes_:
 
   - Code de la route - art. R123-1 (Ab)
@@ -10995,7 +11003,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R221-3 (V)
+  - Code de la route. - art. R221-3 (VT)
 
 
 #### Chapitre III : Permis à points.<a id=85></a>
