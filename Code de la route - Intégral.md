@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2001-10-01
+Version Consolidée au 2001-11-16
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-3)](#2)
@@ -2376,6 +2376,9 @@ précédent. Le procès-verbal fait état des raisons pour lesquelles il n'a pu 
 premier alinéa ; en cas d'état d'ivresse manifeste du conducteur ou de l'accompagnateur, les épreuves doivent être effectuées
 dans les plus brefs délais.
 
+Lorsque le dépassement de 40 km/h ou plus de la vitesse maximale autorisée est établi au moyen d'un appareil homologué et
+lorsque le véhicule est intercepté, les dispositions du présent article sont applicables au conducteur.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -2395,6 +2398,15 @@ _Codifié par_:
 
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1062 2001-11-15 art. 71 I : application à Mayotte
+  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+
+_Modifié par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 20 () JORF 16 novembre 2001
 
 _Anciens textes_:
 
@@ -2421,6 +2433,9 @@ peut proposer au représentant de l'Etat dans le département de modifier sa dé
 A défaut de décision de suspension dans le délai de soixante-douze heures prévu par l'alinéa précédent, le permis de conduire
 est remis à la disposition de l'intéressé, sans préjudice de l'application ultérieure des articles L. 224-7 à L. 224-9.
 
+Lorsque le dépassement de 40 km/h ou plus de la vitesse maximale autorisée est établi au moyen d'un appareil homologué et
+lorsque le véhicule est intercepté, les dispositions du présent article sont applicables au conducteur.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -2428,9 +2443,14 @@ _Codifié par_:
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
-_Créé par_:
+**Liens**:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000 en vigueur le 1er juin 2001, rectificatif JORF du 9 juin 2001
+  - SPEC_APPLI: Loi n°2001-1062 2001-11-15 art. 71 I : application à Mayotte
+  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+
+_Modifié par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 20 () JORF 16 novembre 2001
 
 _Anciens textes_:
 
@@ -2455,16 +2475,11 @@ _Cité par_:
 
 ###### Article L224-3
 
-Dans le cas prévu au premier alinéa de l'article L. 224-2, le représentant de l'Etat dans le département, s'il s'agit d'un
-brevet militaire de conduite délivré par l'autorité militaire, transmet directement ce titre à ladite autorité, à qui il
-appartient de prendre les mesures nécessaires.
+Dans les cas prévus aux premier et troisième alinéas de l'article L. 224-2, le représentant de l'Etat dans le département,
+s'il s'agit d'un brevet militaire de conduite délivré par l'autorité militaire, transmet directement ce titre à ladite
+autorité, à qui il appartient de prendre les mesures nécessaires.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
 _Cité par_:
 
@@ -2478,6 +2493,20 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L224-2 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+  - SPEC_APPLI: Loi n°2001-1062 2001-11-15 art. 71 I : application à Mayotte
+
+_Codifié par_:
+
+  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 20 () JORF 16 novembre 2001
 
 
 ###### Article L224-4
@@ -3841,13 +3870,13 @@ _Cité par_:
 
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le conducteur ou
 l'accompagnateur de l'élève conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux
-vérifications destinées à établir la preuve de l'état alcoolique.
+vérifications destinées à établir la preuve de l'état alcoolique. 
 
-Lorsque la constatation est faite par un agent de police judiciaire mentionné au 2° de l'article 21 du code de procédure
-pénale, il rend compte immédiatement de la présomption de l'existence d'un état alcoolique ou du refus du conducteur ou de
-l'accompagnateur de l'élève conducteur de subir les épreuves de dépistage à tout officier de police judiciaire de la police
-nationale ou de la gendarmerie nationale territorialement compétent, qui peut alors lui ordonner sans délai de lui présenter
-sur-le-champ la personne concernée.
+Lorsque la constatation est faite par un agent de police judiciaire mentionné au 1° bis, 1° ter, 1° quater ou 2° de l'article
+21 du code de procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un état alcoolique ou du
+refus du conducteur ou de l'accompagnateur de l'élève conducteur de subir les épreuves de dépistage à tout officier de police
+judiciaire de la police nationale ou de la gendarmerie nationale territorialement compétent, qui peut alors lui ordonner sans
+délai de lui présenter sur-le-champ la personne concernée. 
 
 Les vérifications destinées à établir la preuve de l'état alcoolique sont faites soit au moyen d'analyses et examens
 médicaux, cliniques et biologiques, soit au moyen d'un appareil permettant de déterminer la concentration d'alcool par
@@ -3859,6 +3888,17 @@ _Codifié par_:
 
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1062 2001-11-15 art. 71 I : application à Mayotte
+  - PILOTE_SUIVEUR: Code de la route. - art. L244-1 (V)
+  - PILOTE_SUIVEUR: Code de la route. - art. L245-1 (V)
+  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+
+_Modifié par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 13 () JORF 16 novembre 2001
 
 _Cité par_:
 
@@ -3879,17 +3919,12 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 21 (M)
+  - Code de procédure pénale - art. 21 (V)
 
 _Anciens textes_:
 
   - Code de la route - art. L1 (Ab)
   - Code de la route L1 I (al. 3)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de la route. - art. L244-1 (V)
-  - PILOTE_SUIVEUR: Code de la route. - art. L245-1 (V)
 
 
 ###### Article L234-5
@@ -4307,6 +4342,11 @@ de la circulation à des épreuves de dépistage et, lorsqu'elles se révèlent 
 conducteur refuse de les subir, à des analyses et examens médicaux, cliniques et biologiques, en vue d'établir s'il
 conduisait sous l'influence de substances ou plantes classées comme stupéfiants.
 
+Les officiers de police judiciaire peuvent également faire procéder sur tout conducteur d'un véhicule impliqué dans un
+accident corporel de la circulation à des épreuves de dépistage et, lorsqu'elles se révèlent positives ou sont impossibles ou
+lorsque le conducteur refuse de les subir, à des analyses ou examens médicaux, cliniques et biologiques, en vue d'établir
+s'il conduisait sous l'influence de substances ou plantes classées comme stupéfiants.
+
 Les résultats de ce ces analyses sont transmis au procureur de la République du lieu de l'accident.
 
 Le fait de refuser de se soumettre aux analyses et examens médicaux, cliniques et biologiques prévus par le présent article
@@ -4348,6 +4388,15 @@ _Codifié par_:
 
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1062 2001-11-15 art. 71 I : application à Mayotte
+  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+
+_Modifié par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 21 () JORF 16 novembre 2001
 
 _Anciens textes_:
 
@@ -5303,6 +5352,11 @@ les véhicules de transport en commun, peuvent, dans les cas et conditions préc
 et L. 325-11, être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la
 destruction.
 
+Peuvent également être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la
+destruction les véhicules qui, se trouvant sur les voies ouvertes à la circulation publique ou sur leurs dépendances, sont
+privés d'éléments indispensables à leur utilisation normale et insusceptibles de réparation immédiate à la suite de
+dégradations ou de vols.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -5426,15 +5480,21 @@ _Codifié par_:
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1062 2001-11-15 art. 71 I et III : application à Mayotte et en Polynésie française
+  - SPEC_APPLI: Code de la route. - art. L318-4 (V)
+  - PILOTE_SUIVEUR: Code de la route. - art. L343-1 (V)
+  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+
+_Modifié par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 17 () JORF 16 novembre 2001
+
 _Anciens textes_:
 
   - Code de la route - art. L25 (Ab)
   - Code de la route L25 (al. 1)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. L318-4 (V)
-  - PILOTE_SUIVEUR: Code de la route. - art. L343-1 (V)
 
 _Cite_:
 
@@ -5834,7 +5894,16 @@ route.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
+Peuvent également, à la demande et sous la responsabilité du maître des lieux publics ou privés où ne s'applique pas le
+présent code, être mis en fourrière et, le cas échéant, aliénés ou livrés à la destruction les véhicules privés d'éléments
+indispensables à leur utilisation normale et insusceptibles de réparation immédiate, à la suite de dégradations ou de vols.
+
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+  - SPEC_APPLI: Loi n°2001-1062 2001-11-15 art. 71 I : application à Mayotte
 
 _Anciens textes_:
 
@@ -5844,6 +5913,10 @@ _Codifié par_:
 
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 17 () JORF 16 novembre 2001
 
 
 #### Chapitre 6 : Retrait de la circulation des véhicules accidentés.<a id=44></a>
@@ -6308,7 +6381,8 @@ infractions ;
 
 6° Aux préfets, pour l'exercice de leurs compétences en matière de circulation des véhicules ;
 
-7° Aux services du ministre chargé de l'industrie et du ministre chargé des transports pour l'exercice de leurs compétences ;
+7° Aux services du ministre de l'intérieur, du ministre de la défense, du ministre chargé de l'industrie et du ministre
+chargé des transports pour l'exercice de leurs compétences ;
 
 8° Aux entreprises d'assurances garantissant les dommages subis par des tiers résultant d'atteintes aux personnes ou aux
 biens dans la réalisation desquels un véhicule à moteur, ainsi que ses remorques, est impliqué et aux organismes assimilés à
@@ -6347,6 +6421,15 @@ _Codifié par_:
 
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1062 2001-11-15 art. 71 I : application à Mayotte
+  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+
+_Modifié par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 18 () JORF 16 novembre 2001
 
 _Anciens textes_:
 
@@ -6660,7 +6743,12 @@ compromettent la sécurité ou le droit à réparation des usagers de la route, 
 l'esthétique des sites et paysages classés, la conservation ou l'utilisation normale des voies ouvertes à la circulation
 publique et de leurs dépendances, notamment par les véhicules de transport en commun, peuvent, dans les cas et conditions
 précisés par le décret prévu à l'article L. 325-11, être immobilisés, mis en fourrière, retirés de la circulation et, le cas
-échéant, aliénés ou livrés à la destruction."
+échéant, aliénés ou livrés à la destruction.
+
+Peuvent également être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la
+destruction les véhicules qui, se trouvant sur les voies ouvertes à la circulation publique ou sur leurs dépendances, sont
+privés d'éléments indispensables à leur utilisation normale et insusceptibles de réparation immédiate à la suite de
+dégradations ou de vols."
 
 "Art. L. 325-2 - Pour l'application de l'article L. 325-1 et sur prescription de l'officier de police judiciaire
 territorialement compétent, les fonctionnaires de police en tenue et les militaires de la gendarmerie habilités à constater
@@ -6726,6 +6814,10 @@ Une délibération de l'assemblée de la Polynésie française détermine les cl
 contrat type susceptible d'être passé entre les collectivités publiques intéressées et les entreprises aptes à effectuer la
 démolition des véhicules à moteur."
 
+**Nota:**
+
+NOTA - Loi n° 2001-1062 article 71 III : ces dispositions sont applicables en Polynésie française.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -6737,6 +6829,10 @@ _Codifié par_:
 
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 17 () JORF 16 novembre 2001
 
 _Cite_:
 
