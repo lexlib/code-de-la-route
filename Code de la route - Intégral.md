@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2004-02-05
+Version Consolidée au 2004-03-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -86,7 +86,7 @@ Version Consolidée au 2004-02-05
         - [Chapitre Ier : Délivrance et catégories. (art. R*221-2 à R221-21)](#83)
         - [Chapitre II : Reconnaissance et équivalences. (art. R222-1 à R222-8)](#84)
         - [Chapitre III : Permis à points. (art. R223-1 à R223-13)](#85)
-          - [Section 1 : Principes généraux. (art. R223-2 à R223-3)](#86)
+          - [Section 1 : Principes généraux. (art. R223-1 à R223-4)](#86)
           - [Section 2 : Des stages. (art. R223-5 à R223-13)](#87)
         - [Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation (art. R224-1 à R224-24)](#88)
           - [Section 1 : Rétention et suspension administratives après constatation d'une infraction. (art. R224-1 à R224-19)](#89)
@@ -10002,14 +10002,20 @@ II. - Etre âgé d'au moins vingt ans.
 
 III. - Etre titulaire depuis deux ans au moins du permis de conduire de la catégorie B en cours de validité.
 
-IV. - Remplir les conditions d'aptitude physique requises pour l'obtention du permis de conduire des catégories C, E (C), D,
-E (D), dont les modalités sont fixées par arrêté du ministre chargé des transports. Cette aptitude est attestée par un
+IV. Etre titulaire d'un permis de conduire dont le délai probatoire défini à l'article L. 223-1 est expiré.
+
+V. - Remplir les conditions d'aptitude physique requises pour l'obtention du permis de conduire des catégories C, E (C), D, E
+(D), dont les modalités sont fixées par arrêté du ministre chargé des transports. Cette aptitude est attestée par un
 certificat médical en cours de validité.
 
 Les conditions de délivrance et la périodicité du certificat médical sont celles fixées à l'article R. 221-11.
 
 La validité de l'autorisation d'enseigner est réduite à l'enseignement théorique lorsque l'inaptitude médicale à
 l'enseignement pratique de la conduite ou à la conduite est constatée.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -10033,6 +10039,11 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003 en vigueur le 1er mars 2004
+  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V) JORF 12 juillet 2003 en vigueur le 1er mars 2004
 
 _Anciens textes_:
 
@@ -12393,15 +12404,42 @@ _Cite_:
 
 #### Chapitre III : Permis à points.<a id=85></a>
 
+##### Section 1 : Principes généraux.<a id=86></a>
+
 ###### Article R223-1
 
-Le permis de conduire est affecté d'un nombre initial de douze points.
+I. - Le permis de conduire est affecté d'un nombre maximal de douze points.
+
+II. - A la date d'obtention du permis de conduire, celui-ci est affecté d'un nombre initial de six points.
+
+III. - Pendant le délai probatoire défini à l'article L. 223-1, le permis de conduire ne peut être affecté d'un nombre de
+points supérieur à six.
+
+IV. - A l'issue de ce délai probatoire, si aucune infraction ayant donné lieu à retrait de points n'a été commise, le permis
+de conduire est affecté du nombre maximal de douze points.
+
+En cas de commission d'infraction ayant donné lieu à retrait de points au cours du délai probatoire, l'affectation du nombre
+maximal de points intervient dans les conditions définies à l'article L. 223-6.
+
+V. - Le délai probatoire de trois ans court à compter de la date d'obtention du permis de conduire, quelle qu'en soit la
+catégorie. Ce délai est réduit à deux ans ou, s'il n'est pas achevé alors que la durée de deux ans est dépassée, prend fin
+lors de l'obtention de la catégorie B du permis de conduire dans le cadre de l'apprentissage anticipé de la conduite.
+
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 2003-07-11 art. 4 III, IV, art. 7 I JORF 12 juillet 2003 en vigueur le 1er mars 2004
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003 en vigueur le 1er mars 2004
+  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V) JORF 12 juillet 2003 en vigueur le 1er mars 2004
 
 _Cité par_:
 
@@ -12413,92 +12451,11 @@ _Anciens textes_:
   - Code de la route - art. R255 (Ab)
   - Code de la route R255
 
-
-###### Article R223-4
-
-Lorsqu'elle est adressée à un conducteur titulaire du permis de conduire depuis moins de deux ans, auteur d'une infraction
-ayant donné lieu à un retrait d'au moins quatre points, la notification prévue au III de l'article R. 223-3 précise qu'il est
-tenu de suivre la formation spécifique mentionnée au deuxième alinéa de l'article L. 223-6 dans un délai de trois mois.
-
-Le fait de ne pas suivre cette formation dans le délai de trois mois est puni de l'amende prévue pour les contraventions de
-la quatrième classe.
-
-Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de trois
-ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Cité par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V)
-  - Arrêté du 25 février 2004 - art. Annexe II (V)
-  - Code de la route. - art. R223-8 (V)
-
-_Anciens textes_:
-
-  - Code de la route - art. R241-6 (Ab)
-  - Code de la route - art. R258-1 (Ab)
-  - Code de la route - art. R266 (Ab)
-  - Code de la route R241-6, R258-1, R266 11°
-
 _Cite_:
 
+  - Code de la route. - art. L223-1 (M)
   - Code de la route. - art. L223-6 (M)
-  - Code de la route. - art. R223-3 (M)
 
-
-###### Article R223-8
-
-I. - La personne responsable d'une formation spécifique, titulaire de l'agrément prévu à l'article R. 223-5, délivre, à
-l'issue de celle-ci, une attestation de suivi de stage à chacun des participants. Cette attestation n'est pas délivrée en cas
-d'absence totale ou partielle au stage. Elle est transmise au préfet du département ou à l'autorité compétente du territoire
-ou de la collectivité territoriale d'outre-mer, du lieu de suivi de stage, dans un délai de quinze jours à compter de la fin
-de cette formation.
-
-II. - La délivrance de l'attestation de suivi de stage donne droit à la reconstitution de quatre points. Toutefois, après
-cette reconstitution, le nombre de points du permis de conduire de l'intéressé ne peut excéder onze points. Une nouvelle
-reconstitution partielle, après une formation spécifique, n'est possible qu'au terme d'un délai de deux ans.
-
-III. - L'autorité administrative mentionnée au I ci-dessus procède à la reconstitution du nombre de points dans un délai d'un
-mois à compter de la réception de l'attestation et notifie cette reconstitution à l'intéressé par lettre simple. La
-reconstitution prend effet le lendemain de la dernière journée de stage.
-
-IV. - Dans le cas prévu à l'article R. 223-4, sont transmises au comptable du Trésor du lieu de commission de l'infraction,
-dans le délai de quinze jours mentionné au I ci-dessus, l'attestation de suivi de stage ainsi que, si l'amende a été
-acquittée, les pièces nécessaires à son remboursement.
-
-L'attestation de suivi de stage et les pièces nécessaires au remboursement de l'amende payée sont définies par arrêté
-conjoint du ministre de l'intérieur, du ministre chargé du budget et du ministre chargé des transports.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Cité par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V)
-  - Arrêté du 25 février 2004 - art. 1 (V)
-  - Code de la route. - art. R225-2 (V)
-
-_Anciens textes_:
-
-  - Code de la route - art. R262 (Ab)
-  - Code de la route R262
-
-_Cite_:
-
-  - Code de la route. - art. R223-4 (M)
-  - Code de la route. - art. R223-5 (M)
-
-
-##### Section 1 : Principes généraux.<a id=86></a>
 
 ###### Article R223-2
 
@@ -12579,6 +12536,46 @@ _Cite_:
   - Code de la route L223-1, L225-1 à L225-9, L223-6
   - Code de la route. - art. L223-1 (M)
   - Code de la route. - art. L223-6 (M)
+
+
+###### Article R223-4
+
+I. - Lorsque le conducteur titulaire du permis de conduire a commis, pendant le délai probatoire défini à l'article L. 223-1,
+une infraction ayant donné lieu au retrait d'au moins trois points, la notification du retrait de points lui est adressée par
+lettre recommandée avec demande d'avis de réception. Cette lettre l'informe de l'obligation de se soumettre à la formation
+spécifique mentionnée au deuxième alinéa de l'article L. 223-6 dans un délai de quatre mois.
+
+II. - Le fait de ne pas se soumettre à la formation spécifique mentionnée au I dans le délai de quatre mois est puni de
+l'amende prévue pour les contraventions de la 4e classe.
+
+III. - Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de
+trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 2003-07-11 art. 4 III, IV, art. 7 I JORF 12 juillet 2003 en vigueur le 1er mars 2004
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003 en vigueur le 1er mars 2004
+  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V) JORF 12 juillet 2003 en vigueur le 1er mars 2004
+
+_Cité par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V)
+  - Arrêté du 25 février 2004 - art. Annexe II (V)
+  - Code de la route. - art. R223-8 (V)
+
+_Anciens textes_:
+
+  - Code de la route - art. R241-6 (Ab)
+  - Code de la route - art. R258-1 (Ab)
+  - Code de la route - art. R266 (Ab)
+  - Code de la route R241-6, R258-1, R266 11°
 
 
 ##### Section 2 : Des stages.<a id=87></a>
@@ -12696,6 +12693,63 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. R223-5 (M)
+
+
+###### Article R223-8
+
+I. - La personne responsable d'une formation spécifique, titulaire de l'agrément prévu à l'article R. 223-5, délivre,à
+l'issue de celle-ci, une attestation de stage à toute personne qui l'a suivi en totalité. Cette attestation est transmise au
+représentant de l'Etat dans le département du lieu du stage, ou à l'autorité compétente de la collectivité d'outre-mer, dans
+un délai de quinze jours à compter de la fin de cette formation.
+
+II.- -La délivrance de l'attestation de stage donne droit à la récupération de quatre points dans la limite du plafond
+affecté au permis de conduire de son titulaire. Une nouvelle reconstitution de points, après une formation spécifique, n'est
+possible qu'au terme d'un délai de deux ans. La délivrance de l'attestation de stage sensibilisation à la sécurité routière
+effectué dans le cadre des dispositions de l'article 131-35-1 du code pénal ne donne pas droit à récupération de points.
+
+III. - L'autorité administrative mentionnée au I ci-dessus procède à la reconstitution du nombre de points dans un délai d'un
+mois à compter de la réception de l'attestation et notifie cette reconstitution à l'intéressé par lettre simple. La
+reconstitution prend effet le lendemain de la dernière journée de stage.
+
+IV. - Dans le cas prévu à l'article R. 223-4, sont transmises au comptable du Trésor du lieu de commission de l'infraction,
+dans le délai de quinze jours mentionné au I ci-dessus, l'attestation de suivi de stage ainsi que, si l'amende a été
+acquittée, les pièces nécessaires à son remboursement.
+
+L'attestation de suivi de stage et les pièces nécessaires au remboursement de l'amende payée sont définies par arrêté
+conjoint du ministre de l'intérieur, du ministre chargé du budget et du ministre chargé des transports.
+
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 2003-07-11 art. 4 V, VII, art. 7 I, JORF 12 juillet 2003 en vigueur le 1er mars 2004
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003 en vigueur le 1er mars 2004
+  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V) JORF 12 juillet 2003 en vigueur le 1er mars 2004
+
+_Cité par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V)
+  - Arrêté du 25 février 2004 - art. 1 (V)
+  - Code de la route. - art. R225-2 (V)
+
+_Cite_:
+
+  - Code pénal - art. 131-35-1 (M)
+  - Code de la route. - art. R223-4 (M)
+  - Code de la route. - art. R223-5 (M)
+
+_Anciens textes_:
+
+  - Code de la route - art. R262 (Ab)
+  - Code de la route R262
 
 
 ###### Article R223-9
@@ -30179,25 +30233,26 @@ _Anciens textes_:
 
 ###### Article R413-5
 
-I. - Les élèves conducteurs et les conducteurs titulaires depuis moins de deux ans du permis de conduire sont tenus de ne pas
-dépasser les vitesses maximales suivantes :
+I.-Tout élève conducteur et, pendant le délai probatoire défini à l'article L223-1, tout conducteur titulaire du permis de
+conduire est tenu de ne pas dépasser les vitesses maximales suivantes : 
 
-1° 110 km/h sur les sections d'autoroutes où la limite normale est de 130 km/h ;
+1° 110 km/ h sur les sections d'autoroutes où la limite normale est de 130 km/ h ; 
 
-2° 100 km/h sur les sections d'autoroutes où cette limite est plus basse, ainsi que sur les routes à deux chaussées séparées
-par un terre-plein central ;
+2° 100 km/ h sur les sections d'autoroutes où cette limite est plus basse, ainsi que sur les routes à deux chaussées séparées
+par un terre-plein central ; 
 
-3° 80 km/h sur les autres routes.
+3° 80 km/ h sur les autres routes. 
 
-II. - Le délai de deux ans court à compter de la date de délivrance du permis de conduire, quelle que soit la catégorie pour
-laquelle il a été obtenu.
+II.-Tout conducteur mentionné au présent article doit, en circulation, apposer de façon visible, à l'arrière de son véhicule,
+un signe distinctif dont les conditions d'utilisation et le modèle sont fixés par arrêté conjoint du ministre de l'intérieur
+et du ministre chargé des transports. 
 
-III. - Tout conducteur mentionné au présent article doit, en circulation, apposer de façon visible, à l'arrière de son
-véhicule, un signe distinctif dont les conditions d'utilisation et le modèle sont fixés par arrêté du ministre de l'intérieur
-et du ministre chargé des transports.
-
-IV. - Le fait, pour tout conducteur, de ne pas respecter l'obligation de signalisation imposée par le présent article et les
+III.-Le fait, pour tout conducteur, de ne pas respecter l'obligation de signalisation imposée par le présent article et les
 dispositions prises pour son application est puni de l'amende prévue pour les contraventions de la deuxième classe.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -30220,6 +30275,11 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003 en vigueur le 1er mars 2004
+  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V) JORF 12 juillet 2003 en vigueur le 1er mars 2004
+
 _Anciens textes_:
 
   - Code de la route - art. R10-6 (Ab)
@@ -30228,11 +30288,9 @@ _Anciens textes_:
   - Code de la route R10-6 (al. 1 à 5), R123-2 (al. 5), R241-1
   - Code de la route. - art. R241-1 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R413-6 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Code de la route. - art. L223-1 (V)
 
 
 ###### Article R413-6
