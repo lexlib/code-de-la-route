@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2002-04-13
+Version Consolidée au 2002-04-18
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-3)](#2)
@@ -62,7 +62,7 @@ Version Consolidée au 2002-04-13
         - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. L441-1 à L441-2)](#59)
         - [Chapitre 2 : Dispositions applicables à Mayotte. (art. L442-1 à L442-2)](#60)
         - [Chapitre 3 : Dispositions applicables à la Polynésie française. (art. L443-1)](#61)
-  - [Partie réglementaire (art. R110-1 à R442-2)](#62)
+  - [Partie réglementaire (art. R110-1 à R442-7)](#62)
     - [Livre Ier : Dispositions générales (art. R110-1 à R142-6)](#63)
       - [Titre Ier : Définitions. (art. R110-1 à R110-3)](#64)
       - [Titre II : Responsabilité. (art. R121-1 à R121-5)](#65)
@@ -160,7 +160,7 @@ Version Consolidée au 2002-04-13
           - [Section 1 : Dispositions générales. (art. R343-1)](#157)
           - [Section 2 : Immobilisation. (art. R343-2 à R343-3)](#158)
           - [Section 3 : Fourrière. (art. R343-4)](#159)
-    - [Livre IV : L'usage des voies. (art. R411-1 à R442-2)](#160)
+    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#160)
       - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#161)
         - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#162)
           - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#163)
@@ -180,9 +180,9 @@ Version Consolidée au 2002-04-13
         - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#177)
           - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#178)
           - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#179)
-        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-16)](#180)
+        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#180)
           - [Section 1 : Croisement. (art. R414-1 à R414-3)](#181)
-          - [Section 2 : Dépassement. (art. R414-4 à R414-16)](#182)
+          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#182)
         - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#183)
         - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#184)
           - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#185)
@@ -206,10 +206,9 @@ Version Consolidée au 2002-04-13
           - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#203)
           - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#204)
         - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#205)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-2)](#206)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#206)
         - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#207)
         - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#208)
-        - [Chapitre II : Dispositions applicables dans la collectivité territoriale de Mayotte. (art. R442-2)](#209)
 # Partie législative<a id=1></a>
 
 ## Livre 1er : Dispositions générales<a id=2></a>
@@ -25614,6 +25613,33 @@ _Cité par_:
   - Code de la route. - art. R442-2 (M)
 
 
+###### Article R411-21-1
+
+Pour prévenir un danger pour les usagers de la voie ou en raison de l'établissement d'un chantier, l'autorité investie du
+pouvoir de police peut ordonner la fermeture temporaire d'une route.
+
+Le fait pour tout conducteur de ne pas respecter l'interdiction de circuler sur une route dont la fermeture a été ordonnée en
+application du premier alinéa du présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de trois
+ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2002-530 2002-04-11 art. 5 : application à Mayotte
+
+_Créé par_:
+
+  - Décret n°2002-530 du 11 avril 2002 - art. 4 () JORF 18 avril 2002
+
+
 ###### Article R411-22
 
 L'autorisation de circulation des autobus articulés comportant plus d'une section articulée et des ensembles formés par un
@@ -26862,11 +26888,20 @@ moins possible la marche normale des autres véhicules, pour préparer un change
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la deuxième classe.
 
+Toutefois, ce fait est puni de l'amende prévue pour les contraventions de la cinquième classe lorsque, sur la chaussée, une
+voie de circulation au moins est couverte de neige ou de verglas sur tout ou partie de sa surface. Dans ce cas, toute
+personne coupable de l'infraction encourt également la peine complémentaire de suspension, pour une durée de trois ans au
+plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité professionnelle.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2002-530 du 11 avril 2002 - art. 2 () JORF 18 avril 2002
 
 _Anciens textes_:
 
@@ -28912,6 +28947,38 @@ _Cité par_:
 
   - SPEC_APPLI: Code de la route. - art. R432-1 (V)
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+
+###### Article R414-17
+
+Lorsque, sur la chaussée, une voie de circulation au moins est couverte de neige ou de verglas sur tout ou partie de sa
+surface :
+
+I. - 1° Le dépassement ou le changement de file est interdit à tout conducteur d'un véhicule dont le poids total autorisé en
+charge excède 3,5 tonnes ou à tout conducteur d'un ensemble de véhicules dont la longueur excède 7 mètres ;
+
+2° Le dépassement des engins de service hivernal en action sur la chaussée est interdit à tout véhicule.
+
+II. - Le fait de contrevenir au I du présent article est puni de l'amende prévue pour les contraventions de la quatrième
+classe.
+
+III. - Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de
+trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2002-530 du 11 avril 2002 - art. 1 () JORF 18 avril 2002
+
+_Cité par_:
+
+  - Code de la route. - art. R442-2 (V)
 
 
 #### Chapitre V : Intersections et priorité de passage.<a id=183></a>
@@ -33258,6 +33325,41 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
+###### Article R442-2
+
+Les dispositions réglementaires du présent livre sont applicables à Mayotte, à l'exception des articles R. 411-1, R. 411-20,
+R. 411-21, R. 414-17.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°93-301 1993-03-08 art. 1
+  - Décret n°93-301 du 8 mars 1993 - art. 1 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
+  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+_Modifié par_:
+
+  - Décret n°2002-530 du 11 avril 2002 - art. 3 () JORF 18 avril 2002
+
+_Cite_:
+
+  - Code de la route R411-1, R414-17, R411-20, R411-21, 75
+  - Code de la route. - art. R411-1 (V)
+  - Code de la route. - art. R411-20 (V)
+  - Code de la route. - art. R411-21 (V)
+  - Code de la route. - art. R414-17 (V)
+
+
 ###### Article R442-3
 
 Les règles relatives aux modalités d'application de l'article L. 131-3 du code des communes applicable à Mayotte concernant
@@ -33395,42 +33497,5 @@ _Cite_:
   - Code de la route. - art. R433-1 (V)
   - Code de la route. - art. R433-4 (V)
   - Code de la route. - art. R433-5 (V)
-
-
-#### Chapitre II : Dispositions applicables dans la collectivité territoriale de Mayotte.<a id=209></a>
-
-###### Article R442-2
-
-Les dispositions réglementaires du présent livre sont applicables dans la collectivité territoriale de Mayotte, à l'exception
-des articles R. 411-1, R. 411-20, R. 411-21.
-
-**Nota:**
-
-NOTA : Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
-territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée
-par la référence à la collectivité départementale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-301 1993-03-08 art. 1
-  - Décret n°93-301 du 8 mars 1993 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-
-_Cite_:
-
-  - Code de la route. - art. R411-1 (V)
-  - Code de la route. - art. R411-20 (V)
-  - Code de la route. - art. R411-21 (V)
 
 
