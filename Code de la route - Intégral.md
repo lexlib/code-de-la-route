@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2005-02-12
+Version Consolidée au 2005-02-25
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -15843,18 +15843,17 @@ arrière de ce dernier ;
 - véhicule et matériel agricoles : véhicule ou matériel normalement destiné à l'exploitation agricole et ci-dessous énuméré
 et défini :
 
-a) Tracteur agricole : véhicule à moteur spécialement conçu pour tirer ou actionner tout matériel normalement destiné à
-l'exploitation agricole, dont la vitesse de marche par construction ne peut excéder 40 km/h en palier ;
+a) Tracteur agricole : véhicule à moteur, à roues ou à chenilles, ayant au moins deux essieux et une vitesse maximale par
+construction comprise entre 6 et 40 km/h en palier, dont la fonction réside essentiellement dans sa puissance de traction et
+qui est spécialement conçu pour tirer, pousser, porter ou actionner certains équipements interchangeables destinés à des
+usages agricoles ou forestiers, ou tracter des remorques agricoles ou forestières.
 
 b) Machine agricole automotrice : appareil pouvant évoluer par ses propres moyens, normalement destiné à l'exploitation
-agricole et dont la vitesse de marche par construction ne peut excéder 25 km/h en palier ; des dispositions spéciales
-définies par arrêté du ministre chargé des transports, prises après consultation du ministre chargé de l'agriculture, sont
-applicables aux machines agricoles automotrices à un seul essieu.
-
-Les tracteurs agricoles et machines agricoles automotrices peuvent être aménagés pour transporter deux convoyeurs au plus.
-Ils peuvent également être aménagés pour transporter une charge dont le poids doit toujours être inférieur à 80 % du poids à
-vide d'un véhicule ainsi que des outils. Un arrêté du ministre des transports, pris après consultation du ministre de
-l'agriculture, fixe les modalités d'application du présent alinéa ;
+agricole et dont la vitesse de marche par construction ne peut excéder 25 km/h en palier ; cette vitesse est portée à 40 km/h
+pour les appareils dont la largeur est inférieure ou égale à 2,55 mètres et dont les limites de cylindrée ou de puissance
+sont supérieures à celles relatives aux quadricycles légers à moteur. Des dispositions spéciales définies par arrêté du
+ministre chargé des transports, prises après consultation du ministre chargé de l'agriculture, sont applicables aux machines
+agricoles automotrices à un seul essieu.
 
 c) Véhicule ou appareil remorqué :
 
@@ -16052,7 +16051,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-935 du 30 août 2004 - art. 1 () JORF 4 septembre 2004
+  - Décret n°2005-173 du 24 février 2005 - art. 1 () JORF 25 février 2005
 
 
 ###### Article R311-2
@@ -20531,6 +20530,21 @@ _Anciens textes_:
 **Liens**:
 
   - SPEC_APPLI: Code de la route. - art. R317-27 (V)
+
+
+###### Article R317-26-1
+
+Les tracteurs agricoles et machines agricoles automotrices peuvent être équipés de sièges de convoyeurs. Ils peuvent
+également être aménagés pour transporter une charge à des fins agricoles ou forestières.
+
+Un arrêté du ministre des transports, pris après avis du ministre de l'agriculture, fixe les modalités d'application du
+présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 
 ###### Article R317-27
@@ -30869,7 +30883,7 @@ _Anciens textes_:
 ###### Article R413-12
 
 La vitesse des véhicules et matériels de travaux publics est limitée sur route à 25 km/h. Il en est de même de la vitesse des
-véhicules remorquant un véhicule agricole ou un matériel de travaux publics.
+véhicules remorquant un matériel de travaux publics.
 
 Toutefois, pour les matériels de travaux publics affectés à des opérations de déneigement des chaussées, la vitesse limite
 est portée à 50 km/h.
@@ -30886,15 +30900,38 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2005-173 du 24 février 2005 - art. 3 () JORF 25 février 2005
+
 _Anciens textes_:
 
   - Code de la route - art. R162 (Ab)
   - Code de la route R162
 
-**Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+###### Article R413-12-1
+
+La vitesse des ensembles agricoles constitués d'un véhicule à moteur et d'un véhicule remorqué est limité sur route à 25 km/
+h.
+
+Toutefois, pour ces ensembles agricoles, la vitesse limite est portée à 40 km/h si chaque véhicule constituant l'ensemble a
+été réceptionné pour cette vitesse et si leur largeur hors tout est inférieure ou égale à 2,55 mètres.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 27 mars 1979 - art. 1 (V)
+  - Arrêté du 23 novembre 1992 - art. 2 (VD)
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2005-173 du 24 février 2005 - art. 2 () JORF 25 février 2005
 
 
 ###### Article R413-13
