@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2003-01-15
+Version Consolidée au 2003-02-04
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -22,12 +22,12 @@ Version Consolidée au 2003-01-15
         - [Chapitre 3 : Permis à points. (art. L223-1 à L223-8)](#19)
         - [Chapitre  4 : Interdiction de délivrance, rétention, suspension et annulation. (art. L224-1 à L224-18)](#20)
         - [Chapitre  5 : Enregistrement et communication des informations relatives au permis de conduire. (art. L225-1 à L225-9)](#21)
-      - [Titre 3 : Comportement du conducteur (art. L231-1 à L235-1)](#22)
+      - [Titre 3 : Comportement du conducteur (art. L231-1 à L235-5)](#22)
         - [Chapitre 1er : Comportement en cas d'accident. (art. L231-1 à L231-3)](#23)
         - [Chapitre 2 : Atteintes involontaires aux personnes. (art. L232-1)](#24)
         - [Chapitre 3 : Comportement en cas de contrôle routier. (art. L233-1 à L233-2)](#25)
         - [Chapitre 4 : Conduite sous l'influence de l'alcool. (art. L234-1 à L234-14)](#26)
-        - [Chapitre 5 : Conduite sous l'influence de substances ou plantes classées comme stupéfiants. (art. L235-1)](#27)
+        - [Chapitre 5 : Conduite sous l'influence de substances ou plantes classées comme stupéfiants. (art. L235-1 à L235-5)](#27)
       - [Titre 4 : Dispositions relatives à l'outre-mer (art. L241-1 à L245-1)](#28)
         - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. L241-1)](#29)
         - [Chapitre 2 : Dispositions applicables à Mayotte. (art. L242-1 à L242-2)](#30)
@@ -4472,6 +4472,231 @@ _Anciens textes_:
   - Code de la route - art. L14 (Ab)
   - Code de la route - art. L3-1 (Ab)
   - Code de la route L3-1, L11-1 (al. 1 et 2), L14 (al. 1 et 2)
+
+
+###### Article L235-2
+
+Les officiers ou agents de police judiciaire font procéder, sur le conducteur ou l'accompagnateur de l'élève conducteur
+impliqué dans un accident mortel de la circulation, à des épreuves de dépistage en vue d'établir si cette personne conduisait
+en ayant fait usage de substances ou plantes classées comme stupéfiants. Il en est de même si la personne est impliquée dans
+un accident de la circulation ayant occasionné un dommage corporel, lorsqu'il existe à son encontre une ou plusieurs raisons
+plausibles de soupçonner qu'elle a fait usage de stupéfiants.
+
+Les officiers ou agents de police judiciaire peuvent également faire procéder à ces mêmes épreuves sur tout conducteur ou
+tout accompagnateur d'élève conducteur, soit qui est impliqué dans un accident quelconque de la circulation, soit qui est
+l'auteur présumé de l'une des infractions au présent code punies de la peine de suspension du permis de conduire, ou
+relatives à la vitesse des véhicules ou au port de la ceinture de sécurité ou du casque, soit à l'encontre duquel il existe
+une ou plusieurs raisons plausibles de soupçonner qu'il a fait usage de stupéfiants.
+
+Si ces épreuves de dépistage se révèlent positives ou lorsque le conducteur refuse ou est dans l'impossibilité de les subir,
+les officiers ou agents de police judiciaire font procéder à des vérifications consistant en des analyses ou examens
+médicaux, cliniques et biologiques, en vue d'établir si la personne conduisait sous l'influence de substances ou plantes
+classées comme stupéfiants.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+_Codifié par_:
+
+  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Créé par_:
+
+  - Loi n°2003-87 2003-02-03 art. 1 2° JORF 4 février 2003
+
+_Cité par_:
+
+  - Décret n°2013-9 du 3 janvier 2013 (V)
+  - Code de la route. - art. L224-1 (V)
+  - Code de la route. - art. L224-2 (V)
+  - Code de la route. - art. L235-3 (V)
+  - Code de la route. - art. L235-5 (V)
+  - Code de la route. - art. L243-2 (V)
+  - Code de la route. - art. L244-2 (V)
+  - Code de la route. - art. L245-2 (V)
+  - Code de la route. - art. R235-1 (V)
+  - Code de la route. - art. R235-2 (V)
+  - Code de la route. - art. R235-3 (V)
+  - Code de la route. - art. R235-5 (V)
+  - Code de la route. - art. R243-2 (M)
+  - Code de la route. - art. R244-2 (VD)
+  - Code de la route. - art. R245-2 (V)
+  - Code de la sécurité intérieure - art. Annexe 1 (V)
+  - Code de la sécurité intérieure - art. Annexe 2 (V)
+  - Code de la sécurité intérieure - art. R546-2 (VD)
+
+
+###### Article L235-3
+
+I. - Le fait de refuser de se soumettre aux vérifications prévues par l'article L. 235-2 est puni de deux ans
+d'emprisonnement et de 4 500 Euros d'amende.
+
+II. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
+
+1° La suspension pour une durée de trois ans au plus du permis de conduire ; cette suspension peut être limitée à la conduite
+en dehors de l'activité professionnelle ; elle ne peut être assortie du sursis, même partiellement ;
+
+2° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
+plus ;
+
+3° La peine de travail d'intérêt général selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
+prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
+l'enfance délinquante ;
+
+4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
+
+III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre de points initial du permis de conduire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (M)
+  - Code pénal - art. 131-25 (M)
+  - Code pénal - art. 131-5 (M)
+  - Code pénal - art. 131-8 (M)
+  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25
+  - Code de la route. - art. L235-2 (M)
+
+_Cité par_:
+
+  - Décret n°85-891 du 16 août 1985 - art. 6 (VT)
+  - Code de la route. - art. L235-4 (V)
+  - Code de la route. - art. L235-5 (Ab)
+  - Code de la route. - art. L243-2 (V)
+  - Code de la route. - art. L244-2 (V)
+  - Code de la route. - art. L245-2 (V)
+  - Code de la route. - art. R212-4 (V)
+  - Code de la route. - art. R221-13 (V)
+  - Code de la route. - art. R221-14 (V)
+  - Code du sport. - art. L212-9 (V)
+  - Code pénal - art. 221-8 (V)
+  - Code pénal - art. 222-44 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Créé par_:
+
+  - Loi n°2003-87 2003-02-03 art. 1 2° JORF 4 février 2003
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+
+###### Article L235-4
+
+I. - Toute personne coupable, en état de récidive au sens de l'article 132-10 du code pénal, de l'une des infractions prévues
+aux articles L. 235-1 et L. 235-3 du présent code encourt également les peines complémentaires suivantes :
+
+1° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire, les
+dispositions de l'article L. 325-9 étant alors applicables, le cas échéant, au créancier gagiste ;
+
+2° L'immobilisation, pendant une durée d'un an au plus, du véhicule dont le prévenu s'est servi pour commettre l'infraction,
+s'il en est propriétaire.
+
+Le fait de détruire, détourner ou tenter de détruire ou de détourner un véhicule confisqué ou immobilisé en application des
+1° et 2° est puni des peines prévues à l'article 434-41 du code pénal.
+
+II. - Toute condamnation pour les délits prévus aux articles L. 235-1 et L. 235-3 commis en état de récidive au sens de
+l'article 132-10 du code pénal donne lieu de plein droit à l'annulation du permis de conduire avec interdiction de solliciter
+la délivrance d'un nouveau permis pendant trois ans au plus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Créé par_:
+
+  - Loi n°2003-87 2003-02-03 art. 1 2° JORF 4 février 2003
+
+_Cite_:
+
+  - Code pénal - art. 132-10 (V)
+  - Code pénal - art. 434-41 (M)
+  - Code de la route. - art. L235-1 (M)
+  - Code de la route. - art. L235-3 (M)
+  - Code de la route. - art. L325-9 (M)
+
+_Cité par_:
+
+  - Code de la route. - art. L235-5 (Ab)
+  - Code de la route. - art. L243-2 (V)
+  - Code de la route. - art. L244-2 (V)
+  - Code de la route. - art. L245-2 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+
+###### Article L235-5
+
+I. - Les peines prévues aux articles 221-6 et 222-19 du code pénal sont portées au double en cas de commission simultanée
+d'une des infractions prévues aux articles L. 235-1 et L. 235-3 du présent code. Les peines prévues à l'article 222-19 du
+code pénal sont applicables si l'atteinte à l'intégrité physique ou psychique de la personne n'a pas entraîné une incapacité
+totale de travail pendant plus de trois mois en cas de commission simultanée d'une des infractions prévues auxdits articles
+L. 235-1 et L. 235-3.
+
+II. - Toute personne coupable de l'une des infractions prévues aux articles L. 235-1 et L. 235-3 commise simultanément avec
+l'une des infractions prévues aux articles 221-6 et 222-19 du code pénal encourt les peines complémentaires prévues au I de
+l'article L. 235-4 du présent code.
+
+III. - Toute condamnation pour l'une des infractions prévues aux articles 221-6 et 222-19 du code pénal commise simultanément
+avec l'une des infractions prévues aux articles L. 235-1 et L. 235-3 du présent code donne lieu de plein droit à l'annulation
+du permis de conduire avec interdiction de solliciter un nouveau permis pendant cinq ans au plus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Créé par_:
+
+  - Loi n°2003-87 2003-02-03 art. 1 2° JORF 4 février 2003
+
+_Abrogé par_:
+
+  - Loi n°2003-495 du 12 juin 2003 - art. 3 (V) JORF 13 juin 2003
+
+_Cité par_:
+
+  - Loi n°2003-495 du 12 juin 2003 - art. 3 (V)
+  - Loi n°2016-731 du 3 juin 2016 - art. 83
+
+_Cite_:
+
+  - Code pénal - art. 221-6 (M)
+  - Code pénal - art. 222-19 (M)
+  - Code de la route. - art. L235-1 (M)
+  - Code de la route. - art. L235-3 (M)
+  - Code de la route. - art. L235-4 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ### Titre 4 : Dispositions relatives à l'outre-mer<a id=28></a>
