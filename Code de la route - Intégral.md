@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2002-10-16
+Version Consolidée au 2003-01-15
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -18083,6 +18083,8 @@ le présent article est puni de l'amende prévue pour les contraventions de la q
 Le fait de contrevenir aux dispositions du présent article relatives à l'entretien et aux dimensions des plaques
 d'immatriculation est puni de l'amende prévue pour les contraventions de la troisième classe.
 
+L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -18101,6 +18103,10 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2003-42 du 8 janvier 2003 - art. 1 () JORF 15 janvier 2003
+
 _Anciens textes_:
 
   - Code de la route - art. R100 (Ab)
@@ -18113,6 +18119,10 @@ _Anciens textes_:
   - Code de la route - art. R240 (Ab)
   - Code de la route - art. R99 (Ab)
   - Code de la route R99, R100, R101, R102, R159, R183, R199-1, R239, R240 (al. 1)
+
+_Cite_:
+
+  - Code de la route L325-1 à L325-3
 
 
 ###### Article R317-9
@@ -20160,22 +20170,34 @@ _Cite_:
 
 ###### Article R322-3
 
-La circulation à titre provisoire d'un véhicule, que celui-ci ait fait ou non l'objet de la délivrance d'une carte grise, est
-autorisée sous couvert d'un certificat d'immatriculation spécial W ou WW.
+I. - La circulation à titre provisoire d'un véhicule, que celui-ci ait fait ou non l'objet de la délivrance d'une "carte
+grise", est autorisée sous couvert d'un certificat d'immatriculation spécial W ou WW ou d'un certificat de transit ou d'un
+document équivalent délivré par les autorités compétentes d'un Etat membre de la Communauté européenne.
 
-Les bénéficiaires et la durée de validité des certificats visés à l'alinéa précédent ainsi que les conditions de leur
-attribution et de leur utilisation sont définis par arrêté du ministre chargé des transports pris après avis du ministre de
-l'intérieur.
+II. - Les bénéficiaires et la durée de validité des certificats d'immatriculation spéciaux W ou WW ainsi que les conditions
+de leur attribution et de leur utilisation sont définis par arrêté du ministre chargé des transports pris après avis du
+ministre de l'intérieur.
 
-Le fait pour toute personne d'utiliser un certificat d'immatriculation spécial W ou pour tout professionnel de l'automobile
-de délivrer un certificat d'immatriculation spécial WW sans respecter les dispositions du présent article ou celles prises
-pour son application est puni de l'amende prévue pour les contraventions de la quatrième classe.
+III. - Est puni de l'amende prévue pour les contraventions de la 4e classe :
+
+1° Le fait pour toute personne d'utiliser un certificat d'immatriculation spécial W ou WW ou pour tout professionnel de
+l'automobile de délivrer un certificat d'immatriculation spécial WW sans respecter les dispositions du présent article ou
+celles prises pour son application ;
+
+2° Le fait pour toute personne d'utiliser un certificat de transit ou un document équivalent délivré par les autorités
+compétentes d'un Etat membre de la Communauté européenne sans respecter les conditions de sa validité.
+
+L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-42 du 8 janvier 2003 - art. 2 () JORF 15 janvier 2003
 
 _Cité par_:
 
@@ -20197,9 +20219,9 @@ _Anciens textes_:
   - Code de la route - art. R241 (Ab)
   - Code de la route R111-1, R159, R165, R185, R200-2, R241 (al. 1 et 5)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
+  - Code de la route L325-1 à L325-3
 
 
 ###### Article R322-4
@@ -20295,6 +20317,8 @@ IV. - Le fait, pour tout propriétaire, de maintenir en circulation un véhicule
 d'immatriculation dans les conditions fixées au présent article est puni de l'amende prévue pour les contraventions de la
 quatrième classe.
 
+L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -20315,6 +20339,10 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2003-42 du 8 janvier 2003 - art. 3 () JORF 15 janvier 2003
+
 _Cité par_:
 
   - Arrêté du 9 février 2009 - art. 10 (V)
@@ -20330,11 +20358,8 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de la route R322-1, L325-1 à L325-3
   - Code de la route. - art. R322-1 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
 
 
 ###### Article R322-6
