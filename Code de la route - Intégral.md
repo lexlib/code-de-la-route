@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2002-04-18
+Version Consolidée au 2002-05-02
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-3)](#2)
@@ -75,7 +75,7 @@ Version Consolidée au 2002-04-18
     - [Livre II : Le conducteur. (art. R211-1 à R245-1)](#72)
       - [Titre Ier : Enseignement de la conduite et de la sécurité routière. (art. R211-1 à D214-8)](#73)
         - [Chapitre Ier : Formation à la conduite et à la sécurité routière (art. R211-1 à R211-6)](#74)
-          - [Section 1 : Attestations scolaires et brevet de sécurité routière. (art. R211-1 à R211-2)](#75)
+          - [Section 1 : Attestations et brevet de sécurité routière. (art. R211-1 à R211-2)](#75)
           - [Section 2 : Apprentissage de la conduite. (art. R211-3 à R211-6)](#76)
         - [Chapitre II : Enseignement à titre onéreux. (art. R212-1 à R212-6)](#77)
         - [Chapitre III : Etablissements d'enseignement (art. R213-1 à R213-9)](#78)
@@ -8298,16 +8298,28 @@ _Cite_:
 
 #### Chapitre Ier : Formation à la conduite et à la sécurité routière<a id=74></a>
 
-##### Section 1 : Attestations scolaires et brevet de sécurité routière.<a id=75></a>
+##### Section 1 : Attestations et brevet de sécurité routière.<a id=75></a>
 
 ###### Article R211-1
 
-Une attestation scolaire de sécurité routière de premier niveau et une attestation scolaire de deuxième niveau sont délivrées
-aux élèves qui ont subi avec succès le contrôle théorique des connaissances des règles de sécurité routière. Ce contrôle est
-obligatoire pour les élèves des établissements d'enseignement public et privé sous contrat.
+I. - Des attestations scolaires de sécurité routière de premier et deuxième niveau sont délivrées aux élèves qui ont subi
+avec succès le contrôle des connaissances théoriques des règles de sécurité routière. Ce contrôle est obligatoire pour les
+élèves des établissements d'enseignement public et des établissements d'enseignement privé sous contrat.
 
 Un arrêté conjoint du ministre chargé de l'éducation et du ministre chargé des transports fixe les modalités d'application du
-présent article.
+précédent alinéa.
+
+II. - Une attestation de sécurité routière est délivrée aux personnes non titulaires des attestations scolaires de sécurité
+routière de premier et deuxième niveau qui ont subi avec succès le contrôle des connaissances théoriques des règles de
+sécurité routière.
+
+Un arrêté du ministre chargé des transports fixe les modalités d'application du précédent alinéa.
+
+III. - Le brevet de sécurité routière est délivré aux titulaires d'une attestation scolaire de sécurité routière de premier
+niveau ou de l'attestation de sécurité routière ayant suivi une formation pratique organisée par une personne physique ou
+morale agréée par le préfet.
+
+Un arrêté du ministre chargé des transports fixe les modalités d'application du précédent alinéa.
 
 **Liens relatifs à cet article**
 
@@ -8319,6 +8331,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2002-675 du 30 avril 2002 - art. 1 () JORF 2 mai 2002
 
 **Liens**:
 
@@ -8354,25 +8370,27 @@ _Cité par_:
 
 ###### Article R211-2
 
-Tout conducteur de cyclomoteur doit être âgé d'au moins quatorze ans et être titulaire du brevet de sécurité routière s'il
-n'a pas atteint l'âge de seize ans.
+I. - Tout conducteur de cyclomoteur doit être âgé d'au moins quatorze ans.
 
-Le brevet de sécurité routière est délivré aux titulaires de l'attestation scolaire de sécurité routière de premier niveau,
-ayant suivi une formation pratique organisée par une personne physique ou morale agréée par le préfet.
+II. - Tout conducteur de cyclomoteur doit être titulaire du brevet de sécurité routière ou du permis de conduire.
 
-Un arrêté du ministre chargé des transports fixe les modalités d'application des dispositions de l'alinéa précédent.
+III. - Le fait de contrevenir aux dispositions des deux alinéas précédents est puni de l'amende prévue pour les
+contraventions de la 2e classe.
 
-Le fait, pour toute personne âgée de moins de seize ans, de conduire un cyclomoteur sans être titulaire du brevet de sécurité
-routière est puni de l'amende prévue pour les contraventions de la deuxième classe.
+IV. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
-Le fait, pour toute personne âgée de moins de quatorze ans, de conduire un cyclomoteur est puni de l'amende prévue pour les
-contraventions de la deuxième classe.
+V. - Les dispositions du II ne sont applicables qu'aux personnes qui atteindront l'âge de seize ans à compter du 1er janvier
+2004. Jusqu'à cette date, ces dispositions sont applicables aux personnes qui n'ont pas atteint l'âge de seize ans.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2002-675 du 30 avril 2002 - art. 1 () JORF 2 mai 2002
 
 **Liens**:
 
@@ -8406,6 +8424,10 @@ _Anciens textes_:
   - Code de la route - art. R233 (Ab)
   - Code de la route - art. R241-4 (Ab)
   - Code de la route R200-1 (al. 1 à 3), R233 (al. 1 et 2), R241-4
+
+_Cite_:
+
+  - Code de la route L325-1 à L325-3
 
 
 ##### Section 2 : Apprentissage de la conduite.<a id=76></a>
@@ -9898,11 +9920,16 @@ conditions d'âge.
 
 2° Etre titulaire :
 
-a) De la catégorie B du permis de conduire pour l'obtention des catégories C, D et E (B) ;
+a) De l'attestation scolaire de sécurité routière de deuxième niveau ou de l'attestation de sécurité routière pour
+l'obtention des catégories A ou B du permis de conduire ;
 
-b) De la catégorie C du permis de conduire pour l'obtention de la catégorie E (C) ;
+b) De la catégorie B du permis de conduire pour l'obtention des catégories C, D et E (B) ;
 
-c) De la catégorie D du permis de conduire pour l'obtention de la catégorie E (D).
+c) De la catégorie C du permis de conduire pour l'obtention de la catégorie E (C) ;
+
+d) De la catégorie D du permis de conduire pour l'obtention de la catégorie E (D).
+
+Les dispositions du a) ne sont applicables qu'aux personnes qui atteindront l'âge de seize ans à compter du 1er janvier 2004.
 
 **Liens relatifs à cet article**
 
@@ -9921,6 +9948,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2002-675 du 30 avril 2002 - art. 2 () JORF 2 mai 2002
 
 **Liens**:
 
@@ -12300,8 +12331,8 @@ de la justice et du ministre de l'intérieur ;
 3° L'original ou la copie certifiée conforme du certificat constatant l'achèvement d'une formation de conducteur de transport
 par route quand celui-ci est exigé en application de l'article R. 221-6.
 
-II. - En cas de perte ou de vol du permis de conduire le récépissé de déclaration de perte ou de vol tient lieu de permis
-pendant un délai de deux mois au plus.
+II. - En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
+vol tient lieu de titre pendant un délai de deux mois au plus.
 
 III. - Le fait de ne pas présenter immédiatement aux agents de l'autorité compétente les autorisations et pièces
 administratives exigées par le présent article est puni de l'amende prévue pour les contraventions de la première classe.
@@ -12332,6 +12363,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2002-675 du 30 avril 2002 - art. 3 () JORF 2 mai 2002
 
 _Anciens textes_:
 
@@ -31604,16 +31639,26 @@ _Cite_:
 
 ###### Article R431-4
 
-Tout conducteur de quadricycle léger à moteur doit être âgé d'au moins seize ans.
+I. - Tout conducteur de quadricycle léger à moteur doit être âgé d'au moins seize ans.
 
-Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la deuxième
-classe.
+II. - Tout conducteur de quadricycle léger à moteur doit être titulaire du brevet de sécurité routière ou du permis de
+conduire.
+
+III. - Le fait de contrevenir aux dispositions des deux alinéas précédents est puni de l'amende prévue pour les
+contraventions de la 2e classe.
+
+IV. - Les dispositions du II ne sont applicables qu'aux personnes qui atteindront l'âge de seize ans à compter du 1er janvier
+2004.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2002-675 du 30 avril 2002 - art. 4 () JORF 2 mai 2002
 
 **Liens**:
 
