@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2004-09-23
+Version Consolidée au 2004-10-26
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -14666,34 +14666,36 @@ _Cité par_:
 
 ###### Article R234-1
 
-I - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un état alcoolique
-caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par une concentration
-d'alcool dans l'air expiré égale ou supérieure à 0,25 milligramme par litre, sans atteindre les seuils fixés à l'article L.
-234-1 est puni de l'amende prévue pour les contraventions de la quatrième classe.
+I.-Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les contraventions de la quatrième
+classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par : 
 
-II - L'immobilisation peut être prescrite dans les conditions prévue aux articles L. 325-1 à L. 325-3.
+1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par litre ou par une concentration d'alcool dans
+l'air expiré égale ou supérieure à 0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
+véhicules de transport en commun ; 
 
-III - Toute personne coupable de cette infraction encourt également l peine complémentaire de suspension du permis de
-conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle.
+2° Une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par une concentration d'alcool dans
+l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
+autres catégories de véhicules. 
 
-IV - Cette contravention donne lieu de plein droit à la réduction de six points du permis de conduire.
+II-L'immobilisation peut être prescrite dans les conditions prévue aux articles L. 325-1 à L. 325-3.
 
-V - Les dispositions du présent article sont applicables à l'accompagnateur d'un élève conducteur.
+III-Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de suspension
+du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de
+l'activité professionnelle. 
+
+IV-Cette contravention donne lieu de plein droit à la réduction de six points du permis de conduire. 
+
+V-Les dispositions du présent article sont applicables à l'accompagnateur d'un élève conducteur.
 
 **Nota:**
 
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+Décret 2004-1138 du 25 octobre 2004 art. 2 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 6 () JORF 12 juillet 2003
 
 _Cité par_:
 
@@ -14713,6 +14715,10 @@ _Cité par_:
   - Code de la route. - art. R244-1 (V)
   - Code de la route. - art. R245-1 (V)
 
+_Modifié par_:
+
+  - Décret n°2004-1138 du 25 octobre 2004 - art. 1 () JORF 26 octobre 2004
+
 _Anciens textes_:
 
   - Code de la route - art. R233-5 (Ab)
@@ -14722,8 +14728,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route L234-1, L325-1 à L325-3
-  - Code de la route. - art. L234-1 (M)
+  - Code de la route. - art. L325-1 (V)
 
 
 ###### Article R234-2
