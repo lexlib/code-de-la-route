@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2004-12-28
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -21969,8 +21969,7 @@ _Cite_:
 
 Tout propriétaire d'un véhicule à moteur, d'une remorque dont le poids total autorisé en charge est supérieur à 500
 kilogrammes ou d'une semi-remorque, qui souhaite le mettre en circulation pour la première fois, doit adresser au préfet du
-département de son domicile une demande de certificat d'immatriculation en justifiant de son identité et en déclarant son
-domicile.
+département de son domicile une demande de certificat d'immatriculation en justifiant de son identité et de son domicile.
 
 Toutefois, lorsque le propriétaire est une personne morale ou une entreprise individuelle, la demande de certificat
 d'immatriculation doit être adressée au préfet du département de l'établissement inscrit au registre du commerce et des
@@ -22000,14 +21999,14 @@ puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Nota:**
 
-Nota : Décret 2003-1186 2003-12-11 art. 15 I (alinéa 1er) et II :
+Décret 2003-1186 2003-12-11 art. 15 I (alinéa 1er) et II : 
 
 Les dispositions des articles 1er à 5 du présent décret sont applicables à compter du 1er juillet 2004 aux cyclomoteurs mis
-pour la première fois en circulation postérieurement à cette date.
+pour la première fois en circulation postérieurement à cette date. 
 
 Les dispositions des articles 1er à 5 du présent décret sont applicables aux cyclomoteurs mis pour la première fois en
 circulation avant le 1er juillet 2004 à compter des dates qui seront fixées par arrêté conjoint du ministre de l'intérieur et
-du ministre chargé des transports et ne pourront être postérieures au 30 juin 2009.
+du ministre chargé des transports et ne pourront être postérieures au 30 juin 2009. 
 
 Toutefois, à l'initiative de leurs propriétaires, les cyclomoteurs visés à l'alinéa précédent pourront faire l'objet dès le
 1er juillet 2004 d'une demande d'immatriculation dans les conditions prévues par ces dispositions.
@@ -22030,13 +22029,9 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 (application à Mayotte)
-
 _Modifié par_:
 
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 2 () JORF 13 décembre 2003
+  - Décret n°2004-1408 du 23 décembre 2004 - art. 1 () JORF 28 décembre 2004
 
 _Cité par_:
 
@@ -22407,8 +22402,8 @@ déclaration doit être adressée au préfet du département du nouveau domicile
 affecté à titre principal à un établissement du locataire pour les besoins de cet établissement, la déclaration doit être
 adressée au préfet du département du nouvel établissement d'affectation.
 
-Pour l'accomplissement des formalités prévues au présent article, le propriétaire doit justifier de son identité et déclarer,
-selon le cas, son domicile ou l'adresse de l'établissement d'affectation ou de mise à disposition, ou celle du locataire,
+Pour l'accomplissement des formalités prévues au présent article, le propriétaire doit justifier de son identité et, selon le
+cas, de son domicile ou de l'adresse de l'établissement d'affectation ou de mise à disposition, ou de celle du locataire,
 dans les conditions fixées par le ministre chargé des transports après avis du ministre de l'intérieur.
 
 Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas respecter le délai prévu au présent article
@@ -22420,14 +22415,9 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
-
 _Modifié par_:
 
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 10 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2004-1408 du 23 décembre 2004 - art. 1 () JORF 28 décembre 2004
 
 _Cité par_:
 
@@ -22571,8 +22561,8 @@ En cas de perte, de vol ou de détérioration d'une carte grise, le titulaire pe
 demande au préfet qui avait délivré l'original.
 
 L'accomplissement des formalités prévues au présent article est subordonné à la justification, par le propriétaire, de son
-identité et à la déclaration, selon le cas, de son domicile ou de l'adresse de l'établissement d'affectation ou de mise à
-disposition, ou de celle du locataire.
+identité et, selon le cas, de son domicile ou de l'adresse de l'établissement d'affectation ou de mise à disposition, ou de
+celle du locataire.
 
 Pour tout véhicule soumis à contrôle technique, la délivrance du duplicata est subordonnée à la preuve que ce véhicule répond
 aux conditions requises pour être maintenu en circulation conformément aux dispositions du chapitre III du présent titre.
@@ -22589,6 +22579,10 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2004-1408 du 23 décembre 2004 - art. 1 () JORF 28 décembre 2004
+
 _Cité par_:
 
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
@@ -22603,10 +22597,6 @@ _Anciens textes_:
   - Code de la route - art. R185 (Ab)
   - Code de la route - art. R200-2 (Ab)
   - Code de la route R113-2, R114-1, R117, R159, R165, R185, R200-2
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
 
 
 ###### Article R322-11
