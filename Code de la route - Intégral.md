@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2003-05-11
+Version Consolidée au 2003-05-17
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -26615,9 +26615,9 @@ _Cité par_:
 
 ###### Article R412-1
 
-I. - En circulation, tout conducteur ou passager d'un véhicule à moteur dont le poids total autorisé en charge n'excède pas
-3,5 tonnes, doit porter une ceinture de sécurité homologuée dès lors que le siège qu'il occupe en est équipé en application
-des dispositions du livre III.
+I. - En circulation, tout conducteur ou passager d'un véhicule à moteur, à l'exception des autobus et des autocars dont le
+poids total autorisé en charge excède 3,5 tonnes, doit porter une ceinture de sécurité homologuée dès lors que le siège qu'il
+occupe en est équipé en application des dispositions du livre III.
 
 II. - Toutefois, le port de la ceinture de sécurité n'est pas obligatoire :
 
@@ -26646,7 +26646,7 @@ points du permis de conduire.
 
 **Nota:**
 
-NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
+NOTA : Décret 2003-440 art. 3 : Ces dispositions sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -26656,7 +26656,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-293 du 31 mars 2003 - art. 3 () JORF 1er avril 2003
+  - Décret n°2003-440 du 14 mai 2003 - art. 1 () JORF 17 mai 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-440 du 14 mai 2003 - art. 3, v. init.
 
 _Cité par_:
 
@@ -26681,17 +26685,13 @@ _Cite_:
 
   - Directive 91-671 CEE 1991-12-16 art. 5 (Conseil)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
-
 
 ###### Article R412-2
 
-I. - En circulation, tout conducteur d'un véhicule à moteur, dont le poids total autorisé en charge n'excède pas 3,5 tonnes,
-et dont les sièges sont équipés de ceintures en application des dispositions du livre 3, doit s'assurer que les passagers
-âgés de moins de treize ans qu'il transporte sont maintenus soit par un système homologué de retenue pour enfant, soit par
-une ceinture de sécurité.
+I. - En circulation, tout conducteur d'un véhicule à moteur dont les sièges sont équipés de ceintures en application des
+dispositions du livre III, à l'exception des autobus et des autocars dont le poids total autorisé en charge excède 3,5
+tonnes, doit s'assurer que les passagers âgés de moins de treize ans qu'il transporte sont maintenus soit par un système
+homologué de retenue pour enfant, soit par une ceinture de sécurité.
 
 II. - De même, il doit s'assurer que tout enfant de moins de dix ans est retenu par un système homologué de retenue pour
 enfant adapté à sa morphologie et à son poids.
@@ -26711,7 +26711,7 @@ contraventions de la quatrième classe.
 
 **Nota:**
 
-NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
+NOTA : Décret 2003-440 art. 3 : Ces dispositions sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -26721,7 +26721,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-293 du 31 mars 2003 - art. 3 () JORF 1er avril 2003
+  - Décret n°2003-440 du 14 mai 2003 - art. 2 () JORF 17 mai 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-440 du 14 mai 2003 - art. 3, v. init.
 
 _Anciens textes_:
 
@@ -26736,10 +26740,6 @@ _Cite_:
 _Cité par_:
 
   - Code de la route. - art. R412-3 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R412-3
