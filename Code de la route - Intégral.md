@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2003-12-13
+Version Consolidée au 2004-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -21481,7 +21481,7 @@ _Cité par_:
 
 Un certificat d'immatriculation, dit "carte grise", établi dans les conditions fixées par le ministre chargé des transports,
 après avis du ministre de l'intérieur, est remis au propriétaire ; ce certificat indique le numéro d'immatriculation assigné
-au véhicule.
+au véhicule. Le certificat d'immatriculation peut comporter un coupon détachable.
 
 Dans le cas de véhicules de transport exceptionnel dont les dimensions ou le poids excèdent les limites réglementaires, la
 carte grise doit porter un signe distinctif ou une mention spéciale pour indiquer que le véhicule a fait l'objet d'une
@@ -21529,14 +21529,14 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2002-505 2002-04-08 art. 2 : application à Mayotte
   - TXT_SOURCE: Décret n°2002-505 du 8 avril 2002
   - TXT_SOURCE: Décret n°2002-505 du 8 avril 2002 - art. 2 (V)
+  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
   - SPEC_APPLI: Code de la route. - art. R322-14 (V)
 
 _Modifié par_:
 
-  - Décret n°2002-505 du 8 avril 2002 - art. 1 () JORF 13 avril 2002
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 7 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
 
 _Anciens textes_:
 
@@ -21561,15 +21561,18 @@ I. - La circulation à titre provisoire d'un véhicule, que celui-ci ait fait ou
 grise", est autorisée sous couvert d'un certificat d'immatriculation spécial W ou WW ou d'un certificat de transit ou d'un
 document équivalent délivré par les autorités compétentes d'un Etat membre de la Communauté européenne.
 
-II. - Les bénéficiaires et la durée de validité des certificats d'immatriculation spéciaux W ou WW ainsi que les conditions
-de leur attribution et de leur utilisation sont définis par arrêté du ministre chargé des transports pris après avis du
-ministre de l'intérieur.
+Lorsque le véhicule a fait l'objet de la délivrance d'une carte grise comportant un coupon détachable, sa circulation à titre
+provisoire est autorisée sous couvert de ce coupon dûment rempli.
+
+II. - Les bénéficiaires et la durée de validité du coupon détachable de la carte grise et des certificats d'immatriculation
+spéciaux W ou WW ainsi que les conditions de leur attribution et de leur utilisation sont définis par arrêté du ministre
+chargé des transports pris après avis du ministre de l'intérieur.
 
 III. - Est puni de l'amende prévue pour les contraventions de la 4e classe :
 
-1° Le fait pour toute personne d'utiliser un certificat d'immatriculation spécial W ou WW ou pour tout professionnel de
-l'automobile de délivrer un certificat d'immatriculation spécial WW sans respecter les dispositions du présent article ou
-celles prises pour son application ;
+1° Le fait pour toute personne d'utiliser un coupon détachable de carte grise, un certificat d'immatriculation spécial W ou
+WW ou pour tout professionnel de l'automobile de délivrer un certificat d'immatriculation spécial WW sans respecter les
+dispositions du présent article ou celles prises pour son application ;
 
 2° Le fait pour toute personne d'utiliser un certificat de transit ou un document équivalent délivré par les autorités
 compétentes d'un Etat membre de la Communauté européenne sans respecter les conditions de sa validité.
@@ -21582,9 +21585,13 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
+
 _Modifié par_:
 
-  - Décret n°2003-42 du 8 janvier 2003 - art. 2 () JORF 15 janvier 2003
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 8 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -21616,18 +21623,19 @@ _Cite_:
 En cas de changement de propriétaire d'un véhicule soumis à immatriculation et déjà immatriculé, l'ancien propriétaire doit
 adresser, dans les quinze jours suivant la mutation, au préfet du département du lieu d'immatriculation une déclaration
 l'informant de cette mutation et indiquant l'identité et le domicile déclarés par le nouveau propriétaire. Avant de remettre
-la carte grise à ce dernier, l'ancien propriétaire doit y porter d'une manière très lisible et inaltérable la mention vendu
-le ../../.... ou cédé le ../../.... (date de la mutation), suivie de sa signature, et découper la partie supérieure droite de
-ce document lorsqu'il comporte l'indication du coin à découper.
+la carte grise à ce dernier, l'ancien propriétaire doit y porter d'une manière très lisible et inaltérable la mention :
+"vendu le ../../...." ou "cédé le ../../...." (date de la mutation), suivie de sa signature, et soit découper la partie
+supérieure droite de ce document lorsqu'il comporte l'indication du coin à découper, soit remplir, s'il existe, le coupon
+détachable.
 
-En cas de vente à un professionnel n'agissant qu'en tant qu'intermédiaire, la carte grise doit être remise par celui-ci, dans
-les quinze jours suivant la transaction, au préfet du département de son domicile, accompagnée d'une déclaration d'achat d'un
-véhicule d'occasion. Cette déclaration d'achat est retournée après visa au professionnel en même temps que la carte grise du
-véhicule.
+En cas de vente à un professionnel n'agissant qu'en tant qu'intermédiaire, le coupon détachable ne doit pas être rempli et la
+carte grise doit être remise par celui-ci, dans les quinze jours suivant la transaction, au préfet du département de son
+domicile, accompagnée d'une déclaration d'achat d'un véhicule d'occasion. Cette déclaration d'achat est retournée après visa
+au professionnel en même temps que la carte grise du véhicule.
 
 Lors de la revente du véhicule, le dernier négociant propriétaire du véhicule doit remettre à l'acquéreur le certificat
 d'immatriculation sur lequel il aura porté la mention Revendu le .... à M ...., accompagné de la déclaration d'achat en sa
-possession.
+possession et remplir, s'il existe, le coupon détachable de ce certificat d'immatriculation.
 
 Dans chacun des cas définis aux alinéas précédents, la remise de la carte grise doit être accompagnée du certificat de non-
 opposition au transfert du certificat d'immatriculation et de l'attestation d'inscription ou de non-inscription de gage
@@ -21644,7 +21652,7 @@ prévue pour les contraventions de la quatrième classe.
 
 **Nota:**
 
-NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -21652,9 +21660,13 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
+
 _Modifié par_:
 
-  - Décret n°2003-293 2003-03-31 art. 7 I JORF 1er avril 2003
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 9 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -21675,10 +21687,6 @@ _Anciens textes_:
   - Code de la route - art. R200-2 (Ab)
   - Code de la route - art. R241 (Ab)
   - Code de la route R112, R159, R165, R185, R200-2, R241 (al. 1 et 4)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R322-5
@@ -21812,7 +21820,8 @@ _Anciens textes_:
 En cas de changement de domicile ou d'établissement d'affectation et dans le mois qui suit, tout propriétaire d'un véhicule
 soumis à immatriculation doit adresser au préfet du département de son nouveau domicile ou du nouvel établissement
 d'affectation, une demande d'un nouveau certificat d'immatriculation établie conformément aux règles fixées par le ministre
-chargé des transports, accompagnée de la carte grise du véhicule.
+chargé des transports, accompagnée de la carte grise du véhicule dont il conserve, s'il existe, le coupon détachable dûment
+rempli.
 
 Lorsqu'il s'agit d'un véhicule faisant l'objet soit d'un crédit-bail, soit d'un contrat de location de deux ans ou plus, la
 déclaration doit être adressée au préfet du département du nouveau domicile du locataire. Toutefois, pour tout véhicule
@@ -21832,6 +21841,15 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
+  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
+
+_Modifié par_:
+
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 10 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
+
 _Cité par_:
 
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
@@ -21847,20 +21865,17 @@ _Anciens textes_:
   - Code de la route - art. R241 (Ab)
   - Code de la route R114, R114-1, R159, R165, R185, R200-2, R241 (al. 1 et 4)
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
-
 
 ###### Article R322-8
 
 Toute transformation apportée à un véhicule soumis à immatriculation et déjà immatriculé, qu'il s'agisse d'une transformation
 notable ou de toute autre transformation susceptible de modifier les caractéristiques indiquées sur la carte grise, doit
 donner lieu de la part de son propriétaire à une déclaration adressée au préfet du département du lieu d'immatriculation
-accompagnée de la carte grise du véhicule aux fins de modification de cette dernière.
+accompagnée de la carte grise du véhicule aux fins de modification de cette dernière. Le propriétaire conserve, s'il existe,
+le coupon détachable dûment rempli.
 
 Cette déclaration est établie conformément à des règles fixées par le ministre chargé des transports et doit être effectuée
-dans les quinze jours qui suivent la transformation du véhicule.
+dans le mois qui suit la transformation du véhicule.
 
 Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas observer le délai, prévus au présent
 article, est puni de l'amende prévue pour les contraventions de la quatrième classe.
@@ -21878,6 +21893,16 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
+  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
+
+_Modifié par_:
+
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 11 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 13 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
+
 _Anciens textes_:
 
   - Code de la route - art. R115 (Ab)
@@ -21888,32 +21913,30 @@ _Anciens textes_:
   - Code de la route - art. R241 (Ab)
   - Code de la route R115, R159, R165, R185, R200-2, R241 (al. 1 et 4)
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
-
 
 ###### Article R322-9
 
 En cas de vente ou de cession à titre gratuit d'un véhicule pour destruction, à l'exception des cas visés à l'article L.
-326-11, le propriétaire remet la carte grise à un démolisseur, ou broyeur, agréé après y avoir apposé d'une manière très
-lisible et inaltérable, la mention "vendu le ../../.... (date de la mutation) pour destruction" ou "cédé le ../../.... (date
-de la mutation) pour destruction", suivie de sa signature, et avoir découpé la partie prévue à cet effet.
+327-2, le propriétaire remet la carte grise à un démolisseur, ou broyeur, agréé après y avoir apposé d'une manière très
+lisible et inaltérable, la mention " vendu le.. /.. /.... (date de la mutation) pour destruction " ou " cédé le.. /.. /....
+(date de la mutation) pour destruction ", suivie de sa signature, et avoir découpé la partie supérieure droite de ce
+document. Lorsque ce document comporte un coupon détachable, le propriétaire le découpe et l'adresse dûment rempli au préfet
+du département d'immatriculation du véhicule dans un délai de quinze jours.
 
-A défaut de carte grise, à l'exception des cas visés à l'article L. 326-11, le propriétaire remet soit un document officiel
+A défaut de carte grise, à l'exception des cas visés à l'article L. 327-2, le propriétaire remet soit un document officiel
 prouvant que la carte grise ne peut être fournie, soit un justificatif de propriété dans le cas d'un véhicule âgé de plus de
-vingt-cinq ans.
+vingt-cinq ans. 
 
 Le démolisseur, ou le broyeur, agréé remet en contrepartie au propriétaire, dans un délai de quinze jours à compter de la
-date de mutation du véhicule, un récépissé de prise en charge pour destruction.
+date de mutation du véhicule, un récépissé de prise en charge pour destruction. 
 
 Dans le même délai, le démolisseur, ou le broyeur, agréé transmet au préfet du département d'immatriculation du véhicule, un
 exemplaire du récépissé de prise en charge pour destruction et lui adresse en outre l'une des pièces mentionnées aux premier
-et deuxième alinéas du présent article.
+et deuxième alinéas du présent article. 
 
 Dans les quinze jours suivant le découpage ou le broyage du véhicule, le broyeur agréé en confirme la destruction au préfet
 du département du lieu d'immatriculation en lui transmettant le certificat de destruction correspondant. Le préfet procède
-alors à l'enregistrement de la destruction et à l'annulation de l'immatriculation.
+alors à l'enregistrement de la destruction et à l'annulation de l'immatriculation. 
 
 Un arrêté conjoint des ministres en charge des transports, de l'environnement, de l'intérieur et de l'industrie fixe les
 règles d'établissement du récépissé et du certificat de destruction.
@@ -21923,10 +21946,6 @@ règles d'établissement du récépissé et du certificat de destruction.
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-727 du 1 août 2003 - art. 13 () JORF 5 août 2003
 
 _Cité par_:
 
@@ -21944,6 +21963,14 @@ _Cité par_:
   - Code de l'environnement - art. R543-165 (V)
   - Code de l'énergie - art. D251-3 (V)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
+
+_Modifié par_:
+
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 12 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
+
 _Anciens textes_:
 
   - Code de la route - art. R116 (Ab)
@@ -21956,7 +21983,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L326-11 (T)
+  - Code de la route. - art. L327-2 (V)
 
 
 ###### Article R322-10
