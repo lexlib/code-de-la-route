@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2004-12-28
+Version Consolidée au 2005-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -330,9 +330,17 @@ _Cite_:
 
 ###### Article L110-3
 
-Les routes à grande circulation, quelle que soit leur appartenance domaniale, sont des routes qui assurent la continuité d'un
-itinéraire à fort trafic, justifiant des règles particulières en matière de police de la circulation. La liste des routes à
-grande circulation est fixée par décret.
+Les routes à grande circulation, quelle que soit leur appartenance domaniale, sont les routes qui permettent d'assurer la
+continuité des itinéraires principaux et, notamment, le délestage du trafic, la circulation des transports exceptionnels, des
+convois et des transports militaires et la desserte économique du territoire, et justifient, à ce titre, des règles
+particulières en matière de police de la circulation. La liste des routes à grande circulation est fixée par décret, après
+avis des collectivités et des groupements propriétaires des voies.
+
+Les collectivités et groupements propriétaires des voies classées comme routes à grande circulation communiquent au
+représentant de l'Etat dans le département, avant leur mise en oeuvre, les projets de modification des caractéristiques
+techniques de ces voies et toutes mesures susceptibles de rendre ces routes impropres à leur destination.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -340,6 +348,14 @@ _Codifié par_:
 
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+_Modifié par_:
+
+  - Loi n°2004-809 du 13 août 2004 - art. 22 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 _Cité par_:
 
@@ -459,7 +475,7 @@ l'infraction.
 La personne déclarée redevable en application des dispositions du présent article n'est pas responsable pénalement de
 l'infraction. Lorsque le tribunal de police, y compris par ordonnance pénale, fait application des dispositions du présent
 article, sa décision ne donne pas lieu à inscription au casier judiciaire, ne peut être prise en compte pour la récidive et
-n'entraîne pas retrait des points affectés au permis de conduire. Les règles sur la contrainte par corps ne sont pas
+n'entraîne pas retrait des points affectés au permis de conduire. Les règles sur la contrainte judiciaire ne sont pas
 applicables au paiement de l'amende.
 
 Les deuxième et troisième alinéas de l'article L. 121-2 sont applicables dans les mêmes circonstances.
@@ -471,9 +487,14 @@ _Codifié par_:
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-204 2004-03-09 art. 207 : champ d'application
+  - SPEC_APPLI: Code de la route. - art. L121-1 (V)
+
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 8 () JORF 13 juin 2003
+  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 _Cité par_:
 
@@ -493,10 +514,6 @@ _Anciens textes_:
 
   - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
   - Code de la route L21-2
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. L121-1 (V)
 
 _Cite_:
 
@@ -833,7 +850,7 @@ pas obtenu la qualité d'officier de police judiciaire peuvent, dans les conditi
 procédure pénale, exercer les attributions attachées à leur qualité d'agent de police judiciaire pour la recherche et la
 constatation des infractions prévues à l'article L. 130-1. 
 
-Les fonctionnaires du corps de maîtrise et d'application de la police nationale affectés à une circonscription territoriale
+Les fonctionnaires du corps d'encadrement et d'application de la police nationale affectés à une circonscription territoriale
 ne dépassant pas le ressort de la cour d'appel peuvent, dans les limites de cette circonscription et dans les conditions
 fixées par l'article 20 du code de procédure pénale, exercer les attributions attachées à leur qualité d'agent de police
 judiciaire pour la recherche et la constatation des mêmes catégories d'infractions. 
@@ -845,12 +862,7 @@ la chambre de l'instruction, conformément aux articles 224 à 229 du code de pr
 
 _Modifié par_:
 
-  - Loi n°2000-516 du 15 juin 2000 - art. 83
-
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Décret n°2004-1439 du 23 décembre 2004 - art. 21 (Ab)
 
 _Cite_:
 
