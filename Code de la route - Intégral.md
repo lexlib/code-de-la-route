@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2004-08-17
+Version Consolidée au 2004-09-04
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -15772,13 +15772,13 @@ exigées par le présent livre ;
 - véhicule d'intérêt général : véhicule d'intérêt général prioritaire ou bénéficiant de facilités de passage ;
 
 - véhicule d'intérêt général prioritaire : véhicule des services de police, de gendarmerie, des douanes, de lutte contre
-l'incendie et d'intervention des unités mobiles hospitalières ;
+l'incendie, d'intervention des unités mobiles hospitalières et du ministère de la justice affecté au transport des détenus ;
 
 - véhicule d'intérêt général bénéficiant de facilités de passage : ambulance de transport sanitaire, véhicule d'intervention
 d'Electricité de France et de Gaz de France, du service de la surveillance de la Société nationale des chemins de fer
-français, véhicule de transports de fonds de la Banque de France, du ministère de la justice affecté au transport de détenus,
-des associations médicales concourant à la permanence des soins, des médecins lorsqu'ils participent à la garde
-départementale et engin de service hivernal ;
+français, de transports de fonds de la Banque de France, des associations médicales concourant à la permanence des soins, des
+médecins lorsqu'ils participent à la garde départementale, engin de service hivernal et, sur autoroutes ou routes à deux
+chaussées séparées, véhicule d'intervention des services gestionnaires de ces voies ;
 
 - véhicule spécialisé dans les opérations de remorquage : véhicule dont l'aménagement comporte un engin de levage installé à
 demeure permettant le remorquage d'un véhicule en panne ou accidenté avec ou sans soulèvement du train avant ou du train
@@ -15992,7 +15992,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-209 du 4 mars 2004 - art. 1 () JORF 11 mars 2004
+  - Décret n°2004-935 du 30 août 2004 - art. 1 () JORF 4 septembre 2004
 
 
 ###### Article R311-2
