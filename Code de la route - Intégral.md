@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-04
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-3)](#2)
@@ -53,7 +53,7 @@ Version Consolidée au 2002-01-01
     - [Livre 4 : L'usage des voies (art. L411-2 à L443-1)](#50)
       - [Titre 1er : Dispositions générales (art. L411-2 à L417-1)](#51)
         - [Chapitre 1er : Pouvoirs de police de la circulation. (art. L411-2 à L411-7)](#52)
-        - [Chapitre 2 : Conduite des véhicules et circulation des piétons. (art. L412-1)](#53)
+        - [Chapitre 2 : Conduite des véhicules et circulation des piétons. (art. L412-1 à L412-2)](#53)
         - [Chapitre 3 : Vitesse. (art. L413-1)](#54)
         - [Chapitre 7 : Arrêt et stationnement. (art. L417-1)](#55)
       - [Titre 3 : Dispositions complémentaires applicables à la circulation de certains véhicules (art. L431-1)](#56)
@@ -819,21 +819,26 @@ voyageurs qui figurent sur une liste dressée dans des conditions fixées par d�
 
 5° Les officiers de port et les officiers de port adjoints ;
 
-6° Les contrôleurs des transports terrestres ;
+6° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre
+chargé des transports ;
 
 7° Les agents des douanes ;
 
 8° Les agents du concessionnaire d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage,
 agréés par le préfet ;
 
-9° Les agents verbalisateurs mentionnés à l'article L. 116-2 du code de la voirie routière.
+9° Les agents verbalisateurs mentionnés à l'article L. 116-2 du code de la voirie routière ;
+
+10° Les agents des exploitants d'aérodromes, assermentés et agréés par le préfet, pour les seules contraventions aux règles
+de stationnement dans l'emprise de l'aérodrome.
 
 La liste des contraventions que chaque catégorie d'agents mentionnée ci-dessus est habilitée à constater est fixée par décret
 en Conseil d'Etat.
 
 **Nota:**
 
-NOTA : L'ordonnance 2000-930 est entrée en vigueur le 1er juin 2001.
+NOTA : L'ordonnance 2000-1255 du 21 décembre 2000, n'ayant fait l'objet d'aucun projet de loi de ratification, est donc
+devenue caduque.
 
 **Liens relatifs à cet article**
 
@@ -876,7 +881,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-1255 du 21 décembre 2000 - art. 1 () JORF 23 décembre 2000 en vigueur le 1er juin 2001
+  - Loi n°2002-3 2002-01-03 art. 12 IV JORF 4 janvier 2002
 
 _Cite_:
 
@@ -928,11 +933,12 @@ _Cité par_:
 
 ###### Article L130-6
 
-Les infractions prévues à l'article L. 317-1 peuvent être constatées par les fonctionnaires chargés du contrôle des
-transports terrestres lorsqu'elles sont commises au moyen d'un véhicule à moteur ou d'un ensemble de véhicules soumis à
-l'obligation d'être équipés d'un appareil de contrôle dit chronotachygraphe.
+Les infractions prévues par les articles L. 224-5, L. 317-1 et L. 413-1 peuvent être constatées par les fonctionnaires ou
+agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre chargé des transports
+lorsqu'elles sont commises au moyen de véhicules affectés au transport routier de voyageurs ou de marchandises.
 
-Ces fonctionnaires ont accès à l'appareil de contrôle et à toutes ses composantes afin d'en vérifier l'intégrité.
+Ces fonctionnaires ont accès à l'appareil de contrôle, dit "chronotachygraphe", et à toutes ses composantes afin d'en
+vérifier l'intégrité, sur les véhicules soumis à l'obligation d'en être équipés.
 
 **Liens relatifs à cet article**
 
@@ -947,6 +953,10 @@ _Codifié par_:
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
+_Modifié par_:
+
+  - Loi n°2002-3 2002-01-03 art. 12 III JORF 4 janvier 2002
+
 _Anciens textes_:
 
   - Code de la route - art. L23-2 (Ab)
@@ -954,7 +964,9 @@ _Anciens textes_:
 
 _Cite_:
 
+  - Code de la route. - art. L224-5 (M)
   - Code de la route. - art. L317-1 (M)
+  - Code de la route. - art. L413-1 (M)
 
 
 ###### Article L130-7
@@ -7196,6 +7208,42 @@ _Cite_:
 
   - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+
+###### Article L412-2
+
+Est puni de six mois d'emprisonnement et de 3 750 Euros d'amende tout conducteur d'un véhicule à moteur qui, dans un tunnel,
+ne respecte pas la distance de sécurité suffisante entre deux véhicules ou la distance de 50 mètres pour les véhicules de
+plus de 3,5 tonnes, et qui commet la même infraction dans un délai d'un an à compter de la date à laquelle cette condamnation
+est devenue définitive. 
+
+Tout conducteur coupable de ce délit encourt également la peine complémentaire de suspension, pour une durée de trois ans au
+plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité professionnelle. 
+
+L'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles L. 325-1 à L.
+325-3.
+
+Ce délit donne lieu de plein droit à la réduction de la moitié du nombre de points initial du permis de conduire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Créé par_:
+
+  - Loi n°2002-3 du 3 janvier 2002 - art. 26 () JORF 4 janvier 2002
+
+_Cite_:
+
+  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1 (V)
+
+_Cité par_:
+
+  - Code de la route. - art. R212-4 (V)
 
 
 #### Chapitre 3 : Vitesse.<a id=54></a>
