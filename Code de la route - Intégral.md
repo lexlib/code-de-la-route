@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2004-07-02
+Version Consolidée au 2004-08-03
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -10107,16 +10107,18 @@ _Cité par_:
 
 ###### Article R211-2
 
-I. - Tout conducteur de cyclomoteur doit être âgé d'au moins quatorze ans.
+I.-Tout conducteur de cyclomoteur doit être âgé d'au moins quatorze ans. 
 
-II. - Tout conducteur de cyclomoteur doit être titulaire du brevet de sécurité routière ou du permis de conduire.
+II.-Tout conducteur de cyclomoteur doit être titulaire soit du brevet de sécurité routière ou d'un titre reconnu équivalent
+délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen dont la
+liste est fixée par arrêté du ministre chargé des transports, soit du permis de conduire. 
 
-III. - Le fait de contrevenir aux dispositions des deux alinéas précédents est puni de l'amende prévue pour les
-contraventions de la 2e classe.
+III.-Le fait de contrevenir aux dispositions des deux alinéas précédents est puni de l'amende prévue pour les contraventions
+de la 2e classe. 
 
-IV. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+IV.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
-V. - Les dispositions du II ne sont applicables qu'aux personnes qui atteindront l'âge de seize ans à compter du 1er janvier
+V.-Les dispositions du II ne sont applicables qu'aux personnes qui atteindront l'âge de seize ans à compter du 1er janvier
 2004. Jusqu'à cette date, ces dispositions sont applicables aux personnes qui n'ont pas atteint l'âge de seize ans.
 
 **Liens relatifs à cet article**
@@ -10124,10 +10126,6 @@ V. - Les dispositions du II ne sont applicables qu'aux personnes qui atteindront
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2002-675 du 30 avril 2002 - art. 1 () JORF 2 mai 2002
 
 **Liens**:
 
@@ -10147,6 +10145,7 @@ _Modifié par_:
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 7 (VT)
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe I (Ab)
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe II (Ab)
+  - SPEC_APPLI: Décret n°2004-795 2004-07-29 art. 3 : champ d'application
 
 _Cité par_:
 
@@ -10154,6 +10153,10 @@ _Cité par_:
   - Arrêté du 8 novembre 2012 - art. 1 (VD)
   - Arrêté du 30 janvier 2018 - art. 1
   - Code de la route. - art. R130-3 (M)
+
+_Modifié par_:
+
+  - Décret n°2004-795 du 29 juillet 2004 - art. 1 () JORF 3 août 2004
 
 _Anciens textes_:
 
@@ -10164,7 +10167,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1 (V)
 
 
 ##### Section 2 : Apprentissage de la conduite.<a id=78></a>
@@ -34589,15 +34592,18 @@ _Cite_:
 
 ###### Article R431-4
 
-I. - Tout conducteur de quadricycle léger à moteur doit être âgé d'au moins seize ans.
+I.-Tout conducteur de quadricycle léger à moteur doit être âgé d'au moins seize ans. 
 
-II. - Tout conducteur de quadricycle léger à moteur doit être titulaire du brevet de sécurité routière ou du permis de
-conduire.
+II.-Tout conducteur de quadricycle léger à moteur doit être titulaire soit du brevet de sécurité routière ou d'un titre
+reconnu équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
+économique européen dont la liste est fixée par arrêté du ministre chargé des transports, soit du permis de conduire. 
 
-III. - Le fait de contrevenir aux dispositions des deux alinéas précédents est puni de l'amende prévue pour les
-contraventions de la 2e classe.
+III.-Le fait de contrevenir aux dispositions des deux alinéas précédents est puni de l'amende prévue pour les contraventions
+de la 2e classe. 
 
-IV. - Les dispositions du II ne sont applicables qu'aux personnes qui atteindront l'âge de seize ans à compter du 1er janvier
+IV.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+V.-Les dispositions du II ne sont applicables qu'aux personnes qui atteindront l'âge de seize ans à compter du 1er janvier
 2004.
 
 **Liens relatifs à cet article**
@@ -34605,10 +34611,6 @@ IV. - Les dispositions du II ne sont applicables qu'aux personnes qui atteindron
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2002-675 du 30 avril 2002 - art. 4 () JORF 2 mai 2002
 
 **Liens**:
 
@@ -34628,19 +34630,30 @@ _Modifié par_:
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 7 (VT)
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe I (Ab)
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe II (Ab)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-  - SPEC_APPLI: Code de la route. - art. R433-6 (V)
+  - SPEC_APPLI: Décret n°2004-795 2004-07-29 art. 3 : champ d'application
 
 _Cité par_:
 
   - Arrêté du 17 décembre 2003 - art. 1 (VT)
 
+_Modifié par_:
+
+  - Décret n°2004-795 du 29 juillet 2004 - art. 2 () JORF 3 août 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 18 (V)
+
 _Anciens textes_:
 
   - Code de la route - art. R200-1 (Ab)
   - Code de la route - art. R233 (Ab)
-  - Code de la route R200-1 (al. 4), R233 (al. 1 et 2)
+  - Code de la route R233 (al. 1, al. 2)
+
+_Cite_:
+
+  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1
 
 
 ###### Article R431-5
