@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2003-08-05
+Version Consolidée au 2003-12-13
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -19416,17 +19416,16 @@ _Anciens textes_:
 
 ###### Article R317-8
 
-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur, à l'exception des cyclomoteurs à deux roues
-et des cyclomoteurs à trois roues non carrossés, des matériels de travaux publics et des véhicules et matériels agricoles ou
+I. Tout véhicule à moteur, à l'exception des matériels de travaux publics et des véhicules et matériels agricoles ou
 forestiers attachés à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou à une coopérative
 d'utilisation de matériel agricole, doit être muni de deux plaques d'immatriculation, portant le numéro assigné au véhicule
 et fixées en évidence d'une manière inamovible à l'avant et à l'arrière du véhicule.
 
-Toute motocyclette, tout tricycle ou quadricycle à moteur, tout cyclomoteur à trois roues muni d'une carrosserie peut ne
-porter qu'une plaque d'immatriculation, fixée en évidence d'une manière inamovible à l'arrière du véhicule.
+Toutefois, toute motocyclette, tout tricycle ou quadricycle à moteur, tout cyclomoteur peut ne porter qu'une plaque
+d'immatriculation, fixée en évidence d'une manière inamovible à l'arrière du véhicule.
 
-Toute remorque agricole, non attachée à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou à
-une coopérative d'utilisation de matériel agricole dont le poids total autorisé en charge est supérieur à 1,5 tonne, toute
+II. Toute remorque agricole, non attachée à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou
+à une coopérative d'utilisation de matériel agricole dont le poids total autorisé en charge est supérieur à 1,5 tonne, toute
 autre remorque dont le poids total autorisé en charge est supérieur à 500 kilogrammes, toute autre semi-remorque doit être
 munie d'une plaque d'immatriculation portant son numéro d'immatriculation et fixée en évidence, d'une manière inamovible, à
 l'arrière du véhicule.
@@ -19435,23 +19434,37 @@ La remorque arrière d'un ensemble, lorsqu'elle n'est pas soumise à cette oblig
 d'immatriculation reproduisant la plaque arrière du véhicule tracteur. La plaque de la remorque peut, dans ce cas, être
 amovible.
 
-Toutefois, toute remorque attelée à une motocyclette ou à un tricycle à moteur ne doit porter à l'arrière une plaque
-d'immatriculation reproduisant le numéro d'immatriculation du véhicule tracteur que si les dimensions de la remorque ou du
-chargement sont telles que la plaque d'immatriculation du véhicule tracteur n'est pas visible pour un observateur placé à
-l'arrière.
+Toutefois, toute remorque attelée à une motocyclette, à un cyclomoteur, à un quadricycle léger à moteur ou à un tricycle à
+moteur ne doit porter à l'arrière une plaque d'immatriculation reproduisant le numéro d'immatriculation du véhicule tracteur
+que si les dimensions de la remorque ou du chargement sont telles que la plaque d'immatriculation du véhicule tracteur n'est
+pas visible pour un observateur placé à l'arrière.
 
-Chaque plaque doit être maintenue dans un état d'entretien permettant la lecture des inscriptions qu'elle comporte.
+III. Chaque plaque doit être maintenue dans un état d'entretien permettant la lecture des inscriptions qu'elle comporte.
 
-Le ministre chargé des transports et le ministre de l'intérieur fixent par arrêté les caractéristiques et le mode de pose des
-plaques d'immatriculation.
+IV. Le ministre chargé des transports et le ministre de l'intérieur fixent par arrêté les caractéristiques et le mode de pose
+des plaques d'immatriculation.
 
-Le fait de faire circuler un véhicule à moteur ou une remorque sans qu'il soit muni des plaques ou inscriptions exigées par
-le présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+V. Le fait de faire circuler un véhicule à moteur ou une remorque sans qu'il soit muni des plaques ou inscriptions exigées
+par le présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
-Le fait de contrevenir aux dispositions du présent article relatives à l'entretien, aux caractéristiques ou au mode de pose
-des plaques d'immatriculation est puni de l'amende prévue pour les contraventions de la troisième classe.
+VI. Le fait de contrevenir aux dispositions du présent article relatives à l'entretien, aux caractéristiques ou au mode de
+pose des plaques d'immatriculation est puni de l'amende prévue pour les contraventions de la troisième classe.
 
-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+VII. L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Nota:**
+
+Nota : Décret 2003-1186 2003-12-11 art. 15 I (alinéa 1er) et II :
+
+Les dispositions des articles 1er à 5 du présent décret sont applicables à compter du 1er juillet 2004 aux cyclomoteurs mis
+pour la première fois en circulation postérieurement à cette date.
+
+Les dispositions des articles 1er à 5 du présent décret sont applicables aux cyclomoteurs mis pour la première fois en
+circulation avant le 1er juillet 2004 à compter des dates qui seront fixées par arrêté conjoint du ministre de l'intérieur et
+du ministre chargé des transports et ne pourront être postérieures au 30 juin 2009.
+
+Toutefois, à l'initiative de leurs propriétaires, les cyclomoteurs visés à l'alinéa précédent pourront faire l'objet dès le
+1er juillet 2004 d'une demande d'immatriculation dans les conditions prévues par ces dispositions.
 
 **Liens relatifs à cet article**
 
@@ -19470,9 +19483,13 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 (application à Mayotte)
+
 _Modifié par_:
 
-  - Décret n°2003-536 du 20 juin 2003 - art. 9 () JORF 22 juin 2003
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 1 () JORF 13 décembre 2003
 
 _Anciens textes_:
 
@@ -21383,6 +21400,92 @@ _Cité par_:
   - Code de la route. - art. R342-2 (V)
 
 
+###### Article R*322-12-1
+
+Le certificat d'immatriculation des cyclomoteurs à deux roues est délivré par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-1186 du 11 décembre 2003 (V)
+
+_Abrogé par_:
+
+  - Décret n°2009-136 du 9 février 2009 - art. 6
+
+
+###### Article R*322-12-2
+
+I. - Les dispositions de la présente section sont applicables aux cyclomoteurs à deux roues sous réserve des dérogations
+suivantes :
+
+1° A l'exception des certificats d'immatriculation spéciaux visés au I de l'article R. 322-3, toute demande d'immatriculation
+est adressée au ministre de l'intérieur ;
+
+2° La demande d'immatriculation d'un véhicule en vue de sa première mise en circulation est présentée par le vendeur
+professionnel de celui-ci dans un délai de dix jours à compter de la date de la vente ; cette demande peut être adressée par
+voie électronique ;
+
+3° Les autres demandes d'immatriculation sont présentées par le propriétaire du véhicule ou, si celui-ci souhaite adresser sa
+demande par voie électronique, par un vendeur professionnel ;
+
+4° Les vendeurs professionnels visés aux 2° et 3° ne peuvent adresser une demande d'immatriculation par voie électronique
+qu'après avoir passé une convention à cette fin avec l'Etat ;
+
+5° Le récépissé d'une demande d'immatriculation adressée par voie électronique permet de circuler, dans l'attente de la
+délivrance du titre demandé, pendant un délai d'un mois.
+
+Un arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports précise les conditions d'application du
+présent I, et notamment le contenu des conventions relatives à la transmission par voie électronique des demandes
+d'immatriculation et les modalités de contrôle des vendeurs professionnels conventionnés.
+
+II. - Le fait de ne pas respecter les dispositions du 2° du I du présent article est puni de l'amende prévue pour les
+contraventions de la 4e classe.
+
+III. - Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2
+du code pénal, de l'infraction définie au II du présent article. La peine encourue par les personnes morales est l'amende
+suivant les modalités prévues par l'article 131-41 du code pénal..
+
+**Nota:**
+
+Décret 2003-1186 2003-12-11 art. 15 I (alinéa 1er) et II : 
+
+Les dispositions des articles 1er à 5 du présent décret sont applicables à compter du 1er juillet 2004 aux cyclomoteurs mis
+pour la première fois en circulation postérieurement à cette date. 
+
+Les dispositions des articles 1er à 5 du présent décret sont applicables aux cyclomoteurs mis pour la première fois en
+circulation avant le 1er juillet 2004 à compter des dates qui seront fixées par arrêté conjoint du ministre de l'intérieur et
+du ministre chargé des transports et ne pourront être postérieures au 30 juin 2009. 
+
+Toutefois, à l'initiative de leurs propriétaires, les cyclomoteurs visés à l'alinéa précédent pourront faire l'objet dès le
+1er juillet 2004 d'une demande d'immatriculation dans les conditions prévues par ces dispositions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
+
+_Créé par_:
+
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 3 () JORF 13 décembre 2003
+
+_Abrogé par_:
+
+  - Décret n°2009-136 du 9 février 2009 - art. 6
+
+_Cite_:
+
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-41
+  - Code de la route. - art. R322-3
+
+
 ###### Article R322-1
 
 Tout propriétaire d'un véhicule à moteur, d'une remorque dont le poids total autorisé en charge est supérieur à 500
@@ -21405,9 +21508,6 @@ lorsque ce véhicule doit être affecté à titre principal à un établissement
 établissement, la demande doit être adressée au préfet du département de cet établissement. Le propriétaire doit justifier de
 son identité et déclarer, selon le cas, l'adresse du domicile du locataire ou celle de l'établissement d'affectation.
 
-Les dispositions du présent article ne sont applicables ni aux cyclomoteurs à trois roues non munis d'une carrosserie ni aux
-cyclomoteurs à deux roues.
-
 Les dispositions du présent article ne sont pas applicables aux machines agricoles automotrices et aux véhicules ou appareils
 agricoles remorqués, appartenant à une exploitation agricole, à une entreprise de travaux agricoles ou à une coopérative
 d'utilisation de matériel agricole, ainsi qu'aux véhicules ou appareils agricoles remorqués dont le poids total en charge est
@@ -21418,6 +21518,20 @@ présent article.
 
 Le fait, pour tout propriétaire, de mettre en circulation un véhicule sans avoir obtenu un certificat d'immatriculation est
 puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+**Nota:**
+
+Nota : Décret 2003-1186 2003-12-11 art. 15 I (alinéa 1er) et II :
+
+Les dispositions des articles 1er à 5 du présent décret sont applicables à compter du 1er juillet 2004 aux cyclomoteurs mis
+pour la première fois en circulation postérieurement à cette date.
+
+Les dispositions des articles 1er à 5 du présent décret sont applicables aux cyclomoteurs mis pour la première fois en
+circulation avant le 1er juillet 2004 à compter des dates qui seront fixées par arrêté conjoint du ministre de l'intérieur et
+du ministre chargé des transports et ne pourront être postérieures au 30 juin 2009.
+
+Toutefois, à l'initiative de leurs propriétaires, les cyclomoteurs visés à l'alinéa précédent pourront faire l'objet dès le
+1er juillet 2004 d'une demande d'immatriculation dans les conditions prévues par ces dispositions.
 
 **Liens relatifs à cet article**
 
@@ -21437,9 +21551,13 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 (application à Mayotte)
+
 _Modifié par_:
 
-  - Décret n°2003-536 du 20 juin 2003 - art. 12 () JORF 22 juin 2003
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 2 () JORF 13 décembre 2003
 
 _Cité par_:
 
@@ -21668,8 +21786,8 @@ _Anciens textes_:
 ###### Article R322-5
 
 I. - Le nouveau propriétaire d'un véhicule déjà immatriculé doit, s'il veut le maintenir en circulation, faire établir, dans
-un délai de quinze jours à compter de la date de la mutation portée sur la carte grise, un certificat d'immatriculation à son
-nom. A cet effet, il doit adresser au préfet compétent en application des dispositions de l'article R. 322-1 une demande de
+un délai d'un mois à compter de la date de la mutation portée sur la carte grise, un certificat d'immatriculation à son nom.
+A cet effet, il doit adresser au préfet compétent en application des dispositions de l'article R. 322-1 une demande de
 certificat d'immatriculation d'un véhicule accompagnée :
 
 1° De la carte grise qui lui a été remise par l'ancien propriétaire ;
@@ -21680,15 +21798,10 @@ immatriculation, de transformation susceptible de modifier les indications de la
 3° De la preuve, pour tout véhicule soumis à visite technique, que celui-ci répond aux conditions requises pour être maintenu
 en circulation conformément aux dispositions du chapitre III du présent titre ;
 
-4° Du certificat de non-opposition au transfert du certificat d'immatriculation et de l'attestation d'inscription ou de non-
-inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet
-compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site
-internet du ministère de l'intérieur.
-
-5° D'une déclaration d'achat en cas de vente du véhicule par un professionnel.
+4° D'une déclaration d'achat en cas de vente du véhicule par un professionnel.
 
 II. - La carte grise portant la mention de la mutation ou de la revente par un professionnel n'est valable pour la
-circulation du véhicule que pendant une durée de quinze jours à compter de ladite mutation ou de ladite revente.
+circulation du véhicule que pendant une durée d'un mois à compter de ladite mutation ou de ladite revente.
 
 III. - Le ministre chargé des transports définit par arrêté pris après avis du ministre de l'intérieur les conditions
 d'application du présent article, notamment en ce qui concerne les véhicules vendus par les domaines, aux enchères publiques
@@ -21699,10 +21812,6 @@ d'immatriculation dans les conditions fixées au présent article est puni de l'
 quatrième classe.
 
 L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
-
-**Nota:**
-
-NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -21726,7 +21835,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-293 2003-03-31 art. 7 II, III, IV JORF 1er avril 2003
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 13 () JORF 13 décembre 2003
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 14 () JORF 13 décembre 2003
 
 _Cité par_:
 
@@ -21748,15 +21858,15 @@ _Cite_:
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
+  - SPEC_APPLI: Décret n°2003-1186 2003-12-13 art. 17 : (application à Mayotte)
 
 
 ###### Article R322-6
 
 Si le nouveau propriétaire d'un véhicule déjà immatriculé ne désire pas maintenir celui-ci en circulation, il doit renvoyer
 au préfet du département du lieu d'immatriculation du véhicule la carte grise accompagnée d'une déclaration l'informant de ce
-retrait de la circulation. Cette déclaration doit être adressée dans un délai de quinze jours à compter de la date de la
-mutation portée sur la carte grise.
+retrait de la circulation. Cette déclaration doit être adressée dans un délai d'un mois à compter de la date de la mutation
+portée sur la carte grise.
 
 Il sera alors procédé à l'annulation de la carte grise du véhicule.
 
@@ -21771,6 +21881,15 @@ article est puni de l'amende prévue pour les contraventions de la quatrième cl
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
+  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
+
+_Modifié par_:
+
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 13 () JORF 13 décembre 2003
 
 _Cité par_:
 
@@ -21788,10 +21907,6 @@ _Anciens textes_:
   - Code de la route - art. R200-2 (Ab)
   - Code de la route - art. R241 (Ab)
   - Code de la route R113-1, R159, R165, R185, R200-2, R241 (al. 1 et 4)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
 
 
 ###### Article R322-7
@@ -23513,17 +23628,36 @@ II. - La fiche d'immobilisation énonce les date, heure et lieu de l'immobilisat
 affectations des agents qui la rédigent et précise la résidence de l'officier de police judiciaire qualifié pour lever la
 mesure.
 
-III. - Lorsqu'il s'agit d'un cyclomoteur à deux roues, seule la fiche d'immobilisation est remise par l'agent à l'officier de
-police judiciaire territorialement compétent.
-
-IV. - Par dérogation aux dispositions du I ci-dessus, si la mesure a été motivée par le franchissement d'une barrière de
+III. - Par dérogation aux dispositions du I ci-dessus, si la mesure a été motivée par le franchissement d'une barrière de
 dégel, l'autorité saisie est l'ingénieur des ponts et chaussées ou, s'il s'agit d'une voie communale, le maire.
+
+**Nota:**
+
+Nota : Décret 2003-1186 2003-12-11 art. 15 I (alinéa 1er) et II :
+
+Les dispositions des articles 1er à 5 du présent décret sont applicables à compter du 1er juillet 2004 aux cyclomoteurs mis
+pour la première fois en circulation postérieurement à cette date.
+
+Les dispositions des articles 1er à 5 du présent décret sont applicables aux cyclomoteurs mis pour la première fois en
+circulation avant le 1er juillet 2004 à compter des dates qui seront fixées par arrêté conjoint du ministre de l'intérieur et
+du ministre chargé des transports et ne pourront être postérieures au 30 juin 2009.
+
+Toutefois, à l'initiative de leurs propriétaires, les cyclomoteurs visés à l'alinéa précédent pourront faire l'objet dès le
+1er juillet 2004 d'une demande d'immatriculation dans les conditions prévues par ces dispositions.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 (application à Mayotte)
+
+_Modifié par_:
+
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 4 () JORF 13 décembre 2003
 
 _Anciens textes_:
 
@@ -23911,8 +24045,8 @@ _Anciens textes_:
 
 I. - Lorsque le propriétaire du véhicule faisant l'objet de la mise en fourrière est domicilié ou réside dans le ressort de
 l'officier de police judiciaire qui exécute cette mesure, celui-ci peut faire garder le véhicule par son propriétaire, à
-condition que le certificat d'immatriculation soit immédiatement retiré sauf lorsqu'il s'agit d'un cyclomoteur à deux roues.
-Ce document reçoit la destination prévue à l'article R. 325-34.
+condition que le certificat d'immatriculation soit immédiatement retiré. Ce document reçoit la destination prévue à l'article
+R. 325-34.
 
 II. - Dans cette hypothèse, l'autorité dont relève la fourrière est :
 
@@ -23921,11 +24055,33 @@ de police judiciaire ;
 
 2° Soit le préfet, dans les autres cas.
 
+**Nota:**
+
+Nota : Décret 2003-1186 2003-12-11 art. 15 I (alinéa 1er) et II :
+
+Les dispositions des articles 1er à 5 du présent décret sont applicables à compter du 1er juillet 2004 aux cyclomoteurs mis
+pour la première fois en circulation postérieurement à cette date.
+
+Les dispositions des articles 1er à 5 du présent décret sont applicables aux cyclomoteurs mis pour la première fois en
+circulation avant le 1er juillet 2004 à compter des dates qui seront fixées par arrêté conjoint du ministre de l'intérieur et
+du ministre chargé des transports et ne pourront être postérieures au 30 juin 2009.
+
+Toutefois, à l'initiative de leurs propriétaires, les cyclomoteurs visés à l'alinéa précédent pourront faire l'objet dès le
+1er juillet 2004 d'une demande d'immatriculation dans les conditions prévues par ces dispositions.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 (application à Mayotte)
+
+_Modifié par_:
+
+  - Décret n°2003-1186 du 11 décembre 2003 - art. 5 () JORF 13 décembre 2003
 
 _Anciens textes_:
 
