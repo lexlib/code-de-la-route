@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2003-07-22
+Version Consolidée au 2003-08-05
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -109,7 +109,7 @@ Version Consolidée au 2003-07-22
         - [Chapitre IV : Dispositions applicables à la Polynésie française. (art. R244-1)](#106)
         - [Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. R245-1)](#107)
     - [Livre III : Le véhicule. (art. R311-1 à R343-4)](#108)
-      - [Titre Ier : Dispositions techniques. (art. R311-1 à R318-8)](#109)
+      - [Titre Ier : Dispositions techniques. (art. R311-1 à R318-10)](#109)
         - [Chapitre Ier : Dispositions générales et définitions. (art. R311-1 à R311-3)](#110)
         - [Chapitre II : Poids et dimensions (art. R312-1 à R312-25)](#111)
           - [Section 1 : Poids. (art. R312-1 à R312-9)](#112)
@@ -128,7 +128,7 @@ Version Consolidée au 2003-07-22
           - [Section 4 : Attelage des remorques. (art. R317-18 à R317-20)](#125)
           - [Section 5 : Remorquage des véhicules en panne ou accidentés. (art. R317-21 à R317-22)](#126)
           - [Section 6 : Autres aménagements. (art. R317-23 à R317-28)](#127)
-        - [Chapitre VIII : Energie, émissions polluantes et nuisances. (art. R318-1 à R318-8)](#128)
+        - [Chapitre VIII : Energie, émissions polluantes et nuisances. (art. R318-1 à R318-10)](#128)
       - [Titre II : Dispositions administratives. (art. R321-1 à R327-20)](#129)
         - [Chapitre Ier : Réception et homologation (art. R321-1 à R321-24)](#130)
           - [Section 1 : Dispositions générales. (art. R321-1 à R321-5)](#131)
@@ -20236,6 +20236,53 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R318-6 (V)
 
 
+###### Article R318-10
+
+I. - Les voitures particulières et les camionnettes doivent être construites de façon à limiter l'utilisation de substances
+dangereuses, au sens de la directive 67/548 du Conseil du 27 juin 1967 modifiée concernant le rapprochement des dispositions
+législatives, réglementaires et administratives relatives à la classification, l'emballage et l'étiquetage des substances
+dangereuses, afin de prévenir le rejet de ces substances dans l'environnement, de faciliter le recyclage des composants et
+matériaux des véhicules et d'éviter d'avoir à éliminer des déchets dangereux au sens du décret n° 2002-540 du 18 avril 2002
+relatif à la classification des déchets.
+
+Un arrêté conjoint des ministres chargés des transports, de l'environnement et de l'industrie fixe les conditions
+d'utilisation du plomb, du mercure, du cadmium et du chrome hexavalent dans les composants et matériaux des véhicules.
+
+II. - Les voitures particulières et les camionnettes doivent être construites de façon à faciliter leur démontage et leur
+dépollution lors de leur destruction ultérieure ainsi que le réemploi ou la valorisation, en particulier le recyclage, de
+leurs composants et matériaux.
+
+Les composants et matériaux de ces véhicules font l'objet d'une codification afin de faciliter l'identification de ceux qui
+peuvent être réemployés et valorisés.
+
+Un arrêté conjoint des ministres chargés des transports, de l'environnement et de l'industrie fixe les modalités
+d'application du présent II.
+
+III. - Le respect des dispositions des I et II ci-dessus est vérifié lors de la réception communautaire prévue par les
+articles R. 321-6 à R. 321-14 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2003-727 du 1 août 2003 - art. 3 () JORF 5 août 2003
+
+_Cité par_:
+
+  - Arrêté du 24 décembre 2004 - art. 1 (Ab)
+  - Code de l'environnement - art. R543-126 (V)
+  - Code de l'environnement - art. R543-153 (V)
+  - Code de l'environnement - art. R543-169 (V)
+
+_Cite_:
+
+  - Directive 67-548 CEE 1967-06-27 (Conseil)
+
+
 ### Titre II : Dispositions administratives.<a id=129></a>
 
 #### Chapitre Ier : Réception et homologation<a id=130></a>
@@ -21604,24 +21651,38 @@ _Anciens textes_:
 
 ###### Article R322-9
 
-En cas de vente d'un véhicule en vue de sa destruction, l'ancien propriétaire doit adresser dans les quinze jours suivant la
-transaction au préfet du département du lieu d'immatriculation une déclaration informant de la vente du véhicule en vue de sa
-destruction et indiquant l'identité et le domicile déclarés par l'acquéreur. Il accompagne cette déclaration de la carte
-grise, dont il aura découpé la partie supérieure droite lorsque ce document comporte l'indication du coin à découper.
+En cas de vente ou de cession à titre gratuit d'un véhicule pour destruction, à l'exception des cas visés à l'article L.
+326-11, le propriétaire remet la carte grise à un démolisseur, ou broyeur, agréé après y avoir apposé d'une manière très
+lisible et inaltérable, la mention "vendu le ../../.... (date de la mutation) pour destruction" ou "cédé le ../../.... (date
+de la mutation) pour destruction", suivie de sa signature, et avoir découpé la partie prévue à cet effet.
 
-En cas de destruction d'un véhicule par son propriétaire, celui-ci doit adresser au préfet du département du lieu
-d'immatriculation, dans les quinze jours qui suivent, une déclaration de destruction, accompagnée de la carte grise dont il
-aura découpé la partie supérieure droite lorsque ce document comporte l'indication du coin à découper. La déclaration de
-destruction est établie conformément à des règles fixées par le ministre chargé des transports.
+A défaut de carte grise, à l'exception des cas visés à l'article L. 326-11, le propriétaire remet soit un document officiel
+prouvant que la carte grise ne peut être fournie, soit un justificatif de propriété dans le cas d'un véhicule âgé de plus de
+vingt-cinq ans.
 
-Le fait, pour tout propriétaire, de ne pas effectuer les déclarations ou de ne pas observer les délais prévus au présent
-article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+Le démolisseur, ou le broyeur, agréé remet en contrepartie au propriétaire, dans un délai de quinze jours à compter de la
+date de mutation du véhicule, un récépissé de prise en charge pour destruction.
+
+Dans le même délai, le démolisseur, ou le broyeur, agréé transmet au préfet du département d'immatriculation du véhicule, un
+exemplaire du récépissé de prise en charge pour destruction et lui adresse en outre l'une des pièces mentionnées aux premier
+et deuxième alinéas du présent article.
+
+Dans les quinze jours suivant le découpage ou le broyage du véhicule, le broyeur agréé en confirme la destruction au préfet
+du département du lieu d'immatriculation en lui transmettant le certificat de destruction correspondant. Le préfet procède
+alors à l'enregistrement de la destruction et à l'annulation de l'immatriculation.
+
+Un arrêté conjoint des ministres en charge des transports, de l'environnement, de l'intérieur et de l'industrie fixe les
+règles d'établissement du récépissé et du certificat de destruction.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-727 du 1 août 2003 - art. 13 () JORF 5 août 2003
 
 _Cité par_:
 
@@ -21650,9 +21711,9 @@ _Anciens textes_:
   - Code de la route - art. R241 (Ab)
   - Code de la route R116, R159, R165, R185, R200-2, R241 (al. 1 et 4)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
+  - Code de la route. - art. L326-11 (T)
 
 
 ###### Article R322-10
@@ -24314,13 +24375,25 @@ _Cite_:
 
 Le service des domaines informe le préfet du département ou, à Paris, le préfet de police de l'aliénation du véhicule ou de
 la nécessité de le détruire s'il n'a pas trouvé preneur. La destruction d'un véhicule ne peut être réalisée que dans des
-installations classées pour la protection de l'environnement.
+installations classées pour la protection de l'environnement. 
+
+S'il s'agit d'un véhicule hors d'usage au sens de l'article 1er du décret n° 2003-727 du 1er août 2003 relatif à la
+construction des véhicules et à l'élimination des véhicules hors d'usage, la destruction doit être opérée par un démolisseur,
+ou un broyeur, agréé.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Cite_:
+
+  - Décret n°2003-727 du 1 août 2003 - art. 1 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2003-727 du 1 août 2003 - art. 19 () JORF 5 août 2003
 
 _Anciens textes_:
 
@@ -24330,57 +24403,56 @@ _Anciens textes_:
 
 ###### Article R325-45
 
-I. - Le responsable de l'entreprise chargée de la destruction d'un véhicule prend en charge celui-ci en remettant au gardien
-de la fourrière un bon d'enlèvement délivré par l'autorité dont relève la fourrière. Il rend compte de la destruction dudit
+I.-Le responsable de l'entreprise chargée de la destruction d'un véhicule prend en charge celui-ci en remettant au gardien de
+la fourrière un bon d'enlèvement délivré par l'autorité dont relève la fourrière. Il rend compte de la destruction dudit
 véhicule à l'autorité dont relève la fourrière, à l'autorité qui a prononcé la mainlevée de mise en fourrière, ainsi qu'au
-préfet du département ou, à Paris, au préfet de police.
+préfet du département ou, à Paris, au préfet de police. 
 
-II. - Les collectivités concernées peuvent passer contrat avec des entreprises appelées à effectuer la destruction des
-véhicules.
+II. Les autorités dont relèvent les fourrières, définies aux articles R. 325-20 et R. 325-21, peuvent passer contrat avec des
+entreprises appelées à effectuer la destruction des véhicules. 
 
-III. - Ce contrat doit comporter obligatoirement les clauses suivantes :
+III.-Ce contrat doit comporter obligatoirement les clauses suivantes : 
 
-1° Obligations de l'entreprise contractante :
+1° Obligations de l'entreprise contractante : 
 
-L'entreprise s'engage sur le territoire de (...) :
+L'entreprise s'engage sur le territoire de (...) : 
 
-a) A enlever en vue de leur destruction, à la demande de l'autorité publique contractante ou de telle autorité qu'elle
-désignera, les véhicules que celle-ci lui aura désignés, quel que soit le lieu où ils se trouvent - voie publique (chaussée
-et dépendances), lieu de fourrière et même lieu privé dès lors que celui-ci est accessible sans difficulté majeure et quel
-que soit leur état ;
+a) A retirer et détruire les véhicules mis en fourrière et désignés par l'autorité dont relève cette fourrière ; 
 
-b) A effectuer cet enlèvement dans un délai maximal de quinze jours à compter de la date de la demande d'enlèvement qu'elle
-aura reçue ;
+b) A retirer de fourrière les véhicules ainsi désignés dans le délai maximal de quinze jours à compter de la demande de
+retrait ; 
 
 c) A adresser au service de police ou de gendarmerie, dès la destruction complète du véhicule et dans le délai maximal de
-trois mois à compter de la date de la demande, le certificat d'immatriculation revêtu de la mention "Détruit" (suivie du
+trois mois à compter de la date de la demande, le certificat d'immatriculation revêtu de la mention " Détruit " (suivie du
 cachet de l'entreprise et de la signature de son représentant) ou, si elle n'a pu entrer en possession de ce titre, une
-attestation certifiant cette impossibilité ;
+attestation certifiant cette impossibilité ; 
 
-2° Obligations de l'autorité publique contractante :
+2° Obligations de l'autorité cocontractante dont relève la fourrière 
 
-L'autorité publique s'engage :
+L'autorité publique s'engage : 
 
 a) A désigner et réserver à la seule entreprise contractante toutes opérations d'enlèvement ou de destruction de véhicules
 auxquelles elle entendra faire procéder dans les conditions prévues par les articles L. 325-1 et suivants à moins que le
 propriétaire du véhicule n'ait demandé à le faire retirer de la fourrière par un réparateur de son choix, conformément aux
-dispositions de l'article L. 325-6 ;
+dispositions de l'article L. 325-6 ; 
 
-b) A lui accorder le titre d'entreprise d'enlèvement et de destruction des véhicules agréée par l'administration ;
+b) Paragraphe supprimé ; 
 
-c) A désigner son chantier de démolition comme lieu de fourrière pour les véhicules visés au quatrième alinéa de l'article L.
-325-7.
+c) Paragraphe supprimé ; 
 
-3° Droits de l'entreprise contractante :
+3° Droits de l'entreprise contractante : 
 
-En contrepartie de ses obligations, l'entreprise a le droit :
+En contrepartie de ses obligations, l'entreprise a le droit : 
 
 a) De réclamer aux propriétaires des véhicules mis, sur la demande de l'autorité publique, en fourrière sur son chantier le
 paiement, conformément au tarif approuvé par l'autorité publique, des frais de transfert et de garde en fourrière à la
-condition que son chantier soit clôturé ou soit gardé jour et nuit ;
+condition que son chantier soit clôturé ou soit gardé jour et nuit. Toutefois, s'agissant des véhicules hors d'usage au sens
+de l'article 1er du décret n° 2003-727 du 1er août 2003 relatif à la construction des véhicules et à l'élimination des
+véhicules hors d'usage, et sous réserve des dispositions de l'article 5 de ce décret, seuls les frais de transfert peuvent
+éventuellement donner lieu à facturation ; 
 
 b) En cas de démolition du véhicule, de récupérer tout accessoire et toute pièce détachée en vue de sa revente après, en cas
-de besoin, remise en état ;
+de besoin, remise en état ; 
 
 c) Après démolition et si l'entreprise effectue elle-même la destruction complète du véhicule, de disposer librement des
 matières ayant une valeur marchande (fer, cuivre, etc.).
@@ -24399,9 +24471,14 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (M)
-  - Code de la route. - art. L325-6 (M)
-  - Code de la route. - art. L325-7 (M)
+  - Décret n°2003-727 du 1 août 2003 - art. 1 (Ab)
+  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-6 (V)
+  - Code de la route. - art. R325-20 (V)
+
+_Modifié par_:
+
+  - Décret n°2003-727 du 1 août 2003 - art. 19 () JORF 5 août 2003
 
 _Cité par_:
 
