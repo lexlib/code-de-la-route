@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2003-04-01
+Version Consolidée au 2003-05-11
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -7960,7 +7960,8 @@ _Anciens textes_:
 
 ###### Article R110-3
 
-Le présent code ne s'applique pas aux véhicules circulant sur les voies ferrées empruntant l'assiette des routes.
+Le présent code ne s'applique pas aux véhicules de transport public assujettis à suivre, de façon permanente, une trajectoire
+déterminée par un ou des rails matériels et empruntant l'assiette des routes.
 
 Toutefois, les conducteurs de ces véhicules sont tenus de respecter les signaux comportant des prescriptions absolues ainsi
 que les indications données par les agents réglant la circulation routière.
@@ -7979,6 +7980,10 @@ _Anciens textes_:
 
   - Code de la route - art. R228 (Ab)
   - Code de la route R228 (al. 1 à 3 et 5)
+
+_Modifié par_:
+
+  - Décret n°2003-425 2003-05-07 art. 68 JORF 11 mai 2003
 
 
 ### Titre II : Responsabilité.<a id=65></a>
@@ -29735,8 +29740,9 @@ _Anciens textes_:
 
 ###### Article R414-13
 
-Il est interdit à tout conducteur de dépasser un train ou un tramway à l'arrêt pendant la montée ou la descente des voyageurs
-du côté où elle s'effectue.
+Il est interdit à tout conducteur de dépasser un train ou un véhicule de transport public assujetti à suivre, de façon
+permanente, une trajectoire déterminée par un ou des rails matériels et empruntant l'assiette des routes, à l'arrêt pendant
+la montée ou la descente des voyageurs du côté où elle s'effectue.
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
@@ -29757,6 +29763,10 @@ _Anciens textes_:
 
   - SPEC_APPLI: Code de la route. - art. R432-1 (V)
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+_Modifié par_:
+
+  - Décret n°2003-425 2003-05-07 art. 68 II JORF 11 mai 2003
 
 
 ###### Article R414-14
@@ -32338,8 +32348,10 @@ _Anciens textes_:
 ###### Article R422-3
 
 I. - Lorsqu'une voie ferrée est établie sur une route ou la traverse à niveau, la priorité de passage appartient aux
-matériels circulant normalement sur cette voie ferrée, à l'exception des tramways dont les conducteurs doivent respecter les
-signalisations comportant des prescriptions absolues et les indications données par les agents réglant la circulation.
+matériels circulant normalement sur cette voie ferrée, à l'exception des véhicules de transport public assujettis à suivre,
+de façon permanente, une trajectoire déterminée par un ou des rails matériels et empruntant l'assiette des routes, dont les
+conducteurs doivent respecter les signalisations comportant des prescriptions absolues et les indications données par les
+agents réglant la circulation.
 
 II. - Aucun conducteur ne doit s'engager sur un passage à niveau si son véhicule risque, du fait de ses caractéristiques
 techniques ou des conditions de circulation, d'y être immobilisé. Lorsqu'un passage à niveau est muni de barrières ou de
@@ -32388,6 +32400,10 @@ _Anciens textes_:
 
   - SPEC_APPLI: Code de la route. - art. R432-1 (V)
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+_Modifié par_:
+
+  - Décret n°2003-425 2003-05-07 art. 68 II JORF 11 mai 2003
 
 
 ###### Article R422-4
