@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2001-06-01
+Version Consolidée au 2001-08-28
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-3)](#2)
@@ -7465,12 +7465,8 @@ Les agents de police judiciaire adjoints mentionnés au 2° de l'article 21 du c
 procès-verbal, lorsqu'elles sont commises à l'intérieur du territoire communal sur les voies autres que les autoroutes, les
 contraventions aux articles R. 644-2 et R. 653-1 du code pénal commises à l'occasion de la conduite d'un véhicule, les
 contraventions aux dispositions du présent code à l'exception de celles commises par les piétons et celles prévues aux
-articles R. 221-17, R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 317-29, R. 321-4 (alinéas 1 à 4), R. 411-36, R. 411-32, R.
-412-17, R. 412-51, R. 412-52, R. 413-16 s'agissant de la mise en vente ou de la vente et R. 418-9.
-
-**Nota:**
-
-NOTA : L'article R411-36 mentionné dans le corps de l'article R130-2 n'existe pas.
+articles R. 221-18, R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 317-29, R. 321-4 (alinéas 1 à 4), R. 411-32, R. 412-17, R.
+412-51, R. 412-52, R. 413-15 s'agissant de la mise en vente ou de la vente.
 
 **Liens relatifs à cet article**
 
@@ -7478,13 +7474,20 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+_Modifié par_:
+
+  - Décret n°2001-751 du 27 août 2001 - art. 6 () JORF 28 août 2001
+
 _Cite_:
 
   - Code pénal - art. R644-2 (V)
   - Code pénal - art. R653-1 (V)
   - CODE DE PROCEDURE PENALE - art. 21 (M)
-  - Code de la route R221-17, R222-2, R222-3, R234-1, R314-2, R317-29, R321-4, R411-36, R411-32, R412-17, R412-51, R412-52, R413-16
-  - Code de la route. - art. R221-17 (V)
+  - Code de la route. - art. R221-18 (V)
   - Code de la route. - art. R222-2 (V)
   - Code de la route. - art. R222-3 (M)
   - Code de la route. - art. R234-1 (M)
@@ -7495,7 +7498,7 @@ _Cite_:
   - Code de la route. - art. R412-17 (V)
   - Code de la route. - art. R412-51 (V)
   - Code de la route. - art. R412-52 (V)
-  - Code de la route. - art. R413-16 (V)
+  - Code de la route. - art. R413-15 (M)
 
 _Anciens textes_:
 
@@ -14200,8 +14203,14 @@ _Anciens textes_:
 Le ministre chargé des transports fixe par arrêté les règles relatives au chargement des engins spéciaux dont la vitesse ne
 peut excéder par construction 25 km/h.
 
-Le fait, pour tout conducteur d'un engin spécial, de contrevenir aux dispositions prises en application du présent article
-est puni de l'amende prévue pour les contraventions de la troisième classe.
+Le fait, pour tout conducteur d'un engin spécial, de contrevenir aux dispositions relatives aux conditions du chargement est
+puni de l'amende prévue pour les contraventions de la troisième classe.
+
+Le fait, pour tout conducteur d'un engin spécial, de contrevenir aux dimensions du chargement ou au gabarit du véhicule est
+puni de l'amende prévue par les contraventions de la quatrième classe. Toutefois, lorsque les dépassements excèdent les
+limites réglementaires de plus de 20 %, l'amende encourue est celle prévue pour les contraventions de la cinquième classe.
+
+Dans ce dernier cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -14209,16 +14218,25 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+  - SPEC_APPLI: Code de la route. - art. R312-25 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-751 du 27 août 2001 - art. 6 () JORF 28 août 2001
+
+_Cite_:
+
+  - Code pénal - art. 132-11 (M)
+
 _Anciens textes_:
 
   - Code de la route - art. R168 (Ab)
   - Code de la route - art. R238 (Ab)
   - Code de la route - art. R239 (Ab)
   - Code de la route R168, R238 (al. 4), R239
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R312-25 (V)
 
 
 ###### Article R312-25
@@ -21328,36 +21346,40 @@ _Cité par_:
 
 ###### Article R325-30
 
-I. - L'autorité dont relève la fourrière classe le véhicule dans l'une des trois catégories suivantes :
+I.-L'autorité dont relève la fourrière classe le véhicule dans l'une des trois catégories suivantes : 
 
-1° Véhicule pouvant être restitué en l'état à son propriétaire ou son conducteur ;
+1° Véhicule pouvant être restitué en l'état à son propriétaire ou son conducteur ; 
 
 2° Véhicule ne pouvant être restitué à son propriétaire ou son conducteur qu'après l'exécution des travaux reconnus
-indispensables, ou après avoir satisfait aux obligations de contrôles techniques ;
+indispensables, ou après avoir satisfait aux obligations de contrôles techniques ; 
 
 3° Véhicule hors d'état de circuler dans des conditions normales de sécurité et dont la valeur marchande est inférieure à un
 montant fixé par arrêté du ministre de l'intérieur et du ministre chargé de l'économie et des finances, devant être livré à
-la destruction à l'expiration du délai d'abandon prévu au quatrième alinéa de l'article L. 325-7.
+la destruction à l'expiration du délai d'abandon prévu au quatrième alinéa de l'article L. 325-7. 
 
-II. - Le classement dans les deuxième et troisième catégories prévues au I ci-dessus est décidé après avis d'un expert en
-automobile au sens de l'article L. 327-3, désigné par l'administration parmi ceux figurant sur la liste nationale.
+II.-Le classement dans les deuxième et troisième catégories prévues au I ci-dessus est décidé après avis d'un expert en
+automobile au sens de l'article L. 326-3, désigné par l'administration parmi ceux figurant sur la liste nationale. 
 
-III. - L'expert se prononce sur la capacité du véhicule à circuler dans des conditions normales de sécurité. Si le véhicule
-ne remplit pas ces conditions, l'expert définit les réparations indispensables propres à lui redonner cette capacité et
-fournit une évaluation de la valeur marchande du véhicule.
+III.-L'expert se prononce sur la capacité du véhicule à circuler dans des conditions normales de sécurité. Si le véhicule ne
+remplit pas ces conditions, l'expert définit les réparations indispensables propres à lui redonner cette capacité et fournit
+une évaluation de la valeur marchande du véhicule. 
 
-IV. - Les véhicules réclamés par leurs propriétaires ou leurs conducteurs dans le délai de trois jours suivant la mise en
+IV.-Les véhicules réclamés par leurs propriétaires ou leurs conducteurs dans le délai de trois jours suivant la mise en
 fourrière peuvent être restitués sans avoir été expertisés ni classés.
-
-**Nota:**
-
-NOTA : dans le II du présent article, la référence à l'article L. 327-3 est fausse. Il s'agit en fait de l'article L. 326-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+_Modifié par_:
+
+  - Décret n°2001-751 du 27 août 2001 - art. 6 () JORF 28 août 2001
 
 _Anciens textes_:
 
@@ -21367,8 +21389,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-7 (M)
-  - Code de la route. - art. L327-3 (V)
+  - Code de la route. - art. L325-7 (V)
+  - Code de la route. - art. L326-3 (V)
 
 _Cité par_:
 
@@ -24939,8 +24961,9 @@ _Cité par_:
 
 ###### Article R412-1
 
-I. - En circulation, tout conducteur ou passager d'un véhicule à moteur doit porter une ceinture de sécurité homologuée dès
-lors que le siège qu'il occupe en est équipé en application des dispositions du livre III.
+I. - En circulation, tout conducteur ou passager d'un véhicule à moteur dont le poids total autorisé en charge n'excède pas
+3,5 tonnes, doit porter une ceinture de sécurité homologuée dès lors que le siège qu'il occupe en est équipé en application
+des dispositions du livre III.
 
 II. - Toutefois, le port de la ceinture de sécurité n'est pas obligatoire :
 
@@ -24973,6 +24996,17 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+  - SPEC_APPLI: Code de la route. - art. R412-5 (V)
+  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
+  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+_Modifié par_:
+
+  - Décret n°2001-751 du 27 août 2001 - art. 6 () JORF 28 août 2001
+
 _Cité par_:
 
   - Arrêté du 31 juillet 2012 - art. 1 (VT)
@@ -24992,22 +25026,17 @@ _Anciens textes_:
   - Code de la route - art. R53-1 (Ab)
   - Code de la route R53-1, R233 (al. 6), R256 5°
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R412-5 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-
 _Cite_:
 
-  - Directive 91-671 CEE 1991-12-16 art. 5
+  - Directive 91-671 CEE 1991-12-16 art. 5 (Conseil)
 
 
 ###### Article R412-2
 
-I. - En circulation, tout conducteur d'un véhicule à moteur, dont les sièges sont équipés de ceintures en application des
-dispositions du livre 3, doit s'assurer que les passagers âgés de moins de treize ans qu'il transporte sont maintenus soit
-par un système homologué de retenue pour enfant, soit par une ceinture de sécurité.
+I. - En circulation, tout conducteur d'un véhicule à moteur, dont le poids total autorisé en charge n'excède pas 3,5 tonnes,
+et dont les sièges sont équipés de ceintures en application des dispositions du livre 3, doit s'assurer que les passagers
+âgés de moins de treize ans qu'il transporte sont maintenus soit par un système homologué de retenue pour enfant, soit par
+une ceinture de sécurité.
 
 II. - De même, il doit s'assurer que tout enfant de moins de dix ans est retenu par un système homologué de retenue pour
 enfant adapté à sa morphologie et à son poids.
@@ -25031,6 +25060,17 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+  - SPEC_APPLI: Code de la route. - art. R412-5 (V)
+  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
+  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+_Modifié par_:
+
+  - Décret n°2001-751 du 27 août 2001 - art. 6 () JORF 28 août 2001
+
 _Anciens textes_:
 
   - Code de la route - art. R233 (Ab)
@@ -25044,12 +25084,6 @@ _Cite_:
 _Cité par_:
 
   - Code de la route. - art. R412-3 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R412-5 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R412-3
