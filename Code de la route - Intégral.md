@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2004-06-19
+Version Consolidée au 2004-07-02
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -2636,9 +2636,7 @@ Lorsque l'état alcoolique est établi au moyen d'un appareil homologué, comme 
 représentant de l'Etat dans le département peut, dans les soixante-douze heures de la rétention du permis, prononcer la
 suspension du permis de conduire pour une durée qui ne peut excéder six mois. Il en est de même si le conducteur ou
 l'accompagnateur de l'élève conducteur a refusé de se soumettre aux épreuves et vérifications destinées à établir la preuve
-de l'état alcoolique. Sans préjudice des recours gracieux et contentieux, si l'intéressé estime que la mesure de suspension
-est excessive, il est entendu à sa demande par la commission spéciale prévue par le premier alinéa de l'article L. 224-8, qui
-peut proposer au représentant de l'Etat dans le département de modifier sa décision initiale.
+de l'état alcoolique.
 
 A défaut de décision de suspension dans le délai de soixante-douze heures prévu par l'alinéa précédent, le permis de conduire
 est remis à la disposition de l'intéressé, sans préjudice de l'application ultérieure des articles L. 224-7 à L. 224-9.
@@ -2660,7 +2658,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 34 () JORF 13 juin 2003
+  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 21 () JORF 2 juillet 2004
 
 _Anciens textes_:
 
