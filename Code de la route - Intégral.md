@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2003-06-22
+Version Consolidée au 2003-07-10
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -27325,9 +27325,8 @@ _Cité par_:
 
 ###### Article R412-1
 
-I. - En circulation, tout conducteur ou passager d'un véhicule à moteur, à l'exception des autobus et des autocars dont le
-poids total autorisé en charge excède 3,5 tonnes, doit porter une ceinture de sécurité homologuée dès lors que le siège qu'il
-occupe en est équipé en application des dispositions du livre III.
+I. - En circulation, tout conducteur ou passager d'un véhicule à moteur doit porter une ceinture de sécurité homologuée dès
+lors que le siège qu'il occupe en est équipé en application des dispositions du livre III.
 
 II. - Toutefois, le port de la ceinture de sécurité n'est pas obligatoire :
 
@@ -27356,7 +27355,8 @@ points du permis de conduire.
 
 **Nota:**
 
-NOTA : Décret 2003-440 art. 3 : Ces dispositions sont applicables à Mayotte.
+NOTA : Décret 2003-440 art. 3 : Ces dispositions sont applicables à Mayotte.    NOTA : La présente version de cet article est
+en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -27364,13 +27364,13 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-_Modifié par_:
-
-  - Décret n°2003-440 du 14 mai 2003 - art. 1 () JORF 17 mai 2003
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°2003-440 du 14 mai 2003 - art. 3, v. init.
+
+_Modifié par_:
+
+  - Décret n°2003-637 du 9 juillet 2003 - art. 1 () JORF 10 juillet 2003
 
 _Cité par_:
 
@@ -27399,9 +27399,9 @@ _Cite_:
 ###### Article R412-2
 
 I. - En circulation, tout conducteur d'un véhicule à moteur dont les sièges sont équipés de ceintures en application des
-dispositions du livre III, à l'exception des autobus et des autocars dont le poids total autorisé en charge excède 3,5
-tonnes, doit s'assurer que les passagers âgés de moins de treize ans qu'il transporte sont maintenus soit par un système
-homologué de retenue pour enfant, soit par une ceinture de sécurité.
+dispositions du livre III et dont le nombre de places assises, y compris celle du conducteur, n'excède pas neuf doit
+s'assurer que les passagers âgés de moins de treize ans qu'il transporte sont maintenus soit par un système homologué de
+retenue pour enfant, soit par une ceinture de sécurité.
 
 II. - De même, il doit s'assurer que tout enfant de moins de dix ans est retenu par un système homologué de retenue pour
 enfant adapté à sa morphologie et à son poids.
@@ -27429,13 +27429,13 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-_Modifié par_:
-
-  - Décret n°2003-440 du 14 mai 2003 - art. 2 () JORF 17 mai 2003
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°2003-440 du 14 mai 2003 - art. 3, v. init.
+
+_Modifié par_:
+
+  - Décret n°2003-637 du 9 juillet 2003 - art. 2 () JORF 10 juillet 2003
 
 _Anciens textes_:
 
