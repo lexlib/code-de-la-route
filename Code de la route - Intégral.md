@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2003-03-29
+Version Consolidée au 2003-04-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -95,8 +95,8 @@ Version Consolidée au 2003-03-29
         - [Chapitre II : Atteintes involontaires aux personnes. (art. R232-1)](#92)
         - [Chapitre III : Comportement en cas de contrôle routier. (art. R233-1 à R233-3)](#93)
         - [Chapitre IV : Conduite sous l'influence de l'alcool. (art. R234-1 à R234-4)](#94)
-        - [Chapitre V : Conduite sous l'influence de substances ou plantes classées comme stupéfiants (art. R235-1 à R235-13)](#95)
-          - [Section I : Dispositions générales (art. R235-1 à R235-2)](#96)
+        - [Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants (art. R235-1 à R235-13)](#95)
+          - [Section 1 : Dispositions générales (art. R235-1 à R235-2)](#96)
           - [Section 2 : Epreuves de dépistage (art. R235-3 à R235-4)](#97)
           - [Section 3 : Analyses et examens médicaux, cliniques et biologiques (art. R235-5 à R235-11)](#98)
           - [Section 4 : Dispositions matérielles (art. R235-12 à R235-13)](#99)
@@ -10854,24 +10854,34 @@ _Anciens textes_:
 
 ###### Article R221-13
 
-I. - Le préfet soumet à un examen médical :
+I.-Le préfet soumet à des analyses ou à des examens médicaux, cliniques et biologiques, notamment salivaires et
+capillaires : 
 
 1° Tout conducteur ou accompagnateur d'un élève conducteur auquel est imputable l'une des infractions prévues par les
-articles L. 234-1 et L. 234-8 ;
+articles L. 234-1, L. 234-8, 
+L. 235-1 et L. 235-3 ; 
 
 2° Tout conducteur qui a fait l'objet d'une mesure portant restriction ou suspension du droit de conduire d'une durée
-supérieure à un mois pour l'une des infractions prévues au présent code, autres que celles visées au 1° ci-dessus.
+supérieure à un mois pour l'une des infractions prévues au présent code, autres que celles visées au 1° ci-dessus. 
 
-II. - Lorsque le titulaire du permis de conduire néglige ou refuse de se soumettre, dans les délais qui lui sont prescrits, à
+II.-Lorsque le titulaire du permis de conduire néglige ou refuse de se soumettre, dans les délais qui lui sont prescrits, à
 l'une des visites médicales prévues au présent article, le préfet peut prononcer ou maintenir la suspension du permis de
 conduire jusqu'à production d'un certificat médical favorable délivré à la demande de l'intéressé par la commission médicale
 prévue à l'article R. 221-11.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 2003-03-31 art. 6 JORF 1er avril 2003
 
 _Cité par_:
 
@@ -10886,13 +10896,12 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L234-1 (M)
-  - Code de la route. - art. L234-8 (M)
-  - Code de la route. - art. R221-11 (M)
+  - Code de la route. - art. L234-1 (V)
+  - Code de la route. - art. L235-1 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R221-14
@@ -13047,15 +13056,27 @@ d'alcool dans l'air expiré égale ou supérieure à 0,25 milligramme par litre,
 
 L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
+Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension du permis de conduire
+pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
+
 Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
 
 Les dispositions du présent article sont applicables à l'accompagnateur d'un élève conducteur.
+
+**Nota:**
+
+NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Cité par_:
 
@@ -13086,6 +13107,10 @@ _Cite_:
 
   - Code de la route L234-1, L325-1 à L325-3
   - Code de la route. - art. L234-1 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R234-2
@@ -13183,17 +13208,15 @@ _Cité par_:
   - Code de la santé publique - art. R3354-1 (V)
 
 
-#### Chapitre V : Conduite sous l'influence de substances ou plantes classées comme stupéfiants<a id=95></a>
+#### Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants<a id=95></a>
 
-##### Section I : Dispositions générales<a id=96></a>
+##### Section 1 : Dispositions générales<a id=96></a>
 
 ###### Article R235-1
 
 En vue de procéder aux épreuves de dépistage et, le cas échéant, aux analyses et examens médicaux, cliniques et biologiques
-prévus par l'article L. 235-1, doit être regardé comme un accident mortel de la circulation au sens de la disposition
-législative précitée celui qui a eu des conséquences immédiatement mortelles. Dans cette hypothèse, les officiers ou les
-agents de police judiciaire font procéder aux épreuves et, le cas échéant, aux analyses et examens précités sur tout
-conducteur d'un véhicule impliqué dans ce type d'accident.
+prévus par l'article L. 235-2, le délai séparant, d'une part, l'heure de l'accident et, d'autre part, l'heure de l'épreuve de
+dépistage et le cas échéant des analyses et examens précités doit être le plus court possible.
 
 **Liens relatifs à cet article**
 
@@ -13204,10 +13227,6 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
-
-_Créé par_:
-
-  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
 
 _Cité par_:
 
@@ -13217,9 +13236,14 @@ _Cité par_:
   - Code de la route. - art. R244-2 (VD)
   - Code de la route. - art. R245-2 (V)
 
+_Modifié par_:
+
+  - Décret n°2003-293 2003-03-31 art. 5 I, II JORF 1er avril 2003
+  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
+
 _Cite_:
 
-  - Code de la route. - art. L235-1 (M)
+  - Code de la route. - art. L235-2 (M)
 
 _Nouveaux textes_:
 
@@ -13229,8 +13253,8 @@ _Nouveaux textes_:
 
 ###### Article R235-2
 
-Le délai séparant, d'une part, l'heure de l'accident et, d'autre part, l'heure de l'épreuve de dépistage et le cas échéant
-des analyses et examens précités doit être le plus court possible.
+Pour l'application de l'article L. 235-2, doit être regardé comme étant un accident mortel de la circulation celui qui a des
+conséquences immédiatement mortelles.
 
 **Liens relatifs à cet article**
 
@@ -13242,9 +13266,14 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+  - Décret n°2003-293 2003-03-31 art. 5 I, II JORF 1er avril 2003
+  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
+
+_Cite_:
+
+  - Code de la route. - art. L235-2 (M)
 
 _Cité par_:
 
@@ -13255,7 +13284,7 @@ _Cité par_:
 
 ###### Article R235-3
 
-Les épreuves de dépistage prévues par l'article L. 235-1 sont effectuées par un médecin, un biologiste, ou un étudiant en
+Les épreuves de dépistage prévues par l'article L. 235-2 sont effectuées par un médecin, un biologiste, ou un étudiant en
 médecine autorisé à exercer à titre de remplaçant, dans les conditions fixées à l'article L. 4131-2 du code de la santé
 publique, requis à cet effet par un officier ou agent de police judiciaire qui leur fournit les matériels nécessaires au
 dépistage.
@@ -13269,10 +13298,6 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
-
-_Créé par_:
-
-  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
 
 _Cité par_:
 
@@ -13290,10 +13315,10 @@ _Cité par_:
   - Code de la route. - art. R245-3 (V)
   - Code de procédure pénale - art. Annexe article A43-6 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la santé publique - art. L4131-2 (M)
-  - Code de la route. - art. L235-1 (M)
+  - Décret n°2003-293 2003-03-31 art. 5 I, IV JORF 1er avril 2003
+  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
 
 
 ###### Article R235-4
@@ -13301,8 +13326,9 @@ _Cite_:
 Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées conformément aux méthodes
 et dans les conditions prescrites par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence
 française de sécurité sanitaire des produits de santé, qui précise notamment les critères de choix des réactifs et le modèle
-des fiches présentant les résultats. Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à
-l'article R. 235-1. Une copie de ces fiches est immédiatement remise aux conducteurs ayant subi les épreuves de dépistage.
+des fiches présentant les résultats.
+
+Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à l'article R. 235-3.
 
 **Liens relatifs à cet article**
 
@@ -13313,10 +13339,6 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
-
-_Créé par_:
-
-  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
 
 _Cité par_:
 
@@ -13334,25 +13356,23 @@ _Cité par_:
   - Code de la route. - art. R245-3 (V)
   - Code de procédure pénale - art. Annexe article A43-6 (VD)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la route. - art. R235-1 (M)
+  - Décret n°2003-293 2003-03-31 art. 5 I, V JORF 1er avril 2003
+  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
 
 
 ##### Section 3 : Analyses et examens médicaux, cliniques et biologiques<a id=98></a>
 
 ###### Article R235-5
 
-Les analyses et examens médicaux, cliniques et biologiques prévus à l'article L. 235-1 comportent les opérations suivantes :
+Les analyses et examens médicaux, cliniques et biologiques prévus à l'article L. 235-2 comportent les opérations suivantes :
 
 - examen clinique ;
 
 - prélèvement biologique ;
 
-- recherche et dosage des stupéfiants. En cas de résultat positif, au cours de cette dernière opération, sont recherchés,
-afin d'éliminer tout facteur de confusion dans l'appréciation du rôle des stupéfiants dans l'accident en cause, les
-médicaments psychoactifs pouvant avoir des effets sur la capacité de conduire des véhicules tels que mentionnés au p de
-l'article R. 5128-2 du code de la santé publique.
+- recherche et dosage des stupéfiants.
 
 **Liens relatifs à cet article**
 
@@ -13364,10 +13384,6 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
 
-_Créé par_:
-
-  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
-
 _Cité par_:
 
   - Arrêté du 5 septembre 2001 - art. 14 (Ab)
@@ -13378,10 +13394,14 @@ _Cité par_:
   - Code de la route. - art. R243-2 (M)
   - Code de la route. - art. R245-2 (V)
 
+_Modifié par_:
+
+  - Décret n°2003-293 2003-03-31 art. 5 I, IV, VI JORF 1er avril 2003
+  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
+
 _Cite_:
 
-  - Code de la santé publique - art. R5128-2 (M)
-  - Code de la route. - art. L235-1 (M)
+  - Code de la route. - art. L235-2 (M)
 
 
 ###### Article R235-6
@@ -13389,11 +13409,11 @@ _Cite_:
 L'examen clinique et le prélèvement biologique sont effectués par un médecin ou un étudiant en médecine autorisé à exercer à
 titre de remplaçant, dans les conditions fixées à l'article L. 4131-2 du code de la santé publique, requis à cet effet par un
 officier ou un agent de police judiciaire. Le prélèvement biologique peut également être effectué par un biologiste requis
-dans les mêmes conditions.
+dans les mêmes conditions. 
 
-Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à sa disposition par l'officier ou l'agent de
-police judiciaire ci-dessus mentionné, en se conformant aux méthodes prescrites par arrêté du ministre chargé de la santé
-pris après avis du directeur général de l'Agence française de sécurité sanitaire des produits de santé.
+Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à sa disposition par un officier ou un agent de
+police judiciaire, en se conformant aux méthodes prescrites par arrêté du ministre chargé de la santé pris après avis du
+directeur général de l'Agence française de sécurité sanitaire des produits de santé. 
 
 Un officier ou un agent de police judiciaire assiste au prélèvement biologique.
 
@@ -13406,10 +13426,6 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
-
-_Créé par_:
-
-  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
 
 _Cité par_:
 
@@ -13431,9 +13447,14 @@ _Cité par_:
   - Code de procédure pénale - art. Annexe article A43-6 (V)
   - Code de procédure pénale - art. R117 (MMN)
 
+_Modifié par_:
+
+  - Décret n°2003-293 2003-03-31 art. 5 I, VII JORF 1er avril 2003
+  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
+
 _Cite_:
 
-  - Code de la santé publique - art. L4131-2 (M)
+  - Code de la santé publique - art. L4131-2 (V)
 
 
 ###### Article R235-7
@@ -13450,9 +13471,9 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
 
 _Cité par_:
 
@@ -13482,15 +13503,15 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
 
-_Créé par_:
-
-  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
-
 _Cité par_:
 
   - Arrêté du 5 septembre 2001 - art. 9 (Ab)
   - Arrêté du 13 décembre 2016 - art. 8 (V)
   - Code de la route. - art. R245-2 (V)
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
 
 _Cite_:
 
@@ -13501,12 +13522,9 @@ _Cite_:
 ###### Article R235-9
 
 L'officier ou l'agent de police judiciaire adresse les deux échantillons biologiques prélevés, accompagnés des résultats des
-épreuves de dépistage, à un laboratoire ayant déclaré au préfet du lieu de son siège respecter les conditions d'expérience et
-d'équipement fixées par arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence française de
-sécurité sanitaire des produits de santé. Il peut, au lieu du laboratoire, envoyer les échantillons et les résultats précités
-à un expert inscrit sous une rubrique spéciale, en toxicologie, sur la liste de la cour d'appel, dans les conditions prévues
-par l'article R. 32 du code des débits de boissons et des mesures contre l'alcoolisme et répondant aux conditions fixées par
-l'arrêté susvisé.
+épreuves de dépistage, à un expert inscrit sous une rubrique spéciale en toxicologie, sur la liste de la cour d'appel, dans
+les conditions prévues par l'article R. 32 du code des débits de boissons et des mesures contre l'alcoolisme, ou à un
+laboratoire de police technique et scientifique.
 
 Le laboratoire ou l'expert conserve un des deux flacons mentionnés à l'article R. 235-7 en vue d'une demande éventuelle d'un
 examen technique ou d'une expertise. Un arrêté du ministre chargé de la santé précise, après avis du directeur général de
@@ -13522,9 +13540,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+  - Décret n°2003-293 2003-03-31 art. 5 I, VIII JORF 1er avril 2003
+  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
 
 _Cité par_:
 
@@ -13544,9 +13563,8 @@ _Cite_:
 
 ###### Article R235-10
 
-La recherche et le dosage des produits stupéfiants et, le cas échéant, la recherche des médicaments psychoactifs sont
-pratiqués dans les conditions définies par arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé.
+La recherche et le dosage des produits stupéfiants sont pratiqués dans les conditions définies par arrêté du ministre chargé
+de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des produits de santé.
 
 Les résultats des analyses et examens médicaux, cliniques et biologiques sont consignés sur les fiches mentionnées à
 l'article R. 235-4. Ces fiches sont ensuite transmises à l'officier ou à l'agent de police judiciaire ayant assisté au
@@ -13562,10 +13580,6 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
 
-_Créé par_:
-
-  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
-
 _Cité par_:
 
   - Décret n°2001-751 du 27 août 2001 - art. 4 (V)
@@ -13577,6 +13591,11 @@ _Cité par_:
   - Code de la route. - art. R244-2 (V)
   - Code de la route. - art. R245-2 (V)
 
+_Modifié par_:
+
+  - Décret n°2003-293 2003-03-31 art. 5 I, IX JORF 1er avril 2003
+  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
+
 _Cite_:
 
   - Code de la route. - art. R235-4 (M)
@@ -13585,11 +13604,15 @@ _Cite_:
 ###### Article R235-11
 
 Le conducteur peut demander au procureur de la République, au juge d'instruction ou à la juridiction de jugement qu'il soit
-procédé à un examen technique ou à une expertise en application des articles 60, 77-1 et 156 du code de procédure pénale.
+procédé à un examen technique ou à une expertise en application des articles 60,77-1 et 156 du code de procédure pénale. 
+
+De même, le conducteur peut demander qu'il soit procédé, dans les mêmes conditions, à la recherche de l'usage des médicaments
+psychoactifs pouvant avoir des effets sur la capacité de conduire le véhicule tels que mentionnés au p de l'article R. 5128-2
+du code de la santé publique.
 
 En cas d'examen technique ou d'expertise, ceux-ci sont confiés à un autre laboratoire ou à un autre expert répondant aux
 conditions fixées par l'article R. 235-9. Celui-ci pratique l'expertise de contrôle en se conformant aux méthodes prescrites
-en application de l'article R. 235-10.
+en application de l'article R. 235-10. 
 
 La consignation et la transmission de ces résultats sont effectuées dans les conditions mentionnées à l'article R. 235-10.
 
@@ -13603,9 +13626,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+  - Décret n°2003-293 2003-03-31 art. 5 I, X JORF 1er avril 2003
+  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
 
 _Cité par_:
 
@@ -13617,11 +13641,9 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 156 (M)
-  - CODE DE PROCEDURE PENALE - art. 60 (M)
   - CODE DE PROCEDURE PENALE - art. 77-1 (M)
-  - Code de la route. - art. R235-10 (M)
-  - Code de la route. - art. R235-9 (M)
+  - Code de procédure pénale - art. 60 (V)
+  - Code de la santé publique - art. R5128-2 (Ab)
 
 
 ##### Section 4 : Dispositions matérielles<a id=99></a>
@@ -13652,22 +13674,9 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. R110 (V)
-  - CODE DE PROCEDURE PENALE - art. R111 (V)
-  - CODE DE PROCEDURE PENALE - art. R117 (M)
-  - CODE DE PROCEDURE PENALE - art. R118 (M)
-  - Code de la route. - art. R235-10 (M)
-  - Code de la route. - art. R235-11 (M)
-  - Code de la route. - art. R235-3 (M)
-  - Code de la route. - art. R235-4 (M)
-  - Code de la route. - art. R235-6 (M)
-  - Code des débits de boissons R20 à R25
+  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
 
 _Cité par_:
 
@@ -13695,9 +13704,9 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
 
 _Cite_:
 
@@ -20543,7 +20552,10 @@ d'immatriculation sur lequel il aura porté la mention Revendu le .... à M ....
 possession.
 
 Dans chacun des cas définis aux alinéas précédents, la remise de la carte grise doit être accompagnée du certificat de non-
-opposition au transfert du certificat d'immatriculation.
+opposition au transfert du certificat d'immatriculation et de l'attestation d'inscription ou de non-inscription de gage
+établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer
+la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de
+l'intérieur.
 
 Le ministre chargé des transports définit par arrêté pris après avis du ministre de l'intérieur les conditions d'application
 du présent article, notamment en ce qui concerne les véhicules tombés dans une succession, vendus aux enchères publiques ou à
@@ -20552,11 +20564,19 @@ la suite d'une décision judiciaire, et les véhicules de location.
 Le fait de ne pas effectuer les déclarations ou de ne pas respecter les délais prévus au présent article est puni de l'amende
 prévue pour les contraventions de la quatrième classe.
 
+**Nota:**
+
+NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 2003-03-31 art. 7 I JORF 1er avril 2003
 
 _Cité par_:
 
@@ -20580,7 +20600,7 @@ _Anciens textes_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R322-5
@@ -20598,13 +20618,12 @@ immatriculation, de transformation susceptible de modifier les indications de la
 3° De la preuve, pour tout véhicule soumis à visite technique, que celui-ci répond aux conditions requises pour être maintenu
 en circulation conformément aux dispositions du chapitre III du présent titre ;
 
-4° D'une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a
-délivré la précédente carte grise ;
+4° Du certificat de non-opposition au transfert du certificat d'immatriculation et de l'attestation d'inscription ou de non-
+inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet
+compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site
+internet du ministère de l'intérieur.
 
-5° Du certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la
-préfecture qui a délivré la précédente carte grise ;
-
-6° D'une déclaration d'achat en cas de vente du véhicule par un professionnel.
+5° D'une déclaration d'achat en cas de vente du véhicule par un professionnel.
 
 II. - La carte grise portant la mention de la mutation ou de la revente par un professionnel n'est valable pour la
 circulation du véhicule que pendant une durée de quinze jours à compter de ladite mutation ou de ladite revente.
@@ -20618,6 +20637,10 @@ d'immatriculation dans les conditions fixées au présent article est puni de l'
 quatrième classe.
 
 L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Nota:**
+
+NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -20641,7 +20664,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-42 du 8 janvier 2003 - art. 3 () JORF 15 janvier 2003
+  - Décret n°2003-293 2003-03-31 art. 7 II, III, IV JORF 1er avril 2003
 
 _Cité par_:
 
@@ -20660,6 +20683,10 @@ _Cite_:
 
   - Code de la route R322-1, L325-1 à L325-3
   - Code de la route. - art. R322-1 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R322-6
@@ -26742,10 +26769,14 @@ de s'arrêter fréquemment ;
 6° En agglomération, pour tout conducteur ou passager d'un véhicule effectuant des livraisons de porte à porte.
 
 III. - Le fait, pour tout conducteur ou passager, de contrevenir aux dispositions du présent article est puni de l'amende
-prévue pour les contraventions de la deuxième classe.
+prévue pour les contraventions de la quatrième classe.
 
-IV. - Lorsque cette contravention est commise par le conducteur, elle donne lieu de plein droit à la réduction d'un point du
-permis de conduire.
+IV. - Lorsque cette contravention est commise par le conducteur, elle donne lieu de plein droit à la réduction de trois
+points du permis de conduire.
+
+**Nota:**
+
+NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -26753,16 +26784,9 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
-  - SPEC_APPLI: Code de la route. - art. R412-5 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-
 _Modifié par_:
 
-  - Décret n°2001-751 du 27 août 2001 - art. 6 () JORF 28 août 2001
+  - Décret n°2003-293 du 31 mars 2003 - art. 3 () JORF 1er avril 2003
 
 _Cité par_:
 
@@ -26787,6 +26811,10 @@ _Cite_:
 
   - Directive 91-671 CEE 1991-12-16 art. 5 (Conseil)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
+
 
 ###### Article R412-2
 
@@ -26809,7 +26837,11 @@ au 2° du II de l'article R. 412-1 ;
 routier de personnes, ou dans un véhicule de transport en commun.
 
 IV. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la deuxième classe.
+contraventions de la quatrième classe.
+
+**Nota:**
+
+NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -26817,16 +26849,9 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
-  - SPEC_APPLI: Code de la route. - art. R412-5 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-
 _Modifié par_:
 
-  - Décret n°2001-751 du 27 août 2001 - art. 6 () JORF 28 août 2001
+  - Décret n°2003-293 du 31 mars 2003 - art. 3 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -26841,6 +26866,10 @@ _Cite_:
 _Cité par_:
 
   - Code de la route. - art. R412-3 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R412-3
@@ -26857,13 +26886,21 @@ installé à l'avant des véhicules ;
 condition que chacun des enfants transportés soit retenu par un système prévu au II de l'article R. 412-2.
 
 II. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la deuxième classe.
+contraventions de la quatrième classe.
+
+**Nota:**
+
+NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 3 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -26877,9 +26914,7 @@ _Cite_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R412-5 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R412-4
@@ -26985,6 +27020,40 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R434-3 (V)
 
 
+###### Article R412-6-1
+
+L'usage d'un téléphone tenu en main par le conducteur d'un véhicule en circulation est interdit.
+
+Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
+contraventions de la deuxième classe.
+
+Cette contravention donne lieu de plein droit à la réduction de deux points du permis de conduire.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 4 () JORF 1er avril 2003
+
+_Cité par_:
+
+  - Arrêté du 19 décembre 2016 - art. (V)
+  - Code de la route. - art. R121-6 (V)
+  - Code de la route. - art. R130-11 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
+
+
 ###### Article R412-7
 
 Tout conducteur doit, sauf en cas de nécessité absolue, faire circuler son véhicule exclusivement sur la chaussée.
@@ -27025,8 +27094,16 @@ La circulation sur les bandes d'arrêt d'urgence est interdite.
 Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la deuxième
 classe.
 
+Tout conducteur coupable de cette infraction encourt également la peine complémentaire de suspension du permis de conduire
+pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
+
 Cette contravention commise à l'occasion de la conduite d'un véhicule donne lieu de plein droit à la réduction de trois
 points du permis de conduire.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -27041,6 +27118,10 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
+
 _Anciens textes_:
 
   - Code de la route - art. R233 (Ab)
@@ -27050,8 +27131,7 @@ _Anciens textes_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R412-9
@@ -27071,13 +27151,29 @@ puni de l'amende prévue pour les contraventions de la deuxième classe.
 Le fait, pour tout conducteur, de circuler, en marche normale, sur la partie gauche d'une chaussée à double sens de
 circulation est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
+Tout conducteur coupable de cette dernière infraction encourt également la peine complémentaire de suspension du permis de
+conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
+
 Cette dernière contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Cité par_:
 
@@ -27094,11 +27190,6 @@ _Anciens textes_:
   - Code de la route - art. R4 (Ab)
   - Code de la route R4, R28-2, R232 (al. 1 et 2), R233 (al. 1 et 2), R256 3°
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-
 
 ###### Article R412-10
 
@@ -27109,13 +27200,25 @@ après un arrêt ou stationnement, il veut reprendre sa place dans le courant de
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article relatives au changement de direction est
 puni de l'amende prévue pour les contraventions de la deuxième classe.
 
+Tout conducteur coupable de cette dernière infraction encourt également la peine complémentaire de suspension du permis de
+conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
+
 Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -27126,8 +27229,7 @@ _Anciens textes_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R412-11
@@ -27177,11 +27279,15 @@ du pouvoir de police peut imposer des distances de sécurité plus grandes entre
 V. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
 
-VI. - Tout conducteur qui a contrevenu aux règles de distance prises en application du IV encourt également la peine
-complémentaire de suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être
+VI. - Tout conducteur qui a contrevenu aux règles de distance prises en application du présent article encourt également la
+peine complémentaire de suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être
 limitée à la conduite en dehors de l'activité professionnelle.
 
 VII. - La contravention prévue au V donne lieu de plein droit à la réduction de 3 points du permis de conduire.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -27189,17 +27295,16 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-_Modifié par_:
-
-  - Décret n°2001-1127 du 23 novembre 2001 - art. 1 () JORF 30 novembre 2001
-
 **Liens**:
 
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
   - TXT_SOURCE: Décret n°2001-1127 du 23 novembre 2001
   - TXT_SOURCE: Décret n°2001-1127 du 23 novembre 2001 - art. 2 (V)
   - TXT_SOURCE: Décret n°2001-1127 du 23 novembre 2001 - art. ANNEXE (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -27401,17 +27506,29 @@ elles interdisent aux conducteurs leur franchissement ou leur chevauchement.
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
 
+Tout conducteur coupable de l'une des infractions prévues au présent article encourt également la peine complémentaire de
+suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
+dehors de l'activité professionnelle.
+
 Le franchissement d'une ligne continue axiale ou séparative de voies de circulation donne lieu de plein droit à la réduction
 de trois points du permis de conduire.
 
 Le chevauchement d'une ligne continue axiale ou séparative de voies de circulation donne lieu de plein droit à la réduction
 d'un point du permis de conduire.
 
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Cité par_:
 
@@ -27429,8 +27546,7 @@ _Anciens textes_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R412-20
@@ -28887,7 +29003,7 @@ fixées par le présent code ou édictées par l'autorité investie du pouvoir d
 contraventions de la cinquième classe, en cas de dépassement de la vitesse maximale autorisée de 50 km/h ou plus, et de la
 quatrième classe, dans les autres cas.
 
-II. - Toute personne coupable de l'infraction de dépassement de la vitesse maximale autorisée de 40 km/h ou plus encourt
+II. - Toute personne coupable de l'infraction de dépassement de la vitesse maximale autorisée de 30 km/h ou plus encourt
 également la peine complémentaire de suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension
 pouvant être limitée à la conduite en dehors de l'activité professionnelle.
 
@@ -28909,11 +29025,19 @@ c) De moins de 20 km/h, réduction d'un point ;
 3° Pour tout conducteur titulaire depuis moins de deux ans du permis de conduire, en cas de dépassement de la vitesse
 maximale autorisée de moins de 40 km/h, réduction de trois points.
 
+**Nota:**
+
+NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -28934,8 +29058,7 @@ _Cité par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R413-15
@@ -29262,13 +29385,29 @@ cavalier ou d'un animal.
 V. - Le fait, pour tout conducteur, de contrevenir aux dispositions des II à IV ci-dessus est puni de l'amende prévue pour
 les contraventions de la quatrième classe.
 
-VI. - Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+VI. - Tout conducteur qui contrevient aux dispositions des II à IV ci-dessus encourt également la peine complémentaire de
+suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
+dehors de l'activité professionnelle.
+
+VII. - Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+
+**Nota:**
+
+NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -29283,11 +29422,6 @@ _Cité par_:
   - Code de la route. - art. R130-11 (V)
   - Code de la route. - art. R412-11-1 (V)
   - Code de la route. - art. R412-19 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R414-5
@@ -29332,13 +29466,26 @@ chaussée.
 III. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
 
-IV. - Le fait de contrevenir au I donne lieu de plein droit à la réduction de trois points du permis de conduire.
+IV. - Tout conducteur coupable de l'infraction prévue au présent article encourt également la peine complémentaire de
+suspension du permis de conduire, pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
+dehors de l'activité professionnelle.
+
+V. - Le fait de contrevenir aux dispositions du présent article donne lieu de plein droit à la réduction de trois points du
+permis de conduire.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -29355,8 +29502,7 @@ _Cité par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R414-7
@@ -29367,13 +29513,25 @@ pas la circulation en sens inverse.
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
 
+Tout conducteur coupable de cette infraction encourt également la peine complémentaire de suspension du permis de conduire
+pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
+
 Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -29384,8 +29542,7 @@ _Anciens textes_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R414-8
@@ -29396,13 +29553,25 @@ effectuant un dépassement ne doivent pas emprunter la voie située pour eux le 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
 
+Tout conducteur coupable de cette infraction encourt également la peine complémentaire de suspension du permis de conduire
+pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
+
 Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -29413,8 +29582,7 @@ _Anciens textes_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R414-9
@@ -29457,7 +29625,15 @@ ralentissement du véhicule dépassé.
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
 
+Tout conducteur coupable de cette infraction encourt également la peine complémentaire de suspension du permis de conduire
+pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
+
 Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -29474,8 +29650,11 @@ _Anciens textes_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 
 ###### Article R414-11
@@ -29483,23 +29662,35 @@ _Anciens textes_:
 Tout dépassement est interdit sur les chaussées à double sens de circulation, lorsque la visibilité vers l'avant n'est pas
 suffisante, ce qui peut être notamment le cas dans un virage ou au sommet d'une côte, sauf si cette manoeuvre laisse libre la
 partie de la chaussée située à gauche d'une ligne continue ou si, s'agissant de dépasser un véhicule à deux roues, cette
-manoeuvre laisse libre la moitié gauche de la chaussée.
+manoeuvre laisse libre la moitié gauche de la chaussée. 
 
 Tout dépassement autre que celui des véhicules à deux roues est interdit aux intersections de routes, sauf pour les
 conducteurs abordant une intersection où les conducteurs circulant sur les autres routes doivent leur laisser le passage en
 application des articles R. 415-6, R. 415-7 et R. 415-8, ou lorsqu'ils abordent une intersection dont le franchissement est
-réglé par des feux de signalisation ou par un agent de la circulation.
+réglé par des feux de signalisation ou par un agent de la circulation. 
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la quatrième classe.
+contraventions de la quatrième classe. 
+
+Tout conducteur coupable de l'une des infractions prévues au présent article encourt également la peine complémentaire de
+suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
+dehors de l'activité professionnelle. 
 
 Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -29511,13 +29702,10 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. R415-6 (V)
-  - Code de la route. - art. R415-7 (V)
-  - Code de la route. - art. R415-8 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R414-12
@@ -29625,14 +29813,25 @@ l'allure.
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
 
-Le fait, pour tout conducteur d'un véhicule sur le point d'être dépassé, d'accélérer l'allure donne lieu de plein droit à la
-réduction de deux points du permis de conduire.
+Tout conducteur qui accélère l'allure alors qu'il est sur le point d'être dépassé encourt également la peine complémentaire
+de suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite
+en dehors de l'activité professionnelle.
+
+Dans ce dernier cas, la contravention donne lieu de plein droit à la réduction de deux points du permis de conduire.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -29648,8 +29847,7 @@ _Cité par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R414-17
@@ -30593,15 +30791,27 @@ placés à l'arrêt ou en stationnement avec :
 II. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
 
-III. - La nuit, ou le jour lorsque la visibilité est insuffisante, l'arrêt ou le stationnement d'un véhicule à moteur sur la
-chaussée sans éclairage ni signalisation, en un lieu dépourvu d'éclairage public, donne lieu de plein droit à la réduction de
-trois points du permis de conduire.
+III. - La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'arrêt ou de stationnement d'un véhicule à moteur
+sur la chaussée sans éclairage ni signalisation, en un lieu dépourvu d'éclairage public, le conducteur encourt également la
+peine complémentaire de suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être
+limitée à la conduite en dehors de l'activité professionnelle.
+
+IV. - Dans le cas prévu au III, la contravention donne lieu de plein droit à la réduction de trois points du permis de
+conduire.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -30617,8 +30827,7 @@ _Cité par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R416-13
@@ -31151,24 +31360,36 @@ _Anciens textes_:
 
 ###### Article R417-9
 
-Tout véhicule à l'arrêt ou en stationnement doit être placé de manière à ne pas constituer un danger pour les usagers.
+Tout véhicule à l'arrêt ou en stationnement doit être placé de manière à ne pas constituer un danger pour les usagers. 
 
 Sont notamment considérés comme dangereux, lorsque la visibilité est insuffisante, l'arrêt et le stationnement à proximité
-des intersections de routes, des virages, des sommets de côte et des passages à niveau.
+des intersections de routes, des virages, des sommets de côte et des passages à niveau. 
 
-Tout arrêt ou stationnement dangereux est puni de l'amende prévue pour les contraventions de la quatrième classe.
+Tout arrêt ou stationnement dangereux est puni de l'amende prévue pour les contraventions de la quatrième classe. 
 
 Lorsque le conducteur ou le titulaire du certificat d'immatriculation est absent ou refuse, malgré l'injonction des agents,
 de faire cesser le stationnement dangereux, l'immobilisation et la mise en fourrière peuvent être prescrites dans les
 conditions prévues aux articles L. 325-1 à L. 325-3.
 
+Tout conducteur coupable de l'une des infractions prévues au présent article encourt également la peine complémentaire de
+suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
+dehors de l'activité professionnelle. 
+
 Toute contravention au présent article donne lieu de plein droit à la réduction de trois points du permis de conduire.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -31181,7 +31402,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1 (V)
 
 _Cité par_:
 
@@ -31189,8 +31410,7 @@ _Cité par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R417-10
@@ -31870,22 +32090,34 @@ _Anciens textes_:
 
 ###### Article R421-5
 
-Les conducteurs ne doivent en aucun cas circuler, s'arrêter ou stationner sur la bande centrale séparative des chaussées.
+Les conducteurs ne doivent en aucun cas circuler, s'arrêter ou stationner sur la bande centrale séparative des chaussées. 
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la quatrième classe.
+contraventions de la quatrième classe. 
 
-Cette contravention donne lieu de plein droit à une réduction de deux points du permis de conduire.
+Tout conducteur coupable de cette infraction encourt également la peine complémentaire de suspension du permis de conduire
+pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle. 
+
+Cette contravention donne lieu de plein droit à une réduction de deux points du permis de conduire. 
 
 Lorsque le conducteur ou le titulaire du certificat d'immatriculation est absent ou refuse, malgré l'injonction des agents,
 de faire cesser le stationnement irrégulier, l'immobilisation et la mise en fourrière peuvent être prescrites dans les
 conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Nota:**
+
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 _Anciens textes_:
 
@@ -31898,12 +32130,11 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R421-6
@@ -32237,14 +32468,25 @@ pour les contraventions de la quatrième classe.
 Conformément à l'article L. 431-1, le véhicule à deux roues à moteur dont le conducteur circule sans être coiffé d'un casque
 peut être immobilisé dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
-Lorsque cette contravention est commise par le conducteur, elle donne lieu de plein droit à la réduction d'un point du permis
-de conduire.
+Lorsque cette contravention est commise par le conducteur, elle donne lieu de plein droit à la réduction de trois points du
+permis de conduire.
+
+Les dispositions du présent article ne sont pas applicables aux conducteurs ou passagers portant la ceinture de sécurité
+lorsque le véhicule a été réceptionné avec ce dispositif.
+
+**Nota:**
+
+NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-293 du 31 mars 2003 - art. 3 () JORF 1er avril 2003
 
 _Cité par_:
 
@@ -32271,55 +32513,7 @@ _Cite_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-  - SPEC_APPLI: Code de la route. - art. R433-6 (V)
-
-
-###### Article R431-2
-
-Conformément à l'article R. 412-1, en circulation, tout conducteur ou passager d'un véhicule mentionné à l'article R. 431-1
-doit porter sa ceinture de sécurité lorsque le véhicule a été réceptionné avec ce dispositif.
-
-Le fait, pour tout conducteur ou passager, de contrevenir aux dispositions du présent article est puni de l'amende prévue
-pour les contraventions de la deuxième classe.
-
-Lorsque cette contravention est commise par le conducteur, elle donne lieu de plein droit à la réduction d'un point du permis
-de conduire.
-
-Les dispositions du présent article ne sont pas applicables aux conducteurs ou passagers portant un casque homologué.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2003-293 du 31 mars 2003 - art. 3 () JORF 1er avril 2003
-
-_Anciens textes_:
-
-  - Code de la route - art. R233 (Ab)
-  - Code de la route - art. R256 (Ab)
-  - Code de la route - art. R53-1-1 (Ab)
-  - Code de la route R53-1-1 (al. 2), R233 (al. 7), R256 5°
-
-_Cité par_:
-
-  - Code de la route. - art. R130-3 (M)
-
-_Cite_:
-
-  - Code de la route. - art. R412-1 (M)
-  - Code de la route. - art. R431-1 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-  - SPEC_APPLI: Code de la route. - art. R433-6 (V)
+  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R431-3
