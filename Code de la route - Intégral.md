@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2004-08-03
+Version Consolidée au 2004-08-17
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -263,11 +263,18 @@ _Cité par_:
 La définition des voiries nationales, départementales et communales est fixée aux articles L. 121-1, L. 122-1, L. 123-1, L.
 131-1, L. 141-1, L. 151-1 et L. 161-1 du code de la voirie routière ci-après reproduits :
 
-"Art. L. 121-1. - Les voies du domaine public routier national sont :
+"Art. L. 121-1. - Les voies du domaine public routier national sont : 
 
-1° Les autoroutes ;
+1° Les autoroutes ; 
 
-2° Les routes nationales."
+2° Les routes nationales. 
+
+Le domaine public routier national est constitué d'un réseau cohérent d'autoroutes et de routes d'intérêt national ou
+européen. Des décrets en Conseil d'Etat, actualisés tous les dix ans, fixent, parmi les itinéraires, ceux qui répondent aux
+critères précités. 
+
+L'Etat conserve dans le domaine public routier national, jusqu'à leur déclassement, les tronçons de routes nationales n'ayant
+pas de vocation départementale et devant rejoindre le domaine public routier communal."
 
 "Art. L. 122-1. - Les autoroutes sont des routes sans croisement, seulement accessibles en des points aménagés à cet effet et
 réservées aux véhicules à propulsion mécanique."
@@ -294,29 +301,31 @@ publique et soumis aux dispositions du chapitre Ier du titre II du livre Ier du 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Loi n°2004-809 du 13 août 2004 - art. 18 (V)
 
 _Cité par_:
 
   - Arrêté du 13 avril 2016 - art. 10 (V)
   - Code de la route. - art. L142-2 (V)
 
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la voirie routière - art. L121-1 (M)
+  - PILOTE_SUIVEUR: Code de la voirie routière - art. L122-1 (V)
+  - PILOTE_SUIVEUR: Code de la voirie routière - art. L123-1 (V)
+  - PILOTE_SUIVEUR: Code de la voirie routière - art. L131-1 (V)
+  - PILOTE_SUIVEUR: Code de la voirie routière - art. L141-1 (V)
+  - PILOTE_SUIVEUR: Code de la voirie routière - art. L151-1 (V)
+  - PILOTE_SUIVEUR: Code de la voirie routière - art. L161-1 (V)
+
 _Cite_:
 
-  - Code de la voirie routière - art. L121-1 (M)
-  - Code de la voirie routière - art. L122-1 (V)
-  - Code de la voirie routière - art. L123-1 (V)
-  - Code de la voirie routière - art. L131-1 (V)
-  - Code de la voirie routière - art. L141-1 (V)
-  - Code de la voirie routière - art. L151-1 (V)
   - Code de la voirie routière - art. L151-2 (M)
   - Code de la voirie routière - art. L151-3 (V)
   - Code de la voirie routière - art. L151-4 (V)
   - Code de la voirie routière - art. L151-5 (V)
-  - Code de la voirie routière - art. L161-1 (V)
 
 
 ###### Article L110-3
