@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2004-10-26
+Version Consolidée au 2004-12-07
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -31154,10 +31154,12 @@ _Anciens textes_:
 
 ###### Article R413-14
 
-I. - Le fait, pour tout conducteur d'un véhicule à moteur, de contrevenir aux dispositions relatives aux vitesses maximales
-fixées par le présent code ou édictées par l'autorité investie du pouvoir de police est puni de l'amende prévue pour les
-contraventions de la cinquième classe, en cas de dépassement de la vitesse maximale autorisée de 50 km/h ou plus, et de la
-quatrième classe, dans les autres cas.
+I. - Le fait, pour tout conducteur d'un véhicule à moteur, de dépasser de moins de 50 km/h la vitesse maximale autorisée
+fixée par le présent code ou édictée par l'autorité investie du pouvoir de police est puni de l'amende prévue pour les
+contraventions de la quatrième classe.
+
+Toutefois, lorsque le dépassement est inférieur à 20 km/h et que la vitesse maximale autorisée est supérieure à 50 km/h,
+l'amende encourue est celle prévue pour les contraventions de la troisième classe.
 
 II. - Toute personne coupable de l'infraction de dépassement de la vitesse maximale autorisée de 30 km/h ou plus encourt
 également les peines complémentaires suivantes :
@@ -31173,7 +31175,8 @@ conduire n'est pas exigé, pour une durée de trois ans au plus ;
 III. - Toute contravention prévue au présent article donne lieu, de plein droit à une réduction du nombre de points du permis
 de conduire dans les conditions suivantes :
 
-1° En cas de dépassement de la vitesse maximale autorisée de 40 km/h ou plus, réduction de quatre points ;
+1° En cas de dépassement de la vitesse maximale autorisée compris entre 40 km/h et moins de 50 km/h, réduction de quatre
+points ;
 
 2° En cas de dépassement de la vitesse maximale autorisée compris entre 30 km/h et moins de 40 km/h, réduction de trois
 points ;
@@ -31185,7 +31188,7 @@ points ;
 
 **Nota:**
 
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+Décret 2004-1330 du 6 décembre 2004 art. 3 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -31195,8 +31198,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 2 () JORF 12 juillet 2003
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+  - Décret n°2004-1330 du 6 décembre 2004 - art. 1 () JORF 7 décembre 2004
 
 _Anciens textes_:
 
@@ -31214,6 +31216,37 @@ _Cité par_:
   - Code de la route. - art. R130-3 (M)
   - Code de procédure pénale - art. A37-11 (VD)
   - Code de procédure pénale - art. A37-4 (V)
+
+
+###### Article R413-14-1
+
+I. - Le fait, pour tout conducteur d'un véhicule à moteur, de dépasser de 50 km/h ou plus la vitesse maximale autorisée fixée
+par le présent code ou édictée par l'autorité investie du pouvoir de police est puni de l'amende prévue pour les
+contraventions de la cinquième classe.
+
+II. - Toute personne coupable de cette infraction encourt également les peines complémentaires suivantes :
+
+1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
+conduite en dehors de l'activité professionnelle, ni être assortie du sursis, même partiellement ;
+
+2° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de trois ans au plus ;
+
+3° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
+
+4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire.
+
+III. - Cette contravention donne lieu de plein droit à la réduction de six points du permis de conduire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2004-1330 du 6 décembre 2004 - art. 2 () JORF 7 décembre 2004
 
 
 ###### Article R413-15
