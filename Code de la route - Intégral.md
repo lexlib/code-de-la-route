@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2002-01-23
+Version Consolidée au 2002-02-28
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-3)](#2)
@@ -6947,11 +6947,29 @@ _Cité par_:
 Les règles relatives aux pouvoirs de police de la circulation routière dans la commune de Paris sont fixées par l'article L.
 2512-14 du code général des collectivités territoriales ci-après reproduit :
 
-"Art. L. 2512-14. - Les pouvoirs conférés au maire par le premier alinéa de l'article L. 2213-1 et par les articles L. 2213-2
-et L. 2213-3 sont exercés par le préfet de police.
+"Art. L. 2512-14. -  Les pouvoirs conférés au maire par le premier alinéa de l'article L. 2213-1 et par les articles L.
+2213-2 à L. 2213-6 sont, à Paris, exercés par le maire de Paris sous réserve des dispositions ci-après.
 
-Le préfet de police exerce les pouvoirs dévolus par l'article L. 2213-1 au représentant de l'Etat dans le département sur les
-routes à grande circulation."
+Pour les motifs d'ordre public ou liés à la sécurité des personnes et des biens ou pour assurer la protection du siège des
+institutions de la République et des représentations diplomatiques, le préfet de police détermine, de façon permanente ou
+temporaire, des sites où il réglemente les conditions de circulation et de stationnement dans certaines voies ou portions de
+voies, ou en réserve l'accès à certaines catégories d'usagers ou de véhicules.
+
+Des dispositions de même nature et à caractère temporaire peuvent également être arrêtées par le préfet de police, après avis
+du maire de Paris, en cas de manifestation de voie publique à caractère revendicatif, festif, sportif ou culturel.
+
+Le préfet de police fixe, après avis du maire de Paris, les règles de circulation et de stationnement sur certains axes pour
+tenir compte des conditions de circulation dans l'agglomération parisienne et en région d'Ile-de-France. Un décret précisera
+les voies concernées ainsi que les conditions de l'application du présent alinéa.
+
+Pour l'application des dispositions du présent article, le contrôle administratif et le pouvoir de substitution sont exercés,
+au nom de l'Etat, par le préfet de police.
+
+En outre, les pouvoirs conférés par le code de la route au préfet sont exercés à Paris par le préfet de police.
+
+L'exécution des dispositions du présent article est assurée par les fonctionnaires de la police nationale ou, le cas échéant,
+en matière de circulation ou de stationnement, par des agents de la ville de Paris placés sous l'autorité du préfet de
+police.
 
 **Liens relatifs à cet article**
 
@@ -6960,12 +6978,15 @@ _Codifié par_:
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
+_Modifié par_:
+
+  - Loi n°2002-276 du 27 février 2002 - art. 36 () JORF 28 février 2002
+
 _Cite_:
 
   - Code général des collectivités territoriales - art. L2213-1 (V)
-  - Code général des collectivités territoriales - art. L2213-2 (M)
-  - Code général des collectivités territoriales - art. L2213-3 (M)
   - Code général des collectivités territoriales - art. L2512-14 (M)
+  - Code général des collectivités territoriales L2512-14, L2213-1, L2213-2 à L2213-6
 
 
 ###### Article L411-3
