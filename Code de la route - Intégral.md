@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2003-07-10
+Version Consolidée au 2003-07-12
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -85,129 +85,130 @@ Version Consolidée au 2003-07-10
       - [Titre II : Permis de conduire. (art. R*221-2 à R225-5)](#82)
         - [Chapitre Ier : Délivrance et catégories. (art. R*221-2 à R221-21)](#83)
         - [Chapitre II : Reconnaissance et équivalences. (art. R222-1 à R222-8)](#84)
-        - [Chapitre III : Permis à points. (art. R223-1 à R223-14)](#85)
-          - [Section 2 : Des stages. (art. R223-14)](#86)
-        - [Chapitre IV : Interdiction de délivrance, rétention, suspension et annulation (art. R224-1 à R224-24)](#87)
-          - [Section 1 : Rétention et suspension administratives après constatation d'une infraction. (art. R224-1 à R224-19)](#88)
-          - [Section 2 : Interdiction de délivrance, suspension et annulation judiciaires. (art. R224-20 à R224-24)](#89)
-        - [Chapitre V : Enregistrement et communication des informations relatives au permis de conduire. (art. R225-1 à R225-5)](#90)
-      - [Titre III : Comportement du conducteur. (art. R231-1 à R235-13)](#91)
-        - [Chapitre Ier : Comportement en cas d'accident. (art. R231-1)](#92)
-        - [Chapitre II : Atteintes involontaires aux personnes. (art. R232-1)](#93)
-        - [Chapitre III : Comportement en cas de contrôle routier. (art. R233-1 à R233-3)](#94)
-        - [Chapitre IV : Conduite sous l'influence de l'alcool. (art. R234-1 à R234-4)](#95)
-        - [Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants (art. R235-1 à R235-13)](#96)
-          - [Section 1 : Dispositions générales (art. R235-1 à R235-2)](#97)
-          - [Section 2 : Epreuves de dépistage (art. R235-3 à R235-4)](#98)
-          - [Section 3 : Analyses et examens médicaux, cliniques et biologiques (art. R235-5 à R235-11)](#99)
-          - [Section 4 : Dispositions matérielles (art. R235-12 à R235-13)](#100)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R241-1 à R245-1)](#101)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R241-1 à R241-3)](#102)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R242-1 à R242-7)](#103)
-        - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie. (art. R243-1)](#104)
-        - [Chapitre IV : Dispositions applicables à la Polynésie française. (art. R244-1)](#105)
-        - [Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. R245-1)](#106)
-    - [Livre III : Le véhicule. (art. R311-1 à R343-4)](#107)
-      - [Titre Ier : Dispositions techniques. (art. R311-1 à R318-8)](#108)
-        - [Chapitre Ier : Dispositions générales et définitions. (art. R311-1 à R311-3)](#109)
-        - [Chapitre II : Poids et dimensions (art. R312-1 à R312-25)](#110)
-          - [Section 1 : Poids. (art. R312-1 à R312-9)](#111)
-          - [Section 2 : Dimensions des véhicules. (art. R312-10 à R312-18)](#112)
-          - [Section 3 : Dimensions et conditions du chargement. (art. R312-19 à R312-25)](#113)
-        - [Chapitre III : Eclairage et signalisations (art. R313-1 à R313-35)](#114)
-          - [Section 1 : Eclairage et signalisation des véhicules. (art. R313-1 à R313-32)](#115)
-          - [Section 2 : Signaux d'avertissement. (art. R313-33 à R313-35)](#116)
-        - [Chapitre IV : Pneumatiques. (art. R314-1 à R314-7)](#117)
-        - [Chapitre V : Freinage. (art. R315-1 à R315-6)](#118)
-        - [Chapitre VI : Organes de manoeuvre, de direction et de visibilité. (art. R316-1 à R316-10)](#119)
-        - [Chapitre VII : Dispositifs et aménagements particuliers (art. R317-1 à R317-29)](#120)
-          - [Section 1 : Appareils de contrôle et de limitation de la vitesse. (art. R317-1 à R317-7)](#121)
-          - [Section 2 : Plaques et inscriptions. (art. R317-8 à R317-14)](#122)
-          - [Section 3 : Dispositif antivol. (art. R317-15 à R317-17)](#123)
-          - [Section 4 : Attelage des remorques. (art. R317-18 à R317-20)](#124)
-          - [Section 5 : Remorquage des véhicules en panne ou accidentés. (art. R317-21 à R317-22)](#125)
-          - [Section 6 : Autres aménagements. (art. R317-23 à R317-29)](#126)
-        - [Chapitre VIII : Energie, émissions polluantes et nuisances. (art. R318-1 à R318-8)](#127)
-      - [Titre II : Dispositions administratives. (art. R321-1 à R327-20)](#128)
-        - [Chapitre Ier : Réception et homologation (art. R321-1 à R321-24)](#129)
-          - [Section 1 : Dispositions générales. (art. R321-1 à R321-5)](#130)
-          - [Section 2 : Réception communautaire ou réception CE. (art. R321-6 à R321-14)](#131)
-          - [Section 3 : Réception nationale par type ou à titre isolé et homologation. (art. R321-15 à R321-24)](#132)
-        - [Chapitre II : Immatriculation (art. R*322-12 à R322-18)](#133)
-          - [Section 1 : Délivrance du certificat d'immatriculation. (art. R*322-12 à R322-14)](#134)
-          - [Section 2 : Opposition au transfert du certificat d'immatriculation. (art. R322-15 à R322-18)](#135)
-        - [Chapitre III : Contrôle technique (art. R323-1 à R323-26)](#136)
-          - [Section 1 : Dispositions générales. (art. R323-1 à R323-5)](#137)
-          - [Section 2 : Dispositions applicables aux voitures particulières et aux camionnettes. (art. R323-6 à R323-22)](#138)
-          - [Section 3 : Dispositions applicables aux autres véhicules. (art. R323-23 à R323-26)](#139)
-        - [Chapitre IV : Assurance. (art. R324-1 à R324-2)](#140)
-        - [Chapitre V : Immobilisation et mise en fourrière (art. R325-1 à R325-52)](#141)
-          - [Section 1 : Dispositions générales. (art. R325-1)](#142)
-          - [Section 2 : Immobilisation. (art. R325-2 à R325-11)](#143)
-          - [Section 3 : Fourrière (art. R325-12 à R325-52)](#144)
-            - [Sous-section 1 : Dispositions générales. (art. R325-12 à R325-46)](#145)
-            - [Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique. (art. R325-47 à R325-52)](#146)
-        - [Chapitre VI : Véhicules accidentés (art. R326-1 à R326-9)](#147)
-          - [Section 1 : Véhicules gravement accidentés. (art. R326-1 à R326-5)](#148)
-          - [Section 2 : Véhicules économiquement irréparables. (art. R326-6 à R326-9)](#149)
-        - [Chapitre VII : Organisation de la profession d'expert en automobile. (art. R327-1 à R327-20)](#150)
-      - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-5)](#151)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R343-4)](#152)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R341-1)](#153)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R342-1 à R342-5)](#154)
-        - [Chapitre III : Dispositions applicables à la Polynésie française (art. R343-1 à R343-4)](#155)
-          - [Section 1 : Dispositions générales. (art. R343-1)](#156)
-          - [Section 2 : Immobilisation. (art. R343-2 à R343-3)](#157)
-          - [Section 3 : Fourrière. (art. R343-4)](#158)
-    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#159)
-      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#160)
-        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#161)
-          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#162)
-          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-17)](#163)
-          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-18 à R411-24)](#164)
-          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#165)
-          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#166)
-        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#167)
-          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#168)
-          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#169)
-          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#170)
-          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28)](#171)
-          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#172)
-          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#173)
-          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#174)
-          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#175)
-        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#176)
-          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#177)
-          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#178)
-        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#179)
-          - [Section 1 : Croisement. (art. R414-1 à R414-3)](#180)
-          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#181)
-        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#182)
-        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#183)
-          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#184)
-          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#185)
-          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#186)
-        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#187)
-          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#188)
-          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#189)
-        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#190)
-      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-4)](#191)
-        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-9)](#192)
-        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-4)](#193)
-      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R434-4)](#194)
-        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#195)
-        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#196)
-          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#197)
-          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#198)
-          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#199)
-        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-8)](#200)
-          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#201)
-          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#202)
-          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#203)
-        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#204)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#205)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#206)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#207)
+        - [Chapitre III : Permis à points. (art. R223-1 à R223-13)](#85)
+          - [Section 1 : Principes généraux. (art. R223-2 à R223-3)](#86)
+          - [Section 2 : Des stages. (art. R223-5 à R223-13)](#87)
+        - [Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation (art. R224-1 à R224-24)](#88)
+          - [Section 1 : Rétention et suspension administratives après constatation d'une infraction. (art. R224-1 à R224-19)](#89)
+          - [Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation. (art. R224-20 à R224-24)](#90)
+        - [Chapitre V : Enregistrement et communication des informations relatives au permis de conduire. (art. R225-1 à R225-5)](#91)
+      - [Titre III : Comportement du conducteur. (art. R231-1 à R235-13)](#92)
+        - [Chapitre Ier : Comportement en cas d'accident. (art. R231-1)](#93)
+        - [Chapitre II : Atteintes involontaires aux personnes. (art. R232-1)](#94)
+        - [Chapitre III : Comportement en cas de contrôle routier. (art. R233-1 à R233-3)](#95)
+        - [Chapitre IV : Conduite sous l'influence de l'alcool. (art. R234-1 à R234-4)](#96)
+        - [Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants (art. R235-1 à R235-13)](#97)
+          - [Section 1 : Dispositions générales (art. R235-1 à R235-2)](#98)
+          - [Section 2 : Epreuves de dépistage (art. R235-3 à R235-4)](#99)
+          - [Section 3 : Analyses et examens médicaux, cliniques et biologiques (art. R235-5 à R235-11)](#100)
+          - [Section 4 : Dispositions matérielles (art. R235-12 à R235-13)](#101)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R241-1 à R245-1)](#102)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R241-1 à R241-3)](#103)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R242-1 à R242-7)](#104)
+        - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie. (art. R243-1)](#105)
+        - [Chapitre IV : Dispositions applicables à la Polynésie française. (art. R244-1)](#106)
+        - [Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. R245-1)](#107)
+    - [Livre III : Le véhicule. (art. R311-1 à R343-4)](#108)
+      - [Titre Ier : Dispositions techniques. (art. R311-1 à R318-8)](#109)
+        - [Chapitre Ier : Dispositions générales et définitions. (art. R311-1 à R311-3)](#110)
+        - [Chapitre II : Poids et dimensions (art. R312-1 à R312-25)](#111)
+          - [Section 1 : Poids. (art. R312-1 à R312-9)](#112)
+          - [Section 2 : Dimensions des véhicules. (art. R312-10 à R312-18)](#113)
+          - [Section 3 : Dimensions et conditions du chargement. (art. R312-19 à R312-25)](#114)
+        - [Chapitre III : Eclairage et signalisations (art. R313-1 à R313-35)](#115)
+          - [Section 1 : Eclairage et signalisation des véhicules. (art. R313-1 à R313-32)](#116)
+          - [Section 2 : Signaux d'avertissement. (art. R313-33 à R313-35)](#117)
+        - [Chapitre IV : Pneumatiques. (art. R314-1 à R314-7)](#118)
+        - [Chapitre V : Freinage. (art. R315-1 à R315-6)](#119)
+        - [Chapitre VI : Organes de manoeuvre, de direction et de visibilité. (art. R316-1 à R316-10)](#120)
+        - [Chapitre VII : Dispositifs et aménagements particuliers (art. R317-1 à R317-28)](#121)
+          - [Section 1 : Appareils de contrôle et de limitation de la vitesse. (art. R317-1 à R317-7)](#122)
+          - [Section 2 : Plaques et inscriptions. (art. R317-8 à R317-14)](#123)
+          - [Section 3 : Dispositif antivol. (art. R317-15 à R317-17)](#124)
+          - [Section 4 : Attelage des remorques. (art. R317-18 à R317-20)](#125)
+          - [Section 5 : Remorquage des véhicules en panne ou accidentés. (art. R317-21 à R317-22)](#126)
+          - [Section 6 : Autres aménagements. (art. R317-23 à R317-28)](#127)
+        - [Chapitre VIII : Energie, émissions polluantes et nuisances. (art. R318-1 à R318-8)](#128)
+      - [Titre II : Dispositions administratives. (art. R321-1 à R327-20)](#129)
+        - [Chapitre Ier : Réception et homologation (art. R321-1 à R321-24)](#130)
+          - [Section 1 : Dispositions générales. (art. R321-1 à R321-5)](#131)
+          - [Section 2 : Réception communautaire ou réception CE. (art. R321-6 à R321-14)](#132)
+          - [Section 3 : Réception nationale par type ou à titre isolé et homologation. (art. R321-15 à R321-24)](#133)
+        - [Chapitre II : Immatriculation (art. R*322-12 à R322-18)](#134)
+          - [Section 1 : Délivrance du certificat d'immatriculation. (art. R*322-12 à R322-14)](#135)
+          - [Section 2 : Opposition au transfert du certificat d'immatriculation. (art. R322-15 à R322-18)](#136)
+        - [Chapitre III : Contrôle technique (art. R323-1 à R323-26)](#137)
+          - [Section 1 : Dispositions générales. (art. R323-1 à R323-5)](#138)
+          - [Section 2 : Dispositions applicables aux voitures particulières et aux camionnettes. (art. R323-6 à R323-22)](#139)
+          - [Section 3 : Dispositions applicables aux autres véhicules. (art. R323-23 à R323-26)](#140)
+        - [Chapitre IV : Assurance. (art. R324-1 à R324-2)](#141)
+        - [Chapitre V : Immobilisation et mise en fourrière (art. R325-1 à R325-52)](#142)
+          - [Section 1 : Dispositions générales. (art. R325-1)](#143)
+          - [Section 2 : Immobilisation. (art. R325-2 à R325-11)](#144)
+          - [Section 3 : Fourrière (art. R325-12 à R325-52)](#145)
+            - [Sous-section 1 : Dispositions générales. (art. R325-12 à R325-46)](#146)
+            - [Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique. (art. R325-47 à R325-52)](#147)
+        - [Chapitre VI : Véhicules accidentés (art. R326-1 à R326-9)](#148)
+          - [Section 1 : Véhicules gravement accidentés. (art. R326-1 à R326-5)](#149)
+          - [Section 2 : Véhicules économiquement irréparables. (art. R326-6 à R326-9)](#150)
+        - [Chapitre VII : Organisation de la profession d'expert en automobile. (art. R327-1 à R327-20)](#151)
+      - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-5)](#152)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R343-4)](#153)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R341-1)](#154)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R342-1 à R342-5)](#155)
+        - [Chapitre III : Dispositions applicables à la Polynésie française (art. R343-1 à R343-4)](#156)
+          - [Section 1 : Dispositions générales. (art. R343-1)](#157)
+          - [Section 2 : Immobilisation. (art. R343-2 à R343-3)](#158)
+          - [Section 3 : Fourrière. (art. R343-4)](#159)
+    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#160)
+      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#161)
+        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#162)
+          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#163)
+          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-17)](#164)
+          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-18 à R411-24)](#165)
+          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#166)
+          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#167)
+        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#168)
+          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#169)
+          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#170)
+          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#171)
+          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28)](#172)
+          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#173)
+          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#174)
+          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#175)
+          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#176)
+        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#177)
+          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#178)
+          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#179)
+        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#180)
+          - [Section 1 : Croisement. (art. R414-1 à R414-3)](#181)
+          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#182)
+        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#183)
+        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#184)
+          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#185)
+          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#186)
+          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#187)
+        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#188)
+          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#189)
+          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#190)
+        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#191)
+      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-4)](#192)
+        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-9)](#193)
+        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-4)](#194)
+      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R434-4)](#195)
+        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#196)
+        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#197)
+          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#198)
+          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#199)
+          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#200)
+        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-8)](#201)
+          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#202)
+          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#203)
+          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#204)
+        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#205)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#206)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#207)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#208)
 # Partie législative<a id=1></a>
 
 ## Livre 1er : Dispositions générales<a id=2></a>
@@ -9759,7 +9760,8 @@ _Anciens textes_:
 ###### Article R211-5
 
 I. - L'apprentissage anticipé de la conduite est un apprentissage particulier dispensé en vue de l'obtention de la catégorie
-B du permis de conduire.
+B du permis de conduire. Cet apprentissage ne peut être effectué après annulation ou invalidation du permis de conduire de
+cette catégorie.
 
 II. - Il comprend deux périodes :
 
@@ -9775,11 +9777,19 @@ d'un accompagnateur titulaire de la catégorie B du permis de conduire depuis tr
 
 IV. - Un arrêté du ministre chargé des transports fixe les conditions d'application du présent article.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Cité par_:
 
@@ -10061,10 +10071,10 @@ infractions suivantes :
 
 I. - Délits d'atteinte à la personne humaine prévus par le code pénal :
 
-- atteinte involontaire à la vie (art. 221-6) ;
+- atteinte involontaire à la vie (art. 221-6-1) ;
 
-- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13, 222-14 [3° et 4°], 222-19 et 222-20,
-222-27 à 222-33) ;
+- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13, 222-14 [3° et 4°], 222-19-1 et 222-20-1,
+222-2 à 222-33) ;
 
 - mise en danger de la vie d'autrui (art. 223-1) ;
 
@@ -10129,9 +10139,10 @@ V. - Délits prévus par le code du travail :
 VI. - Délits prévus par le code de la route :
 
 - conduite sous l'empire d'un état alcoolique ou en état d'ivresse, délit de fuite, refus de se soumettre aux vérifications
-destinées à établir la preuve de l'état alcoolique, refus d'obtempérer ou obstacle à l'immobilisation du véhicule, grand
-excès de vitesse en récidive, organisation de courses de véhicules à moteur sans autorisation (art. L. 224-5, L. 231-1, L.
-233-1, L. 234-1, L. 234-8, L. 411-7 et L. 413-1) ;
+destinées à établir la preuve de l'état alcoolique, conduite après usage de stupéfiants, refus de se soumettre aux
+vérifications destinées à établir la preuve de l'usage de stupéfiants, refus d'obtempérer ou obstacle à l'immobilisation du
+véhicule, grand excès de vitesse en récidive, organisation de courses de véhicules à moteur sans autorisation (art. L. 224-5,
+L. 231-1, L. 233-1, L. 234-1, L. 234-8, L. 235-1, L. 235-3, L. 411-7 et L. 413-1) ;
 
 - entrave à la circulation (art. L. 412-1) ;
 
@@ -10140,8 +10151,8 @@ des véhicules de transports routiers, absence à bord du véhicule du transport
 détournement d'un véhicule confisqué (art. L. 234-12 (III), L. 317-1 à L. 317-4, L. 325-4 et L. 325-5) ;
 
 - conduite en récidive d'un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule
-considéré, conduite d'un véhicule malgré la rétention, la suspension ou l'annulation du permis de conduire (art. L. 221-2 et
-L. 224-16) ;
+considéré, conduite d'un véhicule malgré la rétention, l'invalidation, la suspension ou l'annulation du permis de conduire
+(art. L. 221-2, L. 223-5 et L. 224-16) ;
 
 - enseignement de la conduite des véhicules terrestres à moteur sans autorisation ou en violation d'une mesure de suspension
 (art. L. 212-4) ;
@@ -10151,9 +10162,19 @@ administrative (art. L. 225-7 et L. 330-6) ;
 
 - usage d'un faux nom ou d'une fausse qualité pour obtenir des renseignements sur un conducteur (art. L. 225-8 et L. 330-7).
 
+- délits liés à la commercialisation de dispositifs ayant pour objet d'augmenter la puissance du moteur d'un cyclomoteur
+(art. L. 317-5 à L. 317-8) ;
+
+- délits liés à la commercialisation de dispositifs destinés à déceler la présence ou à perturber le fonctionnement des
+systèmes de constatation des infractions à la circulation routière (art. L. 413-2 à L. 413-5).
+
 VII. - Délit prévu par le code de la santé publique :
 
 - usage de manière illicite de l'une des substances ou plantes classées comme stupéfiants (art. L. 3424-1).
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -10196,6 +10217,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -10922,29 +10947,45 @@ _Anciens textes_:
 
 ###### Article R221-1
 
-Nul ne peut conduire un véhicule ou un ensemble de véhicules, pour la conduite duquel le permis de conduire est exigé par le
-présent code, s'il n'est titulaire de la catégorie du permis de conduire correspondante, en état de validité et délivrée par
-le préfet du département de sa résidence ou par le préfet du département dans lequel les examens ont été subis. Par
+I- Nul ne peut conduire un véhicule ou un ensemble de véhicules, pour la conduite duquel le permis de conduire est exigé par
+le présent code, s'il n'est titulaire de la catégorie du permis de conduire correspondante, en état de validité et délivrée
+par le préfet du département de sa résidence ou par le préfet du département dans lequel les examens ont été subis. Par
 dérogation à l'article R. 110-1, ces dispositions sont également applicables à la conduite sur les voies non ouvertes à la
 circulation publique, sauf dispositions différentes prévues aux articles R. 221-16 à R. 221-18.
 
 La possession du permis de conduire ne dispense pas son titulaire du respect des dispositions prises en ce qui concerne les
 conditions de travail dans les transports en vue de la sécurité routière.
 
-Le fait de conduire un véhicule sans être titulaire de la catégorie du permis de conduire exigée pour le véhicule considéré
-ou après avoir reçu l'injonction prévue à l'article L. 223-5 est puni de l'amende prévue pour les contraventions de la
-cinquième classe.
+II- Sauf dans le cas des personnes justifiant qu'elles apprennent à conduire dans les conditions prévues par les articles R.
+211-3 à R. 211-5, le fait de conduire un véhicule sans être titulaire de la catégorie du permis de conduire exigée pour le
+véhicule considéré est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+III- L'immobilisation peut être prescrite dans les conditions prévue aux articles L. 325-1 à L. 325-3.
 
-Les dispositions des deux alinéas précédents ne sont pas applicables aux personnes justifiant qu'elles apprennent à conduire,
-dans les conditions prévues par les articles R. 211-3 à R. 211-5.
+IV- Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
+suivantes :
+
+1°- L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de trois ans au plus ;
+
+2°- L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
+
+3°- L'obligation d'accomplir un travail d'intérêt général pour une durée de vingt à cent vingt heures.
+
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 2 () JORF 12 juillet 2003
+  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
 
 _Cité par_:
 
@@ -10972,17 +11013,12 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route R110-1, R221-16 à R221-18, L223-5, L325-1 à L325-3, R211-3 à R211-5
-  - Code de la route. - art. L223-5 (M)
+  - Code de la route R110-1, R221-16 à R221-18, R211-3 à R211-5, L325-1 à L325-3
   - Code de la route. - art. R110-1 (V)
 
 _Nouveaux textes_:
 
   - Code de la route. - art. R221-1-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
 
 
 ###### Article R221-3
@@ -12232,74 +12268,6 @@ _Anciens textes_:
   - Code de la route R255
 
 
-###### Article R223-2
-
-Dans le cas où plusieurs contraventions sont commises simultanément, le retrait de points qu'elles entraînent se cumule dans
-la limite de six points.
-
-Dans le cas où plusieurs infractions dont au moins un délit sont commises simultanément le retrait de points qu'elles
-entraînent se cumule dans la limite de huit points.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Anciens textes_:
-
-  - Code de la route - art. R257 (Ab)
-  - Code de la route R257
-
-
-###### Article R223-3
-
-I. - Lors de la constatation d'une infraction, l'auteur de celle-ci est informé que cette infraction est susceptible
-d'entraîner le retrait d'un certain nombre de points si sa réalité est établie dans les conditions prévues à l'article L.
-223-1.
-
-II. - Il est informé également de l'existence d'un traitement automatisé des retraits et reconstitutions de points et de la
-possibilité pour lui d'accéder aux informations le concernant. Ces mentions figurent sur le document qui lui est remis par
-l'agent verbalisateur ou communiqué par les services de police ou de gendarmerie. Le droit d'accès aux informations ci-dessus
-mentionnées s'exerce dans les conditions fixées par les articles L. 225-1 à L. 225-9.
-
-III. - Lorsque le ministre de l'intérieur constate que la réalité d'une infraction entraînant retrait de points est établie
-dans les conditions prévues par les alinéas 3 et 4 de l'article L. 223-1, il réduit en conséquence le nombre de points
-affecté au permis de conduire de l'auteur de cette infraction et en informe ce dernier par lettre simple. Le ministre de
-l'intérieur constate et notifie à l'intéressé, dans les mêmes conditions, les reconstitutions de points auxquelles il a droit
-en vertu des alinéas 1 et 3 de l'article L. 223-6.
-
-IV. - En cas de retrait de la totalité des points, le préfet du département ou l'autorité compétente du territoire ou de la
-collectivité territoriale d'outre-mer, du lieu de résidence, enjoint à l'intéressé, par lettre recommandée, de restituer son
-titre de conduite dans un délai d'une semaine à compter de la réception de cette lettre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-536 du 20 juin 2003 - art. 3 () JORF 22 juin 2003
-
-_Cité par_:
-
-  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
-  - Code de la route. - art. R223-4 (M)
-
-_Anciens textes_:
-
-  - Code de la route - art. R258 (Ab)
-  - Code de la route R258
-
-_Cite_:
-
-  - Code de la route L225-1 à L225-9, L223-1, L223-6
-  - Code de la route. - art. L223-1 (M)
-  - Code de la route. - art. L223-6 (M)
-
-
 ###### Article R223-4
 
 Lorsqu'elle est adressée à un conducteur titulaire du permis de conduire depuis moins de deux ans, auteur d'une infraction
@@ -12336,105 +12304,6 @@ _Cite_:
 
   - Code de la route. - art. L223-6 (M)
   - Code de la route. - art. R223-3 (M)
-
-
-###### Article R223-5
-
-La formation spécifique prévue par le second alinéa de l'article L. 223-6 est destinée à éviter la réitération des
-comportements dangereux. Elle est organisée sous la forme d'un stage d'une durée minimale de seize heures réparties sur deux
-jours.
-
-Les personnes physiques ou morales qui se proposent de dispenser cette formation doivent obtenir préalablement un agrément du
-préfet du département, ou de l'autorité compétente du territoire ou de la collectivité territoriale d'outre-mer, du lieu
-d'implantation de leur activité, qui vérifie que les obligations définies par les articles R. 223-5 à R. 223-8 pourront être
-respectées. Elles établissent à cet effet un dossier dont la teneur est précisée par arrêté conjoint du ministre l'intérieur
-et du ministre chargé des transports.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Cité par_:
-
-  - Arrêté du 26 juin 2012 - art. 1 (V)
-  - Code de la route. - art. R212-1 (V)
-  - Code de la route. - art. R213-2 (V)
-  - Code de la route. - art. R223-10 (Ab)
-  - Code de la route. - art. R223-11 (Ab)
-  - Code de la route. - art. R223-12 (Ab)
-  - Code de la route. - art. R223-5 (V)
-  - Code de la route. - art. R223-6 (V)
-  - Code de la route. - art. R223-7 (V)
-  - Code de la route. - art. R223-8 (M)
-  - Code de la route. - art. R223-9 (Ab)
-  - Code pénal - art. R131-11-1 (V)
-
-_Anciens textes_:
-
-  - Code de la route - art. R259 (Ab)
-  - Code de la route R259
-
-_Cite_:
-
-  - Code de la route L223-6, R223-5 à R223-8
-  - Code de la route. - art. L223-6 (M)
-
-
-###### Article R223-6
-
-I. - La formation doit comprendre :
-
-1° Un enseignement portant sur les facteurs généraux de l'insécurité routière ;
-
-2° Un ou plusieurs enseignements spécialisés dont l'objet est d'approfondir l'analyse de situations ou de facteurs
-générateurs d'accidents de la route.
-
-II. - Le programme de ces enseignements est fixé par l'arrêté mentionné à l'article R. 223-5.
-
-III. - Cette formation peut inclure un entretien avec un psychologue et un enseignement pratique de conduite.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Anciens textes_:
-
-  - Code de la route - art. R260 (Ab)
-  - Code de la route R260
-
-_Cite_:
-
-  - Code de la route. - art. R223-5 (M)
-
-
-###### Article R223-7
-
-La conduite et l'animation de chaque stage sont assurées par des formateurs reconnus aptes par le préfet. Ces formateurs
-doivent, pour certains d'entre eux, être titulaires d'un diplôme spécifique de formateur à la conduite automobile et, pour
-d'autres, être titulaires d'un diplôme permettant de faire usage du titre de psychologue.
-
-Pour être reconnus aptes, ces formateurs doivent suivre une préparation spécifique à l'animation des stages. L'arrêté
-interministériel mentionné à l'article R. 223-5 précise le contenu et les modalités de cette préparation ainsi que la liste
-des diplômes dont la possession est exigée des formateurs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Anciens textes_:
-
-  - Code de la route - art. R261 (Ab)
-  - Code de la route R261
-
-_Cite_:
-
-  - Code de la route. - art. R223-5 (M)
 
 
 ###### Article R223-8
@@ -12483,6 +12352,204 @@ _Cite_:
   - Code de la route. - art. R223-5 (M)
 
 
+##### Section 1 : Principes généraux.<a id=86></a>
+
+###### Article R223-2
+
+Dans le cas où plusieurs infractions entraînant retrait de points sont commises simultanément, les retraits de points se
+cumulent dans la limite de huit points.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 2003-07-11 art. 4 III, IV JORF 12 juillet 2003
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Anciens textes_:
+
+  - Code de la route - art. R257 (Ab)
+  - Code de la route R257
+
+
+###### Article R223-3
+
+I. - Lors de la constatation d'une infraction entraînant retrait de points, l'auteur de celle-ci est informé qu'il encourt un
+retrait de points si la réalité de l'infraction est établie dans les conditions définies à l'article L. 223-1.
+
+II. - Il est informé également de l'existence d'un traitement automatisé des retraits et reconstitutions de points et de la
+possibilité pour lui d'accéder aux informations le concernant. Ces mentions figurent sur le document qui lui est remis ou
+adressé par le service verbalisateur. Le droit d'accès aux informations ci-dessus mentionnées s'exerce dans les conditions
+fixées par les articles L. 225-1 à L. 225-9.
+
+III. - Lorsque le ministre de l'intérieur constate que la réalité d'une infraction entraînant retrait de points est établie
+dans les conditions prévues par le quatrième alinéa de l'article L. 223-1, il réduit en conséquence le nombre de points
+affecté au permis de conduire de l'auteur de cette infraction et en informe ce dernier par lettre simple. Le ministre de
+l'intérieur constate et notifie à l'intéressé, dans les mêmes conditions, les reconstitutions de points obtenues en
+application des alinéas 1 et 3 de l'article L. 223-6.
+
+IV. - Lorsque le nombre de points est nul, le préfet du département ou l'autorité compétente du territoire ou de la
+collectivité territoriale d'outre-mer, du lieu de résidence, enjoint à l'intéressé, par lettre recommandée, de restituer son
+titre de conduite dans un délai d'une semaine à compter de la réception de cette lettre.
+
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.    NOTA : La présente version de cet article est en
+vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 2003-07-11 art. 4 III, IV JORF 12 juillet 2003
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Cité par_:
+
+  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
+  - Code de la route. - art. R223-4 (M)
+
+_Anciens textes_:
+
+  - Code de la route - art. R258 (Ab)
+  - Code de la route R258
+
+_Cite_:
+
+  - Code de la route L223-1, L225-1 à L225-9, L223-6
+  - Code de la route. - art. L223-1 (M)
+  - Code de la route. - art. L223-6 (M)
+
+
+##### Section 2 : Des stages.<a id=87></a>
+
+###### Article R223-5
+
+I- La formation spécifique prévue par le deuxième alinéa de l'article L. 223-6 est destinée à éviter la réitération des
+comportements dangereux. Elle est organisée sous la forme d'un stage d'une durée minimale de seize heures réparties sur deux
+jours consécutifs.
+
+II- Les personnes physiques ou morales qui se proposent de dispense cette formation doivent obtenir préalablement un agrément
+du préfet du département, ou de l'autorité compétente du territoire ou de la collectivité territoriale d'outre-mer, du lieu
+d'implantation de leur activité, qui vérifie que les obligations définies par les articles R. 223-5 à R. 223-8 pourront être
+respectées. Elles établissent à cet effet un dossier dont la teneur est précisée par arrêté conjoint du ministre l'intérieur
+et du ministre chargé des transports.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 2003-07-11 art. 4 V, VI JORF 12 juillet 2003
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Cité par_:
+
+  - Arrêté du 26 juin 2012 - art. 1 (V)
+  - Code de la route. - art. R212-1 (V)
+  - Code de la route. - art. R213-2 (V)
+  - Code de la route. - art. R223-10 (Ab)
+  - Code de la route. - art. R223-11 (Ab)
+  - Code de la route. - art. R223-12 (Ab)
+  - Code de la route. - art. R223-5 (V)
+  - Code de la route. - art. R223-6 (V)
+  - Code de la route. - art. R223-7 (V)
+  - Code de la route. - art. R223-8 (M)
+  - Code de la route. - art. R223-9 (Ab)
+  - Code pénal - art. R131-11-1 (V)
+
+_Anciens textes_:
+
+  - Code de la route - art. R259 (Ab)
+  - Code de la route R259
+
+
+###### Article R223-6
+
+I. - La formation doit comprendre :
+
+1° Un enseignement portant sur les facteurs généraux de l'insécurité routière ;
+
+2° Un ou plusieurs enseignements spécialisés dont l'objet est d'approfondir l'analyse de situations ou de facteurs
+générateurs d'accidents de la route.
+
+II. - Le programme de ces enseignements est fixé par l'arrêté mentionné à l'article R. 223-5.
+
+III. - Cette formation peut inclure un entretien avec un psychologue et un enseignement pratique de conduite.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Anciens textes_:
+
+  - Code de la route - art. R260 (Ab)
+  - Code de la route R260
+
+_Cite_:
+
+  - Code de la route. - art. R223-5 (M)
+
+
+###### Article R223-7
+
+La conduite et l'animation de chaque stage sont assurées par des formateurs reconnus aptes par le préfet. Ces formateurs
+doivent, pour certains d'entre eux, être titulaires d'un diplôme spécifique de formateur à la conduite automobile et, pour
+d'autres, être titulaires d'un diplôme permettant de faire usage du titre de psychologue.
+
+Pour être reconnus aptes, ces formateurs doivent suivre une préparation spécifique à l'animation des stages. L'arrêté
+interministériel mentionné à l'article R. 223-5 précise le contenu et les modalités de cette préparation ainsi que la liste
+des diplômes dont la possession est exigée des formateurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Anciens textes_:
+
+  - Code de la route - art. R261 (Ab)
+  - Code de la route R261
+
+_Cite_:
+
+  - Code de la route. - art. R223-5 (M)
+
+
 ###### Article R223-9
 
 I. - Afin de permettre le contrôle des obligations mentionnées aux articles R. 223-5 à R. 223-8, les délégués au permis de
@@ -12499,19 +12566,23 @@ accueillis et la liste des formateurs employés ;
 2° Pour l'année en cours, le programme, le contenu et le calendrier prévisionnels des stages et la liste des formateurs
 pressentis.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-1095 2001-11-15 art. 2 : application à Mayotte
-
 _Modifié par_:
 
-  - Décret n°2001-1095 du 15 novembre 2001 - art. 1 () JORF 22 novembre 2001
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 23
 
 _Anciens textes_:
 
@@ -12520,8 +12591,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route R223-5 à R223-8, R223-5
-  - Code de la route. - art. R223-5 (M)
+  - Code de la route.
+  - Code de la route. - art. R223-5
 
 
 ###### Article R223-10
@@ -12531,11 +12602,23 @@ cet agrément par les articles R. 223-5 à R. 223-9 ont été méconnues. Cette 
 personne intéressée a été mise à même de présenter des observations écrites et, le cas échéant, sur sa demande, des
 observations orales.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 23
 
 _Anciens textes_:
 
@@ -12544,8 +12627,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route R223-5, R223-5 à R223-9
-  - Code de la route. - art. R223-5 (M)
+  - Code de la route.
+  - Code de la route. - art. R223-5
 
 
 ###### Article R223-11
@@ -12563,11 +12646,23 @@ II. - Ce comité, placé sous la présidence du préfet ou de son représentant,
 
 4° D'un fonctionnaire responsable de la formation des conducteurs désigné par le ministre chargé des transports.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 _Anciens textes_:
 
@@ -12587,11 +12682,23 @@ toutes questions relatives au déroulement de la formation spécifique.
 Le préfet peut en outre inviter à participer, avec voix consultative, aux travaux du comité mentionnés ci-dessus des
 personnes titulaires de l'agrément prévu à l'article R. 223-5 ainsi que des formateurs.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 _Anciens textes_:
 
@@ -12621,11 +12728,19 @@ stagiaires.
 
 Un arrêté du ministre chargé des transports précise le contenu détaillé des épreuves et les modalités de l'examen.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -12633,41 +12748,9 @@ _Anciens textes_:
   - Code de la route R246-1
 
 
-##### Section 2 : Des stages.<a id=86></a>
+#### Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation<a id=88></a>
 
-###### Article R223-14
-
-Tout conducteur dont le permis de conduire a perdu sa validité en application de l'article L. 223-1 et qui sollicite un
-nouveau permis doit subir à nouveau les épreuves prévues à l'article R. 221-3.
-
-Toutefois, pour les conducteurs titulaires du permis de conduire depuis au moins trois ans à la date de la perte de validité
-du permis, l'épreuve pratique est supprimée sous réserve qu'ils sollicitent un nouveau permis moins de trois mois après la
-date à laquelle ils sont autorisés à le faire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
-
-_Anciens textes_:
-
-  - Code de la route - art. R130 (Ab)
-  - Code de la route R130
-
-_Cite_:
-
-  - Code de la route. - art. L223-1 (M)
-  - Code de la route. - art. R221-3 (V)
-
-
-#### Chapitre IV : Interdiction de délivrance, rétention, suspension et annulation<a id=87></a>
-
-##### Section 1 : Rétention et suspension administratives après constatation d'une infraction.<a id=88></a>
+##### Section 1 : Rétention et suspension administratives après constatation d'une infraction.<a id=89></a>
 
 ###### Article R224-1
 
@@ -12675,11 +12758,19 @@ Dans les cas prévus à l'article L. 224-1, la décision de rétention du permis
 la remise matérielle de ce titre, donne lieu à l'établissement d'un avis de rétention dont un exemplaire est immédiatement
 remis au conducteur ou à l'accompagnateur de l'élève conducteur.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -12696,11 +12787,19 @@ _Cite_:
 L'avis de rétention indique notamment au conducteur ou à l'accompagnateur de l'élève conducteur à quel service il devra
 s'adresser pour se voir restituer son permis de conduire.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -12716,11 +12815,19 @@ conducteur ou de l'accompagnateur de l'élève conducteur dans les bureaux du se
 Toutefois, si la période de rétention expire entre dix-huit et vingt-deux heures, le délai de mise à disposition est prorogé
 jusqu'à midi le jour suivant.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -12742,11 +12849,19 @@ Lorsqu'une mesure de suspension a été prise en application de l'article L. 224
 directement s'il se présente au service indiqué dans l'avis de rétention, soit par lettre recommandée avec accusé de
 réception.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -12764,11 +12879,19 @@ _Cite_:
 Si, après vérification, l'état alcoolique du conducteur ou de l'accompagnateur de l'élève conducteur n'est pas établi, son
 permis de conduire est remis sans délai à sa disposition.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -12790,11 +12913,23 @@ les mesures prévues aux articles L. 224-7 et L. 224-8.
 La commission siégeant au chef-lieu du département ou au chef-lieu de l'arrondissement est dénommée commission de suspension
 du permis de conduire.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 _Cité par_:
 
@@ -12814,10 +12949,6 @@ _Cite_:
   - Code de la route. - art. L224-7 (M)
   - Code de la route. - art. L224-8 (M)
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
-
 
 ###### Article R224-7
 
@@ -12826,20 +12957,28 @@ d'arrondissement ou d'un groupe d'arrondissements, la commission est présidée 
 la commission. En cas d'empêchement du préfet ou du sous-préfet compétent, la commission est présidée par un fonctionnaire
 désigné par le préfet ou le sous-préfet.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
+
 _Anciens textes_:
 
   - Code de la route - art. R268-1 (Ab)
   - Code de la route R268-1
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 
 ###### Article R224-8
@@ -12863,11 +13002,23 @@ préfet compétent pour une durée de deux ans renouvelable.
 III. - Lorsque la nature de l'affaire l'exige, la commission peut faire appel à un médecin membre de la commission médicale
 d'examen du permis de conduire. Ce médecin a dans ce cas voix délibérative.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 _Anciens textes_:
 
@@ -12880,10 +13031,6 @@ _Cité par_:
   - Code de la route. - art. R241-3 (Ab)
   - Code de la route. - art. R242-5 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
-
 
 ###### Article R224-9
 
@@ -12891,11 +13038,23 @@ La commission désigne en outre, en son sein, parmi les représentants des usage
 l'article L. 224-8. En cas d'empêchement, ce délégué peut être remplacé par des suppléants désignés dans les mêmes
 conditions, dans un ordre déterminé.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 _Anciens textes_:
 
@@ -12905,10 +13064,6 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L224-8 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 
 ###### Article R224-10
@@ -12921,20 +13076,28 @@ La commission ou le délégué permanent ne peut émettre d'avis sur une affaire
 La commission siège valablement dès lors qu'en sus de son président elle comprend au moins un représentant de chacune des
 trois catégories énumérées à l'article R. 224-8.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
+
 _Anciens textes_:
 
   - Code de la route - art. R268-4 (Ab)
   - Code de la route R268-4
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 _Cite_:
 
@@ -12954,20 +13117,28 @@ formule, hors de la présence de l'intéressé, de son mandataire ou de son cons
 président peut décider que le vote aura lieu à bulletin secret. S'il ne le fait pas, en cas de partage des voix, sa voix est
 prépondérante.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
+
 _Anciens textes_:
 
   - Code de la route - art. R268-5 (Ab)
   - Code de la route R268-5
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 
 ###### Article R224-12
@@ -12983,11 +13154,19 @@ ou l'annulation du permis de conduire ou le changement de catégorie du titre, c
 articles R. 221-12 à R. 221-14 indépendamment de la décision judiciaire qui a pu ou pourra intervenir. Dans le cas où la
 décision judiciaire n'est pas encore intervenue, l'arrêté du préfet est communiqué sans délai au parquet.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -12998,10 +13177,6 @@ _Cite_:
 
   - Code de la route R221-13, R221-12 à R221-14
   - Code de la route. - art. R221-13 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 _Cité par_:
 
@@ -13018,11 +13193,23 @@ soumettre l'affaire à la commission. Cette saisine est de droit si l'intéress�
 notification de la suspension. Le préfet prend, sur avis de cette commission, une décision confirmant, modifiant ou
 rapportant la mesure initiale.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 _Anciens textes_:
 
@@ -13033,10 +13220,6 @@ _Cite_:
 
   - Code de la route. - art. L224-8 (M)
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
-
 
 ###### Article R224-14
 
@@ -13045,20 +13228,24 @@ Le permis de conduire suspendu est conservé par l'administration pendant la dur
 La suspension et le retrait du permis de conduire s'appliquent à toutes les catégories dont le conducteur ou l'accompagnateur
 de l'élève conducteur est titulaire.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
 _Anciens textes_:
 
   - Code de la route - art. R270 (Ab)
   - Code de la route R270
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 
 ###### Article R224-15
@@ -13066,20 +13253,24 @@ _Anciens textes_:
 Lorsque l'intéressé n'a pas de domicile connu ou qu'il a quitté celui-ci, la convocation à comparaître et la notification de
 la décision sont valablement adressées au maire du lieu de l'infraction en vue de leur affichage à la mairie.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
 _Anciens textes_:
 
   - Code de la route - art. R271 (Ab)
   - Code de la route R271
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 
 ###### Article R224-16
@@ -13087,11 +13278,19 @@ _Anciens textes_:
 En vue de l'application de l'alinéa 4 de l'article L. 224-9, tout arrêté du préfet portant suspension du permis de conduire
 est transmis sans délai en copie au procureur de la République dans le ressort duquel l'infraction a été commise.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -13102,10 +13301,6 @@ _Cite_:
 
   - Code de la route. - art. L224-9 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
-
 
 ###### Article R224-17
 
@@ -13114,20 +13309,24 @@ définitive prononcée pour une infraction punie par le présent code de la pein
 conduire ou pour l'une des infractions d'atteinte involontaire à la vie ou à l'intégrité physique ou psychique de la personne
 commise à l'occasion de la conduite d'un véhicule.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
 _Anciens textes_:
 
   - Code de la route - art. R273 (Ab)
   - Code de la route R273
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 
 ###### Article R224-18
@@ -13135,11 +13334,19 @@ _Anciens textes_:
 Les articles R. 224-6 à R. 224-17 sont applicables à la mesure d'interdiction de délivrance du permis de conduire prévue à
 l'article L. 224-7.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -13172,6 +13379,10 @@ _Cite_:
 Si le préfet n'ordonne pas une suspension du permis de conduire, il peut adresser un avertissement à l'auteur de toute
 contravention punie par le présent code de la peine complémentaire de suspension du permis de conduire.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -13182,29 +13393,43 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
 _Anciens textes_:
 
   - Code de la route - art. R274-1 (Ab)
   - Code de la route R274-1
 
 
-##### Section 2 : Interdiction de délivrance, suspension et annulation judiciaires.<a id=89></a>
+##### Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation.<a id=90></a>
 
 ###### Article R224-20
 
-En cas de condamnation pour une infraction prévue par le présent code ou par les articles 221-6 et 222-19 du code pénal
-commise à l'occasion de la conduite d'un véhicule, tout conducteur dont le permis de conduire a été annulé et qui sollicite
-un nouveau permis doit subir à nouveau les épreuves prévues à l'article R. 221-3.
+Tout conducteur dont le permis de conduire a perdu sa validité en application de l'article L. 223-1 ou a été annulé à la
+suite d'une condamnation pour une infraction prévue par le présent code ou par les articles 221-6-1, 222-19-1 ou 222-20-1 du
+code pénal, et qui sollicite un nouveau permis doit subir à nouveau les épreuves prévues à l'article R. 221-3.
 
-Toutefois, pour les conducteurs titulaires du permis de conduire depuis au moins trois ans à la date de son annulation
-assortie d'une interdiction de solliciter un nouveau permis d'une durée inférieure à un an, l'épreuve pratique est supprimée
-sous réserve qu'ils sollicitent un nouveau permis moins de trois mois après la date à laquelle ils sont autorisés à le faire.
+Toutefois, pour les conducteurs titulaires du permis de conduire depuis trois ans ou plus à la date de la perte de validité
+du permis ou à la date de son annulation, et auxquels il est interdit de solliciter un nouveau permis pendant une durée
+inférieure à un an, l'épreuve pratique est supprimée sous réserve qu'ils sollicitent un nouveau permis moins de trois mois
+après la date à laquelle ils sont autorisés à le faire.
+
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 2003-07-11 art. 4 IX, X, XI JORF 12 juillet 2003
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Cité par_:
 
@@ -13213,8 +13438,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 221-6 (M)
-  - Code pénal - art. 222-19 (M)
+  - Code pénal - art. 221-6-1 (V)
+  - Code pénal - art. 222-19-1 (V)
+  - Code pénal - art. 222-20-1 (V)
+  - Code de la route. - art. L223-1 (M)
   - Code de la route. - art. R221-3 (V)
 
 _Anciens textes_:
@@ -13231,6 +13458,10 @@ l'appui de sa demande un certificat délivré par la commission médicale d'exam
 affection incompatible avec la délivrance du permis de conduire de la catégorie sollicitée et qu'il a satisfait à un examen
 psychotechnique.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -13240,6 +13471,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 2003-07-11 art. 4 IX, X JORF 12 juillet 2003
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Cité par_:
 
@@ -13257,6 +13493,10 @@ Dans l'affirmative, elle provoque un examen psychotechnique de l'intéressé.
 Cet examen, qui porte notamment sur les tests prescrits par la commission, est subi dans un centre de sélection
 psychotechnique agréé par le préfet. Les résultats en sont communiqués à la commission.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -13266,6 +13506,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 2003-07-11 art. 4 IX, X JORF 12 juillet 2003
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Cité par_:
 
@@ -13287,6 +13532,10 @@ l'article R. 224-21.
 
 Si le résultat est défavorable, la commission établit un certificat concluant à l'inaptitude du candidat.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -13296,6 +13545,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 2003-07-11 art. 4 IX, X JORF 12 juillet 2003
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Cite_:
 
@@ -13307,11 +13561,20 @@ _Cite_:
 Après une mesure de suspension, la licence de circulation, délivrée antérieurement au 1er avril 1958, n'est pas restituée.
 Elle est remplacée par le permis de conduire mentionnant la catégorie correspondante.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 2003-07-11 art. 4 IX, X JORF 12 juillet 2003
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -13319,7 +13582,7 @@ _Anciens textes_:
   - Code de la route R186 (al. 3)
 
 
-#### Chapitre V : Enregistrement et communication des informations relatives au permis de conduire.<a id=90></a>
+#### Chapitre V : Enregistrement et communication des informations relatives au permis de conduire.<a id=91></a>
 
 ###### Article R225-1
 
@@ -13518,9 +13781,9 @@ _Cite_:
   - Code de la route. - art. R225-4 (M)
 
 
-### Titre III : Comportement du conducteur.<a id=91></a>
+### Titre III : Comportement du conducteur.<a id=92></a>
 
-#### Chapitre Ier : Comportement en cas d'accident.<a id=92></a>
+#### Chapitre Ier : Comportement en cas d'accident.<a id=93></a>
 
 ###### Article R231-1
 
@@ -13557,7 +13820,7 @@ _Anciens textes_:
   - Code de la route R53-3
 
 
-#### Chapitre II : Atteintes involontaires aux personnes.<a id=93></a>
+#### Chapitre II : Atteintes involontaires aux personnes.<a id=94></a>
 
 ###### Article R232-1
 
@@ -13595,7 +13858,7 @@ _Nouveaux textes_:
   - Code de la route. - art. R413-14 (V)
 
 
-#### Chapitre III : Comportement en cas de contrôle routier.<a id=94></a>
+#### Chapitre III : Comportement en cas de contrôle routier.<a id=95></a>
 
 ###### Article R233-1
 
@@ -13754,28 +14017,28 @@ _Cité par_:
   - Code de la route - art. R249-1 (Ab)
 
 
-#### Chapitre IV : Conduite sous l'influence de l'alcool.<a id=95></a>
+#### Chapitre IV : Conduite sous l'influence de l'alcool.<a id=96></a>
 
 ###### Article R234-1
 
-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un état alcoolique
+I - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un état alcoolique
 caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par une concentration
 d'alcool dans l'air expiré égale ou supérieure à 0,25 milligramme par litre, sans atteindre les seuils fixés à l'article L.
 234-1 est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+II - L'immobilisation peut être prescrite dans les conditions prévue aux articles L. 325-1 à L. 325-3.
 
-Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension du permis de conduire
-pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+III - Toute personne coupable de cette infraction encourt également l peine complémentaire de suspension du permis de
+conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
 professionnelle.
 
-Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+IV - Cette contravention donne lieu de plein droit à la réduction de six points du permis de conduire.
 
-Les dispositions du présent article sont applicables à l'accompagnateur d'un élève conducteur.
+V - Les dispositions du présent article sont applicables à l'accompagnateur d'un élève conducteur.
 
 **Nota:**
 
-NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -13785,7 +14048,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
+  - Décret n°2003-642 du 11 juillet 2003 - art. 6 () JORF 12 juillet 2003
 
 _Cité par_:
 
@@ -13816,10 +14079,6 @@ _Cite_:
 
   - Code de la route L234-1, L325-1 à L325-3
   - Code de la route. - art. L234-1 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R234-2
@@ -13917,9 +14176,9 @@ _Cité par_:
   - Code de la santé publique - art. R3354-1 (V)
 
 
-#### Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants<a id=96></a>
+#### Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants<a id=97></a>
 
-##### Section 1 : Dispositions générales<a id=97></a>
+##### Section 1 : Dispositions générales<a id=98></a>
 
 ###### Article R235-1
 
@@ -13989,7 +14248,7 @@ _Cité par_:
   - Code de la route. - art. R245-2 (VD)
 
 
-##### Section 2 : Epreuves de dépistage<a id=98></a>
+##### Section 2 : Epreuves de dépistage<a id=99></a>
 
 ###### Article R235-3
 
@@ -14065,7 +14324,7 @@ _Modifié par_:
   - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
 
 
-##### Section 3 : Analyses et examens médicaux, cliniques et biologiques<a id=99></a>
+##### Section 3 : Analyses et examens médicaux, cliniques et biologiques<a id=100></a>
 
 ###### Article R235-5
 
@@ -14341,7 +14600,7 @@ _Cité par_:
   - Code de la route. - art. R245-2 (VD)
 
 
-##### Section 4 : Dispositions matérielles<a id=100></a>
+##### Section 4 : Dispositions matérielles<a id=101></a>
 
 ###### Article R235-12
 
@@ -14410,9 +14669,9 @@ _Cité par_:
   - Code de la route. - art. R245-2 (VD)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=101></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=102></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=102></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=103></a>
 
 ###### Article R241-1
 
@@ -14515,7 +14774,7 @@ _Nouveaux textes_:
   - Code de la route. - art. R233-1 (V)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=103></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=104></a>
 
 ###### Article R242-1
 
@@ -14773,7 +15032,7 @@ _Cite_:
   - Code de la route. - art. R235-6 (M)
 
 
-#### Chapitre III : Dispositions applicables à la Nouvelle-Calédonie.<a id=104></a>
+#### Chapitre III : Dispositions applicables à la Nouvelle-Calédonie.<a id=105></a>
 
 ###### Article R243-1
 
@@ -14826,7 +15085,7 @@ _Cite_:
   - Code de la route. - art. R234-4 (V)
 
 
-#### Chapitre IV : Dispositions applicables à la Polynésie française.<a id=105></a>
+#### Chapitre IV : Dispositions applicables à la Polynésie française.<a id=106></a>
 
 ###### Article R244-1
 
@@ -14878,7 +15137,7 @@ _Cite_:
   - Code de la route. - art. R234-4 (V)
 
 
-#### Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna.<a id=106></a>
+#### Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna.<a id=107></a>
 
 ###### Article R245-1
 
@@ -14940,11 +15199,11 @@ _Nouveaux textes_:
   - Code de la route. - art. R213-2 (V)
 
 
-## Livre III : Le véhicule.<a id=107></a>
+## Livre III : Le véhicule.<a id=108></a>
 
-### Titre Ier : Dispositions techniques.<a id=108></a>
+### Titre Ier : Dispositions techniques.<a id=109></a>
 
-#### Chapitre Ier : Dispositions générales et définitions.<a id=109></a>
+#### Chapitre Ier : Dispositions générales et définitions.<a id=110></a>
 
 ###### Article R311-1
 
@@ -15301,9 +15560,9 @@ _Cité par_:
   - Code de la route. - art. R130-6 (VD)
 
 
-#### Chapitre II : Poids et dimensions<a id=110></a>
+#### Chapitre II : Poids et dimensions<a id=111></a>
 
-##### Section 1 : Poids.<a id=111></a>
+##### Section 1 : Poids.<a id=112></a>
 
 ###### Article R312-1
 
@@ -15831,7 +16090,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R312-8 (V)
 
 
-##### Section 2 : Dimensions des véhicules.<a id=112></a>
+##### Section 2 : Dimensions des véhicules.<a id=113></a>
 
 ###### Article R312-10
 
@@ -16269,7 +16528,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R312-17 (V)
 
 
-##### Section 3 : Dimensions et conditions du chargement.<a id=113></a>
+##### Section 3 : Dimensions et conditions du chargement.<a id=114></a>
 
 ###### Article R312-19
 
@@ -16538,9 +16797,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R312-24 (V)
 
 
-#### Chapitre III : Eclairage et signalisations<a id=114></a>
+#### Chapitre III : Eclairage et signalisations<a id=115></a>
 
-##### Section 1 : Eclairage et signalisation des véhicules.<a id=115></a>
+##### Section 1 : Eclairage et signalisation des véhicules.<a id=116></a>
 
 ###### Article R313-1
 
@@ -17893,7 +18152,7 @@ _Anciens textes_:
   - Code de la route R92 (al. 6), R 168, R216 (al. 2), R231-1 III
 
 
-##### Section 2 : Signaux d'avertissement.<a id=116></a>
+##### Section 2 : Signaux d'avertissement.<a id=117></a>
 
 ###### Article R313-33
 
@@ -17989,7 +18248,7 @@ _Anciens textes_:
   - Code de la route R240 (al. 2)
 
 
-#### Chapitre IV : Pneumatiques.<a id=117></a>
+#### Chapitre IV : Pneumatiques.<a id=118></a>
 
 ###### Article R314-1
 
@@ -18251,7 +18510,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R314-6 (V)
 
 
-#### Chapitre V : Freinage.<a id=118></a>
+#### Chapitre V : Freinage.<a id=119></a>
 
 ###### Article R315-1
 
@@ -18460,7 +18719,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R315-5 (V)
 
 
-#### Chapitre VI : Organes de manoeuvre, de direction et de visibilité.<a id=119></a>
+#### Chapitre VI : Organes de manoeuvre, de direction et de visibilité.<a id=120></a>
 
 ###### Article R316-1
 
@@ -18786,9 +19045,9 @@ _Cité par_:
   - Code de la route. - art. R342-3 (V)
 
 
-#### Chapitre VII : Dispositifs et aménagements particuliers<a id=120></a>
+#### Chapitre VII : Dispositifs et aménagements particuliers<a id=121></a>
 
-##### Section 1 : Appareils de contrôle et de limitation de la vitesse.<a id=121></a>
+##### Section 1 : Appareils de contrôle et de limitation de la vitesse.<a id=122></a>
 
 ###### Article R317-1
 
@@ -19049,7 +19308,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-6 (M)
 
 
-##### Section 2 : Plaques et inscriptions.<a id=122></a>
+##### Section 2 : Plaques et inscriptions.<a id=123></a>
 
 ###### Article R317-8
 
@@ -19319,7 +19578,7 @@ _Anciens textes_:
   - Code de la route R168, R239
 
 
-##### Section 3 : Dispositif antivol.<a id=123></a>
+##### Section 3 : Dispositif antivol.<a id=124></a>
 
 ###### Article R317-15
 
@@ -19398,7 +19657,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-16 (V)
 
 
-##### Section 4 : Attelage des remorques.<a id=124></a>
+##### Section 4 : Attelage des remorques.<a id=125></a>
 
 ###### Article R317-18
 
@@ -19499,7 +19758,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-19 (V)
 
 
-##### Section 5 : Remorquage des véhicules en panne ou accidentés.<a id=125></a>
+##### Section 5 : Remorquage des véhicules en panne ou accidentés.<a id=126></a>
 
 ###### Article R317-21
 
@@ -19555,7 +19814,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-21 (V)
 
 
-##### Section 6 : Autres aménagements.<a id=126></a>
+##### Section 6 : Autres aménagements.<a id=127></a>
 
 ###### Article R317-23
 
@@ -19748,54 +20007,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-27 (V)
 
 
-###### Article R317-29
-
-La fabrication, l'importation, la détention en vue de la vente, la vente, la distribution à titre gratuit des dispositifs
-ayant pour objet d'augmenter la puissance du moteur des cyclomoteurs sont interdites.
-
-Toute transformation par des professionnels des moteurs de cyclomoteurs en vue d'en augmenter la puissance est également
-interdite.
-
-Au sens du présent article, on entend par importation l'entrée sur le territoire douanier de marchandises non communautaires.
-
-Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
-cinquième classe.
-
-La récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-987 1992-09-10 art. 1, art. 2, art. 3
-  - Décret n°92-987 du 10 septembre 1992 - art. 1 (Ab)
-  - Décret n°92-987 du 10 septembre 1992 - art. 2 (Ab)
-  - Décret n°92-987 du 10 septembre 1992 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
-
-_Cite_:
-
-  - Code pénal - art. 132-11 (M)
-
-_Cité par_:
-
-  - Code de la route. - art. R130-1-1 (M)
-  - Code de la route. - art. R130-1-2 (M)
-  - Code de la route. - art. R130-2 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R317-27 (V)
-
-
-#### Chapitre VIII : Energie, émissions polluantes et nuisances.<a id=127></a>
+#### Chapitre VIII : Energie, émissions polluantes et nuisances.<a id=128></a>
 
 ###### Article R318-1
 
@@ -20136,11 +20348,11 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R318-6 (V)
 
 
-### Titre II : Dispositions administratives.<a id=128></a>
+### Titre II : Dispositions administratives.<a id=129></a>
 
-#### Chapitre Ier : Réception et homologation<a id=129></a>
+#### Chapitre Ier : Réception et homologation<a id=130></a>
 
-##### Section 1 : Dispositions générales.<a id=130></a>
+##### Section 1 : Dispositions générales.<a id=131></a>
 
 ###### Article R321-1
 
@@ -20317,7 +20529,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 
-##### Section 2 : Réception communautaire ou réception CE.<a id=131></a>
+##### Section 2 : Réception communautaire ou réception CE.<a id=132></a>
 
 ###### Article R321-6
 
@@ -20614,7 +20826,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 
-##### Section 3 : Réception nationale par type ou à titre isolé et homologation.<a id=132></a>
+##### Section 3 : Réception nationale par type ou à titre isolé et homologation.<a id=133></a>
 
 ###### Article R321-15
 
@@ -20985,9 +21197,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 
-#### Chapitre II : Immatriculation<a id=133></a>
+#### Chapitre II : Immatriculation<a id=134></a>
 
-##### Section 1 : Délivrance du certificat d'immatriculation.<a id=134></a>
+##### Section 1 : Délivrance du certificat d'immatriculation.<a id=135></a>
 
 ###### Article R*322-12
 
@@ -21696,7 +21908,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R322-9 (M)
 
 
-##### Section 2 : Opposition au transfert du certificat d'immatriculation.<a id=135></a>
+##### Section 2 : Opposition au transfert du certificat d'immatriculation.<a id=136></a>
 
 ###### Article R322-15
 
@@ -21717,32 +21929,6 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L322-2 (V)
-
-
-###### Article R322-16
-
-Lorsque, en application de l'article L. 322-1, le comptable du Trésor demande au procureur de la République près le tribunal
-de grande instance compétent au chef-lieu du département de faire opposition au transfert de la carte grise, ce dernier lui
-adresse l'opposition validée par ses soins. Le comptable du Trésor en informe le préfet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
-
-_Anciens textes_:
-
-  - Code de la route - art. R299 (Ab)
-  - Code de la route R299
-
-_Cite_:
-
-  - Code de la route. - art. L322-1 (M)
 
 
 ###### Article R322-17
@@ -21773,10 +21959,15 @@ _Anciens textes_:
 ###### Article R322-18
 
 La levée de l'opposition intervient, soit à la suite du règlement au comptable du Trésor des amendes pour lesquelles il a été
-fait opposition, soit lorsque l'intéressé a formé une réclamation dans les conditions prévues par l'article 530 du code de
-procédure pénale, et qu'il justifie avoir adressé la déclaration mentionnée à l'article R. 322-7.
+fait opposition, soit lorsque l'intéressé a formé une réclamation selon les modalités et dans les délais prévus par les
+articles 529-10 et 530 du code de procédure pénale à peine d'irrecevabilité, et qu'il justifie avoir adressé la déclaration
+mentionnée à l'article R. 322-7.
 
 Dès qu'il a été informé de la levée de l'opposition, le préfet délivre le certificat de non-opposition.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -21784,8 +21975,13 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
+
 _Cite_:
 
+  - CODE DE PROCEDURE PENALE - art. 529-10 (M)
   - CODE DE PROCEDURE PENALE - art. 530 (M)
   - Code de la route. - art. R322-7 (M)
 
@@ -21795,9 +21991,9 @@ _Anciens textes_:
   - Code de la route R301
 
 
-#### Chapitre III : Contrôle technique<a id=136></a>
+#### Chapitre III : Contrôle technique<a id=137></a>
 
-##### Section 1 : Dispositions générales.<a id=137></a>
+##### Section 1 : Dispositions générales.<a id=138></a>
 
 ###### Article R323-1
 
@@ -21982,7 +22178,7 @@ _Cité par_:
   - Code de la route. - art. R342-3 (V)
 
 
-##### Section 2 : Dispositions applicables aux voitures particulières et aux camionnettes.<a id=138></a>
+##### Section 2 : Dispositions applicables aux voitures particulières et aux camionnettes.<a id=139></a>
 
 ###### Article R323-6
 
@@ -22601,7 +22797,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R323-3 (V)
 
 
-##### Section 3 : Dispositions applicables aux autres véhicules.<a id=139></a>
+##### Section 3 : Dispositions applicables aux autres véhicules.<a id=140></a>
 
 ###### Article R323-23
 
@@ -22762,7 +22958,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R323-3 (V)
 
 
-#### Chapitre IV : Assurance.<a id=140></a>
+#### Chapitre IV : Assurance.<a id=141></a>
 
 ###### Article R324-1
 
@@ -22797,15 +22993,28 @@ _Cite_:
 
 Toute personne coupable de l'infraction prévue à l'article R. 211-45 du code des assurances encourt également la peine
 complémentaire de suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être
-limitée à la conduite en dehors de l'activité professionnelle.
+limitée à la conduite en dehors de l'activité professionnelle et celle de travail d'intérêt général pour une durée de vingt à
+cent vingt heures.
 
 L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 2 () JORF 12 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2005-320 du 30 mars 2005 - art. 4 () JORF 6 avril 2005
 
 _Cite_:
 
@@ -22819,9 +23028,9 @@ _Anciens textes_:
   - Code de la route R299 9°, R278 11°
 
 
-#### Chapitre V : Immobilisation et mise en fourrière<a id=141></a>
+#### Chapitre V : Immobilisation et mise en fourrière<a id=142></a>
 
-##### Section 1 : Dispositions générales.<a id=142></a>
+##### Section 1 : Dispositions générales.<a id=143></a>
 
 ###### Article R325-1
 
@@ -22853,7 +23062,7 @@ _Cité par_:
   - Code de la route. - art. R344-1 (V)
 
 
-##### Section 2 : Immobilisation.<a id=143></a>
+##### Section 2 : Immobilisation.<a id=144></a>
 
 ###### Article R325-2
 
@@ -23235,9 +23444,9 @@ _Cite_:
   - Code de la route. - art. R325-9 (M)
 
 
-##### Section 3 : Fourrière<a id=144></a>
+##### Section 3 : Fourrière<a id=145></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=145></a>
+##### Sous-section 1 : Dispositions générales.<a id=146></a>
 
 ###### Article R325-12
 
@@ -24339,7 +24548,7 @@ _Anciens textes_:
   - Code de la route R275 (al. 4)
 
 
-##### Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique.<a id=146></a>
+##### Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique.<a id=147></a>
 
 ###### Article R325-47
 
@@ -24462,9 +24671,9 @@ _Cite_:
   - Code de la route. - art. R325-47 (V)
 
 
-#### Chapitre VI : Véhicules accidentés<a id=147></a>
+#### Chapitre VI : Véhicules accidentés<a id=148></a>
 
-##### Section 1 : Véhicules gravement accidentés.<a id=148></a>
+##### Section 1 : Véhicules gravement accidentés.<a id=149></a>
 
 ###### Article R326-1
 
@@ -24651,7 +24860,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R326-4 (M)
 
 
-##### Section 2 : Véhicules économiquement irréparables.<a id=149></a>
+##### Section 2 : Véhicules économiquement irréparables.<a id=150></a>
 
 ###### Article R326-6
 
@@ -24802,7 +25011,7 @@ _Nouveaux textes_:
   - Code de la route. - art. R327-9 (V)
 
 
-#### Chapitre VII : Organisation de la profession d'expert en automobile.<a id=150></a>
+#### Chapitre VII : Organisation de la profession d'expert en automobile.<a id=151></a>
 
 ###### Article R327-1
 
@@ -25368,7 +25577,7 @@ _Cité par_:
   - Code de la route. - art. R342-5 (M)
 
 
-### Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules.<a id=151></a>
+### Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules.<a id=152></a>
 
 ###### Article R330-1
 
@@ -25508,9 +25717,9 @@ _Nouveaux textes_:
   - Code de la route. - art. R330-6 (V)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=152></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=153></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=153></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=154></a>
 
 ###### Article R341-1
 
@@ -25532,7 +25741,7 @@ _Codifié par_:
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=154></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=155></a>
 
 ###### Article R342-1
 
@@ -25710,9 +25919,9 @@ _Cite_:
   - Code de la route. - art. R327-20 (Ab)
 
 
-#### Chapitre III : Dispositions applicables à la Polynésie française<a id=155></a>
+#### Chapitre III : Dispositions applicables à la Polynésie française<a id=156></a>
 
-##### Section 1 : Dispositions générales.<a id=156></a>
+##### Section 1 : Dispositions générales.<a id=157></a>
 
 ###### Article R343-1
 
@@ -25744,7 +25953,7 @@ _Cite_:
   - Code de la route. - art. R325-1 (M)
 
 
-##### Section 2 : Immobilisation.<a id=157></a>
+##### Section 2 : Immobilisation.<a id=158></a>
 
 ###### Article R343-2
 
@@ -25912,7 +26121,7 @@ _Cité par_:
   - Code de la route. - art. R343-2 (M)
 
 
-##### Section 3 : Fourrière.<a id=158></a>
+##### Section 3 : Fourrière.<a id=159></a>
 
 ###### Article R343-4
 
@@ -26307,13 +26516,13 @@ _Cite_:
   - Code de la route. - art. R325-9 (M)
 
 
-## Livre IV : L'usage des voies.<a id=159></a>
+## Livre IV : L'usage des voies.<a id=160></a>
 
-### Titre Ier : Dispositions générales.<a id=160></a>
+### Titre Ier : Dispositions générales.<a id=161></a>
 
-#### Chapitre Ier : Pouvoirs de police de la circulation<a id=161></a>
+#### Chapitre Ier : Pouvoirs de police de la circulation<a id=162></a>
 
-##### Section 1 : Pouvoirs généraux de police.<a id=162></a>
+##### Section 1 : Pouvoirs généraux de police.<a id=163></a>
 
 ###### Article R411-1
 
@@ -26608,7 +26817,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Commission départementale de la sécurité routière.<a id=163></a>
+##### Section 2 : Commission départementale de la sécurité routière.<a id=164></a>
 
 ###### Article R411-10
 
@@ -26832,7 +27041,7 @@ _Cité par_:
   - Code de la route. - art. R130-6 (VD)
 
 
-##### Section 3 : Interdictions et restrictions de circulation.<a id=164></a>
+##### Section 3 : Interdictions et restrictions de circulation.<a id=165></a>
 
 ###### Article R411-18
 
@@ -27155,7 +27364,7 @@ _Cité par_:
   - Code de la route. - art. R442-6 (V)
 
 
-##### Section 4 : Signalisation routière.<a id=165></a>
+##### Section 4 : Signalisation routière.<a id=166></a>
 
 ###### Article R411-25
 
@@ -27290,7 +27499,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 5 : Courses et épreuves sportives.<a id=166></a>
+##### Section 5 : Courses et épreuves sportives.<a id=167></a>
 
 ###### Article R411-29
 
@@ -27429,9 +27638,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=167></a>
+#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=168></a>
 
-##### Section 1 : Equipements des utilisateurs de véhicules.<a id=168></a>
+##### Section 1 : Equipements des utilisateurs de véhicules.<a id=169></a>
 
 ###### Article R412-1
 
@@ -27668,7 +27877,7 @@ _Cite_:
   - Code de la route. - art. R412-1 (V)
 
 
-##### Section 2 : Principes généraux de circulation.<a id=169></a>
+##### Section 2 : Principes généraux de circulation.<a id=170></a>
 
 ###### Article R412-6
 
@@ -27746,16 +27955,27 @@ _Cité par_:
 
 ###### Article R412-7
 
-Tout conducteur doit, sauf en cas de nécessité absolue, faire circuler son véhicule exclusivement sur la chaussée.
+I- Tout conducteur doit, sauf en cas de nécessité absolue, faire circuler son véhicule exclusivement sur la chaussée.
 
-Le fait, pour tout conducteur, de faire circuler son véhicule en dehors de la chaussée ou sur une chaussée exclusivement
-réservée à d'autres usagers est puni de l'amende prévue pour les contraventions de la deuxième classe.
+II. - Lorsque, sur la chaussée, une voie de circulation réservée à certaines catégories de véhicules est matérialisée, les
+conducteurs d'autres catégories de véhicules ne doivent pas circuler sur cette voie.
+
+III. - Le fait, pour tout conducteur, de faire circuler son véhicule en dehors de la chaussée ou sur une voie de circulation
+réservée à d'autres catégories de véhicules est puni de l'amende prévue pour les contraventions de la 4e classe.
+
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 6 () JORF 12 juillet 2003
 
 _Cité par_:
 
@@ -27770,11 +27990,6 @@ _Anciens textes_:
   - Code de la route - art. R233-3 (Ab)
   - Code de la route - art. R43 (Ab)
   - Code de la route R43 (al. 1), R233-3 (al. 1)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R412-8
@@ -28169,7 +28384,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Matérialisation des voies de circulation.<a id=170></a>
+##### Section 3 : Matérialisation des voies de circulation.<a id=171></a>
 
 ###### Article R412-18
 
@@ -28418,7 +28633,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 4 : Sens de circulation.<a id=171></a>
+##### Section 4 : Sens de circulation.<a id=172></a>
 
 ###### Article R412-26
 
@@ -28511,7 +28726,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 5 : Feux de signalisation lumineux.<a id=172></a>
+##### Section 5 : Feux de signalisation lumineux.<a id=173></a>
 
 ###### Article R412-29
 
@@ -28669,7 +28884,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 6 : Circulation des piétons.<a id=173></a>
+##### Section 6 : Circulation des piétons.<a id=174></a>
 
 ###### Article R412-34
 
@@ -28991,7 +29206,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=174></a>
+##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=175></a>
 
 ###### Article R412-44
 
@@ -29185,7 +29400,7 @@ _Anciens textes_:
   - Code de la route R223, R233 (al. 1 et 2)
 
 
-##### Section 8 : Troubles à la circulation.<a id=175></a>
+##### Section 8 : Troubles à la circulation.<a id=176></a>
 
 ###### Article R412-51
 
@@ -29253,9 +29468,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Vitesse<a id=176></a>
+#### Chapitre III : Vitesse<a id=177></a>
 
-##### Section 1 : Vitesses maximales autorisées.<a id=177></a>
+##### Section 1 : Vitesses maximales autorisées.<a id=178></a>
 
 ###### Article R413-1
 
@@ -29692,30 +29907,32 @@ contraventions de la cinquième classe, en cas de dépassement de la vitesse max
 quatrième classe, dans les autres cas.
 
 II. - Toute personne coupable de l'infraction de dépassement de la vitesse maximale autorisée de 30 km/h ou plus encourt
-également la peine complémentaire de suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension
-pouvant être limitée à la conduite en dehors de l'activité professionnelle.
+également les peines complémentaires suivantes :
 
-III. - Toute contravention prévue au présent article donne lieu de plein droit à une réduction du nombre de points du permis
+1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
+conduite en dehors de l'activité professionnelle ;
+
+2° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de trois ans au plus ;
+
+3° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière.
+
+III. - Toute contravention prévue au présent article donne lieu, de plein droit à une réduction du nombre de points du permis
 de conduire dans les conditions suivantes :
 
-1° Pour tout conducteur, en cas de dépassement de la vitesse maximale autorisée de 40 km/h ou plus, réduction de quatre
+1° En cas de dépassement de la vitesse maximale autorisée de 40 km/h ou plus, réduction de quatre points ;
+
+2° En cas de dépassement de la vitesse maximale autorisée compris entre 30 km/h et moins de 40 km/h, réduction de trois
 points ;
 
-2° Pour tout conducteur, à l'exception de ceux titulaires depuis moins de deux ans du permis de conduire, en cas de
-dépassement de la vitesse maximale autorisée :
+3° En cas de dépassement de la vitesse maximale autorisée compris entre 20 km/h et moins de 30 km/h, réduction de deux
+points ;
 
-a) Compris entre 30 km/h et moins de 40 km/h, réduction de trois points, 
-
-b) Compris entre 20 km/h et moins de 30 km/h, réduction de deux points, 
-
-c) De moins de 20 km/h, réduction d'un point ;
-
-3° Pour tout conducteur titulaire depuis moins de deux ans du permis de conduire, en cas de dépassement de la vitesse
-maximale autorisée de moins de 40 km/h, réduction de trois points.
+4° En cas de dépassement de la vitesse maximale autorisée de moins de 20 km/h, réduction d'un point.
 
 **Nota:**
 
-NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -29725,7 +29942,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
+  - Décret n°2003-642 du 11 juillet 2003 - art. 2 () JORF 12 juillet 2003
+  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -29744,32 +29962,46 @@ _Cité par_:
   - Code de procédure pénale - art. A37-11 (VD)
   - Code de procédure pénale - art. A37-4 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
-
 
 ###### Article R413-15
 
-Le fait de mettre en vente, de vendre, de détenir, d'utiliser, d'adapter, de placer, d'appliquer ou de transporter, à un
-titre quelconque, un appareil, dispositif ou produit destiné soit à déceler la présence, soit à perturber le fonctionnement
-d'instruments servant à la constatation des infractions à la législation ou à la réglementation de la circulation routière
-est puni de l'amende prévue pour les contraventions de la cinquième classe.
+I. - Le fait de détenir ou de transporter un appareil, dispositif ou produit de nature ou présenté comme étant de nature à
+déceler la présence ou perturber le fonctionnement d'appareils, instruments ou systèmes servant à la constatation des
+infractions à la législation ou à la réglementation de la circulation routière ou de permettre de se soustraire à la
+constatation desdites infractions est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
-Cet appareil, ce dispositif ou ce produit est saisi et confisqué.
+Le fait de faire usage d'un appareil, dispositif ou produit de même nature est puni des mêmes peines.
 
-En outre, lorsque l'appareil, le dispositif ou le produit est placé, adapté ou appliqué sur un véhicule, celui-ci peut être
-saisi et confisqué.
+II. - Cet appareil, ce dispositif ou ce produit est saisi. Lorsque l'appareil, le dispositif ou le produit est placé, adapté
+ou appliqué sur un véhicule, ce véhicule peut également être saisi.
 
-Toute personne coupable de l'infraction prévue au présent article encourt également la peine complémentaire de suspension,
-pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de
-l'activité professionnelle.
+III. - Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
+suivantes :
+
+1° La peine complémentaire de suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension
+pouvant être limitée à la conduite en dehors de l'activité professionnelle ;
+
+2° La confiscation du véhicule, lorsque le dispositif qui a servi ou était destiné à commettre l'infraction est placé, adapté
+ou appliqué sur un véhicule.
+
+Toute condamnation donne lieu de plein droit à la confiscation du dispositif qui a servi ou était destiné à commettre
+l'infraction.
+
+IV. - Cette contravention donne lieu de plein droit à la réduction de deux points du permis de conduire.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -29784,11 +30016,6 @@ _Cité par_:
   - Code de la route. - art. R130-1-2 (V)
   - Code de la route. - art. R130-2 (V)
   - Code de la route. - art. R130-3 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R413-16
@@ -29817,7 +30044,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Maîtrise de la vitesse.<a id=178></a>
+##### Section 2 : Maîtrise de la vitesse.<a id=179></a>
 
 ###### Article R413-17
 
@@ -29941,9 +30168,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre IV : Croisement et dépassement<a id=179></a>
+#### Chapitre IV : Croisement et dépassement<a id=180></a>
 
-##### Section 1 : Croisement.<a id=180></a>
+##### Section 1 : Croisement.<a id=181></a>
 
 ###### Article R414-1
 
@@ -30049,7 +30276,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Dépassement.<a id=181></a>
+##### Section 2 : Dépassement.<a id=182></a>
 
 ###### Article R414-4
 
@@ -30571,7 +30798,7 @@ _Cité par_:
   - Code de la route. - art. R442-2 (V)
 
 
-#### Chapitre V : Intersections et priorité de passage.<a id=182></a>
+#### Chapitre V : Intersections et priorité de passage.<a id=183></a>
 
 ###### Article R415-1
 
@@ -31117,9 +31344,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=183></a>
+#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=184></a>
 
-##### Section 1 : Emploi des avertisseurs.<a id=184></a>
+##### Section 1 : Emploi des avertisseurs.<a id=185></a>
 
 ###### Article R416-1
 
@@ -31203,7 +31430,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=185></a>
+##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=186></a>
 
 ###### Article R416-4
 
@@ -31626,7 +31853,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres dispositions.<a id=186></a>
+##### Section 3 : Autres dispositions.<a id=187></a>
 
 ###### Article R416-17
 
@@ -31770,9 +31997,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VII : Arrêt et stationnement<a id=187></a>
+#### Chapitre VII : Arrêt et stationnement<a id=188></a>
 
-##### Section 1 : Dispositions générales.<a id=188></a>
+##### Section 1 : Dispositions générales.<a id=189></a>
 
 ###### Article R417-1
 
@@ -32044,7 +32271,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=189></a>
+##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=190></a>
 
 ###### Article R417-9
 
@@ -32127,8 +32354,7 @@ dégagement de ce dernier ;
 
 7° Au droit des bouches d'incendie et des accès à des installations souterraines ;
 
-8° Sur les emplacements réservés aux véhicules arborant un macaron Grand Invalide de Guerre (GIG) ou Grand Invalide Civil
-(GIC) ou une carte de stationnement de modèle communautaire pour personne handicapée ;
+8° (abrogé) ;
 
 9° Sur les bandes d'arrêt d'urgence, sauf cas de nécessité absolue ;
 
@@ -32152,6 +32378,10 @@ V. - Lorsque le conducteur ou le propriétaire du véhicule est absent ou refuse
 cesser le stationnement gênant, l'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues
 aux articles L. 325-1 à L. 325-3.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -32174,7 +32404,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-536 du 20 juin 2003 - art. 20 () JORF 22 juin 2003
+  - Décret n°2003-642 du 11 juillet 2003 - art. 6 () JORF 12 juillet 2003
 
 _Anciens textes_:
 
@@ -32193,25 +32423,37 @@ _Cite_:
 
 ###### Article R417-11
 
-I. - Est également considéré comme gênant, tout arrêt ou stationnement d'un véhicule sur les chaussées, voies, pistes,
-bandes, trottoirs ou accotements réservés à la circulation des véhicules de transports publics de voyageurs, des taxis ou des
-véhicules d'intérêt général prioritaires.
+I.-Est également considéré comme gênant tout arrêt ou stationnement : 
 
-II. - Il en est de même, dans les zones touristiques délimitées par l'autorité investie du pouvoir de police, pour le
-stationnement ou l'arrêt d'un véhicule ou ensemble de véhicules de plus de 20 mètres carrés de surface maximale.
+1° D'un véhicule sur les chaussées, voies, pistes, bandes, trottoirs ou accotements réservés à la circulation des véhicules
+de transports publics de voyageurs, des taxis ou des véhicules d'intérêt général prioritaires ; 
 
-III. - Tout arrêt ou stationnement gênant prévu par le présent article est puni de l'amende prévue pour les contraventions de
-la quatrième classe.
+2° D'un véhicule ou ensemble de véhicules de plus de 20 mètres carrés de surface maximale dans les zones touristiques
+délimitées par l'autorité investie du pouvoir de police ; 
 
-IV. - Lorsque le conducteur ou le titulaire du certificat d'immatriculation est absent ou refuse, malgré l'injonction des
+3° D'un véhicule sur les emplacements réservés aux véhicules portant une carte de stationnement de modèle communautaire pour
+personne handicapée, ou un macaron grand invalide de guerre (GIG) ou grand invalide civil (GIC). 
+
+II.-Tout arrêt ou stationnement gênant prévu par le présent article est puni de l'amende prévue pour les contraventions de la
+quatrième classe. 
+
+III.-Lorsque le conducteur ou le titulaire du certificat d'immatriculation est absent ou refuse, malgré l'injonction des
 agents, de faire cesser le stationnement gênant, l'immobilisation et la mise en fourrière peuvent être prescrites dans les
 conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2003-642 du 11 juillet 2003 - art. 6 () JORF 12 juillet 2003
 
 _Cité par_:
 
@@ -32231,12 +32473,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Code de la route. - art. L325-1 (V)
 
 
 ###### Article R417-12
@@ -32315,7 +32552,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=190></a>
+#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=191></a>
 
 ###### Article R418-1
 
@@ -32617,9 +32854,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=191></a>
+### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=192></a>
 
-#### Chapitre Ier : Autoroutes.<a id=192></a>
+#### Chapitre Ier : Autoroutes.<a id=193></a>
 
 ###### Article R421-1
 
@@ -32970,7 +33207,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=193></a>
+#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=194></a>
 
 ###### Article R422-1
 
@@ -33144,9 +33381,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=194></a>
+### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=195></a>
 
-#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=195></a>
+#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=196></a>
 
 ###### Article R431-1
 
@@ -33518,9 +33755,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Véhicules d'intérêt général<a id=196></a>
+#### Chapitre II : Véhicules d'intérêt général<a id=197></a>
 
-##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=197></a>
+##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=198></a>
 
 ###### Article R432-1
 
@@ -33771,7 +34008,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R442-7 (V)
 
 
-##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=198></a>
+##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=199></a>
 
 ###### Article R432-2
 
@@ -34095,7 +34332,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres véhicules d'intérêt général.<a id=199></a>
+##### Section 3 : Autres véhicules d'intérêt général.<a id=200></a>
 
 ###### Article R432-5
 
@@ -34204,9 +34441,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=200></a>
+#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=201></a>
 
-##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=201></a>
+##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=202></a>
 
 ###### Article R433-1
 
@@ -34527,7 +34764,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Transports exceptionnels de personnes.<a id=202></a>
+##### Section 2 : Transports exceptionnels de personnes.<a id=203></a>
 
 ###### Article R433-7
 
@@ -34579,7 +34816,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=203></a>
+##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=204></a>
 
 ###### Article R433-8
 
@@ -34626,7 +34863,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre IV : Convois et véhicules à traction animale.<a id=204></a>
+#### Chapitre IV : Convois et véhicules à traction animale.<a id=205></a>
 
 ###### Article R434-1
 
@@ -34759,9 +34996,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=205></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=206></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=206></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=207></a>
 
 ###### Article R441-1
 
@@ -34891,7 +35128,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=207></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=208></a>
 
 ###### Article R442-1
 
