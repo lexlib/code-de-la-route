@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2004-09-04
+Version Consolidée au 2004-09-23
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -9164,6 +9164,8 @@ des axes de ces chaussées ;
 - voie de circulation : subdivision de la chaussée ayant une largeur suffisante pour permettre la circulation d'une file de
 véhicules ;
 
+- voie verte : route exclusivement réservée à la circulation des véhicules non motorisés, des piétons et des cavaliers ;
+
 - zone 30 : section ou ensemble de sections de routes constituant dans une commune une zone de circulation homogène, où la
 vitesse est limitée à 30 km/h, et dont les entrées et sorties sont annoncées par une signalisation et font l'objet
 d'aménagements spécifiques.
@@ -9187,6 +9189,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2004-998 du 16 septembre 2004 - art. 1 () JORF 23 septembre 2004
 
 _Anciens textes_:
 
@@ -29196,14 +29202,12 @@ _Cité par_:
 I- Tout conducteur doit, sauf en cas de nécessité absolue, faire circuler son véhicule exclusivement sur la chaussée.
 
 II. - Lorsque, sur la chaussée, une voie de circulation réservée à certaines catégories de véhicules est matérialisée, les
-conducteurs d'autres catégories de véhicules ne doivent pas circuler sur cette voie.
+conducteurs d'autres catégories de véhicules ne doivent pas circuler sur cette voie. Les conducteurs de véhicules motorisés
+ne doivent pas circuler sur une voie verte.
 
 III. - Le fait, pour tout conducteur, de faire circuler son véhicule en dehors de la chaussée ou sur une voie de circulation
-réservée à d'autres catégories de véhicules est puni de l'amende prévue pour les contraventions de la 4e classe.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+réservée à d'autres catégories de véhicules ou, pour tout conducteur d'un véhicule motorisé, de circuler sur une voie verte
+est puni de l'amende prévue pour les contraventions de la 4e classe.
 
 **Liens relatifs à cet article**
 
@@ -29213,7 +29217,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 6 () JORF 12 juillet 2003
+  - Décret n°2004-998 du 16 septembre 2004 - art. 2 () JORF 23 septembre 2004
 
 _Cité par_:
 
@@ -33576,11 +33580,11 @@ _Cité par_:
 
 I. - Tout véhicule à l'arrêt ou en stationnement doit être placé de manière à gêner le moins possible la circulation.
 
-II. - Est considéré comme gênant la circulation publique, l'arrêt ou le stationnement d'un véhicule :
+II. - Est considéré comme gênant la circulation publique l'arrêt ou le stationnement d'un véhicule :
 
 1° Sur les trottoirs, les passages ou accotements réservés à la circulation des piétons ;
 
-1° bis Sur les bandes et pistes cyclables ainsi qu'en bordure des bandes cyclables ;
+1° bis Sur les voies vertes, les bandes et pistes cyclables ainsi qu'en bordure des bandes cyclables ;
 
 2° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de transport public de voyageurs, des taxis ou
 des véhicules affectés à un service public ;
@@ -33604,7 +33608,7 @@ dégagement de ce dernier ;
 
 10° Sur une voie publique spécialement désignée par arrêté de l'autorité investie du pouvoir de police municipale.
 
-III. - Est également considéré comme gênant la circulation publique, le stationnement d'un véhicule :
+III. - Est également considéré comme gênant la circulation publique le stationnement d'un véhicule :
 
 1° Devant les entrées carrossables des immeubles riverains ;
 
@@ -33621,10 +33625,6 @@ la deuxième classe.
 V. - Lorsque le conducteur ou le propriétaire du véhicule est absent ou refuse, malgré l'injonction des agents, de faire
 cesser le stationnement gênant, l'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues
 aux articles L. 325-1 à L. 325-3.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -33648,7 +33648,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 6 () JORF 12 juillet 2003
+  - Décret n°2004-998 du 16 septembre 2004 - art. 3 () JORF 23 septembre 2004
 
 _Anciens textes_:
 
@@ -33659,10 +33659,6 @@ _Anciens textes_:
   - Code de la route - art. R37-1 (Ab)
   - Code de la route - art. R43-6 (Ab)
   - Code de la route R37-1, R43-6 (al. 3), R233-1 (al. 4 à 6), R278 18°, R285-2 2°
-
-_Cite_:
-
-  - Code de la route L325-1 à L325-3
 
 
 ###### Article R417-11
