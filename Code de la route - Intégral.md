@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2004-03-01
+Version Consolidée au 2004-03-10
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -42,7 +42,7 @@ Version Consolidée au 2004-03-01
       - [Titre 2 : Dispositions administratives (art. L322-1 à L327-6)](#39)
         - [Chapitre 2 : Immatriculation. (art. L322-1 à L322-2)](#40)
         - [Chapitre 3 : Contrôle technique. (art. L323-1)](#41)
-        - [Chapitre 4 : Assurance. (art. L324-1)](#42)
+        - [Chapitre 4 : Assurance. (art. L324-1 à L324-2)](#42)
         - [Chapitre 5 : Immobilisation et mise en fourrière. (art. L325-1 à L325-13)](#43)
         - [Chapitre 6 : Organisation de la profession d'expert en automobile. (art. L326-1 à L326-9)](#44)
         - [Chapitre 7 : Véhicules endommagés. (art. L327-1 à L327-6)](#45)
@@ -556,38 +556,39 @@ _Cite_:
 ###### Article L121-5
 
 Les règles relatives à la procédure de l'amende forfaitaire applicable à certaines infractions au présent code sont fixées
-aux articles 529-7 à 530-3 du code de procédure pénale ci-après reproduits :
+aux articles 529-7 à 530-3 du code de procédure pénale ci-après reproduits : 
 
-"Art. 529-7 - Pour les contraventions au code de la route des deuxième, troisième et quatrième classes dont la liste est
-fixée par décret en Conseil d'Etat, à l'exception de celles relatives au stationnement, l'amende forfaitaire est minorée si
-le contrevenant en règle le montant dans les conditions prévues par l'article 529-8.
+" Art. 529-7-Pour les contraventions au code de la route des deuxième, troisième et quatrième classes dont la liste est fixée
+par décret en Conseil d'Etat, à l'exception de celles relatives au stationnement, l'amende forfaitaire est minorée si le
+contrevenant en règle le montant dans les conditions prévues par l'article 529-8. " 
 
-Art. 529-8 - Le montant de l'amende forfaitaire minorée peut être acquitté soit entre les mains de l'agent verbalisateur au
+" Art. 529-8-Le montant de l'amende forfaitaire minorée peut être acquitté soit entre les mains de l'agent verbalisateur au
 moment de la constatation de l'infraction, soit dans un délai de trois jours à compter de la constatation de l'infraction ou,
-si cet avis est ultérieurement envoyé à l'intéressé, dans les sept jours qui suivent cet envoi.
+si l'avis de contravention est ultérieurement envoyé à l'intéressé, dans le délai de quinze jours à compter de cet envoi. 
 
 En cas de non-paiement de l'amende forfaitaire minorée dans les conditions prévues ci-dessus, le contrevenant est redevable
-de l'amende forfaitaire.
+de l'amende forfaitaire. " 
 
-Art. 529-9 - L'amende forfaitaire doit être versée avant l'expiration de la période de trente jours qui suit la constatation
-de l'infraction ou l'envoi de l'avis de contravention.
+" Art. 529-9-L'amende forfaitaire doit être versée dans le délai de quarante cinq jours à compter de la constatation de
+l'infraction ou l'envoi de l'avis de contravention. 
 
 Les dispositions de l'article 529-2 relatives à la requête aux fins d'exonération et à la majoration de plein droit sont
-applicables.
+applicables. " 
 
-Art. 529-10 - Lorsque l'avis d'amende forfaitaire concernant une des contraventions mentionnées à l'article L. 121-3 du code
+" Art. 529-10-Lorsque l'avis d'amende forfaitaire concernant une des contraventions mentionnées à l'article L. 121-3 du code
 de la route a été adressé au titulaire du certificat d'immatriculation ou aux personnes visées aux deuxième et troisième
 alinéas de l'article L. 121-2 de ce code, la requête en exonération prévue par l'article 529-2 ou la réclamation prévue par
 l'article 530 n'est recevable que si elle est adressée par lettre recommandée avec demande d'avis de réception et si elle est
-accompagnée :
+accompagnée : 
 
-1° Soit de l'un des documents suivants :
+1° Soit de l'un des documents suivants : 
 
-a) Le récépissé du dépôt de plainte pour vol ou destruction du véhicule, ou une copie de la déclaration de destruction de
-véhicule établie conformément aux dispositions du code de la route ;
+a) Le récépissé du dépôt de plainte pour vol ou destruction du véhicule ou pour le délit d'usurpation de plaque
+d'immatriculation prévu par l'article L. 317-4-1 du code de la route, ou une copie de la déclaration de destruction de
+véhicule établie conformément aux dispositions du code de la route ; 
 
 b) Une lettre signée de l'auteur de la requête ou de la réclamation précisant l'identité, l'adresse, ainsi que la référence
-du permis de conduire de la personne qui était présumée conduire le véhicule lorsque la contravention a été constatée ;
+du permis de conduire de la personne qui était présumée conduire le véhicule lorsque la contravention a été constatée ; 
 
 2° Soit d'un document démontrant qu'il a été acquitté une consignation préalable d'un montant égal à celui de l'amende
 forfaitaire dans le cas prévu par le premier alinéa de l'article 529-2, ou à celui de l'amende forfaitaire majorée dans le
@@ -596,50 +597,64 @@ forfaitaire et ne donne pas lieu au retrait des points du permis de conduire pr�
 223-1 du code de la route.
 
 L'officier du ministère public vérifie si les conditions de recevabilité de la requête ou de la réclamation prévues par le
-présent article sont remplies.
+présent article sont remplies. " 
 
-Art. 529-11 - L'avis de contravention prévu par les articles 529-1 et 529-8 peut être envoyé à la suite de la constatation
+" Art. 529-11-L'avis de contravention prévu par les articles 529-1 et 529-8 peut être envoyé à la suite de la constatation
 d'une contravention au code de la route réalisée grâce à un appareil homologué de contrôle automatique. En cas de réclamation
-portée devant le tribunal de police, le procès-verbal ou le rapport de l'officier ou de l'agent de police judiciaire faisant
-état du résultat de ce contrôle est alors dressé.
+portée devant la juridiction de proximité, le procès-verbal ou le rapport de l'officier ou de l'agent de police judiciaire
+faisant état du résultat de ce contrôle est alors dressé. Ce procès-verbal peut être revêtu d'une signature manuelle
+numérisée. " 
 
-Art. 530   Le titre mentionné au second alinéa de l'article 529-2 ou au second alinéa de l'article 529-5 est exécuté suivant
+" Art. 530-Le titre mentionné au second alinéa de l'article 529-2 ou au second alinéa de l'article 529-5 est exécuté suivant
 les règles prévues par le présent code pour l'exécution des jugements de police. La prescription de la peine commence à
-courir à compter de la signature par le ministère public du titre exécutoire, qui peut être individuel ou collectif.
+courir à compter de la signature par le ministère public du titre exécutoire, qui peut être individuel ou collectif. 
 
 Dans les trente jours de l'envoi de l'avis invitant le contrevenant à payer l'amende forfaitaire majorée, l'intéressé peut
 former auprès du ministère public une réclamation motivée qui a pour effet d'annuler le titre exécutoire en ce qui concerne
 l'amende contestée. Cette réclamation reste recevable tant que la peine n'est pas prescrite, s'il ne résulte pas d'un acte
-d'exécution ou de tout autre moyen de preuve que l'intéressé a eu connaissance de l'amende forfaitaire majorée.
+d'exécution ou de tout autre moyen de preuve que l'intéressé a eu connaissance de l'amende forfaitaire majorée.S'il s'agit
+d'une contravention au code de la route, la réclamation n'est toutefois plus recevable à l'issue d'un délai de trois mois
+lorsque l'avis d'amende forfaitaire majorée est envoyé par lettre recommandée à l'adresse figurant sur le certificat
+d'immatriculation du véhicule, sauf si le contrevenant justifie qu'il a, avant l'expiration de ce délai, déclaré son
+changement d'adresse au service d'immatriculation des véhicules ; dans ce dernier cas, le contrevenant n'est redevable que
+d'une somme égale au montant de l'amende forfaitaire s'il s'en acquitte dans un délai de quarante-cinq jours, ce qui a pour
+effet d'annuler le titre exécutoire pour le montant de la majoration. 
 
-La réclamation doit être accompagnée de l'avis correspondant à l'amende considérée.
+La réclamation doit être accompagnée de l'avis d'amende forfaitaire majorée correspondant à l'amende considérée ainsi que,
+dans le cas prévu par l'article 529-10, de l'un des documents exigés par cet article, à défaut de quoi elle n'a pas pour
+effet d'annuler le titre exécutoire. " 
 
-Art. 530-1 - Au vu de la requête faite en application du premier alinéa de l'article 529-2, de la protestation formulée en
+" Art. 530-1-Au vu de la requête faite en application du premier alinéa de l'article 529-2, de la protestation formulée en
 application du premier alinéa de l'article 529-5 ou de la réclamation faite en application du deuxième alinéa de l'article
 530, le ministère public peut soit renoncer à l'exercice des poursuites, soit procéder conformément aux articles 524 à 528-2
 ou aux articles 531 et suivants, soit aviser l'intéressé de l'irrecevabilité de la réclamation non motivée ou non accompagnée
-de l'avis.
+de l'avis. 
 
 En cas de condamnation, l'amende prononcée ne peut être inférieure au montant de l'amende ou de l'indemnité forfaitaire dans
 les cas prévus par le premier alinéa de l'article 529-2 et le premier alinéa de l'article 529-5, ni être inférieure au
 montant de l'amende forfaitaire majorée dans les cas prévus par le second alinéa de l'article 529-2 et le second alinéa de
-l'article 529-5.
+l'article 529-5. 
 
-Art. 530-2 - Les incidents contentieux relatifs à l'exécution du titre exécutoire et à la rectification des erreurs
-matérielles qu'il peut comporter sont déférés au tribunal de police, qui statue conformément aux dispositions de l'article
-711.
+Dans les cas prévus par l'article 529-10, en cas de classement sans suite ou de relaxe, s'il a été procédé à la consignation
+prévue par cet article, le montant de la consignation est reversé, à sa demande, à la personne à qui avait été adressé l'avis
+de paiement de l'amende forfaitaire ou ayant fait l'objet de poursuites. En cas de condamnation, l'amende prononcée ne peut
+être inférieure au montant prévu à l'alinéa précédent augmenté d'une somme de 10 %. " 
 
-Art. 530-2-1 Lorsque les avis de contravention ou d'amende forfaitaire majorée sont adressés à une personne résidant à
-l'étranger, les délais prévus par les articles 529-1, 529-2, 529-8, 529-9 et 530 sont augmentés d'un mois.
+" Art. 530-2-Les incidents contentieux relatifs à l'exécution du titre exécutoire et à la rectification des erreurs
+matérielles qu'il peut comporter sont déférés à la juridiction de proximité, qui statue conformément aux dispositions de
+l'article 711. " 
+
+" Art. 530-2-1 Lorsque les avis de contravention ou d'amende forfaitaire majorée sont adressés à une personne résidant à
+l'étranger, les délais prévus par les articles 529-1, 529-2, 529-8, 529-9 et 530 sont augmentés d'un mois. 
 
 Les dispositions des articles 529-10 et 530 du présent code et des articles L. 121-2 et L. 121-3 du code de la route
 relatives aux titulaires du certificat d'immatriculation du véhicule sont applicables aux personnes dont l'identité figure
-sur les documents équivalents délivrés par des autorités étrangères.
+sur les documents équivalents délivrés par des autorités étrangères. " 
 
-Art. 530-3 - Un décret en Conseil d'Etat fixe le montant des amendes et indemnités forfaitaires, des amendes forfaitaires
+" Art. 530-3-Un décret en Conseil d'Etat fixe le montant des amendes et indemnités forfaitaires, des amendes forfaitaires
 minorées et des amendes forfaitaires majorées ainsi que des frais de constitution de dossier et précise les modalités
 d'application du présent chapitre, en déterminant notamment les conditions dans lesquelles les agents habilités à constater
-les infractions sont assermentés et perçoivent le montant des amendes forfaitaires et celui des transactions."
+les infractions sont assermentés et perçoivent le montant des amendes forfaitaires et celui des transactions. "
 
 **Liens relatifs à cet article**
 
@@ -653,15 +668,38 @@ _Cité par_:
   - Loi n°2003-495 du 12 juin 2003 - art. 29 (V)
   - Loi n°2003-495 du 12 juin 2003 - art. 31 (V)
 
+_Modifié par_:
+
+  - Loi n°2004-204 2004-03-09 art. 56 III, IV, V, art. 61 II, art. 62 JORF 10 mars 2004
+  - Loi n°2004-204 du 9 mars 2004 - art. 56 () JORF 10 mars 2004
+  - Loi n°2004-204 du 9 mars 2004 - art. 61 () JORF 10 mars 2004
+  - Loi n°2004-204 du 9 mars 2004 - art. 62 () JORF 10 mars 2004
+  - Loi n°2005-47 du 26 janvier 2005 - art. 9
+
 _Cite_:
 
+  - CODE DE PROCEDURE PENALE - art. 529-1 (M)
   - CODE DE PROCEDURE PENALE - art. 529-2 (M)
   - CODE DE PROCEDURE PENALE - art. 529-5 (M)
-  - CODE DE PROCEDURE PENALE - art. 529-8 (M)
-  - CODE DE PROCEDURE PENALE - art. 530 (M)
   - CODE DE PROCEDURE PENALE - art. 531 (M)
   - CODE DE PROCEDURE PENALE - art. 711 (M)
-  - Code de procédure pénale 529-7 à 530-3, 529-8, 529-2, 529-5, 530, 524 à 528-2, 531, 711
+  - Code de la route. - art. L121-2 (M)
+  - Code de la route. - art. L121-3 (M)
+  - Code de la route. - art. L223-1 (M)
+  - Code de la route. - art. L317-4-1 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 529-10 (V)
+  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 529-11 (V)
+  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 529-7 (V)
+  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 529-8 (V)
+  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 529-9 (V)
+  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 530 (V)
+  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 530-1 (V)
+  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 530-2 (V)
+  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 530-2-1 (V)
+  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 530-3 (V)
 
 
 #### Chapitre 2 : Indemnisation des victimes d'accidents de la circulation.<a id=6></a>
@@ -1051,7 +1089,8 @@ _Cité par_:
 Lorsqu'elles sont effectuées par des appareils de contrôle automatique ayant fait l'objet d'une homologation, les
 constatations relatives à la vitesse des véhicules, aux distances de sécurité entre véhicules, au franchissement par les
 véhicules d'une signalisation imposant leur arrêt, au non-paiement des péages ou à la présence de véhicules sur certaines
-voies et chaussées, font foi jusqu'à preuve du contraire.
+voies et chaussées, font foi jusqu'à preuve du contraire. Ces constatations peuvent faire l'objet d'un procès-verbal revêtu
+d'une signature manuelle numérisée.
 
 Lorsque ces constatations font l'objet d'un traitement automatisé d'informations nominatives mis en oeuvre conformément aux
 dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, la durée maximale
@@ -1090,9 +1129,9 @@ _Codifié par_:
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 8 () JORF 13 juin 2003
+  - Loi n°2004-204 du 9 mars 2004 - art. 56 () JORF 10 mars 2004
 
 
 ### Titre 4 : Dispositions relatives à l'outre-mer<a id=8></a>
@@ -2049,15 +2088,14 @@ _Cité par_:
 
 ###### Article L221-2
 
-I. - Le fait, pour toute personne en état de récidive au sens du deuxième alinéa de l'article 132-11 du code pénal, de
-conduire un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule considéré est puni de
-deux ans d'emprisonnement et de 4 500 euros d'amende.
+I. - Le fait de conduire un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule
+considéré est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 II. - Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
 suivantes :
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20 5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
+prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante ;
 
 2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
@@ -2081,8 +2119,7 @@ _Cite_:
   - Code pénal - art. 131-25 (M)
   - Code pénal - art. 131-5 (M)
   - Code pénal - art. 131-8 (M)
-  - Code pénal - art. 132-11 (M)
-  - Code pénal 132-11, 131-8, 131-22 à 131-24, 131-5, 131-25
+  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25
   - Code de la route L325-1 à L325-3
 
 _Cité par_:
@@ -2115,18 +2152,9 @@ _Codifié par_:
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2000-1255 2000-12-21 art. 2 : Ordonnance applicable à Mayotte
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
 _Modifié par_:
 
-  - Loi n°2003-495 2003-06-12 art. 4 IV, art. 6 X, XI, art. 39 III JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 39 (V) JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 4 () JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+  - Loi n°2004-204 du 9 mars 2004 - art. 57 () JORF 10 mars 2004
 
 _Anciens textes_:
 
@@ -2135,6 +2163,11 @@ _Anciens textes_:
   - Code de la route - art. L12 (Ab)
   - Code de la route - art. R278 (Ab)
   - Code de la route L1-1 (al. 2), L1-2, L12 (al. 1), R278 2°
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre 3 : Permis à points.<a id=19></a>
@@ -4122,6 +4155,52 @@ _Anciens textes_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
+###### Article L233-1-1
+
+I.-Lorsque les faits prévus à l'article L. 233-1 ont été commis dans des circonstances exposant directement autrui à un
+risque de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente, ils sont punis de cinq ans
+d'emprisonnement et de 75 000 € d'amende. 
+
+II.-Les personnes coupables du délit prévu au présent article encourent également les peines complémentaires suivantes, outre
+celles prévues par les 2° et 3° du II de l'article L. 233-1 : 
+
+1° La suspension, pour une durée de cinq ans au plus, du permis de conduire ; cette suspension ne peut être assortie du
+sursis ni être limitée à la conduite en dehors de l'activité professionnelle ; 
+
+2° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
+plus ; 
+
+3° La confiscation d'un ou de plusieurs véhicules appartenant au condamné ; 
+
+4° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
+
+5° La confiscation d'une ou plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition. 
+
+III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre de points initial du permis de conduire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Créé par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 58 () JORF 10 mars 2004
+
+_Cite_:
+
+  - Code de la route. - art. L233-1 (V)
+
+_Cité par_:
+
+  - Code de la route. - art. L243-2 (VD)
+  - Code de la route. - art. L244-2 (VD)
+  - Code de la route. - art. L245-2 (VD)
+  - Code de la route. - art. R212-4 (V)
+
+
 ###### Article L233-2
 
 I.-Le fait pour tout conducteur de refuser de se soumettre à toutes vérifications prescrites concernant son véhicule ou sa
@@ -5702,6 +5781,49 @@ _Anciens textes_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
+###### Article L317-4-1
+
+I. - Le fait de mettre en circulation ou de faire circuler un véhicule à moteur ou une remorque muni d'une plaque portant un
+numéro d'immatriculation attribué à un autre véhicule dans des circonstances qui ont déterminé ou auraient pu déterminer des
+poursuites pénales contre un tiers est puni de sept ans d'emprisonnement et de 30 000 EUR d'amende.
+
+II. - Toute personne coupable de cette infraction encourt également les peines complémentaires suivantes :
+
+1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension ne pouvant être limitée à la
+conduite en dehors de l'activité professionnelle ;
+
+2° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
+plus ;
+
+3° La confiscation du véhicule.
+
+III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Créé par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 61 () JORF 10 mars 2004
+
+_Cité par_:
+
+  - Décret n°2019-507 du 24 mai 2019 - art. 7
+  - Arrêté du 17 avril 2020 - art. 2
+  - Arrêté du 17 avril 2020 - art. 3
+  - Code de la route. - art. A121-2 (VD)
+  - Code de la route. - art. A121-3 (VD)
+  - Code de la route. - art. L121-5 (V)
+  - Code de la route. - art. R212-4 (V)
+  - Code de procédure pénale - art. 529-10 (V)
+  - Code de procédure pénale - art. A36-16 (V)
+  - Code de procédure pénale - art. A37-20-3 (V)
+
+
 ###### Article L317-5
 
 I. - Le fait de fabriquer, d'importer, d'exporter, d'exposer, d'offrir, de mettre en vente, de vendre, de proposer à la
@@ -6146,6 +6268,76 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code des assurances - art. L211-2 (V)
 
 
+###### Article L324-2
+
+I.-Le fait, y compris par négligence, de mettre ou de maintenir en circulation un véhicule terrestre à moteur ainsi que ses
+remorques ou semi-remorques sans être couvert par une assurance garantissant sa responsabilité civile conformément aux
+dispositions de l'article L. 211-1 du code des assurances est puni de 3 750 euros d'amende. 
+
+II.-Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
+suivantes : 
+
+1° La peine de travail d'intérêt général, selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
+prévues aux articles 131-22 à 131-24 du même code ; 
+
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
+
+3° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension ne pouvant pas être limitée à
+la conduite en dehors de l'activité professionnelle ; 
+
+4° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
+plus ; 
+
+5° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
+
+6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
+
+7° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire. 
+
+III.-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-204 2004-03-09 art. 59 III
+  - PILOTE_SUIVEUR: Code des assurances - art. L211-26 (V)
+
+_Créé par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 59 (V) JORF 10 mars 2004
+
+_Cité par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 59 (V)
+  - Arrêté du 14 octobre 2018 (V)
+  - Arrêté du 14 octobre 2018 - art. 1
+  - Décret n°2019-507 du 24 mai 2019 - art. 7
+  - CODE DE PROCEDURE PENALE - art. R55-3 (V)
+  - Code de la route. - art. L130-6 (V)
+  - Code de la route. - art. R121-6 (V)
+  - Code de la route. - art. R130-11 (V)
+  - Code de la route. - art. R212-4 (V)
+  - Code de procédure pénale - art. A36-14 (VD)
+  - Code de procédure pénale - art. D45-3 (VD)
+  - Code de procédure pénale - art. D45-5 (VD)
+
+_Cite_:
+
+  - Code pénal - art. 131-22 (V)
+  - Code pénal - art. 131-25 (V)
+  - Code pénal - art. 131-5 (V)
+  - Code pénal - art. 131-8 (V)
+  - Code des assurances - art. L211-1 (V)
+  - Code de la route. - art. L325-1 (V)
+
+
 #### Chapitre 5 : Immobilisation et mise en fourrière.<a id=43></a>
 
 ###### Article L325-1
@@ -6307,6 +6499,47 @@ _Cite_:
 
   - PILOTE_SUIVEUR: Code de la route. - art. L343-1 (V)
   - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+
+
+###### Article L325-1-1
+
+En cas de constatation d'un délit prévu par le présent code ou le code pénal pour lequel la peine de confiscation du véhicule
+est encourue, l'officier ou l'agent de police judiciaire peut, avec l'autorisation préalable du procureur de la République
+donnée par tout moyen, faire procéder à l'immobilisation et à la mise en fourrière du véhicule.
+
+Si la juridiction ne prononce pas la peine de confiscation du véhicule, celui-ci est restitué à son propriétaire, sous
+réserve des dispositions du troisième alinéa. Si la confiscation est ordonnée, le véhicule est remis au service des domaines
+en vue de sa destruction ou de son aliénation. Les frais d'enlèvement et de garde en fourrière sont à la charge de
+l'acquéreur.
+
+Si la juridiction prononce la peine d'immobilisation du véhicule, celui-ci n'est restitué au condamné qu'à l'issue de la
+durée de l'immobilisation fixée par la juridiction contre paiement des frais d'enlèvement et de garde en fourrière, qui sont
+à la charge de ce dernier.
+
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Créé par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 60 () JORF 10 mars 2004
+
+_Cité par_:
+
+  - Code de la route. - art. L325-1-2 (V)
+  - Code de la route. - art. L325-2 (V)
+  - Code de la route. - art. L344-1 (V)
+  - Code de la route. - art. R325-1 (V)
+  - Code de la route. - art. R325-1-1 (V)
+  - Code de la route. - art. R343-1 (V)
+  - Code de la route. - art. R344-1 (V)
+  - Code de procédure pénale - art. A43-15 (V)
+  - Code pénal - art. R131-10-1 (V)
 
 
 ###### Article L325-2
