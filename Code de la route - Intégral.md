@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2001-11-30
+Version Consolidée au 2001-12-30
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-3)](#2)
@@ -15211,7 +15211,7 @@ mètre, il doit être muni à l'avant de deux feux de position.
 IV. - Tout side-car équipant une motocyclette doit être muni d'un feu de position avant.
 
 V. - Les dispositions du I ci-dessus ne sont pas applicables aux cyclomoteurs à deux roues qui, toutefois, peuvent être munis
-d'un feu de position avant.
+d'un ou de deux feux de position avant.
 
 VI. - Tout véhicule et matériel agricole ou de travaux publics, automoteur, peut être muni de deux feux de position avant
 supplémentaires.
@@ -15242,6 +15242,16 @@ prévue pour les contraventions de la première classe.
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-1362 2001-12-28 art. 7 : application à Mayotte
+  - TXT_SOURCE: Directive 2000-73 CE 2000-11-22
+  - TXT_SOURCE: Directive 93-92 CEE 1993-10-29
+
+_Modifié par_:
+
+  - Décret n°2001-1362 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
 
 _Cité par_:
 
@@ -15415,16 +15425,26 @@ Feux de brouillard avant.
 
 I. - Tout véhicule à moteur peut être muni à l'avant de deux feux de brouillard émettant de la lumière jaune ou blanche.
 
-II. - Toute motocyclette, tout tricycle à moteur, tout quadricycle lourd à moteur peut être muni d'un ou de deux feux de
-brouillard avant.
+II. - Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues peut être muni
+d'un ou de deux feux de brouillard avant.
 
-III. - Les dispositions du présent article ne sont applicables ni aux cyclomoteurs ni aux quadricycles légers à moteur.
+III. - Les dispositions du présent article ne sont pas applicables aux cyclomoteurs à deux roues.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 2000-73 CE 2000-11-22
+  - TXT_SOURCE: Directive 93-92 CEE 1993-10-29
+  - SPEC_APPLI: Décret n°2001-1362 2001-12-28 art. 7 : application à Mayotte
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2001-1362 du 28 décembre 2001 - art. 2 () JORF 30 décembre 2001
 
 _Anciens textes_:
 
@@ -15448,11 +15468,11 @@ lumière rouge. Cette disposition ne s'applique qu'aux véhicules mis pour la pr
 octobre 1990.
 
 II. - Les dispositions du I ci-dessus ne sont applicables ni aux motocyclettes, ni aux tricycles à moteur, ni aux
-quadricycles lourds à moteur, ni aux véhicules et matériels agricoles ou de travaux publics, automoteurs, qui, toutefois,
-peuvent être munis d'un ou de deux feux de brouillard arrière émettant de la lumière rouge.
+quadricycles à moteur, ni aux cyclomoteurs à trois roues, ni aux véhicules et matériels agricoles ou de travaux publics,
+automoteurs, qui, toutefois, peuvent être munis d'un ou de deux feux de brouillard arrière émettant de la lumière rouge.
 
-III. - Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs, ni aux quadricycles légers à moteur, ni aux
-véhicules et appareils agricoles ou de travaux publics remorqués.
+III. - Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs à deux roues, ni aux véhicules et appareils
+agricoles ou de travaux publics remorqués.
 
 IV. - Le fait, pour tout conducteur, de contrevenir aux dispositions du I ci-dessus est puni de l'amende prévue pour les
 contraventions de la troisième classe.
@@ -15462,6 +15482,16 @@ contraventions de la troisième classe.
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-1362 2001-12-28 art. 7 : application à Mayotte
+  - TXT_SOURCE: Directive 2000-73 CE 2000-11-22
+  - TXT_SOURCE: Directive 93-92 CEE 1993-10-29
+
+_Modifié par_:
+
+  - Décret n°2001-1362 du 28 décembre 2001 - art. 3 () JORF 30 décembre 2001
 
 _Anciens textes_:
 
@@ -15549,8 +15579,8 @@ plaque d'exploitation.
 
 II. - Pour les véhicules agricoles remorqués, ce dispositif peut être fixé sur un support amovible.
 
-III. - Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs à trois roues ni aux quadricycles légers à
-moteur, qui, toutefois, peuvent être munis d'un dispositif d'éclairage de la plaque d'immatriculation.
+III. - Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs ni aux quadricycles légers à moteur, qui,
+toutefois, peuvent être munis d'un dispositif d'éclairage de la plaque d'immatriculation.
 
 IV. - Les dispositions du présent article ne sont applicables aux véhicules et matériels spéciaux des services de secours et
 de lutte contre l'incendie que si elles sont compatibles avec leurs caractéristiques techniques de fabrication ou d'emploi.
@@ -15563,6 +15593,16 @@ contraventions de la troisième classe.
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-1362 2001-12-28 art. 7 : application à Mayotte
+  - TXT_SOURCE: Directive 2000-73 CE 2000-11-22
+  - TXT_SOURCE: Directive 93-92 CEE 1993-10-29
+
+_Modifié par_:
+
+  - Décret n°2001-1362 du 28 décembre 2001 - art. 4 () JORF 30 décembre 2001
 
 _Cité par_:
 
@@ -15688,14 +15728,24 @@ _Cite_:
 
 Feux de marche arrière.
 
-Tout véhicule à moteur, toute remorque, à l'exception des motocyclettes et des cyclomoteurs, peut être muni d'un ou de deux
-feux de marche arrière, émettant une lumière blanche.
+Tout véhicule à moteur, toute remorque, à l'exception des motocyclettes et des cyclomoteurs à deux roues, peut être muni d'un
+ou de deux feux de marche arrière, émettant une lumière blanche.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-1362 2001-12-28 art. 7 : application à Mayotte
+  - TXT_SOURCE: Directive 2000-73 CE 2000-11-22
+  - TXT_SOURCE: Directive 93-92 CEE 1993-10-29
+
+_Modifié par_:
+
+  - Décret n°2001-1362 du 28 décembre 2001 - art. 5 () JORF 30 décembre 2001
 
 _Anciens textes_:
 
@@ -15735,11 +15785,12 @@ Signal de détresse.
 I. - Tout véhicule à moteur ou toute remorque doit être muni d'un signal de détresse constitué par le fonctionnement
 simultané des indicateurs de direction.
 
-II. - Les dispositions du I ci-dessus ne sont applicables ni aux motocyclettes ni aux véhicules et appareils agricoles ou de
-travaux publics automoteurs qui, toutefois, peuvent être munis d'un signal de détresse.
+II. - Les dispositions du I ci-dessus ne sont applicables ni aux motocyclettes, ni aux cyclomoteurs à trois roues, ni aux
+quadricycles légers à moteur, ni aux véhicules et appareils agricoles ou de travaux publics automoteurs qui, toutefois,
+peuvent être munis d'un signal de détresse.
 
-III. - Les dispositions du I ci-dessus ne sont pas applicables aux cyclomoteurs et quadricycles légers à moteur, aux
-véhicules et matériels de travaux publics remorqués.
+III. - Les dispositions du I ci-dessus ne sont pas applicables aux cyclomoteurs à deux roues, aux véhicules et matériels de
+travaux publics remorqués.
 
 IV. - Le fait, pour tout conducteur, de contrevenir aux dispositions du I ci-dessus est puni de l'amende prévue pour les
 contraventions de la troisième classe.
@@ -15749,6 +15800,16 @@ contraventions de la troisième classe.
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-1362 2001-12-28 art. 7 : application à Mayotte
+  - TXT_SOURCE: Directive 2000-73 CE 2000-11-22
+  - TXT_SOURCE: Directive 93-92 CEE 1993-10-29
+
+_Modifié par_:
+
+  - Décret n°2001-1362 du 28 décembre 2001 - art. 6 () JORF 30 décembre 2001
 
 _Anciens textes_:
 
