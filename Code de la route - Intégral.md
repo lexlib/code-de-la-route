@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2001-11-16
+Version Consolidée au 2001-11-22
 ## Contenu: 
   - [Partie législative (art. L110-1 à L443-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-3)](#2)
@@ -10957,8 +10957,9 @@ _Cite_:
 
 ###### Article R223-9
 
-I. - Afin de permettre le contrôle des obligations mentionnées aux articles R. 223-5 à R. 223-8, les inspecteurs du permis de
-conduire et de la sécurité routière ont accès aux locaux affectés au déroulement des stages.
+I. - Afin de permettre le contrôle des obligations mentionnées aux articles R. 223-5 à R. 223-8, les délégués au permis de
+conduire et à la sécurité routière et les inspecteurs du permis de conduire et de la sécurité routière ont accès aux locaux
+affectés au déroulement des stages.
 
 II. - Dans le même but, tout titulaire de l'agrément prévu à l'article R. 223-5 doit transmettre, avant le 31 janvier de
 chaque année, au préfet du département ou à l'autorité compétente du territoire ou de la collectivité territoriale d'outre-
@@ -10975,6 +10976,14 @@ pressentis.
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-1095 2001-11-15 art. 2 : application à Mayotte
+
+_Modifié par_:
+
+  - Décret n°2001-1095 du 15 novembre 2001 - art. 1 () JORF 22 novembre 2001
 
 _Anciens textes_:
 
