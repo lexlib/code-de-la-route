@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2005-02-26
+Version Consolidée au 2005-03-26
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -29021,7 +29021,7 @@ _Cite_:
 
 I. - En circulation, tout conducteur d'un véhicule à moteur dont les sièges sont équipés de ceintures en application des
 dispositions du livre III et dont le nombre de places assises, y compris celle du conducteur, n'excède pas neuf doit
-s'assurer que les passagers âgés de moins de treize ans qu'il transporte sont maintenus soit par un système homologué de
+s'assurer que les passagers âgés de moins de dix-huit ans qu'il transporte sont maintenus soit par un système homologué de
 retenue pour enfant, soit par une ceinture de sécurité.
 
 II. - De même, il doit s'assurer que tout enfant de moins de dix ans est retenu par un système homologué de retenue pour
@@ -29042,7 +29042,18 @@ contraventions de la quatrième classe.
 
 **Nota:**
 
-NOTA : Décret 2003-440 art. 3 : Ces dispositions sont applicables à Mayotte.
+NOTA : Décret 2005-277 art. 2 : Ces dispositions sont applicables à Mayotte.
+
+Observations : (Tableau annexé au décret n° 2005-277 non repris, consulter le fac-similé).
+
+Le conducteur d'un véhicule dont le nombre de places assises n'excède pas neuf doit s'assurer que les passagers âgés de moins
+de treize ans ont attaché leur ceinture de sécurité et sont, pour les plus jeunes, équipés de dispositifs spécifiques pour
+enfants (réhausseur, siège enfants, lit nacelle).
+
+Le champ d'application de la mesure est étendu aux passagers âgés de treize ans à moins de dix-huit ans.
+
+La responsabilité du conducteur n'est pas exclusive de celle du passager qui reste tenu de s'attacher et peut à ce titre être
+verbalisé.
 
 **Liens relatifs à cet article**
 
@@ -29050,13 +29061,9 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-440 du 14 mai 2003 - art. 3, v. init.
-
 _Modifié par_:
 
-  - Décret n°2003-637 du 9 juillet 2003 - art. 2 () JORF 10 juillet 2003
+  - Décret n°2005-277 du 25 mars 2005 - art. 1 () JORF 26 mars 2005
 
 _Anciens textes_:
 
