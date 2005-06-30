@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2005-06-07
+Version Consolidée au 2005-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -838,10 +838,10 @@ _Anciens textes_:
 
 ###### Article L130-3
 
-Les fonctionnaires du corps de commandement et d'encadrement de la police nationale mentionnés à l'article L. 130-1 qui n'ont
-pas obtenu la qualité d'officier de police judiciaire peuvent, dans les conditions fixées par l'article 20 du code de
-procédure pénale, exercer les attributions attachées à leur qualité d'agent de police judiciaire pour la recherche et la
-constatation des infractions prévues à l'article L. 130-1. 
+Les fonctionnaires du corps de commandement de la police nationale mentionnés à l'article L. 130-1 qui n'ont pas obtenu la
+qualité d'officier de police judiciaire peuvent, dans les conditions fixées par l'article 20 du code de procédure pénale,
+exercer les attributions attachées à leur qualité d'agent de police judiciaire pour la recherche et la constatation des
+infractions prévues à l'article L. 130-1. 
 
 Les fonctionnaires du corps d'encadrement et d'application de la police nationale affectés à une circonscription territoriale
 ne dépassant pas le ressort de la cour d'appel peuvent, dans les limites de cette circonscription et dans les conditions
@@ -855,7 +855,7 @@ la chambre de l'instruction, conformément aux articles 224 à 229 du code de pr
 
 _Modifié par_:
 
-  - Décret n°2004-1439 du 23 décembre 2004 - art. 21 (Ab)
+  - Décret n°2005-716 du 29 juin 2005 - art. 19 (Ab)
 
 _Cite_:
 
