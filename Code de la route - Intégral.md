@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2005-07-01
+Version Consolidée au 2005-08-06
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -24204,15 +24204,24 @@ _Cite_:
 
 ###### Article R325-7
 
-Lorsque l'appareil de contrôle permettant l'enregistrement de la vitesse ou le dispositif de limitation de vitesse par
-construction ont fait l'objet d'une modification affectant leur fonctionnement normal, la décision d'immobilisation doit
-prescrire de faire procéder aux réparations nécessaires dans les conditions prévues par la réglementation et de présenter le
-véhicule à un contrôle technique.
+I.-Lorsque le véhicule est dépourvu d'appareil de contrôle permettant l'enregistrement de la vitesse ou lorsque cet appareil
+a fait l'objet d'une modification ou d'une détérioration affectant son fonctionnement normal, la décision d'immobilisation
+prescrit de faire procéder soit à son installation par un installateur agréé, soit aux réparations et mises en conformité
+nécessaires. 
 
-Dans ce cas, une fiche de circulation provisoire, dont la durée de validité ne peut excéder sept jours, est établie par les
-autorités selon la procédure mentionnée à l'article R. 325-9. Les pièces administratives nécessaires à la circulation du
-véhicule sont restituées au vu de documents attestant le résultat satisfaisant des réparations et du contrôle technique
-mentionnés à l'alinéa précédent.
+Un arrêté conjoint du ministre chargé de l'industrie et du ministre chargé des transports fixe les conditions d'application
+de ces dispositions. 
+
+II.-Lorsque le dispositif de limitation de vitesse par construction a fait l'objet d'une modification ou d'une détérioration
+affectant son fonctionnement normal, la décision d'immobilisation prescrit de faire procéder aux réparations et mises en
+conformité nécessaires par le constructeur du véhicule ou son représentant autorisé. 
+
+Un arrêté du ministre chargé des transports fixe les conditions d'application de ces dispositions. 
+
+III.-Lorsque l'immobilisation est prescrite en application des I et II, une fiche de circulation provisoire, dont la durée de
+validité ne peut excéder sept jours, est établie par les autorités selon la procédure mentionnée à l'article R. 325-9. Les
+pièces administratives nécessaires à la circulation du véhicule sont restituées au vu de documents attestant la mise en
+conformité ou, le cas échéant, l'installation du dispositif requis.
 
 **Liens relatifs à cet article**
 
@@ -24220,13 +24229,9 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-568 2004-06-11 art. 5 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2004-568 du 11 juin 2004 - art. 2 () JORF 19 juin 2004
+  - Décret n°2005-947 du 2 août 2005 - art. 1 () JORF 6 août 2005
 
 _Cité par_:
 
@@ -24241,7 +24246,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R325-9 (M)
+  - Code de la route. - art. R325-9 (V)
 
 
 ###### Article R325-8
