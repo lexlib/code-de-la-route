@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2005-08-06
+Version Consolidée au 2005-09-13
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -24450,33 +24450,20 @@ _Cite_:
 ###### Article R325-9
 
 I. - Lorsque l'infraction qui a motivé l'immobilisation n'a pas cessé au moment où l'agent quitte le lieu où le véhicule est
-immobilisé, l'agent saisit l'officier de police judiciaire territorialement compétent en lui remettant soit la carte grise du
-véhicule s'il s'agit d'un véhicule dont le poids total autorisé en charge n'excède pas 3,5 tonnes et une fiche
-d'immobilisation, soit les pièces administratives nécessaires à la circulation du véhicule s'il s'agit d'un véhicule de
-transport de marchandises d'un poids total autorisé en charge excédant 3,5 tonnes ou de transport en commun et la fiche
-d'immobilisation. Un double de cette fiche est remis au contrevenant.
+immobilisé, l'agent saisit l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police
+municipale ou occupant ces fonctions, territorialement compétent en lui remettant soit la carte grise du véhicule s'il s'agit
+d'un véhicule dont le poids total autorisé en charge n'excède pas 3,5 tonnes et une fiche d'immobilisation, soit les pièces
+administratives nécessaires à la circulation du véhicule s'il s'agit d'un véhicule de transport de marchandises d'un poids
+total autorisé en charge excédant 3,5 tonnes ou de transport en commun et la fiche d'immobilisation. Un double de cette fiche
+est remis au contrevenant.
 
 II. - La fiche d'immobilisation énonce les date, heure et lieu de l'immobilisation, l'infraction qui l'a motivée, les
 éléments d'identification du véhicule et de la carte grise, les nom et adresse du contrevenant, les noms, qualités et
-affectations des agents qui la rédigent et précise la résidence de l'officier de police judiciaire qualifié pour lever la
-mesure.
+affectations des agents qui la rédigent et précise la résidence de l'officier de police judiciaire ou l'agent de police
+judiciaire adjoint, chef de la police municipale ou occupant ces fonctions, qualifié pour lever la mesure.
 
 III. - Par dérogation aux dispositions du I ci-dessus, si la mesure a été motivée par le franchissement d'une barrière de
 dégel, l'autorité saisie est l'ingénieur des ponts et chaussées ou, s'il s'agit d'une voie communale, le maire.
-
-**Nota:**
-
-Nota : Décret 2003-1186 2003-12-11 art. 15 I (alinéa 1er) et II :
-
-Les dispositions des articles 1er à 5 du présent décret sont applicables à compter du 1er juillet 2004 aux cyclomoteurs mis
-pour la première fois en circulation postérieurement à cette date.
-
-Les dispositions des articles 1er à 5 du présent décret sont applicables aux cyclomoteurs mis pour la première fois en
-circulation avant le 1er juillet 2004 à compter des dates qui seront fixées par arrêté conjoint du ministre de l'intérieur et
-du ministre chargé des transports et ne pourront être postérieures au 30 juin 2009.
-
-Toutefois, à l'initiative de leurs propriétaires, les cyclomoteurs visés à l'alinéa précédent pourront faire l'objet dès le
-1er juillet 2004 d'une demande d'immatriculation dans les conditions prévues par ces dispositions.
 
 **Liens relatifs à cet article**
 
@@ -24484,13 +24471,9 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 (application à Mayotte)
-
 _Modifié par_:
 
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 4 () JORF 13 décembre 2003
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 1 () JORF 13 septembre 2005
 
 _Anciens textes_:
 
@@ -24541,15 +24524,17 @@ II. - Elle est levée :
 
 1° Par l'agent qui l'a prescrite s'il est encore présent lors de la cessation de l'infraction ;
 
-2° Par l'officier de police judiciaire saisi dans les conditions prévues à l'article R. 325-9, dès que le conducteur ou
-l'accompagnateur de l'élève conducteur justifie de la cessation de l'infraction. L'officier de police judiciaire restitue
-alors la carte grise au conducteur ou à l'accompagnateur de l'élève conducteur et transmet aux autorités destinataires du
-procès-verbal mentionné à l'article R. 325-10 un exemplaire de la fiche d'immobilisation ou une copie conforme de cette
-fiche, comportant la mention de la levée de la mesure. Lorsque le conducteur ou l'accompagnateur de l'élève conducteur n'a
-pas justifié de la cessation de l'infraction dans un délai de quarante-huit heures, l'officier de police judiciaire peut
-transformer l'immobilisation en une mise en fourrière ; il joint alors à chacun des exemplaires de la procédure de mise en
-fourrière qu'il adresse aux autorités mentionnées à l'article R. 325-10 un exemplaire ou une copie conforme de la fiche
-d'immobilisation ;
+2° Par l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
+fonctions, saisi dans les conditions prévues à l'article R. 325-9, dès que le conducteur ou l'accompagnateur de l'élève
+conducteur justifie de la cessation de l'infraction. L'officier de police judiciaire ou l'agent de police judiciaire adjoint,
+chef de la police municipale ou occupant ces fonctions, restitue alors la carte grise au conducteur ou à l'accompagnateur de
+l'élève conducteur et transmet aux autorités destinataires du procès-verbal mentionné à l'article R. 325-10 un exemplaire de
+la fiche d'immobilisation ou une copie conforme de cette fiche, comportant la mention de la levée de la mesure. Lorsque le
+conducteur ou l'accompagnateur de l'élève conducteur n'a pas justifié de la cessation de l'infraction dans un délai de
+quarante-huit heures, l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale
+ou occupant ces fonctions, peut transformer l'immobilisation en une mise en fourrière ; il joint alors à chacun des
+exemplaires de la procédure de mise en fourrière qu'il adresse aux autorités mentionnées à l'article R. 325-10 un exemplaire
+ou une copie conforme de la fiche d'immobilisation ;
 
 3° Par la décision de l'ingénieur des ponts et chaussées ou du maire supprimant les barrières de dégel, lorsque la mesure a
 été motivée par leur franchissement. L'ingénieur des ponts et chaussées ou le maire peut, avant la suppression des barrières
@@ -24572,6 +24557,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 2 () JORF 13 septembre 2005
 
 _Anciens textes_:
 
@@ -24647,15 +24636,29 @@ _Anciens textes_:
 
 ###### Article R325-14
 
-La mise en fourrière est prescrite par un officier de police judiciaire territorialement compétent dans les cas prévus au
-présent code ou à la suite d'une immobilisation du véhicule, dans les conditions prévues à l'article R. 325-9 et au 2° de
-l'article R. 325-11.
+I.-Dans les cas prévus au présent code ou à la suite d'une immobilisation du véhicule, la mise en fourrière est prescrite
+dans les conditions prévues à l'article R. 325-9 et au 2° de l'article R. 325-11 :
+
+- soit par un officier de police judiciaire territorialement compétent, de la police nationale ou de la gendarmerie
+nationale ;
+
+- soit par un agent de police judiciaire adjoint, chef de la police municipale ou occupant ces fonctions, territorialement
+compétent, de sa propre initiative ou sur proposition de l'agent qui a verbalisé à la suite d'une infraction justificative de
+mise en fourrière. 
+
+II.-Lorsque le véhicule a été volé, que son propriétaire n'a pu être identifié ou lorsqu'il est muni de fausses plaques
+d'immatriculation, sa mise en fourrière ne peut être prescrite que par un officier de police judiciaire de la police
+nationale ou de la gendarmerie nationale territorialement compétent, ou avec son accord préalable exprès.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 3 () JORF 13 septembre 2005
 
 _Anciens textes_:
 
@@ -24664,8 +24667,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R325-11 (M)
-  - Code de la route. - art. R325-9 (M)
+  - Code de la route. - art. R325-11 (V)
+  - Code de la route. - art. R325-9 (V)
 
 _Cité par_:
 
@@ -24675,10 +24678,11 @@ _Cité par_:
 ###### Article R325-15
 
 En cas d'infraction aux règlements édictés pour la sauvegarde de l'esthétique des sites et des paysages classés, la mise en
-fourrière peut être également prescrite par le maire ou, à Paris, par le préfet de police.
+fourrière peut être également prescrite par le maire ou, à Paris, par le préfet de police. 
 
-Un officier de police judiciaire territorialement compétent peut être chargé d'exécuter, ou de faire exécuter, la mesure
-prévue à l'alinéa précédent.
+Un officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
+fonctions, territorialement compétent peut être chargé d'exécuter, ou de faire exécuter, la mesure prévue à l'alinéa
+précédent. 
 
 Les dispositions du II de l'article R. 325-16 sont appliquées.
 
@@ -24688,6 +24692,10 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 4 () JORF 13 septembre 2005
+
 _Anciens textes_:
 
   - Code de la route - art. R285-3 (Ab)
@@ -24695,15 +24703,15 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R325-16 (M)
+  - Code de la route. - art. R325-16 (V)
 
 
 ###### Article R325-16
 
-I. - Dans les cas où la mise en fourrière est prévue par le présent code, l'agent verbalisateur qui a constaté l'infraction
-justifiant la mise en fourrière saisit l'officier de police judiciaire territorialement compétent.
+I. -(abrogé)
 
-II. - L'officier de police judiciaire territorialement compétent ou l'agent verbalisateur spécialement mandaté par lui :
+II. -  L'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
+fonctions, territorialement compétent, ou l'agent placé sous leur autorité :
 
 1° Désigne la fourrière dans laquelle sera transféré le véhicule, cette désignation étant matérialisée par la pose d'un signe
 distinctif sur celui-ci ;
@@ -24716,8 +24724,8 @@ commencement d'exécution ;
 3° Remet à ce propriétaire ou ce conducteur, s'il est présent, un double de la fiche relative à l'état du véhicule et, le cas
 échéant, la fiche de circulation provisoire prévue à l'article R. 325-6 ;
 
-4° Relate sur le procès-verbal de l'infraction les motifs de la mise en fourrière ; il y fait mention du retrait provisoire
-du certificat d'immatriculation et de l'heure d'appel du véhicule d'enlèvement.
+4° Relate sur le procès-verbal de constatation ou le rapport les motifs de la mise en fourrière ; il y fait mention du
+retrait provisoire du certificat d'immatriculation et de l'heure d'appel du véhicule d'enlèvement.
 
 **Liens relatifs à cet article**
 
@@ -24727,7 +24735,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 5 () JORF 13 septembre 2005
 
 _Anciens textes_:
 
@@ -24772,14 +24780,17 @@ _Cite_:
 
 ###### Article R325-18
 
-Dans tous les cas, l'autorité qui a prescrit une mise en fourrière informe le préfet du département dans lequel le véhicule a
-été trouvé en infraction, de l'exécution de la mise en fourrière et de la fourrière désignée.
+L'auteur d'une prescription de mise en fourrière informe l'autorité dont relève la fourrière dans les plus brefs délais.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 6 () JORF 13 septembre 2005
 
 _Anciens textes_:
 
@@ -24855,10 +24866,15 @@ _Anciens textes_:
 
 ###### Article R325-21
 
-La fourrière peut être située dans un lieu privé avec l'assentiment du propriétaire ou du locataire de cet immeuble, s'il
-accepte d'assurer la garde de cette fourrière.
+A défaut d'institution d'un service public local de fourrière pour véhicules par l'une des autorités précitées, ou en cas de
+refus de leur part d'enlever, faire enlever, garder ou faire garder un véhicule faisant l'objet d'une prescription de mise en
+fourrière, l'Etat est substitué à ces autorités.
 
-Dans cette hypothèse, l'autorité dont relève la fourrière est le préfet.
+L'auteur de la prescription de la mise en fourrière signale au préfet du département le refus opposé à l'enlèvement ou à la
+garde du véhicule.
+
+La fourrière peut être située dans un lieu privé avec l'assentiment du propriétaire ou du locataire de cet immeuble s'il
+accepte d'assurer la garde de cette fourrière.
 
 **Liens relatifs à cet article**
 
@@ -24872,6 +24888,10 @@ _Cité par_:
   - Code de l'environnement - art. R543-155 (V)
   - Code de la route. - art. R343-4 (M)
 
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 7 () JORF 13 septembre 2005
+
 _Anciens textes_:
 
   - Code de la route - art. R286-2 (Ab)
@@ -24880,31 +24900,17 @@ _Anciens textes_:
 
 ###### Article R325-22
 
-I. - Lorsque le propriétaire du véhicule faisant l'objet de la mise en fourrière est domicilié ou réside dans le ressort de
-l'officier de police judiciaire qui exécute cette mesure, celui-ci peut faire garder le véhicule par son propriétaire, à
-condition que le certificat d'immatriculation soit immédiatement retiré. Ce document reçoit la destination prévue à l'article
-R. 325-34.
+I.-Lorsque le propriétaire du véhicule faisant l'objet de la mise en fourrière est domicilié ou réside dans le ressort de
+l'officier de police judiciaire ou de l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
+fonctions qui prescrit cette mesure, celui-ci peut faire garder le véhicule par son propriétaire, à condition que le
+certificat d'immatriculation soit immédiatement retiré. Ce document reçoit la destination prévue à l'article R. 325-34.
 
-II. - Dans cette hypothèse, l'autorité dont relève la fourrière est :
+II.-Dans cette hypothèse, l'autorité dont relève la fourrière est : 
 
 1° Soit le maire, lorsque la mise en fourrière a été décidée par lui ou par un de ses adjoints agissant en qualité d'officier
-de police judiciaire ;
+de police judiciaire ou par l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces fonctions ; 
 
 2° Soit le préfet, dans les autres cas.
-
-**Nota:**
-
-Nota : Décret 2003-1186 2003-12-11 art. 15 I (alinéa 1er) et II :
-
-Les dispositions des articles 1er à 5 du présent décret sont applicables à compter du 1er juillet 2004 aux cyclomoteurs mis
-pour la première fois en circulation postérieurement à cette date.
-
-Les dispositions des articles 1er à 5 du présent décret sont applicables aux cyclomoteurs mis pour la première fois en
-circulation avant le 1er juillet 2004 à compter des dates qui seront fixées par arrêté conjoint du ministre de l'intérieur et
-du ministre chargé des transports et ne pourront être postérieures au 30 juin 2009.
-
-Toutefois, à l'initiative de leurs propriétaires, les cyclomoteurs visés à l'alinéa précédent pourront faire l'objet dès le
-1er juillet 2004 d'une demande d'immatriculation dans les conditions prévues par ces dispositions.
 
 **Liens relatifs à cet article**
 
@@ -24912,13 +24918,9 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 (application à Mayotte)
-
 _Modifié par_:
 
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 5 () JORF 13 décembre 2003
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 8 () JORF 13 septembre 2005
 
 _Anciens textes_:
 
@@ -24960,16 +24962,16 @@ _Cite_:
 Le préfet agrée les gardiens de fourrière et les installations de celle-ci, après consultation de la commission
 départementale de sécurité routière. Il peut, dans les mêmes conditions, procéder au retrait de l'agrément. La décision de
 retrait n'intervient qu'après que la personne intéressée a été mise à même de présenter des observations écrites et, le cas
-échéant, sur sa demande, des observations orales.
+échéant, sur sa demande, des observations orales. 
 
 Nul ne peut être agréé comme gardien de fourrière s'il exerce également une activité de destruction ou de retraitement de
-véhicules usagés.
+véhicules usagés. 
 
 La fourrière doit être clôturée. Ses installations doivent notamment satisfaire aux dispositions législatives et
-réglementaires relatives à la protection de l'environnement.
+réglementaires relatives à la protection de l'environnement. 
 
-Les dispositions qui précèdent ne sont pas applicables aux gardiens de fourrière occasionnellement requis pour cette fonction
-en application de l'article R. 325-22.
+Les dispositions qui précèdent ne sont applicables ni à la personne occasionnellement requise comme gardien de fourrière ni
+au propriétaire qui garde son véhicule dans les conditions prévues à l'article R. 325-22. 
 
 Le préfet établit un rapport annuel sur les activités et le fonctionnement des fourrières de son département.
 
@@ -24978,6 +24980,10 @@ Le préfet établit un rapport annuel sur les activités et le fonctionnement de
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 9 () JORF 13 septembre 2005
 
 _Cité par_:
 
@@ -24994,7 +25000,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R325-22 (M)
+  - Code de la route. - art. R325-22 (V)
 
 
 ###### Article R325-25
@@ -25017,12 +25023,18 @@ _Anciens textes_:
 
 ###### Article R325-26
 
-Un procès-verbal de la mise en fourrière relate les circonstances et les conditions dans lesquelles cette mesure a été prise.
-Il est transmis dans les plus brefs délais au procureur de la République et au préfet. Un double de ce procès-verbal est
-transmis dans les plus brefs délais à l'autorité ayant compétence pour prononcer la mainlevée.
+Les circonstances et les conditions dans lesquelles la mesure de mise en fourrière a été prise sont relatées :
+
+- soit dans un procès-verbal de mise en fourrière, consécutivement à la commission d'une infraction. Ce procès-verbal est
+transmis au procureur de la République et au préfet ;
+
+- soit dans un rapport de mise en fourrière, dans les autres cas. Ce rapport est transmis au préfet.
+
+Une copie de ce document est transmise sans délai à l'autorité ayant compétence pour prononcer la mainlevée.
 
 En cas d'absence du propriétaire ou du conducteur au moment de l'enlèvement du véhicule en fourrière, un double de la fiche
-descriptive remplie par l'agent verbalisateur est adressé sans délai au responsable de la notification de mise en fourrière.
+descriptive remplie par l'agent de constatation est adressé sans délai au responsable de la notification de mise en
+fourrière.
 
 Un autre double de cette fiche descriptive est remis au gardien de fourrière.
 
@@ -25032,6 +25044,10 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 10 () JORF 13 septembre 2005
+
 _Anciens textes_:
 
   - Code de la route - art. R287 (Ab)
@@ -25040,17 +25056,25 @@ _Anciens textes_:
 
 ###### Article R325-27
 
-Les intéressés peuvent contester auprès du procureur de la République du lieu de l'infraction la décision de mise en
-fourrière. Ce magistrat confirme la mesure ou en ordonne la mainlevée dans le délai maximal de cinq jours ouvrables.
+Les intéressés peuvent contester la décision de mise en fourrière :
 
-Si, à l'examen de la procédure, le procureur de la République estime qu'il n'a pas été commis d'infraction, il ordonne que
-soit donnée mainlevée de la mise en fourrière et en informe immédiatement l'autorité qui l'a prescrite.
+- auprès du procureur de la République du lieu de l'enlèvement du véhicule, lorsque la procédure est consécutive à la
+commission d'une infraction ;
+
+- auprès du préfet du lieu de l'enlèvement du véhicule, dans les autres cas.
+
+Dans le délai de cinq jours ouvrables, l'autorité compétente confirme la mesure ou, si elle estime la décision infondée, en
+ordonne la mainlevée. Elle en informe sans délai l'auteur de la prescription.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 11 () JORF 13 septembre 2005
 
 _Anciens textes_:
 
@@ -25065,19 +25089,25 @@ _Cité par_:
 
 ###### Article R325-28
 
-Le transfert d'un véhicule du lieu de son stationnement à celui de sa garde en fourrière peut être opéré :
+Peuvent procéder au transfert d'un véhicule du lieu de son stationnement à celui de sa garde en fourrière : 
 
-1° Par les soins de l'administration, conformément aux dispositions de l'alinéa 1 de l'article L. 325-2 ;
+1° Les personnels habilités mentionnés aux premier et deuxième alinéas de l'article L. 325-2 ; 
 
-2° En vertu d'une réquisition adressée à un tiers ;
+2° Le professionnel agréé, ou son préposé, désigné pour l'enlèvement du véhicule dont la mise en fourrière a été prescrite ; 
 
-3° En vertu d'une réquisition adressée au conducteur ou au propriétaire du véhicule.
+3° Un tiers en vertu d'une réquisition ; 
+
+4° Le propriétaire ou le conducteur du véhicule en vertu d'une réquisition.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 12 () JORF 13 septembre 2005
 
 _Anciens textes_:
 
@@ -25086,36 +25116,40 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-2 (M)
+  - Code de la route. - art. L325-2 (V)
 
 
 ###### Article R325-29
 
-I. - Le propriétaire du véhicule est tenu de rembourser :
+I.-Le propriétaire du véhicule est tenu de rembourser : 
 
 1° Lorsque la prescription de mise en fourrière a reçu le commencement d'exécution défini à l'article R. 325-12, les frais
 d'enlèvement ainsi que, le cas échéant, les frais de garde en fourrière, d'expertise sous réserve de l'application du IV de
-l'article R. 325-30 et de l'alinéa 3 de l'article R. 325-35, et de vente ou de destruction du véhicule ;
+l'article R. 325-30 et de l'alinéa 3 de l'article R. 325-35, et de vente ou de destruction du véhicule ; 
 
 2° Lorsque la prescription de mise en fourrière n'a pas reçu de commencement d'exécution, les frais afférents aux opérations
-préalables à la mise en fourrière, à condition que le véhicule d'enlèvement se soit rendu sur les lieux.
+préalables à la mise en fourrière, à condition que le véhicule d'enlèvement se soit rendu sur les lieux. 
 
-II. - Le propriétaire du véhicule rembourse les frais précités au gardien de la fourrière sur présentation d'une facture
-détaillée.
+II.-Le propriétaire du véhicule rembourse les frais précités au gardien de la fourrière sur présentation d'une facture
+détaillée. 
 
-III. - Ces remboursements constituent des recettes budgétaires dans le cas de fourrières publiques.
+III.-Ces remboursements constituent des recettes budgétaires dans le cas de fourrières publiques. 
 
-IV. - Les taux maximaux des frais d'opérations préalables à la mise en fourrière, des frais d'enlèvement, de garde en
+IV.-Les taux maximaux des frais d'opérations préalables à la mise en fourrière, des frais d'enlèvement, de garde en
 fourrière, d'expertise et de destruction des véhicules sont fixés par arrêté conjoint du ministre de l'intérieur et du
-ministre chargé de l'économie et des finances, compte tenu des catégories de véhicules.
+ministre chargé de l'économie et des finances, compte tenu des catégories de véhicules. 
 
-V. - Les frais de vente par le service des domaines sont fixés conformément aux dispositions de l'article A. 114 du code du
-domaine de l'Etat.
+V.-Les frais de vente par le service des domaines sont fixés conformément aux dispositions de l'article A. 114 du code du
+domaine de l'Etat. 
 
-VI. - Il appartient à l'autorité dont relève la fourrière d'assurer la rémunération, forfaitaire le cas échéant, des
-professionnels du secteur privé auxquels cette autorité fait appel dans le cadre de la procédure de mise en fourrière. Cette
-autorité peut conclure avec ces professionnels une convention tarifaire respectant les taux maximaux fixés par l'arrêté
-interministériel mentionné précédemment.
+VI.-Les professionnels auxquels l'autorité dont relève la fourrière fait appel dans le cadre de la mise en fourrière sont
+rémunérés par cette autorité. 
+
+A défaut de stipulations contractuelles, cette autorité indemnise les frais énumérés au IV dans les cas suivants : 
+
+1° Le propriétaire du véhicule mis en fourrière s'avère inconnu, introuvable ou insolvable ; 
+
+2° La procédure ou la prescription de mise en fourrière est annulée.
 
 **Liens relatifs à cet article**
 
@@ -25123,12 +25157,14 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 13 () JORF 13 septembre 2005
+
 _Cite_:
 
-  - Code du domaine de l'Etat - art. A114 (M)
+  - Code du domaine de l'Etat - art. A114 (V)
   - Code de la route. - art. R325-12 (V)
-  - Code de la route. - art. R325-30 (M)
-  - Code de la route. - art. R325-35 (V)
 
 _Anciens textes_:
 
@@ -25202,16 +25238,21 @@ _Cité par_:
 
 ###### Article R325-31
 
-La mise en fourrière est notifiée par l'officier de police judiciaire qui l'a prescrite ou qui a été chargé de l'exécuter ou
-par l'autorité dont relève la fourrière à l'adresse relevée sur le procès-verbal de l'infraction ayant motivé la mise en
-fourrière si le propriétaire ou le conducteur du véhicule était présent, ou à l'adresse indiquée au fichier national des
-immatriculations.
+La mise en fourrière est notifiée par l'auteur de la mesure à l'adresse relevée, soit sur le fichier national des
+immatriculations, soit sur le procès-verbal d'infraction ou le rapport de mise en fourrière.
+
+Lorsque le véhicule n'est pas identifiable, il n'est pas procédé à cette formalité. Mention en est faite dans le procès-
+verbal ou dans le rapport de mise en fourrière.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 14 () JORF 13 septembre 2005
 
 _Anciens textes_:
 
@@ -25233,8 +25274,8 @@ du conducteur au moment de l'enlèvement pour mise en fourrière.
 
 II. - Cette notification comporte les mentions obligatoires suivantes :
 
-1° Indication de l'autorité qui a prescrit la mise en fourrière, de la fourrière désignée et de l'autorité dont relève cette
-fourrière ;
+1° Indication de l'auteur de la prescription, du motif de la prescription, de la fourrière désignée et de l'autorité dont
+relève cette fourrière ;
 
 2° Décision de classement prise en application de l'article R. 325-30 et indication de la faculté de faire procéder à une
 contre-expertise conformément aux articles R. 325-35 et R. 325-36 ;
@@ -25263,9 +25304,9 @@ soit livré à la destruction ;
 8° Enoncé des voies de recours.
 
 III. - Si le fichier des immatriculations révèle l'inscription d'un gage, copie de la notification de mise en fourrière est
-adressée au créancier-gagiste, par lettre recommandée avec demande d'accusé de réception, qui fait référence au décret n°
-72-823 du 6 septembre 1972 (art. 5, 6 et 7) fixant les conditions de remise au service des domaines des véhicules non retirés
-de fourrière par leurs propriétaires.
+adressée par l'auteur de la prescription de mise en fourrière au créancier-gagiste, par lettre recommandée avec demande
+d'accusé de réception, qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5, 6 et 7) fixant les conditions de
+remise au service des domaines des véhicules non retirés de fourrière par leurs propriétaires.
 
 **Liens relatifs à cet article**
 
@@ -25280,6 +25321,10 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 15 () JORF 13 septembre 2005
 
 _Anciens textes_:
 
@@ -25438,28 +25483,28 @@ _Anciens textes_:
 
 ###### Article R325-38
 
-I. - Chaque prescription de mise en fourrière prend fin par une décision de mainlevée.
+I.-Chaque prescription de mise en fourrière prend fin par une décision de mainlevée. 
 
-II. - Cette décision émane de l'autorité qui a prescrit la mise en fourrière ou de l'officier de police judiciaire chargé
-d'exécuter cette mesure.
+II.-Cette décision émane de l'autorité qui a prescrit la mise en fourrière ou de l'officier de police judiciaire chargé
+d'exécuter cette mesure. 
 
-III. - Lorsque l'autorité qualifiée pour prononcer la mainlevée est saisie en ce sens par le procureur de la République,
-comme il est prévu à l'article R. 325-27, elle est tenue de donner immédiatement mainlevée.
+III.-Lorsque l'autorité qualifiée pour prononcer la mainlevée est saisie en ce sens par le procureur de la République ou le
+préfet, comme il est prévu à l'article R. 325-27, elle est tenue de donner immédiatement mainlevée. 
 
-IV. - L'autorité qualifiée pour prononcer la mainlevée est tenue de le faire, de restituer le certificat d'immatriculation du
-véhicule s'il a été retiré et de délivrer une autorisation définitive de sortie de fourrière :
+IV.-L'autorité qualifiée pour prononcer la mainlevée est tenue de le faire, de restituer le certificat d'immatriculation du
+véhicule s'il a été retiré et de délivrer une autorisation définitive de sortie de fourrière : 
 
 1° Sur simple demande du propriétaire ou du conducteur si elle concerne un véhicule classé dans la première catégorie visée à
-l'article R. 325-30 ;
+l'article R. 325-30 ; 
 
 2° S'il s'agit d'un véhicule classé dans la deuxième ou la troisième catégorie, sur demande du propriétaire ou du conducteur,
-accompagnée selon le cas :
+accompagnée selon le cas : 
 
-a) De la facture détaillée du réparateur certifiant l'exécution des travaux reconnus indispensables par l'expert ;
+a) De la facture détaillée du réparateur certifiant l'exécution des travaux reconnus indispensables par l'expert ; 
 
-b) Ou du récépissé délivré par un centre de contrôle technique agréé, postérieur à la date de mise en fourrière.
+b) Ou du récépissé délivré par un centre de contrôle technique agréé, postérieur à la date de mise en fourrière. 
 
-V. - Les dispositions du IV ci-dessus ne s'appliquent pas aux véhicules volés retrouvés en fourrière ainsi qu'aux véhicules
+V.-Les dispositions du IV ci-dessus ne s'appliquent pas aux véhicules volés retrouvés en fourrière ainsi qu'aux véhicules
 dont le propriétaire et l'assureur demeurent inconnus ou introuvables malgré les recherches effectuées, pour lesquels la
 mainlevée ne peut être prononcée qu'après accord préalable exprès des services de police ou de gendarmerie compétents.
 
@@ -25468,6 +25513,10 @@ mainlevée ne peut être prononcée qu'après accord préalable exprès des serv
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 16 () JORF 13 septembre 2005
 
 _Anciens textes_:
 
@@ -25483,8 +25532,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la route. - art. R325-27 (M)
-  - Code de la route. - art. R325-30 (M)
+  - Code de la route. - art. R325-27 (V)
+  - Code de la route. - art. R325-30 (V)
 
 
 ###### Article R325-39
@@ -25783,9 +25832,10 @@ _Cité par_:
 
 ###### Article R325-49
 
-Lorsque le maître des lieux déclare ignorer l'identité et l'adresse du propriétaire du véhicule, l'officier de police
-judiciaire lui communique celles-ci, telles qu'elles figurent éventuellement au fichier national des immatriculations, à
-charge pour le requérant d'adresser au propriétaire la mise en demeure prévue à l'article R. 325-48.
+Lorsque le maître des lieux ignore l'identité et l'adresse du propriétaire du véhicule, il joint à sa requête une demande
+d'identification. Si les recherches menées par l'officier de police judiciaire, de la police nationale ou de la gendarmerie
+nationale, territorialement compétent, permettent d'obtenir ces renseignements, l'officier de police judiciaire procède à
+l'expédition de la mise en demeure prévue à l'article R. 325-48. Les frais d'expédition sont à la charge du requérant.
 
 **Liens relatifs à cet article**
 
@@ -25796,6 +25846,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2005-1148 du 6 septembre 2005 - art. 17 () JORF 13 septembre 2005
 
 _Cite_:
 
