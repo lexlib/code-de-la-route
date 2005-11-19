@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2005-09-13
+Version Consolidée au 2005-11-20
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -14348,14 +14348,18 @@ _Cite_:
 
 ###### Article R233-2
 
-Lorsque le conducteur d'un véhicule de transport en commun ne peut présenter l'autorisation de mise en circulation (carte
-violette), l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+Lorsque le conducteur d'un véhicule de transport en commun ne peut présenter l'attestation d'aménagement prévue à l'article
+R. 323-23, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2005-1434 du 18 novembre 2005 - art. 1 () JORF 20 novembre 2005
 
 _Anciens textes_:
 
@@ -14364,7 +14368,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. R323-23 (V)
 
 
 ###### Article R233-3
@@ -23663,8 +23668,9 @@ _Modifié par_:
 ###### Article R323-23
 
 Tout véhicule destiné normalement ou employé exceptionnellement au transport en commun de personnes et ayant fait l'objet
-d'une demande de certificat d'immatriculation ne peut être effectivement mis en circulation que sur autorisation du préfet
-après un contrôle technique initial.
+d'une demande de certificat d'immatriculation ne peut être effectivement mis en circulation qu'après obtention d'une
+attestation d'aménagement délivrée soit par le constructeur si le véhicule a fait l'objet d'une réception par type, soit par
+les services de l'Etat chargés de la réception des véhicules.
 
 Ces véhicules sont ensuite soumis à des contrôles techniques périodiques renouvelés tous les six mois.
 
@@ -23684,13 +23690,9 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-568 2004-06-11 art. 5 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2004-568 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
+  - Décret n°2005-1434 du 18 novembre 2005 - art. 2 () JORF 20 novembre 2005
 
 _Anciens textes_:
 
@@ -23740,9 +23742,11 @@ _Anciens textes_:
 
 ###### Article R323-25
 
-Tout véhicule à moteur affecté au transport de marchandises, ou sa remorque, dont le poids total autorisé en charge est
-supérieur à 3,5 tonnes et qui a fait l'objet d'une demande de certificat d'immatriculation, ne peut être mis en circulation
-que sur autorisation du préfet après un contrôle technique initial.
+Tout véhicule dont le poids total autorisé en charge est supérieur à 3,5 tonnes, à l'exception des véhicules visés aux
+articles R. 323-23, R. 323-24 et R. 323-26, et qui fait l'objet d'une demande de certificat d'immatriculation, ne peut être
+mis en circulation qu'après un contrôle de conformité initial effectué soit par les services de l'Etat chargés de la
+réception des véhicules, soit par des opérateurs qualifiés. Un arrêté du ministre chargé des transports fixe les modalités du
+contrôle et les conditions de désignation des opérateurs qualifiés.
 
 Toutefois, certaines catégories de véhicules livrés prêts à l'emploi, définies par le ministre chargé des transports en
 fonction de l'affectation et du poids des véhicules concernés, pourront n'être présentées au contrôle technique qu'au plus
@@ -23776,18 +23780,20 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-568 2004-06-11 art. 5 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2004-568 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
+  - Décret n°2005-1434 du 18 novembre 2005 - art. 3 () JORF 20 novembre 2005
 
 _Anciens textes_:
 
   - Code de la route - art. R119 (Ab)
   - Code de la route R119
+
+_Cite_:
+
+  - Code de la route. - art. R323-23 (M)
+  - Code de la route. - art. R323-24 (M)
+  - Code de la route. - art. R323-26 (M)
 
 
 ###### Article R323-26
