@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2005-12-28
+Version Consolidée au 2006-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -7705,24 +7705,30 @@ renseignement, communiquées sur leur demande, pour l'exercice de leur mission :
 
 1° Aux agents chargés de l'exécution d'un titre exécutoire ;
 
-2° Aux administrateurs judiciaires ou mandataires liquidateurs désignés dans le cadre d'une procédure de redressement
-judiciaire ou de liquidation de biens prévue par la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la
-liquidation judiciaires des entreprises ;
+2° Aux administrateurs judiciaires ou mandataires liquidateurs désignés dans le cadre des procédures de sauvegarde ou de
+redressement judiciaire ou de liquidation de biens prévues par le code de commerce ;
 
 3° Aux syndics désignés dans le cadre d'une procédure de règlement judiciaire ou de liquidation de biens prévue par la loi n°
 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes.
+
+**Nota:**
+
+La loi n° 67-563 du 13 juillet 1967 a été abrogée par la loi n° 85-98 du 25 janvier 1985.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°67-563 1967-07-13
-  - Loi n°85-98 1985-01-25
 
 _Codifié par_:
 
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Modifié par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
 
 _Anciens textes_:
 
