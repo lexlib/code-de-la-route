@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-01-15
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -9948,11 +9948,11 @@ _Cite_:
 
 I. - Sans préjudice des pouvoirs conférés à d'autres agents par des lois spéciales, peuvent régler la circulation :
 
-1° Les gendarmes auxiliaires placés sous le commandement de militaires de la gendarmerie et les volontaires servant en
-qualité de militaires dans la gendarmerie ;
+1° Les réservistes de la gendarmerie, les élèves gendarmes et les gendarmes auxiliaires placés sous le commandement de
+militaires de la gendarmerie et les volontaires servant en qualité de militaires dans la gendarmerie ;
 
-2° Les policiers auxiliaires et les adjoints de sécurité placés sous le commandement de fonctionnaires de la police
-nationale ;
+2° Les réservistes de la police, les élèves policiers et les policiers auxiliaires et les adjoints de sécurité placés sous le
+commandement de fonctionnaires de la police nationale ;
 
 3° Certains personnels militaires des unités de circulation de l'arme du train pour assurer l'acheminement des véhicules
 militaires ;
@@ -9972,7 +9972,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Décret n°2006-46 du 13 janvier 2006 - art. 1 () JORF 15 janvier 2006
 
 _Anciens textes_:
 
@@ -12166,10 +12166,12 @@ périodicité maximale définie ci-dessous ;
 
 2° Dans les cas prévus aux II et III de l'article R. 221-10, délivré ou prorogé selon la périodicité maximale suivante : cinq
 ans pour les conducteurs de moins de soixante ans, deux ans à partir de l'âge de soixante ans et un an à partir de l'âge de
-soixante-seize ans.
+soixante-seize ans. Toutefois, pour les conducteurs titulaires de la catégorie D du permis de conduire, la périodicité
+maximale est d'un an à partir de l'âge de soixante ans.
 
-II. - La validité du permis ainsi délivré ne peut être prorogée qu'au vu d'un certificat médical favorable délivré par une
-commission médicale constituée dans les conditions fixées par arrêté du ministre chargé des transports.
+II. - La validité du permis ainsi délivré ne peut être prorogée qu'au vu d'un certificat médical favorable délivré par un
+médecin de ville agréé ou par une commission médicale. Un arrêté du ministre chargé des transports détermine les modalités
+d'application du présent II.
 
 III. - La demande de prorogation doit être adressée au préfet du département du domicile du pétitionnaire. Tant qu'il n'y est
 pas statué par le préfet dans les conditions fixées par arrêté du ministre chargé des transports, notamment en ce qui
@@ -12209,7 +12211,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-320 du 30 mars 2005 - art. 3 () JORF 6 avril 2005
+  - Décret n°2006-46 du 13 janvier 2006 - art. 2 () JORF 15 janvier 2006
 
 _Anciens textes_:
 
@@ -20139,19 +20141,9 @@ pose des plaques d'immatriculation est puni de l'amende prévue pour les contrav
 
 VII. L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
-**Nota:**
-
-Nota : Décret 2003-1186 2003-12-11 art. 15 I (alinéa 1er) et II :
-
-Les dispositions des articles 1er à 5 du présent décret sont applicables à compter du 1er juillet 2004 aux cyclomoteurs mis
-pour la première fois en circulation postérieurement à cette date.
-
-Les dispositions des articles 1er à 5 du présent décret sont applicables aux cyclomoteurs mis pour la première fois en
-circulation avant le 1er juillet 2004 à compter des dates qui seront fixées par arrêté conjoint du ministre de l'intérieur et
-du ministre chargé des transports et ne pourront être postérieures au 30 juin 2009.
-
-Toutefois, à l'initiative de leurs propriétaires, les cyclomoteurs visés à l'alinéa précédent pourront faire l'objet dès le
-1er juillet 2004 d'une demande d'immatriculation dans les conditions prévues par ces dispositions.
+VIII. - Le fait d'exposer, d'offrir, de mettre en vente, de vendre, de proposer ou d'inciter à acheter ou à utiliser une
+plaque d'immatriculation non conforme aux caractéristiques visées au IV est puni de l'amende prévue pour les contraventions
+de la quatrième classe. La plaque est saisie et confisquée.
 
 **Liens relatifs à cet article**
 
@@ -20171,13 +20163,9 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 (application à Mayotte)
-
 _Modifié par_:
 
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 1 () JORF 13 décembre 2003
+  - Décret n°2006-46 du 13 janvier 2006 - art. 3 () JORF 15 janvier 2006
 
 _Anciens textes_:
 
@@ -34762,23 +34750,20 @@ _Anciens textes_:
 ###### Article R431-1
 
 En circulation, tout conducteur ou passager d'une motocyclette, d'un tricycle à moteur, d'un quadricycle à moteur ou d'un
-cyclomoteur doit porter un casque de type homologué.
+cyclomoteur doit être coiffé d'un casque de type homologué. Ce casque doit être attaché. 
 
 Le fait, pour tout conducteur ou passager, de contrevenir aux dispositions du présent article est puni de l'amende prévue
-pour les contraventions de la quatrième classe.
+pour les contraventions de la quatrième classe. 
 
 Conformément à l'article L. 431-1, le véhicule à deux roues à moteur dont le conducteur circule sans être coiffé d'un casque
-peut être immobilisé dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+de type homologué ou sans que ce casque soit attaché peut être immobilisé dans les conditions prévues aux articles L. 325-1 à
+L. 325-3. 
 
 Lorsque cette contravention est commise par le conducteur, elle donne lieu de plein droit à la réduction de trois points du
-permis de conduire.
+permis de conduire. 
 
 Les dispositions du présent article ne sont pas applicables aux conducteurs ou passagers portant la ceinture de sécurité
 lorsque le véhicule a été réceptionné avec ce dispositif.
-
-**Nota:**
-
-NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -34788,7 +34773,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-293 du 31 mars 2003 - art. 3 () JORF 1er avril 2003
+  - Décret n°2006-46 du 13 janvier 2006 - art. 4 () JORF 15 janvier 2006
 
 _Cité par_:
 
@@ -34809,12 +34794,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route L431-1, L325-1 à L325-3
+  - Code de la route. - art. L325-1 (V)
   - Code de la route. - art. L431-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R431-3
