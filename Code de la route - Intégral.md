@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2006-01-15
+Version Consolidée au 2006-01-19
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -85,8 +85,8 @@ Version Consolidée au 2006-01-15
           - [Section 1 : Etablissements d'enseignement à titre onéreux. (art. R213-1 à R213-6)](#82)
           - [Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle. (art. R213-7 à R213-9)](#83)
         - [Chapitre IV : Conseil supérieur de l'enseignement de la conduite automobile et de l'organisation de la profession (CSECAOP). (art. D214-1 à D214-8)](#84)
-      - [Titre II : Permis de conduire. (art. R*221-2 à R225-5)](#85)
-        - [Chapitre Ier : Délivrance et catégories. (art. R*221-2 à R221-21)](#86)
+      - [Titre II : Permis de conduire. (art. D221-3-1 à R225-5)](#85)
+        - [Chapitre Ier : Délivrance et catégories. (art. D221-3-1 à R221-21)](#86)
         - [Chapitre II : Reconnaissance et équivalences. (art. R222-1 à R222-8)](#87)
         - [Chapitre III : Permis à points. (art. R223-1 à R223-13)](#88)
           - [Section 1 : Principes généraux. (art. R223-1 à R223-4)](#89)
@@ -11534,6 +11534,36 @@ _Abrogé par_:
 ### Titre II : Permis de conduire.<a id=85></a>
 
 #### Chapitre Ier : Délivrance et catégories.<a id=86></a>
+
+###### Article D221-3-1
+
+Des sessions spécialisées sont prévues pour les candidats sourds ou malentendants se présentant aux épreuves théorique et
+pratique de l'examen du permis de conduire de la catégorie B, dans les conditions et selon les modalités fixées par arrêtés
+du ministre chargé des transports.
+
+Lors de ces sessions, les candidats sourds ou malentendants bénéficient du dispositif de communication adapté de leur choix.
+
+La fréquence de ces sessions est décidée par le préfet. Elle dépend du nombre de candidats sourds ou malentendants inscrits
+et du délai moyen de passage en vigueur dans le département pour les candidats suivant un cursus de formation traditionnelle
+et ne peut être inférieure à deux fois par an.
+
+Pour permettre la bonne compréhension des traductions par les candidats, dont le nombre maximum est limité à dix, la durée
+totale de l'épreuve théorique est fixée à une heure trente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2006-56 du 18 janvier 2006 - art. 1 () JORF 19 janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
 
 ###### Article R*221-2
 
