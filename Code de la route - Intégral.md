@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2006-01-19
+Version Consolidée au 2006-03-04
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -27914,8 +27914,8 @@ _Anciens textes_:
 
 ###### Article R411-7
 
-Les intersections dans lesquelles le passage des véhicules est organisé par une signalisation spéciale ou par des feux de
-signalisation lumineux, sont désignées :
+I. - Les intersections dans lesquelles le passage des véhicules est organisé par une signalisation spéciale ou par des feux
+de signalisation lumineux, sont désignées :
 
 1° Hors agglomération :
 
@@ -27938,6 +27938,10 @@ départementale non classée à grande circulation et une route appartenant à l
 2° En agglomération, par arrêté du maire ou, pour les routes à grande circulation, par arrêté du préfet pris sur proposition
 ou après consultation du maire.
 
+II. - Lorsqu'il porte sur une route classée à grande circulation, l'arrêté du préfet prévu au a du 1° et au 2° du I ci-dessus
+comporte, en outre, le plan de gestion des feux de signalisation lumineux de l'ensemble de l'itinéraire ou, s'agissant d'un
+carrefour isolé, la synchronisation des feux de signalisation lumineux.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -27947,6 +27951,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2006-253 du 27 février 2006 - art. 1 () JORF 4 mars 2006
 
 _Cite_:
 
@@ -27997,6 +28005,33 @@ _Anciens textes_:
 
   - SPEC_APPLI: Code de la route. - art. R432-1 (V)
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+
+###### Article R411-8-1
+
+Les projets qui, en vertu du second alinéa de l'article L. 110-3, doivent être, avant leur mise en oeuvre, communiqués au
+représentant de l'Etat dans le département, sont les projets ou les mesures techniques de nature à modifier les
+caractéristiques géométriques ou mécaniques de la route classée à grande circulation ou de l'une de ses voies, en
+particulier, en affectant les profils en travers, les rayons en plan ou le gabarit ou en prévoyant la mise en place de
+dispositifs empiétant sur la chaussée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2006-253 du 27 février 2006 - art. 2 () JORF 4 mars 2006
+
+_Cite_:
+
+  - Code de la route. - art. L110-3 (V)
+
+_Cité par_:
+
+  - Code de la route. - art. R442-2 (V)
 
 
 ###### Article R411-9
@@ -36533,8 +36568,8 @@ _Codifié par_:
 
 ###### Article R442-2
 
-Les dispositions réglementaires du présent livre sont applicables à Mayotte, à l'exception des articles R. 411-1, R. 411-20,
-R. 411-21, R. 414-17.
+Les dispositions réglementaires du présent livre sont applicables à Mayotte, à l'exception des articles R. 411-1, R. 411-8-1,
+R. 411-20, R. 411-21, R. 414-17.
 
 **Liens relatifs à cet article**
 
@@ -36547,22 +36582,15 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-
 _Modifié par_:
 
-  - Décret n°2002-530 du 11 avril 2002 - art. 3 () JORF 18 avril 2002
+  - Décret n°2006-253 du 27 février 2006 - art. 3 () JORF 4 mars 2006
 
 _Cite_:
 
-  - Code de la route R411-1, R414-17, R411-20, R411-21, 75
   - Code de la route. - art. R411-1 (V)
   - Code de la route. - art. R411-20 (V)
-  - Code de la route. - art. R411-21 (V)
+  - Code de la route. - art. R411-8-1 (V)
   - Code de la route. - art. R414-17 (V)
 
 
