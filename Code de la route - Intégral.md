@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2006-05-04
+Version Consolidée au 2006-06-08
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -105,7 +105,7 @@ Version Consolidée au 2006-05-04
           - [Section 3 : Analyses et examens médicaux, cliniques et biologiques (art. R235-5 à R235-11)](#102)
           - [Section 4 : Dispositions matérielles (art. R235-12 à R235-13)](#103)
       - [Titre IV : Dispositions relatives à l'outre-mer. (art. R241-1 à R245-1)](#104)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R241-1 à R241-3)](#105)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R241-1 à R241-2)](#105)
         - [Chapitre II : Dispositions applicables à Mayotte. (art. R242-1 à R242-7)](#106)
         - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie. (art. R243-1)](#107)
         - [Chapitre IV : Dispositions applicables à la Polynésie française. (art. R244-1)](#108)
@@ -166,7 +166,7 @@ Version Consolidée au 2006-05-04
       - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#163)
         - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#164)
           - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#165)
-          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-17)](#166)
+          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#166)
           - [Section 3 : Interdictions et restrictions de circulation. (art. R411-18 à R411-24)](#167)
           - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#168)
           - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#169)
@@ -13318,85 +13318,6 @@ _Cite_:
   - Code de la route. - art. R223-5
 
 
-###### Article R223-11
-
-I. - Dans chaque département, le comité départemental de la formation des conducteurs responsables d'infractions donne son
-avis préalablement aux délivrances et aux retraits des agréments prévus à l'article R. 223-5.
-
-II. - Ce comité, placé sous la présidence du préfet ou de son représentant, est composé :
-
-1° Du commandant de groupement de la gendarmerie départementale ou de son représentant ;
-
-2° Du directeur départemental de la sécurité publique ou de son représentant ;
-
-3° Du directeur départemental de l'équipement ou de son représentant ;
-
-4° D'un fonctionnaire responsable de la formation des conducteurs désigné par le ministre chargé des transports.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-_Anciens textes_:
-
-  - Code de la route - art. R264-1 (Ab)
-  - Code de la route R264-1
-
-_Cite_:
-
-  - Code de la route. - art. R223-5 (M)
-
-
-###### Article R223-12
-
-Le préfet peut consulter ce comité, aux séances duquel assiste alors le procureur de la République ou son représentant, sur
-toutes questions relatives au déroulement de la formation spécifique.
-
-Le préfet peut en outre inviter à participer, avec voix consultative, aux travaux du comité mentionnés ci-dessus des
-personnes titulaires de l'agrément prévu à l'article R. 223-5 ainsi que des formateurs.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-_Anciens textes_:
-
-  - Code de la route - art. R264-2 (Ab)
-  - Code de la route R264-2
-
-_Cite_:
-
-  - Code de la route. - art. R223-5 (M)
-
-
 ###### Article R223-13
 
 Le brevet d'animateur pour la formation des conducteurs responsables d'infractions (BAFCRI) est délivré par le ministre
@@ -13586,265 +13507,16 @@ _Anciens textes_:
   - Code de la route R267-4
 
 
-###### Article R224-6
-
-La commission spéciale prévue à l'article L. 224-8 est créée par arrêté du préfet. Elle connaît des procès-verbaux constatant
-des infractions punies par le présent code de la peine complémentaire de suspension du permis de conduire.
-
-Lorsque le nombre des affaires l'exige, plusieurs commissions peuvent être créées par arrêté du préfet dans le département
-soit au chef-lieu, soit dans un arrondissement, soit dans un groupe d'arrondissements pour connaître des procès-verbaux
-constatant des infractions commises dans le ressort correspondant. Le préfet délègue ses pouvoirs au sous-préfet du chef-lieu
-d'arrondissement où siège la commission pour en désigner les membres. Il peut également lui donner délégation pour prendre
-les mesures prévues aux articles L. 224-7 et L. 224-8.
-
-La commission siégeant au chef-lieu du département ou au chef-lieu de l'arrondissement est dénommée commission de suspension
-du permis de conduire.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-_Cité par_:
-
-  - Arrêté du 20 avril 2012 - art. Annexe I (V)
-  - Arrêté du 9 novembre 2018 (V)
-  - Arrêté du 9 novembre 2018 - art. 1
-  - Code de la route. - art. D226-3-1 (V)
-  - Code de la route. - art. R225-2 (VD)
-
-_Anciens textes_:
-
-  - Code de la route - art. R268 (Ab)
-  - Code de la route R268
-
-_Cite_:
-
-  - Code de la route. - art. L224-7 (M)
-  - Code de la route. - art. L224-8 (M)
-
-
-###### Article R224-7
-
-La commission est présidée par le préfet lorsqu'elle siège au chef-lieu du département. S'il est créé une commission
-d'arrondissement ou d'un groupe d'arrondissements, la commission est présidée par le sous-préfet de l'arrondissement où siège
-la commission. En cas d'empêchement du préfet ou du sous-préfet compétent, la commission est présidée par un fonctionnaire
-désigné par le préfet ou le sous-préfet.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-_Anciens textes_:
-
-  - Code de la route - art. R268-1 (Ab)
-  - Code de la route R268-1
-
-
-###### Article R224-8
-
-I. - Outre le préfet ou le sous-préfet compétent, la commission est composée :
-
-1° De deux représentants des services participant à la police de la circulation, à savoir un officier de gendarmerie ou, à
-défaut, un gradé exerçant à titre permanent ou temporaire le commandement d'une unité spécialisée de sécurité routière de la
-gendarmerie nationale, et un fonctionnaire de la police nationale ;
-
-2° De deux représentants des services techniques, à savoir un ingénieur de la direction départementale de l'équipement, un
-ingénieur de la direction régionale de l'industrie, de la recherche et de l'environnement et un agent du ministère des
-transports chargé des fonctions d'examinateur de permis de conduire ;
-
-3° De cinq représentants d'associations d'usagers de la route et d'associations intéressées aux problèmes de sécurité et de
-circulation routières, lesdits représentants figurant sur une liste de présentation établie par ces associations.
-
-II. - Les représentants des services et des associations, ainsi que leurs suppléants, sont nommés par le préfet ou le sous-
-préfet compétent pour une durée de deux ans renouvelable.
-
-III. - Lorsque la nature de l'affaire l'exige, la commission peut faire appel à un médecin membre de la commission médicale
-d'examen du permis de conduire. Ce médecin a dans ce cas voix délibérative.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-_Anciens textes_:
-
-  - Code de la route - art. R268-2 (Ab)
-  - Code de la route R268-2
-
-_Cité par_:
-
-  - Code de la route. - art. R224-10 (Ab)
-  - Code de la route. - art. R241-3 (Ab)
-  - Code de la route. - art. R242-5 (Ab)
-
-
-###### Article R224-9
-
-La commission désigne en outre, en son sein, parmi les représentants des usagers, le délégué permanent prévu à l'alinéa 3 de
-l'article L. 224-8. En cas d'empêchement, ce délégué peut être remplacé par des suppléants désignés dans les mêmes
-conditions, dans un ordre déterminé.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-_Anciens textes_:
-
-  - Code de la route - art. R268-3 (Ab)
-  - Code de la route R268-3
-
-_Cite_:
-
-  - Code de la route. - art. L224-8 (M)
-
-
-###### Article R224-10
-
-Le secrétariat de la commission est assuré par un fonctionnaire de la préfecture ou de la sous-préfecture qui a voix
-consultative.
-
-La commission ou le délégué permanent ne peut émettre d'avis sur une affaire qu'après en avoir été saisi par son président.
-
-La commission siège valablement dès lors qu'en sus de son président elle comprend au moins un représentant de chacune des
-trois catégories énumérées à l'article R. 224-8.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-_Anciens textes_:
-
-  - Code de la route - art. R268-4 (Ab)
-  - Code de la route R268-4
-
-_Cite_:
-
-  - Code de la route. - art. R224-8 (M)
-
-
-###### Article R224-11
-
-Dix jours au moins avant la séance, le secrétaire de la commission adresse au conducteur ou à l'accompagnateur de l'élève
-conducteur intéressé une lettre l'invitant à comparaître devant la commission, assisté s'il le juge utile d'un conseil de son
-choix. L'intéressé est également averti par cette lettre qu'il lui est loisible de se faire représenter et qu'il peut prendre
-connaissance de son dossier deux jours au moins avant la date de la séance.
-
-Après lecture du rapport, la commission entend le conducteur ou l'accompagnateur de l'élève conducteur ou le mandataire de
-l'un ou de l'autre, s'il est représenté, ou prend connaissance des explications écrites s'il en a adressé. La commission
-formule, hors de la présence de l'intéressé, de son mandataire ou de son conseil, un avis pris à la majorité des voix. Le
-président peut décider que le vote aura lieu à bulletin secret. S'il ne le fait pas, en cas de partage des voix, sa voix est
-prépondérante.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-_Anciens textes_:
-
-  - Code de la route - art. R268-5 (Ab)
-  - Code de la route R268-5
-
-
 ###### Article R224-12
 
-L'examen médical prévu au 1° du I de l'article R. 221-13 est effectué avant que la commission de suspension du permis de
-conduire ne soit appelée à statuer sur le dossier de l'auteur de l'infraction.
-
-L'examen médical prévu au 2° du I du même article intervient avant l'expiration de la décision administrative de suspension
-du permis de conduire.
+L'examen médical prévu au I de l'article R. 221-13 est effectué avant l'expiration de la décision administrative de
+suspension du permis de conduire.
 
 Dans le cas où, à la suite d'un examen médical, le préfet est appelé à prononcer la restriction de la validité, la suspension
 ou l'annulation du permis de conduire ou le changement de catégorie du titre, cette mesure est prononcée en application des
 articles R. 221-12 à R. 221-14 indépendamment de la décision judiciaire qui a pu ou pourra intervenir. Dans le cas où la
 décision judiciaire n'est pas encore intervenue, l'arrêté du préfet est communiqué sans délai au parquet.
 
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -13853,7 +13525,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 _Anciens textes_:
 
@@ -13868,44 +13540,6 @@ _Cite_:
 _Cité par_:
 
   - Code de la route. - art. R224-18 (V)
-
-
-###### Article R224-13
-
-S'il est fait application de la procédure d'urgence prévue à l'article L. 224-8, le préfet peut prononcer, après avis d'un
-délégué permanent de la commission, une suspension du permis de conduire pour une durée n'excédant pas deux mois.
-
-Il peut ensuite, après avoir mis le conducteur ou l'accompagnateur de l'élève conducteur à même de présenter sa défense,
-soumettre l'affaire à la commission. Cette saisine est de droit si l'intéressé le demande dans les quinze jours de la
-notification de la suspension. Le préfet prend, sur avis de cette commission, une décision confirmant, modifiant ou
-rapportant la mesure initiale.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-_Anciens textes_:
-
-  - Code de la route - art. R269 (Ab)
-  - Code de la route R269
-
-_Cite_:
-
-  - Code de la route. - art. L224-8 (M)
 
 
 ###### Article R224-14
@@ -13937,12 +13571,8 @@ _Anciens textes_:
 
 ###### Article R224-15
 
-Lorsque l'intéressé n'a pas de domicile connu ou qu'il a quitté celui-ci, la convocation à comparaître et la notification de
-la décision sont valablement adressées au maire du lieu de l'infraction en vue de leur affichage à la mairie.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+Lorsque l'intéressé n'a pas de domicile connu ou qu'il l'a quitté, la notification de la décision est valablement adressée au
+maire du lieu de l'infraction en vue de son affichage à la mairie.
 
 **Liens relatifs à cet article**
 
@@ -13952,7 +13582,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 _Anciens textes_:
 
@@ -14018,12 +13648,8 @@ _Anciens textes_:
 
 ###### Article R224-18
 
-Les articles R. 224-6 à R. 224-17 sont applicables à la mesure d'interdiction de délivrance du permis de conduire prévue à
-l'article L. 224-7.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+Les articles R. 224-12 et R. 224-14 à R. 224-17 sont applicables à la mesure d'interdiction de délivrance du permis de
+conduire prévue à l'article L. 224-7.
 
 **Liens relatifs à cet article**
 
@@ -14033,7 +13659,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 _Anciens textes_:
 
@@ -14042,8 +13668,9 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route R224-6 à R224-17, L224-7
+  - Code de la route R224-12, R224-14 à R224-17, L224-7
   - Code de la route. - art. L224-7 (M)
+  - Code de la route. - art. R224-12 (M)
 
 **Liens**:
 
@@ -15396,50 +15023,6 @@ _Cite_:
   - Code de la route. - art. R221-11 (M)
 
 
-###### Article R241-3
-
-Pour son application dans la collectivité territoriale de Saint-Pierre-et-Miquelon, l'article R. 224-8 est ainsi rédigé :
-
-"Art. R. 224-8. - La commission de suspension et de retrait du permis de conduire est composée :
-
-1° Du préfet ou du secrétaire général, président ;
-
-2° De deux élus locaux désignés par le préfet ;
-
-3° De l'officier commandant la gendarmerie ;
-
-4° Du directeur de l'équipement.
-
-Lorsque la nature de l'affaire l'exige, la commission peut faire appel au médecin chef du service de santé qui a dans ce cas
-voix délibérative."
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-982 1979-11-20 art. 4
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-_Cité par_:
-
-  - Code de la route - art. R249-1 (Ab)
-
-_Cite_:
-
-  - Code de la route. - art. R224-8 (M)
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R233-1 (V)
-
-
 #### Chapitre II : Dispositions applicables à Mayotte.<a id=106></a>
 
 ###### Article R242-1
@@ -15604,37 +15187,6 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de la route. - art. R413-15 (V)
-
-
-###### Article R242-5
-
-Pour leur application à Mayotte, les 1°, 2° et 3° de l'article R. 224-8 sont ainsi rédigés :
-
-"1° D'un représentant de services participant à la police de la circulation ;
-
-"2° D'un représentant des services techniques ;
-
-"3° De trois représentants des usagers de la route, choisis parmi les membres des associations d'usagers ou des associations
-intéressées aux problèmes de sécurité ou de circulation routières."
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-301 1993-03-08 art. 13
-  - Décret n°93-301 du 8 mars 1993 - art. 13 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-_Cite_:
-
-  - Code de la route. - art. R224-8 (M)
 
 
 ###### Article R242-6
@@ -28146,10 +27698,21 @@ _Anciens textes_:
 
 ###### Article R411-10
 
-La commission départementale de la sécurité routière est chargée de connaître des différents problèmes de la sécurité
-routière.
+I. - La commission départementale de la sécurité routière est consultée préalablement à toute décision prise en matière :
 
-Elle peut être consultée par le préfet pour toute question générale ayant trait à la sécurité routière.
+1° D'agrément d'exploitation d'un établissement d'enseignement de la conduite des véhicules à moteur ;
+
+2° D'agrément d'exploitation d'un établissement destiné à la formation de moniteurs d'enseignement de la conduite des
+véhicules à moteur ;
+
+3° D'autorisation d'organisation d'épreuves ou compétitions sportives dont la délivrance relève de la compétence du préfet ;
+
+4° D'agrément des gardiens et des installations de fourrière ;
+
+5° D'agrément des personnes et des organismes dispensant aux conducteurs responsables d'infractions la formation spécifique à
+la sécurité routière.
+
+II. - La commission peut également être consultée pour la mise en place d'itinéraires de déviation pour les poids lourds.
 
 **Liens relatifs à cet article**
 
@@ -28161,30 +27724,34 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
+
 _Cité par_:
 
   - Code de la route. - art. R411-12 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-
 
 ###### Article R411-11
 
-I. - La commission a notamment pour mission :
+La commission départementale de la sécurité routière est présidée par le préfet. Elle comprend :
 
-1° De réunir tous les éléments d'information sur la sécurité routière ;
+1° Des représentants des services de l'Etat ;
 
-2° De proposer au préfet les mesures de toute nature propres à diminuer les accidents de la route ;
+2° Des élus départementaux désignés par le conseil général ;
 
-3° De contribuer par l'intermédiaire des associations et organismes concernés à la sensibilisation de l'opinion.
+3° Des élus communaux désignés par l'association des maires du département ou, à défaut, par le préfet ;
 
-II. - Le préfet présente chaque année à la commission un bilan de l'action accomplie dans le département dans le domaine de
-la sécurité routière.
+4° Des représentants des organisations professionnelles et des fédérations sportives ;
 
-III. - La commission peut également être consultée pour la mise en place d'itinéraires de déviation pour les poids lourds.
+5° Des représentants des associations d'usagers.
+
+A Paris, les élus visés aux 2° et 3° sont désignés par le conseil de Paris.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -28196,26 +27763,22 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
+
 _Cité par_:
 
   - Code de la route. - art. R411-12 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-
 
 ###### Article R411-12
 
-La commission est consultée préalablement à toute décision prise en matière :
+Des formations spécialisées peuvent être constituées par le président de la commission départementale de la sécurité routière
+au sein de cette commission pour exercer chacune des attributions qui lui sont dévolues par le I de l'article R. 411-10.
 
-1° D'agrément d'exploitation d'un établissement d'enseignement de la conduite des véhicules à moteur ;
-
-2° D'agrément d'exploitation d'un établissement destiné à la formation de moniteurs d'enseignement de la conduite des
-véhicules à moteur ;
-
-3° D'autorisation d'organisation d'épreuves ou compétitions sportives dont la délivrance relève de la compétence du préfet.
+Elles comprennent au moins un représentant des catégories visées aux 1°, 2°, 3° et 5° de l'article R. 411-11 et au moins
+trois représentants de la catégorie visée au 4° du même article.
 
 **Liens relatifs à cet article**
 
@@ -28227,143 +27790,14 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-
-
-###### Article R411-13
-
-I. - Sous la présidence du préfet ou de son représentant, la commission est composée à parts égales :
-
-1° De représentants des administrations de l'Etat ;
-
-2° D'élus départementaux désignés par le conseil général et communaux désignés par l'association des maires du département
-ou, à défaut, par le préfet ;
-
-3° De représentants des organisations professionnelles et des fédérations sportives ;
-
-4° De représentants des associations d'usagers.
-
-II. - Ces membres ont voix délibérative.
-
-III. - A l'initiative du préfet, des personnalités compétentes dans les domaines d'activité de la commission peuvent être
-associées à ses travaux, ainsi que les maires des communes intéressées.
-
-IV. - Ces participants siègent avec voix consultative.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°86-426 du 13 mars 1986 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-
-###### Article R411-14
-
-Les membres de la commission sont nommés par le préfet. Des membres suppléants peuvent être nommés dans des conditions
-identiques à celles des membres titulaires. La durée des mandats des membres est de trois ans.
-
-En cas de décès ou de démission d'un membre de la commission en cours de mandat, son suppléant désigné ou, à défaut, un
-remplaçant siège pour la durée du mandat restant à courir.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°86-426 du 13 mars 1986 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-
-###### Article R411-15
-
-Un arrêté du préfet peut organiser la commission en sections spécialisées en fonction des problèmes à traiter. Dans les cas
-où la consultation préalable de la commission est prévue, l'avis d'une section tient lieu d'avis de la commission.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°86-426 du 13 mars 1986 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-_Cité par_:
-
-  - Code de la route. - art. R441-4 (V)
-
-
-###### Article R411-16
-
-La commission se réunit sur convocation du préfet.
-
-Le préfet désigne le service qui assure le secrétariat de la commission.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°86-426 du 13 mars 1986 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-
-###### Article R411-17
-
-Les dispositions du chapitre III du décret n° 83-1025 du 28 novembre 1983 concernant les relations entre l'administration et
-les usagers sont applicables au fonctionnement de la commission.
-
-Les avis sont pris à la majorité des membres et en cas de partage la voix du président est prépondérante.
-
-**Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°83-1025 1983-11-28
-
-_Anciens textes_:
-
-  - Décret n°86-426 du 13 mars 1986 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
-
-_Cité par_:
-
-  - Code de la route. - art. R130-6 (VD)
+  - Code de la route. - art. R411-10 (M)
+  - Code de la route. - art. R411-11 (M)
 
 
 ##### Section 3 : Interdictions et restrictions de circulation.<a id=167></a>
