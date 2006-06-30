@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2006-06-08
+Version Consolidée au 2006-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -8440,31 +8440,35 @@ _Cite_:
 ###### Article L411-2
 
 Les règles relatives aux pouvoirs de police de la circulation routière dans la commune de Paris sont fixées par l'article L.
-2512-14 du code général des collectivités territoriales ci-après reproduit :
+2512-14 du code général des collectivités territoriales ci-après reproduit : 
 
-"Art. L. 2512-14. -  Les pouvoirs conférés au maire par le premier alinéa de l'article L. 2213-1 et par les articles L.
-2213-2 à L. 2213-6 sont, à Paris, exercés par le maire de Paris sous réserve des dispositions ci-après.
+" Art.L. 2512-14.-Les pouvoirs conférés au maire par le premier alinéa de l'article L. 2213-1 et par les articles L. 2213-2 à
+L. 2213-6 sont, à Paris, exercés par le maire de Paris sous réserve des dispositions ci-après. 
 
 Pour les motifs d'ordre public ou liés à la sécurité des personnes et des biens ou pour assurer la protection du siège des
 institutions de la République et des représentations diplomatiques, le préfet de police détermine, de façon permanente ou
 temporaire, des sites où il réglemente les conditions de circulation et de stationnement dans certaines voies ou portions de
-voies, ou en réserve l'accès à certaines catégories d'usagers ou de véhicules.
+voies, ou en réserve l'accès à certaines catégories d'usagers ou de véhicules. 
 
 Des dispositions de même nature et à caractère temporaire peuvent également être arrêtées par le préfet de police, après avis
-du maire de Paris, en cas de manifestation de voie publique à caractère revendicatif, festif, sportif ou culturel.
+du maire de Paris, en cas de manifestation de voie publique à caractère revendicatif, festif, sportif ou culturel. 
 
 Le préfet de police fixe, après avis du maire de Paris, les règles de circulation et de stationnement sur certains axes pour
 tenir compte des conditions de circulation dans l'agglomération parisienne et en région d'Ile-de-France. Un décret précisera
-les voies concernées ainsi que les conditions de l'application du présent alinéa.
+les voies concernées ainsi que les conditions de l'application du présent alinéa. 
 
 Pour l'application des dispositions du présent article, le contrôle administratif et le pouvoir de substitution sont exercés,
-au nom de l'Etat, par le préfet de police.
+au nom de l'Etat, par le préfet de police. 
 
 En outre, les pouvoirs conférés par le code de la route au préfet sont exercés à Paris par le préfet de police.
 
-L'exécution des dispositions du présent article est assurée par les fonctionnaires de la police nationale ou, le cas échéant,
-en matière de circulation ou de stationnement, par des agents de la ville de Paris placés sous l'autorité du préfet de
-police.
+L'exécution des dispositions des alinéas précédents est assurée par les fonctionnaires de la police nationale ou, le cas
+échéant, en matière de circulation ou de stationnement, par des agents de la ville de Paris placés sous l'autorité du préfet
+de police. 
+
+Les permis de stationnement ou de dépôt temporaire sur la Seine, ses ports et ses quais, sont donnés par l'ingénieur en chef
+comme en matière d'occupation temporaire et les droits correspondants perçus comme en cette matière au profit de l'Etat par
+l'administration compétente. "
 
 **Liens relatifs à cet article**
 
@@ -8475,13 +8479,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-276 du 27 février 2002 - art. 36 () JORF 28 février 2002
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L2213-1 (V)
   - Code général des collectivités territoriales - art. L2512-14 (M)
   - Code général des collectivités territoriales L2512-14, L2213-1, L2213-2 à L2213-6
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2512-14 (V)
 
 
 ###### Article L411-3
