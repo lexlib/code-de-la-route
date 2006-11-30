@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2006-07-01
+Version Consolidée au 2006-12-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -28661,41 +28661,32 @@ _Cite_:
 
 ###### Article R412-2
 
-I. - En circulation, tout conducteur d'un véhicule à moteur dont les sièges sont équipés de ceintures en application des
-dispositions du livre III et dont le nombre de places assises, y compris celle du conducteur, n'excède pas neuf doit
-s'assurer que les passagers âgés de moins de dix-huit ans qu'il transporte sont maintenus soit par un système homologué de
-retenue pour enfant, soit par une ceinture de sécurité.
+I.-En circulation, tout conducteur d'un véhicule à moteur dont les sièges sont équipés de ceintures de sécurité en
+application des dispositions du livre III et dont le nombre de places assises, y compris celle du conducteur, n'excède pas
+neuf doit s'assurer que tout passager âgé de moins de dix-huit ans qu'il transporte est maintenu soit par un système
+homologué de retenue pour enfant, soit par une ceinture de sécurité. 
 
-II. - De même, il doit s'assurer que tout enfant de moins de dix ans est retenu par un système homologué de retenue pour
-enfant adapté à sa morphologie et à son poids.
+Dans les véhicules de même capacité, lorsqu'un siège n'est pas équipé de ceinture de sécurité, il est interdit d'y
+transporter un enfant de moins de trois ans. 
 
-III. - Toutefois, l'utilisation d'un système homologué de retenue pour enfant n'est pas obligatoire :
+II.-De même, le conducteur doit s'assurer que tout enfant de moins de dix ans est retenu par un système homologué de retenue
+pour enfant adapté à sa morphologie et à son poids. 
 
-1° Pour tout enfant dont la morphologie est adaptée au port de la ceinture de sécurité ;
+III.-Toutefois, l'utilisation d'un système homologué de retenue pour enfant n'est pas obligatoire : 
+
+1° Pour tout enfant dont la morphologie est adaptée au port de la ceinture de sécurité ; 
 
 2° Pour tout enfant muni d'un certificat médical d'exemption qui mentionne sa durée de validité et comporte le symbole prévu
-au 2° du II de l'article R. 412-1 ;
+au 2° du II de l'article R. 412-1 ; 
 
-3° Pour tout enfant transporté dans un taxi, dans un véhicule de remise ou tout autre véhicule affecté au transport public
-routier de personnes, ou dans un véhicule de transport en commun.
+3° Pour tout enfant transporté dans un taxi ou dans un véhicule de transport en commun. 
 
-IV. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
+IV.-Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
 
 **Nota:**
 
-NOTA : Décret 2005-277 art. 2 : Ces dispositions sont applicables à Mayotte.
-
-Observations : (Tableau annexé au décret n° 2005-277 non repris, consulter le fac-similé).
-
-Le conducteur d'un véhicule dont le nombre de places assises n'excède pas neuf doit s'assurer que les passagers âgés de moins
-de treize ans ont attaché leur ceinture de sécurité et sont, pour les plus jeunes, équipés de dispositifs spécifiques pour
-enfants (réhausseur, siège enfants, lit nacelle).
-
-Le champ d'application de la mesure est étendu aux passagers âgés de treize ans à moins de dix-huit ans.
-
-La responsabilité du conducteur n'est pas exclusive de celle du passager qui reste tenu de s'attacher et peut à ce titre être
-verbalisé.
+Décret 2006-1496 art. 6 : Ces dispositions sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -28705,7 +28696,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-277 du 25 mars 2005 - art. 1 () JORF 26 mars 2005
+  - Décret n°2006-1496 du 29 novembre 2006 - art. 2 () JORF 1er décembre 2006
 
 _Anciens textes_:
 
@@ -28715,7 +28706,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R412-1 (M)
+  - Code de la route. - art. R412-1 (V)
 
 _Cité par_:
 
@@ -28724,23 +28715,23 @@ _Cité par_:
 
 ###### Article R412-3
 
-I. - Le transport d'un enfant de moins de dix ans sur un siège avant d'un véhicule à moteur est interdit, sauf dans l'un des
-cas suivants :
+I.-Le transport d'un enfant de moins de dix ans sur un siège avant d'un véhicule à moteur est interdit, sauf dans l'un des
+cas suivants : 
 
 1° Lorsque l'enfant est transporté, face à l'arrière, dans un système homologué de retenue spécialement conçu pour être
-installé à l'avant des véhicules ;
+installé à l'avant des véhicules et que le coussin de sécurité frontal est désactivé ; 
 
-2° Lorsque le véhicule ne comporte pas de siège arrière ;
+2° Lorsque le véhicule ne comporte pas de siège arrière ou si le siège arrière n'est pas équipé de ceinture de sécurité ; 
 
 3° Lorsque les sièges arrière du véhicule sont momentanément inutilisables ou occupés par des enfants de moins de dix ans, à
-condition que chacun des enfants transportés soit retenu par un système prévu au II de l'article R. 412-2.
+condition que chacun des enfants transportés soit retenu par un système prévu au II de l'article R. 412-2. 
 
-II. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
+II.-Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
 
 **Nota:**
 
-NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
+Décret 2006-1496 art. 6 : Ces dispositions sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -28750,7 +28741,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-293 du 31 mars 2003 - art. 3 () JORF 1er avril 2003
+  - Décret n°2006-1496 du 29 novembre 2006 - art. 3 () JORF 1er décembre 2006
 
 _Anciens textes_:
 
@@ -28760,11 +28751,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R412-2 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
+  - Code de la route. - art. R412-2 (V)
 
 
 ###### Article R412-4
