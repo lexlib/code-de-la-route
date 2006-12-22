@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2006-12-01
+Version Consolidée au 2006-12-23
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -11657,8 +11657,13 @@ personnes et comportant, outre le siège du conducteur, huit places assises au m
 marchandises, ainsi que les véhicules qui peuvent être assimilés aux véhicules précédents et dont la liste est fixée par
 arrêté du ministre chargé des transports.
 
-Aux véhicules de cette catégorie peut être attelée une remorque dès lors qu'elle n'entraîne pas leur classement dans la
-catégorie E (B).
+Véhicules mentionnés à l'alinéa précédent attelés d'une remorque lorsque le poids total autorisé en charge (PTAC) de la
+remorque est inférieur ou égal à 750 kilogrammes.
+
+Mêmes véhicules attelés d'une remorque lorsque le poids total autorisé en charge (PTAC) de la remorque est supérieur à 750
+kilogrammes, à condition, d'une part, que le poids total autorisé en charge (PTAC) de la remorque soit inférieur ou égal au
+poids à vide du véhicule tracteur et, d'autre part, que la somme des poids totaux autorisés en charge (PTAC) du véhicule
+tracteur et de la remorque soit inférieure ou égale à 3,5 tonnes.
 
 Sous-catégorie B 1
 
@@ -11684,27 +11689,26 @@ Aux véhicules de cette catégorie peut être attelée une remorque dont le poid
 
 Catégorie E (B)
 
-Véhicules relevant de la catégorie B, attelés d'une remorque dont le poids total autorisé en charge (PTAC) excède 750
-kilogrammes, lorsque le poids total autorisé en charge (PTAC) de la remorque est supérieur au poids à vide du véhicule
-tracteur ou lorsque le total des poids totaux en charge (véhicule tracteur + remorque) est supérieur à 3,5 tonnes.
+Véhicules relevant de la catégorie B attelés d'une remorque lorsque l'ensemble formé par le véhicule tracteur et la remorque
+ne relève pas de la catégorie B.
 
 Catégorie E (C)
 
-Ensemble de véhicules couplés dont le véhicule tracteur entre dans la catégorie C, attelé d'une remorque dont le poids total
-autorisé en charge (PTAC) excède 750 kilogrammes.
+Véhicules relevant de la catégorie C attelés d'une remorque lorsque l'ensemble formé par le véhicule tracteur et la remorque
+ne relève pas de la catégorie C.
 
 Catégorie E (D)
 
-Ensemble de véhicules couplés dont le véhicule tracteur entre dans la catégorie D, attelé d'une remorque dont le poids total
-autorisé en charge (PTAC) excède 750 kilogrammes.
+Véhicules attelés d'une remorque lorsque l'ensemble formé par le véhicule tracteur et la remorque ne relève pas de la
+catégorie D.
 
-II. - Pour l'application des dispositions relatives aux catégories B et D, une place assise s'entend d'une place normalement
-destinée à un adulte ; les enfants de moins de dix ans ne comptent pour une demi-place que lorsque leur nombre n'excède pas
-dix.
-
-Le permis de conduire des catégories et des sous-catégories ci-dessus mentionnées peut être délivré, dans des conditions
+II. Le permis de conduire des catégories et des sous-catégories ci-dessus mentionnées peut être délivré, dans des conditions
 fixées par le ministre chargé des transports, aux personnes atteintes d'un handicap physique nécessitant l'aménagement du
 véhicule.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -11741,15 +11745,15 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2006-1712 du 23 décembre 2006 - art. 4 () JORF 23 décembre 2006 en vigueur jusqu'au 1er janvier 2008
+
 _Anciens textes_:
 
   - Code de la route - art. R124 (Ab)
   - Code de la route - art. R186 (Ab)
   - Code de la route R124, R186 (al. 1)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
 
 
 ###### Article R221-5
