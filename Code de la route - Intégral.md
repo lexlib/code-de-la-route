@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2006-12-23
+Version Consolidée au 2006-12-29
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -10075,22 +10075,23 @@ _Modifié par_:
 
 ###### Article R211-1
 
-I. - Des attestations scolaires de sécurité routière de premier et deuxième niveau sont délivrées aux élèves qui ont subi
-avec succès le contrôle des connaissances théoriques des règles de sécurité routière. Ce contrôle est obligatoire pour les
-élèves des établissements d'enseignement public et des établissements d'enseignement privé sous contrat.
+I. - Des attestations scolaires de sécurité routière de premier et de second niveaux sont délivrées aux élèves qui ont subi
+avec succès un contrôle des connaissances théoriques des règles de sécurité routière. Ce contrôle est organisé pour les
+élèves soumis à l'obligation scolaire définie à l'article L. 131-1 du code de l'éducation ainsi que pour les élèves âgés de
+plus de seize ans inscrits dans un établissement scolaire.
 
-Un arrêté conjoint du ministre chargé de l'éducation et du ministre chargé des transports fixe les modalités d'application du
-précédent alinéa.
+II. - Une attestation de sécurité routière est délivrée aux personnes qui ont subi avec succès un contrôle des connaissances
+théoriques des règles de sécurité routière. Ce contrôle est ouvert aux personnes qui, pour quelque raison que ce soit, ne
+peuvent bénéficier des dispositions du I. Les titulaires d'un contrat d'apprentissage relèvent, quel que soit leur âge, des
+dispositions du présent alinéa.
 
-II. - Une attestation de sécurité routière est délivrée aux personnes non titulaires des attestations scolaires de sécurité
-routière de premier et deuxième niveau qui ont subi avec succès le contrôle des connaissances théoriques des règles de
-sécurité routière.
-
-Un arrêté du ministre chargé des transports fixe les modalités d'application du précédent alinéa.
+Un arrêté conjoint du ministre de la défense, du ministre chargé de l'emploi, du ministre chargé de l'éducation nationale, du
+ministre de la justice, du ministre chargé des transports, du ministre chargé de la mer, du ministre chargé de la santé et du
+ministre chargé de l'agriculture fixe les modalités d'application du I et du II.
 
 III. - Le brevet de sécurité routière est délivré aux titulaires d'une attestation scolaire de sécurité routière de premier
-niveau ou de l'attestation de sécurité routière ayant suivi une formation pratique organisée par une personne physique ou
-morale agréée par le préfet.
+ou de second niveau ou de l'attestation de sécurité routière ayant suivi une formation pratique organisée par une personne
+physique ou morale agréée par le préfet.
 
 Un arrêté du ministre chargé des transports fixe les modalités d'application du précédent alinéa.
 
@@ -10104,10 +10105,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2002-675 du 30 avril 2002 - art. 1 () JORF 2 mai 2002
 
 **Liens**:
 
@@ -10139,6 +10136,14 @@ _Cité par_:
   - Arrêté du 30 janvier 2018 - art. 1
   - Code de l'éducation - art. D312-43 (V)
   - Code de l'éducation - art. R312-47 (V)
+
+_Modifié par_:
+
+  - Décret n°2006-1712 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
+
+_Cite_:
+
+  - Code de l'éducation - art. L131-1 (V)
 
 
 ###### Article R211-2
@@ -10226,9 +10231,10 @@ Il peut également procéder à ce retrait en cas de refus du détenteur du livr
 prévus au cours de l'apprentissage. Cette décision de retrait n'intervient qu'après que la personne intéressée a été mise à
 même de présenter des observations écrites et, le cas échéant, sur sa demande, des observations orales.
 
-L'élève conducteur doit être sous la surveillance constante et directe d'un accompagnateur titulaire depuis au moins trois
-ans du permis de conduire correspondant à la catégorie du véhicule utilisé ou titulaire de l'autorisation d'enseigner la
-conduite des véhicules à moteur.
+L'élève conducteur doit être sous la surveillance constante et directe d'un accompagnateur. Cet accompagnateur doit avoir un
+âge minimal fixé par un arrêté du ministre chargé des transports et être titulaire soit de l'autorisation d'enseigner la
+conduite de véhicules à moteur soit du permis de conduire correspondant à la catégorie du véhicule utilisé, sous réserve,
+dans ce dernier cas, que le délai probatoire défini à l'article L. 223-1 soit expiré.
 
 Le fait pour tout élève conducteur de refuser de restituer son livret d'apprentissage malgré la notification qui lui aura été
 faite d'une décision prononçant le retrait de ce document est puni de l'amende prévue pour les contraventions de la cinquième
@@ -10253,10 +10259,18 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2006-1712 du 23 décembre 2006 - art. 2 () JORF 29 décembre 2006
+
 _Anciens textes_:
 
   - Code de la route - art. R123-2 (Ab)
   - Code de la route R123-2 (al. 1 à 3, 6 et 11)
+
+_Cite_:
+
+  - Code de la route. - art. L223-1 (M)
 
 
 ###### Article R211-4
@@ -10290,31 +10304,25 @@ cette catégorie.
 
 II. - Il comprend deux périodes :
 
-1° Une période initiale de formation dans un établissement d'enseignement de la conduite des véhicules à moteur et de la
-sécurité routière ;
+1° Une période de formation initiale dans une association ou un établissement agréé au titre de l'article L. 213-1 ou L.
+213-7 ;
 
 2° Une période de conduite accompagnée, au cours de laquelle l'élève conducteur est astreint à parcourir une distance
 minimale et est soumis à deux contrôles pédagogiques au moins. Le livret d'apprentissage précise le contenu et la
 progressivité de la formation.
 
 III. - Pendant la période de conduite accompagnée, l'élève conducteur doit être sous la surveillance constante et directe
-d'un accompagnateur titulaire de la catégorie B du permis de conduire depuis trois ans au moins.
+d'un accompagnateur. Cet accompagnateur doit avoir un âge minimal fixé par un arrêté du ministre chargé des transports et
+être titulaire de la catégorie B du permis de conduire sous réserve que le délai probatoire défini à l'article L. 223-1 soit
+expiré ;
 
 IV. - Un arrêté du ministre chargé des transports fixe les conditions d'application du présent article.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 _Cité par_:
 
@@ -10325,10 +10333,20 @@ _Cité par_:
   - Code de la route. - art. R211-3 (V)
   - Code de la route. - art. R317-25 (V)
 
+_Modifié par_:
+
+  - Décret n°2006-1712 du 23 décembre 2006 - art. 3 () JORF 29 décembre 2006
+
 _Anciens textes_:
 
   - Code de la route - art. R123-3 (Ab)
   - Code de la route R123-3 (al. 1 à 6)
+
+_Cite_:
+
+  - Code de la route. - art. L213-1 (AbD)
+  - Code de la route. - art. L213-7 (AbD)
+  - Code de la route. - art. L223-1 (M)
 
 
 ###### Article R211-6
@@ -11774,8 +11792,8 @@ conditions d'âge.
 
 2° Etre titulaire :
 
-a) De l'attestation scolaire de sécurité routière de deuxième niveau ou de l'attestation de sécurité routière pour
-l'obtention des catégories A ou B du permis de conduire ;
+a) De l'attestation scolaire de sécurité routière de second niveau ou de l'attestation de sécurité routière pour la première
+obtention du permis de conduire, quelle qu'en soit la catégorie ou sous-catégorie ;
 
 b) De la catégorie B du permis de conduire pour l'obtention des catégories C, D et E (B) ;
 
@@ -11803,10 +11821,6 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-_Modifié par_:
-
-  - Décret n°2002-675 du 30 avril 2002 - art. 2 () JORF 2 mai 2002
-
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 17 décembre 2003
@@ -11818,17 +11832,15 @@ _Modifié par_:
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 6 (Ab)
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe I (Ab)
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe II (Ab)
-  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
+
+_Modifié par_:
+
+  - Décret n°2006-1712 du 23 décembre 2006 - art. 5 () JORF 29 décembre 2006
 
 _Anciens textes_:
 
   - Code de la route - art. R124-1 (Ab)
   - Code de la route R124-1
-
-_Cite_:
-
-  - Code de la route R221-4, R222-1 à R222-8
-  - Code de la route. - art. R221-4 (M)
 
 
 ###### Article R221-6
