@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2006-12-29
+Version Consolidée au 2006-12-31
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -131,7 +131,7 @@ Version Consolidée au 2006-12-29
           - [Section 5 : Remorquage des véhicules en panne ou accidentés. (art. R317-21 à R317-22)](#128)
           - [Section 6 : Autres aménagements. (art. R317-23 à R317-28)](#129)
         - [Chapitre VIII : Energie, émissions polluantes et nuisances. (art. R318-1 à R318-10)](#130)
-      - [Titre II : Dispositions administratives. (art. R321-1 à R327-20)](#131)
+      - [Titre II : Dispositions administratives. (art. R321-1 à R327-9)](#131)
         - [Chapitre Ier : Réception et homologation (art. R321-1 à R321-24)](#132)
           - [Section 1 : Dispositions générales. (art. R321-1 à R321-5)](#133)
           - [Section 2 : Réception communautaire ou réception CE. (art. R321-6 à R321-14)](#134)
@@ -150,70 +150,72 @@ Version Consolidée au 2006-12-29
           - [Section 3 : Fourrière (art. R325-12 à R325-52)](#147)
             - [Sous-section 1 : Dispositions générales. (art. R325-12 à R325-46)](#148)
             - [Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique. (art. R325-47 à R325-52)](#149)
-        - [Chapitre VI : Véhicules accidentés (art. R326-1 à R326-9)](#150)
-          - [Section 1 : Véhicules gravement accidentés. (art. R326-1 à R326-5)](#151)
-          - [Section 2 : Véhicules économiquement irréparables. (art. R326-6 à R326-9)](#152)
-        - [Chapitre VII : Organisation de la profession d'expert en automobile. (art. R327-1 à R327-20)](#153)
-      - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-5)](#154)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R343-4)](#155)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R341-1)](#156)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R342-1 à R342-5)](#157)
-        - [Chapitre III : Dispositions applicables à la Polynésie française (art. R343-1 à R343-4)](#158)
-          - [Section 1 : Dispositions générales. (art. R343-1)](#159)
-          - [Section 2 : Immobilisation. (art. R343-2 à R343-3)](#160)
-          - [Section 3 : Fourrière. (art. R343-4)](#161)
-    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#162)
-      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#163)
-        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#164)
-          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#165)
-          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#166)
-          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-18 à R411-24)](#167)
-          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#168)
-          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#169)
-        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#170)
-          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#171)
-          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#172)
-          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#173)
-          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28)](#174)
-          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#175)
-          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#176)
-          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#177)
-          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#178)
-        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#179)
-          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#180)
-          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#181)
-        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#182)
-          - [Section 1 : Croisement. (art. R414-1 à R414-3)](#183)
-          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#184)
-        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#185)
-        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#186)
-          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#187)
-          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#188)
-          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#189)
-        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#190)
-          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#191)
-          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#192)
-        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#193)
-      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-4)](#194)
-        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-9)](#195)
-        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-4)](#196)
-      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R436-1)](#197)
-        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#198)
-        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#199)
-          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#200)
-          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#201)
-          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#202)
-        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-8)](#203)
-          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#204)
-          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#205)
-          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#206)
-        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#207)
-        - [Chapitre V : Autres véhicules (art. R435-1 à R436-1)](#208)
-          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1)](#209)
-          - [Section 2 : Ensembles forains (art. R436-1)](#210)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#211)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#212)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#213)
+        - [Chapitre VI : Organisation de la profession d'expert en automobile (art. R326-1 à R326-18)](#150)
+          - [Section 1 : Règles générales. (art. R326-1 à R326-4)](#151)
+          - [Section 2 : Organisation et fonctionnement de la Commission nationale des experts en automobile. (art. R326-5 à R326-18)](#152)
+        - [Chapitre VII : Véhicules accidentés (art. R327-1 à R327-9)](#153)
+          - [Section 1 : Véhicules gravement accidentés. (art. R327-1 à R327-5)](#154)
+          - [Section 2 : Véhicules économiquement irréparables. (art. R327-6 à R327-9)](#155)
+      - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-5)](#156)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R343-4)](#157)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R341-1)](#158)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R342-1 à R342-5)](#159)
+        - [Chapitre III : Dispositions applicables à la Polynésie française (art. R343-1 à R343-4)](#160)
+          - [Section 1 : Dispositions générales. (art. R343-1)](#161)
+          - [Section 2 : Immobilisation. (art. R343-2 à R343-3)](#162)
+          - [Section 3 : Fourrière. (art. R343-4)](#163)
+    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#164)
+      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#165)
+        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#166)
+          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#167)
+          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#168)
+          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-18 à R411-24)](#169)
+          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#170)
+          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#171)
+        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#172)
+          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#173)
+          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#174)
+          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#175)
+          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28)](#176)
+          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#177)
+          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#178)
+          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#179)
+          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#180)
+        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#181)
+          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#182)
+          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#183)
+        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#184)
+          - [Section 1 : Croisement. (art. R414-1 à R414-3)](#185)
+          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#186)
+        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#187)
+        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#188)
+          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#189)
+          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#190)
+          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#191)
+        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#192)
+          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#193)
+          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#194)
+        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#195)
+      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-4)](#196)
+        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-9)](#197)
+        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-4)](#198)
+      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R436-1)](#199)
+        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#200)
+        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#201)
+          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#202)
+          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#203)
+          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#204)
+        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-8)](#205)
+          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#206)
+          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#207)
+          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#208)
+        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#209)
+        - [Chapitre V : Autres véhicules (art. R435-1 à R436-1)](#210)
+          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1)](#211)
+          - [Section 2 : Ensembles forains (art. R436-1)](#212)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#213)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#214)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#215)
 # Partie législative<a id=1></a>
 
 ## Livre 1er : Dispositions générales<a id=2></a>
@@ -8484,19 +8486,10 @@ véhicules de transport de matières dangereuses visées par la directive 82 / 5
 risques d'accidents majeurs de certaines activités industrielles et de nature à compromettre la sécurité publique. " 
 
 " Art.L. 2213-6-Le maire peut, moyennant le paiement de droits fixés par un tarif dûment établi, donner des permis de
-stationnement ou de dépôt temporaire sur la voie publique, sur les rivières, ports et quais fluviaux et autres lieux publics,
-sous réserve que cette autorisation n'entraîne aucune gêne pour la circulation, la navigation et la liberté du commerce. "
+stationnement ou de dépôt temporaire sur la voie publique et autres lieux publics, sous réserve que cette autorisation
+n'entraîne aucune gêne pour la circulation, la navigation et la liberté du commerce. "
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-_Modifié par_:
-
-  - Loi n°2005-102 du 11 février 2005 - art. 65 () JORF 12 février 2005
 
 _Cité par_:
 
@@ -8514,6 +8507,10 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-4 (V)
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-5 (V)
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-6 (V)
+
+_Modifié par_:
+
+  - Code général des collectivités territoriales - art. L2213-6 (V)
 
 _Cite_:
 
@@ -8547,32 +8544,19 @@ En outre, les pouvoirs conférés par le code de la route au préfet sont exerc�
 
 L'exécution des dispositions des alinéas précédents est assurée par les fonctionnaires de la police nationale ou, le cas
 échéant, en matière de circulation ou de stationnement, par des agents de la ville de Paris placés sous l'autorité du préfet
-de police. 
-
-Les permis de stationnement ou de dépôt temporaire sur la Seine, ses ports et ses quais, sont donnés par l'ingénieur en chef
-comme en matière d'occupation temporaire et les droits correspondants perçus comme en cette matière au profit de l'Etat par
-l'administration compétente. "
+de police."
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 _Modifié par_:
 
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 72
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L2213-1 (V)
   - Code général des collectivités territoriales - art. L2512-14 (M)
   - Code général des collectivités territoriales L2512-14, L2213-1, L2213-2 à L2213-6
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2512-14 (V)
 
 
 ###### Article L411-3
@@ -12110,8 +12094,17 @@ Une licence de circulation, délivrée avant le 1er avril 1958, une catégorie q
 motocyclettes dont la cylindrée n'excède pas 125 cm3, mises en circulation pour la première fois avant le 31 décembre 1984,
 et celle des motocyclettes légères.
 
-II. - La catégorie B du permis de conduire, délivrée depuis au moins deux ans, autorise la conduite, sur le territoire
-national, des véhicules relevant de la sous-catégorie A1.
+II. - La catégorie B du permis de conduire délivrée avant le 1er janvier 2007 autorise la conduite, sur le territoire
+national, d'une véhicule relevant de la sous-catégorie A1 si le conducteur est titulaire de la catégorie B du permis de
+conduire depuis au moins deux ans.
+
+III. - La catégorie B du permis de conduire délivrée à compter du 1er janvier 2007 autorise la conduite, sur le territoire
+national, d'un véhicule relevant de la sous-catégorie A1 si le conducteur est titulaire de la catégorie B du permis de
+conduire depuis au moins deux ans. Cette autorisation n'est valide que si le conducteur a suivi une formation pratique
+dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L. 213-7 et qu'il est fait mention
+de cette autorisation sur le permis de conduire.
+
+Un arrêté du ministre chargé des transports fixe les modalités d'application du précédent alinéa.
 
 **Liens relatifs à cet article**
 
@@ -12121,7 +12114,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-320 du 30 mars 2005 - art. 3 () JORF 6 avril 2005
+  - Décret n°2006-1811 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -12134,6 +12127,11 @@ _Anciens textes_:
 
   - Code de la route - art. R125-1 (Ab)
   - Code de la route R125-1
+
+_Cite_:
+
+  - Code de la route. - art. L213-1 (AbD)
+  - Code de la route. - art. L213-7 (AbD)
 
 
 ###### Article R221-9
@@ -25706,11 +25704,620 @@ _Cite_:
   - Code de la route. - art. R325-47 (V)
 
 
-#### Chapitre VI : Véhicules accidentés<a id=150></a>
+#### Chapitre VI : Organisation de la profession d'expert en automobile<a id=150></a>
 
-##### Section 1 : Véhicules gravement accidentés.<a id=151></a>
+##### Section 1 : Règles générales.<a id=151></a>
 
 ###### Article R326-1
+
+L'expert en automobile doit indiquer à la personne qui envisage de faire appel à lui le prix de sa prestation.
+
+L'expert ne peut se substituer au propriétaire du véhicule que s'il en a reçu mandat écrit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Anciens textes_:
+
+  - Code de la route - art. R241 (Ab)
+  - Code de la route - art. R278 (Ab)
+  - Code de la route - art. R294 (Ab)
+  - Code de la route R241 (al. 1 et 3), R278 3°, R294
+
+_Cité par_:
+
+  - Code de la route. - art. R130-3 (M)
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R327-1 (M)
+  - Code de la route. - art. R327-1 (V)
+
+
+###### Article R326-2
+
+L'expert est tenu de donner ses conclusions dans la limite de sa mission. Toutefois, il doit informer sans délai le
+propriétaire et consigner dans son rapport les déficiences du véhicule ainsi que les défauts de conformité du véhicule ou
+d'homologation d'accessoires qu'il a découverts au cours de l'accomplissement de sa mission et qui sont susceptibles de
+mettre en danger la vie du conducteur ou celle d'autres personnes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Anciens textes_:
+
+  - Code de la route - art. R294-1 (Ab)
+  - Code de la route R294-1
+
+_Cité par_:
+
+  - Code de la route. - art. R326-3 (M)
+  - Code de la route. - art. R326-6 (M)
+  - Code de la route. - art. R342-5 (M)
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R327-2 (M)
+  - Code de la route. - art. R327-2 (V)
+
+
+###### Article R326-3
+
+I. - Le rapport d'expertise comporte :
+
+- le nom de l'expert qui a procédé à l'expertise ;
+
+- le rappel des opérations d'expertise effectuées, en précisant si elles l'ont été avant, pendant ou après les réparations ;
+
+- l'indication du nom et de la qualité des personnes présentes lors de l'examen du véhicule ;
+
+- les documents communiqués par le propriétaire ;
+
+- les conclusions de l'expert.
+
+II. - L'expert adresse une copie de son rapport et de tout rapport complémentaire au propriétaire du véhicule.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Arrêté du 29 avril 2009 - art. 2 (V)
+
+_Anciens textes_:
+
+  - Code de la route - art. R294-2 (Ab)
+  - Code de la route R294-2
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R327-3 (M)
+  - Code de la route. - art. R327-3 (V)
+
+
+###### Article R326-4
+
+Dès qu'il a connaissance d'une contestation portant sur les conclusions techniques ou sur le coût des dommages ou des
+réparations, l'expert doit en informer, par tous moyens à sa convenance, les parties intéressées, notamment le propriétaire
+et le professionnel dépositaire du véhicule.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Anciens textes_:
+
+  - Code de la route - art. R294-3 (Ab)
+  - Code de la route R294-3
+  - Code de la route. - art. R327-4 (M)
+
+
+##### Section 2 : Organisation et fonctionnement de la Commission nationale des experts en automobile.<a id=152></a>
+
+###### Article R326-5
+
+La commission nationale instituée par l'article L. 326-3 peut être consultée par le ministre chargé des transports sur toute
+question relative à l'expertise en automobile et à l'organisation générale de la profession d'expert en automobile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Décret n°2011-760 du 28 juin 2011 (V)
+  - Arrêté du 26 juillet 2011 - art. 2 (V)
+  - Arrêté du 15 juin 2017 - art. 1 (V)
+  - Code de la route. - art. R326-12 (V)
+  - Code de la route. - art. R342-3 (V)
+
+_Anciens textes_:
+
+  - Code de la route - art. R294-4 (Ab)
+  - Code de la route R294-4
+
+_Cite_:
+
+  - Code de la route. - art. L326-3 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la route. - art. R326-1 (M)
+  - SPEC_APPLI: Code de la route. - art. R326-2 (M)
+  - SPEC_APPLI: Code de la route. - art. R326-3 (M)
+  - SPEC_APPLI: Code de la route. - art. R326-4 (M)
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R327-5 (M)
+
+
+###### Article R326-6
+
+I. - La commission nationale instituée par l'article L. 326-3 comprend :
+
+1° Un président, conseiller en activité ou honoraire à la Cour de cassation, désigné par le ministre de la justice sur
+proposition du premier président de la Cour de cassation ;
+
+2° Cinq représentants de l'Etat, dont deux désignés par le ministre chargé des transports, un par le ministre chargé des
+assurances, un par le ministre de l'intérieur et un par le ministre chargé de la consommation ;
+
+3° Quatre experts en automobile désignés par le ministre chargé des transports, sur proposition des organisations
+professionnelles ;
+
+4° Deux représentants des consommateurs désignés par le ministre chargé de la consommation, pris dans une liste proposée par
+le collège de consommateurs du conseil national de la consommation ;
+
+5° Deux représentants des entreprises d'assurance désignés par le ministre chargé des assurances. Les représentants des
+consommateurs ne peuvent appartenir aux catégories mentionnées aux 3° et 5° du présent article.
+
+Un suppléant de chaque membre titulaire de la commission est désigné dans les mêmes conditions.
+
+II. - Les membres titulaires et suppléants de la commission sont nommés pour trois ans par arrêté du ministre chargé des
+transports.
+
+Il est procédé au remplacement du membre titulaire ou suppléant qui perd la qualité au titre de laquelle il a été désigné ou
+qui ne peut plus exercer ses fonctions. Le nouveau membre siège pour la durée du mandat restant à courir. Sauf s'il s'agit du
+président, il n'est pas procédé au remplacement d'un membre de la commission si l'on se trouve à moins de six mois du
+renouvellement général de la commission, à moins que la condition de quorum prévue à l'article R. 326-7 l'exige.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Arrêté du 15 juin 2017 - art. 1 (V)
+  - Code de la route. - art. R326-14 (V)
+  - Code de la route. - art. R326-8 (V)
+
+_Anciens textes_:
+
+  - Code de la route - art. R294-6 (Ab)
+  - Code de la route R294-6
+  - Code de la route. - art. R327-6 (M)
+
+_Cite_:
+
+  - Code de la route. - art. L326-3 (M)
+  - Code de la route. - art. R326-7 (M)
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R327-6 (V)
+
+
+###### Article R326-7
+
+La commission se réunit sur convocation de son président qui fixe l'ordre du jour.
+
+La commission ne peut valablement délibérer que si au moins la moitié de ses membres sont présents. Si ce quorum n'est pas
+atteint, une deuxième réunion est convoquée sur le même ordre du jour. La commission peut alors valablement délibérer quel
+que soit le nombre des membres présents.
+
+Les décisions de la commission sont prises à la majorité des membres présents. En cas de partage égal des voix, celle du
+président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Anciens textes_:
+
+  - Code de la route - art. R294-7 (Ab)
+  - Code de la route R294-7
+  - Code de la route. - art. R327-7 (M)
+
+_Cité par_:
+
+  - Code de la route. - art. R326-6 (V)
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R327-7 (V)
+
+
+###### Article R326-8
+
+La commission établit son règlement intérieur.
+
+Le secrétariat de la commission est assuré par un fonctionnaire désigné par le ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Anciens textes_:
+
+  - Code de la route - art. R294-8 (Ab)
+  - Code de la route R294-8
+  - Code de la route. - art. R327-8 (M)
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R327-8 (V)
+
+
+###### Article R326-9
+
+La liste des experts en automobile est publiée avant le 31 décembre de chaque année au Bulletin officiel du ministère chargé
+des transports.
+
+Tout changement de situation ou de condition d'exercice professionnel survenant entre deux publications et entraînant une
+modification de la liste fait l'objet d'une publication distincte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Anciens textes_:
+
+  - Code de la route - art. R294-9 (Ab)
+  - Code de la route R294-9
+  - Code de la route. - art. R327-9 (M)
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R327-9 (V)
+
+
+###### Article R326-10
+
+Toute personne souhaitant être inscrite sur la liste des experts en automobile doit en faire la demande au secrétariat de la
+commission. Cette demande est accompagnée des pièces justificatives suivantes :
+
+1° Un document établissant l'état civil de l'intéressé ;
+
+_2° La copie, suivant le cas :_
+
+_- soit du brevet professionnel d'expert en automobile ou de la reconnaissance de la qualité d'expert en automobile prévus
+par le décret n° 74-472 du 17 mai 1974 relatif aux experts en automobile, ou du diplôme d'expert en automobile prévu par le
+décret n° 95-493 du 25 avril 1995 portant création et règlement général du diplôme d'expert en automobile, ou du relevé de
+notes du diplôme d'expert en automobile délivré par le recteur d'académie ;_
+
+_- soit d'un titre délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
+économique européen reconnu équivalent aux titres mentionnés à l'alinéa précédent dans les conditions fixées par un arrêté du
+ministre chargé des transports (1)_ ;
+
+3° Une déclaration sur l'honneur du demandeur attestant qu'il ne détient pas de charge d'officier public ou ministériel et
+n'exerce pas une activité incompatible avec la qualité d'expert en automobile, conformément aux dispositions de l'article L.
+326-6.
+
+La commission peut, en outre, demander à l'intéressé de fournir tout autre document ou renseignement utile, notamment son
+contrat de travail s'il s'agit d'un expert salarié, afin de lui permettre de vérifier que la condition d'indépendance est
+remplie ;
+
+4° Un document justificatif de l'assurance obligatoire prévue par l'article L. 326-7 ;
+
+5° Un extrait du bulletin n° 3 du casier judiciaire, ou pour les ressortissants étrangers un document équivalent, accompagné
+d'une déclaration sur l'honneur de l'intéressé selon laquelle il n'a fait l'objet d'aucune des condamnations pénales prévues
+à l'article L. 326-2 et n'est pas sous le coup d'un jugement rendu en application de l'article L. 326-9 lui interdisant
+d'exercer l'activité d'expert en automobile ;
+
+_6° La copie de l'attestation justifiant que le demandeur a suivi la formation prévue à l'article R. 326-17 lorsqu'il
+sollicite la reconnaissance de sa qualification pour le contrôle des véhicules gravement accidentés (1)._
+
+**Nota:**
+
+(1) Conseil d'Etat, décision n° 302119, en date du 31 mars 2008 art.1 : Le 2° et le 6° de l'article R. 326-10 du code de la
+route, dans leur rédaction issue de l'article 2 du décret du 23 décembre 2006, sont annulés en tant qu'ils ne prévoient pas
+la prise en compte d'une expérience professionnelle équivalente acquise dans un autre Etat membre de l'Union européenne.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°74-472 1974-05-17
+  - Décret n°95-493 1995-04-25
+  - Code de la route. - art. L326-2 (M)
+  - Code de la route. - art. L326-6 (M)
+  - Code de la route. - art. L326-7 (M)
+  - Code de la route. - art. L326-9 (M)
+  - Code de la route. - art. R326-17 (V)
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Code de la route. - art. R326-12 (V)
+
+
+###### Article R326-11
+
+Les experts inscrits sur la liste signalent à la commission, dans les trente jours, tous les événements pouvant avoir des
+conséquences sur leur inscription, notamment les changements de lieu d'exercice professionnel, les cessations temporaires ou
+définitives d'activité ainsi que toute circonstance ou activité nouvelle incompatible avec l'activité d'expert en automobile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Arrêté du 26 juillet 2011 - art. 8 (V)
+  - Code de la route. - art. R326-14 (V)
+  - Code de la route. - art. R326-5 (V)
+
+
+###### Article R326-12
+
+La commission vérifie chaque année que l'expert inscrit remplit les conditions requises par l'article R. 326-10.
+
+Elle peut, à tout moment, si elle constate qu'un expert ne remplit plus les conditions exigées, prononcer sa suspension
+pendant le temps nécessaire à la régularisation de sa situation ou sa radiation, après lui avoir imparti un délai pour
+présenter ses observations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Cite_:
+
+  - Code de la route. - art. R326-10 (V)
+
+_Cité par_:
+
+  - Code de la route. - art. R326-10-4 (Ab)
+  - Code de la route. - art. R326-9 (V)
+
+
+###### Article R326-13
+
+En cas de faute ou de manquement par un expert aux conditions d'exercice de son activité professionnelle, la commission peut
+prononcer l'une des sanctions suivantes : un avertissement, un blâme, la suspension de l'exercice de son activité
+professionnelle pour une durée ne pouvant excéder trois ans ou la radiation de la liste nationale des experts en automobile
+avec interdiction de solliciter une nouvelle inscription pendant cinq ans.
+
+La suspension peut être limitée à la qualification mentionnée à l'article R. 326-17.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Cite_:
+
+  - Code de la route. - art. R326-17 (V)
+
+
+###### Article R326-14
+
+I. - La procédure disciplinaire est engagée à l'initiative de l'un des ministres mentionnés à l'article R. 326-6, du préfet,
+du procureur de la République ou du président de la commission agissant d'office ou sur plainte d'un tiers.
+
+II. - Le président désigne pour chaque affaire un rapporteur, fonctionnaire de catégorie A ou assimilé n'appartenant pas à la
+commission.
+
+Le rapporteur désigné peut se faire assister de toute personne nécessaire à l'exercice de sa mission. Il entend l'expert si
+celui-ci le demande ou s'il le juge utile, ainsi que toute personne nécessaire à l'instruction ou dont la plainte est à
+l'origine de la procédure engagée. Le rapporteur doit respecter le caractère contradictoire de la procédure. Il consigne le
+résultat de ses auditions par écrit.
+
+Si le président décide de ne pas donner suite à une plainte, il en informe son auteur.
+
+III. - Les griefs formulés à l'encontre de l'expert mis en cause lui sont notifiés par lettre recommandée du président de la
+commission avec avis de réception ou remise contre récépissé. L'intéressé est informé, lors de la notification des griefs,
+qu'il peut prendre connaissance et copie, en personne ou par mandataire, des pièces du dossier qui sera soumis à la
+commission. Il est également informé de la possibilité de se faire assister d'un défenseur et du délai dont il dispose et qui
+ne peut être inférieur à un mois pour présenter ses observations écrites.
+
+IV. - L'expert mis en cause et, le cas échéant, son défenseur sont convoqués un mois au moins avant la réunion de la
+commission, par lettre recommandée avec avis de réception ou remise contre récépissé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Cite_:
+
+  - Code de la route. - art. R326-6 (M)
+
+
+###### Article R326-15
+
+Le président dirige les débats. La commission entend l'expert mis en cause et, le cas échéant, son défenseur. La commission
+peut, en outre, à la demande du président, entendre toute personne dont l'audition lui paraît utile. Si l'intéressé n'est ni
+présent ni représenté et qu'il a adressé un mémoire au président, le rapporteur donne connaissance du contenu de ce mémoire.
+
+Lorsque l'intéressé ne se présente pas, la commission apprécie si elle doit ou non passer aux débats. La réunion de la
+commission n'est pas publique sauf si l'expert mis en cause en fait la demande. Le rapporteur présente l'affaire. La
+commission délibère en la seule présence des membres de la commission, du rapporteur et de la personne qui assure le
+secrétariat. Ces deux dernières personnes ne prennent pas part au vote.
+
+La décision est signée par le président et le secrétaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+
+###### Article R326-16
+
+La décision de la commission est notifiée à l'expert mis en cause. La notification indique que la décision de la commission
+peut faire l'objet d'une demande d'annulation devant la juridiction administrative compétente.
+
+Les décisions de suspension ou de radiation sont publiées au Bulletin officiel du ministère chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
+
+
+###### Article R326-17
+
+L'expert en automobile qui justifie d'une qualification pour le contrôle des véhicules gravement accidentés acquise après une
+formation dispensée dans les conditions définies par un arrêté conjoint du ministre chargé de l'éducation nationale et du
+ministre chargé des transports est inscrit sur la liste nationale des experts en automobile avec la mention de cette
+qualification.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Arrêté du 29 avril 2009 - art. 2 (V)
+  - Arrêté du 26 juillet 2011 - art. (V)
+  - Code de la route. - art. R326-10 (V)
+  - Code de la route. - art. R326-13 (V)
+  - Code de la route. - art. R327-1 (V)
+  - Code de la route. - art. R327-2 (V)
+  - Code de la route. - art. R327-3 (V)
+  - Code de la route. - art. R342-5 (V)
+
+
+###### Article R326-18
+
+Le ministre chargé des transports fixe par arrêté les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 du 22 mars 2001
+
+_Créé par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
+
+
+#### Chapitre VII : Véhicules accidentés<a id=153></a>
+
+##### Section 1 : Véhicules gravement accidentés.<a id=154></a>
+
+###### Article R327-1
 
 Lorsqu'en raison de la gravité des dommages qu'il a subis à la suite d'un accident, un véhicule n'est plus en état de
 circuler sans danger pour la sécurité, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1
@@ -25726,36 +26333,34 @@ application du présent article est puni de l'amende prévue pour les contravent
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Décret n°91-1315 du 27 décembre 1991 - art. 1 (Ab)
+  - Code de la route. - art. R326-1 (M)
+
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de la route - art. R241 (Ab)
-  - Code de la route - art. R278 (Ab)
-  - Code de la route - art. R294 (Ab)
-  - Code de la route R241 (al. 1 et 3), R278 3°, R294
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Arrêté du 29 avril 2009 - art. 5 (V)
+  - Arrêté du 26 juillet 2011 - art. 1 (V)
+  - Arrêté du 26 juillet 2011 - art. 2 (V)
+  - Arrêté du 26 juillet 2011 - art. 3 (V)
+  - Code de la route. - art. R327-5 (V)
+  - Code de la route. - art. R350-3 (V)
 
 _Cite_:
 
   - Code de la route L325-1 à L325-3
 
-_Cité par_:
 
-  - Code de la route. - art. R130-3 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R326-5 (M)
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R327-1 (M)
-  - Code de la route. - art. R327-1 (V)
-
-
-###### Article R326-2
+###### Article R327-2
 
 Le titulaire du certificat d'immatriculation peut en demander la restitution sur présentation d'un rapport établi par un
 expert en automobile qualifié pour le contrôle des véhicules gravement accidentés, désigné par l'administration, si ce
@@ -25772,321 +26377,6 @@ l'expert, attestant que les réparations ont été effectuées conformément au 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Anciens textes_:
-
-  - Code de la route - art. R294-1 (Ab)
-  - Code de la route R294-1
-
-_Cité par_:
-
-  - Code de la route. - art. R326-3 (M)
-  - Code de la route. - art. R326-6 (M)
-  - Code de la route. - art. R342-5 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R326-5 (M)
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R327-2 (M)
-  - Code de la route. - art. R327-2 (V)
-
-
-###### Article R326-3
-
-Lorsque le propriétaire décide de ne pas faire procéder à la remise en état de son véhicule, il est tenu d'en aviser le
-préfet du département d'immatriculation du véhicule, qui procède alors à l'annulation du certificat d'immatriculation.
-
-Il est également procédé à l'annulation du certificat d'immatriculation si, dans le délai d'un an suivant son retrait, sa
-restitution n'a pu être opérée dans les conditions prévues à l'article R. 326-2. Dans ce cas, il ne peut plus être procédé à
-la remise en circulation et à l'immatriculation du véhicule qu'après une réception, effectuée à la demande du propriétaire,
-dans les conditions fixées par l'article R. 321-15.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Cité par_:
-
-  - Arrêté du 29 avril 2009 - art. 2 (V)
-
-_Anciens textes_:
-
-  - Code de la route - art. R294-2 (Ab)
-  - Code de la route R294-2
-
-_Cite_:
-
-  - Code de la route. - art. R321-15 (V)
-  - Code de la route. - art. R326-2 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R326-5 (M)
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R327-3 (M)
-  - Code de la route. - art. R327-3 (V)
-
-
-###### Article R326-4
-
-Le retrait conservatoire du certificat d'immatriculation ne fait pas obstacle au transfert de propriété du véhicule ; dans ce
-cas, les règles édictées aux articles précédents pour sa mise en circulation s'appliquent au nouveau propriétaire et
-conditionnent la délivrance à ce dernier d'un nouveau certificat d'immatriculation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Anciens textes_:
-
-  - Code de la route - art. R294-3 (Ab)
-  - Code de la route R294-3
-  - Code de la route. - art. R327-4 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R326-5 (M)
-
-
-###### Article R326-5
-
-Les dispositions de la présente section ne sont applicables qu'aux véhicules dont le poids total autorisé en charge n'excède
-pas 3,5 tonnes, à l'exclusion des véhicules à deux ou trois roues, des quadricycles à moteur et des véhicules militaires.
-
-Un arrêté du ministre chargé des transports, pris après avis du ministre de la défense et du ministre de l'intérieur, fixe
-les modalités d'application des dispositions de la présente section.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
-
-_Cité par_:
-
-  - Décret n°2011-760 du 28 juin 2011 (V)
-  - Arrêté du 26 juillet 2011 - art. 2 (V)
-  - Arrêté du 15 juin 2017 - art. 1 (V)
-  - Code de la route. - art. R326-12 (V)
-  - Code de la route. - art. R342-3 (V)
-
-_Anciens textes_:
-
-  - Code de la route - art. R294-4 (Ab)
-  - Code de la route R294-4
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R326-1 (M)
-  - SPEC_APPLI: Code de la route. - art. R326-2 (M)
-  - SPEC_APPLI: Code de la route. - art. R326-3 (M)
-  - SPEC_APPLI: Code de la route. - art. R326-4 (M)
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R327-5 (M)
-
-
-##### Section 2 : Véhicules économiquement irréparables.<a id=152></a>
-
-###### Article R326-6
-
-Dans le cas prévu à l'article L. 326-11 où le propriétaire a donné son accord pour céder son véhicule à l'assureur, la carte
-grise du véhicule est transmise par l'assureur au préfet du département du lieu d'immatriculation dans un délai d'un mois à
-compter de l'accord entre l'assureur et le propriétaire du véhicule.
-
-L'assureur fournit une copie du rapport d'expertise établi en application de l'article L. 326-10. Dans le cas où l'expert
-estime le véhicule réparable, au sens du deuxième alinéa de l'article R. 326-2, son rapport comporte une description
-détaillée des réparations à effectuer.
-
-**Nota:**
-
-NOTA : Les articles L. 326-10 et L. 326-11 ont été transférés respectivement sous les articles L. 327-1 et L. 327-2 du code
-de la route par l'article 20 de la loi n° 2003-495 du 12 juin 2003.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Cité par_:
-
-  - Arrêté du 15 juin 2017 - art. 1 (V)
-  - Code de la route. - art. R326-14 (V)
-  - Code de la route. - art. R326-8 (V)
-
-_Anciens textes_:
-
-  - Code de la route - art. R294-6 (Ab)
-  - Code de la route R294-6
-  - Code de la route. - art. R327-6 (M)
-
-_Cite_:
-
-  - Code de la route. - art. L326-10 (T)
-  - Code de la route. - art. L326-11 (T)
-  - Code de la route. - art. R326-2 (M)
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R327-6 (V)
-
-
-###### Article R326-7
-
-Lorsque, dans le cadre de l'article L. 326-11, un professionnel a acquis un véhicule pour réparation, il doit, dans les
-quinze jours, adresser une déclaration d'achat au préfet du département du lieu d'immatriculation, qui lui délivre un
-récépissé.
-
-**Nota:**
-
-NOTA : L'article L. 326-11 a été transféré sous l'article L. 327-2 du code de la route par l'article 20 de la loi n° 2003-495
-du 12 juin 2003.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Anciens textes_:
-
-  - Code de la route - art. R294-7 (Ab)
-  - Code de la route R294-7
-  - Code de la route. - art. R327-7 (M)
-
-_Cite_:
-
-  - Code de la route. - art. L326-11 (T)
-
-_Cité par_:
-
-  - Code de la route. - art. R326-6 (V)
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R327-7 (V)
-
-
-###### Article R326-8
-
-Les rapports d'expertise mentionnés aux articles L. 326-10 à L. 326-12 sont établis par un expert en automobile qualifié pour
-le contrôle des véhicules gravement accidentés.
-
-**Nota:**
-
-NOTA : Les articles L. 326-10, L. 326-11 et L. 326-12 ont été transférés respectivement sous les articles L. 327-1, L. 327-2
-et L. 326-3 du code de la route par l'article 20 de la loi n° 2003-495 du 12 juin 2003.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Anciens textes_:
-
-  - Code de la route - art. R294-8 (Ab)
-  - Code de la route R294-8
-  - Code de la route. - art. R327-8 (M)
-
-_Cite_:
-
-  - Code de la route L326-10 à L326-12
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R327-8 (V)
-
-
-###### Article R326-9
-
-Le second rapport d'expertise mentionné au troisième alinéa de l'article L. 326-11 et au troisième alinéa de l'article L.
-326-12 atteste que le véhicule n'a pas subi de transformation notable au sens de l'article R. 321-16, ni de transformation
-susceptible de modifier les caractéristiques indiquées sur la carte grise.
-
-**Nota:**
-
-NOTA : Les articles L. 326-10 et L. 326-11 ont été transférés respectivement sous les articles L. 327-1 et L. 327-2 du code
-de la route par l'article 20 de la loi n° 2003-495 du 12 juin 2003.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-536 du 20 juin 2003 - art. 15 () JORF 22 juin 2003
-
-_Anciens textes_:
-
-  - Code de la route - art. R294-9 (Ab)
-  - Code de la route R294-9
-  - Code de la route. - art. R327-9 (M)
-
-_Cite_:
-
-  - Code de la route. - art. L326-11 (T)
-  - Code de la route. - art. L326-12 (T)
-  - Code de la route. - art. R321-16 (M)
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R327-9 (V)
-
-
-#### Chapitre VII : Organisation de la profession d'expert en automobile.<a id=153></a>
-
-###### Article R327-1
-
-L'expert en automobile doit communiquer à la personne qui envisage de faire appel à lui le prix de sa prestation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°91-1315 du 27 décembre 1991 - art. 1 (Ab)
-  - Code de la route. - art. R326-1 (M)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Cité par_:
-
-  - Arrêté du 29 avril 2009 - art. 5 (V)
-  - Arrêté du 26 juillet 2011 - art. 1 (V)
-  - Arrêté du 26 juillet 2011 - art. 2 (V)
-  - Arrêté du 26 juillet 2011 - art. 3 (V)
-  - Code de la route. - art. R327-5 (V)
-  - Code de la route. - art. R350-3 (V)
-
-
-###### Article R327-2
-
-L'expert ne peut se substituer au propriétaire du véhicule que s'il en a reçu mandat écrit.
-
-**Liens relatifs à cet article**
-
 _Anciens textes_:
 
   - Décret n°91-1315 du 27 décembre 1991 - art. 2 (Ab)
@@ -26096,6 +26386,10 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
 _Cité par_:
 
   - Code de la route. - art. R327-3 (V)
@@ -26104,9 +26398,13 @@ _Cité par_:
 
 ###### Article R327-3
 
-L'expert est tenu de donner ses conclusions dans la limite de sa mission. Toutefois, il doit informer sans délai le
-propriétaire des déficiences du véhicule découvertes au cours de l'accomplissement de sa mission et qui sont susceptibles de
-mettre en danger la vie de toute personne.
+Lorsque le propriétaire décide de ne pas faire procéder à la remise en état de son véhicule, il est tenu d'en aviser le
+préfet du département d'immatriculation du véhicule, qui procède alors à l'annulation du certificat d'immatriculation.
+
+Il est également procédé à l'annulation du certificat d'immatriculation si, dans le délai d'un an suivant son retrait, sa
+restitution n'a pu être opérée dans les conditions prévues à l'article R. 327-2. Dans ce cas, il ne peut plus être procédé à
+la remise en circulation et à l'immatriculation du véhicule qu'après une réception, effectuée à la demande du propriétaire,
+dans les conditions fixées par l'article R. 321-15.
 
 **Liens relatifs à cet article**
 
@@ -26119,17 +26417,21 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Cite_:
+
+  - Code de la route. - art. R321-15 (V)
+  - Code de la route. - art. R327-2 (M)
+
 
 ###### Article R327-4
 
-Le rapport d'expertise doit mentionner, outre les conclusions de l'expert, le rappel des opérations d'expertise en précisant
-si elles ont été effectuées avant ou après réparation, l'indication des personnes présentes lors de l'examen du véhicule,
-leur qualité et les documents communiqués par le propriétaire.
-
-Le rapport doit également indiquer les motifs pour lesquels les éléments d'évaluation communiqués par le propriétaire n'ont
-pas été retenus.
-
-L'expert adresse une copie du rapport d'expertise et de tout rapport complémentaire au propriétaire du véhicule.
+Le retrait conservatoire du certificat d'immatriculation ne fait pas obstacle au transfert de propriété du véhicule ; dans ce
+cas, les règles édictées aux articles précédents pour sa mise en circulation s'appliquent au nouveau propriétaire et
+conditionnent la délivrance à ce dernier d'un nouveau certificat d'immatriculation.
 
 **Liens relatifs à cet article**
 
@@ -26140,6 +26442,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
 
 _Nouveaux textes_:
 
@@ -26152,37 +26458,39 @@ _Cité par_:
 
 ###### Article R327-5
 
-Dès lors qu'il a connaissance d'une contestation portant sur les conclusions techniques ou sur le coût des dommages ou des
-réparations, l'expert doit en informer dès que possible, par tous moyens à sa convenance, les parties intéressées, notamment
-le propriétaire et le professionnel dépositaire du véhicule.
+Les dispositions de la présente section ne sont applicables qu'aux véhicules dont le poids total autorisé en charge n'excède
+pas 3,5 tonnes, à l'exclusion des véhicules à deux ou trois roues, des quadricycles à moteur et des véhicules militaires.
+
+Un arrêté du ministre chargé des transports, pris après avis du ministre de la défense et du ministre de l'intérieur, fixe
+les modalités d'application des dispositions de la présente section.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°91-1315 du 27 décembre 1991 - art. 5 (Ab)
+  - Code de la route. - art. R326-5 (M)
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+
+##### Section 2 : Véhicules économiquement irréparables.<a id=155></a>
 
 ###### Article R327-6
 
-Outre son président, la commission nationale chargée d'établir la liste des experts en automobile prévue par l'article L.
-326-3 comprend :
+Dans le cas prévu à l'article L. 327-2 où le propriétaire a donné son accord pour céder son véhicule à l'assureur, la carte
+grise du véhicule est transmise par l'assureur au préfet du département du lieu d'immatriculation dans un délai d'un mois à
+compter de l'accord entre l'assureur et le propriétaire du véhicule.
 
-1° Sept représentants de l'Etat ;
-
-2° Sept représentants des professions concernées par l'expertise et l'assurance, dont :
-
-a) Quatre experts en automobile ;
-
-b) Deux représentants des entreprises d'assurance ;
-
-c) Un représentant des professionnels de la réparation automobile ;
-
-3° Sept représentants des consommateurs.
+L'assureur fournit une copie du rapport d'expertise établi en application de l'article L. 327-1. Dans le cas où l'expert
+estime le véhicule réparable, au sens du deuxième alinéa de l'article R. 327-2, son rapport comporte une description
+détaillée des réparations à effectuer.
 
 **Liens relatifs à cet article**
 
@@ -26195,9 +26503,15 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
 _Cite_:
 
-  - Code de la route. - art. L326-3 (M)
+  - Code de la route. - art. L327-1 (V)
+  - Code de la route. - art. L327-2 (V)
+  - Code de la route. - art. R327-2 (M)
 
 _Nouveaux textes_:
 
@@ -26206,27 +26520,10 @@ _Nouveaux textes_:
 
 ###### Article R327-7
 
-Le président de la commission, conseiller à la Cour de cassation, est désigné par le ministre de la justice, sur proposition
-du premier président de la Cour de cassation.
-
-Les représentants de l'Etat sont désignés à concurrence de deux par le ministre chargé des transports, deux par le ministre
-chargé des assurances, un par le ministre de l'intérieur, un par le ministre chargé de l'artisanat, un par le ministre chargé
-de la consommation.
-
-Les quatre experts en automobile sont désignés conjointement par le ministre chargé des transports et le ministre chargé des
-assurances. Les deux représentants des entreprises d'assurance sont désignés par le ministre chargé des assurances. Le
-représentant des professionnels de la réparation est désigné par le ministre chargé de l'artisanat.
-
-Les sept représentants des consommateurs sont désignés par le ministre chargé de la consommation après avis du collège des
-consommateurs du Conseil national de la consommation prévu au 1 de l'article 6 du décret n° 83-642 du 12 juillet 1983,
-modifié, portant création d'un Conseil national de la consommation. Les représentants des consommateurs ne peuvent appartenir
-aux catégories mentionnées au troisième alinéa du présent article.
+Lorsque, dans le cadre de l'article L. 327-2, un professionnel a acquis un véhicule pour réparation, il doit, dans les quinze
+jours, adresser une déclaration d'achat au préfet du département du lieu d'immatriculation, qui lui délivre un récépissé.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°83-642 du 12 juillet 1983 - art. 6 (Ab)
 
 _Anciens textes_:
 
@@ -26235,6 +26532,18 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2009-397 du 10 avril 2009 - art. 4
+
+_Cite_:
+
+  - Code de la route. - art. L327-2
 
 _Nouveaux textes_:
 
@@ -26248,14 +26557,8 @@ _Cité par_:
 
 ###### Article R327-8
 
-Les membres de la commission sont nommés par arrêté du ministre chargé des transports pour une durée de trois ans. A chaque
-membre titulaire de la commission est associé un membre suppléant désigné et nommé dans les mêmes conditions que le
-titulaire.
-
-Il est procédé au remplacement du membre titulaire ou du membre suppléant qui ne peut plus exercer ses fonctions. Son
-remplaçant siège durant la période du mandat restant à courir. Sauf s'il s'agit du président, il n'est pas procédé au
-remplacement si l'on se trouve à moins de six mois du renouvellement de l'ensemble des membres de la commission, à moins que
-la condition de quorum prévue à l'article R. 327-9 ne l'exige.
+Les rapports d'expertise mentionnés aux articles L. 327-1 à L. 327-3 sont établis par un expert en automobile qualifié pour
+le contrôle des véhicules gravement accidentés.
 
 **Liens relatifs à cet article**
 
@@ -26267,22 +26570,29 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2009-397 du 10 avril 2009 - art. 4
+
+_Cite_:
+
+  - Code de la route.
+
 _Nouveaux textes_:
 
   - Code de la route. - art. R326-8 (M)
   - Code de la route. - art. R326-8 (V)
 
-_Cite_:
-
-  - Code de la route. - art. R327-9 (M)
-
 
 ###### Article R327-9
 
-La commission ne peut valablement délibérer que si au moins deux tiers de ses membres sont présents.
-
-Les décisions de la commission sont prises à la majorité des suffrages exprimés. En cas de partage égal des voix, celle du
-président est prépondérante.
+Le second rapport d'expertise mentionné au troisième alinéa de l'article L. 327-1 et au troisième alinéa de l'article L.
+327-3 atteste que le véhicule n'a pas subi de transformation notable au sens de l'article R. 321-16, ni de transformation
+susceptible de modifier les caractéristiques indiquées sur la carte grise.
 
 **Liens relatifs à cet article**
 
@@ -26295,6 +26605,20 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2009-397 du 10 avril 2009 - art. 4
+
+_Cite_:
+
+  - Code de la route. - art. L327-1
+  - Code de la route. - art. L327-3
+  - Code de la route. - art. R321-16
+
 _Nouveaux textes_:
 
   - Code de la route. - art. R326-9 (V)
@@ -26304,323 +26628,7 @@ _Cité par_:
   - Code de la route. - art. R327-8 (M)
 
 
-###### Article R327-10
-
-La commission établit son règlement intérieur.
-
-Le secrétariat de la commission est assuré par un fonctionnaire de catégorie A non membre de la commission désigné par le
-ministre chargé des transports.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-813 du 27 août 1997 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-
-###### Article R327-11
-
-La liste des experts en automobile est publiée chaque année avant le 1er mai au Bulletin officiel du ministère chargé des
-transports.
-
-Les décisions d'inscription ou de radiation qui interviennent en cours d'année font l'objet d'une publication distincte.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-813 du 27 août 1997 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-
-###### Article R327-12
-
-Toute personne souhaitant être inscrite sur la liste des experts en automobile doit en faire la demande par lettre
-recommandée avec avis de réception au secrétariat de la commission. La demande est accompagnée des pièces justificatives
-suivantes :
-
-1° Documents établissant l'état civil de l'intéressé ;
-
-2° Copie, suivant le cas, du brevet professionnel d'expert en automobile prévu par le décret n° 74-472 du 17 mai 1974 relatif
-aux experts en automobile ou du diplôme d'expert en automobile prévu par le décret n° 95-493 du 25 avril 1995 portant
-création et règlement général du diplôme d'expert en automobile ou copie de la reconnaissance de la qualité d'expert en
-automobile délivrée par application du décret n° 74-472 du 17 mai 1974 précité ;
-
-3° Déclaration sur l'honneur suivant laquelle le demandeur affirme ne pas détenir de charge d'officier public ou ministériel
-ni exercer une activité incompatible avec la qualité d'expert en automobile conformément aux dispositions de l'article L.
-326-6. La commission peut, en outre, demander à l'intéressé de fournir tout document ou renseignement nécessaire, notamment
-le contrat de travail s'il s'agit d'un expert salarié, afin de lui permettre de vérifier que la condition d'indépendance est
-remplie ;
-
-4° Document justificatif de l'assurance obligatoire prévue par l'article L. 326-7 ;
-
-5° Extrait du bulletin n° 3 du casier judiciaire, accompagné d'une déclaration sur l'honneur de l'intéressé selon laquelle il
-n'a fait l'objet d'aucune des condamnations pénales prévues aux articles L. 6 et L. 7 du code électoral (ou pour les
-ressortissants étrangers d'un document équivalent) et n'est pas sous le coup d'un jugement rendu en application de l'article
-L. 326-9 lui interdisant d'exercer l'activité d'expert en automobile ;
-
-6° Copie de l'attestation justifiant que le demandeur a suivi les formations prévues à l'article R. 327-20 lorsqu'il
-sollicite la reconnaissance de sa qualification pour le contrôle des véhicules gravement accidentés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°74-472 1974-05-17
-  - Décret n°95-493 1995-04-25
-  - Code électoral - art. L6 (M)
-  - Code électoral - art. L7 (Ab)
-  - Code de la route. - art. L326-6 (M)
-  - Code de la route. - art. L326-7 (M)
-  - Code de la route. - art. L326-9 (M)
-  - Code de la route. - art. R327-20 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°97-813 du 27 août 1997 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-536 du 20 juin 2003 - art. 16 () JORF 22 juin 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-_Cité par_:
-
-  - Code de la route. - art. R327-14 (Ab)
-
-
-###### Article R327-13
-
-Les experts inscrits sur la liste sont tenus de signaler à la commission, dans les trente jours, tous les événements pouvant
-avoir des conséquences sur leur inscription, notamment les changements de lieu d'exercice professionnel, les cessations
-temporaires ou définitives d'activité ainsi que toute circonstance ou activité nouvelle incompatible avec l'activité d'expert
-en automobile.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-813 du 27 août 1997 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-
-###### Article R327-14
-
-La commission réinscrit sur la liste établie pour l'année à venir les experts inscrits sur la liste de l'année en cours et
-qui continuent de remplir les conditions pour demeurer inscrits. Elle peut demander aux intéressés tout renseignement ou
-document nécessaire à la vérification de ces conditions. Si la commission décide de ne pas réinscrire un expert, elle ne peut
-le faire qu'après en avoir notifié le motif à l'intéressé et lui avoir imparti un délai pour présenter ses observations.
-
-La commission procède en cours d'exercice à la suspension ou à la radiation d'un expert qui ne remplit plus les conditions
-correspondant aux justifications exigées à l'article R. 327-12, en respectant la procédure prévue à l'alinéa ci-dessus.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-813 du 27 août 1997 - art. 9 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-_Cite_:
-
-  - Code de la route. - art. R327-12 (M)
-
-
-###### Article R327-15
-
-En cas de faute ou de manquement par un expert aux conditions d'exercice de son activité, la commission peut prononcer l'une
-des sanctions suivantes : un avertissement, un blâme, la suspension ou la radiation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-813 du 27 août 1997 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-
-###### Article R327-16
-
-La procédure disciplinaire est engagée à l'initiative des ministres mentionnés à l'article R. 327-7, des préfets, du
-procureur de la République, ou du président de la commission agissant d'office ou sur plainte d'un tiers.
-
-Le président désigne pour chaque affaire un rapporteur, fonctionnaire de catégorie A non membre de la commission, après
-accord du ministre dont il dépend.
-
-Le rapporteur peut entendre l'intéressé et éventuellement la personne dont la plainte est à l'origine de la procédure
-engagée. Le rapporteur doit respecter le caractère contradictoire de la procédure. Il consigne le résultat de ses auditions
-par écrit.
-
-Le président peut décider de ne pas donner suite aux plaintes qui lui sont adressées. Dans ce cas, il en informe l'auteur de
-la plainte.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-813 du 27 août 1997 - art. 11 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-_Cite_:
-
-  - Code de la route. - art. R327-7 (M)
-
-
-###### Article R327-17
-
-Les griefs formulés à l'encontre de l'expert lui sont notifiés par lettre recommandée du président de la commission avec avis
-de réception ou remise contre récépissé. L'expert mis en cause est informé, lors de la notification des griefs, qu'il peut
-prendre connaissance et copie, en personne ou par mandataire, des pièces du dossier qui sera soumis à la commission. Il est
-également informé de la possibilité de se faire assister d'un défenseur et du délai dont il dispose pour présenter des
-observations écrites, délai qui ne peut être inférieur à quinze jours.
-
-L'expert mis en cause et, le cas échéant, son défenseur sont convoqués quinze jours au moins avant la réunion de la
-commission, par lettre recommandée avec avis de réception ou remise contre récépissé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-813 du 27 août 1997 - art. 12 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-
-###### Article R327-18
-
-Le président dirige les débats. La commission entend l'expert mis en cause et, le cas échéant, son défenseur. La commission
-peut en outre, à la demande du président, entendre toute personne dont l'audition apparaît utile.
-
-La réunion de la commission n'est pas publique, sauf si l'expert mis en cause en fait la demande. Le rapporteur présente
-l'affaire. La décision de la commission est délibérée en la seule présence des membres de la commission, du rapporteur et de
-la personne qui assure le secrétariat. Ces deux dernières personnes ne prennent pas part au vote.
-
-La décision est signée par le président et le secrétaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-813 du 27 août 1997 - art. 13 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-
-###### Article R327-19
-
-La décision de la commission est notifiée à l'expert mis en cause. La notification indique que la décision de la commission
-peut faire l'objet d'un recours en excès de pouvoir devant la juridiction administrative compétente. Les décisions de
-suspension ou de radiation sont publiées au Bulletin officiel du ministère chargé des transports.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-813 du 27 août 1997 - art. 14 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-
-###### Article R327-20
-
-Sont qualifiés dans le contrôle des véhicules gravement accidentés, au sens de la section 1 du chapitre VI du présent titre,
-les experts en automobile qui justifient d'une formation initiale et d'une formation continue au contrôle des véhicules
-gravement accidentés dispensées dans les conditions définies par un arrêté conjoint du ministre chargé de l'éducation
-nationale et du ministre chargé des transports.
-
-Il est fait mention de cette qualification dans la liste nationale des experts en automobile établie par la commission
-nationale chargée d'arrêter cette liste.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-_Anciens textes_:
-
-  - Code de la route - art. R294-5 (Ab)
-  - Code de la route R294-5
-
-_Cité par_:
-
-  - Code de la route. - art. R327-12 (Ab)
-  - Code de la route. - art. R342-5 (M)
-
-
-### Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules.<a id=154></a>
+### Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules.<a id=156></a>
 
 ###### Article R330-1
 
@@ -26764,9 +26772,9 @@ _Nouveaux textes_:
   - Code de la route. - art. R330-6 (V)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=155></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=157></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=156></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=158></a>
 
 ###### Article R341-1
 
@@ -26788,7 +26796,7 @@ _Codifié par_:
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=157></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=159></a>
 
 ###### Article R342-1
 
@@ -26940,10 +26948,10 @@ _Cite_:
 
 ###### Article R342-5
 
-Pour son application à Mayotte, l'article R. 327-20 est rédigé comme suit :
+Pour son application à Mayotte, l'article R. 326-17 est rédigé comme suit : 
 
-"Art. R. 327-20 : Le représentant de l'Etat détermine les conditions que doivent remplir les experts pour être inscrits sur
-les listes d'aptitude prévues au premier alinéa de l'article R. 326-2."
+" Art. R. 326-17 : Le représentant de l'Etat détermine les conditions que doivent remplir les experts pour être inscrits sur
+les listes d'aptitude prévues au premier alinéa de l'article R. 326-2. "
 
 **Liens relatifs à cet article**
 
@@ -26956,19 +26964,18 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+  - Décret n°2006-1808 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
 
 _Cite_:
 
-  - Code de la route. - art. R326-2 (M)
-  - Code de la route. - art. R327-20 (Ab)
+  - Code de la route. - art. R326-17 (Ab)
 
 
-#### Chapitre III : Dispositions applicables à la Polynésie française<a id=158></a>
+#### Chapitre III : Dispositions applicables à la Polynésie française<a id=160></a>
 
-##### Section 1 : Dispositions générales.<a id=159></a>
+##### Section 1 : Dispositions générales.<a id=161></a>
 
 ###### Article R343-1
 
@@ -27000,7 +27007,7 @@ _Cite_:
   - Code de la route. - art. R325-1 (M)
 
 
-##### Section 2 : Immobilisation.<a id=160></a>
+##### Section 2 : Immobilisation.<a id=162></a>
 
 ###### Article R343-2
 
@@ -27168,7 +27175,7 @@ _Cité par_:
   - Code de la route. - art. R343-2 (M)
 
 
-##### Section 3 : Fourrière.<a id=161></a>
+##### Section 3 : Fourrière.<a id=163></a>
 
 ###### Article R343-4
 
@@ -27563,13 +27570,13 @@ _Cite_:
   - Code de la route. - art. R325-9 (M)
 
 
-## Livre IV : L'usage des voies.<a id=162></a>
+## Livre IV : L'usage des voies.<a id=164></a>
 
-### Titre Ier : Dispositions générales.<a id=163></a>
+### Titre Ier : Dispositions générales.<a id=165></a>
 
-#### Chapitre Ier : Pouvoirs de police de la circulation<a id=164></a>
+#### Chapitre Ier : Pouvoirs de police de la circulation<a id=166></a>
 
-##### Section 1 : Pouvoirs généraux de police.<a id=165></a>
+##### Section 1 : Pouvoirs généraux de police.<a id=167></a>
 
 ###### Article R411-1
 
@@ -27900,7 +27907,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Commission départementale de la sécurité routière.<a id=166></a>
+##### Section 2 : Commission départementale de la sécurité routière.<a id=168></a>
 
 ###### Article R411-10
 
@@ -28006,7 +28013,7 @@ _Cite_:
   - Code de la route. - art. R411-11 (M)
 
 
-##### Section 3 : Interdictions et restrictions de circulation.<a id=167></a>
+##### Section 3 : Interdictions et restrictions de circulation.<a id=169></a>
 
 ###### Article R411-18
 
@@ -28329,7 +28336,7 @@ _Cité par_:
   - Code de la route. - art. R442-6 (V)
 
 
-##### Section 4 : Signalisation routière.<a id=168></a>
+##### Section 4 : Signalisation routière.<a id=170></a>
 
 ###### Article R411-25
 
@@ -28465,7 +28472,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 5 : Courses et épreuves sportives.<a id=169></a>
+##### Section 5 : Courses et épreuves sportives.<a id=171></a>
 
 ###### Article R411-29
 
@@ -28602,9 +28609,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=170></a>
+#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=172></a>
 
-##### Section 1 : Equipements des utilisateurs de véhicules.<a id=171></a>
+##### Section 1 : Equipements des utilisateurs de véhicules.<a id=173></a>
 
 ###### Article R412-1
 
@@ -28835,7 +28842,7 @@ _Cite_:
   - Code de la route. - art. R412-1 (V)
 
 
-##### Section 2 : Principes généraux de circulation.<a id=172></a>
+##### Section 2 : Principes généraux de circulation.<a id=174></a>
 
 ###### Article R412-6
 
@@ -29340,7 +29347,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Matérialisation des voies de circulation.<a id=173></a>
+##### Section 3 : Matérialisation des voies de circulation.<a id=175></a>
 
 ###### Article R412-18
 
@@ -29589,7 +29596,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 4 : Sens de circulation.<a id=174></a>
+##### Section 4 : Sens de circulation.<a id=176></a>
 
 ###### Article R412-26
 
@@ -29682,7 +29689,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 5 : Feux de signalisation lumineux.<a id=175></a>
+##### Section 5 : Feux de signalisation lumineux.<a id=177></a>
 
 ###### Article R412-29
 
@@ -29840,7 +29847,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 6 : Circulation des piétons.<a id=176></a>
+##### Section 6 : Circulation des piétons.<a id=178></a>
 
 ###### Article R412-34
 
@@ -30162,7 +30169,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=177></a>
+##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=179></a>
 
 ###### Article R412-44
 
@@ -30356,7 +30363,7 @@ _Anciens textes_:
   - Code de la route R223, R233 (al. 1 et 2)
 
 
-##### Section 8 : Troubles à la circulation.<a id=178></a>
+##### Section 8 : Troubles à la circulation.<a id=180></a>
 
 ###### Article R412-51
 
@@ -30424,9 +30431,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Vitesse<a id=179></a>
+#### Chapitre III : Vitesse<a id=181></a>
 
-##### Section 1 : Vitesses maximales autorisées.<a id=180></a>
+##### Section 1 : Vitesses maximales autorisées.<a id=182></a>
 
 ###### Article R413-1
 
@@ -30675,15 +30682,14 @@ _Codifié par_:
 ###### Article R413-8
 
 La vitesse des véhicules dont le poids total autorisé en charge est supérieur à 3,5 tonnes ou des ensembles de véhicules dont
-le poids total roulant autorisé est supérieur à 3,5 tonnes  à l'exception des véhicules de transport en commun, est limitée
+le poids total roulant autorisé est supérieur à 3,5 tonnes, à l'exception des véhicules de transport en commun, est limitée
 à :
 
-1° 110 km/h pour les véhicules dont le poids total est inférieur ou égal à 12 tonnes et à 90 km/h pour ceux dont le poids
-total est supérieur à 12 tonnes, sur les autoroutes ;
+1° 90 km/h sur les autoroutes ;
 
 2° 80 km/h sur les routes à caractère prioritaire et signalées comme telles. Toutefois, cette vitesse maximale est relevée à
-100 km/h pour les véhicules dont le poids total est inférieur ou égal à 12 tonnes sur les routes à deux chaussées séparées
-par un terre-plein central ;
+90 km/h pour les véhicules dont le poids total est inférieur ou égal à 12 tonnes sur les routes à deux chaussées séparées par
+un terre-plein central ;
 
 3° 80 km/h sur les autres routes. Toutefois, cette vitesse maximale est abaissée à 60 km/h pour les véhicules articulés ou
 avec remorque dont le poids total est supérieur à 12 tonnes.
@@ -30698,7 +30704,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-536 du 20 juin 2003 - art. 17 () JORF 22 juin 2003
+  - Décret n°2006-1812 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -30709,6 +30715,31 @@ _Anciens textes_:
 
   - Code de la route - art. R10-1 (Ab)
   - Code de la route R10-1
+
+
+###### Article R413-8-1
+
+Toutefois, la vitesse des véhicules visés à l'article R. 413-8 qui sont destinés au transport de personnes et dont le poids
+total autorisé en charge est supérieur à 3,5 tonnes et inférieur ou égal à 12 tonnes, ou des ensembles de véhicules visés au
+même article dont le poids total autorisé en charge du véhicule tracteur est inférieur ou égal à 3,5 tonnes et le poids total
+roulant autorisé supérieur à 3,5 tonnes et inférieur ou égal à 12 tonnes, est limitée à :
+
+1° 110 km/h sur les autoroutes ;
+
+2° 100 km/h sur les routes à deux chaussées séparées par un terre-plein central lorsqu'elles sont à caractère prioritaire et
+signalées comme telles ;
+
+3° 80 km/h sur les autres routes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2006-1812 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
 
 
 ###### Article R413-9
@@ -30749,9 +30780,14 @@ _Anciens textes_:
 
 ###### Article R413-10
 
-Hors agglomération, la vitesse des véhicules de transport en commun, dont le poids total excède 10 tonnes, est limitée à 90
-km/h. Toutefois, cette vitesse maximale est relevée à 100 km/h sur les autoroutes pour les véhicules possédant des
-caractéristiques techniques particulières définies par arrêté du ministre chargé des transports.
+Hors agglomération, la vitesse des véhicules de transport en commun est limitée à 90 km/h. Toutefois, cette vitesse maximale
+est relevée à 100 km/h :
+
+1° Sur les autoroutes pour les véhicules dont le poids total est supérieur à 10 tonnes et possédant des caractéristiques
+techniques particulières définies par arrêté du ministre chargé des transports ;
+
+2° Sur les autoroutes et les routes à chaussées séparées par un terre-plein central pour les véhicules dont le poids est
+inférieur ou égal à 10 tonnes.
 
 **Liens relatifs à cet article**
 
@@ -30764,15 +30800,14 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2006-1812 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
+
 _Anciens textes_:
 
   - Code de la route - art. R10-3 (Ab)
   - Code de la route R10-3
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R413-11
@@ -31062,7 +31097,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Maîtrise de la vitesse.<a id=181></a>
+##### Section 2 : Maîtrise de la vitesse.<a id=183></a>
 
 ###### Article R413-17
 
@@ -31186,9 +31221,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre IV : Croisement et dépassement<a id=182></a>
+#### Chapitre IV : Croisement et dépassement<a id=184></a>
 
-##### Section 1 : Croisement.<a id=183></a>
+##### Section 1 : Croisement.<a id=185></a>
 
 ###### Article R414-1
 
@@ -31294,7 +31329,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Dépassement.<a id=184></a>
+##### Section 2 : Dépassement.<a id=186></a>
 
 ###### Article R414-4
 
@@ -31816,7 +31851,7 @@ _Cité par_:
   - Code de la route. - art. R442-2 (V)
 
 
-#### Chapitre V : Intersections et priorité de passage.<a id=185></a>
+#### Chapitre V : Intersections et priorité de passage.<a id=187></a>
 
 ###### Article R415-1
 
@@ -32362,9 +32397,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=186></a>
+#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=188></a>
 
-##### Section 1 : Emploi des avertisseurs.<a id=187></a>
+##### Section 1 : Emploi des avertisseurs.<a id=189></a>
 
 ###### Article R416-1
 
@@ -32448,7 +32483,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=188></a>
+##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=190></a>
 
 ###### Article R416-4
 
@@ -32871,7 +32906,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres dispositions.<a id=189></a>
+##### Section 3 : Autres dispositions.<a id=191></a>
 
 ###### Article R416-17
 
@@ -33015,9 +33050,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VII : Arrêt et stationnement<a id=190></a>
+#### Chapitre VII : Arrêt et stationnement<a id=192></a>
 
-##### Section 1 : Dispositions générales.<a id=191></a>
+##### Section 1 : Dispositions générales.<a id=193></a>
 
 ###### Article R417-1
 
@@ -33289,7 +33324,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=192></a>
+##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=194></a>
 
 ###### Article R417-9
 
@@ -33562,7 +33597,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=193></a>
+#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=195></a>
 
 ###### Article R418-1
 
@@ -33864,9 +33899,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=194></a>
+### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=196></a>
 
-#### Chapitre Ier : Autoroutes.<a id=195></a>
+#### Chapitre Ier : Autoroutes.<a id=197></a>
 
 ###### Article R421-1
 
@@ -34217,7 +34252,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=196></a>
+#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=198></a>
 
 ###### Article R422-1
 
@@ -34392,9 +34427,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=197></a>
+### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=199></a>
 
-#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=198></a>
+#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=200></a>
 
 ###### Article R431-1
 
@@ -34771,9 +34806,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Véhicules d'intérêt général<a id=199></a>
+#### Chapitre II : Véhicules d'intérêt général<a id=201></a>
 
-##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=200></a>
+##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=202></a>
 
 ###### Article R432-1
 
@@ -35024,7 +35059,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R442-7 (V)
 
 
-##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=201></a>
+##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=203></a>
 
 ###### Article R432-2
 
@@ -35348,7 +35383,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres véhicules d'intérêt général.<a id=202></a>
+##### Section 3 : Autres véhicules d'intérêt général.<a id=204></a>
 
 ###### Article R432-5
 
@@ -35456,9 +35491,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=203></a>
+#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=205></a>
 
-##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=204></a>
+##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=206></a>
 
 ###### Article R433-1
 
@@ -35781,7 +35816,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Transports exceptionnels de personnes.<a id=205></a>
+##### Section 2 : Transports exceptionnels de personnes.<a id=207></a>
 
 ###### Article R433-7
 
@@ -35833,7 +35868,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=206></a>
+##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=208></a>
 
 ###### Article R433-8
 
@@ -35880,7 +35915,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre IV : Convois et véhicules à traction animale.<a id=207></a>
+#### Chapitre IV : Convois et véhicules à traction animale.<a id=209></a>
 
 ###### Article R434-1
 
@@ -36013,9 +36048,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre V : Autres véhicules<a id=208></a>
+#### Chapitre V : Autres véhicules<a id=210></a>
 
-##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=209></a>
+##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=211></a>
 
 ###### Article R435-1
 
@@ -36061,7 +36096,7 @@ _Cite_:
   - Code de la route L325-1 à L325-3
 
 
-##### Section 2 : Ensembles forains<a id=210></a>
+##### Section 2 : Ensembles forains<a id=212></a>
 
 ###### Article R436-1
 
@@ -36108,9 +36143,9 @@ _Nouveaux textes_:
   - Code de la route. - art. R435-3 (V)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=211></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=213></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=212></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=214></a>
 
 ###### Article R441-1
 
@@ -36240,7 +36275,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=213></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=215></a>
 
 ###### Article R442-1
 
