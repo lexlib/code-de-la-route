@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-25
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -14192,6 +14192,18 @@ Des arrêtés conjoints selon le cas soit du ministre de l'intérieur et du mini
 l'intérieur et du ministre de la défense définissent les modalités techniques et financières de l'accès à ces informations
 ouvert par voie téléinformatique aux autorités judiciaires et aux militaires de la gendarmerie.
 
+Peuvent en outre accéder aux données mentionnées à l'article L. 225-4, dans les conditions fixées aux articles 9 et 33 de la
+loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la
+sécurité et aux contrôles transfrontaliers :
+
+- les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie
+nationale chargés des missions de prévention et de répression des actes de terrorisme ;
+
+- les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de
+terrorisme.
+
+Les dispositions prévues aux troisième, quatrième et cinquième alinéas sont applicables jusqu'au 31 décembre 2008.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -14206,19 +14218,20 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Cite_:
+
+  - Loi n°2006-64 2006-01-23 art. 9, art. 33
+  - Code de la route. - art. L225-4 (V)
+  - Code de la route. - art. L225-5 (M)
+
 _Modifié par_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Décret n°2007-86 du 23 janvier 2007 - art. 1 () JORF 25 janvier 2007
 
 _Anciens textes_:
 
   - Code de la route - art. R247-4 (Ab)
   - Code de la route R247-4
-
-_Cite_:
-
-  - Code de la route. - art. L225-4 (V)
-  - Code de la route. - art. L225-5 (M)
 
 
 ###### Article R225-5
@@ -26755,15 +26768,33 @@ de la défense et du ministre de l'intérieur, soit du ministre chargé de l'ind
 les modalités de l'accès à ces informations ouvert par voie téléinformatique aux services du ministre chargé des transports
 et du ministre chargé de l'industrie et aux militaires de la gendarmerie.
 
+Peuvent également accéder aux données mentionnées à l'article L. 330-2 du code de la route dans les conditions fixées aux
+articles 9 et 33 de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions
+diverses relatives à la sécurité et aux contrôles transfrontaliers :
+
+- les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie
+nationale chargés des missions de prévention et de répression des actes de terrorisme ;
+
+- les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de
+terrorisme.
+
+Les dispositions prévues aux troisième, quatrième et cinquième alinéas sont applicables jusqu'au 31 décembre 2008.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Cite_:
+
+  - Loi n°2006-64 2006-01-23 art. 9, art. 33
+  - Code de la route. - art. L330-2 (M)
+  - Code de la route. - art. L330-3 (V)
+
 _Modifié par_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Décret n°2007-86 du 23 janvier 2007 - art. 2 () JORF 25 janvier 2007
 
 _Cité par_:
 
@@ -26776,11 +26807,6 @@ _Anciens textes_:
 
   - Code de la route - art. R247-7 (Ab)
   - Code de la route R247-7
-
-_Cite_:
-
-  - Code de la route. - art. L330-2 (M)
-  - Code de la route. - art. L330-3 (V)
 
 
 ###### Article R330-3
