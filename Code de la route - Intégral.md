@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2007-01-25
+Version Consolidée au 2007-03-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -32795,11 +32795,10 @@ _Anciens textes_:
 
 ###### Article R416-17
 
-De jour, les motocyclettes, à l'exception des motocyclettes légères, doivent circuler avec le ou leurs feux de croisement
-allumés.
+De jour, les motocyclettes et les cyclomoteurs doivent circuler avec le ou leurs feux de croisement allumés.
 
 Le ministre chargé des transports fixe les conditions d'application du présent article et peut prévoir des dérogations pour
-des raisons professionnelles ou pour les motocyclettes équipées d'émetteurs radio.
+les véhicules dont les caractéristiques interdisent l'utilisation permanente des feux de croisement.
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article ou à celles prises pour son application est
 puni de l'amende prévue pour les contraventions de la deuxième classe.
@@ -32815,11 +32814,14 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2007-271 du 27 février 2007 - art. 1 () JORF 1er mars 2007
+
 _Anciens textes_:
 
   - Code de la route - art. R233 (Ab)
   - Code de la route - art. R40-2 (Ab)
-  - Code de la route R40-2, R233 (al. 6)
 
 **Liens**:
 
