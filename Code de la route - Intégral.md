@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2007-03-01
+Version Consolidée au 2007-03-07
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -584,6 +584,47 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L130-4 (V)
+
+
+###### Article L121-4-1
+
+Lorsqu'un avis d'amende forfaitaire majorée concernant une contravention mentionnée à l'article L. 121-3 a été adressé par
+lettre recommandée au titulaire du certificat d'immatriculation ne pouvant justifier d'un domicile sur le territoire français
+et qu'il n'a pas été procédé, dans le délai de quatre mois à compter de sa date d'envoi, au paiement de l'amende ou à la
+réclamation prévue par l'article 530 du code de procédure pénale, le véhicule ayant servi à commettre l'infraction peut, en
+cas d'interception du véhicule conduit par ce titulaire, être retenu jusqu'à ce que celui-ci verse le montant de l'amende due
+aux agents mentionnés à l'article L. 121-4. Il en est de même si le véhicule est conduit par un préposé du titulaire du
+certificat d'immatriculation ou par le représentant de ce titulaire s'il s'agit d'une personne morale. 
+
+Le véhicule peut être mis en fourrière si ce versement n'est pas fait par l'intéressé et les frais en résultant sont mis à la
+charge de celui-ci. 
+
+La personne est informée qu'elle peut demander que le procureur de la République du lieu de l'interception soit avisé de
+l'application du présent article. 
+
+Pour l'application du présent article, est considérée comme le titulaire du certificat d'immatriculation la personne dont
+l'identité figure sur un document équivalent délivré par les autorités étrangères compétentes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Créé par_:
+
+  - Loi n°2007-297 du 5 mars 2007 - art. 21 () JORF 7 mars 2007
+
+_Cite_:
+
+  - Code de procédure pénale - art. 530 (V)
+  - Code de la route. - art. L121-3 (VT)
+  - Code de la route. - art. L121-4 (V)
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L233-1-1 (V)
 
 
 ###### Article L121-5
@@ -2376,36 +2417,36 @@ _Anciens textes_:
 
 ###### Article L223-5
 
-I. - En cas de retrait de la totalité des points, l'intéressé reçoit de l'autorité administrative l'injonction de remettre
-son permis de conduire au préfet de son département de résidence et perd le droit de conduire un véhicule.
+I.-En cas de retrait de la totalité des points, l'intéressé reçoit de l'autorité administrative l'injonction de remettre son
+permis de conduire au préfet de son département de résidence et perd le droit de conduire un véhicule. 
 
-II. - Il ne peut solliciter un nouveau permis de conduire avant l'expiration d'un délai de six mois à compter de la date de
-remise de son permis au préfet et sous réserve d'être reconnu apte après un examen ou une analyse médical, clinique,
-biologique et psychotechnique effectué à ses frais. Ce délai est porté à un an lorsqu'un nouveau retrait de la totalité des
-points intervient dans un délai de cinq ans suivant le précédent.
+II.-Il ne peut obtenir un nouveau permis de conduire avant l'expiration d'un délai de six mois à compter de la date de remise
+de son permis au préfet et sous réserve d'être reconnu apte après un examen ou une analyse médical, clinique, biologique et
+psychotechnique effectué à ses frais. Ce délai est porté à un an lorsqu'un nouveau retrait de la totalité des points
+intervient dans un délai de cinq ans suivant le précédent. 
 
-III. - Le fait de refuser de se soumettre à l'injonction prévue au premier alinéa du présent article est puni de deux ans
-d'emprisonnement et de 4 500 euros d'amende.
+III.-Le fait de refuser de se soumettre à l'injonction prévue au premier alinéa du présent article est puni de deux ans
+d'emprisonnement et de 4 500 euros d'amende. 
 
-IV. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
+IV.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
 
 1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
-conduite en dehors de l'activité professionnelle ;
+conduite en dehors de l'activité professionnelle ; 
 
 2° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+l'enfance délinquante ; 
 
-3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
+3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
 
 4° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
-conduire n'est pas exigé, pour une durée de cinq ans au plus ;
+conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
 
-5° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
+5° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
 
-6° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire.
+6° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire. 
 
-V. - Le fait pour toute personne de conduire un véhicule à moteur pour la conduite duquel le permis est nécessaire, malgré
+V.-Le fait pour toute personne de conduire un véhicule à moteur pour la conduite duquel le permis est nécessaire, malgré
 l'injonction qui lui a été faite de remettre son permis de conduire conformément au I, est puni des peines prévues aux III et
 IV.
 
@@ -2413,11 +2454,10 @@ IV.
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (M)
-  - Code pénal - art. 131-25 (M)
-  - Code pénal - art. 131-5 (M)
-  - Code pénal - art. 131-8 (M)
-  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
+  - Code pénal - art. 131-22 (V)
+  - Code pénal - art. 131-5 (V)
+  - Code pénal - art. 131-8 (V)
 
 _Cité par_:
 
@@ -2448,10 +2488,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 12 () JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 13 () JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 15 () JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V)
 
 _Anciens textes_:
 
@@ -2463,11 +2500,6 @@ _Anciens textes_:
   - Code de la route - art. L19 (Ab)
   - Code de la route L1-1 (al. 2), L1-2, L11-1 (al. 1 et 2), L11-5, L14 (al. 1 et 2), L19 (al. 4)
 
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
 
 ###### Article L223-6
 
@@ -2476,15 +2508,28 @@ dernière amende forfaitaire, de l'émission du titre exécutoire de la dernièr
 la dernière composition pénale ou de la dernière condamnation définitive, une nouvelle infraction ayant donné lieu au retrait
 de points, son permis est affecté du nombre maximal de points.
 
+Toutefois, en cas de commission d'une infraction ayant entraîné le retrait d'un point, ce point est réattribué au terme du
+délai d'un an à compter de la date mentionnée à l'alinéa précédent, si le titulaire du permis de conduire n'a pas commis,
+dans cet intervalle, une infraction ayant donné lieu à un nouveau retrait de points.
+
 Le titulaire du permis de conduire qui a commis une infraction ayant donné lieu à retrait de points peut obtenir une
 récupération de points s'il suit un stage de sensibilisation à la sécurité routière. Lorsque le titulaire du permis de
 conduire a commis une infraction ayant donné lieu à un retrait de points égal ou supérieur au quart du nombre maximal de
 points et qu'il se trouve dans la période du délai probatoire défini à l'article L. 223-1, il doit se soumettre à cette
 formation spécifique qui se substitue à l'amende sanctionnant l'infraction.
 
-Sans préjudice de l'application des deux premiers alinéas du présent article, les points retirés du fait de contraventions
-passibles d'une amende forfaitaire sont réattribués au titulaire du permis de conduire à l'expiration d'un délai de dix ans à
-compter de la date à laquelle la condamnation est devenue définitive ou du paiement de l'amende forfaitaire correspondante.
+Sans préjudice de l'application des trois premiers alinéas du présent article, les points retirés du fait de contraventions
+des quatre premières classes au présent code sont réattribués au titulaire du permis de conduire à l'expiration d'un délai de
+dix ans à compter de la date à laquelle la condamnation est devenue définitive ou du paiement de l'amende forfaitaire
+correspondante.
+
+**Nota:**
+
+Loi n° 2007-297 du 5 mars 2007, art. 23 VIII : 
+
+Ces dispositions s'appliquent aux infractions commises à compter du 1er janvier 2007 et aux infractions antérieures pour
+lesquelles le paiement de l'amende forfaitaire, l'émission du titre exécutoire de l'amende majorée, l'exécution de la
+composition pénale ou la condamnation définitive ne sont pas intervenus.
 
 **Liens relatifs à cet article**
 
@@ -2520,8 +2565,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 11 (V) JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 14 () JORF 13 juin 2003
+  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V)
 
 _Anciens textes_:
 
@@ -4825,49 +4869,50 @@ _Codifié par_:
 
 ###### Article L235-1
 
-I. - Toute personne qui conduit un véhicule ou qui accompagne un élève conducteur alors qu'il résulte d'une analyse sanguine
+I.-Toute personne qui conduit un véhicule ou qui accompagne un élève conducteur alors qu'il résulte d'une analyse sanguine
 qu'elle a fait usage de substances ou plantes classées comme stupéfiants est punie de deux ans d'emprisonnement et de 4 500
-euros d'amende.
+euros d'amende. 
 
 Si la personne se trouvait également sous l'empire d'un état alcoolique caractérisé par une concentration d'alcool dans le
 sang ou dans l'air expiré égale ou supérieure aux taux fixés par les dispositions législatives ou réglementaires du présent
-code, les peines sont portées à trois ans d'emprisonnement et 9 000 euros d'amende.
+code, les peines sont portées à trois ans d'emprisonnement et 9 000 euros d'amende. 
 
-II. - Toute personne coupable des délits prévus par le présent article encourt également les peines complémentaires
-suivantes :
+II.-Toute personne coupable des délits prévus par le présent article encourt également les peines complémentaires
+suivantes : 
 
 1° La suspension pour une durée de trois ans au plus du permis de conduire ; cette suspension ne peut pas être limitée à la
-conduite en dehors de l'activité professionnelle ; elle ne peut être assortie du sursis, même partiellement ;
+conduite en dehors de l'activité professionnelle ; elle ne peut être assortie du sursis, même partiellement ; 
 
 2° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
-plus ;
+plus ; 
 
 3° La peine de travail d'intérêt général selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+l'enfance délinquante ; 
 
-4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ;
+4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
 
 5° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
-conduire n'est pas exigé, pour une durée de cinq ans au plus ;
+conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
 
-6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière.
+6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
 
-III. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation aux dangers de l'usage de produits stupéfiants. 
 
-IV. - Les délits prévus par le présent article donnent lieu de plein droit à la réduction de la moitié du nombre maximal de
+III.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
+
+IV.-Les délits prévus par le présent article donnent lieu de plein droit à la réduction de la moitié du nombre maximal de
 points du permis de conduire.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (M)
-  - Code pénal - art. 131-25 (M)
-  - Code pénal - art. 131-5 (M)
-  - Code pénal - art. 131-8 (M)
-  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25
-  - Code de la route L325-1 à L325-3
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
+  - Code pénal - art. 131-25 (V)
+  - Code pénal - art. 131-5 (V)
+  - Code pénal - art. 131-8 (V)
+  - Code de la route. - art. L325-1 (V)
 
 _Cité par_:
 
@@ -4897,18 +4942,9 @@ _Codifié par_:
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1062 2001-11-15 art. 71 I : application à Mayotte
-  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 11 (V) JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
 
 _Anciens textes_:
 
@@ -4980,40 +5016,42 @@ _Cité par_:
 
 ###### Article L235-3
 
-I. - Le fait de refuser de se soumettre aux vérifications prévues par l'article L. 235-2 est puni de deux ans
-d'emprisonnement et de 4 500 Euros d'amende.
+I.-Le fait de refuser de se soumettre aux vérifications prévues par l'article L. 235-2 est puni de deux ans d'emprisonnement
+et de 4 500 euros d'amende. 
 
-II. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
+II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
 
 1° La suspension pour une durée de trois ans au plus du permis de conduire ; cette suspension ne peut pas être limitée à la
-conduite en dehors de l'activité professionnelle ; elle ne peut être assortie du sursis, même partiellement ;
+conduite en dehors de l'activité professionnelle ; elle ne peut être assortie du sursis, même partiellement ; 
 
 2° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
-plus ;
+plus ; 
 
 3° La peine de travail d'intérêt général selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+l'enfance délinquante ; 
 
-4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ;
+4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
 
 5° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
-conduire n'est pas exigé, pour une durée de cinq ans au plus ;
+conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
 
-6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière.
+6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
 
-III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
+7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation aux dangers de l'usage de produits stupéfiants. 
+
+III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (M)
-  - Code pénal - art. 131-25 (M)
-  - Code pénal - art. 131-5 (M)
-  - Code pénal - art. 131-8 (M)
-  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25
-  - Code de la route. - art. L235-2 (M)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
+  - Code pénal - art. 131-24 (V)
+  - Code pénal - art. 131-25 (V)
+  - Code pénal - art. 131-5 (V)
+  - Code pénal - art. 131-8 (V)
+  - Code de la route. - art. L235-2 (V)
 
 _Cité par_:
 
@@ -5037,15 +5075,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 11 (V) JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
-
-**Liens**:
-
-  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
 
 
 ###### Article L235-4
@@ -6090,7 +6120,9 @@ _Cite_:
 
 Le fait d'importer, d'exposer, d'offrir, de mettre en vente, de vendre, de proposer à la location ou d'inciter à acheter ou à
 utiliser un cyclomoteur, une motocyclette ou un quadricycle à moteur qui n'a pas fait l'objet d'une réception ou qui n'est
-plus conforme à celle-ci est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. Le véhicule peut être saisi.
+plus conforme à celle-ci est puni de six mois d'emprisonnement et de 7 500 euros d'amende. Lorsque cette infraction est
+commise par un professionnel, elle est punie de deux ans d'emprisonnement et de 30 000 euros d'amende. Le véhicule peut être
+saisi.
 
 Un décret détermine les conditions dans lesquelles il peut être dérogé aux dispositions du présent article pour tout véhicule
 destiné à participer à une course ou épreuve sportive.
@@ -6102,9 +6134,9 @@ _Codifié par_:
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-10 du 5 janvier 2006 - art. 11 (V)
+  - Loi n°2007-297 du 5 mars 2007 - art. 21 () JORF 7 mars 2007
 
 _Cité par_:
 
@@ -6114,6 +6146,46 @@ _Cité par_:
   - Code de la route. - art. L321-3 (V)
   - Code de la route. - art. L321-4 (V)
   - Code de la route. - art. R212-4 (V)
+
+
+###### Article L321-1-1
+
+Le fait de circuler sur les voies ouvertes à la circulation publique ou les lieux ouverts à la circulation publique ou au
+public avec un véhicule à deux roues à moteur, un tricycle à moteur ou un quadricycle à moteur non réceptionné est puni d'une
+contravention de la cinquième classe.
+
+La confiscation, l'immobilisation ou la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles L.
+325-1 à L. 325-9.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Créé par_:
+
+  - Loi n°2007-297 du 5 mars 2007 - art. 24 () JORF 7 mars 2007
+
+_Cité par_:
+
+  - Décret n°2008-1455 du 30 décembre 2008 - art. 1 (V)
+  - Décret n°2008-1455 du 30 décembre 2008 - art. 5 (V)
+  - Arrêté du 15 mai 2009 - art. 1 (V)
+  - Arrêté du 15 mai 2009 - art. 7 (V)
+  - Arrêté du 15 mai 2009 - art. 8 (V)
+  - Arrêté du 15 mai 2009 - art. 9 (V)
+  - Décret n°2009-719 du 17 juin 2009 - art. 2 (V)
+  - Décret n°2009-719  du 17 juin 2009 - art. 1 (V)
+  - Décret n°2009-911 du 27 juillet 2009 (V)
+  - Décret n°2009-911 du 27 juillet 2009 - art. 1 (V)
+  - Décret n°2010-44 du 12 janvier 2010 - art. 1 (V)
+  - Arrêté du 25 avril 2012 - art. Annexe 9 (V)
+  - Décret n°2017-1279 du 9 août 2017 (V)
+  - Code de la route. - art. L. 321-1-2 (V)
+  - Code de la route. - art. L. 321-5 (V)
+  - Code de la route. - art. L. 321-6 (V)
 
 
 ###### Article L321-2
@@ -6454,6 +6526,10 @@ le cas échéant, aliénés ou livrés à la destruction les véhicules qui, se 
 publique ou sur leurs dépendances, sont privés d'éléments indispensables à leur utilisation normale et insusceptibles de
 réparation immédiate à la suite de dégradations ou de vols.
 
+L'immobilisation des véhicules se trouvant dans l'une des situations prévues aux deux alinéas précédents peut également être
+décidée, dans la limite de leur champ de compétence, par les agents habilités à constater les infractions au présent code
+susceptibles d'entraîner une telle mesure.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -6579,7 +6655,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 24 () JORF 13 juin 2003
+  - Loi n°2007-297 du 5 mars 2007 - art. 24 () JORF 7 mars 2007
 
 _Anciens textes_:
 
@@ -6593,7 +6669,6 @@ _Cite_:
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de la route. - art. L343-1 (V)
-  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
 
 
 ###### Article L325-1-1
@@ -6910,8 +6985,8 @@ _Anciens textes_:
 
 ###### Article L325-7
 
-Sont réputés abandonnés les véhicules laissés en fourrière à l'expiration d'un délai de quarante-cinq jours à compter de la
-mise en demeure faite au propriétaire d'avoir à retirer son véhicule.
+Sont réputés abandonnés les véhicules laissés en fourrière à l'expiration d'un délai de trente jours à compter de la mise en
+demeure faite au propriétaire d'avoir à retirer son véhicule.
 
 La notification est valablement faite à l'adresse indiquée au fichier national des immatriculations. Dans le cas où le
 véhicule fait l'objet d'un gage régulièrement inscrit, cette notification est également faite au créancier gagiste.
@@ -6931,15 +7006,14 @@ _Codifié par_:
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
+_Modifié par_:
+
+  - Loi n°2007-297 du 5 mars 2007 - art. 21 () JORF 7 mars 2007
+
 _Anciens textes_:
 
   - Code de la route - art. L25-3 (Ab)
   - Code de la route L25-3
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. L318-4 (V)
-  - PILOTE_SUIVEUR: Code de la route. - art. L343-1 (V)
 
 _Cité par_:
 
@@ -6952,13 +7026,20 @@ _Cité par_:
   - Code de la route. - art. R343-4 (V)
   - Code de la route. - art. R344-4 (V)
 
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L343-1 (V)
+
 
 ###### Article L325-8
 
-Les véhicules abandonnés dans les conditions prévues au premier alinéa de l'article L. 325-7 sont remis au service des
-domaines en vue de leur aliénation dans les formes prévues pour les ventes du mobilier de l'Etat. Les véhicules qui n'ont pas
-trouvé preneur, à l'expiration d'un délai fixé par le représentant de l'Etat dans le département, sont livrés à la
-destruction sur l'initiative de l'autorité administrative investie des pouvoirs de police en matière de circulation.
+I.-L'autorité dont relève la fourrière remet au service chargé du domaine les véhicules gardés en fourrière dont elle a
+constaté l'abandon à l'issue du délai prévu au premier alinéa de l'article L. 325-7 en vue de leur mise en vente. Ceux
+d'entre eux que le service chargé du domaine estime invendables et ceux qui ont fait l'objet d'une tentative de vente
+infructueuse sont livrés, sans délai, par l'autorité dont relève la fourrière, à la destruction. 
+
+II.-La propriété d'un véhicule abandonné en fourrière est transférée, selon le cas, soit au jour de son aliénation par le
+service chargé du domaine, soit à celui de sa remise à la personne chargée de la destruction.
 
 **Liens relatifs à cet article**
 
@@ -6966,6 +7047,10 @@ _Codifié par_:
 
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Modifié par_:
+
+  - Loi n°2007-297 du 5 mars 2007 - art. 21 () JORF 7 mars 2007
 
 _Cité par_:
 
@@ -6977,14 +7062,13 @@ _Anciens textes_:
   - Code de la route - art. L25-4 (Ab)
   - Code de la route L25-4
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. L318-4 (V)
-  - PILOTE_SUIVEUR: Code de la route. - art. L343-1 (V)
-
 _Cite_:
 
-  - Code de la route. - art. L325-7 (M)
+  - Code de la route. - art. L325-7 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L343-1 (V)
 
 
 ###### Article L325-9
@@ -7030,39 +7114,9 @@ _Anciens textes_:
   - PILOTE_SUIVEUR: Code de la route. - art. L343-1 (V)
 
 
-###### Article L325-10
-
-La collectivité publique intéressée n'est pas responsable des dommages subis par les véhicules visés à l'alinéa 4 de
-l'article L. 325-7, placés dans une fourrière non clôturée et non gardée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-_Abrogé par_:
-
-  - Loi n°2007-297 du 5 mars 2007 - art. 21 () JORF 7 mars 2007
-
-_Cité par_:
-
-  - Code de l'environnement - art. L362-7 (M)
-
-_Anciens textes_:
-
-  - Code de la route - art. L25-6 (Ab)
-  - Code de la route L25-6
-
-_Cite_:
-
-  - Code de la route. - art. L325-7 (M)
-
-
 ###### Article L325-11
 
-Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 325-6 à L. 325-10.
+Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 325-6 à L. 325-9.
 
 **Liens relatifs à cet article**
 
@@ -7070,20 +7124,24 @@ _Codifié par_:
 
   - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+_Modifié par_:
+
+  - Loi n°2007-297 du 5 mars 2007 - art. 21 () JORF 7 mars 2007
 
 _Anciens textes_:
 
   - Code de la route - art. L25-7 (Ab)
   - Code de la route L25-7
 
-_Cite_:
-
-  - Code de la route L325-6 à L325-10
-
 _Cité par_:
 
   - Code de la route. - art. L325-1 (V)
   - Code de la route. - art. R244-1 (M)
+
+_Cite_:
+
+  - Code de la route. - art. L325-6 (V)
 
 **Liens**:
 
@@ -7751,8 +7809,8 @@ ces entreprises dès lors que ces informations ont pour seul but d'identifier le
 accident de la circulation à condition qu'au moins un des véhicules soit assuré par le demandeur ou que ce dernier ait en
 charge l'indemnisation d'une des victimes ;
 
-9° Aux autorités étrangères extérieures à l'Union européenne et à l'Espace économique européen avec lesquelles existe un
-accord d'échange d'informations relatives à l'identification du titulaire du certificat d'immatriculation ;
+9° Aux autorités étrangères avec lesquelles existe un accord d'échange d'informations relatives à l'identification du
+titulaire du certificat d'immatriculation ;
 
 10° Aux services compétents en matière d'immatriculation des Etats membres de l'Union européenne et aux autres Etats parties
 à l'accord sur l'Espace économique européen, dans le cadre des dispositions prévoyant un échange d'informations relatives à
@@ -7793,7 +7851,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-10 du 5 janvier 2006 - art. 13 () JORF 6 janvier 2006
+  - Loi n°2007-297 du 5 mars 2007 - art. 21 () JORF 7 mars 2007
 
 _Anciens textes_:
 
