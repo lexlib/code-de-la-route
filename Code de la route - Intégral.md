@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2007-03-07
+Version Consolidée au 2007-03-24
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -131,9 +131,9 @@ Version Consolidée au 2007-03-07
           - [Section 5 : Remorquage des véhicules en panne ou accidentés. (art. R317-21 à R317-22)](#128)
           - [Section 6 : Autres aménagements. (art. R317-23 à R317-28)](#129)
         - [Chapitre VIII : Energie, émissions polluantes et nuisances. (art. R318-1 à R318-10)](#130)
-      - [Titre II : Dispositions administratives. (art. R321-1 à R327-9)](#131)
-        - [Chapitre Ier : Réception et homologation (art. R321-1 à R321-24)](#132)
-          - [Section 1 : Dispositions générales. (art. R321-1 à R321-5)](#133)
+      - [Titre II : Dispositions administratives. (art. D321-5-1 à R327-9)](#131)
+        - [Chapitre Ier : Réception et homologation (art. D321-5-1 à R321-24)](#132)
+          - [Section 1 : Dispositions générales. (art. D321-5-1 à R321-5)](#133)
           - [Section 2 : Réception communautaire ou réception CE. (art. R321-6 à R321-14)](#134)
           - [Section 3 : Réception nationale par type ou à titre isolé et homologation. (art. R321-15 à R321-24)](#135)
         - [Chapitre II : Immatriculation (art. R*322-12 à R322-18)](#136)
@@ -20850,6 +20850,58 @@ _Cite_:
 #### Chapitre Ier : Réception et homologation<a id=132></a>
 
 ##### Section 1 : Dispositions générales.<a id=133></a>
+
+###### Article D321-5-1
+
+Dans le cadre de la dérogation prévue au second alinéa de l'article L. 321-1, l'offre, la mise en vente, la vente et la
+proposition à la location d'un cyclomoteur, d'une motocyclette ou d'un quadricycle à moteur immatriculé, non conforme à sa
+réception et destiné à participer à une course ou une épreuve sportive, sont subordonnées à la déclaration préalable du
+retrait de la circulation du véhicule à l'autorité administrative compétente, selon les modalités de l'article R. 322-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2007-405 du 22 mars 2007 - art. 1 () JORF 24 mars 2007
+
+_Cité par_:
+
+  - Code de la route. - art. D321-5-2 (V)
+
+_Cite_:
+
+  - Code de la route. - art. L321-1 (V)
+  - Code de la route. - art. R322-6 (V)
+
+
+###### Article D321-5-2
+
+La personne qui offre, met en vente, vend ou propose à la location les véhicules mentionnés à l'article D. 321-5-1 conserve
+une copie de la déclaration de retrait de la circulation et, en cas de vente, du document attestant de cette vente pendant
+une durée minimale de cinq ans. 
+
+Ces pièces sont présentées sur simple demande à tout agent habilité à constater les infractions aux dispositions de l'article
+L. 321-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2007-405 du 22 mars 2007 - art. 1 () JORF 24 mars 2007
+
+_Cite_:
+
+  - Code de la route. - art. D321-5-1 (V)
+  - Code de la route. - art. L321-1 (V)
+
 
 ###### Article R321-1
 
