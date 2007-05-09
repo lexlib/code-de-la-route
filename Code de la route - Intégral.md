@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2007-03-24
+Version Consolidée au 2007-05-10
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -12993,8 +12993,12 @@ I. - Le permis de conduire est affecté d'un nombre maximal de douze points.
 
 II. - A la date d'obtention du permis de conduire, celui-ci est affecté d'un nombre initial de six points.
 
-III. - Pendant le délai probatoire défini à l'article L. 223-1, le permis de conduire ne peut être affecté d'un nombre de
-points supérieur à six.
+Au terme de chaque année du délai probatoire défini à l'article L. 223-1, si aucune infraction ayant donné lieu à retrait de
+points n'a été commise depuis le début de la période probatoire, ce permis de conduire est majoré de deux points. Cette
+majoration est portée à trois points si le titulaire du permis a suivi un apprentissage anticipé de la conduite.
+
+III. - Pendant le délai probatoire, le permis de conduire ne peut être affecté d'un nombre de points supérieur à six. Ce
+nombre est augmenté de la majoration résultant de l'application du II du présent article.
 
 IV. - A l'issue de ce délai probatoire, si aucune infraction ayant donné lieu à retrait de points n'a été commise, le permis
 de conduire est affecté du nombre maximal de douze points.
@@ -13006,25 +13010,19 @@ V. - Le délai probatoire de trois ans court à compter de la date d'obtention d
 catégorie. Ce délai est réduit à deux ans ou, s'il n'est pas achevé alors que la durée de deux ans est dépassée, prend fin
 lors de l'obtention de la catégorie B du permis de conduire dans le cadre de l'apprentissage anticipé de la conduite.
 
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-_Modifié par_:
-
-  - Décret n°2003-642 2003-07-11 art. 4 III, IV, art. 7 I JORF 12 juillet 2003 en vigueur le 1er mars 2004
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003 en vigueur le 1er mars 2004
-  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V) JORF 12 juillet 2003 en vigueur le 1er mars 2004
-
 _Cité par_:
 
   - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V)
+
+_Modifié par_:
+
+  - Décret n°2007-753 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
 
 _Anciens textes_:
 
@@ -13803,17 +13801,13 @@ _Anciens textes_:
 ###### Article R224-20
 
 Tout conducteur dont le permis de conduire a perdu sa validité en application de l'article L. 223-1 ou a été annulé à la
-suite d'une condamnation pour une infraction prévue par le présent code ou par les articles 221-6-1, 222-19-1 ou 222-20-1 du
-code pénal, et qui sollicite un nouveau permis doit subir à nouveau les épreuves prévues à l'article R. 221-3.
+suite d'une condamnation pour une infraction prévue par le présent code ou par les articles 221-6-1,222-19-1 ou 222-20-1 du
+code pénal, et qui sollicite un nouveau permis doit subir à nouveau les épreuves prévues à l'article R. 221-3. 
 
 Toutefois, pour les conducteurs titulaires du permis de conduire depuis trois ans ou plus à la date de la perte de validité
 du permis ou à la date de son annulation, et auxquels il est interdit de solliciter un nouveau permis pendant une durée
-inférieure à un an, l'épreuve pratique est supprimée sous réserve qu'ils sollicitent un nouveau permis moins de trois mois
+inférieure à un an, l'épreuve pratique est supprimée sous réserve qu'ils sollicitent un nouveau permis moins de neuf mois
 après la date à laquelle ils sont autorisés à le faire.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -13823,8 +13817,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-642 2003-07-11 art. 4 IX, X, XI JORF 12 juillet 2003
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+  - Décret n°2007-753 du 9 mai 2007 - art. 3 () JORF 10 mai 2007
 
 _Cité par_:
 
@@ -13835,14 +13828,10 @@ _Cite_:
 
   - Code pénal - art. 221-6-1 (V)
   - Code pénal - art. 222-19-1 (V)
-  - Code pénal - art. 222-20-1 (V)
-  - Code de la route. - art. L223-1 (M)
-  - Code de la route. - art. R221-3 (V)
 
 _Anciens textes_:
 
   - Code de la route - art. R130 (Ab)
-  - Code de la route R130
 
 
 ###### Article R224-21
