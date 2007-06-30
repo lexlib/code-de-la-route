@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2007-05-11
+Version Consolidée au 2007-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -85,7 +85,7 @@ Version Consolidée au 2007-05-11
           - [Section 1 : Etablissements d'enseignement à titre onéreux. (art. R213-1 à R213-6)](#82)
           - [Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle. (art. R213-7 à R213-9)](#83)
         - [Chapitre IV : Conseil supérieur de l'enseignement de la conduite automobile et de l'organisation de la profession (CSECAOP). (art. D214-1 à D214-8)](#84)
-      - [Titre II : Permis de conduire. (art. D221-3-1 à R225-5)](#85)
+      - [Titre II : Permis de conduire. (art. D221-3-1 à R225-6)](#85)
         - [Chapitre Ier : Délivrance et catégories. (art. D221-3-1 à R221-21)](#86)
         - [Chapitre II : Reconnaissance et équivalences. (art. R222-1 à R222-8)](#87)
         - [Chapitre III : Permis à points. (art. R223-1 à R223-13)](#88)
@@ -94,7 +94,7 @@ Version Consolidée au 2007-05-11
         - [Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation (art. R224-1 à R224-24)](#91)
           - [Section 1 : Rétention et suspension administratives après constatation d'une infraction. (art. R224-1 à R224-19)](#92)
           - [Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation. (art. R224-20 à R224-24)](#93)
-        - [Chapitre V : Enregistrement et communication des informations relatives au permis de conduire. (art. R225-1 à R225-5)](#94)
+        - [Chapitre V : Enregistrement et communication des informations relatives au permis de conduire. (art. R225-1 à R225-6)](#94)
       - [Titre III : Comportement du conducteur. (art. R231-1 à R235-13)](#95)
         - [Chapitre Ier : Comportement en cas d'accident. (art. R231-1)](#96)
         - [Chapitre III : Comportement en cas de contrôle routier. (art. R233-1 à R233-3)](#97)
@@ -14200,6 +14200,32 @@ _Cite_:
   - Code de la route. - art. L225-4 (V)
   - Code de la route. - art. L225-5 (M)
   - Code de la route. - art. R225-4 (M)
+
+
+###### Article R225-6
+
+Nonobstant les dispositions de l'article R. 225-5, le titulaire du permis de conduire peut consulter directement le solde des
+points affectés à son permis de conduire au moyen d'un site internet dédié et sécurisé. Les modalités d'application du
+présent article sont fixées par arrêté du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 29 juin 1992 - art. 6 (V)
+  - Arrêté du 24 mai 2018 - art. 3
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2007-753 du 9 mai 2007 - art. 4 () JORF 10 mai 2007 en vigueur le 1er juillet 2007
+
+_Cite_:
+
+  - Code de la route. - art. R225-5 (V)
 
 
 ### Titre III : Comportement du conducteur.<a id=95></a>
