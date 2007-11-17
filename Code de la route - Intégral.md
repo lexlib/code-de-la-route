@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2007-10-21
+Version Consolidée au 2007-11-18
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -75,7 +75,7 @@ Version Consolidée au 2007-10-21
       - [Titre IV : Dispositions relatives à l'outre-mer. (art. R141-1 à R142-6)](#72)
         - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R141-1)](#73)
         - [Chapitre II : Dispositions applicables à Mayotte. (art. R142-1 à R142-6)](#74)
-    - [Livre II : Le conducteur. (art. R211-1 à R245-1)](#75)
+    - [Livre II : Le conducteur. (art. R211-1 à R245-2)](#75)
       - [Titre Ier : Enseignement de la conduite et de la sécurité routière. (art. R211-1 à D214-8)](#76)
         - [Chapitre Ier : Formation à la conduite et à la sécurité routière (art. R211-1 à R211-6)](#77)
           - [Section 1 : Attestations et brevet de sécurité routière. (art. R211-1 à R211-2)](#78)
@@ -104,13 +104,13 @@ Version Consolidée au 2007-10-21
           - [Section 2 : Epreuves de dépistage (art. R235-3 à R235-4)](#101)
           - [Section 3 : Analyses et examens médicaux, cliniques et biologiques (art. R235-5 à R235-11)](#102)
           - [Section 4 : Dispositions matérielles (art. R235-12 à R235-13)](#103)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R241-1 à R245-1)](#104)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R241-1 à R245-2)](#104)
         - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R241-1 à R241-2)](#105)
         - [Chapitre II : Dispositions applicables à Mayotte. (art. R242-1 à R242-7)](#106)
-        - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie. (art. R243-1)](#107)
-        - [Chapitre IV : Dispositions applicables à la Polynésie française. (art. R244-1)](#108)
-        - [Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. R245-1)](#109)
-    - [Livre III : Le véhicule. (art. R311-1 à R343-4)](#110)
+        - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie. (art. R243-1 à R243-2)](#107)
+        - [Chapitre IV : Dispositions applicables à la Polynésie française. (art. R244-1 à R244-2)](#108)
+        - [Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. R245-1 à R245-2)](#109)
+    - [Livre III : Le véhicule. (art. R311-1 à R344-4)](#110)
       - [Titre Ier : Dispositions techniques. (art. R311-1 à R318-10)](#111)
         - [Chapitre Ier : Dispositions générales et définitions. (art. R311-1 à R311-3)](#112)
         - [Chapitre II : Poids et dimensions (art. R312-1 à R312-25)](#113)
@@ -157,65 +157,69 @@ Version Consolidée au 2007-10-21
           - [Section 1 : Véhicules gravement accidentés. (art. R327-1 à R327-5)](#154)
           - [Section 2 : Véhicules économiquement irréparables. (art. R327-6 à R327-9)](#155)
       - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-5)](#156)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R343-4)](#157)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R344-4)](#157)
         - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R341-1)](#158)
         - [Chapitre II : Dispositions applicables à Mayotte. (art. R342-1 à R342-5)](#159)
         - [Chapitre III : Dispositions applicables à la Polynésie française (art. R343-1 à R343-4)](#160)
           - [Section 1 : Dispositions générales. (art. R343-1)](#161)
           - [Section 2 : Immobilisation. (art. R343-2 à R343-3)](#162)
           - [Section 3 : Fourrière. (art. R343-4)](#163)
-    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#164)
-      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#165)
-        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#166)
-          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#167)
-          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#168)
-          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-18 à R411-24)](#169)
-          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#170)
-          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#171)
-        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#172)
-          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#173)
-          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#174)
-          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#175)
-          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28)](#176)
-          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#177)
-          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#178)
-          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#179)
-          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#180)
-        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#181)
-          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#182)
-          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#183)
-        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#184)
-          - [Section 1 : Croisement. (art. R414-1 à R414-3)](#185)
-          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#186)
-        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#187)
-        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#188)
-          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#189)
-          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#190)
-          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#191)
-        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#192)
-          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#193)
-          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#194)
-        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#195)
-      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-4)](#196)
-        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-9)](#197)
-        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-4)](#198)
-      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R436-1)](#199)
-        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#200)
-        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#201)
-          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#202)
-          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#203)
-          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#204)
-        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-8)](#205)
-          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#206)
-          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#207)
-          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#208)
-        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#209)
-        - [Chapitre V : Autres véhicules (art. R435-1 à R436-1)](#210)
-          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1)](#211)
-          - [Section 2 : Ensembles forains (art. R436-1)](#212)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#213)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#214)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#215)
+        - [Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie (art. R344-1 à R344-4)](#164)
+          - [Section 1 : Dispositions générales. (art. R344-1)](#165)
+          - [Section 2 : Immobilisation. (art. R344-2 à R344-3)](#166)
+          - [Section 3 : Fourrière. (art. R344-4)](#167)
+    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#168)
+      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#169)
+        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#170)
+          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#171)
+          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#172)
+          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-18 à R411-24)](#173)
+          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#174)
+          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#175)
+        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#176)
+          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#177)
+          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#178)
+          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#179)
+          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28)](#180)
+          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#181)
+          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#182)
+          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#183)
+          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#184)
+        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#185)
+          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#186)
+          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#187)
+        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#188)
+          - [Section 1 : Croisement. (art. R414-1 à R414-3)](#189)
+          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#190)
+        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#191)
+        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#192)
+          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#193)
+          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#194)
+          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#195)
+        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#196)
+          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#197)
+          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#198)
+        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#199)
+      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-4)](#200)
+        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-9)](#201)
+        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-4)](#202)
+      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R436-1)](#203)
+        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#204)
+        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#205)
+          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#206)
+          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#207)
+          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#208)
+        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-8)](#209)
+          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#210)
+          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#211)
+          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#212)
+        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#213)
+        - [Chapitre V : Autres véhicules (art. R435-1 à R436-1)](#214)
+          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1)](#215)
+          - [Section 2 : Ensembles forains (art. R436-1)](#216)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#217)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#218)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#219)
 # Partie législative<a id=1></a>
 
 ## Livre 1er : Dispositions générales<a id=2></a>
@@ -15436,10 +15440,22 @@ _Cite_:
 
 Les articles R. 234-1, R. 234-2 et R. 234-4 sont applicables en Nouvelle-Calédonie dans la rédaction suivante :
 
-"Art. R. 234-1. - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
-état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par
-une concentration d'alcool dans l'air expiré égale ou supérieure à 0,25 milligramme par litre, sans atteindre les seuils
-fixés à l'article L. 234-1 est puni de l'amende prévue pour les contraventions de la quatrième classe."
+"Art. R. 234-1 - I. - Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les
+contraventions de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par :
+
+1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par litre ou par une concentration d'alcool dans
+l'air expiré égale ou supérieure à 0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
+véhicules de transport en commun ;
+
+2° Une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par une concentration d'alcool dans
+l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
+autres catégories de véhicules.
+
+II. - L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+III. - Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
+suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
+dehors de l'activité professionnelle.
 
 "Art. R. 234-2. - Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L.
 234-3 à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies
@@ -15474,11 +15490,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 5 () JORF 18 novembre 2007 rectificatif JORF 20 novembre 2007
 
 _Cite_:
 
-  - Code de la route R234-1, R234-2, R234-4, L234-1, L234-3 à L234-5, L234-9, L234-4
+  - Code de la route R234-1, R234-2, R234-4, L234-1, L234-3 à L234-5, L234-9, L234-4, L325-1 à L325-3
   - Code de la route. - art. L234-1 (M)
   - Code de la route. - art. L234-4 (M)
   - Code de la route. - art. L234-9 (V)
@@ -15487,18 +15503,166 @@ _Cite_:
   - Code de la route. - art. R234-4 (V)
 
 
+###### Article R243-2
+
+Les articles R. 235-1 à R. 235-13 sont applicables en Nouvelle-Calédonie dans la rédaction suivante :
+
+"Art. R. 235-1 - En vue de procéder aux épreuves de dépistage et, le cas échéant, aux analyses et examens médicaux, cliniques
+et biologiques prévus par l'article L. 235-2, le délai séparant, d'une part, l'heure de l'accident et, d'autre part, l'heure
+de l'épreuve de dépistage, et le cas échéant, des analyses et examens précités doit être le plus court possible.
+
+"Art. R. 235-2 - Pour l'application de l'article L. 235-2, doit être regardé comme étant un accident mortel de la circulation
+celui qui a des conséquences immédiatement mortelles.
+
+"Art. R. 235-3 - Les épreuves de dépistage prévues par l'article L. 235-2 sont effectuées par un médecin ou un biologiste,
+requis à cet effet par un officier ou agent de police judiciaire qui leur fournit les matériels nécessaires au dépistage.
+
+"Art. R. 235-4 - Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées
+conformément aux méthodes et dans les conditions prescrites par un arrêté du ministre chargé de la santé, qui tient compte
+des particularités locales et qui précise notamment les critères de choix des réactifs et le modèle des fiches présentant les
+résultats.
+
+Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à l'article R. 235-3.
+
+"Art. R. 235-5 - Les analyses et examens médicaux, cliniques et biologiques prévus à l'article L. 235-2 comportent les
+opérations suivantes :
+
+- examen clinique ;
+
+- prélèvement biologique ;
+
+- recherche et dosage des stupéfiants.
+
+"Art. R. 235-6 - L'examen clinique et le prélèvement biologique sont effectués par un médecin requis à cet effet par un
+officier ou un agent de police judiciaire. Le prélèvement biologique peut également être effectué par un biologiste requis
+dans les mêmes conditions.
+
+Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à sa disposition par un officier ou un agent de
+police judiciaire, en se conformant aux méthodes prescrites par un arrêté du ministre chargé de la santé, qui tient compte
+des particularités locales.
+
+Un officier ou un agent de police judiciaire assiste au prélèvement biologique.
+
+"Art. R. 235-7 - Le prélèvement biologique est réparti entre deux flacons étiquetés et scellés par un officier ou agent de
+police judiciaire.
+
+"Art. R. 235-8 - En cas de décès du ou des conducteurs impliqués, le prélèvement des échantillons biologiques et l'examen du
+corps sont effectués soit dans les conditions fixées par les articles R. 235-5 et R. 235-6, soit par un médecin légiste au
+cours de l'autopsie judiciaire.
+
+Les méthodes particulières de prélèvement et de conservation des échantillons biologiques applicables en cas de décès du ou
+des conducteurs impliqués sont fixées par un arrêté du ministre chargé de la santé, qui tient compte des particularités
+locales.
+
+"Art. R. 235-9 - L'officier ou l'agent de police judiciaire adresse les deux échantillons biologiques prélevés, accompagnés
+des résultats des épreuves de dépistage, à un expert inscrit sous une rubrique spéciale en toxicologie, sur la liste de la
+cour d'appel, ou à un laboratoire de police technique et scientifique.
+
+Le laboratoire ou l'expert conserve un des deux flacons mentionnés à l'article R. 235-7 en vue d'une demande éventuelle d'un
+examen technique ou d'une expertise. Les conditions dans lesquelles est conservé cet échantillon sont fixées par un arrêté du
+ministre chargé de la santé, qui tient compte des particularités locales.
+
+"Art. R. 235-10. - La recherche et le dosage des produits stupéfiants sont pratiqués dans les conditions définies par un
+arrêté du ministre chargé de la santé, qui tient compte des particularités locales.
+
+Les résultats des analyses et examens médicaux, cliniques et biologiques sont consignés sur les fiches mentionnées à
+l'article R. 235-4. Ces fiches sont ensuite transmises à l'officier ou à l'agent de police judiciaire ayant assisté au
+prélèvement biologique.
+
+"Art. R. 235-11. - Le conducteur peut demander au procureur de la République, au juge d'instruction ou à la juridiction de
+jugement qu'il soit procédé à un examen technique ou à une expertise en application des articles 60, 77-1 et 156 du code de
+procédure pénale.
+
+De même, le conducteur peut demander qu'il soit procédé, dans les mêmes conditions, à la recherche de l'usage des médicaments
+psychoactifs pouvant avoir des effets sur la capacité de conduire le véhicule.
+
+En cas d'examen technique ou d'expertise, ceux-ci sont confiés à un autre laboratoire ou à un autre expert répondant aux
+conditions fixées par l'article R. 235-9. Celui-ci pratique l'expertise de contrôle en se conformant aux méthodes prescrites
+en application de l'article R. 235-10.
+
+La consignation et la transmission de ces résultats sont effectuées dans les conditions mentionnées à l'article R. 235-10.
+
+"Art. R. 235-12. - Les honoraires et indemnités de déplacement afférents aux épreuves de dépistage et aux examens cliniques,
+médicaux et biologiques prévus aux articles R. 235-4 et R. 235-6 sont calculés par référence aux articles R. 110, R. 111 et
+R. 117 (1°, c et e) du code de procédure pénale, dans leurs versions applicables localement tirées des articles R. 317 et R.
+321 de ce même code.
+
+Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique en application des dispositions de l'article R.
+235-6 du code des débits de boissons et des mesures contre l'alcoolisme, il n'est dû qu'une seule indemnité de déplacement et
+les honoraires pour un seul acte.
+
+Les frais afférents aux examens de laboratoire prévus par les articles R. 235-10 et R. 235-11 relatifs à la recherche et au
+dosage des produits stupéfiants et, le cas échéant, les frais afférents à la recherche des médicaments psychoactifs sont
+fixés par référence aux 10° et 11° de l'article R. 118 du code de procédure pénale.
+
+Les frais afférents à l'acquisition des matériels de recueil et de dépistage prévus par l'article R. 235-3 sont fixés par
+arrêté conjoint du ministre de la justice et du ministre chargé du budget.
+
+"Art. R. 235-13. - Les dépenses visées à l'article précédent constituent des frais de justice criminelle, correctionnelle et
+de police.
+
+Le paiement de ces frais a lieu conformément aux dispositions du titre X du livre V du code de procédure pénale."
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 8 janvier 2001 - art. 13 (V)
+  - Arrêté du 8 janvier 2001 - art. 2 (V)
+  - Arrêté du 8 janvier 2001 - art. 3 (V)
+  - Arrêté du 8 janvier 2001 - art. 4 (V)
+  - Arrêté du 8 janvier 2001 - art. 5 (V)
+  - Arrêté du 8 janvier 2001 - art. 6 (V)
+  - Arrêté du 8 janvier 2001 - art. 8 (V)
+  - Arrêté du 8 janvier 2001 - art. 9 (V)
+  - Arrêté du 5 septembre 2001 - art. 16-1 (Ab)
+  - Code de la route - art. R244 (M)
+  - Code de la route - art. R245-1 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 2 () JORF 18 novembre 2007
+
+_Cite_:
+
+  - Code de la route R235-1 à R235-13, L235-2, R235-3, R235-5, R235-6, R235-7
+  - Code de la route. - art. L235-2 (M)
+  - Code de la route. - art. R235-3 (M)
+  - Code de la route. - art. R235-5 (M)
+  - Code de la route. - art. R235-6 (M)
+  - Code de la route. - art. R235-7 (M)
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R212-4 (V)
+
+
 #### Chapitre IV : Dispositions applicables à la Polynésie française.<a id=108></a>
 
 ###### Article R244-1
 
 Les articles R. 234-1, R. 234-2 et R. 234-4 sont applicables en Polynésie française dans la rédaction suivante :
 
-"Art. R. 234-1. - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
-état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par
-une concentration d'alcool dans l'air expiré égale ou supérieure à 0,25 milligramme par litre, sans atteindre les seuils
-fixés à l'article L. 234-1 est puni de l'amende prévue pour les contraventions de la quatrième classe.
+"Art. R. 234-1 - I. - Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les
+contraventions de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par :
 
-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1, L. 325-2 et L. 325-11."
+1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par litre ou par une concentration d'alcool dans
+l'air expiré égale ou supérieure à 0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
+véhicules de transport en commun ;
+
+2° Une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par une concentration d'alcool dans
+l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
+autres catégories de véhicules.
+
+II. - L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+III. - Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
+suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
+dehors de l'activité professionnelle.
 
 "Art. R. 234-2. - Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L.
 234-3 à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies
@@ -15527,20 +15691,147 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 5 () JORF 18 novembre 2007 rectificatif JORF 20 novembre 2007
 
 _Cite_:
 
-  - Code de la route R234-1, R234-2, R234-4, L234-1, L325-1, L325-2, L325-11, L234-3 à L234-5, L234-9, L234-4
+  - Code de la route R234-1, R234-2, R234-4, L234-1, L325-1 à L325-3, L325-11, L234-3 à L234-5, L234-9, L234-4
   - Code de la route. - art. L234-1 (M)
   - Code de la route. - art. L234-4 (M)
   - Code de la route. - art. L234-9 (V)
-  - Code de la route. - art. L325-1 (M)
   - Code de la route. - art. L325-11 (M)
-  - Code de la route. - art. L325-2 (M)
   - Code de la route. - art. R234-1 (M)
   - Code de la route. - art. R234-2 (M)
   - Code de la route. - art. R234-4 (V)
+
+
+###### Article R244-2
+
+Les articles R. 235-1 à R. 235-13 sont applicables en Polynésie française dans la rédaction suivante :
+
+"Art. R. 235-1 - En vue de procéder aux épreuves de dépistage et, le cas échéant, aux analyses et examens médicaux, cliniques
+et biologiques prévus par l'article L. 235-2, le délai séparant, d'une part, l'heure de l'accident et, d'autre part, l'heure
+de l'épreuve de dépistage, et le cas échéant, des analyses et examens précités doit être le plus court possible.
+
+"Art. R. 235-2 - Pour l'application de l'article L. 235-2, doit être regardé comme étant un accident mortel de la circulation
+celui qui a des conséquences immédiatement mortelles.
+
+"Art. R. 235-3 - Les épreuves de dépistage prévues par l'article L. 235-2 sont effectuées par un médecin ou un biologiste,
+requis à cet effet par un officier ou agent de police judiciaire qui leur fournit les matériels nécessaires au dépistage.
+
+"Art. R. 235-4 - Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées
+conformément aux méthodes et dans les conditions prescrites par un arrêté du ministre chargé de la santé, qui tient compte
+des particularités locales et qui précise notamment les critères de choix des réactifs et le modèle des fiches présentant les
+résultats.
+
+Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à l'article R. 235-3.
+
+"Art. R. 235-5 - Les analyses et examens médicaux, cliniques et biologiques prévus à l'article L. 235-2 comportent les
+opérations suivantes :
+
+- examen clinique ;
+
+- prélèvement biologique ;
+
+- recherche et dosage des stupéfiants.
+
+"Art. R. 235-6 - L'examen clinique et le prélèvement biologique sont effectués par un médecin requis à cet effet par un
+officier ou un agent de police judiciaire. Le prélèvement biologique peut également être effectué par un biologiste requis
+dans les mêmes conditions.
+
+Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à sa disposition par un officier ou un agent de
+police judiciaire, en se conformant aux méthodes prescrites par un arrêté du ministre chargé de la santé, après avis du
+directeur général de l'Agence française de sécurité sanitaire des produits de santé.
+
+Un officier ou un agent de police judiciaire assiste au prélèvement biologique.
+
+"Art. R. 235-7 - Le prélèvement biologique est réparti entre deux flacons étiquetés et scellés par un officier ou agent de
+police judiciaire.
+
+"Art. R. 235-8 - En cas de décès du ou des conducteurs impliqués, le prélèvement des échantillons biologiques et l'examen du
+corps sont effectués soit dans les conditions fixées par les articles R. 235-5 et R. 235-6, soit par un médecin légiste au
+cours de l'autopsie judiciaire.
+
+Les méthodes particulières de prélèvement et de conservation des échantillons biologiques applicables en cas de décès du ou
+des conducteurs impliqués sont fixées par un arrêté du ministre chargé de la santé, après avis du directeur général de
+l'Agence française de sécurité sanitaire des produits de santé.
+
+"Art. R. 235-9 - L'officier ou l'agent de police judiciaire adresse les deux échantillons biologiques prélevés, accompagnés
+des résultats des épreuves de dépistage, à un expert inscrit sous une rubrique spéciale en toxicologie, sur la liste de la
+cour d'appel, ou à un laboratoire de police technique et scientifique.
+
+Le laboratoire ou l'expert conserve un des deux flacons mentionnés à l'article R. 235-7 en vue d'une demande éventuelle d'un
+examen technique ou d'une expertise. Les conditions dans lesquelles est conservé cet échantillon sont fixées par un arrêté du
+ministre chargé de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des produits de
+santé.
+
+"Art. R. 235-10. - La recherche et le dosage des produits stupéfiants sont pratiqués dans les conditions définies par un
+arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des
+produits de santé.
+
+Les résultats des analyses et examens médicaux, cliniques et biologiques sont consignés sur les fiches mentionnées à
+l'article R. 235-4. Ces fiches sont ensuite transmises à l'officier ou à l'agent de police judiciaire ayant assisté au
+prélèvement biologique.
+
+"Art. R. 235-11. - Le conducteur peut demander au procureur de la République, au juge d'instruction ou à la juridiction de
+jugement qu'il soit procédé à un examen technique ou à une expertise en application des articles 60, 77-1 et 156 du code de
+procédure pénale.
+
+De même, le conducteur peut demander qu'il soit procédé, dans les mêmes conditions, à la recherche de l'usage des médicaments
+psychoactifs pouvant avoir des effets sur la capacité de conduire le véhicule.
+
+En cas d'examen technique ou d'expertise, ceux-ci sont confiés à un autre laboratoire ou à un autre expert répondant aux
+conditions fixées par l'article R. 235-9. Celui-ci pratique l'expertise de contrôle en se conformant aux méthodes prescrites
+en application de l'article R. 235-10.
+
+La consignation et la transmission de ces résultats sont effectuées dans les conditions mentionnées à l'article R. 235-10.
+
+"Art. R. 235-12. - Les honoraires et indemnités de déplacement afférents aux épreuves de dépistage et aux examens cliniques,
+médicaux et biologiques prévus aux articles R. 235-4 et R. 235-6 sont calculés par référence aux articles R. 110, R. 111 et
+R. 117 (1°, c et e) du code de procédure pénale, dans leurs versions applicables localement tirées des articles R. 317 et R.
+321 de ce même code.
+
+Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique en application des dispositions de l'article R.
+235-6 du code des débits de boissons et des mesures contre l'alcoolisme, il n'est dû qu'une seule indemnité de déplacement et
+les honoraires pour un seul acte.
+
+Les frais afférents aux examens de laboratoire prévus par les articles R. 235-10 et R. 235-11 relatifs à la recherche et au
+dosage des produits stupéfiants et, le cas échéant, les frais afférents à la recherche des médicaments psychoactifs sont
+fixés par référence aux 10° et 11° de l'article R. 118 du code de procédure pénale.
+
+Les frais afférents à l'acquisition des matériels de recueil et de dépistage prévus par l'article R. 235-3 sont fixés par
+arrêté conjoint du ministre de la justice et du ministre chargé du budget.
+
+"Art. R. 235-13. - Les dépenses visées à l'article précédent constituent des frais de justice criminelle, correctionnelle et
+de police.
+
+Le paiement de ces frais a lieu conformément aux dispositions du titre X du livre V du code de procédure pénale."
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Cité par_:
+
+  - Arrêté du 5 septembre 2001 - art. 16-1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 3 () JORF 18 novembre 2007
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 156 (M)
+  - CODE DE PROCEDURE PENALE - art. 60 (M)
+  - CODE DE PROCEDURE PENALE - art. 77-1 (M)
+  - Code de la route R235-1 à R235-13, L235-2, R235-3, R235-7, R235-9, R235-10
+  - Code de la route. - art. L235-2 (M)
+  - Code de la route. - art. R235-10 (M)
+  - Code de la route. - art. R235-3 (M)
+  - Code de la route. - art. R235-7 (M)
+  - Code de la route. - art. R235-9 (M)
 
 
 #### Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna.<a id=109></a>
@@ -15550,10 +15841,22 @@ _Cite_:
 Les articles R. 234-1, R. 234-2 et R. 234-4 sont applicables au territoire des Iles Wallis-et-Futuna dans la rédaction
 suivante :
 
-"Art. R. 234-1. - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
-état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par
-une concentration d'alcool dans l'air expiré égale ou supérieure à 0,25 milligramme par litre, sans atteindre les seuils
-fixés à l'article L. 234-1 est puni de l'amende prévue pour les contraventions de la quatrième classe."
+"Art. R. 234-1 - I. - Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les
+contraventions de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par :
+
+1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par litre ou par une concentration d'alcool dans
+l'air expiré égale ou supérieure à 0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
+véhicules de transport en commun ;
+
+2° Une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par une concentration d'alcool dans
+l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
+autres catégories de véhicules.
+
+II. - L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+III. - Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
+suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
+dehors de l'activité professionnelle.
 
 "Art. R. 234-2. - Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L.
 234-3 à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies
@@ -15592,11 +15895,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 5 () JORF 18 novembre 2007 rectificatif JORF 20 novembre 2007
 
 _Cite_:
 
-  - Code de la route R234-1, R234-2, R234-4, L234-1, L234-3 à L234-5, L234-9, L234-4
+  - Code de la route R234-1, R234-2, R234-4, L234-1, L234-3 à L234-5, L234-9, L234-4, L325-1 à L325-3
   - Code de la route. - art. L234-1 (M)
   - Code de la route. - art. L234-4 (M)
   - Code de la route. - art. L234-9 (V)
@@ -15607,6 +15910,138 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code de la route. - art. R213-2 (V)
+
+
+###### Article R245-2
+
+Les articles R. 235-1 à R. 235-13 sont applicables dans les îles Wallis et Futuna dans la rédaction suivante :
+
+"Art. R. 235-1 - En vue de procéder aux épreuves de dépistage et, le cas échéant, aux analyses et examens médicaux, cliniques
+et biologiques prévus par l'article L. 235-2, le délai séparant, d'une part, l'heure de l'accident et, d'autre part, l'heure
+de l'épreuve de dépistage et, le cas échéant, des analyses et examens précités doit être le plus court possible.
+
+"Art. R. 235-2 - Pour l'application de l'article L. 235-2, doit être regardé comme étant un accident mortel de la circulation
+celui qui a des conséquences immédiatement mortelles.
+
+"Art. R. 235-3 - Les épreuves de dépistage prévues par l'article L. 235-2 sont effectuées par un médecin ou un biologiste,
+requis à cet effet par un officier ou agent de police judiciaire qui leur fournit les matériels nécessaires au dépistage.
+
+"Art. R. 235-4 - Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées
+conformément aux méthodes et dans les conditions prescrites par un arrêté du ministre chargé de la santé, après avis du
+directeur général de l'Agence française de sécurité sanitaire des produits de santé, qui précise notamment les critères de
+choix des réactifs et le modèle des fiches présentant les résultats.
+
+"Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à l'article R. 235-3.
+
+"Art. R. 235-5 - Les analyses et examens médicaux, cliniques et biologiques prévus à l'article L. 235-2 comportent les
+opérations suivantes :
+
+"- examen clinique ;
+
+"- prélèvement biologique ;
+
+"- recherche et dosage des stupéfiants.
+
+"Art. R. 235-6 - L'examen clinique et le prélèvement biologique sont effectués par un médecin requis à cet effet par un
+officier ou un agent de police judiciaire. Le prélèvement biologique peut également être effectué par un biologiste requis
+dans les mêmes conditions.
+
+"Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à sa disposition par un officier ou un agent de
+police judiciaire, en se conformant aux méthodes prescrites par un arrêté du ministre chargé de la santé, après avis du
+directeur général de l'Agence française de sécurité sanitaire des produits de santé.
+
+"Un officier ou un agent de police judiciaire assiste au prélèvement biologique.
+
+"Art. R. 235-7 - Le prélèvement biologique est réparti entre deux flacons étiquetés et scellés par un officier ou agent de
+police judiciaire.
+
+"Art. R. 235-8 - En cas de décès du ou des conducteurs impliqués, le prélèvement des échantillons biologiques et l'examen du
+corps sont effectués soit dans les conditions fixées par les articles R. 235-5 et R. 235-6, soit par un médecin légiste au
+cours de l'autopsie judiciaire.
+
+"Les méthodes particulières de prélèvement et de conservation des échantillons biologiques applicables en cas de décès du ou
+des conducteurs impliqués sont fixées par un arrêté du ministre chargé de la santé, après avis du directeur général de
+l'Agence française de sécurité sanitaire des produits de santé.
+
+"Art. R. 235-9 - L'officier ou l'agent de police judiciaire adresse les deux échantillons biologiques prélevés, accompagnés
+des résultats des épreuves de dépistage, à un expert inscrit sous une rubrique spéciale en toxicologie, sur la liste de la
+cour d'appel, ou à un laboratoire de police technique et scientifique.
+
+"Le laboratoire ou l'expert conserve un des deux flacons mentionnés à l'article R. 235-7 en vue d'une demande éventuelle d'un
+examen technique ou d'une expertise. Les conditions dans lesquelles est conservé cet échantillon sont fixées par un arrêté du
+ministre chargé de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des produits de
+santé.
+
+"Art. R. 235-10 - La recherche et le dosage des produits stupéfiants sont pratiqués dans les conditions définies par un
+arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des
+produits de santé.
+
+"Les résultats des analyses et examens médicaux, cliniques et biologiques sont consignés sur les fiches mentionnées à
+l'article R. 235-4. Ces fiches sont ensuite transmises à l'officier ou à l'agent de police judiciaire ayant assisté au
+prélèvement biologique.
+
+"Art. R. 235-11 - Le conducteur peut demander au procureur de la République, au juge d'instruction ou à la juridiction de
+jugement qu'il soit procédé à un examen technique ou à une expertise en application des articles 60, 77-1 et 156 du code de
+procédure pénale.
+
+"De même, le conducteur peut demander qu'il soit procédé, dans les mêmes conditions, à la recherche de l'usage des
+médicaments psychoactifs pouvant avoir des effets sur la capacité de conduire le véhicule.
+
+"En cas d'examen technique ou d'expertise, ceux-ci sont confiés à un autre laboratoire ou à un autre expert répondant aux
+conditions fixées par l'article R. 235-9. Celui-ci pratique l'expertise de contrôle en se conformant aux méthodes prescrites
+en application de l'article R. 235-10.
+
+"La consignation et la transmission de ces résultats sont effectuées dans les conditions mentionnées à l'article R. 235-10.
+
+"Art. R. 235-12 - Les honoraires et indemnités de déplacement afférents aux épreuves de dépistage et aux examens cliniques,
+médicaux et biologiques prévus aux articles R. 235-4 et R. 235-6 sont calculés par référence aux articles R. 110, R. 111 et
+R. 117 (1°, c et e) du code de procédure pénale, dans leurs versions applicables localement tirées des articles R. 317 et R.
+321 de ce même code.
+
+"Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique en application des dispositions de l'article R.
+235-6 du code des débits de boissons et des mesures contre l'alcoolisme, il n'est dû qu'une seule indemnité de déplacement et
+les honoraires pour un seul acte.
+
+"Les frais afférents aux examens de laboratoire prévus par les articles R. 235-10 et R. 235-11 relatifs à la recherche et au
+dosage des produits stupéfiants et, le cas échéant, les frais afférents à la recherche des médicaments psychoactifs sont
+fixés par référence aux 10° et 11° de l'article R. 118 du code de procédure pénale.
+
+"Les frais afférents à l'acquisition des matériels de recueil et de dépistage prévus par l'article R. 235-3 sont fixés par
+arrêté conjoint du ministre de la justice et du ministre chargé du budget.
+
+"Art. R. 235-13 - Les dépenses visées à l'article précédent constituent des frais de justice criminelle, correctionnelle et
+de police.
+
+"Le paiement de ces frais a lieu conformément aux dispositions du titre X du livre V du code de procédure pénale."
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 8 janvier 2001 - art. 13 (V)
+  - Arrêté du 5 septembre 2001 - art. 16-1 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 4 () JORF 18 novembre 2007
+
+_Cite_:
+
+  - Code de la route R235-1 à R235-13, L235-2, R235-3, R235-7, R235-4, R235-10
+  - Code de la route. - art. L235-2 (M)
+  - Code de la route. - art. R235-10 (M)
+  - Code de la route. - art. R235-3 (M)
+  - Code de la route. - art. R235-4 (M)
+  - Code de la route. - art. R235-7 (M)
+  - Code des débits de boissons R235-6
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R213-3 (V)
 
 
 ## Livre III : Le véhicule.<a id=110></a>
@@ -27046,16 +27481,21 @@ _Cite_:
 
 ###### Article R343-1
 
-L'article R. 325-1 est applicable à la Polynésie française dans la rédaction suivante :
+Les articles R. 325-1 et R. 325-1-1 sont applicables à la Polynésie française dans la rédaction suivante : 
 
-Art. R. 325-1. -     L'immobilisation, la mise en fourrière, le retrait de la circulation et la destruction prévus à
-l'article L. 343-1 peuvent être décidés dans les cas et les conditions définis aux articles R. 343-2 à R. 343-4.
+" Art. R. 325-1-L'immobilisation, la mise en fourrière, le retrait de la circulation et la destruction prévus à l'article L.
+343-1 peuvent être décidés dans les cas et les conditions définis aux articles R. 343-2 à R. 343-4. 
 
-Ces mesures ne font pas obstacle aux saisies ordonnées par l'autorité judiciaire.
+Ces mesures ne font pas obstacle aux saisies ordonnées par l'autorité judiciaire. 
 
-Elles ne s'appliquent pas aux véhicules participant à des opérations de maintien de l'ordre.
+Elles ne s'appliquent pas aux véhicules participant à des opérations de maintien de l'ordre. 
 
-Les dispositions concernant la mise en fourrière ne s'appliquent pas aux véhicules militaires.
+Les dispositions concernant la mise en fourrière ne s'appliquent pas aux véhicules militaires. " 
+
+" Art. R. 325-1-1-Lorsque la juridiction prononce la confiscation d'un véhicule immobilisé et mis en fourrière en application
+de l'article L. 325-1-1, dans sa rédaction applicable à la Polynésie française, le service chargé de son aliénation dans les
+formes prévues pour les ventes de son mobilier informe préalablement le candidat acquéreur que le montant des frais
+d'enlèvement et de garde en fourrière seront à sa charge. "
 
 **Liens relatifs à cet article**
 
@@ -27067,11 +27507,16 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 7 () JORF 18 novembre 2007
+
 _Cite_:
 
-  - Code de la route R325-1, L343-1, R343-2 à R343-4
-  - Code de la route. - art. L343-1 (M)
-  - Code de la route. - art. R325-1 (M)
+  - Code de la route. - art. L325-1-1 (V)
+  - Code de la route. - art. L343-1 (V)
+  - Code de la route. - art. R325-1 (V)
+  - Code de la route. - art. R325-1-1 (V)
 
 
 ##### Section 2 : Immobilisation.<a id=162></a>
@@ -27079,74 +27524,85 @@ _Cite_:
 ###### Article R343-2
 
 Les articles R. 325-2 à R. 325-6 et R. 325-9 à R. 325-11 sont applicables à la Polynésie française dans la rédaction
-suivante :
+suivante : 
 
-Art. R. 325-2. -     L'immobilisation est l'obligation faite au conducteur ou au propriétaire d'un véhicule, en cas
-d'infraction prévue à l'article R. 343-3, de maintenir ce véhicule sur place ou à proximité du lieu de constatation de
-l'infraction en se conformant aux règles relatives au stationnement.
+" Art. R. 325-2.-L'immobilisation est l'obligation faite au conducteur ou au propriétaire d'un véhicule, en cas d'infraction
+prévue à l'article R. 343-3, de maintenir ce véhicule sur place ou à proximité du lieu de constatation de l'infraction en se
+conformant aux règles relatives au stationnement. 
 
-En cas d'absence du conducteur ou du propriétaire ou lorsque celui-ci refuse de déplacer son véhicule, l'immobilisation de ce
-véhicule peut être assurée par un moyen mécanique.
+En cas d'absence du conducteur ou lorsque celui-ci refuse de déplacer son véhicule, l'immobilisation de ce véhicule peut être
+assurée par un moyen mécanique. 
 
-Pendant tout le temps de l'immobilisation, le véhicule demeure sous la garde juridique de son conducteur ou propriétaire.
+Pendant tout le temps de l'immobilisation, le véhicule demeure sous la garde juridique de son conducteur ou propriétaire. 
 
-Art. R. 325-3. -     L'immobilisation peut être prescrite par les officiers ou agents de police judiciaire habilités à
-constater les contraventions de police de la circulation routière lorsqu'ils constatent la nécessité de faire cesser sans
-délai une des infractions prévues à l'article R. 343-3.
+Le fait pour tout conducteur ou propriétaire d'un véhicule de transport de marchandises d'un poids total autorisé en charge
+excédant 3,5 tonnes ou d'un véhicule de transport en commun de contrevenir à l'obligation prévue au premier alinéa est puni
+de l'amende prévue pour les contraventions de la cinquième classe. 
+
+Le fait pour tout conducteur ou propriétaire d'un autre véhicule de contrevenir à l'obligation prévue au premier alinéa est
+puni de l'amende prévue pour les contraventions de la quatrième classe. 
+
+" Art. R. 325-3.-L'immobilisation peut être prescrite par le officiers ou agents de police judiciaire habilités à constater
+les contraventions de police de la circulation routière lorsqu'ils constatent la nécessité de faire cesser sans délai une des
+infractions prévues à l'article R. 343-3. 
 
 L'immobilisation peut également être prescrite dans les conditions définies à l'alinéa précédent par les adjoints de sécurité
-ainsi que par les volontaires servant en qualité de militaires dans la gendarmerie.
+ainsi que par les volontaires servant en qualité de militaires dans la gendarmerie. 
 
-Art. R. 325-4. -     Lorsque la décision d'immobilisation résulte de l'une des situations visées aux 1°, 2° et 10° de
-l'article R. 343-3, le véhicule peut poursuivre sa route dès qu'un conducteur qualifié, proposé par le conducteur ou
-éventuellement par le propriétaire du véhicule, peut assurer la conduite de celui-ci.
+" Art. R. 325-4.-Lorsque la décision d'immobilisation résulte de l'une des situations visées aux 1°, 2° et 10° de l'article
+R. 343-3, le véhicule peut poursuivre sa route dès qu'un conducteur qualifié, proposé par le conducteur ou éventuellement par
+le propriétaire du véhicule, peut assurer la conduite de celui-ci. 
 
 A défaut, les fonctionnaires et agents habilités à prescrire l'immobilisation peuvent prendre toute mesure destinée à placer
-le véhicule en stationnement régulier, au lieu qu'ils désignent, en faisant notamment appel à un conducteur qualifié.
+le véhicule en stationnement régulier, au lieu qu'ils désignent, en faisant notamment appel à un conducteur qualifié. 
 
-Art. R. 325-5. -     Lorsque la décision d'immobilisation résulte d'une infraction aux règles concernant l'état ou
-l'équipement du véhicule, elle peut n'être rendue effective que dans un lieu où le conducteur du véhicule sera susceptible de
-trouver les moyens de faire cesser l'infraction.
+" Art. R. 325-5.-Lorsque la décision d'immobilisation résulte d'une infraction aux règles concernant l'état ou l'équipement
+du véhicule, elle peut n'être rendue effective que dans un lieu où le conducteur du véhicule sera susceptible de trouver les
+moyens de faire cesser l'infraction. 
 
 Il ne peut être fait usage de cette faculté que dans la mesure où l'accompagnement du véhicule jusqu'à ce lieu peut être
-assuré dans des conditions de sécurité satisfaisantes.
+assuré dans des conditions de sécurité satisfaisantes. 
 
 Le conducteur peut également être autorisé à faire appel à un professionnel qualifié pour la prise en remorque de son
-véhicule en vue de sa réparation. L'immobilisation devient alors effective au lieu de réparation.
+véhicule en vue de sa réparation. L'immobilisation devient alors effective au lieu de réparation. 
 
-Art. R. 325-6. -     La décision d'immobilisation prise en vertu du 13° de l'article R. 343-3 doit prescrire la présentation
-du véhicule à une visite technique dans les conditions fixées par délibération de l'assemblée de la Polynésie française.
+" Art. R. 325-6-La décision d'immobilisation prise en vertu du 13° de l'article R. 343-3 doit prescrire la présentation du
+véhicule à une visite technique dans les conditions fixées par une décision du conseil des ministres de Polynésie française. 
 
-Art. R. 325-9. -     Lorsque l'infraction qui a motivé l'immobilisation n'a pas cessé au moment où l'agent quitte le lieu où
-le véhicule est immobilisé, l'agent saisit l'officier de police judiciaire territorialement compétent en lui remettant soit
-la carte grise du véhicule et une fiche d'immobilisation, soit, le cas échéant, les pièces administratives nécessaires à la
-circulation du véhicule et une fiche d'immobilisation. Un double de cette fiche est remis au contrevenant.
+" Art. R. 325-9-Lorsque l'infraction qui a motivé l'immobilisation n'a pas cessé au moment où l'agent quitte le lieu où le
+véhicule est immobilisé, l'agent saisit l'officier de police judiciaire territorialement compétent en lui remettant soit la
+carte grise du véhicule s'il s'agit d'un véhicule dont le poids total autorisé en charge n'excède pas 3,5 tonnes et une fiche
+d'immobilisation, soit les pièces administratives nécessaires à la circulation du véhicule s'il s'agit d'un véhicule de
+transport de marchandises d'un poids total autorisé en charge excédant 3,5 tonnes ou de transport en commun et la fiche
+d'immobilisation. 
+
+Un double de cette fiche est remis au contrevenant. 
 
 La fiche d'immobilisation énonce les date, heure et lieu de l'immobilisation, l'infraction qui l'a motivée, les éléments
 d'identification du véhicule et de la carte grise, les nom et adresse du contrevenant, les noms, qualités et affectations des
-agents qui la rédigent, et précise la résidence de l'officier de police judiciaire qualifié pour lever la mesure.
+agents qui la rédigent, et précise la résidence de l'officier de police judiciaire qualifié pour lever la mesure. 
 
-Art. R. 325-10. -     Le procès-verbal de l'infraction qui a motivé l'immobilisation d'un véhicule est transmis dans les plus
+" Art. R. 325-10.-Le procès-verbal de l'infraction qui a motivé l'immobilisation d'un véhicule est transmis dans les plus
 brefs délais au procureur de la République. Il relate de façon sommaire les circonstances et les conditions dans lesquelles
-la mesure a été prise.
+la mesure a été prise. 
 
-Art. R. 325-11. -     I. - L'immobilisation ne peut être maintenue après que la circonstance qui l'a motivée a cessé.
+" Art. R. 325-11.-I.-L'immobilisation ne peut être maintenue après que la circonstance qui l'a motivée a cessé. 
 
-II. - Elle est levée :
+II.-Elle est levée : 
 
-1° Par l'agent qui l'a prescrite s'il est encore présent lors de la cessation de l'infraction ;
+1° Par l'agent qui l'a prescrite s'il est encore présent lors de la cessation de l'infraction ; 
 
 2° Par l'officier de police judiciaire saisi dans les conditions prévues à l'article R. 325-9, dès que le conducteur justifie
 de la cessation de l'infraction. L'officier de police judiciaire restitue alors au conducteur la carte grise ou les pièces
 mentionnées au même article et transmet au procureur de la République un exemplaire de la fiche d'immobilisation ou une copie
-conforme de cette fiche, comportant mention de la levée de la mesure.
+conforme de cette fiche, comportant mention de la levée de la mesure. 
 
-III. - Lorsque le conducteur du véhicule n'a pas justifié de la cessation de l'infraction dans un délai de quarante-huit
+III.-Lorsque le conducteur du véhicule n'a pas justifié de la cessation de l'infraction dans un délai de quarante-huit
 heures, l'officier de police judiciaire peut transformer l'immobilisation en une mise en fourrière ; il joint alors à chacun
 des exemplaires de la procédure de mise en fourrière un exemplaire ou une copie conforme de la fiche d'immobilisation.
-L'officier de police judiciaire adresse ces documents au procureur de la République.
+L'officier de police judiciaire adresse ces documents au procureur de la République. 
 
-IV. - Dans tous les cas, dès la cessation de l'infraction qui a motivé l'immobilisation, le véhicule peut circuler entre le
+IV.-Dans tous les cas, dès la cessation de l'infraction qui a motivé l'immobilisation, le véhicule peut circuler entre le
 lieu d'immobilisation et la résidence de l'autorité désignée pour lever la mesure, sous couvert du double de la fiche
 d'immobilisation remise au conducteur.
 
@@ -27170,13 +27626,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-1256 du 15 octobre 2002 - art. 10 () JORF 16 octobre 2002
+  - Décret n°2007-1626 2007-11-16 art. 6 I, art. 8 I, II JORF 18 novembre 2007
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 6 () JORF 18 novembre 2007
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 8 () JORF 18 novembre 2007
 
 _Cite_:
 
-  - Code de la route R325-2 à R325-6, R325-9 à R325-11, R343-3, R325-9
-  - Code de la route. - art. R325-9 (M)
-  - Code de la route. - art. R343-3 (V)
+  - Code de la route. - art. R325-2 (V)
+  - Code de la route. - art. R325-9 (V)
 
 
 ###### Article R343-3
@@ -27246,332 +27703,359 @@ _Cité par_:
 
 ###### Article R343-4
 
-Les articles R. 325-12, R. 325-14 à R. 325-17, R. 325-19 à R. 325-32, R. 325-34 à R. 325-38, R. 325-40 à R. 325-43 et R.
-325-45 sont applicables à la Polynésie française dans la rédaction suivante :
+Les articles R. 325-12, R. 325-13, R. 325-14 à R. 325-17, R. 325-18, R. 325-19 à R. 325-32, R. 325-33, R. 325-34 à R. 325-38,
+R. 325-40 à R. 325-43 et R. 325-45 sont applicables à la Polynésie française dans la rédaction suivante : 
 
-"Art. R. 325-12. - La mise en fourrière est le transfert d'un véhicule en un lieu désigné par l'autorité administrative ou
-par l'autorité judiciaire en vue d'y être retenu jusqu'à décision de celle-ci, aux frais du propriétaire du véhicule, afin de
-faire cesser une ou plusieurs des infractions prévues et réprimées par l'article R. 325-14.
+" Art. R. 325-12.-La mise en fourrière est le transfert d'un véhicule en un lieu désigné par l'autorité administrative ou par
+l'autorité judiciaire en vue d'y être retenu jusqu'à décision de celle-ci, aux frais du propriétaire du véhicule, afin de
+faire cesser une ou plusieurs des infractions prévues et réprimées par l'article R. 325-14. 
 
 L'immobilisation matérielle prévue à l'article R. 325-2 peut constituer l'une des opérations préalables au commencement
-d'exécution de la mise en fourrière.
+d'exécution de la mise en fourrière. 
 
-La mise en fourrière est réputée avoir reçu un commencement d'exécution :
+La mise en fourrière est réputée avoir reçu un commencement d'exécution : 
 
 1° A partir du moment où deux roues au moins du véhicule ont quitté le sol, lorsque le transfert du véhicule vers la
-fourrière est réalisé au moyen d'un véhicule d'enlèvement ;
+fourrière est réalisé au moyen d'un véhicule d'enlèvement ; 
 
-2° A partir du commencement du déplacement du véhicule vers la fourrière, quel que soit le procédé utilisé à cet effet."
+2° A partir du commencement du déplacement du véhicule vers la fourrière, quel que soit le procédé utilisé à cet effet. " 
 
-"Art. R. 325-14. - La mise en fourrière est prescrite par un officier de police judiciaire territorialement compétent dans
-les cas suivants :
+" Art. R. 325-13.-Toute prescription de mise en fourrière est précédée d'une vérification tendant à déterminer s'il s'agit
+d'un véhicule volé. 
+
+Lorsque le résultat de cette vérification est positif, le propriétaire et son assureur sont immédiatement informés de la
+découverte du véhicule. Le véhicule est alors confié au gardien de fourrière à titre conservatoire en attendant que le
+propriétaire ou l'assureur se manifeste. 
+
+" Art. R. 325-14.-I.-La mise en fourrière est prescrite par un officier de police judiciaire territorialement compétent dans
+les cas suivants : 
 
 1° A la suite d'une immobilisation du véhicule, dans les conditions prévues à l'article R. 325-9 et au 2° du II de l'article
-R. 325-11 ;
+R. 325-11 ; 
 
 2° En cas de stationnement de nature à créer une entrave ou une gêne à la circulation, lorsque le conducteur est absent ou
-refuse de faire cesser le stationnement irrégulier ;
+refuse de faire cesser le stationnement irrégulier ; 
 
 3° En cas de stationnement de nature à créer un danger pour les usagers, quand le conducteur est absent ou refuse de faire
-cesser le stationnement irrégulier ;
+cesser le stationnement irrégulier ; 
 
 4° En cas de stationnement en infraction à un règlement de police d'un véhicule dont la présence compromet l'utilisation
 normale de la chaussée ou de ses dépendances ou entrave l'accès des immeubles riverains, si le conducteur est absent ou
-refuse de faire cesser le stationnement irrégulier ;
+refuse de faire cesser le stationnement irrégulier ; 
 
 5° En cas de stationnement en un même point de la voie publique ou de ses dépendances pendant une durée excédant sept jours
-consécutifs ;
+consécutifs ; 
 
 6° En cas d'infraction aux règlements en vigueur dans le territoire pour la sauvegarde de l'esthétique des sites et des
-paysages ;
+paysages ; 
 
 7° En cas de défaut de présentation à une visite technique obligatoire ou de non-exécution de réparations ou aménagements
-prescrits par l'expert chargé des visites techniques ;
+prescrits par l'expert chargé des visites techniques ; 
 
 8° En cas de circulation d'un véhicule de transport en infraction à la réglementation territoriale relative à l'autorisation
-de mise en circulation."
+de mise en circulation. 
 
-"Art. R. 325-15. - La mise en fourrière peut également être prescrite par l'autorité administrative ou par le maire dans le
-cas prévu au 6° de l'article R. 325-14.
+II.-Lorsque le véhicule a été volé, que son propriétaire n'a pu être identifié ou lorsqu'il est muni de fausses plaques
+d'immatriculation, sa mise en fourrière ne peut être prescrite que par un officier de police judiciaire de la police
+nationale ou de la gendarmerie nationale territorialement compétent, ou avec son accord préalable exprès. " 
+
+" Art. R. 325-15.-La mise en fourrière peut également être prescrite par l'autorité administrative ou par le maire dans le
+cas prévu au 6° de l'article R. 325-14. 
 
 Un officier de police judiciaire territorialement compétent peut être chargé d'exécuter ou de faire exécuter la mesure prévue
-à l'alinéa précédent.
+à l'alinéa précédent. 
 
-Les dispositions du II de l'article R. 325-16 sont appliquées."
+Les dispositions du II de l'article R. 325-16 sont appliquées. " 
 
-"Art. R. 325-16. - I. - Dans les cas prévus à l'article R. 325-14, l'agent verbalisateur qui a constaté l'infraction
-justifiant la mise en fourrière saisit l'officier de police judiciaire territorialement compétent.
+" Art. R. 325-16.-I.-Dans les cas prévus à l'article R. 325-14, l'agent verbalisateur qui a constaté l'infraction justifiant
+la mise en fourrière saisit l'officier de police judiciaire territorialement compétent. 
 
-II. - L'officier de police judiciaire territorialement compétent ou l'agent verbalisateur spécialement mandaté par lui :
+II.-L'officier de police judiciaire territorialement compétent ou l'agent verbalisateur spécialement mandaté par lui : 
 
 1° Désigne la fourrière dans laquelle sera transféré le véhicule, cette désignation étant matérialisée par la pose d'un signe
-distinctif sur celui-ci ;
+distinctif sur celui-ci ; 
 
 2° Dresse, si possible contradictoirement en présence du propriétaire ou du conducteur du véhicule et du préposé à
 l'enlèvement, un état sommaire, extérieur et intérieur, du véhicule, sans l'ouvrir, au moyen d'une fiche descriptive dont le
-modèle est fixé par délibération de l'assemblée de la Polynésie française, avant que la mise en fourrière reçoive un
-commencement d'exécution ;
+modèle est fixé par une décision du conseil des ministres de Polynésie française, avant que la mise en fourrière reçoive un
+commencement d'exécution ; 
 
 3° Remet à ce propriétaire ou ce conducteur un double de la fiche relative à l'état du véhicule et, le cas échéant, une fiche
-de circulation provisoire ;
+de circulation provisoire ; 
 
 4° Relate sur le procès-verbal de l'infraction les motifs de la mise en fourrière ; il y fait mention du retrait provisoire
-de la carte grise et de l'heure d'appel du véhicule d'enlèvement."
+de la carte grise et de l'heure d'appel du véhicule d'enlèvement. " 
 
-"Art. R. 325-17. - Lorsque la mise en fourrière a reçu un commencement d'exécution, le véhicule est restitué à son
-propriétaire ou à son conducteur dans les conditions prévues à l'article R. 325-38.
+" Art. R. 325-17.-Lorsque la mise en fourrière a reçu un commencement d'exécution, le véhicule est restitué à son
+propriétaire ou à son conducteur dans les conditions prévues à l'article R. 325-38. 
 
 Toutefois, si, avant le transfert ou le déplacement effectif du véhicule, le propriétaire ou le conducteur du véhicule règle
 les frais d'opérations préalables prévus à l'article R. 325-29, ou s'il s'engage par écrit à régler, et s'il s'engage à
-rendre immédiatement son usage normal à la voie publique, il peut être autorisé à reprendre aussitôt son véhicule."
+rendre immédiatement son usage normal à la voie publique, il peut être autorisé à reprendre aussitôt son véhicule. " 
 
-"Art. R. 325-19. - Chaque fourrière relève d'une autorité publique unique.
+" Art. R. 325-18.-L'auteur d'une prescription de mise en fourrière informe l'autorité dont relève la fourrière dans les plus
+brefs délais. " 
 
-Cette autorité publique est l'une de celles qui sont prévues aux articles R. 325-20 et R. 325-21.
+" Art. R. 325-19.-Chaque fourrière relève d'une autorité publique unique. 
+
+Cette autorité publique est l'une de celles qui sont prévues aux articles R. 325-20 et R. 325-21. 
 
 Cette autorité publique désigne le gardien de la fourrière sur la liste des gardiens de fourrière agréés conformément aux
-dispositions de l'article R. 325-24."
+dispositions de l'article R. 325-24. " 
 
-"Art. R. 325-20. - Lorsque la mise en fourrière est effectuée dans un lieu public ou relevant d'une autorité publique,
-l'autorité dont relève la fourrière est :
+" Art. R. 325-20.-Lorsque la mise en fourrière est effectuée dans un lieu public ou relevant d'une autorité publique,
+l'autorité dont relève la fourrière est : 
 
 1° L'autorité compétente du territoire si le local ou le terrain appartient au territoire ou si celui-ci en a la
-disposition ;
+disposition ; 
 
-2° Le maire si le local ou le terrain appartient à la commune ou si celle-ci en a la disposition."
+2° Le maire si le local ou le terrain appartient à la commune ou si celle-ci en a la disposition. " 
 
-"Art. R. 325-21. - La fourrière peut être située dans un lieu privé avec l'assentiment du propriétaire ou du locataire de cet
-immeuble, s'il accepte d'assurer la garde de cette fourrière.
+" Art. R. 325-21.-La fourrière peut être située dans un lieu privé avec l'assentiment du propriétaire ou du locataire de cet
+immeuble, s'il accepte d'assurer la garde de cette fourrière. 
 
-Dans cette hypothèse, l'autorité dont relève la fourrière est l'autorité désignée par l'assemblée de la Polynésie française."
+Dans cette hypothèse, l'autorité dont relève la fourrière est l'autorité désignée par une décision du conseil des ministres
+de Polynésie française. " 
 
-"Art. R. 325-22. - I. - Lorsque le propriétaire du véhicule faisant l'objet de la mise en fourrière est domicilié ou réside
-dans le ressort de l'officier de police judiciaire qui exécute cette mesure, celui-ci peut faire garder le véhicule par son
+" Art. R. 325-22.-I.-Lorsque le propriétaire du véhicule faisant l'objet de la mise en fourrière est domicilié ou réside dans
+le ressort de l'officier de police judiciaire qui exécute cette mesure, celui-ci peut faire garder le véhicule par son
 propriétaire, à condition que la carte grise soit immédiatement retirée. Ce document reçoit la destination prévue à l'article
-R. 325-32.
+R. 325-32. 
 
-II. - Dans cette hypothèse, l'autorité dont relève la fourrière est :
+II.-Dans cette hypothèse, l'autorité dont relève la fourrière est : 
 
 1° Soit le maire, lorsque la mise en fourrière a été décidée par lui ou par un de ses adjoints agissant en qualité d'officier
-de police judiciaire ;
+de police judiciaire ; 
 
-2° Soit l'autorité compétente du territoire."
+2° Soit l'autorité compétente du territoire. " 
 
-"Art. R. 325-23. - Le véhicule est placé sous la garde juridique du gardien de la fourrière jusqu'à la date d'effet de la
-mainlevée, sauf au cours de la sortie provisoire prévue à l'article R. 325-36."
+" Art. R. 325-23.-Le véhicule est placé sous la garde juridique du gardien de la fourrière jusqu'à la date d'effet de la
+mainlevée, sauf au cours de la sortie provisoire prévue à l'article R. 325-36. " 
 
-"Art. R. 325-24. - Des délibérations de l'assemblée de la Polynésie française fixent les conditions dans lesquelles sont
+" Art. R. 325-24.-Des délibérations de l'assemblée de la Polynésie française fixent les conditions dans lesquelles sont
 agréés les gardiens de fourrière et les installations de celle-ci ; l'autorité compétente pour procéder au retrait de
-l'agrément est désignée par délibération de l'assemblée de la Polynésie française."
+l'agrément est désignée par une décision du conseil des ministres de Polynésie française. " 
 
-"Art. R. 325-25. - Le gardien de fourrière enregistre, au fur et à mesure de leurs arrivées, les entrées des véhicules mis en
+" Art. R. 325-25.-Le gardien de fourrière enregistre, au fur et à mesure de leurs arrivées, les entrées des véhicules mis en
 fourrière, leurs sorties provisoires et définitives, les décisions de mainlevée de la mise en fourrière et, le cas échéant,
-les décisions de remise au service des domaines du territoire ou à une entreprise de destruction."
+les décisions de remise au service des domaines du territoire ou à une entreprise de destruction. " 
 
-"Art. R. 325-26. - Le procès-verbal de la mise en fourrière relate les circonstances et les conditions dans lesquelles cette
-mesure a été prise ; il est transmis dans les plus brefs délais au procureur de la République.
+" Art. R. 325-26.-Le procès-verbal de la mise en fourrière relate les circonstances et les conditions dans lesquelles cette
+mesure a été prise ; il est transmis dans les plus brefs délais au procureur de la République. 
 
-Un double de ce document est transmis dans les plus brefs délais à l'autorité ayant compétence pour prononcer la mainlevée.
+Un double de ce document est transmis dans les plus brefs délais à l'autorité ayant compétence pour prononcer la mainlevée. 
 
 En cas d'absence du propriétaire ou du conducteur au moment de l'enlèvement du véhicule en fourrière, le double de la fiche
 descriptive remplie par l'agent verbalisateur est adressé sans délai au responsable de la notification de mise en fourrière
-mentionné à l'article R. 325-31.
+mentionné à l'article R. 325-31. 
 
-Un autre double de cette fiche descriptive est remis au gardien de fourrière."
+Un autre double de cette fiche descriptive est remis au gardien de fourrière. " 
 
-"Art. R. 325-27. - Les intéressés peuvent contester auprès du procureur de la République du lieu de l'infraction la décision
+" Art. R. 325-27.-Les intéressés peuvent contester auprès du procureur de la République du lieu de l'infraction la décision
 de mise en fourrière. Ce magistrat confirme la mesure ou en ordonne la mainlevée dans le délai maximal de cinq jours
-ouvrables.
+ouvrables. 
 
 Si, à l'examen de la procédure, le procureur de la République estime qu'il n'a pas été commis d'infraction, il ordonne que
-soit donnée mainlevée de la mise en fourrière et en informe immédiatement l'autorité qui l'a prescrite."
+soit donnée mainlevée de la mise en fourrière et en informe immédiatement l'autorité qui l'a prescrite. " 
 
-"Art. R. 325-28. - Le transfert d'un véhicule du lieu de stationnement à celui de sa garde en fourrière peut être opéré :
+" Art. R. 325-28-Peuvent procéder au transfert d'un véhicule du lieu de son stationnement à celui de sa garde en fourrière : 
 
-1° Par les soins de l'autorité administrative compétente ;
+1° Les personnels habilités mentionnés aux premier et deuxième alinéas de l'article L. 325-2, dans sa rédaction applicable à
+la Polynésie française ; 
 
-2° En vertu d'une réquisition adressée à un tiers ;
+2° Le professionnel agréé, ou son préposé, désigné pour l'enlèvement du véhicule dont la mise en fourrière a été prescrite ; 
 
-3° En vertu d'une réquisition adressée au conducteur ou au propriétaire du véhicule."
+3° Un tiers en vertu d'une réquisition ; 
 
-"Art. R. 325-29. - I. - Le propriétaire du véhicule est tenu de rembourser :
+4° Le propriétaire ou le conducteur du véhicule en vertu d'une réquisition. " 
+
+" Art. R. 325-29.-I.-Le propriétaire du véhicule est tenu de rembourser : 
 
 1° Lorsque la prescription de mise en fourrière a reçu le commencement d'exécution défini à l'article R. 325-12, les frais
 d'enlèvement ainsi que, le cas échéant, les frais de garde en fourrière, d'expertise, sous réserve de l'application du II de
-l'article R. 325-30 et du III de l'article R. 325-35, et de vente ou de destruction du véhicule ;
+l'article R. 325-30 et du III de l'article R. 325-35, et de vente ou de destruction du véhicule ; 
 
 2° Lorsque la prescription de mise en fourrière n'a pas reçu de commencement d'exécution, les frais afférents aux opérations
-préalables à la mise en fourrière, à condition que le véhicule d'enlèvement se soit rendu sur les lieux.
+préalables à la mise en fourrière, à condition que le véhicule d'enlèvement se soit rendu sur les lieux. 
 
-II. - Le propriétaire du véhicule rembourse les frais précités au gardien de la fourrière sur présentation d'une facture
-détaillée.
+II.-Le propriétaire du véhicule rembourse les frais précités au gardien de la fourrière sur présentation d'une facture
+détaillée. 
 
-III. - Les taux maximaux des frais d'opérations préalables à la mise en fourrière, des frais d'enlèvement, de garde en
-fourrière, d'expertise et de destruction des véhicules sont fixés par délibération de l'assemblée de la Polynésie française.
+III.-Les taux maximaux des frais d'opérations préalables à la mise en fourrière, des frais d'enlèvement, de garde en
+fourrière, d'expertise et de destruction des véhicules sont fixés par une décision du conseil des ministres de Polynésie
+française. 
 
-IV. - Les frais de vente par le service territorial chargé des domaines sont fixés par délibération de l'assemblée de la
-Polynésie française.
+IV.-Les frais de vente par le service territorial chargé des domaines sont fixés par une décision du conseil des ministres de
+Polynésie française. 
 
-V. - Il appartient à l'autorité dont relève la fourrière d'assurer la rémunération, forfaitaire le cas échéant, des
+V.-Il appartient à l'autorité dont relève la fourrière d'assurer la rémunération, forfaitaire le cas échéant, des
 professionnels du secteur privé auxquels cette autorité fait appel dans le cadre de la procédure de mise en fourrière. Cette
-autorité peut conclure avec des professionnels une convention tarifaire, respectant les taux maximaux fixés par délibération
-de l'assemblée de la Polynésie française."
+autorité peut conclure avec des professionnels une convention tarifaire, respectant les taux maximaux fixés par une décision
+du conseil des ministres de Polynésie française. " 
 
-"Art. R. 325-30. - I. - L'autorité dont relève la fourrière classe le véhicule dans l'une des trois catégories suivantes :
+" Art. R. 325-30.-I.-L'autorité dont relève la fourrière classe le véhicule dans l'une des trois catégories suivantes : 
 
-1° Véhicules pouvant être restitués en l'état à son propriétaire ou son conducteur ;
+1° Véhicules pouvant être restitués en l'état à son propriétaire ou son conducteur ; 
 
 2° Véhicules ne pouvant être restitués à son propriétaire ou son conducteur qu'après exécution des travaux reconnus
-indispensables ;
+indispensables ; 
 
 3° Véhicules hors d'état de circuler dans des conditions normales de sécurité et dont la valeur marchande est inférieure à un
-montant fixé par délibération de l'assemblée de la Polynésie française, devant être livrés à la destruction à l'expiration du
-délai d'abandon prévu à l'alinéa 4 de l'article L. 325-7 dans sa rédaction applicable en Polynésie française.
+montant fixé par une décision du conseil des ministres de Polynésie française, devant être livrés à la destruction à
+l'expiration du délai d'abandon prévu à l'alinéa 4 de l'article L. 325-7 dans sa rédaction applicable en Polynésie
+française. 
 
-II. - Le classement dans les deuxième et troisième catégories prévues au I ci-dessus est décidé après avis d'un expert
-désigné dans des conditions fixées par délibération de l'assemblée de la Polynésie française.
+II.-Le classement dans les deuxième et troisième catégories prévues au I ci-dessus est décidé après avis d'un expert désigné
+dans des conditions fixées par une décision du conseil des ministres de Polynésie française. 
 
-III. - L'expert se prononce sur la capacité du véhicule à circuler dans des conditions normales de sécurité, définit dans le
+III.-L'expert se prononce sur la capacité du véhicule à circuler dans des conditions normales de sécurité, définit dans le
 cas contraire les réparations indispensables propres à lui redonner cette capacité et fournit une évaluation de la valeur
-marchande du véhicule.
+marchande du véhicule. 
 
-IV. - Les véhicules réclamés par leurs propriétaires ou leurs conducteurs dans le délai de trois jours suivant la mise en
-fourrière peuvent être restitués sans avoir été expertisés ni classés."
+IV.-Les véhicules réclamés par leurs propriétaires ou leurs conducteurs dans le délai de trois jours suivant la mise en
+fourrière peuvent être restitués sans avoir été expertisés ni classés. " 
 
-"Art. R. 325-31. - La mise en fourrière est notifiée par l'officier de police judiciaire qui l'a prescrite ou qui a été
-chargé de l'exécuter, ou par l'autorité dont relève la fourrière, à l'adresse relevée sur le procès-verbal de l'infraction
-ayant motivé la mise en fourrière si le propriétaire ou le conducteur du véhicule était présent, ou à l'adresse indiquée au
-fichier des immatriculations."
+" Art. R. 325-31.-La mise en fourrière est notifiée par l'officier de police judiciaire qui l'a prescrite ou qui a été chargé
+de l'exécuter, ou par l'autorité dont relève la fourrière, à l'adresse relevée sur le procès-verbal de l'infraction ayant
+motivé la mise en fourrière si le propriétaire ou le conducteur du véhicule était présent, ou à l'adresse indiquée au fichier
+des immatriculations. 
 
-"Art. R. 325-32. - I. - Cette notification s'effectue par lettre recommandée avec demande d'accusé de réception, dans le
-délai maximal de cinq jours ouvrables suivant la mise en fourrière du véhicule.
+Lorsque le véhicule n'est pas identifiable, il n'est pas procédé à cette formalité. Mention en est faite dans le procès-
+verbal ou dans le rapport de mise en fourrière. " 
 
-II. - Il y est joint un double de la fiche descriptive de l'état du véhicule mis en fourrière, en cas d'absence du
-propriétaire ou du conducteur au moment de l'enlèvement pour mise en fourrière.
+" Art. R. 325-32.-I.-Cette notification s'effectue par lettre recommandée avec demande d'accusé de réception, dans le délai
+maximal de cinq jours ouvrables suivant la mise en fourrière du véhicule. 
 
-III. - Cette notification comporte les mentions obligatoires suivantes :
+II.-Il y est joint un double de la fiche descriptive de l'état du véhicule mis en fourrière, en cas d'absence du propriétaire
+ou du conducteur au moment de l'enlèvement pour mise en fourrière. 
+
+III.-Cette notification comporte les mentions obligatoires suivantes : 
 
 1° Indication de l'autorité qui a prescrit la mise en fourrière, de la fourrière désignée et de l'autorité dont relève cette
-fourrière ;
+fourrière ; 
 
 2° Décision de classement prise en application de l'article R. 325-30 et indication de la faculté de faire procéder à une
-contre-expertise conformément aux articles R. 325-35 et R. 325-36 ;
+contre-expertise conformément aux articles R. 325-35 et R. 325-36 ; 
 
-3° Autorité qualifiée pour donner mainlevée de la mise en fourrière ;
+3° Autorité qualifiée pour donner mainlevée de la mise en fourrière ; 
 
-4° Injonction au propriétaire du véhicule de remettre immédiatement, sous peine de sanctions édictées par l'assemblée de la
-Polynésie française, la carte grise à l'autorité visée au 3° ci-dessus, à moins que le véhicule ne soit pas soumis à
-l'obligation d'immatriculation ;
+4° Injonction au propriétaire du véhicule de remettre immédiatement, sous peine de sanctions édictées par une décision du
+conseil des ministres de Polynésie française, la carte grise à l'autorité visée au 3° ci-dessus, à moins que le véhicule ne
+soit pas soumis à l'obligation d'immatriculation ; 
 
-5° Mise en demeure au propriétaire de retirer son véhicule avant l'expiration d'un délai :
+5° Mise en demeure au propriétaire de retirer son véhicule avant l'expiration d'un délai : 
 
 a) De dix jours, dans les cas prévus aux quatrième et cinquième alinéas de l'article L. 325-7 dans sa rédaction applicable en
-Polynésie française ;
+Polynésie française ; 
 
-b) De quarante-cinq jours, dans les autres cas,
+b) De quarante-cinq jours, dans les autres cas, 
 
-ces délais commençant à courir un jour franc après la date de notification ;
+ces délais commençant à courir un jour franc après la date de notification ; 
 
 6° Avertissement au propriétaire que son absence de réponse dans les délais impartis vaudra abandon de son véhicule et que
 ledit véhicule sera, dans les conditions prévues par décret, soit remis au service des domaines du territoire en vue de son
-aliénation, soit livré à la destruction ;
+aliénation, soit livré à la destruction ; 
 
-7° Nature et montant des frais qu'il sera tenu de rembourser ;
+7° Nature et montant des frais qu'il sera tenu de rembourser ; 
 
-8° Enoncé des voies de recours.
+8° Enoncé des voies de recours. 
 
-IV. - Si le fichier des immatriculations révèle l'inscription d'un gage, copie de la notification de mise en fourrière est
-adressée au créancier-gagiste, par lettre recommandée avec demande d'accusé de réception."
+IV.-Si le fichier des immatriculations révèle l'inscription d'un gage, copie de la notification de mise en fourrière est
+adressée au créancier-gagiste, par lettre recommandée avec demande d'accusé de réception. " 
 
-"Art. R. 325-34. - Toute personne se trouvant destinataire de la carte grise d'un véhicule mis en fourrière est tenue de la
-transmettre sans délai à l'autorité ayant compétence pour prononcer la mainlevée."
+" Art. R. 325-33.-Le fait, pour le propriétaire d'un véhicule, de ne pas restituer le certificat d'immatriculation
+immédiatement après la notification qui lui a été faite en application de l'article R. 325-32 (II, 4°) est puni de l'amende
+prévue pour les contraventions de la quatrième classe. " 
 
-"Art. R. 325-35. - I. - En cas de désaccord sur l'état du véhicule ou sur la décision de classement visée à l'article R.
-325-30, le propriétaire a la faculté de faire procéder à une contre-expertise, aux réparations remettant le véhicule en état
-de circuler dans des conditions normales de sécurité, ainsi qu'au contrôle technique du véhicule.
+" Art. R. 325-34.-Toute personne se trouvant destinataire de la carte grise d'un véhicule mis en fourrière est tenue de la
+transmettre sans délai à l'autorité ayant compétence pour prononcer la mainlevée. " 
 
-II. - La contre-expertise prévue ci-dessus est faite par un expert désigné conformément à l'article L. 325-6, dans sa
-rédaction applicable en Polynésie française.
+" Art. R. 325-35.-I.-En cas de désaccord sur l'état du véhicule ou sur la décision de classement visée à l'article R. 325-30,
+le propriétaire a la faculté de faire procéder à une contre-expertise, aux réparations remettant le véhicule en état de
+circuler dans des conditions normales de sécurité, ainsi qu'au contrôle technique du véhicule. 
 
-III. - Les frais d'expertise et de contre-expertise sont à la charge du propriétaire dans le cas où la contre-expertise
-confirme l'expertise initiale. Dans le cas contraire, ces frais incombent à l'autorité dont relève la fourrière."
+II.-La contre-expertise prévue ci-dessus est faite par un expert désigné conformément à l'article L. 325-6, dans sa rédaction
+applicable en Polynésie française. 
 
-"Art. R. 325-36. - L'autorité dont relève la fourrière ne peut s'opposer à la demande d'autorisation provisoire de sortie de
+III.-Les frais d'expertise et de contre-expertise sont à la charge du propriétaire dans le cas où la contre-expertise
+confirme l'expertise initiale. Dans le cas contraire, ces frais incombent à l'autorité dont relève la fourrière. " 
+
+" Art. R. 325-36.-L'autorité dont relève la fourrière ne peut s'opposer à la demande d'autorisation provisoire de sortie de
 fourrière présentée par le propriétaire du véhicule en vue exclusivement de faire procéder aux réparations visées au 2° du I
 de l'article R. 325-30, ainsi qu'à la contre-expertise, aux réparations et au contrôle technique visés au I de l'article R.
-325-35.
+325-35. 
 
-Cette autorisation provisoire de sortie de fourrière, dont le modèle est fixé par délibération de l'assemblée de la Polynésie
-française, qui tient lieu de pièce de circulation et qui est limitée au temps des parcours nécessaires et des opérations
-précitées, peut prescrire un itinéraire et des conditions de sécurité.
+Cette autorisation provisoire de sortie de fourrière, dont le modèle est fixé par une décision du conseil des ministres de
+Polynésie française, qui tient lieu de pièce de circulation et qui est limitée au temps des parcours nécessaires et des
+opérations précitées, peut prescrire un itinéraire et des conditions de sécurité. 
 
 Le réparateur doit remettre au propriétaire du véhicule une facture détaillée certifiant l'exécution des travaux prescrits en
-application du 2° du I de l'article R. 325-30."
+application du 2° du I de l'article R. 325-30. " 
 
-"Art. R. 325-37. - L'autorité dont relève la fourrière informe l'autorité qualifiée pour prononcer la mainlevée de la
-délivrance de l'autorisation provisoire de sortie de fourrière et de la durée de sa validité.
+" Art. R. 325-37.-L'autorité dont relève la fourrière informe l'autorité qualifiée pour prononcer la mainlevée de la
+délivrance de l'autorisation provisoire de sortie de fourrière et de la durée de sa validité. 
 
 En ce qui concerne les véhicules volés retrouvés en fourrière, l'autorité dont relève la fourrière est tenue d'informer au
 préalable les services de police ou de gendarmerie compétents de son intention de délivrer une autorisation provisoire de
-sortie de fourrière."
+sortie de fourrière. " 
 
-"Art. R. 325-38. - I. - Chaque prescription de mise en fourrière prend fin par une décision de mainlevée.
+" Art. R. 325-38.-I.-Chaque prescription de mise en fourrière prend fin par une décision de mainlevée. 
 
-II. - Cette décision émane de l'autorité qui a prescrit la mise en fourrière ou de l'officier de police judiciaire chargé
-d'exécuter cette mesure. Elle émane du procureur de la République dans le cas prévu à l'article R. 325-27.
+II.-Cette décision émane de l'autorité qui a prescrit la mise en fourrière ou de l'officier de police judiciaire chargé
+d'exécuter cette mesure. Elle émane du procureur de la République dans le cas prévu à l'article R. 325-27. 
 
-III. - Sous réserve des dispositions de cet article, l'autorité qualifiée pour prononcer la mainlevée est tenue de le faire,
-de restituer la carte grise du véhicule si elle a été retirée et de délivrer une autorisation définitive de sortie de
-fourrière :
+III.-Sous réserve des dispositions de cet article, l'autorité qualifiée pour prononcer la mainlevée est tenue de le faire, de
+restituer la carte grise du véhicule si elle a été retirée et de délivrer une autorisation définitive de sortie de
+fourrière : 
 
 1° Sur simple demande du propriétaire ou du conducteur si elle concerne un véhicule classé dans la 1re catégorie visée à
-l'article R. 325-30 ;
+l'article R. 325-30 ; 
 
 2° S'il s'agit d'un véhicule classé dans la 2e ou la 3e catégorie visée à l'article R. 325-30, sur demande du propriétaire ou
-du conducteur, accompagnée, selon le cas :
+du conducteur, accompagnée, selon le cas : 
 
-a) De la facture mentionnée au troisième alinéa de l'article R. 325-36 ;
+a) De la facture mentionnée au troisième alinéa de l'article R. 325-36 ; 
 
 b) Du récépissé délivré par le service chargé des contrôles techniques en Polynésie française, postérieur à la date de mise
-en fourrière.
+en fourrière. 
 
-IV. - Les dispositions du II ci-dessus ne s'appliquent ni aux véhicules volés retrouvés en fourrière ni à ceux dont le
+IV.-Les dispositions du II ci-dessus ne s'appliquent ni aux véhicules volés retrouvés en fourrière ni à ceux dont le
 propriétaire et l'assureur demeurent inconnus ou introuvables malgré les recherches effectuées, pour lesquels la mainlevée ne
-peut être prononcée qu'après l'accord préalable exprès des services de police ou de gendarmerie compétents."
+peut être prononcée qu'après l'accord préalable exprès des services de police ou de gendarmerie compétents. " 
 
-"Art. R. 325-40. - La mainlevée prend effet au jour de la délivrance de l'autorisation définitive de sortie du véhicule dans
-les cas prévus du III de l'article R. 325-38.
+" Art. R. 325-40.-La mainlevée prend effet au jour de la délivrance de l'autorisation définitive de sortie du véhicule dans
+les cas prévus du III de l'article R. 325-38. 
 
 La mainlevée prend effet à compter de la remise du véhicule au service des domaines du territoire de Polynésie française s'il
-est destiné à être aliéné, ou de sa remise à l'entreprise spécialisée s'il est destiné à être détruit."
+est destiné à être aliéné, ou de sa remise à l'entreprise spécialisée s'il est destiné à être détruit. " 
 
-"Art. R. 325-41. - Le gardien de la fourrière restitue le véhicule à son propriétaire ou à son conducteur dès que ce dernier
+" Art. R. 325-41.-Le gardien de la fourrière restitue le véhicule à son propriétaire ou à son conducteur dès que ce dernier
 produit l'autorisation définitive de sortie de fourrière et s'est acquitté des frais de mise en fourrière, d'enlèvement, de
 garde et d'expertise dans le cas où ces derniers sont à la charge du propriétaire. Ces frais sont arrêtés à la date de
-reprise du véhicule."
+reprise du véhicule. " 
 
-"Art. R. 325-42. - Aucun véhicule mis en fourrière ne peut être remis au service des domaines du territoire de Polynésie
+" Art. R. 325-42.-Aucun véhicule mis en fourrière ne peut être remis au service des domaines du territoire de Polynésie
 française en vue de son aliénation ou à une entreprise de démolition en vue de sa destruction sans que la mainlevée de cette
-mesure ait été préalablement prononcée à l'une ou l'autre de ces fins."
+mesure ait été préalablement prononcée à l'une ou l'autre de ces fins. " 
 
-"Art. R. 325-43. - En application des dispositions des articles L. 325-7 et L. 325-8, l'autorité dont relève la fourrière
+" Art. R. 325-43.-En application des dispositions des articles L. 325-7 et L. 325-8, l'autorité dont relève la fourrière
 décide de la remise du véhicule au service des domaines du territoire en vue de son aliénation ; l'autorité administrative
 investie des pouvoirs de police en matière de circulation décide de la destruction des véhicules mentionnés au cinquième
 alinéa de l'article L. 325-7 ainsi que des véhicules qui ont été remis au service des domaines du territoire de Polynésie
-française pour aliénation et qui n'ont pas trouvé preneur.
+française pour aliénation et qui n'ont pas trouvé preneur. 
 
 L'autorité dont relève la fourrière informe de ces décisions l'autorité qualifiée pour prononcer la mainlevée, détentrice de
-la carte grise.
+la carte grise. 
 
-Celle-ci envoie la carte grise dûment barrée au chef de service des transports aux fins d'annulation de ce document."
+Celle-ci envoie la carte grise dûment barrée au chef de service des transports aux fins d'annulation de ce document. " 
 
-"Art. R. 325-45. - Le responsable de l'entreprise chargée de la destruction d'un véhicule prend en charge celui-ci en
+" Art. R. 325-45.-Le responsable de l'entreprise chargée de la destruction d'un véhicule prend en charge celui-ci en
 remettant au gardien de la fourrière un bon d'enlèvement délivré par l'autorité dont relève la fourrière. Il rend compte de
 la destruction dudit véhicule à l'autorité dont relève la fourrière, et à l'autorité qui a prononcé la mainlevée de mise en
-fourrière.
+fourrière. 
 
 Les collectivités concernées peuvent passer avec les entreprises appelées à effectuer la destruction des véhicules des
-contrats dont les clauses sont déterminées conformément à une délibération de l'assemblée de la Polynésie française."
+contrats dont les clauses sont déterminées conformément à une décision du conseil des ministres de Polynésie française. "
 
 **Liens relatifs à cet article**
 
@@ -27613,37 +28097,619 @@ _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 6 () JORF 18 novembre 2007
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 9 () JORF 18 novembre 2007
+
 _Cite_:
 
-  - Code de la route R325-12, R325-14 à R325-17, R325-19 à R325-32, R325-34 à R325-38, R325-40 à R325-43, R325-45, R325-14, R325-2, R325-9, R325-11, R325-16, R325-29, R325-20, R325-21, R325-24, R325-36, R325-31, R325-30, R325-35, L325-7, L325-6, R325-27,
-  - Code de la route. - art. L325-6 (M)
-  - Code de la route. - art. L325-7 (M)
-  - Code de la route. - art. L325-8 (M)
-  - Code de la route. - art. R325-11 (M)
+  - Code de la route. - art. L325-2 (V)
+  - Code de la route. - art. L325-7 (V)
   - Code de la route. - art. R325-12 (V)
-  - Code de la route. - art. R325-14 (M)
-  - Code de la route. - art. R325-16 (M)
+  - Code de la route. - art. R325-14 (V)
+  - Code de la route. - art. R325-18 (V)
+  - Code de la route. - art. R325-19 (V)
+  - Code de la route. - art. R325-34 (V)
+  - Code de la route. - art. R325-40 (V)
+  - Code de la route. - art. R325-45 (V)
+
+
+#### Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie<a id=164></a>
+
+##### Section 1 : Dispositions générales.<a id=165></a>
+
+###### Article R344-1
+
+Les articles R. 325-1 et R. 325-1-1 sont applicables en Nouvelle-Calédonie dans la rédaction suivante : 
+
+" Art. R. 325-1-L'immobilisation, la mise en fourrière, le retrait de la circulation et la destruction prévus à l'article L.
+325-1, dans sa rédaction applicable à la Nouvelle-Calédonie, peuvent être décidés dans les cas et les conditions définis au
+présent code. 
+
+L'immobilisation et la mise en fourrière peuvent également être ordonnées conformément aux dispositions de l'article L.
+325-1-1, dans sa rédaction applicable à la Nouvelle-Calédonie. 
+
+Ces mesures ne font pas obstacle aux saisies ordonnées par l'autorité judiciaire. 
+
+Elles ne s'appliquent pas aux véhicules participant à des opérations de maintien de l'ordre. 
+
+" Art. R. 325-1-1-Lorsque la juridiction prononce la confiscation d'un véhicule immobilisé et mis en fourrière en application
+de l'article L. 325-1-1, dans sa rédaction applicable à la Nouvelle-Calédonie, le service chargé de son aliénation dans les
+formes prévues pour les ventes de son mobilier, informe préalablement le candidat acquéreur que le montant des frais
+d'enlèvement et de garde en fourrière seront à sa charge.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 10 () JORF 18 novembre 2007
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 11 () JORF 18 novembre 2007
+
+_Cite_:
+
+  - Code de la route. - art. L325-1-1 (V)
+  - Code de la route. - art. R325-1 (V)
+  - Code de la route. - art. R325-1-1 (V)
+
+
+##### Section 2 : Immobilisation.<a id=166></a>
+
+###### Article R344-2
+
+Les articles R. 325-2 à R. 325-6 et R. 325-9 à R. 325-11 sont applicables à la Nouvelle-Calédonie dans la rédaction
+suivante : 
+
+" Art. R. 325-2-L'immobilisation est l'obligation faite au conducteur ou au propriétaire d'un véhicule, dans les cas prévus
+au présent code, de maintenir ce véhicule sur place ou à proximité du lieu de constatation de l'infraction en se conformant
+aux règles relatives au stationnement. 
+
+En cas d'absence du conducteur ou lorsque celui-ci refuse de déplacer son véhicule, l'immobilisation de ce véhicule peut être
+assurée par un moyen mécanique. 
+
+Pendant tout le temps de l'immobilisation, le véhicule demeure sous la garde juridique de son propriétaire ou de son
+conducteur. 
+
+Le fait pour tout conducteur ou propriétaire d'un véhicule de transport de marchandises d'un poids total autorisé en charge
+excédant 3,5 tonnes ou d'un véhicule de transport en commun de contrevenir à l'obligation prévue au premier alinéa est puni
+de l'amende prévue pour les contraventions de la cinquième classe. 
+
+Le fait pour tout conducteur ou propriétaire d'un autre véhicule de contrevenir à l'obligation prévue au premier alinéa est
+puni de l'amende prévue pour les contraventions de la quatrième classe. 
+
+" Art. R. 325-3-L'immobilisation peut être prescrite par les officiers et les agents de police judiciaire ainsi que les
+agents de police judiciaire adjoints mentionnés à l'article 21 du code de procédure pénale lorsqu'ils constatent la nécessité
+de faire cesser sans délai une des infractions prévues à l'article R. 344-3. 
+
+" Art. R. 325-4-I.-Lorsque la décision d'immobilisation résulte de l'une des situations suivantes : 
+
+1° Le conducteur ou l'accompagnateur de l'élève conducteur est présumé en état d'ivresse ou sous l'empire d'un état
+alcoolique ; 
+
+2° Le conducteur n'est pas titulaire de la catégorie du permis exigée pour la conduite du véhicule considéré ; 
+
+3° Le conducteur est en infraction aux règles relatives aux conditions de travail dans les transports routiers, publics ou
+privés, ou ne peut présenter les documents dûment renseignés permettant de contrôler le respect de ces règles. 
+
+Le véhicule peut poursuivre sa route dès qu'un conducteur qualifié proposé par le conducteur ou, éventuellement, par
+l'accompagnateur de l'élève conducteur ou par le propriétaire du véhicule peut assurer la conduite de celui-ci. 
+
+II.-A défaut, les fonctionnaires et agents habilités à prescrire l'immobilisation peuvent prendre toute mesure destinée à
+placer le véhicule en stationnement régulier, au lieu qu'ils désignent, en faisant notamment appel à un conducteur qualifié. 
+
+" Art. R. 325-5-Lorsque la décision d'immobilisation résulte d'une infraction aux règles concernant l'état ou l'équipement du
+véhicule, elle peut n'être rendue effective que dans un lieu où le conducteur du véhicule sera susceptible de trouver les
+moyens de faire cesser l'infraction. 
+
+Il ne peut être fait usage de cette faculté que dans la mesure où l'accompagnement du véhicule jusqu'à ce lieu peut être
+assuré dans des conditions de sécurité satisfaisantes. 
+
+Le conducteur peut également être autorisé à faire appel à un professionnel qualifié pour la prise en remorque de son
+véhicule en vue de sa réparation. L'immobilisation devient alors effective au lieu de réparation. 
+
+" Art. R. 325-6-Lorsque le véhicule circule en infraction aux règles relatives aux contrôles techniques, la décision
+d'immobilisation doit prescrire la présentation du véhicule à un contrôle technique, dont les conditions sont fixées par une
+délibération du congrès de la Nouvelle-Calédonie. 
+
+Dans ce cas, une fiche de circulation provisoire, valable sept jours, est établie par les autorités compétentes localement
+selon la procédure mentionnée à l'article R. 325-9. La ou les pièces administratives nécessaires à la circulation du véhicule
+sont restituées au vu d'un document attestant le résultat satisfaisant du contrôle technique. 
+
+" Art. R. 325-9-I.-Lorsque l'infraction qui a motivé l'immobilisation n'a pas cessé au moment où l'agent quitte le lieu où le
+véhicule est immobilisé, l'agent saisit l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la
+police municipale ou occupant ces fonctions, territorialement compétent en lui remettant soit la carte grise du véhicule s'il
+s'agit d'un véhicule dont le poids total autorisé en charge n'excède pas 3,5 tonnes et une fiche d'immobilisation, soit les
+pièces administratives nécessaires à la circulation du véhicule s'il s'agit d'un véhicule de transport de marchandises d'un
+poids total autorisé en charge excédant 3,5 tonnes ou de transport en commun et la fiche d'immobilisation. Un double de cette
+fiche est remis au contrevenant. 
+
+II.-La fiche d'immobilisation énonce les date, heure et lieu de l'immobilisation, l'infraction qui l'a motivée, les éléments
+d'identification du véhicule et de la carte grise, les nom et adresse du contrevenant, les noms, qualités et affectations des
+agents qui la rédigent et précise la résidence de l'officier de police judiciaire ou l'agent de police judiciaire adjoint,
+chef de la police municipale ou occupant ces fonctions, qualifié pour lever la mesure. 
+
+" Art. R. 325-10.-Le procès-verbal de l'infraction qui a motivé l'immobilisation d'un véhicule est transmis dans les plus
+brefs délais au procureur de la République. Il relate de façon sommaire les circonstances et les conditions dans lesquelles
+la mesure a été prise. 
+
+Art. R. 325-11.-I.-L'immobilisation ne peut être maintenue après que la circonstance qui l'a motivée a cessé. 
+
+II.-Elle est levée : 
+
+1° Par l'agent qui l'a prescrite s'il est encore présent lors de la cessation de l'infraction ; 
+
+2° Par l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
+fonctions, saisi dans les conditions prévues à l'article R. 325-9, dès que le conducteur ou l'accompagnateur de l'élève
+conducteur justifie de la cessation de l'infraction. L'officier de police judiciaire ou l'agent de police judiciaire adjoint,
+chef de la police municipale ou occupant ces fonctions, restitue alors la carte grise au conducteur ou à l'accompagnateur de
+l'élève conducteur et transmet au procureur de la République le procès-verbal mentionné à l'article R. 325-10 et un
+exemplaire de la fiche d'immobilisation ou une copie conforme de cette fiche, comportant la mention de la levée de la mesure.
+Lorsque le conducteur ou l'accompagnateur de l'élève conducteur n'a pas justifié de la cessation de l'infraction dans un
+délai de quarante-huit heures, l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police
+municipale ou occupant ces fonctions, peut transformer l'immobilisation en une mise en fourrière ; il joint alors à chacun
+des exemplaires de la procédure de mise en fourrière qu'il adresse au procureur de la République un exemplaire ou une copie
+conforme de la fiche d'immobilisation. 
+
+III.-Dans tous les cas, dès la cessation de l'infraction qui a motivé l'immobilisation, le véhicule peut circuler entre le
+lieu d'immobilisation et la résidence de l'autorité désignée pour lever la mesure, sous couvert du double de la fiche
+d'immobilisation remise au conducteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 10 () JORF 18 novembre 2007
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 12 () JORF 18 novembre 2007
+
+_Cite_:
+
+  - Code de procédure pénale - art. 21 (V)
   - Code de la route. - art. R325-2 (V)
-  - Code de la route. - art. R325-20 (V)
-  - Code de la route. - art. R325-21 (M)
-  - Code de la route. - art. R325-24 (M)
-  - Code de la route. - art. R325-27 (M)
-  - Code de la route. - art. R325-29 (M)
-  - Code de la route. - art. R325-30 (M)
-  - Code de la route. - art. R325-31 (M)
-  - Code de la route. - art. R325-35 (V)
-  - Code de la route. - art. R325-36 (M)
-  - Code de la route. - art. R325-45 (M)
-  - Code de la route. - art. R325-9 (M)
+  - Code de la route. - art. R325-9 (V)
 
 
-## Livre IV : L'usage des voies.<a id=164></a>
+###### Article R344-3
 
-### Titre Ier : Dispositions générales.<a id=165></a>
+L'immobilisation peut être prescrite :
 
-#### Chapitre Ier : Pouvoirs de police de la circulation<a id=166></a>
+1° Lorsque le conducteur est présumé en état d'ivresse ou sous l'empire d'un état alcoolique ;
 
-##### Section 1 : Pouvoirs généraux de police.<a id=167></a>
+2° Lorsque le conducteur n'est pas titulaire du permis exigé pour la conduite du véhicule ;
+
+3° Lorsque le mauvais état du véhicule, son poids, sa charge par essieu, la forme, la nature, l'état et les conditions
+d'utilisation des bandages, la pression sur le sol, l'absence, la non-conformité et la défectuosité de son équipement
+réglementaire en ce qui concerne les freins ou l'éclairage, ou son chargement, créent un danger important pour les autres
+usagers ou constituent une menace pour l'intégrité de la chaussée. Toutefois, peuvent seuls être retenus les dépassements du
+poids total autorisé ou des charges par essieu prévues par la réglementation en vigueur sur le territoire excédant 5 % ;
+
+4° Lorsque le conducteur ne peut présenter une autorisation pour un transport exceptionnel prévu par la réglementation en
+vigueur sur le territoire ;
+
+5° Lorsque le véhicule ou son chargement provoque des détériorations à la route ou à ses dépendances ;
+
+6° Lorsque le véhicule circule en infraction aux règlements en vigueur sur le territoire relatifs aux transports de matières
+dangereuses ou à ceux portant restrictions de circulation ;
+
+7° Lorsque le véhicule circule en infraction aux dispositions en vigueur sur le territoire relatives aux organes moteurs ;
+
+8° Lorsque le conducteur du véhicule est en infraction aux dispositions en vigueur sur le territoire et relatives à
+l'exécution commode et sans délai de toutes les manoeuvres qui lui incombent, notamment lorsque ses possibilités de
+mouvement, son champ de vision et d'audition sont réduits par le nombre ou la position des passagers, par les objets
+transportés, par l'apposition d'objets non transparents sur les vitres ;
+
+9° Lorsque le conducteur d'un véhicule de transport circule en infraction à la réglementation territoriale relative à
+l'autorisation de mise en circulation ;
+
+l0° Lorsque le conducteur d'un véhicule est en infraction à la réglementation territoriale relative aux conditions de
+travail, dans les transports routiers, ou ne peut présenter les documents dûment renseignés permettant de contrôler le
+respect de ces règles ;
+
+11° Lorsque le conducteur est en infraction aux dispositions territoriales relatives à l'obligation d'assurance ;
+
+12° Lorsque le conducteur circule sans satisfaire aux règles territoriales relatives à la circulation routière spéciale aux
+conducteurs de cyclomoteurs et aux motocyclistes, notamment au port du casque ;
+
+13° Lorsque le conducteur circule en infraction aux règles en vigueur sur le territoire relatives aux visites techniques ;
+
+14° Lorsque le conducteur d'un véhicule est en infraction avec les règles en vigueur sur le territoire et relatives à l'arrêt
+et au stationnement et à l'usage des voies à circulation spécialisée et refuse de faire cesser l'arrêt ou le stationnement
+irrégulier malgré l'injonction des agents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 10 () JORF 18 novembre 2007
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 13 () JORF 18 novembre 2007
+
+
+##### Section 3 : Fourrière.<a id=167></a>
+
+###### Article R344-4
+
+Les articles R. 325-12 à R. 325-38, R. 325-40 à R. 325-43 et R. 325-45 à R. 325-46 sont applicables en Nouvelle-Calédonie
+dans la rédaction suivante : 
+
+" Art. R. 325-12.-I.-La mise en fourrière est le transfert d'un véhicule en un lieu désigné par l'autorité administrative ou
+judiciaire en vue d'y être retenu jusqu'à décision de celle-ci, aux frais du propriétaire de ce véhicule. 
+
+II.-L'immobilisation matérielle visée à l'article R. 325-2 peut constituer l'une des opérations préalables au commencement
+d'exécution de la mise en fourrière. 
+
+III.-La mise en fourrière est réputée avoir reçu un commencement d'exécution : 
+
+1° A partir du moment où deux roues au moins du véhicule ont quitté le sol, lorsque le transfert du véhicule vers la
+fourrière est réalisé au moyen d'un véhicule d'enlèvement ; 
+
+2° A partir du commencement du déplacement du véhicule vers la fourrière, quel que soit le procédé utilisé à cet effet. 
+
+" Art. R. 325-13.-Toute prescription de mise en fourrière est précédée d'une vérification tendant à déterminer s'il s'agit
+d'un véhicule volé. 
+
+Lorsque le résultat de cette vérification est positif, le propriétaire et son assureur sont immédiatement informés de la
+découverte du véhicule. Le véhicule est alors confié au gardien de fourrière à titre conservatoire en attendant que le
+propriétaire ou l'assureur se manifeste. 
+
+" Art. R. 325-14.-I.-Dans les cas prévus au présent code ou à la suite d'une immobilisation du véhicule, la mise en fourrière
+est prescrite dans les conditions prévues à l'article R. 325-9 et au 2° de l'article R. 325-11 :
+
+- soit par un officier de police judiciaire territorialement compétent, de la police nationale ou de la gendarmerie
+nationale ;
+
+- soit par un agent de police judiciaire adjoint, chef de la police municipale ou occupant ces fonctions, territorialement
+compétent, de sa propre initiative ou sur proposition de l'agent qui a verbalisé à la suite d'une infraction justificative de
+mise en fourrière. 
+
+II.-Lorsque le véhicule a été volé, que son propriétaire n'a pu être identifié ou lorsqu'il est muni de fausses plaques
+d'immatriculation, sa mise en fourrière ne peut être prescrite que par un officier de police judiciaire de la police
+nationale ou de la gendarmerie nationale territorialement compétent, ou avec son accord préalable exprès. 
+
+" Art. R. 325-15.-En cas d'infraction aux règlements en vigueur sur le territoire pour la sauvegarde de l'esthétique des
+sites et des paysages, la mise en fourrière peut également être prescrite par l'autorité administrative compétente en
+Nouvelle-Calédonie. 
+
+Un officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
+fonctions, territorialement compétent peut être chargé d'exécuter, ou de faire exécuter, la mesure prévue à l'alinéa
+précédent. 
+
+Les dispositions du II de l'article R. 325-16 sont appliquées. 
+
+" Art. R. 325-16.-L'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou
+occupant ces fonctions, territorialement compétent, ou l'agent placé sous leur autorité : 
+
+1° Désigne la fourrière dans laquelle sera transféré le véhicule, cette désignation étant matérialisée par la pose d'un signe
+distinctif sur celui-ci ; 
+
+2° Dresse, si possible contradictoirement en présence du propriétaire ou du conducteur du véhicule et du préposé à
+l'enlèvement, un état sommaire, extérieur et intérieur, du véhicule, sans l'ouvrir, au moyen d'une fiche descriptive dont le
+modèle est fixé par une délibération du congrès de la Nouvelle-Calédonie, avant que la mise en fourrière reçoive un
+commencement d'exécution ; 
+
+3° Remet à ce propriétaire ou ce conducteur, s'il est présent, un double de la fiche relative à l'état du véhicule et, le cas
+échéant, la fiche de circulation provisoire prévue à l'article R. 325-6 ; 
+
+4° Relate sur le procès-verbal de constatation ou le rapport les motifs de la mise en fourrière ; il y fait mention du
+retrait provisoire du certificat d'immatriculation et de l'heure d'appel du véhicule d'enlèvement. 
+
+" Art. R. 325-17.-Lorsque la mise en fourrière a reçu un commencement d'exécution, le véhicule est restitué à son
+propriétaire ou son conducteur dans les conditions prévues à l'article R. 325-38. 
+
+Toutefois, si le propriétaire ou le conducteur du véhicule règle les frais d'opérations préalables prévus à l'article R.
+325-29 ou s'il s'engage par écrit à les régler, et s'il s'engage à rendre immédiatement son usage normal à la voie publique,
+il peut être autorisé à reprendre aussitôt son véhicule. 
+
+" Art. R. 325-18.-L'auteur d'une prescription de mise en fourrièr informe l'autorité dont relève la fourrière dans les plus
+brefs délais. 
+
+" Art. R. 325-19.-Chaque fourrière relève d'une autorité publique unique. 
+
+Cette autorité publique est l'une de celles qui sont prévues aux articles R. 325-20 et R. 325-21. 
+
+Cette autorité publique désigne le gardien de la fourrière sur la liste des gardiens de fourrière agréés par la Nouvelle-
+Calédonie conformément aux dispositions de l'article R. 325-24. 
+
+" Art. R. 325-20.-Lorsque la mise en fourrière est effectuée dans un lieu public ou relevant d'une autorité publique,
+l'autorité dont relève la fourrière est déterminée par une délibération du congrès de la Nouvelle-Calédonie. 
+
+" Art. R. 325-21.-La fourrière peut être située dans un lieu privé avec l'assentiment du propriétaire ou du locataire de cet
+immeuble s'il accepte d'assurer la garde de cette fourrière. Dans cette hypothèse, l'autorité dont relève la fourrière est
+désignée par les dispositions applicables localement. 
+
+" Art. R. 325-22.-I.-Lorsque le propriétaire du véhicule faisant l'objet de la mise en fourrière est domicilié ou réside dans
+le ressort de l'officier de police judiciaire ou de l'agent de police judiciaire adjoint, chef de la police municipale ou
+occupant ces fonctions, qui prescrit cette mesure, celui-ci peut faire garder le véhicule par son propriétaire, à condition
+que le certificat d'immatriculation soit immédiatement retiré. Ce document reçoit la destination prévue à l'article R.
+325-34. 
+
+II.-Dans cette hypothèse, l'autorité dont relève la fourrière est : 
+
+1° Soit le maire, lorsque la mise en fourrière a été décidée par lui ou par un de ses adjoints agissant en qualité d'officier
+de police judiciaire ou par l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces fonctions ; 
+
+2° Soit l'autorité compétente du territoire en matière de circulation routière, dans les autres cas. 
+
+" Art. R. 325-23.-Le véhicule est placé sous la garde juridique du gardien de la fourrière jusqu'à la date d'effet de la
+mainlevée, sauf au cours de la sortie provisoire prévue à l'article R. 325-36. 
+
+" Art. R. 325-24.-Les conditions dans lesquelles sont agréés les gardiens de fourrière, la réglementation concernant leurs
+installations et l'autorité compétente pour procéder au retrait de l'agrément sont fixées par des dispositions applicables
+localement. 
+
+" Art. R. 325-25.-Le gardien de fourrière enregistre, au fur et à mesure de leurs arrivées, les entrées des véhicules mis en
+fourrière, leurs sorties provisoires et définitives, les décisions de mainlevée de la mise en fourrière et, le cas échéant,
+les décisions de remise au service compétent de la Nouvelle-Calédonie chargé de son aliénation dans les formes prévues pour
+les ventes de son mobilier ou à une entreprise de destruction. 
+
+" Art. R. 325-26.-Le procès-verbal de la mise en fourrière relate les circonstances et les conditions dans lesquelles cette
+mesure a été prise ; il est transmis dans les plus brefs délais au procureur de la République. 
+
+Un double de ce document est transmis dans les plus brefs délais à l'autorité ayant compétence pour prononcer la mainlevée. 
+
+En cas d'absence du propriétaire ou du conducteur au moment de l'enlèvement du véhicule en fourrière, un double de la fiche
+descriptive remplie par l'agent de constatation est adressé sans délai au responsable de la notification de mise en
+fourrière. 
+
+Un autre double de cette fiche descriptive est remis au gardien de fourrière. 
+
+" Art. R. 325-27.-Les intéressés peuvent contester auprès du procureur de la République du lieu de l'infraction la décision
+de mise en fourrière. Ce magistrat confirme la mesure ou en ordonne la mainlevée dans le délai maximal de cinq jours
+ouvrables. 
+
+Si, à l'examen de la procédure, le procureur de la République estime qu'il n'a pas été commis d'infraction, il ordonne que
+soit donnée mainlevée de la mise en fourrière et en informe immédiatement l'autorité qui l'a prescrite. 
+
+" Art. R. 325-28.-Peuvent procéder au transfert d'un véhicule du lieu de son stationnement à celui de sa garde en
+fourrière : 
+
+1° Les personnels habilités mentionnés aux premier et deuxième alinéas de l'article L. 325-2, dans sa rédaction applicable à
+la Nouvelle-Calédonie ; 
+
+2° Le professionnel agréé, ou son préposé, désigné pour l'enlèvement du véhicule dont la mise en fourrière a été prescrite ; 
+
+3° Un tiers en vertu d'une réquisition ; 
+
+4° Le propriétaire ou le conducteur du véhicule en vertu d'une réquisition. 
+
+" Art. R. 325-29.-I.-Le propriétaire du véhicule est tenu de rembourser : 
+
+1° Lorsque la prescription de mise en fourrière a reçu le commencement d'exécution défini à l'article R. 325-12, les frais
+d'enlèvement ainsi que, le cas échéant, les frais de garde en fourrière, d'expertise sous réserve de l'application du IV de
+l'article R. 325-30 et de l'alinéa 3 de l'article R. 325-35, et de vente ou de destruction du véhicule ; 
+
+2° Lorsque la prescription de mise en fourrière n'a pas reçu de commencement d'exécution, les frais afférents aux opérations
+préalables à la mise en fourrière, à condition que le véhicule d'enlèvement se soit rendu sur les lieux. 
+
+II.-Le propriétaire du véhicule rembourse les frais précités au gardien de la fourrière sur présentation d'une facture
+détaillée. 
+
+III.-Les taux maximaux des frais d'opérations préalables à la mise en fourrière, des frais d'enlèvement, de garde en
+fourrière, d'expertise, de vente et de destruction des véhicules sont fixés par des dispositions applicables localement,
+compte tenu des catégories de véhicules. 
+
+IV.-Les professionnels auxquels l'autorité dont relève la fourrière fait appel dans le cadre de la mise en fourrière sont
+rémunérés par cette autorité. 
+
+A défaut de stipulations contractuelles, cette autorité indemnise les frais énumérés au III dans les cas suivants : 
+
+1° Le propriétaire du véhicule mis en fourrière s'avère inconnu, introuvable ou insolvable ; 
+
+2° La procédure ou la prescription de mise en fourrière est annulée. 
+
+" Art. R. 325-30.-I.-L'autorité dont relève la fourrière classe le véhicule dans l'une des trois catégories suivantes : 
+
+1° Véhicule pouvant être restitué en l'état à son propriétaire ou son conducteur ; 
+
+2° Véhicule ne pouvant être restitué à son propriétaire ou son conducteur qu'après l'exécution des travaux reconnus
+indispensables, ou après avoir satisfait aux obligations de contrôles techniques, dont les modalités pratiques sont fixées
+par une délibération du congrès de la Nouvelle-Calédonie ; 
+
+3° Véhicule hors d'état de circuler dans des conditions normales de sécurité et dont la valeur marchande est inférieure à un
+montant fixé par le gouvernement de la Nouvelle-Calédonie, devant être livré à la destruction à l'expiration du délai
+d'abandon prévu au quatrième alinéa de l'article L. 325-7. 
+
+II.-Le classement dans les deuxième et troisième catégories prévues au I ci-dessus est décidé après avis d'un expert en
+automobile désigné dans des conditions fixées par délibération du congrès de la Nouvelle-Calédonie. 
+
+III.-L'expert se prononce sur la capacité du véhicule à circuler dans des conditions normales de sécurité. Si le véhicule ne
+remplit pas ces conditions, l'expert définit les réparations indispensables propres à lui redonner cette capacité et fournit
+une évaluation de la valeur marchande du véhicule. 
+
+IV.-Les véhicules réclamés par leurs propriétaires ou leurs conducteurs dans le délai de trois jours suivant la mise en
+fourrière peuvent être restitués sans avoir été expertisés ni classés. 
+
+" Art. R. 325-31.-La mise en fourrière est notifiée par l'officie de police judiciaire qui l'a prescrite ou qui a été chargé
+de l'exécuter, ou par l'autorité dont relève la fourrière, à l'adresse relevée sur le procès-verbal de l'infraction ayant
+motivé la mise en fourrière si le propriétaire ou le conducteur du véhicule était présent, ou à l'adresse indiquée au fichier
+des immatriculations. 
+
+Lorsque le véhicule n'est pas identifiable, il n'est pas procédé à cette formalité. Mention en est faite dans le procès-
+verbal ou dans le rapport de mise en fourrière. 
+
+" Art. R. 325-32.-I.-Cette notification s'effectue par lettre recommandée avec demande d'accusé de réception, dans le délai
+maximal de cinq jours ouvrables suivant la mise en fourrière du véhicule. 
+
+Il y est joint un double de la fiche descriptive de l'état du véhicule mis en fourrière en cas d'absence du propriétaire ou
+du conducteur au moment de l'enlèvement pour mise en fourrière. 
+
+II.-Cette notification comporte les mentions obligatoires suivantes : 
+
+1° Indication de l'auteur de la prescription, du motif de la prescription, de la fourrière désignée et de l'autorité dont
+relève cette fourrière ; 
+
+2° Décision de classement prise en application de l'article R. 325-30 et indication de la faculté de faire procéder à une
+contre-expertise conformément aux articles R. 325-35 et R. 325-36 ; 
+
+3° Autorité qualifiée pour donner mainlevée de la mise en fourrière ; 
+
+4° Injonction au propriétaire du véhicule, s'il est soumis à immatriculation, de remettre immédiatement, sous peine
+d'encourir l'amende prévue pour les contraventions de la quatrième classe, le certificat d'immatriculation à l'autorité
+qualifiée pour donner mainlevée de la mise en fourrière ; 
+
+5° Mise en demeure au propriétaire de retirer son véhicule avant l'expiration d'un délai : 
+
+a) De dix jours pour un véhicule qu'un expert aura estimé d'une valeur marchande inférieure à un montant fixé par le
+gouvernement de la Nouvelle-Calédonie et déclaré hors d'état de circuler dans des conditions normales de sécurité ; 
+
+b) De quarante-cinq jours dans les autres cas, 
+
+ces délais commençant à courir un jour franc après la date de notification ; 
+
+6° Avertissement au propriétaire que son absence de réponse dans les délais impartis vaudra abandon de son véhicule et que
+ledit véhicule sera, dans les conditions prévues par décret, soit remis au service compétent de la Nouvelle-Calédonie chargé
+de son aliénation dans les formes prévues pour les ventes de son mobilier en vue de son aliénation, soit livré à la
+destruction ; 
+
+7° Nature et montant des frais qu'il sera tenu de rembourser ; 
+
+8° Enoncé des voies de recours. 
+
+III.-Si le fichier des immatriculations révèle l'inscription d'un gage, copie de la notification de mise en fourrière est
+adressée par l'auteur de la prescription de mise en fourrière au créancier-gagiste, par lettre recommandée avec demande
+d'accusé de réception, qui fait référence aux articles 5,6 et 7 du décret n° 72-823 du 6 septembre 1972 fixant les conditions
+de remise au service des domaines des véhicules non retirés de fourrière par leurs propriétaires. 
+
+" Art. R. 325-33.-Le fait, pour le propriétaire d'un véhicule, de ne pas restituer le certificat d'immatriculation
+immédiatement après la notification qui lui a été faite en application de l'article R. 325-32 (II, 4°) est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
+
+" Art. R. 325-34.-Toute personne se trouvant destinataire du certificat d'immatriculation d'un véhicule mis en fourrière est
+tenue de le transmettre sans délai à l'autorité ayant compétence pour prononcer la mainlevée. 
+
+" Art. R. 325-35.-En cas de désaccord sur l'état du véhicule ou sur la décision de classement visée à l'article R. 325-30, le
+propriétaire a la faculté de faire procéder à une contre-expertise. 
+
+La contre-expertise est faite par un expert choisi sur la liste visée à l'article R. 325-30. 
+
+Dans le cas où la contre-expertise confirme l'expertise initiale, les frais d'expertise et de contre-expertise sont à la
+charge du propriétaire. Dans le cas contraire, ces frais incombent à l'autorité dont relève la fourrière. 
+
+" Art. R. 325-36.-L'autorité dont relève la fourrière ne peut s'opposer à la demande d'autorisation provisoire de sortie de
+fourrière présentée par le propriétaire du véhicule en vue exclusivement de faire procéder aux travaux reconnus
+indispensables par l'expert. Il en est de même lorsque le propriétaire du véhicule fait procéder à une contre-expertise, aux
+réparations remettant le véhicule en état de circuler dans des conditions normales de sécurité ainsi qu'au contrôle technique
+du véhicule. 
+
+Cette autorisation provisoire de sortie de fourrière, dont le modèle est fixé par délibération du congrès de la Nouvelle-
+Calédonie, qui tient lieu de pièce de circulation et qui est limitée au temps des parcours nécessaires et des opérations
+précitées, peut prescrire un itinéraire et des conditions de sécurité. 
+
+Le réparateur doit remettre au propriétaire du véhicule une facture détaillée certifiant l'exécution des travaux prescrits en
+application du 2° du I de l'article R. 325-30. 
+
+" Art. R. 325-37.-L'autorité dont relève la fourrière informe l'autorité qualifiée pour prononcer la mainlevée de la
+délivrance de l'autorisation provisoire de sortie de fourrière et de la durée de sa validité. 
+
+En ce qui concerne les véhicules volés retrouvés en fourrière, l'autorité dont relève la fourrière est tenue d'informer au
+préalable les services de police ou de gendarmerie compétents de son intention de délivrer une autorisation provisoire de
+sortie de fourrière. 
+
+" Art. R. 325-38.-I.-Chaque prescription de mise en fourrière prend fin par une décision de mainlevée. 
+
+II.-Cette décision émane de l'autorité qui a prescrit la mise en fourrière ou de l'officier de police judiciaire chargé
+d'exécuter cette mesure. 
+
+III.-Lorsque l'autorité qualifiée pour prononcer la mainlevée est saisie en ce sens par le procureur de la République, comme
+il est prévu à l'article R. 325-27, elle est tenue de donner immédiatement mainlevée. 
+
+IV.-L'autorité qualifiée pour prononcer la mainlevée est tenue de le faire, de restituer le certificat d'immatriculation du
+véhicule s'il a été retiré et de délivrer une autorisation définitive de sortie de fourrière : 
+
+1° Sur simple demande du propriétaire ou du conducteur si elle concerne un véhicule classé dans la première catégorie visée à
+l'article R. 325-30 ; 
+
+2° S'il s'agit d'un véhicule classé dans la deuxième ou la troisième catégorie, sur demande du propriétaire ou du conducteur,
+accompagnée selon le cas : 
+
+a) De la facture détaillée du réparateur certifiant l'exécution des travaux reconnus indispensables par l'expert ; 
+
+b) Ou du récépissé délivré par un centre de contrôle technique désigné selon les dispositions localement applicables,
+postérieur à la date de mise en fourrière. 
+
+V.-Les dispositions du IV ci-dessus ne s'appliquent pas aux véhicules volés retrouvés en fourrière ainsi qu'aux véhicules
+dont le propriétaire et l'assureur demeurent inconnus ou introuvables malgré les recherches effectuées, pour lesquels la
+mainlevée ne peut être prononcée qu'après accord préalable exprès des services de police ou de gendarmerie compétents. 
+
+" Art. R. 325-40.-La mainlevée prend effet au jour de la délivrance de l'autorisation définitive de sortie du véhicule dans
+les cas prévus au IV de l'article R. 325-38. 
+
+La mainlevée prend effet à compter de la remise du véhicule au service compétent chargé de son aliénation dans les formes
+prévues pour les ventes de son mobilier s'il est destiné à être aliéné, ou de sa remise à l'entreprise spécialisée s'il est
+destiné à être détruit. 
+
+" Art. R. 325-41.-Le gardien de la fourrière restitue le véhicule à son propriétaire ou à son conducteur dès que ce dernier
+produit l'autorisation définitive de sortie de fourrière et s'est acquitté des frais de mise en fourrière, d'enlèvement, de
+garde et d'expertise, dans le cas où ces derniers sont à la charge du propriétaire. Ces frais sont arrêtés à la date de
+reprise du véhicule. 
+
+" Art. R. 325-42.-Aucun véhicule mis en fourrière ne peut être remis au service compétent chargé de son aliénation dans les
+formes prévues pour les ventes de son mobilier en vue de son aliénation ou à une entreprise de démolition en vue de sa
+destruction sans que la mainlevée de cette mesure ait été préalablement prononcée à l'une ou l'autre de ces fins. 
+
+" Art. R. 325-43.-En application des dispositions des articles L. 325-7 et L. 325-8 relatives aux véhicules abandonnés, dans
+leur rédaction applicable à la Nouvelle-Calédonie, l'autorité dont relève la fourrière décide de la remise du véhicule au
+service compétent chargé de son aliénation dans les formes prévues pour les ventes de son mobilier en vue de son aliénation ;
+l'autorité administrative investie du pouvoir de police en matière de circulation décide de la destruction des véhicules
+mentionnés au quatrième alinéa de l'article L. 325-7 ainsi que des véhicules qui ont été remis au service compétent chargé de
+son aliénation dans les formes prévues pour les ventes de son mobilier pour aliénation et qui n'ont pas trouvé preneur. 
+
+L'autorité dont relève la fourrière informe de ces décisions l'autorité qualifiée pour prononcer la mainlevée, détentrice du
+certificat d'immatriculation. 
+
+Dans ce cas, en se référant aux décisions susvisées, l'autorité qualifiée précitée envoie le certificat d'immatriculation,
+dûment barré, à l'autorité compétente territorialement, aux fins d'annulation de ce document. Si l'envoi du certificat
+d'immatriculation est impossible, elle en précise le motif. 
+
+" Art. R. 325-45.-I.-Le responsable de l'entreprise chargée de la destruction d'un véhicule prend en charge celui-ci en
+remettant au gardien de la fourrière un bon d'enlèvement délivré par l'autorité dont relève la fourrière. Il rend compte de
+la destruction dudit véhicule à l'autorité dont relève la fourrière, à l'autorité qui a prononcé la mainlevée de mise en
+fourrière. 
+
+II.-Les autorités dont relèvent les fourrières, définies aux articles R. 325-20 et R. 325-21, peuvent passer contrat avec des
+entreprises appelées à effectuer la destruction des véhicules, selon les modalités fixées par les autorités compétentes de la
+Nouvelle-Calédonie. 
+
+" Art. R. 325-46.-Les dispositions concernant la mise en fourrière ne sont pas applicables aux véhicules militaires. "
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°72-823 du 6 septembre 1972 - art. 5 (V)
+  - Code de la route. - art. L325-2 (V)
+  - Code de la route. - art. L325-7 (V)
+  - Code de la route. - art. R325-12 (V)
+  - Code de la route. - art. R325-40 (V)
+  - Code de la route. - art. R325-45 (V)
+
+_Codifié par_:
+
+  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+_Créé par_:
+
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 10 () JORF 18 novembre 2007
+  - Décret n°2007-1626 du 16 novembre 2007 - art. 14 () JORF 18 novembre 2007
+
+
+## Livre IV : L'usage des voies.<a id=168></a>
+
+### Titre Ier : Dispositions générales.<a id=169></a>
+
+#### Chapitre Ier : Pouvoirs de police de la circulation<a id=170></a>
+
+##### Section 1 : Pouvoirs généraux de police.<a id=171></a>
 
 ###### Article R411-1
 
@@ -27974,7 +29040,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Commission départementale de la sécurité routière.<a id=168></a>
+##### Section 2 : Commission départementale de la sécurité routière.<a id=172></a>
 
 ###### Article R411-10
 
@@ -28080,7 +29146,7 @@ _Cite_:
   - Code de la route. - art. R411-11 (M)
 
 
-##### Section 3 : Interdictions et restrictions de circulation.<a id=169></a>
+##### Section 3 : Interdictions et restrictions de circulation.<a id=173></a>
 
 ###### Article R411-18
 
@@ -28403,7 +29469,7 @@ _Cité par_:
   - Code de la route. - art. R442-6 (V)
 
 
-##### Section 4 : Signalisation routière.<a id=170></a>
+##### Section 4 : Signalisation routière.<a id=174></a>
 
 ###### Article R411-25
 
@@ -28539,7 +29605,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 5 : Courses et épreuves sportives.<a id=171></a>
+##### Section 5 : Courses et épreuves sportives.<a id=175></a>
 
 ###### Article R411-29
 
@@ -28669,9 +29735,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=172></a>
+#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=176></a>
 
-##### Section 1 : Equipements des utilisateurs de véhicules.<a id=173></a>
+##### Section 1 : Equipements des utilisateurs de véhicules.<a id=177></a>
 
 ###### Article R412-1
 
@@ -28902,7 +29968,7 @@ _Cite_:
   - Code de la route. - art. R412-1 (V)
 
 
-##### Section 2 : Principes généraux de circulation.<a id=174></a>
+##### Section 2 : Principes généraux de circulation.<a id=178></a>
 
 ###### Article R412-6
 
@@ -29407,7 +30473,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Matérialisation des voies de circulation.<a id=175></a>
+##### Section 3 : Matérialisation des voies de circulation.<a id=179></a>
 
 ###### Article R412-18
 
@@ -29656,7 +30722,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 4 : Sens de circulation.<a id=176></a>
+##### Section 4 : Sens de circulation.<a id=180></a>
 
 ###### Article R412-26
 
@@ -29749,7 +30815,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 5 : Feux de signalisation lumineux.<a id=177></a>
+##### Section 5 : Feux de signalisation lumineux.<a id=181></a>
 
 ###### Article R412-29
 
@@ -29907,7 +30973,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 6 : Circulation des piétons.<a id=178></a>
+##### Section 6 : Circulation des piétons.<a id=182></a>
 
 ###### Article R412-34
 
@@ -30229,7 +31295,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=179></a>
+##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=183></a>
 
 ###### Article R412-44
 
@@ -30423,7 +31489,7 @@ _Anciens textes_:
   - Code de la route R223, R233 (al. 1 et 2)
 
 
-##### Section 8 : Troubles à la circulation.<a id=180></a>
+##### Section 8 : Troubles à la circulation.<a id=184></a>
 
 ###### Article R412-51
 
@@ -30491,9 +31557,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Vitesse<a id=181></a>
+#### Chapitre III : Vitesse<a id=185></a>
 
-##### Section 1 : Vitesses maximales autorisées.<a id=182></a>
+##### Section 1 : Vitesses maximales autorisées.<a id=186></a>
 
 ###### Article R413-1
 
@@ -31156,7 +32222,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Maîtrise de la vitesse.<a id=183></a>
+##### Section 2 : Maîtrise de la vitesse.<a id=187></a>
 
 ###### Article R413-17
 
@@ -31280,9 +32346,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre IV : Croisement et dépassement<a id=184></a>
+#### Chapitre IV : Croisement et dépassement<a id=188></a>
 
-##### Section 1 : Croisement.<a id=185></a>
+##### Section 1 : Croisement.<a id=189></a>
 
 ###### Article R414-1
 
@@ -31388,7 +32454,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Dépassement.<a id=186></a>
+##### Section 2 : Dépassement.<a id=190></a>
 
 ###### Article R414-4
 
@@ -31910,7 +32976,7 @@ _Cité par_:
   - Code de la route. - art. R442-2 (V)
 
 
-#### Chapitre V : Intersections et priorité de passage.<a id=187></a>
+#### Chapitre V : Intersections et priorité de passage.<a id=191></a>
 
 ###### Article R415-1
 
@@ -32456,9 +33522,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=188></a>
+#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=192></a>
 
-##### Section 1 : Emploi des avertisseurs.<a id=189></a>
+##### Section 1 : Emploi des avertisseurs.<a id=193></a>
 
 ###### Article R416-1
 
@@ -32542,7 +33608,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=190></a>
+##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=194></a>
 
 ###### Article R416-4
 
@@ -32965,7 +34031,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres dispositions.<a id=191></a>
+##### Section 3 : Autres dispositions.<a id=195></a>
 
 ###### Article R416-17
 
@@ -33111,9 +34177,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VII : Arrêt et stationnement<a id=192></a>
+#### Chapitre VII : Arrêt et stationnement<a id=196></a>
 
-##### Section 1 : Dispositions générales.<a id=193></a>
+##### Section 1 : Dispositions générales.<a id=197></a>
 
 ###### Article R417-1
 
@@ -33382,7 +34448,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=194></a>
+##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=198></a>
 
 ###### Article R417-9
 
@@ -33655,7 +34721,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=195></a>
+#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=199></a>
 
 ###### Article R418-1
 
@@ -33957,9 +35023,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=196></a>
+### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=200></a>
 
-#### Chapitre Ier : Autoroutes.<a id=197></a>
+#### Chapitre Ier : Autoroutes.<a id=201></a>
 
 ###### Article R421-1
 
@@ -34310,7 +35376,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=198></a>
+#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=202></a>
 
 ###### Article R422-1
 
@@ -34485,9 +35551,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=199></a>
+### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=203></a>
 
-#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=200></a>
+#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=204></a>
 
 ###### Article R431-1
 
@@ -34862,9 +35928,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Véhicules d'intérêt général<a id=201></a>
+#### Chapitre II : Véhicules d'intérêt général<a id=205></a>
 
-##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=202></a>
+##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=206></a>
 
 ###### Article R432-1
 
@@ -35115,7 +36181,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R442-7 (V)
 
 
-##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=203></a>
+##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=207></a>
 
 ###### Article R432-2
 
@@ -35443,7 +36509,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres véhicules d'intérêt général.<a id=204></a>
+##### Section 3 : Autres véhicules d'intérêt général.<a id=208></a>
 
 ###### Article R432-5
 
@@ -35551,9 +36617,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=205></a>
+#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=209></a>
 
-##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=206></a>
+##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=210></a>
 
 ###### Article R433-1
 
@@ -35876,7 +36942,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Transports exceptionnels de personnes.<a id=207></a>
+##### Section 2 : Transports exceptionnels de personnes.<a id=211></a>
 
 ###### Article R433-7
 
@@ -35928,7 +36994,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=208></a>
+##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=212></a>
 
 ###### Article R433-8
 
@@ -35975,7 +37041,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre IV : Convois et véhicules à traction animale.<a id=209></a>
+#### Chapitre IV : Convois et véhicules à traction animale.<a id=213></a>
 
 ###### Article R434-1
 
@@ -36108,9 +37174,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre V : Autres véhicules<a id=210></a>
+#### Chapitre V : Autres véhicules<a id=214></a>
 
-##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=211></a>
+##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=215></a>
 
 ###### Article R435-1
 
@@ -36156,7 +37222,7 @@ _Cite_:
   - Code de la route L325-1 à L325-3
 
 
-##### Section 2 : Ensembles forains<a id=212></a>
+##### Section 2 : Ensembles forains<a id=216></a>
 
 ###### Article R436-1
 
@@ -36203,9 +37269,9 @@ _Nouveaux textes_:
   - Code de la route. - art. R435-3 (V)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=213></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=217></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=214></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=218></a>
 
 ###### Article R441-1
 
@@ -36335,7 +37401,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=215></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=219></a>
 
 ###### Article R442-1
 
