@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2007-11-18
+Version Consolidée au 2007-12-22
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -702,8 +702,8 @@ d'une somme égale au montant de l'amende forfaitaire s'il s'en acquitte dans un
 effet d'annuler le titre exécutoire pour le montant de la majoration. 
 
 La réclamation doit être accompagnée de l'avis d'amende forfaitaire majorée correspondant à l'amende considérée ainsi que,
-dans le cas prévu par l'article 529-10, de l'un des documents exigés par cet article, à défaut de quoi elle n'a pas pour
-effet d'annuler le titre exécutoire. " 
+dans le cas prévu par l'article 529-10, de l'un des documents exigés par cet article, à défaut de quoi elle est
+irrecevable." 
 
 " Art. 530-1-Au vu de la requête faite en application du premier alinéa de l'article 529-2, de la protestation formulée en
 application du premier alinéa de l'article 529-5 ou de la réclamation faite en application du deuxième alinéa de l'article
@@ -739,11 +739,6 @@ les infractions sont assermentés et perçoivent le montant des amendes forfaita
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 _Cité par_:
 
   - Loi n°2003-495 du 12 juin 2003 - art. 29 (V)
@@ -751,11 +746,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 2004-03-09 art. 56 III, IV, V, art. 61 II, art. 62 JORF 10 mars 2004
-  - Loi n°2004-204 du 9 mars 2004 - art. 56 () JORF 10 mars 2004
-  - Loi n°2004-204 du 9 mars 2004 - art. 61 () JORF 10 mars 2004
-  - Loi n°2004-204 du 9 mars 2004 - art. 62 () JORF 10 mars 2004
-  - Loi n°2005-47 du 26 janvier 2005 - art. 9
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 5
 
 _Cite_:
 
