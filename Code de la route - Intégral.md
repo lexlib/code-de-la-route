@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2007-12-31
+Version Consolidée au 2008-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -11813,10 +11813,6 @@ II. Le permis de conduire des catégories et des sous-catégories ci-dessus ment
 fixées par le ministre chargé des transports, aux personnes atteintes d'un handicap physique nécessitant l'aménagement du
 véhicule.
 
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -11855,7 +11851,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1712 du 23 décembre 2006 - art. 4 () JORF 23 décembre 2006 en vigueur jusqu'au 1er janvier 2008
+  - Décret n°2006-1496 du 29 novembre 2006 - art. 4 () JORF 1er décembre 2006 en vigueur le 1er janvier 2008
 
 _Anciens textes_:
 
@@ -13028,18 +13024,18 @@ fixées par les articles L. 225-1 à L. 225-9.
 
 III. - Lorsque le ministre de l'intérieur constate que la réalité d'une infraction entraînant retrait de points est établie
 dans les conditions prévues par le quatrième alinéa de l'article L. 223-1, il réduit en conséquence le nombre de points
-affecté au permis de conduire de l'auteur de cette infraction et en informe ce dernier par lettre simple. Le ministre de
-l'intérieur constate et notifie à l'intéressé, dans les mêmes conditions, les reconstitutions de points obtenues en
-application des alinéas 1 et 3 de l'article L. 223-6.
+affecté au permis de conduire de l'auteur de cette infraction.
 
-IV. - Lorsque le nombre de points est nul, le préfet du département ou l'autorité compétente du territoire ou de la
-collectivité territoriale d'outre-mer, du lieu de résidence, enjoint à l'intéressé, par lettre recommandée, de restituer son
-titre de conduite dans un délai d'une semaine à compter de la réception de cette lettre.
+Si le retrait de points lié à cette infraction n'aboutit pas à un nombre nul de points affectés au permis de conduire de
+l'auteur de l'infraction, celui-ci est informé par le ministre de l'intérieur par lettre simple du nombre de points retirés.
+Le ministre de l'intérieur constate et notifie à l'intéressé, dans les mêmes conditions, les reconstitutions de points
+obtenues en application des alinéas 1 et 3 de l'article L. 223-6.
 
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.    NOTA : La présente version de cet article est en
-vigueur jusqu'au 1er janvier 2008.
+Si le retrait de points aboutit à un nombre nul de points affectés au permis de conduire, l'auteur de l'infraction est
+informé par le ministre de l'intérieur par lettre recommandée avec demande d'avis de réception du nombre de points retirés.
+Cette lettre récapitule les précédents retraits ayant concouru au solde nul, prononce l'invalidation du permis de conduire et
+enjoint à l'intéressé de restituer celui-ci au préfet du département ou de la collectivité d'outre-mer de son lieu de
+résidence dans un délai de dix jours francs à compter de sa réception.
 
 **Liens relatifs à cet article**
 
@@ -13049,8 +13045,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-642 2003-07-11 art. 4 III, IV JORF 12 juillet 2003
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+  - Décret n°2007-753 du 9 mai 2007 - art. 2 () JORF 10 mai 2007 en vigueur le 1er janvier 2008
 
 _Cité par_:
 
@@ -13060,13 +13055,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de la route - art. R258 (Ab)
-  - Code de la route R258
-
-_Cite_:
-
-  - Code de la route L223-1, L225-1 à L225-9, L223-6
-  - Code de la route. - art. L223-1 (M)
-  - Code de la route. - art. L223-6 (M)
 
 
 ###### Article R223-4
@@ -29561,6 +29549,8 @@ _Cité par_:
 I. - En circulation, tout conducteur ou passager d'un véhicule à moteur doit porter une ceinture de sécurité homologuée dès
 lors que le siège qu'il occupe en est équipé en application des dispositions du livre III.
 
+Chaque siège équipé d'une ceinture de sécurité ne peut être occupé que par une seule personne.
+
 II. - Toutefois, le port de la ceinture de sécurité n'est pas obligatoire :
 
 1° Pour toute personne dont la morphologie est manifestement inadaptée au port de celle-ci ;
@@ -29586,24 +29576,15 @@ prévue pour les contraventions de la quatrième classe.
 IV. - Lorsque cette contravention est commise par le conducteur, elle donne lieu de plein droit à la réduction de trois
 points du permis de conduire.
 
-**Nota:**
-
-NOTA : Décret 2003-440 art. 3 : Ces dispositions sont applicables à Mayotte.    NOTA : La présente version de cet article est
-en vigueur jusqu'au 1er janvier 2008.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-440 du 14 mai 2003 - art. 3, v. init.
-
 _Modifié par_:
 
-  - Décret n°2003-637 du 9 juillet 2003 - art. 1 () JORF 10 juillet 2003
+  - Décret n°2006-1496 du 29 novembre 2006 - art. 1 () JORF 1er décembre 2006 en vigueur le 1er janvier 2008
 
 _Cité par_:
 
