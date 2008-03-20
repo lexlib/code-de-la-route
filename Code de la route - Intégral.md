@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-03-21
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -9407,30 +9407,36 @@ _Cité par_:
 
 Le fait, pour tout employeur auquel s'applique la réglementation relative au transport routier de personnes ou de
 marchandises, de donner, directement ou indirectement, à un de ses salariés chargé de la conduite d'un véhicule de transport
-routier de personnes ou de marchandises des instructions incompatibles avec le respect des dispositions :
+routier de personnes ou de marchandises des instructions incompatibles avec le respect des dispositions : 
 
-1° De l'article 6 du règlement (CEE) n° 3820/85 du Conseil du 20 décembre 1985, relatives aux durées maximales de conduite ;
+1° de l'article 6 du règlement (CE) n° 561 / 2006 du Parlement européen et du Conseil du 15 mars 2006, relatives aux durées
+maximales de conduite ; 
 
-2° De l'article 8 du règlement (CEE) n° 3820/85 du Conseil du 20 décembre 1985, relatives à la durée minimale du repos
-journalier ainsi qu'à la durée minimale du repos hebdomadaire ;
+2° de l'article 8 du règlement (CE) n° 561 / 2006 du Parlement européen et du Conseil du 15 mars 2006, relatives à la durée
+minimale du repos journalier ainsi qu'à la durée minimale du repos hebdomadaire ; 
 
 3° De l'article 7 du décret n° 83-40 du 26 janvier 1983 relatives à la durée quotidienne du travail dans les entreprises de
-transport routier ;
+transport routier ; 
 
-4° De l'article L. 212-7 du code du travail relatives à la durée hebdomadaire du travail,
+4° De l'article L. 212-7 du code du travail relatives à la durée hebdomadaire du travail, 
 
 est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°83-40 du 26 janvier 1983 - art. 7
+  - Code du travail - art. L212-7
 
 _Anciens textes_:
 
   - Décret n°92-699 1992-07-23 art. 2
   - Décret n°92-699 du 23 juillet 1992 - art. 2 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-269 du 18 mars 2008 - art. 2
 
 _Cité par_:
 
@@ -9488,17 +9494,18 @@ _Cite_:
 
 Le fait, pour tout expéditeur, commissionnaire, affréteur, mandataire, destinataire ou tout autre donneur d'ordres, en
 connaissance de cause, de donner à tout transporteur routier de marchandises, ou à tout préposé de celui-ci, des instructions
-incompatibles avec le respect des dispositions :
+incompatibles avec le respect des dispositions : 
 
-1° De l'article 6 du règlement (CEE) n° 3820/85 du Conseil du 20 décembre 1985, relatives aux durées maximales de conduite
-journalière ;
+1° de l'article 6 du règlement (CE) n° 561/2006 du Parlement européen et du Conseil du 15 mars 2006, relatives aux durées
+maximales de conduite journalière ; 
 
 2° Du second paragraphe de l'article 7 du décret n° 83-40 du 26 janvier 1983 relatif à la durée du travail dans les
-entreprises de transport routier ;
+entreprises de transport routier ; 
 
-3° Relatives aux vitesses maximales autorisées par le présent code ;
+3° Relatives aux vitesses maximales autorisées par le présent code ; 
 
-4° Des articles R. 312-2, R. 312-3 et R. 312-4, relatives aux limites de poids des véhicules ;
+4° Des articles R. 312-2, 
+R. 312-3 et R. 312-4, relatives aux limites de poids des véhicules ; 
 
 5° Des articles R. 433-1 à R. 433-3 relatives aux transports exceptionnels de marchandises, d'engins ou de véhicules
 concernant le poids du véhicule et les dimensions du chargement, 
@@ -9507,14 +9514,22 @@ est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°83-40 du 26 janvier 1983 - art. 7
+  - Code de la route. - art. R312-2
+  - Code de la route. - art. R312-3
+  - Code de la route. - art. R312-4
+  - Code de la route. - art. R433-1 (V)
+
 _Anciens textes_:
 
   - Décret n°92-699 1992-07-23 art. 5
   - Décret n°92-699 du 23 juillet 1992 - art. 5 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-269 du 18 mars 2008 - art. 2
 
 _Cité par_:
 
