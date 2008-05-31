@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2008-05-28
+Version Consolidée au 2008-06-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -1607,15 +1607,28 @@ _Anciens textes_:
 
 ###### Article L212-1
 
-L'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'une catégorie donnée et de la sécurité routière est
-subordonné à la délivrance d'une autorisation administrative.
+I.-L'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'une catégorie donnée et de la sécurité routière
+ainsi que l'animation de stages de sensibilisation à la sécurité routière mentionnés à l'article L. 223-6 sont subordonnés à
+la délivrance d'une autorisation administrative. 
+
+II.-Par dérogation au I, tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'Espace
+économique européen, légalement établi, pour l'exercice des activités mentionnées au I, dans un de ces Etats, peut exercer
+ces activités de façon temporaire et occasionnelle en France. 
+
+Toutefois, lorsque ces activités ou la formation y conduisant ne sont pas réglementées dans l'Etat d'établissement, le
+prestataire doit avoir exercé ces activités dans cet Etat pendant au moins deux ans au cours des dix années qui précèdent la
+prestation. 
+
+Lorsque le prestataire fournit pour la première fois une prestation en France, il en informe au préalable l'autorité
+compétente par une déclaration écrite qui donne lieu à une vérification de ses qualifications professionnelles. Les
+conditions d'application du présent alinéa sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V)
+  - Ordonnance n°2008-507 du 30 mai 2008 - art. 9
 
 _Cité par_:
 
@@ -1638,20 +1651,26 @@ _Anciens textes_:
   - Code de la route - art. L29 (Ab)
   - Code de la route L29
 
+_Cite_:
+
+  - Code de la route. - art. L223-6
+
 
 ###### Article L212-4
 
-I. - Le fait d'enseigner, à titre onéreux, la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière
+I.-Le fait d'enseigner, à titre onéreux, la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière
 sans être titulaire de l'autorisation prévue à l'article L. 212-1 ou en violation d'une mesure de suspension provisoire de
-celle-ci est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+celle-ci est puni d'un an d'emprisonnement et de 15 000 euros d'amende. Est puni de la même peine l'exercice temporaire et
+occasionnel de l'enseignement de la conduite et de la sécurité routière sans respecter les conditions fixées au II de
+l'article L. 212-1. 
 
-II. - Les personnes physiques coupables de l'infraction prévue à l'alinéa précédent encourent également les peines
-complémentaires suivantes :
+II.-Les personnes physiques coupables de l'infraction prévue à l'alinéa précédent encourent également les peines
+complémentaires suivantes : 
 
 1° L'interdiction d'exercer l'activité professionnelle dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction
-a été commise, suivant les modalités prévues par l'article 131-27 du code pénal ;
+a été commise, suivant les modalités prévues par l'article 131-27 du code pénal ; 
 
-2° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal ;
+2° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal ; 
 
 3° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
 
@@ -1659,12 +1678,7 @@ a été commise, suivant les modalités prévues par l'article 131-27 du code p�
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2008-507 du 30 mai 2008 - art. 9
 
 _Cité par_:
 
@@ -1673,15 +1687,16 @@ _Cité par_:
   - Code de la route. - art. R212-4 (V)
   - Code de la voirie routière - art. L118-4 (V)
 
+_Cite_:
+
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-35
+  - Code de la route. - art. L212-1
+
 _Anciens textes_:
 
   - Code de la route - art. L29-3 (Ab)
   - Code de la route L29-3
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre 3 : Etablissements d'enseignement.<a id=16></a>
@@ -6454,20 +6469,31 @@ _Cité par_:
 
 ###### Article L323-1
 
-Lorsqu'en application du présent code, des véhicules sont astreints à un contrôle technique, celui-ci est effectué par les
-services de l'Etat ou par des contrôleurs agréés par l'Etat.
+I. - Lorsqu'en application du présent code, des véhicules sont astreints à un contrôle technique, celui-ci est effectué par
+les services de l'Etat ou par des contrôleurs agréés par l'Etat. 
 
 Cet agrément peut être délivré soit à des contrôleurs indépendants, soit à des contrôleurs organisés en réseaux d'importance
 nationale, sous réserve qu'ils n'aient fait l'objet d'aucune condamnation inscrite au bulletin n° 2 de leur casier
-judiciaire.
+judiciaire. 
 
-Les fonctions de contrôleur ainsi que les autres fonctions exercées dans les organismes susvisés sont exclusives de toute
-autre activité exercée dans la réparation ou le commerce automobile.
+Les fonctions de contrôleur ainsi que les autres fonctions exercées dans ces réseaux sont exclusives de toute autre activité
+exercée dans la réparation ou le commerce automobile. 
 
-Les frais de contrôle sont à la charge du propriétaire du véhicule.
+Les frais de contrôle sont à la charge du propriétaire du véhicule. 
 
 Un décret en Conseil d'Etat fixe les modalités de fonctionnement du système de contrôle et en particulier les conditions
-d'agrément des contrôleurs, des installations nécessaires au contrôle et des réseaux visés au deuxième alinéa.
+d'agrément des contrôleurs, des installations nécessaires au contrôle et des réseaux mentionnés au deuxième alinéa. 
+
+II. - Par dérogation au I, tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'Espace économique européen, légalement établi, pour l'exercice de la profession de contrôleur technique de véhicules, dans
+un de ces Etats, peut exercer cette activité de façon temporaire et occasionnelle en France. 
+
+Toutefois, lorsque cette activité ou la formation y conduisant n'est pas réglementée dans l'Etat d'établissement, le
+prestataire doit avoir exercé cette activité dans cet Etat pendant au moins deux ans au cours des dix années qui précèdent la
+prestation. 
+
+Lorsque le prestataire fournit pour la première des services en France, il en informe au préalable l'autorité compétente par
+une déclaration écrite, dans les conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -6500,10 +6526,9 @@ _Cité par_:
   - Code de la route. - art. R323-19 (V)
   - Code de la route. - art. R323-6 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2008-507 du 30 mai 2008 - art. 11
 
 
 #### Chapitre 4 : Assurance.<a id=43></a>
@@ -7334,12 +7359,9 @@ _Créé par_:
 
 ###### Article L326-1
 
-Ont la qualité d'expert en automobile :
-
-1° Les personnes ayant satisfait à un examen théorique et pratique dans des conditions déterminées par décret ;
-
-2° Les personnes ayant obtenu la reconnaissance de cette qualité par l'autorité administrative compétente à condition d'en
-avoir fait la demande avant le 13 juillet 1986 et de remplir les conditions requises au 31 décembre 1977.
+Ont la qualité d'experts en automobile les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat
+partie à l'accord sur l'Espace économique européen qui remplissent les conditions de qualification professionnelle
+déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -7350,14 +7372,9 @@ _Anciens textes_:
   - Loi n°72-1097 du 11 décembre 1972 - art. 1 (Ab)
   - Loi n°85-695 1985-07-11 art. 32 IV
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 _Modifié par_:
 
-  - Loi n°2003-495 2003-06-12 art. 20 1° JORF 13 juin 2003
+  - Ordonnance n°2008-507 du 30 mai 2008 - art. 10
 
 _Cité par_:
 
@@ -7396,9 +7413,9 @@ _Cité par_:
 
 ###### Article L326-3
 
-Nul ne peut exercer la profession d'expert en automobile s'il ne figure sur une liste arrêtée annuellement par une commission
-nationale présidée par un conseiller à la Cour de cassation et composée, de représentants de l'Etat, de représentants des
-professions concernées par l'expertise et l'assurance et de représentants des consommateurs.
+Nul ne peut exercer la profession d'expert en automobile s'il ne figure sur une liste arrêtée par une commission nationale
+présidée par un conseiller à la Cour de cassation et composée, de représentants de l'Etat, de représentants des professions
+concernées par l'expertise et l'assurance et de représentants des consommateurs.
 
 L'inscription sur cette liste est de droit pour les personnes remplissant les conditions fixées par le présent chapitre.
 
@@ -7406,17 +7423,11 @@ L'inscription sur cette liste est de droit pour les personnes remplissant les co
 
 _Anciens textes_:
 
-  - Loi n°72-1097 1972-12-11 art. 1 (al. 7 et 8)
   - Loi n°72-1097 du 11 décembre 1972 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2003-495 2003-06-12 art. 20 1°, 2° JORF 13 juin 2003
+  - Ordonnance n°2008-507 du 30 mai 2008 - art. 10
 
 _Cité par_:
 
@@ -7432,33 +7443,41 @@ _Cité par_:
 
 ###### Article L326-4
 
-I. - Seules les personnes inscrites sur la liste nationale des experts en automobile peuvent exercer les activités
-suivantes :
+I.-Seuls les ressortissants mentionnés à l'article L. 326-1 inscrits sur la liste nationale des experts en automobile peuvent
+exercer les activités suivantes : 
 
 1° Rédaction à titre habituel de rapports destinés à être produits à des tiers et relatifs à tous dommages causés aux
 véhicules à moteur ainsi qu'aux cycles et à leurs dérivés, notamment toutes opérations et études nécessaires à la
-détermination de l'origine, de la consistance, de la valeur de ces dommages et à leur réparation ;
+détermination de l'origine, de la consistance, de la valeur de ces dommages et à leur réparation ; 
 
-2° Détermination de la valeur des véhicules mentionnés au 1° du I du présent article.
+2° Détermination de la valeur des véhicules mentionnés au 1° du I du présent article. 
 
-II. - Les dispositions du présent article ne s'appliquent pas aux activités exercées dans le cadre d'une procédure judiciaire
-ou à celles exercées au profit de l'Etat.
+II.-Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'Espace économique européen,
+légalement établi, pour l'exercice de l'activité d'expert en automobile, dans un de ces Etats, peut exercer cette profession
+de façon temporaire et occasionnelle en France. Il est inscrit à titre temporaire sur la liste nationale des experts en
+automobile. 
+
+Toutefois, lorsque la profession d'expert en automobile ou la formation y conduisant n'est pas réglementée dans l'Etat
+d'établissement, le prestataire doit avoir exercé cette profession dans cet Etat pendant au moins deux ans au cours des dix
+années qui précèdent la prestation. 
+
+Lorsque le prestataire fournit pour la première fois des services en France, il en informe au préalable l'autorité compétente
+par une déclaration écrite qui donne lieu à une vérification de ses qualifications professionnelles. 
+
+III.-Par dérogation aux I et II ci-dessus, les activités exercées dans le cadre d'une procédure judiciaire ou intéressant la
+sécurité de l'Etat ou la défense nationale relèvent des seules dispositions particulières qui les réglementent. 
+
+IV.-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°72-1097 1972-12-11 art. 1 (al. 2, 3 et 6)
   - Loi n°72-1097 du 11 décembre 1972 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2003-495 2003-06-12 art. 20 1° JORF 13 juin 2003
+  - Ordonnance n°2008-507 du 30 mai 2008 - art. 10
 
 _Cité par_:
 
@@ -7475,6 +7494,10 @@ _Cité par_:
   - Code de la route. - art. R326-5 (V)
   - Code de la route. - art. R326-6 (V)
   - Code de la route. - art. R326-8 (V)
+
+_Cite_:
+
+  - Code de la route. - art. L326-1
 
 
 ###### Article L326-5
@@ -7521,9 +7544,7 @@ moteur et des pièces accessoires ;
 
 4° L'accomplissement d'actes de nature à porter atteinte à son indépendance.
 
-II. - Toute publicité commerciale est interdite.
-
-III. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article et notamment les règles
+II. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article et notamment les règles
 professionnelles que doivent respecter les experts en automobile.
 
 **Liens relatifs à cet article**
@@ -7532,14 +7553,9 @@ _Anciens textes_:
 
   - Loi n°72-1097 du 11 décembre 1972 - art. 5 (Ab)
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 _Modifié par_:
 
-  - Loi n°2003-495 2003-06-12 art. 20 1° JORF 13 juin 2003
+  - Ordonnance n°2008-507 du 30 mai 2008 - art. 10
 
 _Cité par_:
 
@@ -7584,24 +7600,25 @@ _Cité par_:
 
 ###### Article L326-8
 
-L'usage, sans droit, de la qualité d'expert en automobile ou le fait de s'en réclamer est puni des peines prévues aux
-articles 433-17 et 433-22 du code pénal.
+L'usage, sans droit, de la qualité d'expert en automobile ou le fait de s'en réclamer ainsi que l'exercice temporaire et
+occasionnel de cette activité sans respecter les conditions fixées au II de l'article L. 326-4 sont punis des peines prévues
+aux articles 433-17 et 433-22 du code pénal.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°72-1097 du 11 décembre 1972 - art. 3 (M)
   - Loi n°72-1097 du 11 décembre 1972 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2003-495 2003-06-12 art. 20 1° JORF 13 juin 2003
+  - Ordonnance n°2008-507 du 30 mai 2008 - art. 10
+
+_Cite_:
+
+  - Code pénal - art. 433-17
+  - Code pénal - art. 433-22
+  - Code de la route. - art. L326-4
 
 
 ###### Article L326-9
