@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2008-07-02
+Version Consolidée au 2008-08-02
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -9368,8 +9368,11 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 - agglomération : espace sur lequel sont groupés des immeubles bâtis rapprochés et dont l'entrée et la sortie sont signalées
 par des panneaux placés à cet effet le long de la route qui le traverse ou qui le borde ;
 
-- aire piétonne : emprise affectée, de manière temporaire ou permanente, à la circulation des piétons et à l'intérieur du
-périmètre de laquelle la circulation des véhicules est soumise à des prescriptions particulières ;
+- aire piétonne : section ou ensemble de sections de voies en agglomération, hors routes à grande circulation, constituant
+une zone affectée à la circulation des piétons de façon temporaire ou permanente. Dans cette zone, sous réserve des
+dispositions de l'article R. 431-9, seuls les véhicules nécessaires à la desserte interne de la zone sont autorisés à
+circuler à l'allure du pas et les piétons sont prioritaires sur ceux-ci. Les entrées et sorties de cette zone sont annoncées
+par une signalisation.
 
 - arrêt : immobilisation momentanée d'un véhicule sur une route durant le temps nécessaire pour permettre la montée ou la
 descente de personnes, le chargement ou le déchargement du véhicule, le conducteur restant aux commandes de celui-ci ou à
@@ -9388,7 +9391,7 @@ spécifique. Toutefois, en agglomération exclusivement, les carrefours à sens 
 central matériellement franchissable, qui peut être chevauché par les conducteurs lorsque l'encombrement de leur véhicule
 rend cette manoeuvre indispensable ;
 
-- chaussée : partie(s) de la route normalement utilisée(s) pour la circulation des véhicules ;
+- chaussée : partie (s) de la route normalement utilisée (s) pour la circulation des véhicules ;
 
 - intersection : lieu de jonction ou de croisement à niveau de deux ou plusieurs chaussées, quels que soient le ou les angles
 des axes de ces chaussées ;
@@ -9402,9 +9405,18 @@ véhicules ;
 
 - voie verte : route exclusivement réservée à la circulation des véhicules non motorisés, des piétons et des cavaliers ;
 
-- zone 30 : section ou ensemble de sections de routes constituant dans une commune une zone de circulation homogène, où la
-vitesse est limitée à 30 km/h, et dont les entrées et sorties sont annoncées par une signalisation et font l'objet
-d'aménagements spécifiques.
+- zone de rencontre : section ou ensemble de sections de voies en agglomération constituant une zone affectée à la
+circulation de tous les usagers. Dans cette zone, les piétons sont autorisés à circuler sur la chaussée sans y stationner et
+bénéficient de la priorité sur les véhicules. La vitesse des véhicules y est limitée à 20 km / h. Toutes les chaussées sont à
+double sens pour les cyclistes, sauf dispositions différentes prises par l'autorité investie du pouvoir de police. Les
+entrées et sorties de cette zone sont annoncées par une signalisation et l'ensemble de la zone est aménagé de façon cohérente
+avec la limitation de vitesse applicable.
+
+- zone 30 : section ou ensemble de sections de voies constituant une zone affectée à la circulation de tous les usagers. Dans
+cette zone, la vitesse des véhicules est limitée à 30 km / h. Toutes les chaussées sont à double sens pour les cyclistes,
+sauf dispositions différentes prises par l'autorité investie du pouvoir de police. Les entrées et sorties de cette zone sont
+annoncées par une signalisation et l'ensemble de la zone est aménagé de façon cohérente avec la limitation de vitesse
+applicable.
 
 **Liens relatifs à cet article**
 
@@ -9422,13 +9434,9 @@ _Cité par_:
   - Code de la route. - art. R431-9 (VD)
   - Code du tourisme. - art. D343-5 (V)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2004-998 du 16 septembre 2004 - art. 1 () JORF 23 septembre 2004
+  - Décret n°2008-754 du 30 juillet 2008 - art. 1
 
 _Anciens textes_:
 
@@ -9750,23 +9758,32 @@ _Cité par_:
 Les agents de police judiciaire adjoints mentionnés au 2° de l'article 21 du code de procédure pénale peuvent constater par
 procès-verbal, lorsqu'elles sont commises à l'intérieur du territoire communal sur les voies autres que les autoroutes, les
 contraventions aux articles R. 644-2 et R. 653-1 du code pénal commises à l'occasion de la conduite d'un véhicule, les
-contraventions aux dispositions du présent code à l'exception de celles prévues aux articles R. 121-1 à R. 121-5, R. 221-18,
-R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 321-4 (alinéas 1 à 4), R. 411-32, R. 412-17, R. 412-51, R. 412-52, R. 413-15.
+contraventions aux dispositions du présent code à l'exception de celles prévues aux articles R. 121-1 à R. 121-5, 
+R. 221-18, R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 411-32, R. 412-17, R. 412-51, R. 412-52, R. 413-15.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2005-320 du 30 mars 2005 - art. 1 () JORF 6 avril 2005
+  - Décret n°2008-754 du 30 juillet 2008 - art. 21
+
+_Cite_:
+
+  - Code pénal - art. R644-2
+  - Code pénal - art. R653-1
+  - Code de la route. - art. R121-1
+  - Code de la route. - art. R221-18
+  - Code de la route. - art. R222-2
+  - Code de la route. - art. R234-1
+  - Code de la route. - art. R314-2
+  - Code de la route. - art. R411-32
+  - Code de la route. - art. R412-17
+  - Code de la route. - art. R412-51
+  - Code de la route. - art. R413-15
 
 _Anciens textes_:
 
   - Code de la route - art. R249-1 (Ab)
-  - Code de la route R249-1
 
 _Cité par_:
 
@@ -13177,22 +13194,22 @@ _Anciens textes_:
 
 ###### Article R223-3
 
-I. - Lors de la constatation d'une infraction entraînant retrait de points, l'auteur de celle-ci est informé qu'il encourt un
-retrait de points si la réalité de l'infraction est établie dans les conditions définies à l'article L. 223-1.
+I.-Lors de la constatation d'une infraction entraînant retrait de points, l'auteur de celle-ci est informé qu'il encourt un
+retrait de points si la réalité de l'infraction est établie dans les conditions définies à l'article L. 223-1. 
 
-II. - Il est informé également de l'existence d'un traitement automatisé des retraits et reconstitutions de points et de la
+II.-Il est informé également de l'existence d'un traitement automatisé des retraits et reconstitutions de points et de la
 possibilité pour lui d'accéder aux informations le concernant. Ces mentions figurent sur le document qui lui est remis ou
 adressé par le service verbalisateur. Le droit d'accès aux informations ci-dessus mentionnées s'exerce dans les conditions
-fixées par les articles L. 225-1 à L. 225-9.
+fixées par les articles L. 225-1 à L. 225-9. 
 
-III. - Lorsque le ministre de l'intérieur constate que la réalité d'une infraction entraînant retrait de points est établie
+III.-Lorsque le ministre de l'intérieur constate que la réalité d'une infraction entraînant retrait de points est établie
 dans les conditions prévues par le quatrième alinéa de l'article L. 223-1, il réduit en conséquence le nombre de points
-affecté au permis de conduire de l'auteur de cette infraction.
+affecté au permis de conduire de l'auteur de cette infraction. 
 
 Si le retrait de points lié à cette infraction n'aboutit pas à un nombre nul de points affectés au permis de conduire de
 l'auteur de l'infraction, celui-ci est informé par le ministre de l'intérieur par lettre simple du nombre de points retirés.
 Le ministre de l'intérieur constate et notifie à l'intéressé, dans les mêmes conditions, les reconstitutions de points
-obtenues en application des alinéas 1 et 3 de l'article L. 223-6.
+obtenues en application des alinéas 1, 2 et 4 de l'article L. 223-6.
 
 Si le retrait de points aboutit à un nombre nul de points affectés au permis de conduire, l'auteur de l'infraction est
 informé par le ministre de l'intérieur par lettre recommandée avec demande d'avis de réception du nombre de points retirés.
@@ -13202,13 +13219,9 @@ résidence dans un délai de dix jours francs à compter de sa réception.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2007-753 du 9 mai 2007 - art. 2 () JORF 10 mai 2007 en vigueur le 1er janvier 2008
+  - Décret n°2008-754 du 30 juillet 2008 - art. 22
 
 _Cité par_:
 
@@ -13219,32 +13232,28 @@ _Anciens textes_:
 
   - Code de la route - art. R258 (Ab)
 
+_Cite_:
+
+  - Code de la route. - art. L223-1
+  - Code de la route. - art. L223-6
+  - Code de la route. - art. L225-1
+
 
 ###### Article R223-4
 
-I. - Lorsque le conducteur titulaire du permis de conduire a commis, pendant le délai probatoire défini à l'article L. 223-1,
+I.-Lorsque le conducteur titulaire du permis de conduire a commis, pendant le délai probatoire défini à l'article L. 223-1,
 une infraction ayant donné lieu au retrait d'au moins trois points, la notification du retrait de points lui est adressée par
 lettre recommandée avec demande d'avis de réception. Cette lettre l'informe de l'obligation de se soumettre à la formation
-spécifique mentionnée au deuxième alinéa de l'article L. 223-6 dans un délai de quatre mois.
+spécifique mentionnée au troisième alinéa de l'article L. 223-6 dans un délai de quatre mois. 
 
-II. - Le fait de ne pas se soumettre à la formation spécifique mentionnée au I dans le délai de quatre mois est puni de
-l'amende prévue pour les contraventions de la 4e classe.
+II.-Le fait de ne pas se soumettre à la formation spécifique mentionnée au I dans le délai de quatre mois est puni de
+l'amende prévue pour les contraventions de la 4e classe. 
 
-III. - Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de
+III.-Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de
 trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
 professionnelle.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 2003-07-11 art. 4 III, IV, art. 7 I JORF 12 juillet 2003 en vigueur le 1er mars 2004
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003 en vigueur le 1er mars 2004
-  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V) JORF 12 juillet 2003 en vigueur le 1er mars 2004
 
 _Cité par_:
 
@@ -13252,42 +13261,41 @@ _Cité par_:
   - Arrêté du 25 février 2004 - art. Annexe II (V)
   - Code de la route. - art. R223-8 (V)
 
+_Modifié par_:
+
+  - Décret n°2008-754 du 30 juillet 2008 - art. 22
+
 _Anciens textes_:
 
   - Code de la route - art. R241-6 (Ab)
   - Code de la route - art. R258-1 (Ab)
   - Code de la route - art. R266 (Ab)
-  - Code de la route R241-6, R258-1, R266 11°
+
+_Cite_:
+
+  - Code de la route. - art. L223-1
+  - Code de la route. - art. L223-6
 
 
 ##### Section 2 : Des stages.<a id=90></a>
 
 ###### Article R223-5
 
-I- La formation spécifique prévue par le deuxième alinéa de l'article L. 223-6 est destinée à éviter la réitération des
+I-La formation spécifique prévue par le troisième alinéa de l'article L. 223-6 est destinée à éviter la réitération des
 comportements dangereux. Elle est organisée sous la forme d'un stage d'une durée minimale de seize heures réparties sur deux
-jours consécutifs.
+jours consécutifs. 
 
-II- Les personnes physiques ou morales qui se proposent de dispense cette formation doivent obtenir préalablement un agrément
+II-Les personnes physiques ou morales qui se proposent de dispense cette formation doivent obtenir préalablement un agrément
 du préfet du département, ou de l'autorité compétente du territoire ou de la collectivité territoriale d'outre-mer, du lieu
 d'implantation de leur activité, qui vérifie que les obligations définies par les articles R. 223-5 à R. 223-8 pourront être
 respectées. Elles établissent à cet effet un dossier dont la teneur est précisée par arrêté conjoint du ministre l'intérieur
 et du ministre chargé des transports.
 
-**Nota:**
-
-Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2003-642 2003-07-11 art. 4 V, VI JORF 12 juillet 2003
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+  - Décret n°2008-754 du 30 juillet 2008 - art. 22
 
 _Cité par_:
 
@@ -13307,7 +13315,10 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de la route - art. R259 (Ab)
-  - Code de la route R259
+
+_Cite_:
+
+  - Code de la route. - art. L223-6
 
 
 ###### Article R223-6
@@ -13379,21 +13390,21 @@ _Cite_:
 
 ###### Article R223-8
 
-I. - La personne responsable d'une formation spécifique, titulaire de l'agrément prévu à l'article R. 223-5, délivre,à
-l'issue de celle-ci, une attestation de stage à toute personne qui l'a suivi en totalité. Cette attestation est transmise au
+I.-La personne responsable d'une formation spécifique, titulaire de l'agrément prévu à l'article R. 223-5, délivre, à l'issue
+de celle-ci, une attestation de stage à toute personne qui l'a suivi en totalité. Cette attestation est transmise au
 représentant de l'Etat dans le département du lieu du stage, ou à l'autorité compétente de la collectivité d'outre-mer, dans
-un délai de quinze jours à compter de la fin de cette formation.
+un délai de quinze jours à compter de la fin de cette formation. 
 
-II. - L'attestation délivrée à l'issue du stage effectué en application des dispositions de l'alinéa 2 de l'article L. 223-6
+II.-L'attestation délivrée à l'issue du stage effectué en application des dispositions de l'alinéa 3 de l'article L. 223-6
 donne droit à la récupération de quatre points dans la limite du plafond affecté au permis de conduire de son titulaire. Une
 nouvelle reconstitution de points, après une formation spécifique effectuée en application des mêmes dispositions, n'est
-possible qu'au terme d'un délai de deux ans.
+possible qu'au terme d'un délai de deux ans. 
 
-III. - L'autorité administrative mentionnée au I ci-dessus procède à la reconstitution du nombre de points dans un délai d'un
+III.-L'autorité administrative mentionnée au I ci-dessus procède à la reconstitution du nombre de points dans un délai d'un
 mois à compter de la réception de l'attestation et notifie cette reconstitution à l'intéressé par lettre simple. La
-reconstitution prend effet le lendemain de la dernière journée de stage.
+reconstitution prend effet le lendemain de la dernière journée de stage. 
 
-IV. - Dans le cas prévu à l'article R. 223-4, sont transmises au comptable du Trésor du lieu de commission de l'infraction,
+IV.-Dans le cas prévu à l'article R. 223-4, sont transmises au comptable du Trésor du lieu de commission de l'infraction,
 dans le délai de quinze jours mentionné au I ci-dessus, l'attestation de suivi de stage ainsi que, si l'amende a été
 acquittée, les pièces nécessaires à son remboursement.
 
@@ -13401,10 +13412,6 @@ L'attestation de suivi de stage et les pièces nécessaires au remboursement de 
 conjoint du ministre de l'intérieur, du ministre chargé du budget et du ministre chargé des transports.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 _Cité par_:
 
@@ -13414,12 +13421,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2005-320 2005-03-30 art. 6 JORF 6 avril 2005
+  - Décret n°2008-754 du 30 juillet 2008 - art. 22
 
 _Anciens textes_:
 
   - Code de la route - art. R262 (Ab)
   - Code de la route R262
+
+_Cite_:
+
+  - Code de la route. - art. L223-6
+  - Code de la route. - art. R223-4
+  - Code de la route. - art. R223-5
 
 
 ###### Article R223-9
@@ -14124,51 +14137,59 @@ _Nouveaux textes_:
 ###### Article R225-2
 
 Le préfet du département dans lequel est domicilié le demandeur ou le titulaire du permis de conduire fait procéder à
-l'enregistrement :
+l'enregistrement : 
 
-1° Des demandes de permis de conduire, d'extension de permis de conduire et de duplicata de titres de conduite ;
+1° Des demandes de permis de conduire, d'extension de permis de conduire et de duplicata de titres de conduite ; 
 
-2° Des décisions portant délivrance, extension et prorogation de catégories du permis de conduire ;
+2° Des décisions portant délivrance, extension et prorogation de catégories du permis de conduire ; 
 
-3° Des informations relatives à la délivrance et la gestion des titres de conduite ;
+3° Des informations relatives à la délivrance et la gestion des titres de conduite ; 
 
 4° Des informations relatives aux permis de conduire délivrés par les autorités étrangères et reconnus valables sur le
 territoire national et aux échanges de titres français dans les Etats membres de la Communauté européenne dans les cas où ces
 titres seraient adressés directement aux autorités préfectorales émettrices par les autorités étrangères qui ont procédé aux
-échanges ;
+échanges ; 
 
 5° Des décisions dûment notifiées portant retrait total ou partiel de titres ou de permis de conduire obtenus irrégulièrement
-ou frauduleusement ;
+ou frauduleusement ; 
 
 6° Des décisions dûment notifiées prises sur avis des commissions médicales en application des articles R. 221-10 à R.
 221-14, portant inaptitude à la conduite des véhicules d'une ou plusieurs catégories, ou portant prorogation, limitation de
-la durée de validité, suspension, annulation, rétablissement ou changement de catégories du permis de conduire ;
+la durée de validité, suspension, annulation, rétablissement ou changement de catégories du permis de conduire ; 
 
 7° Des mesures administratives dûment notifiées portant restriction du droit de faire usage du permis de conduire prises
 conformément aux articles L. 224-1, L. 224-2, L. 224-7, L. 224-8 et R. 224-6 à R. 224-19 à l'encontre de titulaires de permis
-français ou étrangers ainsi que des renseignements relatifs à la notification et à l'exécution de ces mesures ;
+français ou étrangers ainsi que des renseignements relatifs à la notification et à l'exécution de ces mesures ; 
 
 8° Des mesures de retrait du droit de faire usage du permis de conduire communiquées par les autorités compétentes des
-territoires et collectivités territoriales d'outre-mer ;
+territoires et collectivités territoriales d'outre-mer ; 
 
 9° Des mesures de retrait du droit de faire usage du permis de conduire prises par une autorité étrangère et communiquées aux
-autorités françaises conformément aux accords internationaux en vigueur ;
+autorités françaises conformément aux accords internationaux en vigueur ; 
 
-10° Des décisions portant reconstitution partielle du nombre de points du permis de conduire en application du deuxième
-alinéa de l'article L. 223-6 ;
+10° Des décisions portant reconstitution partielle du nombre de points du permis de conduire en application du troisième
+alinéa de l'article L. 223-6 ; 
 
 11° Des décisions rapportant les mesures précédentes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-754 du 30 juillet 2008 - art. 22
 
 _Anciens textes_:
 
   - Code de la route - art. R247-2 (Ab)
   - Code de la route R247-2
+
+_Cite_:
+
+  - Code de la route. - art. L223-6
+  - Code de la route. - art. L224-1
+  - Code de la route. - art. L224-7
+  - Code de la route. - art. R221-10
+  - Code de la route. - art. R224-6
 
 _Nouveaux textes_:
 
@@ -14764,17 +14785,11 @@ _Cité par_:
 Les épreuves de dépistage prévues par l'article L. 235-2 sont effectuées par un médecin, un biologiste, ou un étudiant en
 médecine autorisé à exercer à titre de remplaçant, dans les conditions fixées à l'article L. 4131-2 du code de la santé
 publique, requis à cet effet par un officier ou agent de police judiciaire qui leur fournit les matériels nécessaires au
-dépistage.
+dépistage lorsqu'il s'agit d'un recueil urinaire. 
+
+Ces épreuves sont effectuées par un officier ou agent de police judiciaire lorsqu'il s'agit d'un recueil salivaire.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
 
 _Cité par_:
 
@@ -14791,8 +14806,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2003-293 2003-03-31 art. 5 I, IV JORF 1er avril 2003
-  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
+  - Décret n°2008-754 du 30 juillet 2008 - art. 14
+
+_Cite_:
+
+  - Code de la santé publique - art. L4131-2
+  - Code de la route. - art. L235-2
 
 
 ###### Article R235-4
@@ -14800,19 +14819,13 @@ _Modifié par_:
 Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées conformément aux méthodes
 et dans les conditions prescrites par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence
 française de sécurité sanitaire des produits de santé, qui précise notamment les critères de choix des réactifs et le modèle
-des fiches présentant les résultats.
+des fiches présentant les résultats. Lorsqu'il s'agit d'un recueil salivaire, cet arrêté est également pris par le ministre
+de la justice et par le ministre de l'intérieur. 
 
-Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à l'article R. 235-3.
+Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à l'article R. 235-3 ou complétées par ce
+dernier lorsqu'il s'agit d'un recueil salivaire.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
 
 _Cité par_:
 
@@ -14829,8 +14842,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2003-293 2003-03-31 art. 5 I, V JORF 1er avril 2003
-  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
+  - Décret n°2008-754 du 30 juillet 2008 - art. 14
+
+_Cite_:
+
+  - Code de la route. - art. R225-3
 
 
 ##### Section 3 : Analyses et examens médicaux, cliniques et biologiques<a id=102></a>
@@ -15118,28 +15134,32 @@ biologiques prévus aux articles R. 235-4 et R. 235-6 sont calculés par référ
 et e) du code de procédure pénale. Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique, tant en
 application des dispositions de l'article R. 235-6 que des dispositions des articles R. 20 à R. 25 du code des débits de
 boissons et des mesures contre l'alcoolisme, il n'est dû qu'une seule indemnité de déplacement et les honoraires pour un seul
-acte.
+acte. 
 
 Les frais afférents aux examens de laboratoire prévus par les articles R. 235-10 et R. 235-11 relatifs à la recherche et au
 dosage des produits stupéfiants et, le cas échéant, les frais afférents à la recherche des médicaments psychoactifs sont
-fixés par référence aux 10° et 11° de l'article R. 118 du code de procédure pénale.
+fixés par référence aux 10° et 11° de l'article R. 118 du code de procédure pénale. 
 
 Les frais afférents à l'acquisition des matériels de recueil et de dépistage prévus par l'article R. 235-3 sont fixés par
-arrêté conjoint du ministre de la justice et du ministre chargé du budget.
+arrêté conjoint du ministre de la justice et du ministre chargé du budget. 
+
+Les dispositions du présent article ne sont pas applicables aux recueils salivaires.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
-
 _Modifié par_:
 
-  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
+  - Décret n°2008-754 du 30 juillet 2008 - art. 14
+
+_Cite_:
+
+  - Code de procédure pénale - art. R110
+  - Code de procédure pénale - art. R118
+  - Code de la route. - art. R235-10
+  - Code de la route. - art. R235-3
+  - Code de la route. - art. R235-4
+  - Code de la route. - art. R235-6
+  - Code des débits de boissons et des mesures contre l'alcoolisme - art. R*20
 
 _Cité par_:
 
@@ -28772,15 +28792,14 @@ _Anciens textes_:
 
 ###### Article R411-3
 
-Dans les zones ne comprenant pas de section de route à grande circulation, le maire détermine le périmètre des aires
-piétonnes et peut fixer à l'intérieur de ce périmètre, en vue de faciliter la circulation des piétons, des règles de
-circulation dérogeant aux dispositions du présent code.
+L'autorité détentrice du pouvoir de police de la circulation détermine le périmètre des aires piétonnes et fixe les règles de
+circulation à l'intérieur de ce périmètre.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-754 du 30 juillet 2008 - art. 2
 
 _Cité par_:
 
@@ -28792,24 +28811,45 @@ _Anciens textes_:
   - Code de la route - art. R225 (Ab)
   - Code de la route R225 (al. 3)
 
-**Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+###### Article R411-3-1
+
+Le périmètre des zones de rencontre et leur aménagement sont fixés par arrêté pris par l'autorité détentrice du pouvoir de
+police de la circulation après consultation des autorités gestionnaires de la voirie concernée et, s'il s'agit d'une section
+de route à grande circulation, après avis conforme du préfet. 
+
+Les règles de circulation définies à l'article R. 110-2 sont rendues applicables par arrêté de l'autorité détentrice du
+pouvoir de police constatant l'aménagement cohérent des zones et la mise en place de la signalisation correspondante.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-754 du 30 juillet 2008 - art. 3
+
+_Cité par_:
+
+  - Arrêté du 23 septembre 2015 - art. 5 (V)
+
+_Cite_:
+
+  - Code de la route. - art. R110-2
 
 
 ###### Article R411-4
 
-Le périmètre des zones 30 est délimité par le maire, après consultation du président du conseil général pour les routes
-départementales. Sur les routes à grande circulation, le périmètre de ces zones est délimité par le préfet après consultation
-du maire et du président du conseil général s'il s'agit d'une route départementale ou président du conseil exécutif de Corse,
-s'il s'agit d'une route prévue à l'article L. 4424-30 du code général des collectivités territoriales.
+Le périmètre des zones 30 et leur aménagement sont fixés par arrêté pris par l'autorité détentrice du pouvoir de police de la
+circulation après consultation des autorités gestionnaires de la voirie concernée et, s'il s'agit d'une section de route à
+grande circulation, après avis conforme du préfet. 
+
+Les règles de circulation définies à l'article R. 110-2 sont rendues applicables par arrêté de l'autorité détentrice du
+pouvoir de police constatant l'aménagement cohérent des zones et la mise en place de la signalisation correspondante.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-754 du 30 juillet 2008 - art. 4
 
 _Cité par_:
 
@@ -28818,12 +28858,10 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de la route - art. R225 (Ab)
-  - Code de la route R225 (al. 4)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Code de la route. - art. R110-2
 
 
 ###### Article R411-5
@@ -29964,28 +30002,30 @@ _Cite_:
 
 ###### Article R412-6
 
-I. - Tout véhicule en mouvement ou tout ensemble de véhicules en mouvement doit avoir un conducteur.
+I.-Tout véhicule en mouvement ou tout ensemble de véhicules en mouvement doit avoir un conducteur. Celui-ci doit, à tout
+moment, adopter un comportement prudent et respectueux envers les autres usagers des voies ouvertes à la circulation. Il doit
+notamment faire preuve d'une prudence accrue à l'égard des usagers les plus vulnérables. 
 
-II. - Tout conducteur doit se tenir constamment en état et en position d'exécuter commodément et sans délai toutes les
+II.-Tout conducteur doit se tenir constamment en état et en position d'exécuter commodément et sans délai toutes les
 manoeuvres qui lui incombent. Ses possibilités de mouvement et son champ de vision ne doivent pas être réduits par le nombre
-ou la position des passagers, par les objets transportés ou par l'apposition d'objets non transparents sur les vitres.
+ou la position des passagers, par les objets transportés ou par l'apposition d'objets non transparents sur les vitres. 
 
-III. - Le fait, pour tout conducteur, de contrevenir aux dispositions du II ci-dessus est puni de l'amende prévue pour les
-contraventions de la deuxième classe.
+III.-Le fait, pour tout conducteur, de contrevenir aux dispositions du II ci-dessus est puni de l'amende prévue pour les
+contraventions de la deuxième classe. 
 
-IV. - En cas d'infraction aux dispositions du II ci-dessus, l'immobilisation du véhicule peut être prescrite dans les
+IV.-En cas d'infraction aux dispositions du II ci-dessus, l'immobilisation du véhicule peut être prescrite dans les
 conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 _Cité par_:
 
   - Arrêté du 21 décembre 2005 - art. Annexe (V)
   - Code de la route. - art. R434-3 (V)
+
+_Modifié par_:
+
+  - Décret n°2008-754 du 30 juillet 2008 - art. 15
 
 _Anciens textes_:
 
@@ -29995,11 +30035,9 @@ _Anciens textes_:
   - Code de la route - art. R3-1 (Ab)
   - Code de la route R2, R3-1, R233 (al. 1 et 2), R278 8°
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-  - SPEC_APPLI: Code de la route. - art. R434-3 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R412-6-1
@@ -30036,27 +30074,42 @@ _Cité par_:
   - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
-###### Article R412-7
+###### Article R412-6-2
 
-I- Tout conducteur doit, sauf en cas de nécessité absolue, faire circuler son véhicule exclusivement sur la chaussée.
+Le fait de placer dans le champ de vision du conducteur d'un véhicule en circulation un appareil en fonctionnement doté d'un
+écran et ne constituant pas une aide à la conduite ou à la navigation est interdit. 
 
-II. - Lorsque, sur la chaussée, une voie de circulation réservée à certaines catégories de véhicules est matérialisée, les
-conducteurs d'autres catégories de véhicules ne doivent pas circuler sur cette voie. Les conducteurs de véhicules motorisés
-ne doivent pas circuler sur une voie verte.
+Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
+contraventions de la 4e classe. 
 
-III. - Le fait, pour tout conducteur, de faire circuler son véhicule en dehors de la chaussée ou sur une voie de circulation
-réservée à d'autres catégories de véhicules ou, pour tout conducteur d'un véhicule motorisé, de circuler sur une voie verte
-est puni de l'amende prévue pour les contraventions de la 4e classe.
+Est également encourue la peine de confiscation de l'appareil mentionné au premier alinéa. 
+
+Cette contravention donne lieu de plein droit à la réduction de deux points du permis de conduire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-754 du 30 juillet 2008 - art. 16
+
+
+###### Article R412-7
+
+I-Tout conducteur doit, sauf en cas de nécessité absolue, faire circuler son véhicule exclusivement sur la chaussée. 
+
+II.-Lorsque, sur la chaussée, une voie de circulation réservée à certaines catégories de véhicules est matérialisée, les
+conducteurs d'autres catégories de véhicules ne doivent pas circuler sur cette voie. Les conducteurs de véhicules motorisés
+ne doivent pas circuler sur une voie verte, ni dans une aire piétonne à l'exception des cas prévus par les règles de
+circulation mentionnées à l'article R. 411-3.
+
+III.-Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
+contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2004-998 du 16 septembre 2004 - art. 2 () JORF 23 septembre 2004
+  - Décret n°2008-754 du 30 juillet 2008 - art. 5
 
 _Cité par_:
 
@@ -30071,6 +30124,10 @@ _Anciens textes_:
   - Code de la route - art. R233-3 (Ab)
   - Code de la route - art. R43 (Ab)
   - Code de la route R43 (al. 1), R233-3 (al. 1)
+
+_Cite_:
+
+  - Code de la route. - art. R411-3
 
 
 ###### Article R412-8
@@ -31020,22 +31077,18 @@ trottoir ou l'accotement risque de causer une gêne importante aux autres piéto
 
 Les infirmes qui se déplacent dans une chaise roulante peuvent dans tous les cas circuler sur la chaussée.
 
+Dans une zone de rencontre, les piétons peuvent circuler sur la chaussée mais ne doivent pas gêner la circulation des
+véhicules en y stationnant.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-754 du 30 juillet 2008 - art. 6
 
 _Anciens textes_:
 
   - Code de la route - art. R218 (Ab)
-  - Code de la route R218
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R412-42 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R412-36
@@ -31610,33 +31663,21 @@ _Anciens textes_:
 En agglomération, la vitesse des véhicules est limitée à 50 km/h.
 
 Toutefois, cette limite peut être relevée à 70 km/h sur les sections de route où les accès des riverains et les traversées
-des piétons sont en nombre limité et sont protégés par des dispositifs appropriés. Pour les routes à grande circulation, la
-décision est prise par arrêté du préfet, après consultation du ou des maires des communes intéressées et celle du président
-du conseil général s'il s'agit d'une voie départementale, du président du conseil exécutif de Corse, s'il s'agit d'une route
-prévue à l'article L. 4424-30 du code général des collectivités territoriales. Dans les autres cas, elle est prise par le
-maire dans les mêmes conditions.
+des piétons sont en nombre limité et sont protégés par des dispositifs appropriés. La décision est prise par arrêté de
+l'autorité détentrice du pouvoir de police de la circulation, après consultation des autorités gestionnaires de la voie et,
+s'il s'agit d'une route à grande circulation, après avis conforme du préfet. 
 
 Sur le boulevard périphérique de Paris, cette limite est fixée à 80 km/h.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L4424-30 (T)
+  - Décret n°2008-754 du 30 juillet 2008 - art. 7
 
 _Anciens textes_:
 
   - Code de la route - art. R10 (Ab)
-  - Code de la route R10 (al. 6 et 7)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R413-4
@@ -31835,26 +31876,24 @@ _Cité par_:
 ###### Article R413-8-1
 
 Toutefois, la vitesse des véhicules visés à l'article R. 413-8 qui sont destinés au transport de personnes et dont le poids
-total autorisé en charge est supérieur à 3,5 tonnes et inférieur ou égal à 12 tonnes, ou des ensembles de véhicules visés au
-même article dont le poids total autorisé en charge du véhicule tracteur est inférieur ou égal à 3,5 tonnes et le poids total
-roulant autorisé supérieur à 3,5 tonnes et inférieur ou égal à 12 tonnes, est limitée à :
+total autorisé en charge est supérieur à 3,5 tonnes et inférieur ou égal à 12 tonnes est limitée à : 
 
-1° 110 km/h sur les autoroutes ;
+1° 110 km / h sur les autoroutes ; 
 
-2° 100 km/h sur les routes à deux chaussées séparées par un terre-plein central lorsqu'elles sont à caractère prioritaire et
-signalées comme telles ;
+2° 100 km / h sur les routes à deux chaussées séparées par un terre-plein central lorsqu'elles sont à caractère prioritaire
+et signalées comme telles ; 
 
-3° 80 km/h sur les autres routes.
+3° 80 km / h sur les autres routes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-754 du 30 juillet 2008 - art. 17
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2006-1812 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+  - Code de la route. - art. R413-8
 
 
 ###### Article R413-9
@@ -31895,14 +31934,18 @@ _Anciens textes_:
 
 ###### Article R413-10
 
-Hors agglomération, la vitesse des véhicules de transport en commun est limitée à 90 km/h. Toutefois, cette vitesse maximale
-est relevée à 100 km/h :
+I. - Hors agglomération, la vitesse des véhicules de transport en commun est limitée à 90 km / h. 
+
+II.- Toutefois, cette vitesse maximale est relevée à 100 km / h : 
 
 1° Sur les autoroutes pour les véhicules dont le poids total est supérieur à 10 tonnes et possédant des caractéristiques
-techniques particulières définies par arrêté du ministre chargé des transports ;
+techniques particulières définies par arrêté du ministre chargé des transports ; 
 
 2° Sur les autoroutes et les routes à chaussées séparées par un terre-plein central pour les véhicules dont le poids est
-inférieur ou égal à 10 tonnes.
+inférieur ou égal à 10 tonnes. 
+
+III.- En exploitation, ces vitesses maximales sont abaissées à 70 km / h pour les autobus et les autocars avec passagers
+debout.
 
 **Liens relatifs à cet article**
 
@@ -31911,13 +31954,9 @@ _Cité par_:
   - Arrêté du 2 juillet 1982 - art. 71 (V)
   - Arrêté du 23 novembre 1992 - art. 2 (VD)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2006-1812 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
+  - Décret n°2008-754 du 30 juillet 2008 - art. 18
 
 _Anciens textes_:
 
@@ -32003,10 +32042,10 @@ _Créé par_:
 
 ###### Article R413-13
 
-Les véhicules dont la vitesse est réglementée en raison de leur poids doivent porter, visible à l'arrière, l'indication de la
-ou des vitesses maximales qu'ils sont tenus de ne pas dépasser.
+Les véhicules dont la vitesse est réglementée    en raison de leur poids ou de leur mode d'exploitation doivent porter,
+visible à l'arrière, l'indication de la ou des vitesses maximales qu'ils sont tenus de ne pas dépasser. 
 
-Le ministre chargé des transports fixe par arrêté les conditions d'application du présent article.
+Le ministre chargé des transports fixe par arrêté les conditions d'application du présent article. 
 
 Le fait, pour tout conducteur, de ne pas respecter l'obligation de signalisation imposée par le présent article et les
 dispositions prises pour son application est puni de l'amende prévue pour les contraventions de la deuxième classe.
@@ -32019,19 +32058,14 @@ _Cité par_:
   - Arrêté du 14 mai 2014 - art. (VD)
   - Arrêté du 22 juin 2016 - art. 6
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-754 du 30 juillet 2008 - art. 18
 
 _Anciens textes_:
 
   - Code de la route - art. R98 (Ab)
   - Code de la route R98 (al. 3 et 4)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R413-14
@@ -33039,69 +33073,63 @@ _Cite_:
 
 ###### Article R415-3
 
-Tout conducteur s'apprêtant à quitter une route sur sa droite doit serrer le bord droit de la chaussée.
+I. - Tout conducteur s'apprêtant à quitter une route sur sa droite doit serrer le bord droit de la chaussée.
 
-Il peut toutefois emprunter la partie gauche de la chaussée lorsque le tracé du virage et les dimensions du véhicule ou de
-son chargement le mettent dans l'impossibilité de tenir sa droite ; il ne doit ainsi manoeuvrer qu'à allure modérée, et après
-s'être assuré qu'il peut le faire sans danger pour autrui.
+II. - Il peut toutefois emprunter la partie gauche de la chaussée lorsque le tracé du virage et les dimensions du véhicule ou
+de son chargement le mettent dans l'impossibilité de tenir sa droite ; il ne doit ainsi manoeuvrer qu'à allure modérée, et
+après s'être assuré qu'il peut le faire sans danger pour autrui.
 
-Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
+III. - Il doit céder le passage aux cycles et cyclomoteurs circulant dans les deux sens sur les pistes cyclables qui
+traversent la chaussée sur laquelle il va s'engager. 
+
+IV. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-754 du 30 juillet 2008 - art. 8
 
 _Anciens textes_:
 
   - Code de la route - art. R232 (Ab)
   - Code de la route - art. R24 (Ab)
-  - Code de la route R24 (al. 1 et 2), R232 (al. 1 et 7)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R415-4
 
-I. - Tout conducteur s'apprêtant à quitter une route sur sa gauche doit serrer à gauche.
+I.-Tout conducteur s'apprêtant à quitter une route sur sa gauche doit serrer à gauche. 
 
-II. - Lorsque la chaussée est à double sens de circulation il ne doit pas en dépasser l'axe médian. Néanmoins, lorsque cette
+II.-Lorsque la chaussée est à double sens de circulation il ne doit pas en dépasser l'axe médian. Néanmoins, lorsque cette
 chaussée comporte un nombre impair de voies matérialisées, il doit, sauf dispositions différentes prises par l'autorité
-investie du pouvoir de police, emprunter la voie médiane.
+investie du pouvoir de police, emprunter la voie médiane. 
 
-III. - Il doit céder le passage aux véhicules venant en sens inverse sur la chaussée qu'il s'apprête à quitter ainsi qu'aux
-cycles et cyclomoteurs circulant sur les pistes cyclables qui traversent la chaussée sur laquelle il va s'engager.
+III.-Il doit céder le passage aux véhicules venant en sens inverse sur la chaussée qu'il s'apprête à quitter ainsi qu'aux
+cycles et cyclomoteurs circulant dans les deux sens sur les pistes cyclables qui traversent la chaussée sur laquelle il va
+s'engager. 
 
-IV. - Par exception à la règle fixée au I, tout conducteur de cycle, s'apprêtant, hors agglomération, à quitter une route sur
-sa gauche, peut serrer le bord droit de la chaussée avant de s'engager sur sa gauche.
+IV.-Par exception à la règle fixée au I, tout conducteur de cycle, s'apprêtant à quitter une route sur sa gauche, peut serrer
+le bord droit de la chaussée avant de s'engager sur sa gauche.
 
-V. - Le fait, pour tout conducteur, de contrevenir aux dispositions des I et II ci-dessus est puni de l'amende prévue pour
-les contraventions de la deuxième classe.
+V.-Le fait, pour tout conducteur, de contrevenir aux dispositions des I et II ci-dessus est puni de l'amende prévue pour les
+contraventions de la deuxième classe. 
 
-VI. - Le fait, pour tout conducteur, de ne pas respecter les règle de priorité fixées au III ci-dessus est puni de l'amende
-prévue pour les contraventions de la quatrième classe.
+VI.-Le fait, pour tout conducteur, de ne pas respecter les règles de priorité fixées au III ci-dessus est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
 
-VII. - Toute personne coupable de cette infraction aux règles de priorité encourt également la peine complémentaire de
+VII.-Toute personne coupable de cette infraction aux règles de priorité encourt également la peine complémentaire de
 suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite
-en dehors de l'activité professionnelle.
+en dehors de l'activité professionnelle. 
 
-VIII. - Cette contravention aux règles de priorité donne lieu de plein droit à la réduction de quatre points du permis de
+VIII.-Cette contravention aux règles de priorité donne lieu de plein droit à la réduction de quatre points du permis de
 conduire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22
-
 _Modifié par_:
 
-  - Décret n°2003-283 du 27 mars 2003 - art. 2 () JORF 29 mars 2003
+  - Décret n°2008-754 du 30 juillet 2008 - art. 9
 
 _Anciens textes_:
 
@@ -33110,12 +33138,6 @@ _Anciens textes_:
   - Code de la route - art. R24 (Ab)
   - Code de la route - art. R256 (Ab)
   - Code de la route - art. R266 (Ab)
-  - Code de la route R24 (al. 3 et 4), R232 (al. 1 et 7), R233 (al. 1 et 2), R256 2°, R266 1°
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R415-5
@@ -33239,24 +33261,24 @@ _Anciens textes_:
 ###### Article R415-8
 
 Hors agglomération, tout conducteur abordant une route à grande circulation et ne se trouvant pas lui-même sur une route de
-cette catégorie est tenu de céder le passage aux véhicules qui circulent sur la route à grande circulation.
+cette catégorie est tenu de céder le passage aux véhicules qui circulent sur la route à grande circulation. 
 
 En agglomération, tout conducteur abordant une route à grande circulation et ne se trouvant pas lui-même sur une route de
-cette catégorie peut également, par arrêté du préfet pris après consultation du maire, être tenu de céder le passage aux
-véhicules qui circulent sur la route à grande circulation.
+cette catégorie peut également,        par arrêté du maire pris après avis conforme du préfet, être tenu de céder le passage
+aux véhicules qui circulent sur la route à grande circulation. 
 
 Le maire peut, par arrêté pris après avis du préfet, reporter l'obligation prévue à l'alinéa précédent sur les conducteurs
 qui abordent d'autres routes qu'une route classée à grande circulation si ces routes assurent la continuité de l'itinéraire à
-grande circulation ou imposer à ces conducteurs la même obligation.
+grande circulation ou imposer à ces conducteurs la même obligation. 
 
-La signalisation de ces routes est la même que celle des routes à grande circulation.
+La signalisation de ces routes est la même que celle des routes à grande circulation. 
 
 Le fait, pour tout conducteur, de ne pas respecter les règles de priorité fixées au présent article est puni de l'amende
-prévue pour les contraventions de la quatrième classe.
+prévue pour les contraventions de la quatrième classe. 
 
 Tout conducteur coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de trois
 ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle.
+professionnelle. 
 
 Cette contravention donne lieu de plein droit à la réduction de quatre points du permis de conduire.
 
@@ -33267,9 +33289,9 @@ _Cité par_:
   - Arrêté du 24 novembre 1967 - art. 8 (V)
   - Code de la route. - art. R414-11 (M)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-754 du 30 juillet 2008 - art. 10
 
 _Anciens textes_:
 
@@ -33278,11 +33300,6 @@ _Anciens textes_:
   - Code de la route - art. R26 (Ab)
   - Code de la route - art. R266 (Ab)
   - Code de la route R26 (al. 1 à 4), R232 (al. 1 et 7), R256 2°, R266 1°
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R415-9
@@ -33362,22 +33379,23 @@ _Anciens textes_:
 
 ###### Article R415-11
 
-Tout conducteur est tenu de céder le passage aux piétons régulièrement engagés dans la traversée d'une chaussée.
+Tout conducteur est tenu de céder le passage aux         piétons régulièrement engagés dans la traversée d'une chaussée et à
+ceux circulant dans une zone de rencontre ou une aire piétonne. 
 
 Le fait, pour tout conducteur, de ne pas respecter les règles de priorité fixées au présent article est puni de l'amende
-prévue pour les contraventions de la quatrième classe.
+prévue pour les contraventions de la quatrième classe. 
 
 Tout conducteur coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de trois
 ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle.
+professionnelle. 
 
 Cette contravention donne lieu de plein droit à la réduction de quatre points du permis de conduire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-754 du 30 juillet 2008 - art. 11
 
 _Anciens textes_:
 
@@ -33391,11 +33409,6 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de la route. - art. R412-30 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R415-12
@@ -34497,53 +34510,57 @@ _Cité par_:
 
 ###### Article R417-10
 
-I. - Tout véhicule à l'arrêt ou en stationnement doit être placé de manière à gêner le moins possible la circulation.
+I.-Tout véhicule à l'arrêt ou en stationnement doit être placé de manière à gêner le moins possible la circulation. 
 
-II. - Est considéré comme gênant la circulation publique l'arrêt ou le stationnement d'un véhicule :
+II.-Est considéré comme gênant la circulation publique l'arrêt ou le stationnement d'un véhicule : 
 
-1° Sur les trottoirs, les passages ou accotements réservés à la circulation des piétons ;
+1° Sur les trottoirs, les passages ou accotements réservés à la circulation des piétons ; 
 
-1° bis Sur les voies vertes, les bandes et pistes cyclables ainsi qu'en bordure des bandes cyclables ;
+1° bis Sur les voies vertes, les bandes et pistes cyclables ainsi qu'en bordure des bandes cyclables ; 
 
 2° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de transport public de voyageurs, des taxis ou
-des véhicules affectés à un service public ;
+des véhicules affectés à un service public ; 
 
 3° Entre le bord de la chaussée et une ligne continue lorsque la largeur de la voie restant libre entre cette ligne et le
-véhicule ne permet pas à un autre véhicule de circuler sans franchir ou chevaucher la ligne ;
+véhicule ne permet pas à un autre véhicule de circuler sans franchir ou chevaucher la ligne ; 
 
 4° A proximité des signaux lumineux de circulation ou des panneaux de signalisation, à des emplacements tels que ceux-ci
-peuvent être masqués à la vue des usagers ;
+peuvent être masqués à la vue des usagers ; 
 
 5° Sur les emplacements où le véhicule empêche soit l'accès à un autre véhicule à l'arrêt ou en stationnement, soit le
-dégagement de ce dernier ;
+dégagement de ce dernier ; 
 
-6° Sur les ponts, dans les passages souterrains, tunnels et sous les passages supérieurs ;
+6° Sur les ponts, dans les passages souterrains, tunnels et sous les passages supérieurs ; 
 
-7° Au droit des bouches d'incendie et des accès à des installations souterraines ;
+7° Au droit des bouches d'incendie et des accès à des installations souterraines ; 
 
-8° (abrogé) ;
+8° (abrogé) ; 
 
-9° Sur les bandes d'arrêt d'urgence, sauf cas de nécessité absolue ;
+9° Sur les bandes d'arrêt d'urgence, sauf cas de nécessité absolue ; 
 
-10° Sur une voie publique spécialement désignée par arrêté de l'autorité investie du pouvoir de police municipale.
+10° Sur une voie publique spécialement désignée par arrêté de l'autorité investie du pouvoir de police municipale. 
 
-III. - Est également considéré comme gênant la circulation publique le stationnement d'un véhicule :
+III.-Est également considéré comme gênant la circulation publique le stationnement d'un véhicule : 
 
-1° Devant les entrées carrossables des immeubles riverains ;
+1° Devant les entrées carrossables des immeubles riverains ; 
 
 2° En double file, sauf en ce qui concerne les cycles à deux roues, les cyclomoteurs à deux roues et les motocyclettes sans
-side-car ;
+side-car ; 
 
-3° Devant les dispositifs destinés à la recharge en énergie des véhicules électriques ;
+3° Devant les dispositifs destinés à la recharge en énergie des véhicules électriques ; 
 
-4° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de livraison.
+4° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de livraison ; 
 
-IV. - Tout arrêt ou stationnement gênant prévu par le présent article est puni de l'amende prévue pour les contraventions de
-la deuxième classe.
+5° Dans les zones de rencontre, en dehors des emplacements aménagés à cet effet ; 
 
-V. - Lorsque le conducteur ou le propriétaire du véhicule est absent ou refuse, malgré l'injonction des agents, de faire
-cesser le stationnement gênant, l'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues
-aux articles L. 325-1 à L. 325-3.
+6° Dans les aires piétonnes. 
+
+IV.-Tout arrêt ou stationnement gênant prévu par le présent article est puni de l'amende prévue pour les contraventions de la
+deuxième classe.
+
+V.-Lorsque le conducteur ou le propriétaire du véhicule est absent ou refuse, malgré l'injonction des agents, de faire cesser
+le stationnement gênant, l'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues aux
+articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
@@ -34561,13 +34578,9 @@ _Cité par_:
   - Code de procédure pénale - art. A37-6 (VD)
   - Code général des collectivités territoriales - art. L2213-2 (M)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2004-998 du 16 septembre 2004 - art. 3 () JORF 23 septembre 2004
+  - Décret n°2008-754 du 30 juillet 2008 - art. 12
 
 _Anciens textes_:
 
@@ -34578,6 +34591,10 @@ _Anciens textes_:
   - Code de la route - art. R37-1 (Ab)
   - Code de la route - art. R43-6 (Ab)
   - Code de la route R37-1, R43-6 (al. 3), R233-1 (al. 4 à 6), R278 18°, R285-2 2°
+
+_Cite_:
+
+  - Code de la route. - art. L325-1
 
 
 ###### Article R417-11
