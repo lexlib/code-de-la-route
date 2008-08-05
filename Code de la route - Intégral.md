@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2008-08-02
+Version Consolidée au 2008-08-06
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -3999,8 +3999,13 @@ de la personne a été commise avec deux ou plus des circonstances mentionnées 
 Art. 222-44-Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines
 complémentaires suivantes : 
 
-1° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer l'activité professionnelle ou sociale dans
-l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ; 
+1° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit, pour les infractions prévues par les articles 222-1 à 222-6, 222-7, 222-8, 222-10, les 1° et 2° de l'article 222-14,
+les 1° à 3° de l'article 222-14-1, les articles 222-15, 222-23 à 222-26, 222-34, 222-35, 222-36, 222-37, 222-38 et 222-39,
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
 
@@ -4037,29 +4042,9 @@ droit à l'annulation du permis de conduire avec interdiction de solliciter un n
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-_Créé par_:
-
-  - Loi n°2003-495 2003-06-12 art. 30 JORF 13 juin 2003
-
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 (V)
-
-_Cite_:
-
-  - Code pénal - art. 131-27 (V)
-  - Code pénal - art. 222-19 (M)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code pénal - art. 222-19-1 (V)
-  - PILOTE_SUIVEUR: Code pénal - art. 222-20-1 (V)
-  - PILOTE_SUIVEUR: Code pénal - art. 222-44 (V)
+  - Loi n°2008-776 du 4 août 2008 - art. 70
 
 _Anciens textes_:
 
