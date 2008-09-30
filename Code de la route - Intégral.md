@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2008-10-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -33991,24 +33991,39 @@ _Anciens textes_:
 
 ###### Article R416-19
 
-Lorsqu'un véhicule immobilisé sur la chaussée constitue un danger pour la circulation, notamment à proximité des
+I. - Lorsqu'un véhicule immobilisé sur la chaussée constitue un danger pour la circulation, notamment à proximité des
 intersections de routes, des virages, des sommets de côtes, des passages à niveau et en cas de visibilité insuffisante, ou
 lorsque tout ou partie de son chargement tombe sur la chaussée sans pouvoir être immédiatement relevé, le conducteur doit
-assurer la présignalisation de l'obstacle en faisant usage de ses feux de détresse ou d'un triangle de présignalisation ou de
-l'ensemble de ces deux dispositifs.
+assurer la présignalisation de l'obstacle en faisant usage de ses feux de détresse et d'un triangle de présignalisation. 
 
-Un arrêté du ministre chargé des transports fixe les conditions d'application du présent article et détermine pour chaque
-catégorie de véhicules les équipements obligatoires.
+En circulation, le conducteur doit disposer de ce triangle. 
 
-Le fait, pour tout conducteur, de ne pas assurer la présignalisation d'un véhicule ou d'un obstacle dans les conditions
-fixées au présent article ou celles prises pour son application est puni de l'amende prévue pour les contraventions de la
-quatrième classe.
+II. - Le conducteur doit revêtir un gilet de haute visibilité conforme à la réglementation lorsqu'il est amené à sortir d'un
+véhicule immobilisé sur la chaussée ou ses abords à la suite d'un arrêt d'urgence. 
+
+En circulation, le conducteur doit disposer de ce gilet à portée de main. 
+
+III. - Les dispositions des I et II du présent article ne s'appliquent pas aux conducteurs de véhicules à deux ou trois roues
+et quadricycles à moteur non carrossés. 
+
+Les dispositions du I ne s'appliquent pas aux conducteurs de véhicules d'intérêt général prioritaires faisant usage de leurs
+avertisseurs spéciaux. 
+
+Les dispositions du II ne s'appliquent pas aux conducteurs de véhicules agricoles, ni aux conducteurs des véhicules d'intérêt
+général prioritaires, dès lors que les conducteurs de ces derniers disposent d'une tenue de haute visibilité conforme aux
+dispositions du code du travail relatives aux équipements de protection individuelle. 
+
+IV. - Un arrêté du ministre chargé des transports fixe les caractéristiques de ces dispositifs et les conditions
+d'application des I et II du présent article.
+
+V. - Le fait, pour tout conducteur, de contrevenir à une ou plusieurs des dispositions du présent article ou à celles prises
+pour son application est puni de l'amende prévue pour les contraventions de la 4e classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-754 du 30 juillet 2008 - art. 19
 
 _Cité par_:
 
@@ -34026,12 +34041,6 @@ _Anciens textes_:
 
   - Code de la route - art. R232 (Ab)
   - Code de la route - art. R41-2 (Ab)
-  - Code de la route R41-2, R232 (al. 1 et 8)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R416-20
@@ -35484,6 +35493,28 @@ _Cite_:
 
   - Code de la route. - art. L325-1 (V)
   - Code de la route. - art. L431-1 (V)
+
+
+###### Article R431-1-1
+
+Lorsqu'ils circulent la nuit, ou le jour lorsque la visibilité est insuffisante, tout conducteur et passager d'un cycle
+doivent porter hors agglomération un gilet de haute visibilité conforme à la réglementation et dont les caractéristiques sont
+prévues par un arrêté du ministre chargé des transports. 
+
+Le fait pour tout conducteur ou passager d'un cycle de contrevenir aux dispositions du présent article est puni de l'amende
+prévue pour les contraventions de la 2e classe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-754 du 30 juillet 2008 - art. 20
+
+_Cité par_:
+
+  - Arrêté du 29 septembre 2008 - art. 1 (VD)
+  - Arrêté du 29 septembre 2008 - art. 2 (V)
+  - Arrêté du 29 septembre 2008 - art. 3 (VD)
 
 
 ###### Article R431-3
