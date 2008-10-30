@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2008-10-01
+Version Consolidée au 2008-10-31
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -17640,40 +17640,39 @@ _Anciens textes_:
 
 Feux de route.
 
-I. - Sauf dispositions différentes prévues au présent article, tout véhicule à moteur doit être muni à l'avant de deux ou de
+I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur doit être muni à l'avant de deux ou de
 quatre feux de route émettant vers l'avant une lumière jaune ou blanche permettant d'éclairer efficacement la route la nuit,
-par temps clair, sur une distance minimale de 100 mètres.
+par temps clair, sur une distance minimale de 100 mètres. 
 
-II. - Toute motocyclette, tout tricycle à moteur, tout quadricycle lourd à moteur doit être muni à l'avant d'un ou de deux
-feux de route.
+Sous réserve de l'observation des prescriptions précédentes, le véhicule peut être équipé d'un système d'éclairage avant
+adaptatif tel que défini à l'article R. 313-3-2 du présent code. 
 
-III. - Tout tricycle à moteur ou quadricycle lourd à moteur, dont la largeur dépasse 1,30 mètre, doit être muni à l'avant de
-deux feux de route.
+II.-Toute motocyclette, tout tricycle à moteur, tout quadricycle lourd à moteur doit être muni à l'avant d'un ou de deux feux
+de route. 
 
-IV. - Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs ni aux quadricycles légers à moteur qui,
+III.-Tout tricycle à moteur ou quadricycle lourd à moteur, dont la largeur dépasse 1,30 mètre, doit être muni à l'avant de
+deux feux de route. 
+
+IV.-Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs ni aux quadricycles légers à moteur qui,
 toutefois, peuvent être munis d'un ou de deux feux de route.
 
-V. - Lorsqu'un cyclomoteur à trois roues ou un quadricycle léger à moteur, dont la largeur dépasse 1,30 mètre, est muni de
-feux de route, ceux-ci doivent être au nombre de deux.
+V.-Lorsqu'un cyclomoteur à trois roues ou un quadricycle léger à moteur, dont la largeur dépasse 1, 30 mètre, est muni de
+feux de route, ceux-ci doivent être au nombre de deux. 
 
-VI. - Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et matériels agricoles ou de travaux publics,
-automoteurs, qui, toutefois, peuvent être munis de deux ou de quatre feux de route.
+VI.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et matériels agricoles ou de travaux publics,
+automoteurs, qui, toutefois, peuvent être munis de deux ou de quatre feux de route. 
 
-VII. - Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
-troisième classe.
+VII.-Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
+troisième classe. 
 
-VIII. - La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité
-des feux de route, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+VIII.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
+feux de route, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2003-536 du 20 juin 2003 - art. 5 () JORF 22 juin 2003
+  - Décret n°2008-1095 du 28 octobre 2008 - art. 1
 
 _Anciens textes_:
 
@@ -17684,11 +17683,10 @@ _Anciens textes_:
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R83 (Ab)
-  - Code de la route R83, R150 (al. 7), R175 (al. 1 et 2), R177 (al. 1 et 2), R196-1 (al. 1 et 3), R239, R278 3°
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1
 
 _Cité par_:
 
@@ -17699,30 +17697,33 @@ _Cité par_:
 
 Feux de croisement.
 
-I. - Sauf dispositions différentes prévues au présent article, tout véhicule à moteur doit être muni à l'avant de deux feux
-de croisement, émettant vers l'avant une lumière jaune ou blanche permettant d'éclairer efficacement la route la nuit, par
-temps clair, sur une distance minimale de 30 mètres sans éblouir les autres conducteurs.
+I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur doit être muni à l'avant de deux feux de
+croisement, émettant vers l'avant une lumière jaune ou blanche permettant d'éclairer efficacement la route la nuit, par temps
+clair, sur une distance minimale de 30 mètres sans éblouir les autres conducteurs. 
 
-II. - Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur doit être muni à l'avant d'un
-ou de deux feux de croisement.
+Sous réserve de l'observation des prescriptions précédentes, le véhicule peut être équipé d'un système d'éclairage avant
+adaptatif tel que défini à l'article R. 313-3-2. 
 
-III. - Tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues, dont la largeur dépasse 1,30 mètre,
-doit être muni à l'avant de deux feux de croisement.
+II.-Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur doit être muni à l'avant d'un ou
+de deux feux de croisement. 
 
-IV. - Tout véhicule et matériel agricole ou de travaux publics, automoteur, peut être muni de deux feux de croisement
+III.-Tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues, dont la largeur dépasse 1, 30 mètre,
+doit être muni à l'avant de deux feux de croisement. 
+
+IV.-Tout véhicule et matériel agricole ou de travaux publics, automoteur, peut être muni de deux feux de croisement
 supplémentaires.
 
-V. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la troisième classe.
+V.-Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
+contraventions de la troisième classe. 
 
-VI. - La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
+VI.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
 feux de croisement, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-1095 du 28 octobre 2008 - art. 2
 
 _Cité par_:
 
@@ -17737,11 +17738,11 @@ _Anciens textes_:
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R84 (Ab)
-  - Code de la route R84 (al. 1), R150 (al. 1, 3 et 7), R175 (al. 1 et 2), R177 (al. 1 et 2), R195 (al. 2), R239, R278 3°
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R313-3-2
 
 
 ###### Article R313-3-1
@@ -17763,64 +17764,89 @@ _Créé par_:
   - Décret n°2006-499 du 3 mai 2006 - art. 1 () JORF 4 mai 2006
 
 
+###### Article R313-3-2
+
+Système d'éclairage avant adaptatif. 
+
+Tout véhicule à moteur peut être muni d'un système d'éclairage avant adaptatif destiné à s'adapter aux conditions ambiantes
+et aux paramètres d'utilisation du véhicule. 
+
+Le système d'éclairage avant adaptatif est un dispositif d'éclairage émettant des faisceaux fixes ou orientables et possédant
+des caractéristiques différenciées pour une adaptation automatique à des conditions variables d'utilisation des feux de
+croisement et, le cas échéant, des feux de route. Son fonctionnement est automatique sans intervention du conducteur du
+véhicule. 
+
+Le système d'éclairage avant adaptatif est constitué du fonctionnement simultané ou non, symétrique ou non, des feux définis
+aux articles R. 313-2, R. 313-3, R. 313-4 et R. 313-8. 
+
+Si le système d'éclairage avant adaptatif est neutralisé, les feux visés aux articles R. 313-2, R. 313-3, R. 313-4 e R. 313-8
+doivent remplir chacun leur fonction de base.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1095 du 28 octobre 2008 - art. 3
+
+_Cité par_:
+
+  - Code de la route. - art. R313-2 (V)
+  - Code de la route. - art. R313-3 (V)
+  - Code de la route. - art. R313-4 (V)
+  - Code de la route. - art. R313-8 (V)
+
+
 ###### Article R313-4
 
 Feux de position avant.
 
-I. - Sauf dispositions différentes prévues au présent article, tout véhicule à moteur doit être muni à l'avant de deux feux
-de position émettant vers l'avant une lumière blanche ou jaune, visible la nuit, par temps clair, à une distance de 150
-mètres, sans être éblouissante pour les autres conducteurs.
+I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur doit être muni à l'avant de deux feux de
+position émettant vers l'avant une lumière blanche ou jaune, visible la nuit, par temps clair, à une distance de 150 mètres,
+sans être éblouissante pour les autres conducteurs. 
 
-II. - Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues doit être muni à
-l'avant d'un ou de deux feux de position.
+Lorsque le véhicule est équipé d'un système d'éclairage avant adaptatif tel que défini à l'article R. 313-3-2, en mode
+d'éclairage en virage, le feu de position avant peut être orienté en même temps que le feu auquel il est incorporé. 
 
-III. - Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur à trois roues dépasse 1,30
-mètre, il doit être muni à l'avant de deux feux de position.
+II.-Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues doit être muni à
+l'avant d'un ou de deux feux de position. 
 
-IV. - Tout side-car équipant une motocyclette doit être muni d'un feu de position avant.
+III.-Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur à trois roues dépasse 1, 30
+mètre, il doit être muni à l'avant de deux feux de position. 
 
-V. - Les dispositions du I ci-dessus ne sont pas applicables aux cyclomoteurs à deux roues qui, toutefois, peuvent être munis
-d'un ou de deux feux de position avant.
+IV.-Tout side-car équipant une motocyclette doit être muni d'un feu de position avant.
 
-VI. - Tout véhicule et matériel agricole ou de travaux publics, automoteur, peut être muni de deux feux de position avant
-supplémentaires.
+V.-Les dispositions du I ci-dessus ne sont pas applicables aux cyclomoteurs à deux roues qui, toutefois, peuvent être munis
+d'un ou de deux feux de position avant. 
 
-VII. - Toute remorque peut être munie à l'avant de deux feux de position émettant vers l'avant une lumière blanche non
-éblouissante.
+VI.-Tout véhicule et matériel agricole ou de travaux publics, automoteur, peut être muni de deux feux de position avant
+supplémentaires. 
 
-VIII. - La présence des feux de position visés au VII ci-dessus est obligatoire lorsque la largeur hors tout de la remorque
-dépasse 1,60 mètre ou dépasse de plus de 0,20 mètre la largeur du véhicule tracteur.
+VII.-Toute remorque peut être munie à l'avant de deux feux de position émettant vers l'avant une lumière blanche non
+éblouissante. 
 
-IX. - Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et appareils agricoles ou de travaux publics
+VIII.-La présence des feux de position visés au VII ci-dessus est obligatoire lorsque la largeur hors tout de la remorque
+dépasse 1, 60 mètre ou dépasse de plus de 0, 20 mètre la largeur du véhicule tracteur. 
+
+IX.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et appareils agricoles ou de travaux publics
 remorqués.
 
-X. - La nuit, ou le jour lorsque la visibilité est insuffisante, tout cycle doit être muni d'un feu de position émettant vers
-l'avant une lumière non éblouissante, jaune ou blanche.
+X.-La nuit, ou le jour lorsque la visibilité est insuffisante, tout cycle doit être muni d'un feu de position émettant vers
+l'avant une lumière non éblouissante, jaune ou blanche. 
 
-XI. - Le fait, pour tout conducteur d'un véhicule à moteur, de contrevenir aux dispositions du présent article est puni de
-l'amende prévue pour les contraventions de la troisième classe.
+XI.-Le fait, pour tout conducteur d'un véhicule à moteur, de contrevenir aux dispositions du présent article est puni de
+l'amende prévue pour les contraventions de la troisième classe. 
 
-XII. - La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
-feux de position avant, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+XII.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
+feux de position avant, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
 
-XIII. - Le fait pour tout conducteur d'un cycle de contrevenir aux dispositions du présent article est puni de l'amende
-prévue pour les contraventions de la première classe.
+XIII.-Le fait pour tout conducteur d'un cycle de contrevenir aux dispositions du présent article est puni de l'amende prévue
+pour les contraventions de la première classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-1362 2001-12-28 art. 7 : application à Mayotte
-  - TXT_SOURCE: Directive 2000-73 CE 2000-11-22
-  - TXT_SOURCE: Directive 93-92 CEE 1993-10-29
-
 _Modifié par_:
 
-  - Décret n°2001-1362 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
+  - Décret n°2008-1095 du 28 octobre 2008 - art. 4
 
 _Cité par_:
 
@@ -17835,11 +17861,11 @@ _Anciens textes_:
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R82 (Ab)
-  - Code de la route R82 (al. 1 à 4), R150 (al. 1, 2 et 7), R175 (al. 1, 2 et 7), R177 (al. 1, 2 et 3), R195 (al. 1 et 2), R239, R278 3°
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R313-3-2
 
 
 ###### Article R313-4-1
@@ -17949,42 +17975,44 @@ _Codifié par_:
 
 Feux stop.
 
-I. - Sauf dispositions différentes prévues au présent article, tout véhicule à moteur ou toute remorque dont le poids total
-autorisé en charge est supérieur à 0,5 tonne doit être muni à l'arrière de deux ou de trois feux stop émettant vers l'arrière
-une lumière rouge non éblouissante.
+I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur ou toute remorque dont le poids total
+autorisé en charge est supérieur à 0, 5 tonne doit être muni à l'arrière de deux ou de trois feux stop émettant vers
+l'arrière une lumière rouge non éblouissante. 
 
-II. - Les feux stop doivent s'allumer lors de l'entrée en action du dispositif de freinage principal.
+II.-Les feux stop doivent s'allumer lors de l'entrée en action du dispositif de freinage principal. 
 
-III. - Leur intensité lumineuse doit être notablement supérieure à celle des feux de position arrière tout en demeurant non
-éblouissante.
+Ces feux peuvent également s'activer dans les conditions de la signalisation de freinage d'urgence telles que définies à
+l'article R. 313-17-1. 
 
-IV. - Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur doit être muni à l'arrière d'un
+III.-Leur intensité lumineuse doit être notablement supérieure à celle des feux de position arrière tout en demeurant non
+éblouissante. 
+
+IV.-Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur doit être muni à l'arrière d'un
 ou de deux feux stop.
 
-V. - Tout side-car équipant une motocyclette doit être muni à l'arrière d'un feu stop.
+V.-Tout side-car équipant une motocyclette doit être muni à l'arrière d'un feu stop. 
 
-VI. - Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur à trois roues dépasse 1,30
-mètre, il doit être muni à l'arrière de deux feux stop.
+VI.-Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur à trois roues dépasse 1, 30
+mètre, il doit être muni à l'arrière de deux feux stop. 
 
-VII. - Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et matériels agricoles ou de travaux publics
-qui, toutefois, peuvent être munis à l'arrière de deux feux stop répondant aux caractéristiques prévues par le présent
-article.
+VII.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et matériels agricoles ou de travaux publics qui,
+toutefois, peuvent être munis à l'arrière de deux feux stop répondant aux caractéristiques prévues par le présent article. 
 
-VIII. - Lorsqu'une remorque d'un poids total autorisé en charge inférieur ou égal à 0,5 tonne ou son chargement masque le ou
+VIII.-Lorsqu'une remorque d'un poids total autorisé en charge inférieur ou égal à 0, 5 tonne ou son chargement masque le ou
 les feux stop du véhicule tracteur, la remorque doit être munie du ou des dispositifs correspondants, dont le nombre est fixé
-à deux obligatoirement si la largeur de la remorque dépasse 1,30 mètre.
+à deux obligatoirement si la largeur de la remorque dépasse 1, 30 mètre. 
 
-IX. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
+IX.-Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la troisième classe.
 
-X. - La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
+X.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
 feux stop, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-1095 du 28 octobre 2008 - art. 5
 
 _Cité par_:
 
@@ -18000,39 +18028,33 @@ _Anciens textes_:
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R88 (Ab)
-  - Code de la route R88, R150 (al. 7), R175 (al. 1, 3, 7 et 10), R177 (al. 1, 2 et 3), R196-1 (al. 1), R239, R278 3°
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1
 
 
 ###### Article R313-8
 
 Feux de brouillard avant.
 
-I. - Tout véhicule à moteur peut être muni à l'avant de deux feux de brouillard émettant de la lumière jaune ou blanche.
+I.-Tout véhicule à moteur peut être muni à l'avant de deux feux de brouillard émettant de la lumière jaune ou blanche. 
 
-II. - Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues peut être muni
-d'un ou de deux feux de brouillard avant.
+Le véhicule peut être équipé d'un système d'éclairage avant adaptatif tel que défini à l'article R. 313-3-2.
 
-III. - Les dispositions du présent article ne sont pas applicables aux cyclomoteurs à deux roues.
+Lorsque les feux de brouillard sont inclus dans un système d'éclairage avant adaptatif dans lequel ils exercent également une
+autre fonction d'éclairage, leur axe peut être automatiquement orienté vers l'un ou l'autre côté. 
+
+II.-Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues peut être muni d'un
+ou de deux feux de brouillard avant. 
+
+III.-Les dispositions du présent article ne sont pas applicables aux cyclomoteurs à deux roues.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_SOURCE: Directive 2000-73 CE 2000-11-22
-  - TXT_SOURCE: Directive 93-92 CEE 1993-10-29
-  - SPEC_APPLI: Décret n°2001-1362 2001-12-28 art. 7 : application à Mayotte
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2001-1362 du 28 décembre 2001 - art. 2 () JORF 30 décembre 2001
+  - Décret n°2008-1095 du 28 octobre 2008 - art. 6
 
 _Anciens textes_:
 
@@ -18040,7 +18062,6 @@ _Anciens textes_:
   - Code de la route - art. R176 (Ab)
   - Code de la route - art. R178 (Ab)
   - Code de la route - art. R92 (Ab)
-  - Code de la route R92 (al. 1 et 2), R150 (al. 7), R176 (al. 1, 3 et 4), R178
 
 _Cité par_:
 
@@ -18262,32 +18283,35 @@ _Cité par_:
 
 Feux indicateurs de direction.
 
-I. - Tout véhicule à moteur ou toute remorque dont le poids total autorisé en charge est supérieur à 0,5 tonne doit être
+I.-Tout véhicule à moteur ou toute remorque dont le poids total autorisé en charge est supérieur à 0, 5 tonne doit être
 pourvu de feux indicateurs de direction à position fixe et à lumière clignotante. Ces dispositifs doivent émettre une lumière
-non éblouissante orangée vers l'avant et vers l'arrière.
+non éblouissante orangée vers l'avant et vers l'arrière. 
 
-II. - Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs ni aux quadricycles légers à moteur, sans
-carrosserie fermée, qui, toutefois, peuvent être munis de feux indicateurs de direction.
+Ces feux peuvent également s'activer dans les conditions du signal de détresse ou du freinage d'urgence telles que définies
+aux articles R. 313-17 et R. 313-17-1. 
 
-III. - Lorsqu'une remorque d'un poids total autorisé en charge inférieur ou égal à 0,5 tonne ou un appareil agricole ou de
+II.-Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs ni aux quadricycles légers à moteur, sans
+carrosserie fermée, qui, toutefois, peuvent être munis de feux indicateurs de direction. 
+
+III.-Lorsqu'une remorque d'un poids total autorisé en charge inférieur ou égal à 0, 5 tonne ou un appareil agricole ou de
 travaux publics remorqué, ou son chargement masque les feux indicateurs de direction du véhicule tracteur, la remorque ou
-l'appareil doit être muni des dispositifs correspondants.
+l'appareil doit être muni des dispositifs correspondants. 
 
-IV. - Pour tout véhicule ou matériel agricole ou de travaux publics remorqué, les feux indicateurs de direction peuvent être
+IV.-Pour tout véhicule ou matériel agricole ou de travaux publics remorqué, les feux indicateurs de direction peuvent être
 fixés sur un support amovible.
 
-V. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la troisième classe.
+V.-Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
+contraventions de la troisième classe. 
 
-VI. - La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
+VI.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
 feux indicateurs de direction, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L.
 325-3.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2008-1095 du 28 octobre 2008 - art. 7
 
 _Cité par_:
 
@@ -18305,11 +18329,11 @@ _Anciens textes_:
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R89 (Ab)
-  - Code de la route R89, R150 (al. 1 et 5), R151 (al. 1, 3 et 6), R175 (al. 1, 4 et 10), R177 (al. 1 et 3), R196-1 (al. 1), R197, R239, R278 3°
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R313-17
 
 
 ###### Article R313-15
@@ -18373,6 +18397,9 @@ Signal de détresse.
 I. - Tout véhicule à moteur ou toute remorque doit être muni d'un signal de détresse constitué par le fonctionnement
 simultané des indicateurs de direction.
 
+Le signal de détresse se déclenche automatiquement en cas de collision si le véhicule est équipé d'un dispositif le
+permettant. 
+
 II. - Les dispositions du I ci-dessus ne sont applicables ni aux motocyclettes, ni aux cyclomoteurs à trois roues, ni aux
 quadricycles légers à moteur, ni aux véhicules et appareils agricoles ou de travaux publics automoteurs qui, toutefois,
 peuvent être munis d'un signal de détresse.
@@ -18385,19 +18412,9 @@ contraventions de la troisième classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-1362 2001-12-28 art. 7 : application à Mayotte
-  - TXT_SOURCE: Directive 2000-73 CE 2000-11-22
-  - TXT_SOURCE: Directive 93-92 CEE 1993-10-29
-
 _Modifié par_:
 
-  - Décret n°2001-1362 du 28 décembre 2001 - art. 6 () JORF 30 décembre 2001
+  - Décret n°2008-1095 du 28 octobre 2008 - art. 8
 
 _Anciens textes_:
 
@@ -18406,11 +18423,35 @@ _Anciens textes_:
   - Code de la route - art. R177 (Ab)
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R92 (Ab)
-  - Code de la route R92 (al. 15), R150 (al. 7), R176 (al. 1, 3 et 6), R177 (al. 1 et 3), R239
 
 _Cité par_:
 
   - Code de la route. - art. R313-14 (M)
+
+
+###### Article R313-17-1
+
+Signalisation de freinage d'urgence. 
+
+Tout véhicule à moteur ou toute remorque peut être muni d'une signalisation de freinage d'urgence destinée à indiquer aux
+usagers de la route qui se trouvent en arrière du véhicule que celui-ci subit une puissante force de ralentissement. 
+
+La signalisation de freinage d'urgence est obtenue, sans intervention du conducteur du véhicule, par le fonctionnement
+synchrone de tous les feux stop ou de tous les feux indicateurs de direction, définis aux articles R. 313-7 et R. 313-14.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1095 du 28 octobre 2008 - art. 9
+
+_Cite_:
+
+  - Code de la route. - art. R313-14
+
+_Cité par_:
+
+  - Code de la route. - art. R313-7 (V)
 
 
 ###### Article R313-18
@@ -18523,7 +18564,7 @@ II. - Tout véhicule à moteur, à l'exception des véhicules et appareils agric
 muni à l'avant de tels catadioptres.
 
 III. - Les pédales de tout cycle, cyclomoteur ou quadricycle léger à moteur doivent comporter des catadioptres, sauf dans le
-cas des cycles à deux roues à pédales rétractables.
+cas des cyclomoteurs à deux roues à pédales rétractables.
 
 IV. - Tout cycle doit être muni d'un catadioptre blanc visible de l'avant.
 
@@ -18541,9 +18582,12 @@ prévue pour les contraventions de la première classe.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2008-1095 du 28 octobre 2008 - art. 10
+
 _Anciens textes_:
 
-  - Arrêté 1954-07-16 art. 45c (al. 1)
   - Code de la route - art. R151 (Ab)
   - Code de la route - art. R175 (Ab)
   - Code de la route - art. R177 (Ab)
@@ -18552,11 +18596,6 @@ _Anciens textes_:
   - Code de la route - art. R215 (Ab)
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R91 (Ab)
-  - Code de la route R91 (al. 1 et 3), R151 (al. 1 et 4), R175 (al. 1 et 10), R177 (al. 1 et 3), R196 (al. 1 et 4), R197, R215 (al. 2), R239
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 
 ###### Article R313-21
