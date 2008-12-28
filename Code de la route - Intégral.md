@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2008-10-31
+Version Consolidée au 2008-12-29
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -7800,45 +7800,55 @@ _Anciens textes_:
 
 ###### Article L330-2
 
-I. - Ces informations, à l'exception de celles relatives aux gages constitués sur les véhicules à moteur et aux oppositions
-au transfert du certificat d'immatriculation, sont communiquées sur leur demande :
+I.-Ces informations, à l'exception de celles relatives aux gages constitués sur les véhicules à moteur et aux oppositions au
+transfert du certificat d'immatriculation, sont communiquées sur leur demande : 
 
-1° A la personne physique ou morale titulaire des pièces administratives, à son avocat ou à son mandataire ;
+1° A la personne physique ou morale titulaire des pièces administratives, à son avocat ou à son mandataire ; 
 
-2° Aux autorités judiciaires ;
+2° Aux autorités judiciaires ; 
 
 3° Aux officiers ou agents de police judiciaire, dans l'exercice des missions définies à l'article 14 du code de procédure
-pénale ;
+pénale ; 
 
 4° Aux militaires de la gendarmerie ou aux fonctionnaires de la police nationale habilités à effectuer des contrôles routiers
-en application des dispositions du présent code ;
+en application des dispositions du présent code ; 
 
 4° bis Aux agents de police judiciaire adjoints et aux gardes champêtres, aux seules fins d'identifier les auteurs des
-infractions au présent code qu'ils sont habilités à constater ;
+infractions au présent code qu'ils sont habilités à constater ; 
 
 5° Aux fonctionnaires habilités à constater des infractions au présent code, aux seules fins d'identifier les auteurs de ces
-infractions ;
+infractions ; 
 
-6° Aux préfets, pour l'exercice de leurs compétences en matière de circulation des véhicules ;
+6° Aux préfets, pour l'exercice de leurs compétences en matière de circulation des véhicules ; 
 
 7° Aux services du ministre de l'intérieur, du ministre de la défense, du ministre chargé de l'industrie et du ministre
-chargé des transports pour l'exercice de leurs compétences ;
+chargé des transports pour l'exercice de leurs compétences ; 
 
 8° Aux entreprises d'assurances garantissant les dommages subis par des tiers résultant d'atteintes aux personnes ou aux
 biens dans la réalisation desquels un véhicule à moteur, ainsi que ses remorques, est impliqué et aux organismes assimilés à
 ces entreprises dès lors que ces informations ont pour seul but d'identifier les biens et les personnes impliqués dans un
 accident de la circulation à condition qu'au moins un des véhicules soit assuré par le demandeur ou que ce dernier ait en
-charge l'indemnisation d'une des victimes ;
+charge l'indemnisation d'une des victimes ; 
 
 9° Aux autorités étrangères avec lesquelles existe un accord d'échange d'informations relatives à l'identification du
-titulaire du certificat d'immatriculation ;
+titulaire du certificat d'immatriculation ; 
 
 10° Aux services compétents en matière d'immatriculation des Etats membres de l'Union européenne et aux autres Etats parties
 à l'accord sur l'Espace économique européen, dans le cadre des dispositions prévoyant un échange d'informations relatives à
 l'immatriculation d'un véhicule précédemment immatriculé dans un autre de ces Etats, ou au titre de la répression de la
-criminalité visant les véhicules et ayant des incidences transfrontalières.
+criminalité visant les véhicules et ayant des incidences transfrontalières ; 
 
-II. - Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la
+11° Aux fonctionnaires de la police nationale et du contrôle des transports terrestres ainsi qu'aux militaires de la
+gendarmerie nationale, aux seules fins de vérifier la régularité de la situation des redevables au regard des taxes sur les
+poids lourds prévues aux articles 269 à 283 quinquies et 285 septies du code des douanes et d'identifier les auteurs des
+manquements au regard de ces taxes ; 
+
+12° Aux personnels agréés du prestataire autorisé par l'Etat à exploiter les appareils de contrôle automatique et à procéder
+à la constatation des manquements au regard des taxes sur les poids lourds prévues aux articles 269 à 283 quinquies et 285
+septies du code des douanes, aux seules fins de vérifier la régularité de la situation des redevables au regard de ces taxes
+et d'identifier les auteurs des manquements au regard de ces taxes. 
+
+II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la
 réalité du sinistre.
 
 **Liens relatifs à cet article**
@@ -7864,14 +7874,9 @@ _Cité par_:
   - Code des douanes - art. 64 B (V)
   - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 21 () JORF 7 mars 2007
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
 
 _Anciens textes_:
 
@@ -7880,7 +7885,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 14 (V)
+  - Code des douanes - art. 269 (VD)
+  - Code des douanes - art. 285 septies (VD)
 
 
 ###### Article L330-3
