@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-02-12
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -23321,14 +23321,14 @@ _Anciens textes_:
 
 ###### Article R322-14
 
-Les dispositions de la présente section ne sont pas applicables aux véhicules et aux matériels civils et militaires de l'Etat
-qui font l'objet d'immatriculations spéciales.
+Les dispositions de la présente section ne sont pas applicables aux matériels civils et militaires de l'Etat qui font l'objet
+d'immatriculations spéciales.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-136 du 9 février 2009 - art. 6
 
 _Anciens textes_:
 
