@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-03-07
+Version Consolidée au 2009-04-09
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -23302,64 +23302,81 @@ _Cite_:
   - Code de la route. - art. L322-2 (V)
 
 
+###### Article R322-16
+
+L'opposition au transfert du certificat d'immatriculation prévue par l'article L. 322-1 en cas d'émission d'une amende
+forfaitaire majorée peut être effectuée par le comptable du Trésor dans l'un des deux cas suivants : 
+
+1° Le contrevenant n'habite plus à l'adresse enregistrée au fichier national des immatriculations ; 
+
+2° Le contrevenant n'a pas payé le montant de cette amende dans un délai de quatre mois à compter de l'envoi à son domicile
+de l'avis prévu par l'article R. 49-6 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-383 du 6 avril 2009 - art. 2
+
+_Anciens textes_:
+
+  - Code de la route - art. R299 (Ab)
+
+_Cite_:
+
+  - Code de la route. - art. L322-1
+
+
 ###### Article R322-17
 
 Dans le cas d'opposition au transfert, le comptable du Trésor remet, sur sa demande, au titulaire du certificat
-d'immatriculation un avis récapitulatif détaillant les amendes qui ont entraîné l'opposition.
+d'immatriculation un avis récapitulatif détaillant les amendes qui ont entraîné l'opposition. 
 
 Par dérogation à l'article 24 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité
 publique, le règlement des amendes pour lesquelles il a été fait opposition s'effectue exclusivement par versement d'espèces,
-par carte de paiement ou remise à un comptable du Trésor d'un chèque certifié.
+par carte de paiement ou remise à un comptable du Trésor d'un chèque certifié. Toutefois, il peut également intervenir par
+télépaiement automatisé ou par timbre dématérialisé conformément aux dispositions des articles R. 49-3 et R. 49-3-1 du code
+de procédure pénale.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°62-1587 du 29 décembre 1962 - art. 24 (M)
+  - Décret n°62-1587 du 29 décembre 1962 - art. 24
+  - Code de procédure pénale - art. R49-3
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-383 du 6 avril 2009 - art. 2
 
 _Anciens textes_:
 
   - Code de la route - art. R300 (Ab)
-  - Code de la route R300
 
 
 ###### Article R322-18
 
 La levée de l'opposition intervient, soit à la suite du règlement au comptable du Trésor des amendes pour lesquelles il a été
 fait opposition, soit lorsque l'intéressé a formé une réclamation selon les modalités et dans les délais prévus par les
-articles 529-10 et 530 du code de procédure pénale à peine d'irrecevabilité, et qu'il justifie avoir adressé la déclaration
-mentionnée à l'article R. 322-7.
+articles 529-10 et 530 du code de procédure pénale à peine d'irrecevabilité, et, s'il n'habitait plus à l'adresse enregistrée
+dans le fichier, qu'il justifie avoir adressé la déclaration mentionnée à l'article R. 322-7. 
 
 Dès qu'il a été informé de la levée de l'opposition, le préfet délivre le certificat de non-opposition.
 
-**Nota:**
-
-Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
+  - Décret n°2009-383 du 6 avril 2009 - art. 2
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 529-10 (M)
-  - CODE DE PROCEDURE PENALE - art. 530 (M)
-  - Code de la route. - art. R322-7 (M)
+  - Code de procédure pénale - art. 529-10
+  - Code de la route. - art. R322-7
 
 _Anciens textes_:
 
   - Code de la route - art. R301 (Ab)
-  - Code de la route R301
 
 
 #### Chapitre III : Contrôle technique<a id=138></a>
