@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-04-09
+Version Consolidée au 2009-04-13
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -130,7 +130,7 @@ Version Consolidée au 2009-04-09
           - [Section 5 : Remorquage des véhicules en panne ou accidentés. (art. R317-21 à R317-22)](#127)
           - [Section 6 : Autres aménagements. (art. R317-23 à R317-28)](#128)
         - [Chapitre VIII : Energie, émissions polluantes et nuisances. (art. R318-1 à R318-10)](#129)
-      - [Titre II : Dispositions administratives. (art. D321-5-1 à R327-9)](#130)
+      - [Titre II : Dispositions administratives. (art. D321-5-1 à R327-6)](#130)
         - [Chapitre Ier : Réception et homologation (art. D321-5-1 à R321-24)](#131)
           - [Section 1 : Dispositions générales. (art. D321-5-1 à R321-5)](#132)
           - [Section 2 : Réception communautaire ou réception CE. (art. R321-6 à R321-14)](#133)
@@ -152,73 +152,71 @@ Version Consolidée au 2009-04-09
         - [Chapitre VI : Organisation de la profession d'expert en automobile (art. R326-1 à R326-18)](#149)
           - [Section 1 : Règles générales. (art. R326-1 à R326-4)](#150)
           - [Section 2 : Organisation et fonctionnement de la Commission nationale des experts en automobile. (art. R326-5 à R326-18)](#151)
-        - [Chapitre VII : Véhicules accidentés (art. R327-1 à R327-9)](#152)
-          - [Section 1 : Véhicules gravement accidentés. (art. R327-1 à R327-5)](#153)
-          - [Section 2 : Véhicules économiquement irréparables. (art. R327-6 à R327-9)](#154)
-      - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-5)](#155)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R344-4)](#156)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R341-1)](#157)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R342-1 à R342-5)](#158)
-        - [Chapitre III : Dispositions applicables à la Polynésie française (art. R343-1 à R343-4)](#159)
-          - [Section 1 : Dispositions générales. (art. R343-1)](#160)
-          - [Section 2 : Immobilisation. (art. R343-2 à R343-3)](#161)
-          - [Section 3 : Fourrière. (art. R343-4)](#162)
-        - [Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie (art. R344-1 à R344-4)](#163)
-          - [Section 1 : Dispositions générales. (art. R344-1)](#164)
-          - [Section 2 : Immobilisation. (art. R344-2 à R344-3)](#165)
-          - [Section 3 : Fourrière. (art. R344-4)](#166)
-    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#167)
-      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#168)
-        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#169)
-          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#170)
-          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#171)
-          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-18 à R411-24)](#172)
-          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#173)
-          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#174)
-        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#175)
-          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#176)
-          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#177)
-          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#178)
-          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28)](#179)
-          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#180)
-          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#181)
-          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#182)
-          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#183)
-        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#184)
-          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#185)
-          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#186)
-        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#187)
-          - [Section 1 : Croisement. (art. R414-1 à R414-3)](#188)
-          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#189)
-        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#190)
-        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#191)
-          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#192)
-          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#193)
-          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#194)
-        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#195)
-          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#196)
-          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#197)
-        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#198)
-      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-4)](#199)
-        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-9)](#200)
-        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-4)](#201)
-      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R436-1)](#202)
-        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#203)
-        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#204)
-          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#205)
-          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#206)
-          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#207)
-        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-8)](#208)
-          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#209)
-          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#210)
-          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#211)
-        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#212)
-        - [Chapitre V : Autres véhicules (art. R435-1 à R436-1)](#213)
-          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1)](#214)
-          - [Section 2 : Ensembles forains (art. R436-1)](#215)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#216)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#217)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#218)
+        - [Chapitre VII : Véhicules endommagés (art. R327-1 à R327-6)](#152)
+      - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-5)](#153)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R344-4)](#154)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R341-1)](#155)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R342-1 à R342-5)](#156)
+        - [Chapitre III : Dispositions applicables à la Polynésie française (art. R343-1 à R343-4)](#157)
+          - [Section 1 : Dispositions générales. (art. R343-1)](#158)
+          - [Section 2 : Immobilisation. (art. R343-2 à R343-3)](#159)
+          - [Section 3 : Fourrière. (art. R343-4)](#160)
+        - [Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie (art. R344-1 à R344-4)](#161)
+          - [Section 1 : Dispositions générales. (art. R344-1)](#162)
+          - [Section 2 : Immobilisation. (art. R344-2 à R344-3)](#163)
+          - [Section 3 : Fourrière. (art. R344-4)](#164)
+    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#165)
+      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#166)
+        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#167)
+          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#168)
+          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#169)
+          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-18 à R411-24)](#170)
+          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#171)
+          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#172)
+        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#173)
+          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#174)
+          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#175)
+          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#176)
+          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28)](#177)
+          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#178)
+          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#179)
+          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#180)
+          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#181)
+        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#182)
+          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#183)
+          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#184)
+        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#185)
+          - [Section 1 : Croisement. (art. R414-1 à R414-3)](#186)
+          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#187)
+        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#188)
+        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#189)
+          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#190)
+          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#191)
+          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#192)
+        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#193)
+          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#194)
+          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#195)
+        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#196)
+      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-4)](#197)
+        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-9)](#198)
+        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-4)](#199)
+      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R436-1)](#200)
+        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#201)
+        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#202)
+          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#203)
+          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#204)
+          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#205)
+        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-8)](#206)
+          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#207)
+          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#208)
+          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#209)
+        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#210)
+        - [Chapitre V : Autres véhicules (art. R435-1 à R436-1)](#211)
+          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1)](#212)
+          - [Section 2 : Ensembles forains (art. R436-1)](#213)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#214)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#215)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#216)
 # Partie législative<a id=1></a>
 
 ## Livre 1er : Dispositions générales<a id=2></a>
@@ -7653,10 +7651,10 @@ _Anciens textes_:
 ###### Article L327-2
 
 En cas d'accord du propriétaire de céder le véhicule à l'assureur, celui-ci transmet le certificat d'immatriculation du
-véhicule au représentant de l'Etat dans le département du lieu d'immatriculation.
+véhicule             à l'autorité administrative compétente.
 
 L'assureur doit vendre le véhicule à un acheteur professionnel pour destruction, réparation ou récupération des pièces en vue
-de leur revente ou reconstruction.
+de leur revente ou reconstruction. 
 
 En cas de réparation du véhicule, celui-ci ne peut être remis en circulation et faire l'objet d'une réimmatriculation qu'au
 vu du rapport d'expertise certifiant que ledit véhicule a fait l'objet des réparations touchant à la sécurité prévues par le
@@ -7664,14 +7662,9 @@ premier rapport d'expertise et qu'il est en état de circuler dans des condition
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-_Créé par_:
-
-  - Loi n°2003-495 2003-06-12 art. 20 3° JORF 13 juin 2003
+  - Décret n°2009-397 du 10 avril 2009 - art. 1
 
 _Cité par_:
 
@@ -7692,29 +7685,24 @@ _Anciens textes_:
 ###### Article L327-3
 
 En cas de refus du propriétaire de céder le véhicule à l'assureur ou de silence dans le délai fixé à l'article L. 327-1,
-l'assureur doit en informer le représentant de l'Etat dans le département du lieu d'immatriculation.
+l'assureur doit en informer l'autorité administrative compétente. 
 
-Celui-ci procède alors, pendant la durée nécessaire et jusqu'à ce que le propriétaire l'ait informé que le véhicule a été
-réparé, à l'inscription d'une opposition à tout transfert du certificat d'immatriculation. Il en informe le propriétaire par
-lettre simple.
+Celle-ci procède alors, pendant la durée nécessaire et jusqu'à ce que le propriétaire l'ait informée que le véhicule a été
+réparé, à l'inscription d'une opposition à tout transfert du certificat d'immatriculation. Elle en informe le propriétaire
+par lettre simple. 
 
 Pour obtenir la levée de cette opposition, le propriétaire doit présenter un second rapport d'expertise certifiant que ledit
 véhicule a fait l'objet des réparations touchant à la sécurité prévues par le premier rapport d'expertise et que le véhicule
-est en état de circuler dans des conditions normales de sécurité.
+est en état de circuler dans des conditions normales de sécurité. 
 
 Un arrêté interministériel fixe la valeur de la chose assurée au moment du sinistre à partir de laquelle les dispositions
 prévues au présent article sont applicables.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-_Créé par_:
-
-  - Loi n°2003-495 2003-06-12 art. 20 3° JORF 13 juin 2003
+  - Décret n°2009-397 du 10 avril 2009 - art. 1
 
 _Anciens textes_:
 
@@ -7722,7 +7710,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L327-1 (V)
+  - Code de la route. - art. L327-1
 
 _Cité par_:
 
@@ -7735,25 +7723,20 @@ _Cité par_:
 
 Lorsqu'en raison de la gravité des dommages qu'il a subis, un véhicule a été immobilisé en application des articles L. 325-1
 à L. 325-3, l'officier ou l'agent de police judiciaire qui procède aux constatations retire à titre conservatoire le
-certificat d'immatriculation.
+certificat d'immatriculation. 
 
-En l'absence de remise du certificat d'immatriculation, le préfet ou, à Paris, le préfet de police avise le propriétaire de
+En l'absence de remise du certificat d'immatriculation, l'autorité administrative compétente avise le propriétaire de
 l'interdiction de circulation de son véhicule et procède à l'inscription d'une opposition au transfert du certificat
-d'immatriculation jusqu'à la remise de ce document.
+d'immatriculation jusqu'à la remise de ce document. 
 
 Le véhicule n'est remis en circulation qu'au vu du rapport d'un expert en automobile certifiant que ledit véhicule est en
 état de circuler dans des conditions normales de sécurité.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-_Créé par_:
-
-  - Loi n°2003-495 2003-06-12 art. 20 4° JORF 13 juin 2003
+  - Décret n°2009-397 du 10 avril 2009 - art. 1
 
 _Cité par_:
 
@@ -7762,30 +7745,26 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. L325-3
 
 
 ###### Article L327-5
 
 Lorsqu'un expert en automobile constate qu'en raison de son état un véhicule ne peut circuler dans des conditions normales de
-sécurité, il en informe le préfet du département du lieu de constatation ou, à Paris, le préfet de police, sans que puissent
-y faire obstacle les règles relatives au secret professionnel. Le préfet avise le propriétaire de l'interdiction de
-circulation de son véhicule et procède à l'inscription d'une opposition au transfert du certificat d'immatriculation jusqu'à
-la remise de ce document.
+sécurité, il en informe l'autorité administrative compétente, sans que puissent y faire obstacle les règles relatives au
+secret professionnel. L'autorité administrative compétente avise le propriétaire de l'interdiction de circulation de son
+véhicule et procède à l'inscription d'une opposition au transfert du certificat d'immatriculation jusqu'à la remise de ce
+document.
 
 Le véhicule n'est remis en circulation qu'au vu d'un rapport d'un expert en automobile certifiant que ledit véhicule est en
 état de circuler dans des conditions normales de sécurité.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-_Créé par_:
-
-  - Loi n°2003-495 2003-06-12 art. 20 4° JORF 13 juin 2003
+  - Décret n°2009-397 du 10 avril 2009 - art. 1
 
 _Cité par_:
 
@@ -26524,64 +26503,61 @@ _Nouveaux textes_:
 ###### Article R326-10
 
 Toute personne souhaitant être inscrite sur la liste des experts en automobile doit en faire la demande au secrétariat de la
-commission. Cette demande est accompagnée des pièces justificatives suivantes :
+commission. Cette demande est accompagnée des pièces justificatives suivantes : 
 
-1° Un document établissant l'état civil de l'intéressé ;
+1° Un document établissant l'état civil de l'intéressé ; 
 
-_2° La copie, suivant le cas :_
+2° La copie, suivant le cas :
 
-_- soit du brevet professionnel d'expert en automobile ou de la reconnaissance de la qualité d'expert en automobile prévus
-par le décret n° 74-472 du 17 mai 1974 relatif aux experts en automobile, ou du diplôme d'expert en automobile prévu par le
+- soit du brevet professionnel d'expert en automobile ou de la reconnaissance de la qualité d'expert en automobile prévus par
+le décret n° 74-472 du 17 mai 1974 relatif aux experts en automobile, ou du diplôme d'expert en automobile prévu par le
 décret n° 95-493 du 25 avril 1995 portant création et règlement général du diplôme d'expert en automobile, ou du relevé de
-notes du diplôme d'expert en automobile délivré par le recteur d'académie ;_
+notes du diplôme d'expert en automobile délivré par le recteur d'académie ;
 
-_- soit d'un titre délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen reconnu équivalent aux titres mentionnés à l'alinéa précédent dans les conditions fixées par un arrêté du
-ministre chargé des transports (1)_ ;
+- soit d'un titre délivré par un autre Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur
+l'Espace économique européen ou d'un titre reconnu par l'un de ces Etats, équivalents aux titres mentionnés à l'alinéa
+précédent ;
+
+- soit de toute pièce de nature à établir l'expérience professionnelle acquise par l'intéressé en matière d'expertise
+automobile dans l'un des Etats mentionnés à l'alinéa précédent dans les conditions fixées par arrêté du ministre chargé des
+transports ; 
 
 3° Une déclaration sur l'honneur du demandeur attestant qu'il ne détient pas de charge d'officier public ou ministériel et
 n'exerce pas une activité incompatible avec la qualité d'expert en automobile, conformément aux dispositions de l'article L.
-326-6.
+326-6. 
 
 La commission peut, en outre, demander à l'intéressé de fournir tout autre document ou renseignement utile, notamment son
 contrat de travail s'il s'agit d'un expert salarié, afin de lui permettre de vérifier que la condition d'indépendance est
-remplie ;
+remplie ; 
 
-4° Un document justificatif de l'assurance obligatoire prévue par l'article L. 326-7 ;
+4° Un document justificatif de l'assurance obligatoire prévue par l'article L. 326-7 ; 
 
 5° Un extrait du bulletin n° 3 du casier judiciaire, ou pour les ressortissants étrangers un document équivalent, accompagné
 d'une déclaration sur l'honneur de l'intéressé selon laquelle il n'a fait l'objet d'aucune des condamnations pénales prévues
 à l'article L. 326-2 et n'est pas sous le coup d'un jugement rendu en application de l'article L. 326-9 lui interdisant
-d'exercer l'activité d'expert en automobile ;
+d'exercer l'activité d'expert en automobile ; 
 
-_6° La copie de l'attestation justifiant que le demandeur a suivi la formation prévue à l'article R. 326-17 lorsqu'il
-sollicite la reconnaissance de sa qualification pour le contrôle des véhicules gravement accidentés (1)._
-
-**Nota:**
-
-(1) Conseil d'Etat, décision n° 302119, en date du 31 mars 2008 art.1 : Le 2° et le 6° de l'article R. 326-10 du code de la
-route, dans leur rédaction issue de l'article 2 du décret du 23 décembre 2006, sont annulés en tant qu'ils ne prévoient pas
-la prise en compte d'une expérience professionnelle équivalente acquise dans un autre Etat membre de l'Union européenne.
+6° La copie de l'attestation justifiant que le demandeur a suivi la formation dans les conditions prévues à l'article R.
+326-17 lorsqu'il sollicite la reconnaissance de sa qualification pour le contrôle des véhicules endommagés prévue par les
+articles L. 327-1 à L. 327-6.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°74-472 1974-05-17
-  - Décret n°95-493 1995-04-25
-  - Code de la route. - art. L326-2 (M)
-  - Code de la route. - art. L326-6 (M)
-  - Code de la route. - art. L326-7 (M)
-  - Code de la route. - art. L326-9 (M)
-  - Code de la route. - art. R326-17 (V)
+  - Décret n°74-472 du 17 mai 1974
+  - Décret n°95-493 du 25 avril 1995
+  - Code de la route. - art. L326-2
+  - Code de la route. - art. L326-6
+  - Code de la route. - art. L326-7
+  - Code de la route. - art. L326-9
+  - Code de la route. - art. L327-1
+  - Code de la route. - art. L327-6
+  - Code de la route. - art. R326-17
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Créé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+  - Décret n°2009-397 du 10 avril 2009 - art. 3
 
 _Cité par_:
 
@@ -26750,20 +26726,22 @@ _Abrogé par_:
 
 ###### Article R326-17
 
-L'expert en automobile qui justifie d'une qualification pour le contrôle des véhicules gravement accidentés acquise après une
-formation dispensée dans les conditions définies par un arrêté conjoint du ministre chargé de l'éducation nationale et du
-ministre chargé des transports est inscrit sur la liste nationale des experts en automobile avec la mention de cette
-qualification.
+La qualification des experts en automobile pour le contrôle des véhicules endommagés prévu par les articles L. 327-1 à L.
+327-5 est acquise après une formation dispensée dans les conditions définies par arrêté du ministre chargé des transports
+pris après avis du ministre chargé de l'enseignement supérieur. 
+
+Elle est également accordée, dans des conditions fixées par arrêté du ministre chargé des transports, aux experts ayant reçu
+une formation dispensée dans un autre Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur l'Espace
+économique européen équivalente à la formation mentionnée au premier alinéa ou établissant avoir une expérience
+professionnelle en matière de contrôle des véhicules endommagés acquise dans l'un de ces Etats. 
+
+La liste des experts en automobile mentionne pour chaque expert concerné cette qualification.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Créé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+  - Décret n°2009-397 du 10 avril 2009 - art. 3
 
 _Cité par_:
 
@@ -26775,6 +26753,10 @@ _Cité par_:
   - Code de la route. - art. R327-2 (V)
   - Code de la route. - art. R327-3 (V)
   - Code de la route. - art. R342-5 (V)
+
+_Abrogé par_:
+
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
 
 
 ###### Article R326-18
@@ -26796,23 +26778,30 @@ _Abrogé par_:
   - Décret n°2011-760 du 28 juin 2011 - art. 1
 
 
-#### Chapitre VII : Véhicules accidentés<a id=152></a>
-
-##### Section 1 : Véhicules gravement accidentés.<a id=153></a>
+#### Chapitre VII : Véhicules endommagés<a id=152></a>
 
 ###### Article R327-1
 
-Lorsqu'en raison de la gravité des dommages qu'il a subis à la suite d'un accident, un véhicule n'est plus en état de
-circuler sans danger pour la sécurité, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1
-à L. 325-3 et l'agent qui procède aux constatations retire à titre conservatoire le certificat d'immatriculation et établit
-un document justificatif.
+I.-Dans le cas prévu à l'article L. 327-2 où le propriétaire a donné son accord pour céder son véhicule à l'assureur, celui-
+ci transmet le certificat d'immatriculation au préfet du département de son choix et il déclare l'achat au ministre de
+l'intérieur dans les conditions fixées à l'article R. 322-4. 
 
-Le document justificatif et le certificat d'immatriculation sont transmis immédiatement au préfet du département du lieu de
-l'accident. Une copie du document justificatif, mentionnant les conditions de restitution du certificat d'immatriculation,
-est délivrée à son titulaire.
+II.-Dans le cas prévu à l'article L. 327-3 où le propriétaire a refusé de céder son véhicule à l'assureur, ce dernier en
+informe le ministre de l'intérieur dans un délai de quinze jours à compter du refus soit par l'intermédiaire du préfet du
+département de son choix, soit par voie électronique s'il est habilité par le ministre de l'intérieur. Le ministre de
+l'intérieur procède à l'inscription d'une opposition au transfert du certificat d'immatriculation. 
 
-Le fait de maintenir en circulation un véhicule à moteur ou une remorque dont le certificat d'immatriculation a été retiré en
-application du présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+III.-Les rapports d'expertise mentionnés aux articles L. 327-1 à L. 327-3 sont établis par un expert en automobile justifiant
+de la qualification prévue à l'article R. 326-17. 
+
+Le rapport visé à l'article L. 327-1 comporte la liste des réparations à effectuer si le véhicule est techniquement
+réparable. 
+
+Les rapports visés aux L. 327-2 et L. 327-3 sont adressés au ministre de l'intérieur soit par l'intermédiaire du préfet du
+département de son choix, soit par voie électronique si l'expert en automobile est habilité par le ministre de l'intérieur. 
+
+Ils attestent également que le véhicule n'a pas subi de transformation notable au sens de l'article R. 321-16, ni de
+transformation susceptible de modifier les caractéristiques indiquées sur le certificat d'immatriculation.
 
 **Liens relatifs à cet article**
 
@@ -26821,13 +26810,9 @@ _Anciens textes_:
   - Décret n°91-1315 du 27 décembre 1991 - art. 1 (Ab)
   - Code de la route. - art. R326-1 (M)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+  - Décret n°2009-397 du 10 avril 2009 - art. 4
 
 _Cité par_:
 
@@ -26840,23 +26825,48 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L327-1 (V)
+  - Code de la route. - art. L327-2 (V)
+  - Code de la route. - art. L327-3 (V)
+  - Code de la route. - art. R321-16 (V)
+  - Code de la route. - art. R322-4 (V)
+  - Code de la route. - art. R326-17 (Ab)
 
 
 ###### Article R327-2
 
-Le titulaire du certificat d'immatriculation peut en demander la restitution sur présentation d'un rapport établi par un
-expert en automobile qualifié pour le contrôle des véhicules gravement accidentés, désigné par l'administration, si ce
-rapport atteste que les dommages constatés sur le véhicule ne mettent pas en cause la sécurité.
+I.-Lorsqu'un véhicule a été immobilisé en application des articles L. 325-1 à L. 325-3 en raison de la gravité des dommages
+qu'il a subis, l'officier ou l'agent de police judiciaire qui procède aux constatations en informe le ministre de l'intérieur
+soit par l'intermédiaire du préfet du département de son choix, soit par voie électronique. Le ministre de l'intérieur
+informe le titulaire que son véhicule n'est plus autorisé à circuler sur les voies ouvertes à la circulation publique. 
 
-Lorsque l'expert ainsi saisi confirme, au contraire, la gravité des dommages constatés au regard de la sécurité, il dresse le
-devis descriptif prévisionnel des réparations à effectuer à moins qu'il n'estime que le véhicule n'est plus réparable. Si le
-propriétaire du véhicule décide de faire procéder à sa mise en état, les réparations doivent être effectuées conformément à
-ce devis.
+Lorsque le titulaire du certificat d'immatriculation ne remet pas son titre à l'officier ou l'agent de police judiciaire qui
+a procédé aux constatations en application de l'article L. 327-4, le ministre de l'intérieur informe le titulaire que son
+véhicule n'est plus autorisé à circuler sur les voies ouvertes à la circulation publique et procède à l'inscription d'une
+opposition au transfert du certificat d'immatriculation. 
 
-Le certificat d'immatriculation ne peut dans ce cas être restitué à son titulaire qu'au vu d'un certificat, délivré par
-l'expert, attestant que les réparations ont été effectuées conformément au devis qu'il a établi et que le véhicule est en
-état de circuler dans des conditions normales de sécurité.
+II.-Lorsque le véhicule est examiné par un expert en automobile justifiant de la qualification prévue à l'article R. 326-17,
+afin de confirmer ou d'infirmer la présomption de dangerosité du véhicule, celui-ci établit un rapport qu'il adresse au
+ministre de l'intérieur soit par l'intermédiaire du préfet du département de son choix, soit par voie électronique s'il y est
+habilité par le ministre de l'intérieur. 
+
+III.-Dans le cas où l'expert infirme la présomption de dangerosité, le certificat d'immatriculation est restitué à son
+titulaire et l'interdiction de circuler et l'opposition au transfert du certificat d'immatriculation sont levées. 
+
+Dans le cas où l'expert confirme la présomption de dangerosité, son rapport comporte la liste des réparations à effectuer si
+le véhicule est techniquement réparable. 
+
+IV.-Lorsque l'expert justifiant de la qualification prévue à l'article R. 326-17, missionné par le propriétaire, atteste que
+les réparations touchant à la sécurité prévues par le premier rapport ont été effectuées et que le véhicule est en état de
+circuler dans des conditions normales de sécurité, il adresse un rapport au ministre de l'intérieur soit par l'intermédiaire
+du préfet du département de son choix, soit par voie électronique s'il est habilité par le ministre de l'intérieur. 
+
+Ce rapport d'expertise mentionné au troisième alinéa de l'article L. 327-4 atteste également que le véhicule n'a pas subi de
+transformation notable au sens de l'article R. 321-16, ni de transformation susceptible de modifier les caractéristiques
+indiquées sur le certificat d'immatriculation. 
+
+Le certificat d'immatriculation est restitué à son titulaire et l'interdiction de circuler et l'opposition au transfert du
+certificat d'immatriculation sont levées.
 
 **Liens relatifs à cet article**
 
@@ -26865,13 +26875,16 @@ _Anciens textes_:
   - Décret n°91-1315 du 27 décembre 1991 - art. 2 (Ab)
   - Code de la route. - art. R326-2 (M)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+  - Décret n°2009-397 du 10 avril 2009 - art. 4
+
+_Cite_:
+
+  - Code de la route. - art. L327-1 (V)
+  - Code de la route. - art. L327-4 (V)
+  - Code de la route. - art. R321-16 (V)
+  - Code de la route. - art. R326-17 (Ab)
 
 _Cité par_:
 
@@ -26881,13 +26894,25 @@ _Cité par_:
 
 ###### Article R327-3
 
-Lorsque le propriétaire décide de ne pas faire procéder à la remise en état de son véhicule, il est tenu d'en aviser le
-préfet du département d'immatriculation du véhicule, qui procède alors à l'annulation du certificat d'immatriculation.
+I.-L'information prévue par l'article L. 327-5 est adressée au ministre de l'intérieur soit par l'intermédiaire du préfet de
+département de son choix, soit par voie électronique si l'expert est habilité par le ministre de l'intérieur. 
 
-Il est également procédé à l'annulation du certificat d'immatriculation si, dans le délai d'un an suivant son retrait, sa
-restitution n'a pu être opérée dans les conditions prévues à l'article R. 327-2. Dans ce cas, il ne peut plus être procédé à
-la remise en circulation et à l'immatriculation du véhicule qu'après une réception, effectuée à la demande du propriétaire,
-dans les conditions fixées par l'article R. 321-15.
+Le ministre de l'intérieur informe le titulaire que son véhicule n'est plus autorisé à circuler sur les voies ouvertes à la
+circulation publique et procède à l'inscription d'une opposition au transfert du certificat d'immatriculation. 
+
+II.-Si le véhicule est techniquement réparable, l'expert précise la liste des réparations à effectuer. 
+
+III.-Lorsque l'expert justifiant de la qualification prévue à l'article R. 326-17, missionné par le propriétaire, atteste que
+les réparations touchant à la sécurité prévues par le premier rapport ont été effectuées et que le véhicule est en état de
+circuler dans des conditions normales de sécurité, il adresse un rapport au ministre de l'intérieur soit par l'intermédiaire
+du préfet du département de son choix, soit par voie électronique s'il est habilité par le ministre de l'intérieur. 
+
+Ce rapport d'expertise mentionné au deuxième alinéa de l'article L. 327-5 atteste également que le véhicule n'a pas subi de
+transformation notable au sens de l'article R. 321-16, ni de transformation susceptible de modifier les caractéristiques
+indiquées sur le certificat d'immatriculation. 
+
+IV.-Au vu du rapport visé au III du présent article, l'interdiction de circuler du véhicule et l'opposition au transfert du
+certificat d'immatriculation sont levées.
 
 **Liens relatifs à cet article**
 
@@ -26896,25 +26921,22 @@ _Anciens textes_:
   - Décret n°91-1315 du 27 décembre 1991 - art. 3 (Ab)
   - Code de la route. - art. R326-3 (M)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+  - Décret n°2009-397 du 10 avril 2009 - art. 4
 
 _Cite_:
 
-  - Code de la route. - art. R321-15 (V)
-  - Code de la route. - art. R327-2 (M)
+  - Code de la route. - art. L327-5 (V)
+  - Code de la route. - art. R321-16 (V)
+  - Code de la route. - art. R326-17 (Ab)
 
 
 ###### Article R327-4
 
-Le retrait conservatoire du certificat d'immatriculation ne fait pas obstacle au transfert de propriété du véhicule ; dans ce
-cas, les règles édictées aux articles précédents pour sa mise en circulation s'appliquent au nouveau propriétaire et
-conditionnent la délivrance à ce dernier d'un nouveau certificat d'immatriculation.
+Dans le cadre des dispositions des articles L. 327-1 à L. 327-5, un professionnel ayant acquis un véhicule endommagé doit,
+dans les quinze jours, adresser une déclaration d'achat au ministre de l'intérieur soit par l'intermédiaire du préfet du
+département de son choix, soit par voie électronique s'il est habilité par le ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
@@ -26923,13 +26945,13 @@ _Anciens textes_:
   - Décret n°91-1315 du 27 décembre 1991 - art. 4 (Ab)
   - Code de la route. - art. R326-4 (M)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+  - Décret n°2009-397 du 10 avril 2009 - art. 4
+
+_Cite_:
+
+  - Code de la route. - art. L327-1 (V)
 
 _Cité par_:
 
@@ -26938,39 +26960,37 @@ _Cité par_:
 
 ###### Article R327-5
 
-Les dispositions de la présente section ne sont applicables qu'aux véhicules dont le poids total autorisé en charge n'excède
-pas 3,5 tonnes, à l'exclusion des véhicules à deux ou trois roues, des quadricycles à moteur et des véhicules militaires.
+Est puni de l'amende prévue pour les contraventions de la quatrième classe : 
 
-Un arrêté du ministre chargé des transports, pris après avis du ministre de la défense et du ministre de l'intérieur, fixe
-les modalités d'application des dispositions de la présente section.
+1° Le fait pour tout propriétaire de maintenir en circulation un véhicule dont le certificat d'immatriculation a été retiré
+ou qui a fait l'objet d'une interdiction de circuler ; 
+
+2° Le fait pour l'assureur qui propose une indemnisation à l'assuré avec cession du véhicule de ne pas déclarer cet achat au
+ministre de l'intérieur conformément aux dispositions prévues par l'article R. 327-1 ; 
+
+3° Le fait pour un professionnel ayant acquis un véhicule endommagé de ne pas déclarer cet achat au ministre de l'intérieur
+conformément aux dispositions prévues par l'article R. 327-4.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°91-1315 du 27 décembre 1991 - art. 5 (Ab)
-  - Code de la route. - art. R326-5 (M)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+  - Décret n°2009-397 du 10 avril 2009 - art. 4
 
+_Cite_:
 
-##### Section 2 : Véhicules économiquement irréparables.<a id=154></a>
+  - Code de la route. - art. R327-1 (V)
+  - Code de la route. - art. R327-4 (V)
+
 
 ###### Article R327-6
 
-Dans le cas prévu à l'article L. 327-2 où le propriétaire a donné son accord pour céder son véhicule à l'assureur, la carte
-grise du véhicule est transmise par l'assureur au préfet du département du lieu d'immatriculation dans un délai d'un mois à
-compter de l'accord entre l'assureur et le propriétaire du véhicule.
-
-L'assureur fournit une copie du rapport d'expertise établi en application de l'article L. 327-1. Dans le cas où l'expert
-estime le véhicule réparable, au sens du deuxième alinéa de l'article R. 327-2, son rapport comporte une description
-détaillée des réparations à effectuer.
+Des arrêtés du ministre des transports, pris après avis du ministre de l'intérieur, fixent pour chaque catégorie de véhicules
+les modalités d'application du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -26979,136 +26999,22 @@ _Anciens textes_:
   - Décret n°97-813 du 27 août 1997 - art. 1 (Ab)
   - Code de la route. - art. R326-6 (M)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
-
-_Cite_:
-
-  - Code de la route. - art. L327-1 (V)
-  - Code de la route. - art. L327-2 (V)
-  - Code de la route. - art. R327-2 (M)
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R326-6 (V)
-
-
-###### Article R327-7
-
-Lorsque, dans le cadre de l'article L. 327-2, un professionnel a acquis un véhicule pour réparation, il doit, dans les quinze
-jours, adresser une déclaration d'achat au préfet du département du lieu d'immatriculation, qui lui délivre un récépissé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-813 du 27 août 1997 - art. 2 (Ab)
-  - Code de la route. - art. R326-7 (M)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-397 du 10 avril 2009 - art. 4
-
-_Cite_:
-
-  - Code de la route. - art. L327-2
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R326-7 (V)
-
-_Cité par_:
-
-  - Code de la route. - art. R327-16 (Ab)
-
-
-###### Article R327-8
-
-Les rapports d'expertise mentionnés aux articles L. 327-1 à L. 327-3 sont établis par un expert en automobile qualifié pour
-le contrôle des véhicules gravement accidentés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-813 du 27 août 1997 - art. 3 (Ab)
-  - Code de la route. - art. R326-8 (M)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-397 du 10 avril 2009 - art. 4
-
-_Cite_:
-
-  - Code de la route.
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R326-8 (V)
-
-
-###### Article R327-9
-
-Le second rapport d'expertise mentionné au troisième alinéa de l'article L. 327-1 et au troisième alinéa de l'article L.
-327-3 atteste que le véhicule n'a pas subi de transformation notable au sens de l'article R. 321-16, ni de transformation
-susceptible de modifier les caractéristiques indiquées sur la carte grise.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-813 du 27 août 1997 - art. 4 (Ab)
-  - Code de la route. - art. R326-9 (M)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
-
-_Abrogé par_:
 
   - Décret n°2009-397 du 10 avril 2009 - art. 4
 
 _Cite_:
 
   - Code de la route. - art. L327-1
-  - Code de la route. - art. L327-3
-  - Code de la route. - art. R321-16
+  - Code de la route. - art. L327-2
+  - Code de la route. - art. R327-2
 
 _Nouveaux textes_:
 
-  - Code de la route. - art. R326-9 (V)
-
-_Cité par_:
-
-  - Code de la route. - art. R327-8 (M)
+  - Code de la route. - art. R326-6 (V)
 
 
-### Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules.<a id=155></a>
+### Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules.<a id=153></a>
 
 ###### Article R330-1
 
@@ -27260,9 +27166,9 @@ _Nouveaux textes_:
   - Code de la route. - art. R330-6 (V)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=156></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=154></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=157></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=155></a>
 
 ###### Article R341-1
 
@@ -27284,7 +27190,7 @@ _Codifié par_:
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=158></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=156></a>
 
 ###### Article R342-1
 
@@ -27460,9 +27366,9 @@ _Cite_:
   - Code de la route. - art. R326-17 (Ab)
 
 
-#### Chapitre III : Dispositions applicables à la Polynésie française<a id=159></a>
+#### Chapitre III : Dispositions applicables à la Polynésie française<a id=157></a>
 
-##### Section 1 : Dispositions générales.<a id=160></a>
+##### Section 1 : Dispositions générales.<a id=158></a>
 
 ###### Article R343-1
 
@@ -27504,7 +27410,7 @@ _Cite_:
   - Code de la route. - art. R325-1-1 (V)
 
 
-##### Section 2 : Immobilisation.<a id=161></a>
+##### Section 2 : Immobilisation.<a id=159></a>
 
 ###### Article R343-2
 
@@ -27684,7 +27590,7 @@ _Cité par_:
   - Code de la route. - art. R343-2 (M)
 
 
-##### Section 3 : Fourrière.<a id=162></a>
+##### Section 3 : Fourrière.<a id=160></a>
 
 ###### Article R343-4
 
@@ -28100,9 +28006,9 @@ _Cite_:
   - Code de la route. - art. R325-45 (V)
 
 
-#### Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie<a id=163></a>
+#### Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie<a id=161></a>
 
-##### Section 1 : Dispositions générales.<a id=164></a>
+##### Section 1 : Dispositions générales.<a id=162></a>
 
 ###### Article R344-1
 
@@ -28142,7 +28048,7 @@ _Cite_:
   - Code de la route. - art. R325-1-1 (V)
 
 
-##### Section 2 : Immobilisation.<a id=165></a>
+##### Section 2 : Immobilisation.<a id=163></a>
 
 ###### Article R344-2
 
@@ -28320,7 +28226,7 @@ _Créé par_:
   - Décret n°2007-1626 du 16 novembre 2007 - art. 13 () JORF 18 novembre 2007
 
 
-##### Section 3 : Fourrière.<a id=166></a>
+##### Section 3 : Fourrière.<a id=164></a>
 
 ###### Article R344-4
 
@@ -28688,13 +28594,13 @@ _Créé par_:
   - Décret n°2007-1626 du 16 novembre 2007 - art. 14 () JORF 18 novembre 2007
 
 
-## Livre IV : L'usage des voies.<a id=167></a>
+## Livre IV : L'usage des voies.<a id=165></a>
 
-### Titre Ier : Dispositions générales.<a id=168></a>
+### Titre Ier : Dispositions générales.<a id=166></a>
 
-#### Chapitre Ier : Pouvoirs de police de la circulation<a id=169></a>
+#### Chapitre Ier : Pouvoirs de police de la circulation<a id=167></a>
 
-##### Section 1 : Pouvoirs généraux de police.<a id=170></a>
+##### Section 1 : Pouvoirs généraux de police.<a id=168></a>
 
 ###### Article R411-1
 
@@ -29041,7 +28947,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Commission départementale de la sécurité routière.<a id=171></a>
+##### Section 2 : Commission départementale de la sécurité routière.<a id=169></a>
 
 ###### Article R411-10
 
@@ -29147,7 +29053,7 @@ _Cite_:
   - Code de la route. - art. R411-11 (M)
 
 
-##### Section 3 : Interdictions et restrictions de circulation.<a id=172></a>
+##### Section 3 : Interdictions et restrictions de circulation.<a id=170></a>
 
 ###### Article R411-18
 
@@ -29470,7 +29376,7 @@ _Cité par_:
   - Code de la route. - art. R442-6 (V)
 
 
-##### Section 4 : Signalisation routière.<a id=173></a>
+##### Section 4 : Signalisation routière.<a id=171></a>
 
 ###### Article R411-25
 
@@ -29603,7 +29509,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 5 : Courses et épreuves sportives.<a id=174></a>
+##### Section 5 : Courses et épreuves sportives.<a id=172></a>
 
 ###### Article R411-29
 
@@ -29733,9 +29639,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=175></a>
+#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=173></a>
 
-##### Section 1 : Equipements des utilisateurs de véhicules.<a id=176></a>
+##### Section 1 : Equipements des utilisateurs de véhicules.<a id=174></a>
 
 ###### Article R412-1
 
@@ -29959,7 +29865,7 @@ _Cite_:
   - Code de la route. - art. R412-1 (V)
 
 
-##### Section 2 : Principes généraux de circulation.<a id=177></a>
+##### Section 2 : Principes généraux de circulation.<a id=175></a>
 
 ###### Article R412-6
 
@@ -30482,7 +30388,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Matérialisation des voies de circulation.<a id=178></a>
+##### Section 3 : Matérialisation des voies de circulation.<a id=176></a>
 
 ###### Article R412-18
 
@@ -30731,7 +30637,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 4 : Sens de circulation.<a id=179></a>
+##### Section 4 : Sens de circulation.<a id=177></a>
 
 ###### Article R412-26
 
@@ -30822,7 +30728,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 5 : Feux de signalisation lumineux.<a id=180></a>
+##### Section 5 : Feux de signalisation lumineux.<a id=178></a>
 
 ###### Article R412-29
 
@@ -30980,7 +30886,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 6 : Circulation des piétons.<a id=181></a>
+##### Section 6 : Circulation des piétons.<a id=179></a>
 
 ###### Article R412-34
 
@@ -31298,7 +31204,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=182></a>
+##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=180></a>
 
 ###### Article R412-44
 
@@ -31492,7 +31398,7 @@ _Anciens textes_:
   - Code de la route R223, R233 (al. 1 et 2)
 
 
-##### Section 8 : Troubles à la circulation.<a id=183></a>
+##### Section 8 : Troubles à la circulation.<a id=181></a>
 
 ###### Article R412-51
 
@@ -31560,9 +31466,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Vitesse<a id=184></a>
+#### Chapitre III : Vitesse<a id=182></a>
 
-##### Section 1 : Vitesses maximales autorisées.<a id=185></a>
+##### Section 1 : Vitesses maximales autorisées.<a id=183></a>
 
 ###### Article R413-1
 
@@ -32204,7 +32110,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Maîtrise de la vitesse.<a id=186></a>
+##### Section 2 : Maîtrise de la vitesse.<a id=184></a>
 
 ###### Article R413-17
 
@@ -32327,9 +32233,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre IV : Croisement et dépassement<a id=187></a>
+#### Chapitre IV : Croisement et dépassement<a id=185></a>
 
-##### Section 1 : Croisement.<a id=188></a>
+##### Section 1 : Croisement.<a id=186></a>
 
 ###### Article R414-1
 
@@ -32435,7 +32341,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Dépassement.<a id=189></a>
+##### Section 2 : Dépassement.<a id=187></a>
 
 ###### Article R414-4
 
@@ -32956,7 +32862,7 @@ _Cité par_:
   - Code de la route. - art. R442-2 (V)
 
 
-#### Chapitre V : Intersections et priorité de passage.<a id=190></a>
+#### Chapitre V : Intersections et priorité de passage.<a id=188></a>
 
 ###### Article R415-1
 
@@ -33479,9 +33385,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=191></a>
+#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=189></a>
 
-##### Section 1 : Emploi des avertisseurs.<a id=192></a>
+##### Section 1 : Emploi des avertisseurs.<a id=190></a>
 
 ###### Article R416-1
 
@@ -33565,7 +33471,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=193></a>
+##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=191></a>
 
 ###### Article R416-4
 
@@ -33988,7 +33894,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres dispositions.<a id=194></a>
+##### Section 3 : Autres dispositions.<a id=192></a>
 
 ###### Article R416-17
 
@@ -34138,9 +34044,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VII : Arrêt et stationnement<a id=195></a>
+#### Chapitre VII : Arrêt et stationnement<a id=193></a>
 
-##### Section 1 : Dispositions générales.<a id=196></a>
+##### Section 1 : Dispositions générales.<a id=194></a>
 
 ###### Article R417-1
 
@@ -34409,7 +34315,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=197></a>
+##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=195></a>
 
 ###### Article R417-9
 
@@ -34681,7 +34587,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=198></a>
+#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=196></a>
 
 ###### Article R418-1
 
@@ -34983,9 +34889,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=199></a>
+### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=197></a>
 
-#### Chapitre Ier : Autoroutes.<a id=200></a>
+#### Chapitre Ier : Autoroutes.<a id=198></a>
 
 ###### Article R421-1
 
@@ -35331,7 +35237,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=201></a>
+#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=199></a>
 
 ###### Article R422-1
 
@@ -35505,9 +35411,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=202></a>
+### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=200></a>
 
-#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=203></a>
+#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=201></a>
 
 ###### Article R431-1
 
@@ -35904,9 +35810,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Véhicules d'intérêt général<a id=204></a>
+#### Chapitre II : Véhicules d'intérêt général<a id=202></a>
 
-##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=205></a>
+##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=203></a>
 
 ###### Article R432-1
 
@@ -36157,7 +36063,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R442-7 (V)
 
 
-##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=206></a>
+##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=204></a>
 
 ###### Article R432-2
 
@@ -36485,7 +36391,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres véhicules d'intérêt général.<a id=207></a>
+##### Section 3 : Autres véhicules d'intérêt général.<a id=205></a>
 
 ###### Article R432-5
 
@@ -36593,9 +36499,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=208></a>
+#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=206></a>
 
-##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=209></a>
+##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=207></a>
 
 ###### Article R433-1
 
@@ -36916,7 +36822,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Transports exceptionnels de personnes.<a id=210></a>
+##### Section 2 : Transports exceptionnels de personnes.<a id=208></a>
 
 ###### Article R433-7
 
@@ -36968,7 +36874,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=211></a>
+##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=209></a>
 
 ###### Article R433-8
 
@@ -37015,7 +36921,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre IV : Convois et véhicules à traction animale.<a id=212></a>
+#### Chapitre IV : Convois et véhicules à traction animale.<a id=210></a>
 
 ###### Article R434-1
 
@@ -37148,9 +37054,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre V : Autres véhicules<a id=213></a>
+#### Chapitre V : Autres véhicules<a id=211></a>
 
-##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=214></a>
+##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=212></a>
 
 ###### Article R435-1
 
@@ -37196,7 +37102,7 @@ _Cite_:
   - Code de la route L325-1 à L325-3
 
 
-##### Section 2 : Ensembles forains<a id=215></a>
+##### Section 2 : Ensembles forains<a id=213></a>
 
 ###### Article R436-1
 
@@ -37239,9 +37145,9 @@ _Cite_:
   - Code de la route L325-1 à L325-3
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=216></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=214></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=217></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=215></a>
 
 ###### Article R441-1
 
@@ -37371,7 +37277,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=218></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=216></a>
 
 ###### Article R442-1
 
