@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-04-13
+Version Consolidée au 2009-04-15
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -135,8 +135,8 @@ Version Consolidée au 2009-04-13
           - [Section 1 : Dispositions générales. (art. D321-5-1 à R321-5)](#132)
           - [Section 2 : Réception communautaire ou réception CE. (art. R321-6 à R321-14)](#133)
           - [Section 3 : Réception nationale par type ou à titre isolé et homologation. (art. R321-15 à R321-24)](#134)
-        - [Chapitre II : Immatriculation (art. R*322-12 à R322-18)](#135)
-          - [Section 1 : Délivrance du certificat d'immatriculation. (art. R*322-12 à R322-14)](#136)
+        - [Chapitre II : Immatriculation (art. R322-1 à R322-18)](#135)
+          - [Section 1 : Délivrance du certificat d'immatriculation. (art. R322-1 à R322-14)](#136)
           - [Section 2 : Opposition au transfert du certificat d'immatriculation. (art. R322-15 à R322-18)](#137)
         - [Chapitre III : Contrôle technique (art. R323-1 à R323-26)](#138)
           - [Section 1 : Dispositions générales. (art. R323-1 à R323-5)](#139)
@@ -6366,21 +6366,21 @@ _Cite_:
 
 ###### Article L322-1
 
-Lorsqu'une amende forfaitaire majorée a été émise, le comptable du Trésor peut faire opposition à la préfecture
-d'immatriculation à tout transfert du certificat d'immatriculation. Il en informe le procureur de la République. 
+Lorsqu'une amende forfaitaire majorée a été émise, le comptable du Trésor peut faire opposition auprès de l'autorité
+administrative compétente à tout transfert du certificat d'immatriculation. Il en informe le procureur de la République. 
 
 Cette opposition suspend la prescription de la peine. 
 
 Elle est levée par le paiement de l'amende forfaitaire majorée. En outre, lorsque l'intéressé a formé une réclamation, selon
 les modalités et dans les délais prévus par les articles 529-10 et 530 du code de procédure pénale à peine d'irrecevabilité
-et qu'il justifie avoir déclaré sa nouvelle adresse au service d'immatriculation des véhicules, le procureur de la République
+et qu'il justifie avoir déclaré sa nouvelle adresse à l'autorité administrative compétente, le procureur de la République
 lève l'opposition.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-644 du 1er juillet 2008 - art. 9
+  - Décret n°2009-136 du 9 février 2009 - art. 1
 
 _Cité par_:
 
@@ -6400,20 +6400,18 @@ _Anciens textes_:
 ###### Article L322-2
 
 Préalablement à la vente d'un véhicule d'occasion, le propriétaire est tenu de remettre à l'acquéreur un certificat établi
-depuis moins de deux mois par la préfecture du département d'immatriculation et attestant qu'il n'a pas été fait opposition
-au transfert du certificat d'immatriculation dudit véhicule en application des dispositions législatives en vigueur.
+depuis moins de quinze jours par l'autorité administrative compétente et attestant qu'il n'a pas été fait opposition au
+transfert du certificat d'immatriculation dudit véhicule en application des dispositions législatives en vigueur.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Décret n°2009-136 du 9 février 2009 - art. 2
 
 _Anciens textes_:
 
   - Code de la route - art. L28 (Ab)
-  - Code de la route L28
 
 _Cité par_:
 
@@ -7072,29 +7070,25 @@ _Anciens textes_:
 ###### Article L325-7
 
 Sont réputés abandonnés les véhicules laissés en fourrière à l'expiration d'un délai de trente jours à compter de la mise en
-demeure faite au propriétaire d'avoir à retirer son véhicule.
+demeure faite au propriétaire d'avoir à retirer son véhicule. 
 
-La notification est valablement faite à l'adresse indiquée au fichier national des immatriculations. Dans le cas où le
-véhicule fait l'objet d'un gage régulièrement inscrit, cette notification est également faite au créancier gagiste.
+La notification est valablement faite à l'adresse indiquée    par le traitement automatisé mis en œuvre pour
+l'immatriculation des véhicules. Dans le cas où le véhicule fait l'objet d'un gage régulièrement inscrit, cette notification
+est également faite au créancier gagiste. 
 
-Si le propriétaire ne peut être identifié, le délai précité court du jour où cette impossibilité a été constatée.
+Si le propriétaire ne peut être identifié, le délai précité court du jour où cette impossibilité a été constatée. 
 
 Le délai prévu au premier alinéa est réduit à dix jours en ce qui concerne les véhicules qu'un expert désigné par
 l'administration aura estimés d'une valeur marchande inférieure à un montant fixé par arrêté interministériel et déclarés
-hors d'état de circuler dans des conditions normales de sécurité.
+hors d'état de circuler dans des conditions normales de sécurité. 
 
 Les véhicules visés à l'alinéa précédent sont, à l'expiration du délai de dix jours, livrés à la destruction.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 21 () JORF 7 mars 2007
+  - Décret n°2009-136 du 9 février 2009 - art. 3
 
 _Anciens textes_:
 
@@ -14297,32 +14291,32 @@ _Anciens textes_:
 
 ###### Article R233-1
 
-I. - Tout conducteur d'un véhicule à moteur est tenu de présenter à toute réquisition des agents de l'autorité compétente,
-lorsque ces documents sont exigés par le présent code :
+I.-Tout conducteur d'un véhicule à moteur est tenu de présenter à toute réquisition des agents de l'autorité compétente,
+lorsque ces documents sont exigés par le présent code : 
 
-1° Tout titre justifiant de son autorisation de conduire ;
+1° Tout titre justifiant de son autorisation de conduire ; 
 
-2° La carte grise du véhicule et, le cas échéant, celle de la remorque si le poids total autorisé en charge (PTAC) de cette
-dernière excède 500 kilogrammes, ou de la semi-remorque s'il s'agit d'un véhicule articulé, ou les récépissés provisoires, ou
-les photocopies des cartes grises dans les cas et dans les conditions prévues par un arrêté du ministre de la justice et du
-ministre de l'intérieur ;
+2° Le certificat d'immatriculation du véhicule et, le cas échéant, celui de la remorque si le poids total autorisé en charge
+(PTAC) de cette dernière excède 500 kilogrammes, ou de la semi-remorque s'il s'agit d'un véhicule articulé, ou les récépissés
+provisoires, ou les photocopies des certificats d'immatriculation dans les cas et dans les conditions prévues par un arrêté
+du ministre de la justice et du ministre de l'intérieur ; 
 
 3° L'original ou la copie du certificat constatant l'achèvement d'une formation de conducteur de transport par route quand
 celui-ci est exigé en application de l'article R. 221-6.
 
-II. - En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
-vol tient lieu de titre pendant un délai de deux mois au plus.
+II.-En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
+vol tient lieu de titre pendant un délai de deux mois au plus. 
 
-III. - Le fait de ne pas présenter immédiatement aux agents de l'autorité compétente les autorisations et pièces
-administratives exigées par le présent article est puni de l'amende prévue pour les contraventions de la première classe.
+III.-Le fait de ne pas présenter immédiatement aux agents de l'autorité compétente les autorisations et pièces
+administratives exigées par le présent article est puni de l'amende prévue pour les contraventions de la première classe. 
 
-IV. - Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession de son brevet de sécurité
+IV.-Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession de son brevet de sécurité
 routière, de ne pas présenter ce document avant l'expiration de ce délai est puni de l'amende prévue pour les contraventions
 de la deuxième classe.
 
-V. - Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession des autorisations et
-pièces exigées par le présent article, de ne pas présenter ces documents avant l'expiration de ce délai est puni de l'amende
-prévue pour les contraventions de la quatrième classe.
+V.-Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession des autorisations et pièces
+exigées par le présent article, de ne pas présenter ces documents avant l'expiration de ce délai est puni de l'amende prévue
+pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
@@ -14339,13 +14333,9 @@ _Cité par_:
   - Code de la route. - art. R130-6 (VD)
   - Code pénal - art. R131-4-1 (V)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2003-536 du 20 juin 2003 - art. 4 () JORF 22 juin 2003
+  - Décret n°2009-136 du 9 février 2009 - art. 9
 
 _Anciens textes_:
 
@@ -14361,7 +14351,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R221-6 (V)
+  - Code de la route. - art. R221-6
 
 
 ###### Article R233-2
@@ -16089,8 +16079,8 @@ les tricycles destinés au transport de personnes et qui ne répond pas à la d�
 
 - véhicule articulé : ensemble composé d'un véhicule tracteur et d'une semi-remorque ;
 
-- véhicule de collection : véhicule, de plus de vingt-cinq ans d'âge, qui ne peut satisfaire aux prescriptions techniques
-exigées par le présent livre ;
+- véhicule de collection : véhicule, de plus de trente ans d'âge, qui ne peut satisfaire aux prescriptions techniques exigées
+par le présent livre ;
 
 - véhicule de transport en commun : autobus ou autocar ;
 
@@ -16313,13 +16303,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YZE (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quater (V)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2007-786 du 10 mai 2007 - art. 1 () JORF 11 mai 2007
+  - Décret n°2009-136 du 9 février 2009 - art. 8
 
 
 ###### Article R311-2
@@ -20260,45 +20246,49 @@ _Anciens textes_:
 
 ###### Article R317-8
 
-I. Tout véhicule à moteur, à l'exception des matériels de travaux publics et des véhicules et matériels agricoles ou
-forestiers attachés à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou à une coopérative
-d'utilisation de matériel agricole, doit être muni de deux plaques d'immatriculation, portant le numéro assigné au véhicule
-et fixées en évidence d'une manière inamovible à l'avant et à l'arrière du véhicule.
+I. Tout véhicule à moteur, à l'exception des matériels de travaux publics doit être muni de deux plaques d'immatriculation,
+portant le numéro assigné au véhicule et fixées en évidence d'une manière inamovible à l'avant et à l'arrière du véhicule. 
 
-Toutefois, toute motocyclette, tout tricycle ou quadricycle à moteur, tout cyclomoteur peut ne porter qu'une plaque
-d'immatriculation, fixée en évidence d'une manière inamovible à l'arrière du véhicule.
+Toutefois, toute motocyclette, tout tricycle ou quadricycle à moteur, tout cyclomoteur, tout véhicule agricole ou forestier à
+moteur attaché à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou à une coopérative
+d'utilisation de matériel agricole, peut ne porter qu'une plaque d'immatriculation, fixée en évidence d'une manière
+inamovible à l'arrière du véhicule. 
 
-II. Toute remorque agricole, non attachée à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou
-à une coopérative d'utilisation de matériel agricole dont le poids total autorisé en charge est supérieur à 1,5 tonne, toute
+II. Tout véhicule ou appareil agricole remorqué dont le poids total autorisé en charge est supérieur à 1, 5 tonne, toute
 autre remorque dont le poids total autorisé en charge est supérieur à 500 kilogrammes, toute autre semi-remorque doit être
 munie d'une plaque d'immatriculation portant son numéro d'immatriculation et fixée en évidence, d'une manière inamovible, à
-l'arrière du véhicule.
+l'arrière du véhicule. 
 
-La remorque arrière d'un ensemble, lorsqu'elle n'est pas soumise à cette obligation, doit être munie à l'arrière d'une plaque
-d'immatriculation reproduisant la plaque arrière du véhicule tracteur. La plaque de la remorque peut, dans ce cas, être
-amovible.
+Tout véhicule ou appareil agricole remorqué attaché à une exploitation agricole ou forestière, à une entreprise de travaux
+agricoles ou à une coopérative d'utilisation de matériel agricole, lorsqu'il n'est pas soumis à cette obligation, doit être
+muni à l'arrière de la plaque d'identité prévue à l'article R. 317-12. 
+
+Tout véhicule ou appareil agricole remorqué non attaché à une exploitation agricole ou forestière, à une entreprise de
+travaux agricoles ou à une coopérative d'utilisation de matériel agricole, toute autre remorque, toute autre semi-remorque,
+lorsqu'il n'est pas soumis à cette obligation, doit être muni à l'arrière d'une plaque d'immatriculation reproduisant la
+plaque arrière du véhicule tracteur. La plaque d'immatriculation peut, dans ce cas, être amovible. 
 
 Toutefois, toute remorque attelée à une motocyclette, à un cyclomoteur, à un quadricycle léger à moteur ou à un tricycle à
 moteur ne doit porter à l'arrière une plaque d'immatriculation reproduisant le numéro d'immatriculation du véhicule tracteur
 que si les dimensions de la remorque ou du chargement sont telles que la plaque d'immatriculation du véhicule tracteur n'est
-pas visible pour un observateur placé à l'arrière.
+pas visible pour un observateur placé à l'arrière. 
 
-III. Chaque plaque doit être maintenue dans un état d'entretien permettant la lecture des inscriptions qu'elle comporte.
+III. Chaque plaque doit être maintenue dans un état d'entretien permettant la lecture des inscriptions qu'elle comporte. 
 
 IV. Le ministre chargé des transports et le ministre de l'intérieur fixent par arrêté les caractéristiques et le mode de pose
 des plaques d'immatriculation.
 
 V. Le fait de faire circuler un véhicule à moteur ou une remorque sans qu'il soit muni des plaques ou inscriptions exigées
-par le présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+par le présent article est puni de l'amende prévue pour les contraventions de la quatrième classe. 
 
 VI. Le fait de contrevenir aux dispositions du présent article relatives à l'entretien, aux caractéristiques ou au mode de
-pose des plaques d'immatriculation est puni de l'amende prévue pour les contraventions de la troisième classe.
+pose des plaques d'immatriculation est puni de l'amende prévue pour les contraventions de la troisième classe. 
 
-VII. L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+VII.L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
-VIII. - Le fait d'exposer, d'offrir, de mettre en vente, de vendre, de proposer ou d'inciter à acheter ou à utiliser une
-plaque d'immatriculation non conforme aux caractéristiques visées au IV est puni de l'amende prévue pour les contraventions
-de la quatrième classe. La plaque est saisie et confisquée.
+VIII.-Le fait d'exposer, d'offrir, de mettre en vente, de vendre, de proposer ou d'inciter à acheter ou à utiliser une plaque
+d'immatriculation non conforme aux caractéristiques visées au IV est puni de l'amende prévue pour les contraventions de la
+quatrième classe. La plaque est saisie et confisquée.
 
 **Liens relatifs à cet article**
 
@@ -20312,13 +20302,9 @@ _Cité par_:
   - Code de la route. - art. R317-12 (VD)
   - Code de la route. - art. R342-3 (V)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2006-46 du 13 janvier 2006 - art. 3 () JORF 15 janvier 2006
+  - Décret n°2009-136 du 9 février 2009 - art. 4
 
 _Anciens textes_:
 
@@ -20331,11 +20317,10 @@ _Anciens textes_:
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R240 (Ab)
   - Code de la route - art. R99 (Ab)
-  - Code de la route R99, R100, R101, R102, R159, R183, R199-1, R239, R240 (al. 1)
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1
 
 
 ###### Article R317-9
@@ -20464,26 +20449,23 @@ _Anciens textes_:
 ###### Article R317-12
 
 Tout véhicule ou matériel agricole ou forestier, attaché à une exploitation agricole, à une entreprise de travaux agricoles,
-à une coopérative d'utilisation de matériel agricole ou à une exploitation forestière, doit être muni d'une plaque d'identité
-portant un numéro d'ordre et fixée en évidence à l'arrière du véhicule.
+à une coopérative d'utilisation de matériel agricole ou à une exploitation forestière, peut être muni, en complément d'une
+plaque d'immatriculation visée à l'article R. 317-8, d'une plaque d'identité portant un numéro d'ordre et fixée en évidence à
+l'arrière du véhicule. 
 
 Le ministre chargé des transports détermine, après avis du ministre chargé de l'agriculture, le modèle et le mode de pose de
 ces plaques dites plaques d'exploitation.
 
-Le fait de faire circuler un véhicule non muni de la plaque exigée par le présent article est puni de l'amende prévue pour
-les contraventions de la quatrième classe.
-
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-136 du 9 février 2009 - art. 4
 
 _Anciens textes_:
 
   - Code de la route - art. R158 (Ab)
   - Code de la route - art. R240 (Ab)
-  - Code de la route R158, R240 (al. 1)
 
 _Cité par_:
 
@@ -21891,25 +21873,26 @@ _Anciens textes_:
 Avant sa mise en circulation et en l'absence de réception CE, tout véhicule à moteur, toute remorque ou tout élément de
 véhicule dont le poids total autorisé en charge est supérieur à 500 kilogrammes, toute semi-remorque doit faire l'objet d'une
 réception nationale effectuée soit par type à la demande du constructeur, soit à titre isolé à la demande du propriétaire ou
-de son représentant.
+de son représentant. 
 
 Toutefois, en ce qui concerne les véhicules ou éléments de véhicules qui ne sont pas fabriqués ou assemblés sur le territoire
 d'un Etat membre de l'Union européenne, la réception par type n'est admise que si le constructeur possède en France un
 représentant spécialement accrédité auprès du ministre chargé des transports. Dans ce cas, elle a lieu sur demande dudit
-représentant.
+représentant. 
 
 Le ministre chargé des transports détermine par arrêté les éléments de véhicule soumis à réception ainsi que les conditions
 particulières auxquelles sont soumis les différents éléments de véhicule pour assurer la conformité des véhicules formés à
-partir d'éléments avec les dispositions du présent code.
+partir d'éléments avec les dispositions du présent code. 
 
 Le ministre chargé des transports fixe la liste des matériels de travaux publics, appelés à être employés normalement sur les
-routes, qui doivent faire l'objet d'une réception.
+routes, qui doivent faire l'objet d'une réception. 
 
 Les remorques ou appareils agricoles destinés à être attelés à un tracteur ou à une machine agricole automotrice, s'ils sont
 montés sur bandages pleins ou si, étant équipés de bandages pneumatiques, leur poids total autorisé en charge (PTAC) est
-inférieur à 1,5 tonne, ne sont pas soumis à l'obligation de réception.
+inférieur à 1, 5 tonne, ne sont pas soumis à l'obligation de réception. 
 
-Les dispositions du présent article ne sont pas applicables aux véhicules de collection.
+Les dispositions du présent article ne sont pas applicables   aux véhicules de collection et aux véhicules appartenant à des
+personnes de statut diplomatique ou assimilé.
 
 **Liens relatifs à cet article**
 
@@ -21938,9 +21921,9 @@ _Cité par_:
   - Code de la route. - art. R326-9 (M)
   - Code de la route. - art. R327-3 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-136 du 9 février 2009 - art. 5
 
 _Anciens textes_:
 
@@ -21950,10 +21933,6 @@ _Anciens textes_:
   - Code de la route - art. R184 (Ab)
   - Code de la route - art. R200 (Ab)
   - Code de la route R106 (al. 1, 2, 3, 4 et 7), R106-1, R163 (al. 1 à 4), R184, R200
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 
 ###### Article R321-16
@@ -22258,166 +22237,31 @@ _Anciens textes_:
 
 ##### Section 1 : Délivrance du certificat d'immatriculation.<a id=136></a>
 
-###### Article R*322-12
-
-Le préfet peut autoriser un sous-préfet d'arrondissement à délivrer un certificat d'immatriculation à une personne non
-domiciliée dans cet arrondissement, lorsque cette dérogation est de nature à améliorer sensiblement le service rendu à
-l'usager.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2009-136 du 9 février 2009 - art. 6
-
-_Anciens textes_:
-
-  - Code de la route R110-1 (al. 2)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
-
-_Cité par_:
-
-  - Code de la route. - art. R342-2 (V)
-
-
-###### Article R*322-12-1
-
-Le certificat d'immatriculation des cyclomoteurs à deux roues est délivré par le ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1186 du 11 décembre 2003 (V)
-
-_Abrogé par_:
-
-  - Décret n°2009-136 du 9 février 2009 - art. 6
-
-
-###### Article R*322-12-2
-
-I. - Les dispositions de la présente section sont applicables aux cyclomoteurs à deux roues sous réserve des dérogations
-suivantes :
-
-1° A l'exception des certificats d'immatriculation spéciaux visés au I de l'article R. 322-3, toute demande d'immatriculation
-est adressée au ministre de l'intérieur ;
-
-2° La demande d'immatriculation d'un véhicule en vue de sa première mise en circulation est présentée par le vendeur
-professionnel de celui-ci dans un délai de dix jours à compter de la date de la vente ; cette demande peut être adressée par
-voie électronique ;
-
-3° Les autres demandes d'immatriculation sont présentées par le propriétaire du véhicule ou, si celui-ci souhaite adresser sa
-demande par voie électronique, par un vendeur professionnel ;
-
-4° Les vendeurs professionnels visés aux 2° et 3° ne peuvent adresser une demande d'immatriculation par voie électronique
-qu'après avoir passé une convention à cette fin avec l'Etat ;
-
-5° Le récépissé d'une demande d'immatriculation adressée par voie électronique permet de circuler, dans l'attente de la
-délivrance du titre demandé, pendant un délai d'un mois.
-
-Un arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports précise les conditions d'application du
-présent I, et notamment le contenu des conventions relatives à la transmission par voie électronique des demandes
-d'immatriculation et les modalités de contrôle des vendeurs professionnels conventionnés.
-
-II. - Le fait de ne pas respecter les dispositions du 2° du I du présent article est puni de l'amende prévue pour les
-contraventions de la 4e classe.
-
-III. - Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2
-du code pénal, de l'infraction définie au II du présent article. La peine encourue par les personnes morales est l'amende
-suivant les modalités prévues par l'article 131-41 du code pénal..
-
-**Nota:**
-
-Décret 2003-1186 2003-12-11 art. 15 I (alinéa 1er) et II : 
-
-Les dispositions des articles 1er à 5 du présent décret sont applicables à compter du 1er juillet 2004 aux cyclomoteurs mis
-pour la première fois en circulation postérieurement à cette date. 
-
-Les dispositions des articles 1er à 5 du présent décret sont applicables aux cyclomoteurs mis pour la première fois en
-circulation avant le 1er juillet 2004 à compter des dates qui seront fixées par arrêté conjoint du ministre de l'intérieur et
-du ministre chargé des transports et ne pourront être postérieures au 30 juin 2009. 
-
-Toutefois, à l'initiative de leurs propriétaires, les cyclomoteurs visés à l'alinéa précédent pourront faire l'objet dès le
-1er juillet 2004 d'une demande d'immatriculation dans les conditions prévues par ces dispositions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
-
-_Créé par_:
-
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 3 () JORF 13 décembre 2003
-
-_Abrogé par_:
-
-  - Décret n°2009-136 du 9 février 2009 - art. 6
-
-_Cite_:
-
-  - Code pénal - art. 121-2
-  - Code pénal - art. 131-41
-  - Code de la route. - art. R322-3
-
-
 ###### Article R322-1
 
-Tout propriétaire d'un véhicule à moteur, d'une remorque dont le poids total autorisé en charge est supérieur à 500
-kilogrammes ou d'une semi-remorque, qui souhaite le mettre en circulation pour la première fois, doit adresser au préfet du
-département de son domicile une demande de certificat d'immatriculation en justifiant de son identité et de son domicile.
+I. - Tout propriétaire d'un véhicule à moteur, d'une remorque dont le poids total autorisé en charge est supérieur à 500
+kilogrammes ou d'une semi-remorque et qui souhaite le mettre en circulation pour la première fois doit faire une demande de
+certificat d'immatriculation en justifiant de son identité et de son domicile. Cette demande de certificat d'immatriculation
+est adressée au ministre de l'intérieur soit par l'intermédiaire du préfet d'un département choisi par le propriétaire du
+véhicule, soit par l'intermédiaire d'un professionnel de l'automobile habilité par le ministre de l'intérieur. 
 
-Toutefois, lorsque le propriétaire est une personne morale ou une entreprise individuelle, la demande de certificat
-d'immatriculation doit être adressée au préfet du département de l'établissement inscrit au registre du commerce et des
-sociétés ou au répertoire des métiers, auquel le véhicule doit être affecté à titre principal pour les besoins de cet
-établissement. Le propriétaire doit justifier de son identité et de l'adresse de l'établissement d'affectation du véhicule.
+II. - Lorsque le propriétaire est une personne morale ou une entreprise individuelle, celui-ci justifie de son identité et de
+l'adresse de son siège social ou de celle de l'établissement d'affectation du véhicule. 
 
-Pour un véhicule de location, la demande de certificat d'immatriculation doit être adressée au préfet du département de
-l'établissement où le véhicule est mis à la disposition du locataire, au titre de son premier contrat de location. Le
-propriétaire doit justifier de son identité et de l'adresse de l'établissement de mise à disposition.
+III. - Pour un véhicule de location, le propriétaire justifie de son identité et de l'adresse de son siège social ou de celle
+de l'établissement de mise à disposition du véhicule. 
 
-Pour un véhicule faisant l'objet soit d'un contrat de crédit-bail, soit d'un contrat de location de deux ans ou plus, la
-demande de certificat d'immatriculation doit être adressée au préfet du département du domicile du locataire. Toutefois,
-lorsque ce véhicule doit être affecté à titre principal à un établissement du locataire pour les besoins de cet
-établissement, la demande doit être adressée au préfet du département de cet établissement. Le propriétaire doit justifier de
-son identité et déclarer, selon le cas, l'adresse du domicile du locataire ou celle de l'établissement d'affectation.
+IV. - Pour un véhicule faisant l'objet soit d'un contrat de crédit-bail, soit d'un contrat de location de deux ans ou plus,
+le propriétaire justifie de son identité et de l'adresse du domicile du locataire. 
 
-Les dispositions du présent article ne sont pas applicables aux machines agricoles automotrices et aux véhicules ou appareils
-agricoles remorqués, appartenant à une exploitation agricole, à une entreprise de travaux agricoles ou à une coopérative
-d'utilisation de matériel agricole, ainsi qu'aux véhicules ou appareils agricoles remorqués dont le poids total en charge est
-inférieur à 1,5 tonne.
+V. - Les dispositions du présent article ne sont pas applicables aux véhicules ou appareils agricoles remorqués dont le poids
+total en charge est inférieur à 1, 5 tonne. 
 
-Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions d'application du
-présent article.
+VI. - Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions
+d'application du présent article.
 
-Le fait, pour tout propriétaire, de mettre en circulation un véhicule sans avoir obtenu un certificat d'immatriculation est
-puni de l'amende prévue pour les contraventions de la quatrième classe.
-
-**Nota:**
-
-Décret 2003-1186 2003-12-11 art. 15 I (alinéa 1er) et II : 
-
-Les dispositions des articles 1er à 5 du présent décret sont applicables à compter du 1er juillet 2004 aux cyclomoteurs mis
-pour la première fois en circulation postérieurement à cette date. 
-
-Les dispositions des articles 1er à 5 du présent décret sont applicables aux cyclomoteurs mis pour la première fois en
-circulation avant le 1er juillet 2004 à compter des dates qui seront fixées par arrêté conjoint du ministre de l'intérieur et
-du ministre chargé des transports et ne pourront être postérieures au 30 juin 2009. 
-
-Toutefois, à l'initiative de leurs propriétaires, les cyclomoteurs visés à l'alinéa précédent pourront faire l'objet dès le
-1er juillet 2004 d'une demande d'immatriculation dans les conditions prévues par ces dispositions.
+VII. - Le fait, pour tout propriétaire, de mettre en circulation un véhicule sans avoir obtenu un certificat
+d'immatriculation est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
@@ -22433,13 +22277,9 @@ _Anciens textes_:
   - Code de la route - art. R241 (Ab)
   - Code de la route R110, R114-1, R159, R165, R185, R200-2, R241 (al. 1 et 4)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2004-1408 du 23 décembre 2004 - art. 1 () JORF 28 décembre 2004
+  - Décret n°2009-136 du 9 février 2009 - art. 6
 
 _Cité par_:
 
@@ -22458,26 +22298,45 @@ _Cité par_:
 
 ###### Article R322-2
 
-Un certificat d'immatriculation, dit "carte grise", établi dans les conditions fixées par le ministre chargé des transports,
-après avis du ministre de l'intérieur, est remis au propriétaire ; ce certificat indique le numéro d'immatriculation assigné
-au véhicule. Le certificat d'immatriculation peut comporter un coupon détachable.
+I. - Le certificat d'immatriculation est établi dans les conditions fixées par le ministre chargé des transports, après avis
+du ministre de l'intérieur, et expédié à l'adresse du demandeur. Ce certificat comporte un numéro d'immatriculation attribué
+à titre définitif au véhicule par un système informatique centralisé. Le certificat d'immatriculation peut comporter un
+coupon détachable. 
 
-Dans le cas de véhicules de transport exceptionnel dont les dimensions ou le poids excèdent les limites réglementaires, la
-carte grise doit porter un signe distinctif ou une mention spéciale pour indiquer que le véhicule a fait l'objet d'une
-réception spéciale par la direction régionale de l'industrie, de la recherche et de l'environnement et qu'il ne peut circuler
-que sous couvert d'une autorisation du préfet. Toutefois, pour les véhicules dont seul le poids total autorisé en charge ou
-le poids total roulant autorisé excède les limites réglementaires, la carte grise peut porter une mention spéciale
-complémentaire permettant, sans autorisation du préfet, la circulation du véhicule, dans les limites de poids fixées au
-présent livre.
+II. - Dans le cas de véhicules de transport exceptionnel dont les dimensions ou le poids excèdent les limites réglementaires,
+le certificat d'immatriculation doit porter un signe distinctif ou une mention spéciale pour indiquer que le véhicule a fait
+l'objet d'une réception spéciale par la direction régionale de l'industrie, de la recherche et de l'environnement et qu'il ne
+peut circuler que sous couvert d'une autorisation du préfet. Toutefois, pour les véhicules dont seul le poids total autorisé
+en charge ou le poids total roulant autorisé excède les limites réglementaires, le certificat d'immatriculation peut porter
+une mention spéciale complémentaire permettant, sans autorisation du préfet, la circulation du véhicule, dans les limites de
+poids fixées au présent livre.
 
-Le signe distinctif, la mention spéciale et la mention spéciale complémentaire prévus ci-dessus sont fixés par arrêté du
-ministre de l'intérieur et du ministre chargé des transports.
+III. - Le signe distinctif, la mention spéciale et la mention spéciale complémentaire prévus ci-dessus sont fixés par arrêté
+du ministre de l'intérieur et du ministre chargé des transports.
 
-Dans le cas des véhicules de collection, la carte grise doit porter la mention "véhicule de collection".
+IV. - Des mentions relatives à des usages ou à des caractéristiques techniques particulières du véhicule peuvent être
+indiquées sur le certificat d'immatriculation dans des conditions fixées par arrêté du ministre chargé des transports après
+avis du ministre de l'intérieur. 
 
-Dans le cas des tracteurs agricoles appartenant à une exploitation agricole, à une entreprise de travaux agricoles ou à une
-coopérative d'utilisation de matériel agricole, la mention du nom du propriétaire et du numéro d'immatriculation est
-complétée par celle du numéro d'exploitation.
+V. - Dans le cas de véhicules appartenant à des personnes de statut diplomatique ou assimilé, le numéro d'immatriculation est
+complété par un numéro d'immatriculation spécifique lié à ce statut.
+
+VI. - Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions
+d'application du présent article.
+
+**Nota:**
+
+Arrêté du 23 mars 2009 art. 1 (modifié par arrêté du 8 juin 2009) : 
+
+I. - Les dispositions du décret du 9 février 2009 susvisé (portant diverses dispositions relatives aux plaques et
+inscriptions, à la réception et à l'homologation et à l'immatriculation des véhicules), et de l'arrêté du 9 février 2009
+susvisé relatif aux modalités d'immatriculation des véhicules entrent en vigueur le 15 avril 2009.
+
+II. - Toutefois, pour les véhicules déjà immatriculés dont le certificat d'immatriculation ne comporte pas le numéro
+définitif prévu à l'article R. 322-2 du code de la route, les dispositions de la section 1 du chapitre II du titre II du
+livre III du code de la route dans leur rédaction antérieure à leur modification par le décret susvisé et les dispositions de
+l'arrêté du 5 novembre 1984 modifié relatif à l'immatriculation des véhicules continuent à s'appliquer jusqu'au 14 octobre
+2009.
 
 **Liens relatifs à cet article**
 
@@ -22503,20 +22362,14 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D2223-113 (V)
   - Code général des collectivités territoriales - art. D2223-119 (V)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°2002-505 du 8 avril 2002
   - TXT_SOURCE: Décret n°2002-505 du 8 avril 2002 - art. 2 (V)
-  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
 
 _Modifié par_:
 
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 7 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2009-136 du 9 février 2009 - art. 6
 
 _Anciens textes_:
 
@@ -22526,52 +22379,29 @@ _Anciens textes_:
   - Code de la route - art. R166 (Ab)
   - Code de la route - art. R185 (Ab)
   - Code de la route - art. R200-2 (Ab)
-  - Code de la route R111, R159, R165, R166, R185, R200-2
-
-_Cite_:
-
-  - Code de la route. - art. R433-1 (M)
-  - Code de la route. - art. R433-3 (M)
-  - Code de la route. - art. R433-7 (V)
 
 
 ###### Article R322-3
 
-I. - La circulation à titre provisoire d'un véhicule, que celui-ci ait fait ou non l'objet de la délivrance d'une "carte
-grise", est autorisée sous couvert d'un certificat d'immatriculation spécial W ou WW ou d'un certificat de transit ou d'un
-document équivalent délivré par les autorités compétentes d'un Etat membre de la Communauté européenne.
+I.-Par dérogation aux dispositions des articles R. 322-1 et R. 322-2, la circulation d'un véhicule est autorisée sous couvert
+d'un certificat provisoire d'immatriculation, d'un coupon détachable dûment rempli, d'un certificat W garage ou d'un
+certificat de transit ou d'un document équivalent délivré par les autorités compétentes d'un Etat membre de la Communauté
+européenne. 
 
-Lorsque le véhicule a fait l'objet de la délivrance d'une carte grise comportant un coupon détachable, sa circulation à titre
-provisoire est autorisée sous couvert de ce coupon dûment rempli.
+II.-Les conditions d'attribution et de durée d'utilisation de ces titres provisoires de circulation sont définies par arrêté
+du ministre chargé des transports pris après avis du ministre de l'intérieur. 
 
-II. - Les bénéficiaires et la durée de validité du coupon détachable de la carte grise et des certificats d'immatriculation
-spéciaux W ou WW ainsi que les conditions de leur attribution et de leur utilisation sont définis par arrêté du ministre
-chargé des transports pris après avis du ministre de l'intérieur.
-
-III. - Est puni de l'amende prévue pour les contraventions de la 4e classe :
-
-1° Le fait pour toute personne d'utiliser un coupon détachable de carte grise, un certificat d'immatriculation spécial W ou
-WW ou pour tout professionnel de l'automobile de délivrer un certificat d'immatriculation spécial WW sans respecter les
-dispositions du présent article ou celles prises pour son application ;
-
-2° Le fait pour toute personne d'utiliser un certificat de transit ou un document équivalent délivré par les autorités
-compétentes d'un Etat membre de la Communauté européenne sans respecter les conditions de sa validité.
+III.-Le fait pour toute personne d'utiliser l'un de ces titres provisoires de circulation sans respecter les dispositions du
+présent article ou celles prises pour son application est puni de l'amende prévue pour les contraventions de la quatrième
+classe.
 
 L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
-
 _Modifié par_:
 
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 8 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2009-136 du 9 février 2009 - art. 6
 
 _Cité par_:
 
@@ -22595,58 +22425,50 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R322-1
 
 
 ###### Article R322-4
 
-En cas de changement de propriétaire d'un véhicule soumis à immatriculation et déjà immatriculé, l'ancien propriétaire doit
-adresser, dans les quinze jours suivant la mutation, au préfet du département du lieu d'immatriculation une déclaration
-l'informant de cette mutation et indiquant l'identité et le domicile déclarés par le nouveau propriétaire. Avant de remettre
-la carte grise à ce dernier, l'ancien propriétaire doit y porter d'une manière très lisible et inaltérable la mention :
-"vendu le ../../...." ou "cédé le ../../...." (date de la mutation), suivie de sa signature, et soit découper la partie
-supérieure droite de ce document lorsqu'il comporte l'indication du coin à découper, soit remplir, s'il existe, le coupon
-détachable.
+I. - En cas de changement de propriétaire d'un véhicule soumis à immatriculation et déjà immatriculé, l'ancien propriétaire
+doit effectuer, dans les quinze jours suivant la cession, une déclaration informant de cette cession et indiquant l'identité
+et le domicile déclarés par le nouveau propriétaire. Avant de remettre le certificat d'immatriculation à ce dernier, l'ancien
+propriétaire doit y porter d'une manière très lisible et inaltérable la mention : " vendu le... /... /... " ou " cédé
+le... /.. /.... " (date de la cession), suivie de sa signature, et remplir le coupon détachable ou, à défaut, découper la
+partie supérieure droite de ce document lorsqu'il comporte l'indication du coin à découper.
 
-En cas de vente à un professionnel n'agissant qu'en tant qu'intermédiaire, le coupon détachable ne doit pas être rempli et la
-carte grise doit être remise par celui-ci, dans les quinze jours suivant la transaction, au préfet du département de son
-domicile, accompagnée d'une déclaration d'achat d'un véhicule d'occasion. Cette déclaration d'achat est retournée après visa
-au professionnel en même temps que la carte grise du véhicule.
+II. - L'ancien propriétaire effectue cette déclaration au ministre de l'intérieur soit par l'intermédiaire du préfet d'un
+département de son choix, soit par voie électronique. 
 
-Lors de la revente du véhicule, le dernier négociant propriétaire du véhicule doit remettre à l'acquéreur le certificat
-d'immatriculation sur lequel il aura porté la mention Revendu le .... à M ...., accompagné de la déclaration d'achat en sa
+III. - En cas de vente à un professionnel n'agissant qu'en tant qu'intermédiaire, le coupon détachable ne doit pas être
+rempli et le certificat d'immatriculation doit être remis par ce dernier, dans les quinze jours suivant la transaction, au
+préfet du département de son choix, accompagné de la déclaration d'achat du véhicule d'occasion. Cette déclaration d'achat,
+après visa du préfet, est retournée à ce professionnel en même temps que le certificat d'immatriculation du véhicule. Si le
+professionnel est habilité par le ministre de l'intérieur, il peut adresser directement la déclaration de cession ou la
+déclaration d'achat du véhicule par voie électronique. 
+
+IV. - Lors de la revente du véhicule, le dernier négociant propriétaire du véhicule doit remettre à l'acquéreur le certificat
+d'immatriculation sur lequel il aura porté la mention Revendu le ... à M. ..., accompagné de la déclaration d'achat en sa
 possession et remplir, s'il existe, le coupon détachable de ce certificat d'immatriculation.
 
-Dans chacun des cas définis aux alinéas précédents, la remise de la carte grise doit être accompagnée du certificat de non-
-opposition au transfert du certificat d'immatriculation et de l'attestation d'inscription ou de non-inscription de gage
-établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer
-la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de
-l'intérieur.
+V. - Dans chacun des cas définis aux alinéas précédents, la remise du certificat d'immatriculation doit être accompagnée d'un
+certificat, établi depuis moins de quinze jours par le ministre de l'intérieur, attestant à sa date d'édition de
+l'inscription ou de la non-inscription de gage et qu'il n'est pas fait opposition au transfert du certificat
+d'immatriculation du véhicule.
 
-Le ministre chargé des transports définit par arrêté pris après avis du ministre de l'intérieur les conditions d'application
-du présent article, notamment en ce qui concerne les véhicules tombés dans une succession, vendus aux enchères publiques ou à
-la suite d'une décision judiciaire, et les véhicules de location.
+VI. - Le ministre chargé des transports définit par arrêté pris après avis du ministre de l'intérieur les conditions
+d'application du présent article, notamment en ce qui concerne les véhicules tombés dans une succession, vendus aux enchères
+publiques ou à la suite d'une décision judiciaire, et les véhicules de location.
 
-Le fait de ne pas effectuer les déclarations ou de ne pas respecter les délais prévus au présent article est puni de l'amende
-prévue pour les contraventions de la quatrième classe.
-
-**Nota:**
-
-Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
+VII. - Le fait de ne pas effectuer les déclarations ou de ne pas respecter les délais prévus au présent article est puni de
+l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
-
 _Modifié par_:
 
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 9 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2009-136 du 9 février 2009 - art. 6
 
 _Cité par_:
 
@@ -22663,63 +22485,38 @@ _Anciens textes_:
   - Code de la route - art. R185 (Ab)
   - Code de la route - art. R200-2 (Ab)
   - Code de la route - art. R241 (Ab)
-  - Code de la route R112, R159, R165, R185, R200-2, R241 (al. 1 et 4)
 
 
 ###### Article R322-5
 
-I. - Le nouveau propriétaire d'un véhicule déjà immatriculé doit, s'il veut le maintenir en circulation, faire établir, dans
-un délai d'un mois à compter de la date de la mutation portée sur la carte grise, un certificat d'immatriculation à son nom.
-A cet effet, il doit adresser au préfet compétent en application des dispositions de l'article R. 322-1 une demande de
-certificat d'immatriculation d'un véhicule accompagnée :
+I.-Le nouveau propriétaire d'un véhicule déjà immatriculé doit, s'il veut le maintenir en circulation, faire établir, dans un
+délai d'un mois à compter de la date de la cession, un certificat d'immatriculation à son nom dans les conditions prévues à
+l'article R. 322-1. Cette demande doit être accompagnée : 
 
-1° De la carte grise qui lui a été remise par l'ancien propriétaire ;
+1° Du certificat d'immatriculation qui lui a été remis par l'ancien propriétaire ; 
 
-2° D'une attestation de celui-ci certifiant la mutation et indiquant que le véhicule n'a pas subi, depuis la dernière
-immatriculation, de transformation susceptible de modifier les indications de la précédente carte grise ;
+2° De la déclaration certifiant la cession et indiquant que le véhicule n'a pas subi, de transformation susceptible de
+modifier les indications du précédent certificat d'immatriculation ; 
 
 3° De la preuve, pour tout véhicule soumis à visite technique, que celui-ci répond aux conditions requises pour être maintenu
-en circulation conformément aux dispositions du chapitre III du présent titre ;
+en circulation conformément aux dispositions du chapitre III du présent titre ; 
 
-4° D'une déclaration d'achat en cas de vente du véhicule par un professionnel.
+4° D'une déclaration d'achat en cas de vente du véhicule par un professionnel. 
 
-II. - La carte grise portant la mention de la mutation ou de la revente par un professionnel n'est valable pour la
-circulation du véhicule que pendant une durée d'un mois à compter de ladite mutation ou de ladite revente.
+II.-Le nouveau propriétaire peut circuler à titre provisoire et pendant une période d'un mois à compter de la date de la
+cession sous couvert soit du coupon détachable, soit d'un certificat provisoire d'immatriculation. 
 
-III. - Le ministre chargé des transports définit par arrêté pris après avis du ministre de l'intérieur les conditions
+III.-Le ministre chargé des transports définit par arrêté pris après avis du ministre de l'intérieur les conditions
 d'application du présent article, notamment en ce qui concerne les véhicules vendus par les domaines, aux enchères publiques
-ou à la suite d'une décision judiciaire, les véhicules de collection et ceux démunis de carte grise.
+ou à la suite d'une décision judiciaire, les véhicules de collection et ceux démunis de certificat d'immatriculation. 
 
-IV. - Le fait, pour tout propriétaire, de maintenir en circulation un véhicule sans avoir obtenu un certificat
+IV.-Le fait, pour tout propriétaire, de maintenir en circulation un véhicule sans avoir obtenu un certificat
 d'immatriculation dans les conditions fixées au présent article est puni de l'amende prévue pour les contraventions de la
 quatrième classe.
 
 L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1984-11-05 art. 10 paragraphe 5
-  - Arrêté du 5 novembre 1984 - art. 10 (M)
-  - Code de la route - art. R113 (Ab)
-  - Code de la route - art. R113-2 (Ab)
-  - Code de la route - art. R114-1 (Ab)
-  - Code de la route - art. R159 (Ab)
-  - Code de la route - art. R165 (Ab)
-  - Code de la route - art. R185 (Ab)
-  - Code de la route - art. R200-2 (Ab)
-  - Code de la route - art. R241 (Ab)
-  - Code de la route R113, R113-2, R114-1, R159, R165, R185, R200-2, R241 (al. 1 et 2)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 13 () JORF 13 décembre 2003
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 14 () JORF 13 décembre 2003
 
 _Cité par_:
 
@@ -22731,45 +22528,57 @@ _Cité par_:
   - Arrêté du 5 novembre 1984 - art. 21 (VD)
   - Code de la route. - art. R350-3 (V)
 
+_Modifié par_:
+
+  - Décret n°2009-136 du 9 février 2009 - art. 6
+
+_Anciens textes_:
+
+  - Arrêté du 5 novembre 1984 - art. 10 (M)
+  - Code de la route - art. R113 (Ab)
+  - Code de la route - art. R113-2 (Ab)
+  - Code de la route - art. R114-1 (Ab)
+  - Code de la route - art. R159 (Ab)
+  - Code de la route - art. R165 (Ab)
+  - Code de la route - art. R185 (Ab)
+  - Code de la route - art. R200-2 (Ab)
+  - Code de la route - art. R241 (Ab)
+
 _Cite_:
 
-  - Code de la route R322-1, L325-1 à L325-3
-  - Code de la route. - art. R322-1 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-1186 2003-12-13 art. 17 : (application à Mayotte)
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R322-1
 
 
 ###### Article R322-6
 
-Si le nouveau propriétaire d'un véhicule déjà immatriculé ne désire pas maintenir celui-ci en circulation, il doit renvoyer
-au préfet du département du lieu d'immatriculation du véhicule la carte grise accompagnée d'une déclaration l'informant de ce
-retrait de la circulation. Cette déclaration doit être adressée dans un délai d'un mois à compter de la date de la mutation
-portée sur la carte grise.
+I. - Si le propriétaire d'un véhicule déjà immatriculé ne désire pas le maintenir en circulation, il doit adresser au préfet
+du département de son choix le certificat d'immatriculation accompagné d'une déclaration l'informant de son retrait de la
+circulation. 
 
-Il sera alors procédé à l'annulation de la carte grise du véhicule.
+Si cette déclaration fait suite à une cession du véhicule, elle doit être adressée par le nouvel acquéreur au préfet du
+département de son choix dans un délai d'un mois à compter de la date de la cession portée sur le certificat
+d'immatriculation du véhicule. 
 
-Le ministre chargé des transports détermine, par arrêté pris après avis du ministre de l'intérieur, les conditions
+Le propriétaire n'est plus autorisé à circuler avec ce véhicule sur les voies ouvertes à la circulation publique et la
+validité du certificat d'immatriculation du véhicule est alors suspendue par le ministre de l'intérieur. 
+
+II. - Lorsque le propriétaire du véhicule souhaite le remettre en circulation, il en fait la déclaration au préfet du
+département de son choix, la suspension de l'autorisation de circuler est alors levée et un nouveau certificat
+d'immatriculation est délivré au propriétaire du véhicule. Dans l'attente de ce nouveau certificat d'immatriculation, le
+propriétaire peut circuler pendant un mois sous couvert d'un certificat provisoire d'immatriculation. 
+
+III. - Le ministre chargé des transports détermine, par arrêté pris après avis du ministre de l'intérieur, les conditions
 d'application du présent article.
 
-Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas observer les délais prévus au présent
+IV. - Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas observer les délais prévus au présent
 article est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
-
 _Modifié par_:
 
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 13 () JORF 13 décembre 2003
+  - Décret n°2009-136 du 9 février 2009 - art. 6
 
 _Cité par_:
 
@@ -22786,38 +22595,43 @@ _Anciens textes_:
   - Code de la route - art. R185 (Ab)
   - Code de la route - art. R200-2 (Ab)
   - Code de la route - art. R241 (Ab)
-  - Code de la route R113-1, R159, R165, R185, R200-2, R241 (al. 1 et 4)
 
 
 ###### Article R322-7
 
-En cas de changement de domicile ou d'établissement d'affectation et dans le mois qui suit, tout propriétaire d'un véhicule
-soumis à immatriculation doit adresser au préfet du département de son nouveau domicile ou du nouvel établissement
-d'affectation, une demande d'un nouveau certificat d'immatriculation établie conformément aux règles fixées par le ministre
-chargé des transports, accompagnée de la carte grise du véhicule dont il conserve, s'il existe, le coupon détachable dûment
-rempli.
+I. - Tout propriétaire d'un véhicule soumis à immatriculation doit adresser, dans le mois qui suit le changement de domicile,
+de siège social ou d'établissement d'affectation ou de mise à disposition du véhicule, une déclaration au préfet du
+département de son choix l'informant de ce changement. 
 
-Lorsqu'il s'agit d'un véhicule faisant l'objet soit d'un crédit-bail, soit d'un contrat de location de deux ans ou plus, la
-déclaration doit être adressée au préfet du département du nouveau domicile du locataire. Toutefois, pour tout véhicule
-affecté à titre principal à un établissement du locataire pour les besoins de cet établissement, la déclaration doit être
-adressée au préfet du département du nouvel établissement d'affectation.
+II. - Lorsqu'il s'agit d'un véhicule faisant l'objet soit d'un crédit-bail, soit d'un contrat de location de deux ans ou
+plus, la déclaration doit être adressée par le locataire au préfet du département de son choix.
 
-Pour l'accomplissement des formalités prévues au présent article, le propriétaire doit justifier de son identité et, selon le
-cas, de son domicile ou de l'adresse de l'établissement d'affectation ou de mise à disposition, ou de celle du locataire,
-dans les conditions fixées par le ministre chargé des transports après avis du ministre de l'intérieur.
+III. - Le propriétaire peut également adresser directement sa déclaration de changement de domicile au ministre de
+l'intérieur par voie électronique. 
 
-Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas respecter le délai prévu au présent article
-est puni de l'amende prévue pour les contraventions de la quatrième classe.
+IV. - Pour l'accomplissement des formalités prévues au présent article, le propriétaire doit justifier de son identité et, de
+son domicile, de l'adresse de son siège social ou de l'établissement d'affectation ou de mise à disposition du véhicule ou de
+celle du locataire.
+
+V. - Lorsque le ministre de l'intérieur est informé de la réimmatriculation du véhicule dans un pays de la Communauté
+européenne ou de l'Espace économique européen, la validité du certificat d'immatriculation est suspendue en France. 
+
+VI. - Lorsque ce véhicule est remis en circulation en France, son propriétaire en fait la déclaration au préfet du
+département de son choix. La suspension de l'autorisation de circuler du véhicule est levée par le ministre de l'intérieur et
+un nouveau certificat d'immatriculation est délivré au propriétaire du véhicule. Dans l'attente de ce nouveau certificat
+d'immatriculation, le propriétaire peut circuler pendant un mois sous couvert d'un certificat provisoire d'immatriculation. 
+
+VII. - Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions
+d'application du présent article.
+
+VIII. - Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas respecter le délai prévu au présent
+article est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2004-1408 du 23 décembre 2004 - art. 1 () JORF 28 décembre 2004
+  - Décret n°2009-136 du 9 février 2009 - art. 6
 
 _Cité par_:
 
@@ -22832,21 +22646,20 @@ _Anciens textes_:
   - Code de la route - art. R185 (Ab)
   - Code de la route - art. R200-2 (Ab)
   - Code de la route - art. R241 (Ab)
-  - Code de la route R114, R114-1, R159, R165, R185, R200-2, R241 (al. 1 et 4)
 
 
 ###### Article R322-8
 
-Toute transformation apportée à un véhicule soumis à immatriculation et déjà immatriculé, qu'il s'agisse d'une transformation
-notable ou de toute autre transformation susceptible de modifier les caractéristiques indiquées sur la carte grise, doit
-donner lieu de la part de son propriétaire à une déclaration adressée au préfet du département du lieu d'immatriculation
-accompagnée de la carte grise du véhicule aux fins de modification de cette dernière. Le propriétaire conserve, s'il existe,
-le coupon détachable dûment rempli.
+I. - Toute transformation apportée à un véhicule soumis à immatriculation et déjà immatriculé, qu'il s'agisse d'une
+transformation notable ou de toute autre transformation susceptible de modifier les caractéristiques indiquées sur le
+certificat d'immatriculation, nécessite la modification de celui-ci. A cet effet, le propriétaire doit adresser au préfet du
+département de son choix une déclaration accompagnée du certificat d'immatriculation du véhicule dans le mois qui suit la
+transformation du véhicule. Le propriétaire conserve, s'il existe, le coupon détachable dûment rempli.
 
-Cette déclaration est établie conformément à des règles fixées par le ministre chargé des transports et doit être effectuée
-dans le mois qui suit la transformation du véhicule.
+II. - Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions
+d'application du présent article. 
 
-Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas observer le délai, prévus au présent
+III. - Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas observer le délai, prévus au présent
 article, est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
@@ -22858,19 +22671,9 @@ _Cité par_:
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
   - Code de la route. - art. R350-3 (V)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
-
 _Modifié par_:
 
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 11 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 13 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2009-136 du 9 février 2009 - art. 6
 
 _Anciens textes_:
 
@@ -22880,41 +22683,54 @@ _Anciens textes_:
   - Code de la route - art. R185 (Ab)
   - Code de la route - art. R200-2 (Ab)
   - Code de la route - art. R241 (Ab)
-  - Code de la route R115, R159, R165, R185, R200-2, R241 (al. 1 et 4)
 
 
 ###### Article R322-9
 
-En cas de vente ou de cession à titre gratuit d'un véhicule pour destruction, à l'exception des cas visés à l'article L.
-327-2, le propriétaire remet la carte grise à un démolisseur, ou broyeur, agréé après y avoir apposé d'une manière très
-lisible et inaltérable, la mention " vendu le.. /.. /.... (date de la mutation) pour destruction " ou " cédé le.. /.. /....
-(date de la mutation) pour destruction ", suivie de sa signature, et avoir découpé la partie supérieure droite de ce
-document. Lorsque ce document comporte un coupon détachable, le propriétaire le découpe et l'adresse dûment rempli au préfet
-du département d'immatriculation du véhicule dans un délai de quinze jours.
+I.-Tout propriétaire d'une voiture particulière, d'une camionnette ou d'un cyclomoteur à trois roues qui le cède pour
+destruction remet le certificat d'immatriculation à un démolisseur, ou broyeur, agréé en application de l'article R. 543-162
+du code de l'environnement.A cet effet, il appose sur le certificat d'immatriculation, d'une manière très lisible et
+inaltérable, la mention " vendu le... /... /... " ou " cédé le... /... /... " (date de la cession) " pour destruction ",
+suivie de sa signature, et découpe la partie supérieure droite de ce document. Lorsque ce document comporte un coupon
+détachable, le propriétaire le découpe et l'adresse dûment rempli au préfet du département de son choix dans un délai de
+quinze jours. 
 
-A défaut de carte grise, à l'exception des cas visés à l'article L. 327-2, le propriétaire remet soit un document officiel
-prouvant que la carte grise ne peut être fournie, soit un justificatif de propriété dans le cas d'un véhicule âgé de plus de
-vingt-cinq ans. 
+Si le propriétaire du véhicule ne dispose pas du certificat d'immatriculation, il remet au démolisseur, ou au broyeur, agréé
+soit un document officiel prouvant que le certificat d'immatriculation ne peut être fourni, soit un justificatif de propriété
+dans le cas d'un véhicule de plus de trente ans. 
 
-Le démolisseur, ou le broyeur, agréé remet en contrepartie au propriétaire, dans un délai de quinze jours à compter de la
-date de mutation du véhicule, un récépissé de prise en charge pour destruction. 
+II.-Le professionnel qui a déclaré l'achat d'un véhicule et qui souhaite ultérieurement le faire détruire adresse une
+déclaration d'intention de détruire au ministre de l'intérieur soit par l'intermédiaire du préfet d'un département de son
+choix, soit par voie électronique s'il est habilité par le ministre de l'intérieur. La validité du certificat
+d'immatriculation est alors suspendue par le ministre de l'intérieur. 
 
-Dans le même délai, le démolisseur, ou le broyeur, agréé transmet au préfet du département d'immatriculation du véhicule, un
-exemplaire du récépissé de prise en charge pour destruction et lui adresse en outre l'une des pièces mentionnées aux premier
-et deuxième alinéas du présent article. 
+III.-Le démolisseur, ou le broyeur, agréé doit adresser, dans les quinze jours suivant l'achat du véhicule, au préfet du
+département de son choix une déclaration l'informant de l'achat pour destruction du véhicule. Cette déclaration s'effectue
+dans les conditions prévues à l'article R. 322-4. Si le démolisseur, ou le broyeur, agréé est habilité par le ministre de
+l'intérieur, il peut également effectuer ses démarches par voie électronique. La validité du certificat d'immatriculation du
+véhicule est alors suspendue par le ministre de l'intérieur. 
 
-Dans les quinze jours suivant le découpage ou le broyage du véhicule, le broyeur agréé en confirme la destruction au préfet
-du département du lieu d'immatriculation en lui transmettant le certificat de destruction correspondant. Le préfet procède
-alors à l'enregistrement de la destruction et à l'annulation de l'immatriculation. 
+Le démolisseur, ou le broyeur, agréé remet concomitamment au propriétaire du véhicule une copie de la déclaration d'achat
+pour destruction. 
 
-Un arrêté conjoint des ministres en charge des transports, de l'environnement, de l'intérieur et de l'industrie fixe les
-règles d'établissement du récépissé et du certificat de destruction.
+IV.-Dans les quinze jours suivant le découpage ou le broyage du véhicule, le broyeur agréé doit adresser au préfet du
+département de son choix la déclaration de destruction physique du véhicule. Il peut également, sous réserve d'être habilité
+par le ministre de l'intérieur, effectuer cette démarche par voie électronique. Le ministre de l'intérieur procède alors à
+l'annulation de l'immatriculation du véhicule.
+
+V.-Les dispositions du présent article s'appliquent également à la destruction des véhicules autres que ceux visés au I. Leur
+propriétaire n'est toutefois pas tenu de s'adresser à un professionnel de la destruction agréé. 
+
+VI.-Le fait, pour tout propriétaire d'un véhicule visé au I, de ne pas s'adresser à un professionnel agréé est puni des
+peines prévues à l'article L. 541-46 du code de l'environnement. 
+
+VII.-Le fait, pour tout propriétaire, de ne pas effectuer les déclarations ou de ne pas observer les délais, prévus au
+présent article, est puni de l'amende prévue pour les contraventions de la quatrième classe. 
+
+VIII.-Un arrêté conjoint des ministres chargés des transports, de l'intérieur, de l'industrie et de l'écologie fixe les
+conditions d'application du présent article.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 _Cité par_:
 
@@ -22932,13 +22748,15 @@ _Cité par_:
   - Code de l'environnement - art. R543-165 (V)
   - Code de l'énergie - art. D251-3 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-1186 2003-12-11 art. 17 : (application à Mayotte)
-
 _Modifié par_:
 
-  - Décret n°2003-1186 du 11 décembre 2003 - art. 12 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2009-136 du 9 février 2009 - art. 6
+
+_Cite_:
+
+  - Code de l'environnement - art. L541-46
+  - Code de l'environnement - art. R543-162
+  - Code de la route. - art. R322-4
 
 _Anciens textes_:
 
@@ -22950,19 +22768,15 @@ _Anciens textes_:
   - Code de la route - art. R241 (Ab)
   - Code de la route R116, R159, R165, R185, R200-2, R241 (al. 1 et 4)
 
-_Cite_:
-
-  - Code de la route. - art. L327-2 (V)
-
 
 ###### Article R322-10
 
-En cas de perte, de vol ou de détérioration d'une carte grise, le titulaire peut en obtenir un duplicata en adressant une
-demande au préfet qui avait délivré l'original.
+En cas de perte, de vol ou de détérioration d'un certificat d'immatriculation, le titulaire peut en obtenir un duplicata en
+adressant une demande au préfet du département de son choix.
 
 L'accomplissement des formalités prévues au présent article est subordonné à la justification, par le propriétaire, de son
-identité et, selon le cas, de son domicile ou de l'adresse de l'établissement d'affectation ou de mise à disposition, ou de
-celle du locataire.
+identité et, selon le cas, de son domicile, de l'adresse de son siège social ou de l'adresse de l'établissement d'affectation
+ou de mise à disposition, ou de celle du locataire.
 
 Pour tout véhicule soumis à contrôle technique, la délivrance du duplicata est subordonnée à la preuve que ce véhicule répond
 aux conditions requises pour être maintenu en circulation conformément aux dispositions du chapitre III du présent titre.
@@ -22975,13 +22789,9 @@ déclaration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2004-1408 du 23 décembre 2004 - art. 1 () JORF 28 décembre 2004
+  - Décret n°2009-136 du 9 février 2009 - art. 6
 
 _Cité par_:
 
@@ -22996,38 +22806,6 @@ _Anciens textes_:
   - Code de la route - art. R165 (Ab)
   - Code de la route - art. R185 (Ab)
   - Code de la route - art. R200-2 (Ab)
-  - Code de la route R113-2, R114-1, R117, R159, R165, R185, R200-2
-
-
-###### Article R322-11
-
-Le ministre chargé des transports et le ministre de l'intérieur peuvent, par arrêté interministériel, déroger dans des
-ressorts déterminés aux règles de compétence territoriale fixées à la présente section et désigner un préfet compétent autre
-que celui du domicile du demandeur ou du titulaire du certificat d'immatriculation lorsque cette dérogation est de nature à
-améliorer sensiblement le service rendu à l'usager.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2009-136 du 9 février 2009 - art. 6
-
-_Anciens textes_:
-
-  - Code de la route - art. R110-1 (Ab)
-  - Code de la route - art. R159 (Ab)
-  - Code de la route - art. R165 (Ab)
-  - Code de la route - art. R185 (Ab)
-  - Code de la route - art. R200-2 (Ab)
-  - Code de la route R110-1 (al. 1), R159, R165, R185, R200-2
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
 
 
 ###### Article R322-13
@@ -23089,19 +22867,20 @@ _Anciens textes_:
 
 ###### Article R322-15
 
-Le préfet du département d'immatriculation délivre, à la demande du titulaire du certificat d'immatriculation du véhicule, le
-certificat mentionné à l'article L. 322-2 attestant l'absence d'une opposition au transfert du certificat d'immatriculation.
+Le ministre de l'intérieur délivre, à la demande du titulaire du certificat d'immatriculation du véhicule, le certificat
+mentionné à l'article L. 322-2 attestant de l'absence d'une opposition au transfert du certificat d'immatriculation. Le
+titulaire du certificat d'immatriculation du véhicule doit adresser sa demande au préfet du département de son choix ou
+directement par voie électronique.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-136 du 9 février 2009 - art. 7
 
 _Anciens textes_:
 
   - Code de la route - art. R298 (Ab)
-  - Code de la route R298
 
 _Cite_:
 
@@ -23135,25 +22914,25 @@ _Cite_:
 
 ###### Article R322-17
 
-Dans le cas d'opposition au transfert, le comptable du Trésor remet, sur sa demande, au titulaire du certificat
-d'immatriculation un avis récapitulatif détaillant les amendes qui ont entraîné l'opposition. 
+Le comptable du Trésor adresse sa demande d'opposition au transfert du certificat d'immatriculation au ministre de
+l'intérieur, soit par l'intermédiaire du préfet d'un département, soit par voie électronique. 
+
+Le comptable du Trésor remet, sur sa demande, au titulaire du certificat l'immatriculation un avis récapitulatif détaillant
+les amendes qui ont entraîné l'opposition. 
 
 Par dérogation à l'article 24 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité
 publique, le règlement des amendes pour lesquelles il a été fait opposition s'effectue exclusivement par versement d'espèces,
-par carte de paiement ou remise à un comptable du Trésor d'un chèque certifié. Toutefois, il peut également intervenir par
-télépaiement automatisé ou par timbre dématérialisé conformément aux dispositions des articles R. 49-3 et R. 49-3-1 du code
-de procédure pénale.
+par carte de paiement ou remise à un comptable du Trésor d'un chèque certifié.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Décret n°62-1587 du 29 décembre 1962 - art. 24
-  - Code de procédure pénale - art. R49-3
 
 _Modifié par_:
 
-  - Décret n°2009-383 du 6 avril 2009 - art. 2
+  - Décret n°2009-136 du 9 février 2009 - art. 7
 
 _Anciens textes_:
 
@@ -23165,9 +22944,7 @@ _Anciens textes_:
 La levée de l'opposition intervient, soit à la suite du règlement au comptable du Trésor des amendes pour lesquelles il a été
 fait opposition, soit lorsque l'intéressé a formé une réclamation selon les modalités et dans les délais prévus par les
 articles 529-10 et 530 du code de procédure pénale à peine d'irrecevabilité, et, s'il n'habitait plus à l'adresse enregistrée
-dans le fichier, qu'il justifie avoir adressé la déclaration mentionnée à l'article R. 322-7. 
-
-Dès qu'il a été informé de la levée de l'opposition, le préfet délivre le certificat de non-opposition.
+dans le fichier, qu'il justifie avoir adressé la déclaration mentionnée à l'article R. 322-7.
 
 **Liens relatifs à cet article**
 
@@ -23246,21 +23023,13 @@ _Cite_:
 
 Le ministre chargé des transports fixe par arrêté les conditions d'application du présent chapitre et, notamment, les
 catégories de contrôles techniques, le contenu de ces contrôles et les conditions dans lesquelles ils sont matérialisés sur
-la carte grise et, le cas échéant, sur le véhicule lui-même.
+le certificat d'immatriculation et, le cas échéant, sur le véhicule lui-même.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-568 2004-06-11 art. 5 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2004-568 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
+  - Décret n°2009-136 du 9 février 2009 - art. 12 (V)
 
 _Cité par_:
 
@@ -23270,7 +23039,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de la route - art. R122 (Ab)
-  - Code de la route R122
 
 
 ###### Article R323-3
@@ -23279,15 +23047,13 @@ Les dispositions du présent chapitre ne sont pas applicables :
 
 1° Aux véhicules et matériels spéciaux des armées ;
 
-2° Aux véhicules immatriculés dans les séries diplomatiques ou assimilées et dans la série spéciale FFECSA ;
-
-3° Aux véhicules de collection.
+2° Aux véhicules immatriculés dans les séries diplomatiques ou assimilées et dans la série spéciale FFECSA.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-136 du 9 février 2009 - art. 8
 
 _Cité par_:
 
@@ -23299,7 +23065,6 @@ _Anciens textes_:
   - Code de la route - art. R106-1 (Ab)
   - Code de la route - art. R117-1 (Ab)
   - Code de la route - art. R229 (Ab)
-  - Code de la route R106-1, R117-1 (al. 2), R229 (al. 1 et 4)
 
 **Liens**:
 
@@ -24696,36 +24461,31 @@ _Cite_:
 
 ###### Article R325-9
 
-I. - Lorsque l'infraction qui a motivé l'immobilisation n'a pas cessé au moment où l'agent quitte le lieu où le véhicule est
+I.-Lorsque l'infraction qui a motivé l'immobilisation n'a pas cessé au moment où l'agent quitte le lieu où le véhicule est
 immobilisé, l'agent saisit l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police
-municipale ou occupant ces fonctions, territorialement compétent en lui remettant soit la carte grise du véhicule s'il s'agit
-d'un véhicule dont le poids total autorisé en charge n'excède pas 3,5 tonnes et une fiche d'immobilisation, soit les pièces
-administratives nécessaires à la circulation du véhicule s'il s'agit d'un véhicule de transport de marchandises d'un poids
-total autorisé en charge excédant 3,5 tonnes ou de transport en commun et la fiche d'immobilisation. Un double de cette fiche
-est remis au contrevenant.
+municipale ou occupant ces fonctions, territorialement compétent en lui remettant soit le certificat d'immatriculation du
+véhicule s'il s'agit d'un véhicule dont le poids total autorisé en charge n'excède pas 3, 5 tonnes et une fiche
+d'immobilisation, soit les pièces administratives nécessaires à la circulation du véhicule s'il s'agit d'un véhicule de
+transport de marchandises d'un poids total autorisé en charge excédant 3, 5 tonnes ou de transport en commun et la fiche
+d'immobilisation. Un double de cette fiche est remis au contrevenant. 
 
-II. - La fiche d'immobilisation énonce les date, heure et lieu de l'immobilisation, l'infraction qui l'a motivée, les
-éléments d'identification du véhicule et de la carte grise, les nom et adresse du contrevenant, les noms, qualités et
+II.-La fiche d'immobilisation énonce les date, heure et lieu de l'immobilisation, l'infraction qui l'a motivée, les éléments
+d'identification du véhicule et du certificat d'immatriculation, les nom et adresse du contrevenant, les noms, qualités et
 affectations des agents qui la rédigent et précise la résidence de l'officier de police judiciaire ou l'agent de police
-judiciaire adjoint, chef de la police municipale ou occupant ces fonctions, qualifié pour lever la mesure.
+judiciaire adjoint, chef de la police municipale ou occupant ces fonctions, qualifié pour lever la mesure. 
 
-III. - Par dérogation aux dispositions du I ci-dessus, si la mesure a été motivée par le franchissement d'une barrière de
+III.-Par dérogation aux dispositions du I ci-dessus, si la mesure a été motivée par le franchissement d'une barrière de
 dégel, l'autorité saisie est l'ingénieur des ponts et chaussées ou, s'il s'agit d'une voie communale, le maire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2005-1148 du 6 septembre 2005 - art. 1 () JORF 13 septembre 2005
+  - Décret n°2009-136 du 9 février 2009 - art. 9
 
 _Anciens textes_:
 
   - Code de la route - art. R282 (Ab)
-  - Code de la route R282
 
 _Cité par_:
 
@@ -24765,30 +24525,30 @@ _Cité par_:
 
 ###### Article R325-11
 
-I. - L'immobilisation ne peut être maintenue après que la circonstance qui l'a motivée a cessé.
+I.-L'immobilisation ne peut être maintenue après que la circonstance qui l'a motivée a cessé. 
 
-II. - Elle est levée :
+II.-Elle est levée : 
 
-1° Par l'agent qui l'a prescrite s'il est encore présent lors de la cessation de l'infraction ;
+1° Par l'agent qui l'a prescrite s'il est encore présent lors de la cessation de l'infraction ; 
 
 2° Par l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
 fonctions, saisi dans les conditions prévues à l'article R. 325-9, dès que le conducteur ou l'accompagnateur de l'élève
-conducteur justifie de la cessation de l'infraction. L'officier de police judiciaire ou l'agent de police judiciaire adjoint,
-chef de la police municipale ou occupant ces fonctions, restitue alors la carte grise au conducteur ou à l'accompagnateur de
-l'élève conducteur et transmet aux autorités destinataires du procès-verbal mentionné à l'article R. 325-10 un exemplaire de
-la fiche d'immobilisation ou une copie conforme de cette fiche, comportant la mention de la levée de la mesure. Lorsque le
-conducteur ou l'accompagnateur de l'élève conducteur n'a pas justifié de la cessation de l'infraction dans un délai de
-quarante-huit heures, l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale
-ou occupant ces fonctions, peut transformer l'immobilisation en une mise en fourrière ; il joint alors à chacun des
-exemplaires de la procédure de mise en fourrière qu'il adresse aux autorités mentionnées à l'article R. 325-10 un exemplaire
-ou une copie conforme de la fiche d'immobilisation ;
+conducteur justifie de la cessation de l'infraction.L'officier de police judiciaire ou l'agent de police judiciaire adjoint,
+chef de la police municipale ou occupant ces fonctions, restitue alors le certificat d'immatriculation au conducteur ou à
+l'accompagnateur de l'élève conducteur et transmet aux autorités destinataires du procès-verbal mentionné à l'article R.
+325-10 un exemplaire de la fiche d'immobilisation ou une copie conforme de cette fiche, comportant la mention de la levée de
+la mesure. Lorsque le conducteur ou l'accompagnateur de l'élève conducteur n'a pas justifié de la cessation de l'infraction
+dans un délai de quarante-huit heures, l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la
+police municipale ou occupant ces fonctions, peut transformer l'immobilisation en une mise en fourrière ; il joint alors à
+chacun des exemplaires de la procédure de mise en fourrière qu'il adresse aux autorités mentionnées à l'article R. 325-10 un
+exemplaire ou une copie conforme de la fiche d'immobilisation ; 
 
 3° Par la décision de l'ingénieur des ponts et chaussées ou du maire supprimant les barrières de dégel, lorsque la mesure a
-été motivée par leur franchissement. L'ingénieur des ponts et chaussées ou le maire peut, avant la suppression des barrières
+été motivée par leur franchissement.L'ingénieur des ponts et chaussées ou le maire peut, avant la suppression des barrières
 de dégel, autoriser l'enlèvement du véhicule dans des conditions qu'il détermine. Il délivre alors au contrevenant une
-autorisation écrite valant justification à l'égard des services de police.
+autorisation écrite valant justification à l'égard des services de police. 
 
-III. - Dans tous les cas, dès la cessation de l'infraction qui a motivé l'immobilisation, le véhicule peut circuler entre le
+III.-Dans tous les cas, dès la cessation de l'infraction qui a motivé l'immobilisation, le véhicule peut circuler entre le
 lieu d'immobilisation et la résidence de l'autorité désignée pour lever la mesure, sous couvert du double de la fiche
 d'immobilisation remise au conducteur.
 
@@ -24801,13 +24561,9 @@ _Cité par_:
   - Code de la route. - art. R325-14 (V)
   - Code de la route. - art. R343-4 (M)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2005-1148 du 6 septembre 2005 - art. 2 () JORF 13 septembre 2005
+  - Décret n°2009-136 du 9 février 2009 - art. 9
 
 _Anciens textes_:
 
@@ -24816,8 +24572,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R325-10 (V)
-  - Code de la route. - art. R325-9 (M)
+  - Code de la route. - art. R325-10
+  - Code de la route. - art. R325-9
 
 
 ##### Section 3 : Fourrière<a id=146></a>
@@ -25483,26 +25239,21 @@ _Cité par_:
 
 ###### Article R325-31
 
-La mise en fourrière est notifiée par l'auteur de la mesure à l'adresse relevée, soit sur le fichier national des
-immatriculations, soit sur le procès-verbal d'infraction ou le rapport de mise en fourrière.
+La mise en fourrière est notifiée par l'auteur de la mesure à l'adresse relevée, soit sur    le traitement automatisé mis en
+œuvre pour l'immatriculation des véhicules, soit sur le procès-verbal d'infraction ou le rapport de mise en fourrière. 
 
 Lorsque le véhicule n'est pas identifiable, il n'est pas procédé à cette formalité. Mention en est faite dans le procès-
 verbal ou dans le rapport de mise en fourrière.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2005-1148 du 6 septembre 2005 - art. 14 () JORF 13 septembre 2005
+  - Décret n°2009-136 du 9 février 2009 - art. 10
 
 _Anciens textes_:
 
   - Code de la route - art. R291 (Ab)
-  - Code de la route R291
 
 _Cité par_:
 
@@ -25511,70 +25262,63 @@ _Cité par_:
 
 ###### Article R325-32
 
-I. - Cette notification s'effectue par lettre recommandée avec demande d'accusé de réception, dans le délai maximal de cinq
-jours ouvrables suivant la mise en fourrière du véhicule.
+I.-Cette notification s'effectue par lettre recommandée avec demande d'accusé de réception, dans le délai maximal de cinq
+jours ouvrables suivant la mise en fourrière du véhicule. 
 
 Il y est joint un double de la fiche descriptive de l'état du véhicule mis en fourrière en cas d'absence du propriétaire ou
-du conducteur au moment de l'enlèvement pour mise en fourrière.
+du conducteur au moment de l'enlèvement pour mise en fourrière. 
 
-II. - Cette notification comporte les mentions obligatoires suivantes :
+II.-Cette notification comporte les mentions obligatoires suivantes : 
 
 1° Indication de l'auteur de la prescription, du motif de la prescription, de la fourrière désignée et de l'autorité dont
-relève cette fourrière ;
+relève cette fourrière ; 
 
 2° Décision de classement prise en application de l'article R. 325-30 et indication de la faculté de faire procéder à une
-contre-expertise conformément aux articles R. 325-35 et R. 325-36 ;
+contre-expertise conformément aux articles R. 325-35 et R. 325-36 ; 
 
-3° Autorité qualifiée pour donner mainlevée de la mise en fourrière ;
+3° Autorité qualifiée pour donner mainlevée de la mise en fourrière ; 
 
 4° Injonction au propriétaire du véhicule, s'il est soumis à immatriculation, de remettre immédiatement, sous peine
 d'encourir l'amende prévue pour les contraventions de la quatrième classe, le certificat d'immatriculation à l'autorité
-qualifiée pour donner mainlevée de la mise en fourrière.
+qualifiée pour donner mainlevée de la mise en fourrière. 
 
-5° Mise en demeure au propriétaire de retirer son véhicule avant l'expiration d'un délai :
+5° Mise en demeure au propriétaire de retirer son véhicule avant l'expiration d'un délai : 
 
 a) De dix jours pour un véhicule qu'un expert aura estimé d'une valeur marchande inférieure à un montant fixé par arrêté
-interministériel et déclaré hors d'état de circuler dans des conditions normales de sécurité ;
+interministériel et déclaré hors d'état de circuler dans des conditions normales de sécurité ; 
 
-b) De quarante-cinq jours dans les autres cas,
+b) De quarante-cinq jours dans les autres cas, 
 
-ces délais commençant à courir un jour franc après la date de notification ;
+ces délais commençant à courir un jour franc après la date de notification ; 
 
 6° Avertissement au propriétaire que son absence de réponse dans les délais impartis vaudra abandon de son véhicule et que
 ledit véhicule sera, dans les conditions prévues par décret, soit remis au service des domaines en vue de son aliénation,
-soit livré à la destruction ;
+soit livré à la destruction ; 
 
-7° Nature et montant des frais qu'il sera tenu de rembourser ;
+7° Nature et montant des frais qu'il sera tenu de rembourser ; 
 
-8° Enoncé des voies de recours.
+8° Enoncé des voies de recours. 
 
-III. - Si le fichier des immatriculations révèle l'inscription d'un gage, copie de la notification de mise en fourrière est
-adressée par l'auteur de la prescription de mise en fourrière au créancier-gagiste, par lettre recommandée avec demande
-d'accusé de réception, qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5, 6 et 7) fixant les conditions de
-remise au service des domaines des véhicules non retirés de fourrière par leurs propriétaires.
+III.-Si le traitement automatisé mis en œuvre pour l'immatriculation des véhicule révèle l'inscription d'un gage, copie de la
+notification de mise en fourrière est adressée par l'auteur de la prescription de mise en fourrière au créancier-gagiste, par
+lettre recommandée avec demande d'accusé de réception, qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5, 6
+et 7) fixant les conditions de remise au service des domaines des véhicules non retirés de fourrière par leurs propriétaires.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°72-823 du 6 septembre 1972 - art. 5 (V)
-  - Décret n°72-823 du 6 septembre 1972 - art. 6 (V)
-  - Décret n°72-823 du 6 septembre 1972 - art. 7 (V)
-  - Code de la route. - art. R325-35 (V)
-  - Code de la route. - art. R325-36 (M)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°72-823 du 6 septembre 1972 - art. 5
+  - Code de la route. - art. R325-30
+  - Code de la route. - art. R325-35
 
 _Modifié par_:
 
-  - Décret n°2005-1148 du 6 septembre 2005 - art. 15 () JORF 13 septembre 2005
+  - Décret n°2009-136 du 9 février 2009 - art. 10
 
 _Anciens textes_:
 
   - Code de la route - art. R291-1 (Ab)
-  - Code de la route R291-1
 
 _Cité par_:
 
@@ -30291,43 +30035,35 @@ _Anciens textes_:
 
 ###### Article R412-16
 
-Hors d'une zone constituée par le département d'immatriculation et les départements limitrophes, les véhicules de collection
-ne sont autorisés à circuler que pour se rendre à des rallyes ou autres manifestations auxquelles ils peuvent être appelés à
-participer. Le ministre chargé des transports fixe par arrêté, pris après avis du ministre de l'intérieur, les conditions
-d'application du présent article.
+Les véhicules de collection sont autorisés à circuler sur l'ensemble du territoire national dans les conditions fixées par un
+arrêté du ministre chargé des transports pris après avis du ministre de l'intérieur. 
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article ou à celles prises pour son application est
-puni de l'amende prévue pour les contraventions de la quatrième classe.
+puni de l'amende prévue pour les contraventions de la quatrième classe. 
 
 L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-136 du 9 février 2009 - art. 8
 
 _Anciens textes_:
 
   - Code de la route - art. R232 (Ab)
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R53-2 (Ab)
-  - Code de la route R53-2 (al. 4), R232 (al. 1 et 10), R278 6°
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1 (V)
 
 _Cité par_:
 
   - Code de la route. - art. R130-6 (VD)
   - Code de la route. - art. R130-7 (V)
   - Code de la route. - art. R442-7 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R412-17
