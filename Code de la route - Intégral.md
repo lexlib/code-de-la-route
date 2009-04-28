@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-04-23
+Version Consolidée au 2009-04-29
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -131,10 +131,10 @@ Version Consolidée au 2009-04-23
           - [Section 6 : Autres aménagements. (art. R317-23 à R317-28)](#128)
         - [Chapitre VIII : Energie, émissions polluantes et nuisances. (art. R318-1 à R318-10)](#129)
       - [Titre II : Dispositions administratives. (art. D321-5-1 à R327-6)](#130)
-        - [Chapitre Ier : Réception et homologation (art. D321-5-1 à R321-24)](#131)
-          - [Section 1 : Dispositions générales. (art. D321-5-1 à R321-5)](#132)
-          - [Section 2 : Réception communautaire ou réception CE. (art. R321-6 à R321-14)](#133)
-          - [Section 3 : Réception nationale par type ou à titre isolé et homologation. (art. R321-15 à R321-24)](#134)
+        - [Chapitre Ier : Réception et homologation (art. D321-5-1 à R321-25)](#131)
+          - [Section 1 : Dispositions générales. (art. D321-5-1 à R321-5-3)](#132)
+          - [Section 2 : Réception communautaire ou réception CE. (art. R321-6 à R321-14-1)](#133)
+          - [Section 3 : Réception nationale par type ou à titre isolé et homologation. (art. R321-15 à R321-25)](#134)
         - [Chapitre II : Immatriculation (art. R322-1 à R322-18)](#135)
           - [Section 1 : Délivrance du certificat d'immatriculation. (art. R322-1 à R322-14)](#136)
           - [Section 2 : Opposition au transfert du certificat d'immatriculation. (art. R322-15 à R322-18)](#137)
@@ -17853,7 +17853,7 @@ VII.-Toute remorque peut être munie à l'avant de deux feux de position émetta
 éblouissante. 
 
 VIII.-La présence des feux de position visés au VII ci-dessus est obligatoire lorsque la largeur hors tout de la remorque
-dépasse 1, 60 mètre ou dépasse de plus de 0, 20 mètre la largeur du véhicule tracteur. 
+dépasse 1, 60 mètre. 
 
 IX.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et appareils agricoles ou de travaux publics
 remorqués.
@@ -17874,7 +17874,7 @@ pour les contraventions de la première classe.
 
 _Modifié par_:
 
-  - Décret n°2008-1095 du 28 octobre 2008 - art. 4
+  - Décret n°2009-497 du 30 avril 2009 - art. 3
 
 _Cité par_:
 
@@ -18490,6 +18490,9 @@ I. - Sauf dispositions différentes prévues au présent article, tout véhicule
 deux catadioptres arrière rouges, de forme non triangulaire pour les véhicules à moteur et de forme triangulaire pour les
 remorques.
 
+Toutefois, les remorques peuvent également être munies de deux catadioptres arrière rouges, de forme non triangulaire, à
+condition qu'ils soient groupés avec les dispositifs arrière de signalisation lumineuse. 
+
 II. - Toute motocyclette, tout cyclomoteur à deux roues doit être muni à l'arrière d'un catadioptre.
 
 III. - Tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues doit être muni d'un ou de deux
@@ -18526,9 +18529,9 @@ prévue pour les contraventions de la première classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-497 du 30 avril 2009 - art. 4
 
 _Anciens textes_:
 
@@ -18542,7 +18545,6 @@ _Anciens textes_:
   - Code de la route - art. R216 (Ab)
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R91 (Ab)
-  - Code de la route R91 (al. 1 et 2), R150 (al. 1 et 6), R151 (al. 1 à 4), R175 (al. 1, 3 et 10), R177 (al. 1, 2 et 3), R196 (al. 1 et 2), R197, R215 (al. 1 à 3), R216 (al. 1), R239
 
 
 ###### Article R313-19
@@ -18871,24 +18873,22 @@ _Anciens textes_:
 
 ###### Article R313-26
 
-Le doublement des feux rouges par des feux strictement identiques est autorisé sur les véhicules dont le poids total autorisé
-en charge excède 3,5 tonnes, sous réserve que soient également doublés les feux stop et les feux indicateurs de direction
-dans les conditions fixées par arrêté du ministre chargé des transports.
+Le doublement des feux rouges, des feux stop et des feux indicateurs de direction arrière est autorisé sur les véhicules à
+moteur dont le poids total autorisé en charge excède 3, 5 tonnes et les véhicules remorqués dont le poids total autorisé en
+charge excède 0, 75 tonne, dans les conditions fixées par arrêté du ministre chargé des transports. 
 
 Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
 troisième classe.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2009-497 du 30 avril 2009 - art. 5
+
 _Anciens textes_:
 
-  - Arrêté 1985-07-18 art. 18 bis (al. 1)
   - Code de la route - art. R239 (Ab)
-  - Code de la route R239
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 
 ###### Article R313-27
@@ -19857,28 +19857,23 @@ _Anciens textes_:
 
 I. - Les organes de direction doivent présenter des garanties suffisantes de solidité.
 
-II. - Dans le cas où le fonctionnement des organes de direction fait appel à un fluide, ceux-ci doivent être conçus de telle
-sorte que le conducteur puisse garder le contrôle de son véhicule en cas de défaillance de l'un des organes utilisant le
-fluide. Les véhicules et matériels agricoles et de travaux publics ne sont pas soumis à cette obligation.
+II. - Dans le cas où le fonctionnement des organes de direction fait appel à un système hydraulique ou électrique, ceux-ci
+doivent être conçus de telle sorte que le conducteur puisse garder le contrôle de son véhicule en cas de défaillance du
+système. Les véhicules et matériels agricoles et de travaux publics ne sont pas soumis à cette obligation.
 
 III. - Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
 troisième classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2003-536 du 20 juin 2003 - art. 7 () JORF 22 juin 2003
+  - Décret n°2009-497 du 30 avril 2009 - art. 6
 
 _Anciens textes_:
 
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R78-1 (Ab)
-  - Code de la route R78-1, R239
 
 
 ###### Article R316-8
@@ -21565,6 +21560,29 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 
+###### Article R321-4-1
+
+La vente, l'offre de vente ou la mise en service des pièces ou équipements susceptibles de présenter un risque important pour
+le bon fonctionnement de systèmes essentiels pour la sécurité ou la performance environnementale d'un véhicule de catégorie
+M, N ou O n'est permise que si lesdites pièces ou équipements sont autorisés par l'autorité compétente en matière de
+réception. 
+
+Chaque pièce ou partie d'équipement autorisée en vertu du présent article doit recevoir un marquage approprié. 
+
+Le ministre chargé des transports fixe par arrêté les modalités d'application du présent article et, en particulier, la liste
+des pièces et équipements concernés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-497 du 30 avril 2009 - art. 7
+
+**Liens**:
+
+  - RECTIFICATION: Décret  n°2009-497  du 30 avril 2009, v. init.
+
+
 ###### Article R321-5
 
 Le ministre chargé des transports fixe par arrêté les dispositions nécessaires à la vérification de la puissance et de la
@@ -21587,15 +21605,39 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 
+###### Article R321-5-3
+
+Le ministre chargé des transports fixe par arrêté les conditions et la durée de validité des réceptions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-497 du 30 avril 2009 - art. 8
+
+
 ##### Section 2 : Réception communautaire ou réception CE.<a id=133></a>
 
 ###### Article R321-6
 
-La réception communautaire, dite réception CE, est destinée à constater qu'un type de véhicule, de système ou d'équipement
-satisfait aux prescriptions techniques exigées pour sa mise en circulation.
+La réception communautaire, dite réception CE, est destinée à constater qu'un véhicule ou un  type de véhicule, de système ou
+d'équipement satisfait aux prescriptions techniques exigées pour sa mise en circulation.
 
-Les règles techniques élaborées en application des directives communautaires relatives à la réception des véhicules, des
-systèmes ou des équipements sont fixées par arrêté du ministre chargé des transports.
+Les règles techniques élaborées en application des actes réglementaires communautaires  relatifs  à la réception des
+véhicules, des systèmes ou des équipements sont fixées par arrêté du ministre chargé des transports.
+
+Pour l'application de la présente section, les termes ci-après ont le sens qui leur est donné dans le présent article : 
+
+- " réception CE par type " : l'acte par lequel un Etat membre de la CE certifie qu'un type de véhicule, de système, de
+composant ou d'entité technique satisfait aux dispositions administratives et aux exigences techniques communautaires ; 
+
+- " réception individuelle " : l'acte par lequel un Etat membre de la CE certifie qu'un véhicule donné, qu'il soit unique ou
+non, satisfait aux dispositions administratives et aux exigences techniques applicables ; 
+
+- " mandataire du constructeur " : toute personne physique ou morale établie dans la Communauté européenne, dûment mandatée
+par le constructeur pour le représenter auprès de l'autorité compétente en matière de réception et agir pour son compte pour
+les questions relevant de la présente section, toute référence au terme " constructeur " devant être comprise comme visant le
+constructeur ou son mandataire.
 
 **Liens relatifs à cet article**
 
@@ -21617,18 +21659,14 @@ _Cité par_:
   - Code de la route. - art. R318-10 (V)
   - Code de la route. - art. R322-1 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-497 du 30 avril 2009 - art. 9
 
 _Anciens textes_:
 
   - Code de la route - art. R109-3 (Ab)
   - Code de la route R109-3 (al. 1)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 
 ###### Article R321-7
@@ -21700,13 +21738,14 @@ Lorsque le ministre chargé des transports constate que le type de véhicule, de
 exigences requises par la législation communautaire, il délivre une fiche de réception CE.
 
 Néanmoins, si le ministre chargé des transports estime qu'un type de véhicule, de système ou d'équipement, quoique conforme
-aux exigences requises par la législation communautaire, compromet gravement la sécurité routière, il peut refuser de
-délivrer la fiche de réception CE. Cette décision doit être motivée et notifiée au constructeur intéressé, aux autorités
-compétentes en matière de réception des autres Etats et à la Commission européenne.
+aux exigences requises par la législation communautaire, compromet gravement la sécurité routière ou nuit gravement à
+l'environnement ou à la santé publique, il peut refuser de délivrer la fiche de réception CE. Cette décision doit être
+motivée et notifiée au constructeur intéressé avec indication des voies et délais de recours, aux autorités compétentes en
+matière de réception des autres Etats et à la Commission européenne.
 
 Le constructeur donne à chacun des véhicules conformes à un type ayant fait l'objet d'une réception CE un numéro
-d'identification. Il remet à l'acheteur du véhicule une copie de la fiche de réception CE du type de véhicule ainsi qu'un
-certificat de conformité attestant que le véhicule livré est entièrement conforme au type réceptionné.
+d'identification. Il remet à l'acheteur du véhicule un certificat de conformité attestant que le véhicule livré est
+entièrement conforme au type réceptionné.
 
 Le constructeur, détenteur d'une fiche de réception CE d'un type d'équipement, appose sur chaque équipement fabriqué
 conformément au type réceptionné sa marque de fabrique ou de commerce, l'indication du type ou, si la directive communautaire
@@ -21717,18 +21756,13 @@ auquel doivent être conformes le dossier constructeur, la fiche de réception e
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-497 du 30 avril 2009 - art. 10
 
 _Anciens textes_:
 
   - Code de la route - art. R109-4 (Ab)
-  - Code de la route R109-4 (al. 2 à 9)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 
 ###### Article R321-10
@@ -21816,23 +21850,18 @@ _Anciens textes_:
 
 ###### Article R321-12
 
-Tout équipement ou système dont le type a fait l'objet d'une réception CE ou équivalente et comportant la marque adéquate
-peut être commercialisé librement.
+Tout équipement ou système dont le type a fait l'objet d'une réception CE valide ou équivalente et comportant la marque
+adéquate peut être commercialisé librement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-497 du 30 avril 2009 - art. 11
 
 _Anciens textes_:
 
   - Code de la route - art. R109-7 (Ab)
-  - Code de la route R109-7
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 
 ###### Article R321-13
@@ -21861,27 +21890,63 @@ _Anciens textes_:
 ###### Article R321-14
 
 S'il est établi que des véhicules, systèmes ou équipements d'un type ayant fait l'objet d'une réception CE compromettent
-gravement la sécurité routière alors qu'ils sont accompagnés d'un certificat de conformité en cours de validité ou qu'ils
-portent une marque de réception valide, le ministre chargé des transports peut, pour une durée de six mois au maximum,
-refuser d'immatriculer ces véhicules ou interdire la vente ou la mise en service de ces véhicules, systèmes ou équipements.
-Il en informe immédiatement les autorités compétentes en matière de réception des autres Etats et la Commission européenne en
-motivant sa décision. La décision doit également être notifiée au constructeur intéressé et indiquer les voies et délais de
-recours.
+gravement la sécurité routière ou nuisent  gravement à l'environnement ou à la santé publique alors qu'ils sont accompagnés
+d'un certificat de conformité en cours de validité ou qu'ils portent une marque de réception valide, le ministre chargé des
+transports peut, pour une durée de six mois au maximum, refuser d'immatriculer ces véhicules ou interdire la vente ou la mise
+en service de ces véhicules, systèmes ou équipements. Il en informe immédiatement le constructeur et les autorités
+compétentes en matière de réception des autres Etats et la Commission européenne en motivant sa décision. La décision doit
+également être notifiée au constructeur intéressé et indiquer les voies et délais de recours.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-497 du 30 avril 2009 - art. 12
 
 _Anciens textes_:
 
   - Code de la route - art. R109-9 (Ab)
-  - Code de la route R109-9
 
-**Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R321-2 (V)
+###### Article R321-14-1
+
+Un constructeur auquel a été octroyée une réception CE par type de véhicule de catégorie M, N ou O doit rappeler les
+véhicules déjà vendus, immatriculés ou mis en service lorsqu'un ou plusieurs systèmes, composants ou entités techniques
+installés sur ces véhicules, qu'ils aient ou non été dûment réceptionnés, risquent de compromettre gravement la sécurité
+routière, la santé publique ou la protection de l'environnement. Il en informe immédiatement le ministre chargé des
+transports pour les réceptions CE par type de véhicule que ce dernier a accordées et lui propose un ensemble de solutions
+appropriées en vue de neutraliser le risque. Le ministre chargé des transports communique aux autorités compétentes en
+matière de réception des autres Etats membres les mesures proposées par le constructeur. Il veille à la mise en œuvre
+efficace de ces mesures sur le territoire national. 
+
+Si le ministre chargé des transports juge insuffisantes les mesures communiquées par une autorité compétente en matière de
+réception ou si ces mesures n'ont pas été mises en œuvre dans un délai assez court, il en informe l'autorité compétente en
+matière de réception qui a accordé la réception CE par type de véhicule. 
+
+Lorsque le ministre chargé des transports est informé par une autorité compétente en matière de réception d'un autre Etat
+membre que les mesures communiquées sont insuffisantes ou n'ont pas été mises en œuvre dans un délai assez court, il en
+informe le constructeur et, s'il n'est pas satisfait des mesures de ce dernier, prend toutes les mesures de protection qui
+s'imposent, y compris le retrait de la réception CE par type de véhicule lorsque le constructeur s'abstient de proposer et de
+mettre en œuvre des mesures de correction efficaces. En cas de retrait de la réception CE par type de véhicule, le ministre
+chargé des transports informe le constructeur, les autorités compétentes en matière de réception des autres Etats membres
+ainsi que la Commission européenne. 
+
+Le ministre chargé des transports fixe par arrêté les modalités d'application des dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-497 du 30 avril 2009 - art. 13
+
+_Cité par_:
+
+  - Arrêté du 4 mai 2009 - art. 28 (V)
+  - Arrêté du 17 août 2016 - art. 23 (V)
+  - Code de la consommation - art. R121-27 (MMN)
+  - Code de la consommation - art. R224-23 (V)
+  - Code de la route. - art. R330-3 (V)
+  - Code de la route. - art. R330-6 (V)
 
 
 ##### Section 3 : Réception nationale par type ou à titre isolé et homologation.<a id=134></a>
@@ -22249,6 +22314,35 @@ _Anciens textes_:
 **Liens**:
 
   - SPEC_APPLI: Code de la route. - art. R321-2 (V)
+
+
+###### Article R321-25
+
+Un constructeur auquel a été octroyée une réception nationale par type de véhicule de catégorie M, N ou O doit rappeler les
+véhicules déjà vendus, immatriculés ou mis en service lorsqu'un ou plusieurs systèmes, composants ou entités techniques
+installés sur ces véhicules, qu'ils aient ou non été dûment réceptionnés, risquent de compromettre gravement la sécurité
+routière, la santé publique ou la protection de l'environnement. Il en informe immédiatement le ministre chargé des
+transports et lui propose un ensemble de solutions appropriées en vue de neutraliser le risque. Le ministre chargé des
+transports veille à la mise en œuvre efficace de ces mesures. 
+
+Si le ministre chargé des transports juge insuffisantes les mesures communiquées par le constructeur ou si ces mesures n'ont
+pas été mises en œuvre dans un délai assez court, il en informe le constructeur et prend toutes les mesures de protection qui
+s'imposent, y compris le retrait de la réception par type lorsque le constructeur s'abstient de proposer et de mettre en
+œuvre des mesures de correction efficaces. 
+
+En cas de retrait de la réception par type, le ministre chargé des transports informe le constructeur. 
+
+Le ministre chargé des transports fixe par arrêté les modalités d'application des dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-497 du 30 avril 2009 - art. 14
+
+_Cité par_:
+
+  - Arrêté du 17 août 2016 - art. 23 (V)
 
 
 #### Chapitre II : Immatriculation<a id=135></a>
