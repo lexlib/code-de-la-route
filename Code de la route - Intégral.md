@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-05-04
+Version Consolidée au 2009-05-14
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L142-5)](#2)
@@ -471,32 +471,23 @@ pécuniairement de l'amende encourue pour des contraventions à la réglementati
 respect des distances de sécurité entre les véhicules, sur l'usage de voies et chaussées réservées à certaines catégories de
 véhicules et sur les signalisations imposant l'arrêt des véhicules, à moins qu'il n'établisse l'existence d'un vol ou de tout
 autre événement de force majeure ou qu'il n'apporte tous éléments permettant d'établir qu'il n'est pas l'auteur véritable de
-l'infraction.
+l'infraction. 
 
 La personne déclarée redevable en application des dispositions du présent article n'est pas responsable pénalement de
 l'infraction. Lorsque le tribunal de police ou la juridiction de proximité, y compris par ordonnance pénale, fait application
 des dispositions du présent article, sa décision ne donne pas lieu à inscription au casier judiciaire, ne peut être prise en
 compte pour la récidive et n'entraîne pas retrait des points affectés au permis de conduire. Les règles sur la contrainte
-judiciaire ne sont pas applicables au paiement de l'amende.
+judiciaire ne sont pas applicables au paiement de l'amende. 
 
-Les deuxième et troisième alinéas de l'article L. 121-2 sont applicables dans les mêmes circonstances.
-
-**Nota:**
-
-Loi n° 2005-47 du 26 janvier 2005 art. 11 : ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa
-publication. Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à
-cette date demeurent de la compétence de ces juridictions.
+Lorsque le certificat d'immatriculation du véhicule est établi au nom d'une personne morale, la responsabilité pécuniaire
+prévue au premier alinéa incombe, sous les réserves prévues au premier alinéa de l'article L. 121-2, au représentant légal de
+cette personne morale.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 _Modifié par_:
 
-  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+  - Loi n°2009-526 du 12 mai 2009 - art. 133
 
 _Cité par_:
 
@@ -517,14 +508,14 @@ _Anciens textes_:
   - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
   - Code de la route L21-2
 
+_Cite_:
+
+  - Code de la route. - art. L121-1
+  - Code de la route. - art. L121-2 (V)
+
 **Liens**:
 
   - SPEC_APPLI: Code de la route. - art. L121-1 (V)
-
-_Cite_:
-
-  - Code de la route. - art. L121-1 (V)
-  - Code de la route. - art. L121-2 (M)
 
 
 ###### Article L121-4
@@ -699,9 +690,9 @@ La réclamation doit être accompagnée de l'avis d'amende forfaitaire majorée 
 dans le cas prévu par l'article 529-10, de l'un des documents exigés par cet article, à défaut de quoi elle est
 irrecevable." 
 
-" Art. 530-1-Au vu de la requête faite en application du premier alinéa de l'article 529-2, de la protestation formulée en
+"Art. 530-1-Au vu de la requête faite en application du premier alinéa de l'article 529-2, de la protestation formulée en
 application du premier alinéa de l'article 529-5 ou de la réclamation faite en application du deuxième alinéa de l'article
-530, le ministère public peut soit renoncer à l'exercice des poursuites, soit procéder conformément aux articles 524 à 528-2
+530, le ministère public peut, soit renoncer à l'exercice des poursuites, soit procéder conformément aux articles 524 à 528-2
 ou aux articles 531 et suivants, soit aviser l'intéressé de l'irrecevabilité de la réclamation non motivée ou non accompagnée
 de l'avis. 
 
@@ -711,9 +702,10 @@ montant de l'amende forfaitaire majorée dans les cas prévus par le second alin
 l'article 529-5. 
 
 Dans les cas prévus par l'article 529-10, en cas de classement sans suite ou de relaxe, s'il a été procédé à la consignation
-prévue par cet article, le montant de la consignation est reversé, à sa demande, à la personne à qui avait été adressé l'avis
-de paiement de l'amende forfaitaire ou ayant fait l'objet de poursuites. En cas de condamnation, l'amende prononcée ne peut
-être inférieure au montant prévu à l'alinéa précédent augmenté d'une somme de 10 %. " 
+prévue par cet article, le montant de la consignation est reversé à la personne à qui avait été adressé l'avis de paiement de
+l'amende forfaitaire ou ayant fait l'objet des poursuites. Les modalités de ce remboursement sont définies par voie
+réglementaire. En cas de condamnation, l'amende prononcée ne peut être inférieure au montant prévu à l'alinéa précédent
+augmenté d'une somme de 10 %."
 
 " Art. 530-2-Les incidents contentieux relatifs à l'exécution du titre exécutoire et à la rectification des erreurs
 matérielles qu'il peut comporter sont déférés à la juridiction de proximité, qui statue conformément aux dispositions de
@@ -740,7 +732,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1787 du 20 décembre 2007 - art. 5
+  - Loi n°2009-526 du 12 mai 2009 - art. 3
 
 _Cite_:
 
@@ -1007,7 +999,7 @@ _Anciens textes_:
 Les règles relatives à la constatation des contraventions au présent code par les agents de police municipale sont fixées par
 l'article L. 2212-5 du code général des collectivités territoriales ci-après reproduit : 
 
-" Art.L. 2212-5.-Sans préjudice de la compétence générale de la police nationale et de la gendarmerie nationale, les agents
+" Art. L. 2212-5.-Sans préjudice de la compétence générale de la police nationale et de la gendarmerie nationale, les agents
 de police municipale exécutent, dans la limite de leurs attributions et sous son autorité, les tâches relevant de la
 compétence du maire que celui-ci leur confie en matière de prévention et de surveillance du bon ordre, de la tranquillité, de
 la sécurité et de la salubrité publiques. 
@@ -1023,7 +1015,7 @@ Ils peuvent également constater par rapport le délit prévu par l'article L. 1
 l'habitation. 
 
 Ils exercent leurs fonctions sur le territoire communal, dans les conditions prévues au 2° de l'article 21 du code de
-procédure pénale.
+procédure pénale. 
 
 A la demande des maires de plusieurs communes appartenant à un même établissement public de coopération intercommunale à
 fiscalité propre, celui-ci peut recruter, après délibération de deux tiers au moins des conseils municipaux des communes
@@ -1032,28 +1024,21 @@ municipaux des communes représentant les deux tiers de la population, un ou plu
 les mettre à disposition de l'ensemble de ces communes. Leur nomination en qualité de fonctionnaires stagiaires ne fait pas
 obstacle à leur mise à disposition. 
 
-Les agents de police municipale ainsi recrutés exercent les compétences mentionnées ci-dessus, sans préjudice des compétences
-de police judiciaire qui leur sont dévolues par le code de procédure pénale et par les lois pénales spéciales. Pendant
-l'exercice de leurs fonctions sur le territoire d'une commune, ils sont placés sous l'autorité du maire de cette commune ".
+Les agents de police municipale ainsi recrutés exercent, sur le territoire de chaque commune où ils sont affectés, les
+compétences mentionnées ci-dessus, sans préjudice des compétences de police judiciaire qui leur sont dévolues par le code de
+procédure pénale et par les lois pénales spéciales. Pendant l'exercice de leurs fonctions sur le territoire d'une commune,
+ils sont placés sous l'autorité du maire de cette commune. "
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 _Modifié par_:
 
-  - Loi n°2006-396 du 31 mars 2006 - art. 50 () JORF 2 avril 2006
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2212-5 (V)
+  - Loi n°2009-526 du 12 mai 2009 - art. 119 (V)
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 21 (M)
+  - Code de procédure pénale - art. 21 (V)
+  - Code de la construction et de l'habitation. - art. L126-3 (V)
 
 _Cité par_:
 
@@ -2011,64 +1996,58 @@ _Cite_:
 
 ###### Article L213-6
 
-I. - Le fait d'exploiter un établissement d'enseignement de la conduite des véhicules à moteur d'une catégorie donnée et de
-la sécurité routière ou de formation des candidats pour l'exercice de la profession d'enseignant sans avoir obtenu l'agrément
+I.-Le fait d'exploiter un établissement d'enseignement de la conduite des véhicules à moteur d'une catégorie donnée et de la
+sécurité routière ou de formation des candidats pour l'exercice de la profession d'enseignant sans avoir obtenu l'agrément
 prévu à l'article L. 213-1 ou en violation d'une mesure de suspension provisoire de celui-ci est puni d'un an
-d'emprisonnement et de 15 000 euros d'amende.
+d'emprisonnement et de 15 000 euros d'amende. 
 
 Est puni des mêmes peines le fait d'employer un enseignant qui n'est pas titulaire de l'autorisation prévue à l'article L.
-212-1.
+212-1. 
 
-II. - Les personnes physiques coupables de l'une des infractions prévues au I du présent article encourent également les
-peines complémentaires suivantes :
+II.-Les personnes physiques coupables de l'une des infractions prévues au I du présent article encourent également les peines
+complémentaires suivantes : 
 
 1° La fermeture définitive ou pour une durée de cinq ans au plus de l'un, de plusieurs ou de l'ensemble des établissements de
-l'entreprise appartenant à la personne condamnée ;
+l'entreprise appartenant à la personne condamnée ; 
 
 2° L'interdiction d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle
-l'infraction a été commise, suivant les modalités prévues par l'article 131-27 du code pénal ;
+l'infraction a été commise, suivant les modalités prévues par l'article 131-27 du code pénal ; 
 
-3° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal ;
+3° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal ; 
 
-4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
-III. - Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du
-code pénal, des infractions prévues au I du présent article.
+III.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal,
+des infractions définies au I du présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38
+du code pénal : 
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, selon les modalités prévues par l'article 131-38 du code pénal ;
+1° (Abrogé) ; 
 
 2° La fermeture définitive ou pour une durée de cinq ans au plus de l'un, de plusieurs ou de l'ensemble des établissements de
-l'entreprise appartenant à la personne morale condamnée ;
+l'entreprise appartenant à la personne morale condamnée ; 
 
 3° L'interdiction d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle
-l'infraction a été commise, suivant les modalités prévues par l'article 131-39 du code pénal ;
+l'infraction a été commise, suivant les modalités prévues par l'article 131-39 du code pénal ; 
 
-4° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal ;
+4° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal ; 
 
 5° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V) JORF 7 mars 2007 en vigueur au plus tard le 7 mars 2009
+  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 121-2 (V)
   - Code pénal - art. 131-27 (V)
-  - Code pénal - art. 131-35 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code de la route. - art. L212-1 (AbD)
-  - Code de la route. - art. L213-1 (AbD)
+  - Code pénal - art. 131-35 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39
+  - Code de la route. - art. L212-1
+  - Code de la route. - art. L213-1 (V)
 
 _Anciens textes_:
 
@@ -2078,11 +2057,6 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de la route. - art. R212-4 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L213-7
@@ -5958,30 +5932,22 @@ _Cite_:
 
 ###### Article L317-8
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies à l'article L. 317-5. Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées aux 4°, 5°, 6°, 8° et 9° de l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies à l'article L. 317-5 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
+code pénal, les peines prévues par les 4° à 6°, 8° et 9° de l'article 131-39 du même code.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-_Créé par_:
-
-  - Loi n°2003-495 du 12 juin 2003 - art. 18 () JORF 13 juin 2003
+  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code de la route. - art. L317-5 (M)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code de la route. - art. L317-5 (V)
 
 
 #### Chapitre 8 : Energie, émissions polluantes et nuisances.<a id=37></a>
@@ -6333,30 +6299,22 @@ _Cite_:
 
 ###### Article L321-4
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies à l'article L. 321-1 du présent code. Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées aux 4°, 5°, 6°, 8° et 9° de l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies à l'article L. 321-1 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
+code pénal, les peines prévues par les 4° à 6°, 8° et 9° de l'article 131-39 du même code.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-_Créé par_:
-
-  - Loi n°2006-10 du 5 janvier 2006 - art. 11 (V) JORF 6 janvier 2006
+  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code de la route. - art. L321-1 (M)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+  - Code de la route. - art. L321-1
 
 _Cité par_:
 
@@ -9119,29 +9077,21 @@ _Cite_:
 
 ###### Article L413-5
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies à l'article L. 413-2. Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées aux 4°, 5°, 6°, 8° et 9° de l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies à l'article L. 413-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
+code pénal, les peines prévues par les 4° à 6°, 8° et 9° de l'article 131-39 du même code.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-_Créé par_:
-
-  - Loi n°2003-495 du 12 juin 2003 - art. 18 () JORF 13 juin 2003
+  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
   - Code de la route. - art. L413-2 (V)
 
 
