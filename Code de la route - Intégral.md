@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-08-03
+Version Consolidée au 2009-10-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -24725,13 +24725,14 @@ affectations des agents qui la rédigent et précise la résidence de l'officier
 judiciaire adjoint, chef de la police municipale ou occupant ces fonctions, qualifié pour lever la mesure. 
 
 III.-Par dérogation aux dispositions du I ci-dessus, si la mesure a été motivée par le franchissement d'une barrière de
-dégel, l'autorité saisie est l'ingénieur des ponts et chaussées ou, s'il s'agit d'une voie communale, le maire.
+dégel, l'autorité saisie est l'    ingénieur des ponts, des eaux et des forêts  ou, s'il s'agit d'une voie communale, le
+maire.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 9
+  - Décret n°2009-1106 du 10 septembre 2009 - art. 37
 
 _Anciens textes_:
 
@@ -24793,10 +24794,10 @@ police municipale ou occupant ces fonctions, peut transformer l'immobilisation e
 chacun des exemplaires de la procédure de mise en fourrière qu'il adresse aux autorités mentionnées à l'article R. 325-10 un
 exemplaire ou une copie conforme de la fiche d'immobilisation ; 
 
-3° Par la décision de l'ingénieur des ponts et chaussées ou du maire supprimant les barrières de dégel, lorsque la mesure a
-été motivée par leur franchissement.L'ingénieur des ponts et chaussées ou le maire peut, avant la suppression des barrières
-de dégel, autoriser l'enlèvement du véhicule dans des conditions qu'il détermine. Il délivre alors au contrevenant une
-autorisation écrite valant justification à l'égard des services de police. 
+3° Par la décision de l'    ingénieur des ponts, des eaux et des forêts  ou du maire supprimant les barrières de dégel,
+lorsque la mesure a été motivée par leur franchissement.L'    ingénieur des ponts, des eaux et des forêts  ou le maire peut,
+avant la suppression des barrières de dégel, autoriser l'enlèvement du véhicule dans des conditions qu'il détermine. Il
+délivre alors au contrevenant une autorisation écrite valant justification à l'égard des services de police. 
 
 III.-Dans tous les cas, dès la cessation de l'infraction qui a motivé l'immobilisation, le véhicule peut circuler entre le
 lieu d'immobilisation et la résidence de l'autorité désignée pour lever la mesure, sous couvert du double de la fiche
@@ -24813,7 +24814,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 9
+  - Décret n°2009-1106 du 10 septembre 2009 - art. 37
 
 _Anciens textes_:
 
