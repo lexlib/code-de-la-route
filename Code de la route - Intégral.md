@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-12-10
+Version Consolidée au 2009-12-21
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -10449,30 +10449,29 @@ _Cite_:
 
 ###### Article R211-3
 
-Nul ne peut apprendre à conduire un véhicule à moteur, en vue de l'obtention du permis de conduire, sur une voie ouverte à la
-circulation publique s'il n'est détenteur d'un livret d'apprentissage établi dans les conditions fixées par arrêté du
-ministre chargé des transports.
+Pour apprendre à conduire un véhicule à moteur sur une voie ouverte à la circulation publique, en vue de l'obtention du
+permis de conduire, il faut : 
 
-L'âge minimum requis pour la détention d'un livret d'apprentissage est fixé à seize ans.
+1° Etre âgé de seize ans minimum ; 
 
-Le livret est délivré par le préfet du département du domicile du demandeur. Sa durée de validité est limitée à trois ans et
-peut être prorogée. Ses conditions de délivrance et de prorogation sont fixées par arrêté du ministre chargé des transports.
+2° Etre détenteur d'un livret d'apprentissage établi dans les conditions fixées par arrêté du ministre chargé des transports,
+et précisant les objectifs et la progressivité de la formation ; 
 
-Le préfet peut procéder au retrait du livret en cas d'infraction commise à l'occasion de la conduite d'un véhicule punie de
-la peine complémentaire de suspension du permis de conduire.
+3° Etre détenteur du formulaire de la demande de permis de conduire validée par le préfet du département dans lequel cette
+demande a été déposée, ou d'un récépissé du dépôt de la demande pour la catégorie B du permis de conduire délivré par le
+préfet pour une durée maximale de deux mois, dans les conditions fixées par arrêté du ministre chargé des transports ; 
 
-Il peut également procéder à ce retrait en cas de refus du détenteur du livret de se soumettre aux contrôles pédagogiques
-prévus au cours de l'apprentissage. Cette décision de retrait n'intervient qu'après que la personne intéressée a été mise à
-même de présenter des observations écrites et, le cas échéant, sur sa demande, des observations orales.
+4° Etre, durant l'apprentissage, sous la surveillance constante et directe d'un enseignant, titulaire de l'autorisation
+d'enseigner la conduite des véhicules à moteur mentionnée aux articles L. 212-1 et R. 212-1 correspondant à la catégorie du
+véhicule utilisé, ou d'un accompagnateur titulaire, depuis au moins cinq ans sans interruption, du permis de conduire
+correspondant à la catégorie du véhicule utilisée.L'accompagnateur doit avoir suivi, dans les conditions définies par arrêté
+du ministre chargé des transports, une formation spécifique le préparant à assurer cette fonction et à utiliser, dans de
+bonnes conditions, les dispositifs de double commande dont doit être équipé le véhicule conformément aux dispositions
+mentionnées à l'article R. 317-25. Toutefois, cette obligation de formation spécifique ne s'applique pas à l'accompagnateur
+exerçant cette fonction pendant les périodes dites d'apprentissage anticipé de la conduite, de conduite supervisée ou de
+conduite encadrée, mentionnées aux articles R. 211-5, R. 211-5-1 et R. 211-5-2 ; 
 
-L'élève conducteur doit être sous la surveillance constante et directe d'un accompagnateur. Cet accompagnateur doit avoir un
-âge minimal fixé par un arrêté du ministre chargé des transports et être titulaire soit de l'autorisation d'enseigner la
-conduite de véhicules à moteur soit du permis de conduire correspondant à la catégorie du véhicule utilisé, sous réserve,
-dans ce dernier cas, que le délai probatoire défini à l'article L. 223-1 soit expiré.
-
-Le fait pour tout élève conducteur de refuser de restituer son livret d'apprentissage malgré la notification qui lui aura été
-faite d'une décision prononçant le retrait de ce document est puni de l'amende prévue pour les contraventions de la cinquième
-classe.
+5° Utiliser, durant l'apprentissage, un véhicule conforme aux dispositions de l'article R. 317-25.
 
 **Liens relatifs à cet article**
 
@@ -10489,22 +10488,20 @@ _Cité par_:
   - Code de la route. - art. R233-1 (VD)
   - Code de la route. - art. R234-1 (V)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2006-1712 du 23 décembre 2006 - art. 2 () JORF 29 décembre 2006
+  - Décret n°2009-1590 du 18 décembre 2009 - art. 2
 
 _Anciens textes_:
 
   - Code de la route - art. R123-2 (Ab)
-  - Code de la route R123-2 (al. 1 à 3, 6 et 11)
 
 _Cite_:
 
-  - Code de la route. - art. L223-1 (M)
+  - Code de la route. - art. L211-1
+  - Code de la route. - art. R211-5
+  - Code de la route. - art. R212-1
+  - Code de la route. - art. R317-25
 
 
 ###### Article R211-4
@@ -10532,31 +10529,31 @@ _Anciens textes_:
 
 ###### Article R211-5
 
-I. - L'apprentissage anticipé de la conduite est un apprentissage particulier dispensé en vue de l'obtention de la catégorie
-B du permis de conduire. Cet apprentissage ne peut être effectué après annulation ou invalidation du permis de conduire de
-cette catégorie.
+I.-L'apprentissage dit anticipé de la conduite est un apprentissage particulier dispensé en vue de l'obtention de la
+catégorie B du permis de conduire. Cet apprentissage ne peut être effectué après annulation ou invalidation du permis de
+conduire. 
 
-II. - Il comprend deux périodes :
+II.-Il comprend deux périodes : 
 
-1° Une période de formation initiale dans une association ou un établissement agréé au titre de l'article L. 213-1 ou L.
-213-7 ;
+1° Une période de formation initiale dans un établissement ou une association agréés au titre de l'article L. 213-1 ou L.
+213-7. 
 
-2° Une période de conduite accompagnée, au cours de laquelle l'élève conducteur est astreint à parcourir une distance
-minimale et est soumis à deux contrôles pédagogiques au moins. Le livret d'apprentissage précise le contenu et la
-progressivité de la formation.
+Cette formation initiale est validée si l'élève conducteur a réussi l'épreuve théorique générale de l'examen du permis de
+conduire ou détient une catégorie du permis de conduire obtenue depuis cinq ans au plus, et s'il réussit l'évaluation
+réalisée par l'enseignant de la conduite à la fin de cette période ; 
 
-III. - Pendant la période de conduite accompagnée, l'élève conducteur doit être sous la surveillance constante et directe
-d'un accompagnateur. Cet accompagnateur doit avoir un âge minimal fixé par un arrêté du ministre chargé des transports et
-être titulaire de la catégorie B du permis de conduire sous réserve que le délai probatoire défini à l'article L. 223-1 soit
-expiré ;
+2° Une période d'apprentissage en conduite accompagnée sous la surveillance constante et directe d'un accompagnateur
+titulaire depuis au moins cinq ans sans interruption du permis de conduire de la catégorie B. 
 
-IV. - Un arrêté du ministre chargé des transports fixe les conditions d'application du présent article.
+Cette période commence par un rendez-vous pédagogique préalable entre l'enseignant de la conduite, l'accompagnateur et
+l'élève conducteur. Deux autres rendez-vous pédagogiques doivent avoir lieu au cours de cette période, pendant laquelle
+l'élève conducteur doit parcourir une distance minimale pendant une durée minimale, précisées par arrêté du ministre chargé
+des transports. 
+
+III.-Les conditions dans lesquelles les établissements d'enseignement de la conduite peuvent proposer et encadrer un
+apprentissage anticipé de la conduite sont fixées par arrêté du ministre chargé des transports.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 _Cité par_:
 
@@ -10569,35 +10566,115 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1712 du 23 décembre 2006 - art. 3 () JORF 29 décembre 2006
+  - Décret n°2009-1590 du 18 décembre 2009 - art. 3
 
 _Anciens textes_:
 
   - Code de la route - art. R123-3 (Ab)
-  - Code de la route R123-3 (al. 1 à 6)
 
 _Cite_:
 
-  - Code de la route. - art. L213-1 (AbD)
-  - Code de la route. - art. L213-7 (AbD)
-  - Code de la route. - art. L223-1 (M)
+  - Code de la route. - art. L213-7
+  - Code de la route. - art. R213-1
+
+
+###### Article R211-5-1
+
+Tout élève conducteur, inscrit dans un établissement ou une association agréés au titre de l'article L. 213-1 ou L. 213-7
+pour suivre une formation à la conduite des véhicules de la catégorie B, peut, après la validation de la formation initiale,
+accéder à une période d'apprentissage en conduite dite supervisée par un accompagnateur titulaire depuis au moins cinq ans
+sans interruption du permis de conduire de la catégorie B. 
+
+La formation initiale est validée si l'élève conducteur a réussi l'épreuve théorique générale de l'examen du permis de
+conduire ou est titulaire d'une catégorie du permis de conduire obtenue depuis cinq ans au plus, et s'il a réussi
+l'évaluation réalisée par l'enseignant de la conduite à la fin de cette période. 
+
+La période d'apprentissage en conduite supervisée est accessible à partir de l'âge de dix-huit ans. Elle commence par un
+rendez-vous pédagogique préalable entre l'enseignant de la conduite, l'accompagnateur et l'élève conducteur. 
+
+Au cours de cette période, l'élève doit participer à au moins un autre rendez-vous pédagogique et parcourir une distance
+minimale pendant une durée minimale, précisées par arrêté du ministre chargé des transports. 
+
+Les conditions dans lesquelles les établissements d'enseignement de la conduite peuvent proposer et encadrer une phase de
+conduite supervisée sont fixées par arrêté du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1590 du 18 décembre 2009 - art. 4
+
+_Cité par_:
+
+  - Décret n°2016-891 du 30 juin 2016 - art. 3
+  - Code de la route. - art. R211-3 (M)
+  - Code de la route. - art. R317-25 (V)
+
+_Cite_:
+
+  - Code de la route. - art. L213-1 (V)
+
+
+###### Article R211-5-2
+
+Les personnes suivant une formation professionnelle en vue de l'obtention d'un diplôme de l'éducation nationale permettant la
+délivrance du permis de conduire peuvent pratiquer la conduite dite encadrée, sur un véhicule de la catégorie B, avec un
+accompagnateur titulaire depuis au moins cinq ans sans interruption du permis de conduire de cette catégorie. 
+
+La période de conduite encadrée est accessible à partir de l'âge de seize ans aux élèves ayant validé les compétences
+théoriques et pratiques préalables à l'obtention du permis de conduire de la catégorie B dans le cadre de la préparation d'un
+diplôme de l'éducation nationale, et ayant participé à un rendez-vous pédagogique préalable avec l'enseignant chargé de
+l'enseignement de la conduite dans le cadre de la formation professionnelle et avec l'accompagnateur. Au moins un autre
+rendez-vous pédagogique doit avoir lieu au cours de cette période. 
+
+Un arrêté conjoint du ministre chargé des transports et du ministre chargé de l'éducation nationale fixe les conditions
+d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1590 du 18 décembre 2009 - art. 4
+
+_Cité par_:
+
+  - Arrêté du 30 septembre 2010 (V)
+  - Arrêté du 30 septembre 2010 - art. 3 (V)
+  - Code de la route. - art. R317-25 (V)
+
+
+###### Article R211-5-3
+
+Lorsqu'une interdiction temporaire de délivrance du permis de conduire est prononcée par le préfet ou l'autorité judiciaire
+en application du présent code, la validité du formulaire de demande du permis de conduire ou du récépissé est suspendue
+jusqu'à l'expiration de cette interdiction. 
+
+Le préfet notifie à l'élève conducteur cette interdiction et l'obligation de restituer à la préfecture, dans un délai de dix
+jours francs à compter de la notification, son formulaire de demande de permis validée ou son récépissé. 
+
+L'élève conducteur qui ne défère pas à cette obligation est passible de l'amende prévue pour les contraventions de la
+cinquième classe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1590 du 18 décembre 2009 - art. 4
 
 
 ###### Article R211-6
 
-Les leçons de conduite des véhicules à moteur sont interdites sur les autoroutes, sauf dans les cas et selon les modalités
-précisées par arrêté conjoint du ministre chargé des transports et du ministre de l'intérieur.
+Les leçons de conduite des véhicules à moteur sont autorisées sur les autoroutes, dans les conditions fixées par arrêté
+conjoint du ministre chargé des transports et du ministre chargé de l'intérieur. 
 
-Cette interdiction n'est pas applicable à la période de conduite accompagnée.
-
-Le fait, pour toute personne enseignant la conduite des véhicules à moteur, de contrevenir aux dispositions du présent
-article est puni de l'amende prévue pour les contraventions de la deuxième classe.
+Le fait, pour toute personne enseignant la conduite des véhicules à moteur, de contrevenir aux dispositions fixées par
+l'arrêté susmentionné est puni de l'amende prévue pour les contraventions de la deuxième classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-1590 du 18 décembre 2009 - art. 5
 
 _Anciens textes_:
 
@@ -10605,7 +10682,6 @@ _Anciens textes_:
   - Code de la route - art. R123-3 (Ab)
   - Code de la route - art. R233 (Ab)
   - Code de la route - art. R43-5 (Ab)
-  - Code de la route R43-5 (al. 2), R123-2 (al. 5), R123-3 (al. 6), R233 (al. 1 et 2)
 
 
 #### Chapitre II : Enseignement à titre onéreux.<a id=81></a>
@@ -11216,7 +11292,7 @@ _Cite_:
 ###### Article R213-3
 
 Le contrat passé entre le candidat et l'établissement, mentionné à chacun des alinéas de l'article L. 213-2, doit préciser
-les mentions ci-dessous.
+les mentions ci-dessous. 
 
 1° S'agissant des parties contractantes :
 
@@ -11224,29 +11300,30 @@ les mentions ci-dessous.
 numéro et la date de l'agrément, la mention de la compagnie et du numéro de la police d'assurance prévue par l'article L.
 211-1 du code des assurances ;
 
-- le nom et l'adresse du candidat ;
+- le nom et l'adresse du candidat et, s'il est mineur, de son représentant légal ; 
 
-2° L'objet du contrat ;
+2° L'objet du contrat ; 
 
 3° L'évaluation du niveau du candidat avant l'entrée en formation, notamment le nombre prévisionnel d'heures de formation,
-lorsque cette évaluation est obligatoire ;
+lorsque cette évaluation est obligatoire ; 
 
-4° Le programme et le déroulement de la formation ;
+4° Le programme et le déroulement de la formation ; 
 
-5° Les moyens pédagogiques et techniques mis en oeuvre pour la formation et l'évaluation du candidat ;
+5° Les moyens pédagogiques et techniques mis en oeuvre pour la formation et l'évaluation du candidat ; 
 
 6° Les démarches administratives et formalités nécessaires faites éventuellement par l'établissement en nom et place du
-candidat ;
+candidat ; 
 
 7° Les obligations des parties : engagement de l'établissement à dispenser la formation et à présenter le candidat aux
 épreuves en fournissant les moyens nécessaires, engagement du candidat à respecter les prescriptions pédagogiques et le
-calendrier de la formation et de l'examen ;
+calendrier de la formation et de l'examen ; 
 
-8° Les conditions de résiliation ou de rupture du contrat et les modalités financières qui s'y attachent ;
+8° Les conditions de résiliation ou de rupture du contrat et les modalités financières qui s'y attachent ; 
 
-9° Le tarif des prestations de formation quelle qu'en soit la forme et le tarif des éventuelles prestations administratives ;
+9° Le tarif des prestations de formation quelle qu'en soit la forme et le tarif des éventuelles prestations
+administratives ; 
 
-10° Les modalités de paiement qui doivent préciser l'échelonnement des paiements ;
+10° Les modalités de paiement qui doivent préciser l'échelonnement des paiements ; 
 
 11° L'existence ou l'absence de souscription par l'établissement à un dispositif de garantie financière permettant le
 remboursement au candidat des sommes trop perçues en cas de défaillance de l'établissement. En cas de souscription, le nom du
@@ -11267,19 +11344,18 @@ _Cité par_:
   - Arrêté du 28 mars 2017 - art. 6
   - Code de la route. - art. R213-3-2 (M)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-1590 du 18 décembre 2009 - art. 6
 
 _Cite_:
 
-  - Code des assurances - art. L211-1 (M)
-  - Code de la route. - art. L213-2 (AbD)
+  - Code des assurances - art. L211-1 (V)
+  - Code de la route. - art. L213-2 (V)
 
 _Anciens textes_:
 
   - Code de la route - art. R245-2 (Ab)
-  - Code de la route. - art. R245-2 (V)
 
 
 ###### Article R213-4
@@ -11988,25 +12064,19 @@ conduite que des véhicules d'un poids total autorisé n'excédant pas 7,5 tonne
 certificat, prévu par arrêté interministériel, constatant l'achèvement d'une formation de conducteur de transport de
 marchandises par route.
 
-La catégorie D du permis de conduire n'autorise la conduite des véhicules de transport en commun, sur des trajets dépassant
-un rayon de 50 kilomètres autour du point d'attache habituel du véhicule, que sous certaines conditions relatives à
-l'expérience de conduite ou à la formation du conducteur. Ces conditions sont fixées par arrêtés du ministre chargé des
-transports.
+La catégorie D du permis de conduire n'autorise la conduite des véhicules de transport en commun effectuant des services
+réguliers nationaux de voyageurs dont le parcours de ligne ne dépasse pas 50 kilomètres que sous certaines conditions
+relatives à l'âge et à la formation du conducteur. Ces conditions sont fixées par arrêtés du ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-1590 du 18 décembre 2009 - art. 7
 
 _Anciens textes_:
 
   - Code de la route - art. R124-2 (Ab)
-  - Code de la route R124-2
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
 
 _Cité par_:
 
@@ -19878,27 +19948,21 @@ ou de plusieurs miroirs rétroviseurs de dimensions suffisantes, disposés de fa
 son siège la route vers l'arrière du véhicule quel que soit le chargement normal de celui-ci et dont le champ de visibilité
 ne comporte pas d'angle mort notable susceptible de masquer un véhicule s'apprêtant à dépasser.
 
-Tout véhicule utilisé pour l'apprentissage de la conduite des véhicules à moteur, à l'exception des motocyclettes, doit être
-muni de deux rétroviseurs intérieurs et deux rétroviseurs latéraux réglés pour l'élève conducteur et l'accompagnateur.
-
-Pour l'apprentissage anticipé de la conduite, les véhicules utilisés pendant la période de conduite accompagnée ne sont pas
-soumis à l'obligation d'être munis de deux rétroviseurs intérieurs.
-
 Le ministre chargé des transports fixe les conditions d'application du présent article.
 
-Le fait de contrevenir aux dispositions des deux premiers alinéas ou à celles prises pour leur application est puni de
-l'amende prévue pour les contraventions de la troisième classe.
+Le fait de contrevenir aux dispositions du présent article  ou à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la troisième classe.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 _Cité par_:
 
   - Arrêté du 15 juin 2006 - art. 4 (Ab)
   - Arrêté du 14 mars 2012 - art. 3 (V)
+
+_Modifié par_:
+
+  - Décret n°2009-1590 du 18 décembre 2009 - art. 8
 
 _Anciens textes_:
 
@@ -19909,11 +19973,6 @@ _Anciens textes_:
   - Code de la route - art. R188-2 (Ab)
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R76 (Ab)
-  - Code de la route R76, R123-2 (al. 8 et 10), R123-3 (al. 5), R148 (al. 2 et 3), R173 (al. 1 et 3), R188-2, R239
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R316-9 (V)
 
 
 ###### Article R316-7
@@ -20901,11 +20960,37 @@ _Anciens textes_:
 
 ###### Article R317-25
 
-Tout véhicule utilisé pour l'apprentissage de la conduite des véhicules à moteur, à l'exception des motocyclettes, doit être
-équipé d'un dispositif de double commande de frein et de débrayage.
+Tout véhicule utilisé pour l'apprentissage de la conduite des véhicules à moteur, à l'exception des cyclomoteurs, des
+tricycles et quadricycles à moteur et des motocyclettes, doit être muni :
 
-Pour l'apprentissage anticipé de la conduite, les véhicules utilisés pendant la période de conduite accompagnée ne sont pas
-soumis à l'obligation fixée à l'alinéa précédent.
+- à l'usage de l'élève, d'un rétroviseur intérieur, d'un rétroviseur latéral extérieur gauche et d'un rétroviseur latéral
+extérieur droit ;
+
+- à l'usage de l'enseignant de la conduite ou de l'accompagnateur, d'un rétroviseur intérieur et d'un rétroviseur ou
+dispositif de rétrovision équivalent latéral extérieur droit ;
+
+- à l'usage de l'enseignant ou de l'accompagnateur, de dispositifs de double commande dont la liste est définie par arrêté du
+ministre chargé des transports. 
+
+Les véhicules non munis réglementairement d'un rétroviseur intérieur destiné au conducteur ne sont pas soumis à l'obligation
+de rétroviseur intérieur complémentaire. 
+
+En outre, tout véhicule utilisé pour l'apprentissage de la conduite des véhicules à moteur, autre que les cyclomoteurs, les
+tricycles à moteur et les motocyclettes, doit être muni d'un panneau placé sur le toit du véhicule ou d'inscriptions visibles
+de l'avant et de l'arrière signalant aux usagers qu'il s'agit d'un véhicule d'apprentissage. 
+
+Pour l'apprentissage de la conduite des cyclomoteurs, des tricycles à moteur et des motocyclettes, les inscriptions signalant
+la situation d'apprentissage doivent figurer sur un gilet de haute visibilité, conforme aux dispositions du code du travail
+relatives aux équipements de protection individuelle, porté par l'élève conducteur et par l'enseignant ou l'accompagnateur
+lorsque celui-ci est assis à l'arrière du véhicule. Lorsque l'enseignant ou l'accompagnateur est à bord d'un véhicule suiveur
+à quatre roues à moteur, celui-ci doit être muni d'un panneau de toit.L'enseignant ou l'accompagnateur, à bord d'un véhicule
+suiveur à deux ou trois roues à moteur, doit être équipé d'un gilet de haute visibilité comportant les inscriptions signalant
+la situation d'apprentissage. 
+
+Les véhicules utilisés pendant les périodes d'apprentissage anticipé, de conduite supervisée ou de conduite encadrée,
+mentionnées aux articles R. 211-5, R. 211-5-1 et R. 211-5-2 ne sont pas soumis aux obligations définies au présent article. 
+
+Un arrêté du ministre chargé des transports fixe les conditions d'application du présent article. 
 
 Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
 troisième classe.
@@ -20920,20 +21005,21 @@ _Cité par_:
   - Arrêté du 8 novembre 2012 - art. 4 (VD)
   - Code de la route. - art. R211-3 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-1590 du 18 décembre 2009 - art. 9
 
 _Anciens textes_:
 
   - Code de la route - art. R123-2 (Ab)
   - Code de la route - art. R123-3 (Ab)
   - Code de la route - art. R239 (Ab)
-  - Code de la route R123-2 (al. 8 et 9), R123-3 (al. 5), R239
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R317-27 (V)
+  - Code de la route. - art. R211-5
+  - Code de la route. - art. R211-5-1
+  - Code de la route. - art. R211-5-2
 
 
 ###### Article R317-26
