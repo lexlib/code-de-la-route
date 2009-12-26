@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-12-21
+Version Consolidée au 2009-12-27
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -160,11 +160,11 @@ Version Consolidée au 2009-12-21
         - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R341-1)](#157)
         - [Chapitre II : Dispositions applicables à Mayotte. (art. R342-1 à R342-5)](#158)
         - [Chapitre III : Dispositions applicables à la Polynésie française (art. R343-1 à R343-4)](#159)
-          - [Section 1 : Dispositions générales. (art. R343-1)](#160)
+          - [Section 1 : Dispositions générales. (art. R343-1 à R343-1-1)](#160)
           - [Section 2 : Immobilisation. (art. R343-2 à R343-3)](#161)
           - [Section 3 : Fourrière. (art. R343-4)](#162)
         - [Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie (art. R344-1 à R344-4)](#163)
-          - [Section 1 : Dispositions générales. (art. R344-1)](#164)
+          - [Section 1 : Dispositions générales. (art. R344-1 à R344-1-1)](#164)
           - [Section 2 : Immobilisation. (art. R344-2 à R344-3)](#165)
           - [Section 3 : Fourrière. (art. R344-4)](#166)
     - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#167)
@@ -27514,6 +27514,50 @@ _Cite_:
   - Code de la route. - art. R325-1-1 (V)
 
 
+###### Article R343-1-1
+
+Les articles R. 317-2, R. 317-3 et R. 317-4 sont applicables à la Polynésie française dans la rédaction suivante : 
+
+" Art. R. 317-2.-Dans les cas où la réglementation en vigueur en Polynésie française prévoit que des véhicules doivent être
+équipés d'un appareil de contrôle permettant l'enregistrement de la vitesse du véhicule, l'Etat définit les exigences
+réglementaires applicables à cet appareil ainsi que les conditions de son installation, de sa réparation et de sa
+vérification. 
+
+Le conducteur d'un véhicule équipé d'un appareil de contrôle permettant l'enregistrement de la vitesse du véhicule est tenu
+de présenter ou de remettre, à toutes réquisitions des agents ayant qualité pour constater les délits ou les contraventions
+en matière de circulation routière, les feuilles d'enregistrement de l'appareil de contrôle. Ces feuilles doivent être
+conservées pendant un an au moins et tenues à la disposition des agents de constatation. " 
+
+" Art. R. 317-3.-L'appareil de contrôle doit être constamment maintenu en bon état de fonctionnement. 
+
+Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
+quatrième classe. " 
+
+" Art. R. 317-4.-L'immobilisation des véhicules devant être équipés d'un appareil de contrôle permettant l'enregistrement de
+la vitesse peut être prescrite dans les conditions prévues à l'article L. 343-1 : 
+
+1° Lorsque le conducteur est en infraction aux règles relatives aux conditions de travail dans les transports routiers,
+publics ou privés, en vigueur en Polynésie française ; 
+
+2° Lorsque le conducteur ne peut présenter les documents dûment renseignés concernant les conditions de travail dans les
+transports routiers, publics et privés, en vigueur en Polynésie française ; 
+
+3° En l'absence d'appareil de contrôle permettant l'enregistrement de la vitesse ou lorsque celui-ci a fait l'objet d'une
+modification ou d'une détérioration affectant son fonctionnement normal. "
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1644 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. L343-1 (V)
+  - Code de la route. - art. R317-2 (V)
+  - Code de la route. - art. R317-4 (V)
+
+
 ##### Section 2 : Immobilisation.<a id=161></a>
 
 ###### Article R343-2
@@ -28150,6 +28194,51 @@ _Cite_:
   - Code de la route. - art. L325-1-1 (V)
   - Code de la route. - art. R325-1 (V)
   - Code de la route. - art. R325-1-1 (V)
+
+
+###### Article R344-1-1
+
+Les articles R. 317-2, R. 317-3 et R. 317-4 sont applicables en Nouvelle-Calédonie dans la rédaction suivante : 
+
+" Art. R. 317-2.-Dans les cas où la réglementation en vigueur en Nouvelle-Calédonie prévoit que des véhicules doivent être
+équipés d'un appareil de contrôle permettant l'enregistrement de la vitesse du véhicule, l'Etat définit les exigences
+réglementaires applicables à cet appareil ainsi que les conditions de son installation, de sa réparation et de sa
+vérification. 
+
+Le conducteur d'un véhicule équipé d'un appareil de contrôle permettant l'enregistrement de la vitesse du véhicule est tenu
+de présenter ou de remettre, à toutes réquisitions des agents ayant qualité pour constater les délits ou les contraventions
+en matière de circulation routière, les feuilles d'enregistrement de l'appareil de contrôle. Ces feuilles doivent être
+conservées pendant un an au moins et tenues à la disposition des agents de constatation. " 
+
+" Art. R. 317-3.-L'appareil de contrôle doit être constamment maintenu en bon état de fonctionnement. 
+
+Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
+quatrième classe. " 
+
+" Art. R. 317-4.-L'immobilisation des véhicules devant être équipés d'un appareil de contrôle permettant l'enregistrement de
+la vitesse peut être prescrite dans les conditions prévues à l'article L. 344-1 : 
+
+1° Lorsque le conducteur est en infraction aux règles relatives aux conditions de travail dans les transports routiers,
+publics ou privés, en vigueur en Nouvelle-Calédonie ; 
+
+2° Lorsque le conducteur ne peut présenter les documents dûment renseignés concernant les conditions de travail dans les
+transports routiers, publics et privés, en vigueur en Nouvelle-Calédonie ; 
+
+3° En l'absence d'appareil de contrôle permettant l'enregistrement de la vitesse ou lorsque celui-ci a fait l'objet d'une
+modification ou d'une détérioration affectant son fonctionnement normal. "
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1644 du 23 décembre 2009 - art. 2
+
+_Cite_:
+
+  - Code de la route. - art. L344-1 (V)
+  - Code de la route. - art. R317-2 (V)
+  - Code de la route. - art. R317-3 (V)
+  - Code de la route. - art. R317-4 (V)
 
 
 ##### Section 2 : Immobilisation.<a id=165></a>
