@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-12-27
+Version Consolidée au 2010-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -81,145 +81,150 @@ Version Consolidée au 2009-12-27
         - [Chapitre Ier : Formation à la conduite et à la sécurité routière (art. R211-1 à R211-6)](#78)
           - [Section 1 : Attestations et brevet de sécurité routière. (art. R211-1 à R211-2)](#79)
           - [Section 2 : Apprentissage de la conduite. (art. R211-3 à R211-6)](#80)
-        - [Chapitre II : Enseignement à titre onéreux. (art. R212-1 à R212-6)](#81)
-        - [Chapitre III : Etablissements d'enseignement (art. R213-1 à R213-9)](#82)
-          - [Section 1 : Etablissements d'enseignement à titre onéreux. (art. R213-1 à R213-6)](#83)
-          - [Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle. (art. R213-7 à R213-9)](#84)
-        - [Chapitre IV  : Conseil supérieur de l'éducation routière (CSER) (art. D214-1 à D214-5)](#85)
-      - [Titre II : Permis de conduire. (art. D221-3-1 à R225-6)](#86)
-        - [Chapitre Ier : Délivrance et catégories. (art. D221-3-1 à R221-21)](#87)
-        - [Chapitre II : Reconnaissance et équivalences. (art. R222-1 à R222-8)](#88)
-        - [Chapitre III : Permis à points. (art. R223-1 à R223-13)](#89)
-          - [Section 1 : Principes généraux. (art. R223-1 à R223-4)](#90)
-          - [Section 2 : Des stages. (art. R223-5 à R223-13)](#91)
-        - [Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation (art. R224-1 à R224-24)](#92)
-          - [Section 1 : Rétention et suspension administratives après constatation d'une infraction. (art. R224-1 à R224-19)](#93)
-          - [Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation. (art. R224-20 à R224-24)](#94)
-        - [Chapitre V : Enregistrement et communication des informations relatives au permis de conduire. (art. R225-1 à R225-6)](#95)
-      - [Titre III : Comportement du conducteur. (art. R231-1 à R235-13)](#96)
-        - [Chapitre Ier : Comportement en cas d'accident. (art. R231-1)](#97)
-        - [Chapitre III : Comportement en cas de contrôle routier. (art. R233-1 à R233-3)](#98)
-        - [Chapitre IV : Conduite sous l'influence de l'alcool. (art. R234-1 à R234-4)](#99)
-        - [Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants (art. R235-1 à R235-13)](#100)
-          - [Section 1 : Dispositions générales (art. R235-1 à R235-2)](#101)
-          - [Section 2 : Epreuves de dépistage (art. R235-3 à R235-4)](#102)
-          - [Section 3 : Analyses et examens médicaux, cliniques et biologiques (art. R235-5 à R235-11)](#103)
-          - [Section 4 : Dispositions matérielles (art. R235-12 à R235-13)](#104)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R241-1 à R245-2)](#105)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R241-1 à R241-2)](#106)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R242-1 à R242-7)](#107)
-        - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie. (art. R243-1 à R243-2)](#108)
-        - [Chapitre IV : Dispositions applicables à la Polynésie française. (art. R244-1 à R244-2)](#109)
-        - [Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. R245-1 à R245-2)](#110)
-    - [Livre III : Le véhicule. (art. R311-1 à R344-4)](#111)
-      - [Titre Ier : Dispositions techniques. (art. R311-1 à R318-10)](#112)
-        - [Chapitre Ier : Dispositions générales et définitions. (art. R311-1 à R311-3)](#113)
-        - [Chapitre II : Poids et dimensions (art. R312-1 à R312-25)](#114)
-          - [Section 1 : Poids. (art. R312-1 à R312-9)](#115)
-          - [Section 2 : Dimensions des véhicules. (art. R312-10 à R312-18)](#116)
-          - [Section 3 : Dimensions et conditions du chargement. (art. R312-19 à R312-25)](#117)
-        - [Chapitre III : Eclairage et signalisations (art. R313-1 à R313-35)](#118)
-          - [Section 1 : Eclairage et signalisation des véhicules. (art. R313-1 à R313-32)](#119)
-          - [Section 2 : Signaux d'avertissement. (art. R313-33 à R313-35)](#120)
-        - [Chapitre IV : Pneumatiques. (art. R314-1 à R314-7)](#121)
-        - [Chapitre V : Freinage. (art. R315-1 à R315-6)](#122)
-        - [Chapitre VI : Organes de manoeuvre, de direction et de visibilité. (art. R316-1 à R316-10)](#123)
-        - [Chapitre VII : Dispositifs et aménagements particuliers (art. R317-1 à R317-28)](#124)
-          - [Section 1 : Appareils de contrôle et de limitation de la vitesse. (art. R317-1 à R317-7)](#125)
-          - [Section 2 : Plaques et inscriptions. (art. R317-8 à R317-14)](#126)
-          - [Section 3 : Dispositif antivol. (art. R317-15 à R317-17)](#127)
-          - [Section 4 : Attelage des remorques. (art. R317-18 à R317-20)](#128)
-          - [Section 5 : Remorquage des véhicules en panne ou accidentés. (art. R317-21 à R317-22)](#129)
-          - [Section 6 : Autres aménagements. (art. R317-23 à R317-28)](#130)
-        - [Chapitre VIII : Energie, émissions polluantes et nuisances. (art. R318-1 à R318-10)](#131)
-      - [Titre II : Dispositions administratives. (art. D321-5-1 à R327-6)](#132)
-        - [Chapitre Ier : Réception et homologation (art. D321-5-1 à R321-25)](#133)
-          - [Section 1 : Dispositions générales. (art. D321-5-1 à R321-5-3)](#134)
-          - [Section 2 : Réception communautaire ou réception CE. (art. R321-6 à R321-14-1)](#135)
-          - [Section 3 : Réception nationale par type ou à titre isolé et homologation. (art. R321-15 à R321-25)](#136)
-        - [Chapitre II : Immatriculation (art. R322-1 à R322-18)](#137)
-          - [Section 1 : Délivrance du certificat d'immatriculation. (art. R322-1 à R322-14)](#138)
-          - [Section 2 : Opposition au transfert du certificat d'immatriculation. (art. R322-15 à R322-18)](#139)
-        - [Chapitre III : Contrôle technique (art. R323-1 à R323-26)](#140)
-          - [Section 1 : Dispositions générales. (art. R323-1 à R323-5)](#141)
-          - [Section 2 : Agrément des contrôleurs, des installations et des réseaux (art. R323-6 à R323-21)](#142)
-          - [Section 3 : Dispositions applicables aux voitures particulières et aux camionnettes. (art. R323-22)](#143)
-          - [Section 4 : Dispositions applicables aux autres véhicules. (art. R323-23 à R323-26)](#144)
-        - [Chapitre V : Immobilisation et mise en fourrière (art. R325-1 à R325-52)](#145)
-          - [Section 1 : Dispositions générales. (art. R325-1 à R325-1-1)](#146)
-          - [Section 2 : Immobilisation. (art. R325-2 à R325-11)](#147)
-          - [Section 3 : Fourrière (art. R325-12 à R325-52)](#148)
-            - [Sous-section 1 : Dispositions générales. (art. R325-12 à R325-46)](#149)
-            - [Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique. (art. R325-47 à R325-52)](#150)
-        - [Chapitre VI : Organisation de la profession d'expert en automobile (art. R326-1 à R326-18)](#151)
-          - [Section 1 : Règles générales. (art. R326-1 à R326-4)](#152)
-          - [Section 2 : Organisation et fonctionnement de la Commission nationale des experts en automobile. (art. R326-5 à R326-18)](#153)
-        - [Chapitre VII : Véhicules endommagés (art. R327-1 à R327-6)](#154)
-      - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-5)](#155)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R344-4)](#156)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R341-1)](#157)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R342-1 à R342-5)](#158)
-        - [Chapitre III : Dispositions applicables à la Polynésie française (art. R343-1 à R343-4)](#159)
-          - [Section 1 : Dispositions générales. (art. R343-1 à R343-1-1)](#160)
-          - [Section 2 : Immobilisation. (art. R343-2 à R343-3)](#161)
-          - [Section 3 : Fourrière. (art. R343-4)](#162)
-        - [Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie (art. R344-1 à R344-4)](#163)
-          - [Section 1 : Dispositions générales. (art. R344-1 à R344-1-1)](#164)
-          - [Section 2 : Immobilisation. (art. R344-2 à R344-3)](#165)
-          - [Section 3 : Fourrière. (art. R344-4)](#166)
-    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#167)
-      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#168)
-        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#169)
-          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#170)
-          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#171)
-          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-18 à R411-24)](#172)
-          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#173)
-          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#174)
-        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#175)
-          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#176)
-          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#177)
-          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#178)
-          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28)](#179)
-          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#180)
-          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#181)
-          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#182)
-          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#183)
-        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#184)
-          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#185)
-          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#186)
-        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#187)
-          - [Section 1 : Croisement. (art. R414-1 à R414-3)](#188)
-          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#189)
-        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#190)
-        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#191)
-          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#192)
-          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#193)
-          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#194)
-        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#195)
-          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#196)
-          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#197)
-        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#198)
-      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-4)](#199)
-        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-9)](#200)
-        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-4)](#201)
-      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R436-1)](#202)
-        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#203)
-        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#204)
-          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#205)
-          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#206)
-          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#207)
-        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-16)](#208)
-          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#209)
-          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#210)
-          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#211)
-          - [Section 4 : Transports de bois ronds (art. R433-9 à R433-16)](#212)
-        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#213)
-        - [Chapitre V : Autres véhicules (art. R435-1 à R436-1)](#214)
-          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1)](#215)
-          - [Section 2 : Ensembles forains (art. R436-1)](#216)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#217)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#218)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#219)
+        - [Chapitre II : Enseignement à titre onéreux. (art.  à R211-6)](#81)
+        - [Chapitre II : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière. (art. R212-1 à R212-6)](#82)
+        - [Chapitre III : Etablissements d'enseignement (art.  à R213-9)](#83)
+          - [Section 1 : Etablissements d'enseignement à titre onéreux. (art.  à R212-6)](#84)
+          - [Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle. (art. R213-7 à R213-9)](#85)
+        - [Chapitre III : Etablissements d'enseignement et d'animation des stages de sensibilisation à la sécurité routière. (art. R213-1 à R213-6)](#86)
+          - [Section 1 : Etablissements d'enseignement à titre onéreux et d'animation des stages de sensibilisation à la sécurité routière. (art. R213-1 à R213-6)](#87)
+          - [Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle. (art.  à R213-6)](#88)
+        - [Chapitre IV  : Conseil supérieur de l'éducation routière (CSER) (art. D214-1 à D214-5)](#89)
+      - [Titre II : Permis de conduire. (art. D221-3-1 à R225-6)](#90)
+        - [Chapitre Ier : Délivrance et catégories. (art. D221-3-1 à R221-21)](#91)
+        - [Chapitre II : Reconnaissance et équivalences. (art. R222-1 à R222-8)](#92)
+        - [Chapitre III : Permis à points. (art. R223-1 à R223-13)](#93)
+          - [Section 1 : Principes généraux. (art. R223-1 à R223-4)](#94)
+          - [Section 2 : Des stages. (art.  à R223-4)](#95)
+          - [Section 2 : Des stages  de sensibilisation à la sécurité routière. (art. R223-5 à R223-13)](#96)
+        - [Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation (art. R224-1 à R224-24)](#97)
+          - [Section 1 : Rétention et suspension administratives après constatation d'une infraction. (art. R224-1 à R224-19)](#98)
+          - [Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation. (art. R224-20 à R224-24)](#99)
+        - [Chapitre V : Enregistrement et communication des informations relatives au permis de conduire. (art. R225-1 à R225-6)](#100)
+      - [Titre III : Comportement du conducteur. (art. R231-1 à R235-13)](#101)
+        - [Chapitre Ier : Comportement en cas d'accident. (art. R231-1)](#102)
+        - [Chapitre III : Comportement en cas de contrôle routier. (art. R233-1 à R233-3)](#103)
+        - [Chapitre IV : Conduite sous l'influence de l'alcool. (art. R234-1 à R234-4)](#104)
+        - [Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants (art. R235-1 à R235-13)](#105)
+          - [Section 1 : Dispositions générales (art. R235-1 à R235-2)](#106)
+          - [Section 2 : Epreuves de dépistage (art. R235-3 à R235-4)](#107)
+          - [Section 3 : Analyses et examens médicaux, cliniques et biologiques (art. R235-5 à R235-11)](#108)
+          - [Section 4 : Dispositions matérielles (art. R235-12 à R235-13)](#109)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R241-1 à R245-2)](#110)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R241-1 à R241-2)](#111)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R242-1 à R242-7)](#112)
+        - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie. (art. R243-1 à R243-2)](#113)
+        - [Chapitre IV : Dispositions applicables à la Polynésie française. (art. R244-1 à R244-2)](#114)
+        - [Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. R245-1 à R245-2)](#115)
+    - [Livre III : Le véhicule. (art. R311-1 à R344-4)](#116)
+      - [Titre Ier : Dispositions techniques. (art. R311-1 à R318-10)](#117)
+        - [Chapitre Ier : Dispositions générales et définitions. (art. R311-1 à R311-3)](#118)
+        - [Chapitre II : Poids et dimensions (art. R312-1 à R312-25)](#119)
+          - [Section 1 : Poids. (art. R312-1 à R312-9)](#120)
+          - [Section 2 : Dimensions des véhicules. (art. R312-10 à R312-18)](#121)
+          - [Section 3 : Dimensions et conditions du chargement. (art. R312-19 à R312-25)](#122)
+        - [Chapitre III : Eclairage et signalisations (art. R313-1 à R313-35)](#123)
+          - [Section 1 : Eclairage et signalisation des véhicules. (art. R313-1 à R313-32)](#124)
+          - [Section 2 : Signaux d'avertissement. (art. R313-33 à R313-35)](#125)
+        - [Chapitre IV : Pneumatiques. (art. R314-1 à R314-7)](#126)
+        - [Chapitre V : Freinage. (art. R315-1 à R315-6)](#127)
+        - [Chapitre VI : Organes de manoeuvre, de direction et de visibilité. (art. R316-1 à R316-10)](#128)
+        - [Chapitre VII : Dispositifs et aménagements particuliers (art. R317-1 à R317-28)](#129)
+          - [Section 1 : Appareils de contrôle et de limitation de la vitesse. (art. R317-1 à R317-7)](#130)
+          - [Section 2 : Plaques et inscriptions. (art. R317-8 à R317-14)](#131)
+          - [Section 3 : Dispositif antivol. (art. R317-15 à R317-17)](#132)
+          - [Section 4 : Attelage des remorques. (art. R317-18 à R317-20)](#133)
+          - [Section 5 : Remorquage des véhicules en panne ou accidentés. (art. R317-21 à R317-22)](#134)
+          - [Section 6 : Autres aménagements. (art. R317-23 à R317-28)](#135)
+        - [Chapitre VIII : Energie, émissions polluantes et nuisances. (art. R318-1 à R318-10)](#136)
+      - [Titre II : Dispositions administratives. (art. D321-5-1 à R327-6)](#137)
+        - [Chapitre Ier : Réception et homologation (art. D321-5-1 à R321-25)](#138)
+          - [Section 1 : Dispositions générales. (art. D321-5-1 à R321-5-3)](#139)
+          - [Section 2 : Réception communautaire ou réception CE. (art. R321-6 à R321-14-1)](#140)
+          - [Section 3 : Réception nationale par type ou à titre isolé et homologation. (art. R321-15 à R321-25)](#141)
+        - [Chapitre II : Immatriculation (art. R322-1 à R322-18)](#142)
+          - [Section 1 : Délivrance du certificat d'immatriculation. (art. R322-1 à R322-14)](#143)
+          - [Section 2 : Opposition au transfert du certificat d'immatriculation. (art. R322-15 à R322-18)](#144)
+        - [Chapitre III : Contrôle technique (art. R323-1 à R323-26)](#145)
+          - [Section 1 : Dispositions générales. (art. R323-1 à R323-5)](#146)
+          - [Section 2 : Agrément des contrôleurs, des installations et des réseaux (art. R323-6 à R323-21)](#147)
+          - [Section 3 : Dispositions applicables aux voitures particulières et aux camionnettes. (art. R323-22)](#148)
+          - [Section 4 : Dispositions applicables aux autres véhicules. (art. R323-23 à R323-26)](#149)
+        - [Chapitre V : Immobilisation et mise en fourrière (art. R325-1 à R325-52)](#150)
+          - [Section 1 : Dispositions générales. (art. R325-1 à R325-1-1)](#151)
+          - [Section 2 : Immobilisation. (art. R325-2 à R325-11)](#152)
+          - [Section 3 : Fourrière (art. R325-12 à R325-52)](#153)
+            - [Sous-section 1 : Dispositions générales. (art. R325-12 à R325-46)](#154)
+            - [Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique. (art. R325-47 à R325-52)](#155)
+        - [Chapitre VI : Organisation de la profession d'expert en automobile (art. R326-1 à R326-18)](#156)
+          - [Section 1 : Règles générales. (art. R326-1 à R326-4)](#157)
+          - [Section 2 : Organisation et fonctionnement de la Commission nationale des experts en automobile. (art. R326-5 à R326-18)](#158)
+        - [Chapitre VII : Véhicules endommagés (art. R327-1 à R327-6)](#159)
+      - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-5)](#160)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R344-4)](#161)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R341-1)](#162)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R342-1 à R342-5)](#163)
+        - [Chapitre III : Dispositions applicables à la Polynésie française (art. R343-1 à R343-4)](#164)
+          - [Section 1 : Dispositions générales. (art. R343-1 à R343-1-1)](#165)
+          - [Section 2 : Immobilisation. (art. R343-2 à R343-3)](#166)
+          - [Section 3 : Fourrière. (art. R343-4)](#167)
+        - [Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie (art. R344-1 à R344-4)](#168)
+          - [Section 1 : Dispositions générales. (art. R344-1 à R344-1-1)](#169)
+          - [Section 2 : Immobilisation. (art. R344-2 à R344-3)](#170)
+          - [Section 3 : Fourrière. (art. R344-4)](#171)
+    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#172)
+      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#173)
+        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#174)
+          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#175)
+          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#176)
+          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-18 à R411-24)](#177)
+          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#178)
+          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#179)
+        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#180)
+          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#181)
+          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#182)
+          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#183)
+          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28)](#184)
+          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#185)
+          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#186)
+          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#187)
+          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#188)
+        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#189)
+          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#190)
+          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#191)
+        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#192)
+          - [Section 1 : Croisement. (art. R414-1 à R414-3)](#193)
+          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#194)
+        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#195)
+        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#196)
+          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#197)
+          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#198)
+          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#199)
+        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#200)
+          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#201)
+          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#202)
+        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#203)
+      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-4)](#204)
+        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-9)](#205)
+        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-4)](#206)
+      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R436-1)](#207)
+        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#208)
+        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#209)
+          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#210)
+          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#211)
+          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#212)
+        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-16)](#213)
+          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#214)
+          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#215)
+          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#216)
+          - [Section 4 : Transports de bois ronds (art. R433-9 à R433-16)](#217)
+        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#218)
+        - [Chapitre V : Autres véhicules (art. R435-1 à R436-1)](#219)
+          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1)](#220)
+          - [Section 2 : Ensembles forains (art. R436-1)](#221)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#222)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#223)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#224)
 # Partie législative<a id=1></a>
 
 ## Livre 1er : Dispositions générales<a id=2></a>
@@ -10803,24 +10808,71 @@ _Anciens textes_:
 
 #### Chapitre II : Enseignement à titre onéreux.<a id=81></a>
 
+#### Chapitre II : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière.<a id=82></a>
+
 ###### Article R212-1
 
-L'autorisation d'enseigner la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière est délivrée,
-pour une durée de cinq ans, par le préfet du lieu de résidence du demandeur ou, pour un non-résident en France, par le préfet
-du département où il envisage d'exercer la profession d'enseignant, dans les conditions fixées par arrêté du ministre chargé
-des transports.
+I.-L'autorisation d'enseigner la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière ainsi que
+l'autorisation d'animer les stages de sensibilisation à la sécurité routière mentionnés aux articles L. 223-6 et R. 223-5
+sont délivrées, pour une durée de cinq ans, par le préfet du lieu de résidence du demandeur ou, pour un non-résident en
+France, par le préfet du département où il envisage d'exercer la profession d'enseignant ou d'animateur, dans les conditions
+fixées par arrêté du ministre chargé des transports. 
 
-Cette autorisation est valable sur l'ensemble du territoire national.
+Ces autorisations sont valables sur l'ensemble du territoire national. 
 
-Cette autorisation, ainsi que toutes les mesures affectant sa validité, sont inscrites dans un registre national qui est
+Ces autorisations, ainsi que toutes les mesures affectant sa validité, sont inscrites dans un registre national qui est
 élaboré et tenu à jour dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
-fichiers et aux libertés.
+fichiers et aux libertés. 
+
+II.-La déclaration mentionnée au II de l'article L. 212-1 est adressée au préfet du département dans lequel le prestataire
+envisage d'exercer l'activité d'enseignement de la conduite ou d'animation de stages de sensibilisation à la sécurité
+routière, ou les deux, pour la première fois sur le territoire national, accompagnée des documents suivants : 
+
+1° Une preuve de la nationalité du professionnel ; 
+
+2° Une attestation certifiant qu'il est légalement établi dans un autre Etat membre de la Communauté européenne ou dans un
+autre Etat partie à l'accord sur l'Espace économique européen pour y exercer, selon le cas, soit l'activité d'enseignement de
+la conduite, soit l'activité d'animation de stages de sensibilisation à la sécurité routière, soit les deux, et qu'il
+n'encourt, lorsque l'attestation est délivrée, aucune interdiction, même temporaire, d'exercer ; 
+
+3° Une preuve de ses qualifications professionnelles ; 
+
+4° La preuve par tout moyen qu'il a exercé la ou les activités concernées pendant au moins deux ans consécutifs ou non au
+cours des dix années précédentes ou pendant une durée équivalente à temps partiel lorsque l'activité n'est pas réglementée
+dans l'Etat d'établissement ; 
+
+La déclaration et les documents joints peuvent être transmis par tout moyen, accompagnés, le cas échéant, de leur traduction
+en langue française. 
+
+III.-Au vu de la déclaration mentionnée au II de l'article L. 212-1, le préfet procède à une vérification des qualifications
+professionnelles du prestataire. 
+
+Dans un délai maximal d'un mois à compter de la réception de la déclaration et des documents joints, le préfet informe le
+prestataire du résultat de ce contrôle ou, le cas échéant, procède à une demande d'informations complémentaires. 
+
+Dans ce dernier cas, le prestataire est informé avant la fin du premier mois que la décision sera prise avant la fin du
+deuxième mois à compter de la réception du complément d'informations. 
+
+En cas de différence substantielle entre les qualifications professionnelles du prestataire et la formation exigée en France
+pour l'enseignement de la conduite ou l'animation de stages de sensibilisation à la sécurité routière, dans la mesure où
+cette différence est de nature à nuire à la sécurité des bénéficiaires du service, le prestataire se voit offrir la
+possibilité de démontrer qu'il a acquis les connaissances et compétences manquantes par une épreuve d'aptitude. Celle-ci est
+organisée et les résultats lui en sont communiqués dans un délai maximal de trente jours à compter de la décision mentionnée
+à l'alinéa précédent. 
+
+En l'absence de décision du préfet, ou, le cas échéant, de l'organisation de l'épreuve d'aptitude, dans les délais prévus ci-
+dessus, la prestation de services peut être effectuée. 
+
+Un arrêté du ministre chargé des transports fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 1978-01-06
+  - Loi n°78-17 du 6 janvier 1978 (V)
+  - Code de la route. - art. L212-1 (V)
+  - Code de la route. - art. L223-6 (V)
+  - Code de la route. - art. R223-5 (V)
 
 _Cité par_:
 
@@ -10847,9 +10899,9 @@ _Cité par_:
   - Code de la route. - art. R212-3 (V)
   - Code de la route. - art. R233-1 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 3
 
 _Anciens textes_:
 
@@ -10859,28 +10911,38 @@ _Anciens textes_:
 
 ###### Article R212-2
 
-L'autorisation d'enseigner est délivrée aux personnes remplissant les conditions suivantes :
+I.-L'autorisation d'enseigner la conduite et la sécurité routière est délivrée aux personnes remplissant les conditions
+suivantes : 
 
-I. - Etre titulaire d'un des titres ou diplômes mentionnés à l'article R. 212-3.
+1° Etre titulaire d'un des titres ou diplômes mentionnés à l'article R. 212-3 ; 
 
-II. - Etre âgé d'au moins vingt ans.
+2° Etre âgé d'au moins vingt ans ; 
 
-III. - Etre titulaire depuis deux ans au moins du permis de conduire de la catégorie B en cours de validité.
+3° Etre titulaire du permis de conduire de la catégorie B dont le délai probatoire fixé à l'article L. 223-1 est expiré ; 
 
-IV. Etre titulaire d'un permis de conduire dont le délai probatoire défini à l'article L. 223-1 est expiré.
-
-V. - Remplir les conditions d'aptitude physique requises pour l'obtention du permis de conduire des catégories C, E (C), D, E
+4° Remplir les conditions d'aptitude physique requises pour l'obtention du permis de conduire des catégories C, E (C), D, E
 (D), dont les modalités sont fixées par arrêté du ministre chargé des transports. Cette aptitude est attestée par un
-certificat médical en cours de validité.
+certificat médical en cours de validité. 
 
-Les conditions de délivrance et la périodicité du certificat médical sont celles fixées à l'article R. 221-11.
+Les conditions de délivrance et la périodicité du certificat médical sont celles fixées à l'article R. 221-11. 
 
 La validité de l'autorisation d'enseigner est réduite à l'enseignement théorique lorsque l'inaptitude médicale à
-l'enseignement pratique de la conduite ou à la conduite est constatée.
+l'enseignement pratique de la conduite ou à la conduite est constatée. 
 
-**Nota:**
+II.-L'autorisation d'animer les stages de sensibilisation à la sécurité routière est délivrée aux personnes remplissant les
+conditions suivantes :
 
-Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+- soit être titulaire de l'autorisation d'enseigner mentionnée au I du présent article et d'un diplôme complémentaire dans le
+domaine de la formation à la sécurité routière figurant sur une liste fixée par arrêté du ministre chargé des transports ;
+
+- soit être titulaire d'un diplôme permettant de faire usage du titre de psychologue et du permis de conduire dont le délai
+probatoire fixé à l'article L. 223-1 est expiré ;
+
+- et, dans les deux cas, être âgé d'au moins vingt-cinq ans et être titulaire d'une attestation de suivi de formation
+initiale à l'animation de stages de sensibilisation à la sécurité routière délivrée dans les conditions fixées par arrêté du
+ministre chargé des transports. 
+
+III.-Un arrêté du ministre chargé des transports définit les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -10901,14 +10963,9 @@ _Cité par_:
   - Code de la route. - art. R212-4-1 (V)
   - Code de la route. - art. R213-8 (V)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003 en vigueur le 1er mars 2004
-  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V) JORF 12 juillet 2003 en vigueur le 1er mars 2004
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 4
 
 _Anciens textes_:
 
@@ -10917,19 +10974,20 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R221-11 (M)
+  - Code de la route. - art. L223-1 (V)
+  - Code de la route. - art. R221-11 (V)
 
 
 ###### Article R212-3
 
-Les titres ou diplômes prévus au I de l'article R. 212-2 sont :
+Les titres ou diplômes prévus au I, 1°, de l'article R. 212-2 sont : 
 
-I. - Le brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière
-(BEPECASER).
+I.-Le brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER). 
 
 Ce diplôme est délivré par le préfet qui a organisé les épreuves aux personnes ayant subi avec succès lesdites épreuves
 organisées dans des conditions fixées par un arrêté du ministre chargé des transports. Cet arrêté détermine en outre les
-conditions de dépôt, d'instruction des dossiers de candidature, le programme de formation, les épreuves et leur organisation.
+conditions de dépôt, d'instruction des dossiers de candidature, le programme de formation, les épreuves et leur
+organisation. 
 
 Ce diplôme porte, le cas échéant, la ou les mentions suivantes :
 
@@ -10937,19 +10995,19 @@ Ce diplôme porte, le cas échéant, la ou les mentions suivantes :
 
 - enseignement de la conduite des véhicules de la catégorie A ;
 
-- enseignement de la conduite des véhicules des catégories C, E (C), D, E (D).
+- enseignement de la conduite des véhicules des catégories C, E (C), D, E (D). 
 
-II. - L'un des titres ou diplômes énumérés ci-après reconnus équivalents de plein droit au brevet pour l'exercice de la
+II.-L'un des titres ou diplômes énumérés ci-après reconnus équivalents de plein droit au brevet pour l'exercice de la
 profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER), pour enseigner la conduite des
-véhicules terrestres à moteur de la catégorie B :
+véhicules terrestres à moteur de la catégorie B : 
 
-1° Le certificat d'aptitude professionnelle à l'enseignement de la conduite des véhicules terrestres à moteur (CAPEC) ;
+1° Le certificat d'aptitude professionnelle à l'enseignement de la conduite des véhicules terrestres à moteur (CAPEC) ; 
 
-2° La carte professionnelle et le certificat d'aptitude professionnelle et pédagogique (CAPP) ;
+2° La carte professionnelle et le certificat d'aptitude professionnelle et pédagogique (CAPP) ; 
 
 3° Le brevet de spécialiste de l'armée de terre (BSAT), mention instruction élémentaire de conduite, ou les diplômes
 militaires reconnus équivalents à celui-ci par arrêté conjoint du ministre chargé des transports et du ministre de la
-défense ;
+défense ; 
 
 4° Les diplômes d'enseignement de la conduite délivrés dans les territoires d'outre-mer et dans les collectivités
 territoriales de Mayotte et de Saint-Pierre-et-Miquelon.
@@ -10959,46 +11017,17 @@ routière (BEPECASER), portant la ou les mentions catégorie E (B), catégorie A
 plein droit pour les personnes ayant subi avec succès la ou les épreuves correspondantes du certificat d'aptitude
 professionnelle à l'enseignement de la conduite des véhicules terrestres à moteur (CAPEC). Pour les titulaires d'un titre ou
 diplôme mentionné aux 2°, 3° et 4° ci-dessus, elle n'est admise qu'à la condition qu'ils aient été en possession, le 1er
-janvier 1982, des catégories de permis de conduire correspondantes.
+janvier 1982, des catégories de permis de conduire correspondantes. 
 
-III. - Un titre détenu par un ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur
-l'Espace économique européen qui désire exercer en France la profession d'enseignant de la conduite. Ce titre est admis par
-le préfet mentionné à l'article R. 212-1 en équivalence au diplôme du brevet pour l'exercice de la profession d'enseignant de
-la conduite automobile et de la sécurité routière (BEPECASER) dans les cas suivants :
+III.-Un titre acquis dans un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur
+l'Espace économique européen et reconnu par le préfet comme équivalent au BEPECASER dans les conditions définies à l'article
+R. 212-3-1. 
 
-1° Le candidat possède un titre acquis dans un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur
-l'Espace économique européen, permettant l'exercice de la profession précitée dans un de ces Etats à la condition que celui-
-ci la réglemente ;
-
-2° Le candidat possède un titre permettant l'exercice de la profession précitée acquis dans un pays tiers et admis en
-équivalence dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
-européen qui réglemente l'exercice de la profession précitée. Le candidat doit en outre justifier avoir exercé cette
-profession pendant deux ans au moins dans l'Etat qui a admis l'équivalence de son titre ;
-
-3° Le candidat possède un titre sanctionnant une formation préparant à l'exercice de la profession susvisée, délivré dans un
-Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen qui ne réglemente
-pas l'exercice de la profession. Le candidat doit en outre justifier avoir exercé cette profession pendant deux ans au moins
-dans cet Etat.
-
-Dans les trois cas précités, lorsque la formation de l'intéressé porte sur des matières substantiellement différentes de
-celles qui figurent au diplôme du brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la
-sécurité routière (BEPECASER), ou lorsque le titre dont justifie l'intéressé ne prépare pas à l'ensemble des activités
-auxquelles donne accès ce diplôme, le préfet mentionné à l'article R. 212-1 exige de l'intéressé qu'il choisisse soit de se
-soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder un an et qui fait
-l'objet d'une évaluation. Si les résultats de l'épreuve d'aptitude ou de l'évaluation du stage d'adaptation sont validés, le
-préfet admet le titre de l'intéressé en équivalence au diplôme du brevet pour l'exercice de la profession d'enseignant de la
-conduite automobile et de la sécurité routière.
-
-Un arrêté du ministre chargé des transports précise :
-
-- la composition du dossier de demande d'équivalence et les modalités de présentation de la demande ;
-
-- les conditions d'organisation de l'épreuve d'aptitude et du stage d'adaptation et les modalités de validation.
-
-IV. - Un diplôme d'enseignement de la conduite délivré par les Etats étrangers non membres de l'Union européenne reconnu
-équivalent au brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière
-(BEPECASER), par décision du ministre chargé des transports prise sur avis d'une commission interministérielle créée à cet
-effet par arrêté conjoint du ministre chargé des Transports et du ministre chargé des Affaires étrangères.
+IV.-Un diplôme d'enseignement de la conduite délivré par un Etat qui n'est ni membre de la Communauté européenne ni partie à
+l'accord sur l'Espace économique européen, reconnu équivalent au brevet pour l'exercice de la profession d'enseignant de la
+conduite automobile et de la sécurité routière (BEPECASER), par décision du ministre chargé des transports prise sur avis
+d'une commission interministérielle créée à cet effet par arrêté conjoint du ministre chargé des Transports et du ministre
+chargé des Affaires étrangères.
 
 **Liens relatifs à cet article**
 
@@ -11025,10 +11054,6 @@ _Cité par_:
   - Code de la route. - art. R212-2 (VD)
   - Code de la route. - art. R212-6 (V)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 19 décembre 2001
@@ -11037,7 +11062,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 5
 
 _Anciens textes_:
 
@@ -11046,25 +11071,130 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R212-1 (V)
+  - Code de la route. - art. R212-3-1 (V)
+
+
+###### Article R212-3-1
+
+Les personnes ayant acquis leurs qualifications dans un autre Etat membre de la Communauté européenne ou dans un autre Etat
+partie à l'accord sur l'Espace économique européen sont réputées satisfaire aux conditions de qualification professionnelle
+énoncées au 1° du I ou au II de l'article R. 212-2 dans les conditions suivantes : 
+
+1° Conditions générales de la reconnaissance : 
+
+a) Lorsque l'Etat dans lequel ont été acquises les qualifications réglemente la profession, le demandeur doit posséder
+l'attestation de compétences ou le titre de formation prescrit pour exercer la profession dans cet Etat ; 
+
+b) Lorsque l'Etat dans lequel ont été acquises les qualifications ne réglemente pas la profession, le demandeur doit avoir
+exercé la profession au cours des dix années précédentes dans cet Etat, soit à temps plein pendant deux années continues ou
+non, soit à temps partiel pendant une durée totale équivalente aux deux années requises sur la base d'un temps plein, et
+posséder au moins une attestation de compétences ou un titre de formation attestant la préparation à l'exercice de cette
+profession. La condition relative à l'expérience professionnelle n'est toutefois pas exigée quand le candidat possède un
+titre sanctionnant une formation réglementée, spécifiquement orientée sur l'exercice de la profession, correspondant au
+minimum à un cycle d'études secondaires ; 
+
+2° Conditions de validité des titres : 
+
+Les attestations de compétences ou les titres de formation mentionnés aux a et b du 1° doivent avoir été délivrés par une
+autorité compétente de l'Etat dans lequel ont été acquises les qualifications. 
+
+Est assimilé au titre de formation mentionné aux a et b du 1° tout titre de formation ou ensemble de titres de formation
+qui :
+
+- a été délivré par une autorité compétente d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen ;
+
+- sanctionne une formation acquise dans la Communauté européenne ou dans l'Espace économique européen et reconnue par l'Etat
+de délivrance du titre comme étant de niveau équivalent ;
+
+- et confère les mêmes droits d'accès ou d'exercice de la profession, ou prépare à l'exercice de cette profession. 
+
+Est également assimilée à un tel titre de formation toute qualification professionnelle qui, sans répondre aux exigences
+prévues par les dispositions législatives, réglementaires ou administratives de l'Etat dans lequel ont été acquises les
+qualifications pour l'accès à la profession ou son exercice, confère à son titulaire des droits acquis en vertu de ces
+dispositions. 
+
+Peuvent également justifier de leur capacité à exercer la profession les personnes qui possèdent un titre permettant son
+exercice, acquis dans un pays tiers et admis en équivalence dans un Etat membre de la Communauté européenne ou dans un Etat
+partie à l'accord sur l'Espace économique européen si cet Etat réglemente l'exercice de la profession. Elles doivent en outre
+justifier avoir exercé la profession pendant trois ans dans l'Etat qui a admis l'équivalence de leur titre ; 
+
+3° Mesures de compensation : 
+
+Il peut être exigé de la personne qui remplit les conditions fixées aux alinéas précédents qu'elle accomplisse, selon son
+choix, un stage d'adaptation d'une durée maximum d'un an ou qu'elle se soumette à une épreuve d'aptitude dans l'un des cas
+suivants : 
+
+a) Lorsque la formation qu'elle a reçue porte sur des matières substantiellement différentes de celles que comporte la
+formation exigée des personnes ayant acquis leurs qualifications en France ; 
+
+b) Lorsqu'une ou plusieurs des activités réglementées constitutives de la formation exigée en France n'existent pas dans la
+profession correspondante dans l'Etat ayant délivré l'attestation de compétences ou le titre de formation dont elle fait
+état, et que cette différence est caractérisée par une formation spécifique qui est requise en France et qui porte sur des
+matières substantiellement différentes de celles couvertes par l'attestation de compétences ou le titre de formation. 
+
+Le contenu du stage d'adaptation ou de l'épreuve d'aptitude tient compte des connaissances acquises par le candidat au cours
+de son expérience professionnelle. 
+
+Le candidat est dispensé du stage d'adaptation ou de l'épreuve d'aptitude si les connaissances qu'il a acquises au cours de
+son expérience professionnelle couvrent l'intégralité de la différence substantielle constatée entre la formation qu'il a
+reçue et la formation dispensée sur le territoire français et requise pour l'enseignement de la conduite ou l'animation de
+stages de sensibilisation à la sécurité routière. 
+
+Les dispositions fixées au présent article sont précisées par arrêté du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 6
+
+_Cité par_:
+
+  - Arrêté du 26 juin 2012 - art. (V)
+  - Arrêté du 13 septembre 2017 - art. 1 (V)
+  - Arrêté du 13 septembre 2017 - art. 2 (V)
+  - Code de la route. - art. R212-3 (V)
+
+_Cite_:
+
+  - Code de la route. - art. R212-2 (V)
+
+
+###### Article R212-3-2
+
+Les personnes ayant obtenu la reconnaissance de leurs qualifications professionnelles acquises dans d'autres Etats ou
+souhaitant exercer une prestation temporaire et occasionnelle dans les conditions du II de l'article L. 212-1 doivent avoir
+les connaissances linguistiques nécessaires à l'exercice de l'activité d'enseignant de la conduite ou d'animateur de stages
+de sensibilisation à la sécurité routière en France.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 6
+
+_Cite_:
+
+  - Code de la route. - art. L212-1 (V)
 
 
 ###### Article R212-4
 
-L'autorisation d'enseigner ne peut être délivrée aux personnes qui ont fait l'objet d'une condamnation prononcée par une
-juridiction française ou par une juridiction étrangère, à une peine criminelle, ou à une peine correctionnelle pour l'une des
-infractions suivantes :
+L'autorisation d'enseigner ou d'animer un stage de sensibilisation à la sécurité routière ne peut être délivrée aux personnes
+qui ont fait l'objet d'une condamnation prononcée par une juridiction française ou par une juridiction étrangère, à une peine
+criminelle, ou à une peine correctionnelle pour l'une des infractions suivantes : 
 
-I. - Délits d'atteinte à la personne humaine prévus par le code pénal :
+I.-Délits d'atteinte à la personne humaine prévus par le code pénal :
 
 - atteinte involontaire à la vie (art. 221-6-1) ;
 
-- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13, 222-14 [3° et 4°], 222-19-1 et 222-20-1,
-222-2 à 222-33) ;
+- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13,222-14 [3° et 4°],222-19-1 et
+222-20-1,222-2 à 222-33) ;
 
 - mise en danger de la vie d'autrui (art. 223-1) ;
 
-- trafic de stupéfiants (art. 222-36 [1er alinéa], 222-37 à 222-40) ;
+- trafic de stupéfiants (art. 222-36 [1er alinéa],222-37 à 222-40) ;
 
 - entrave aux mesures d'assistance et omission de porter secours (art. 223-5 à 223-7) ;
 
@@ -11073,13 +11203,13 @@ I. - Délits d'atteinte à la personne humaine prévus par le code pénal :
 - atteinte sexuelle sur mineur de quinze ans (art. 227-25 et 227-26) ;
 
 - atteinte sexuelle sur mineur de plus de quinze ans sans violence, contrainte, menace ni surprise par une personne majeure
-abusant de l'autorité que lui confèrent ses fonctions (art. 227-27).
+abusant de l'autorité que lui confèrent ses fonctions (art. 227-27). 
 
-II. - Délits d'atteinte aux biens prévus par le code pénal :
+II.-Délits d'atteinte aux biens prévus par le code pénal :
 
 - vol et tentative (art. 311-3 à 311-6 et 311-13) ;
 
-- extorsion et tentative (art. 312-1, 312-2 et 312-9) ;
+- extorsion et tentative (art. 312-1,312-2 et 312-9) ;
 
 - escroquerie et tentative (art. 313-1 à 313-4) ;
 
@@ -11091,76 +11221,88 @@ II. - Délits d'atteinte aux biens prévus par le code pénal :
 
 - recel (art. 321-1 et 321-2) ;
 
-- détérioration de biens et tentative (art. 322-1 à 322-4).
+- détérioration de biens et tentative (art. 322-1 à 322-4). 
 
-III. - Délits d'atteinte à l'autorité de l'Etat et à la confiance publique prévus par le code pénal :
+III.-Délits d'atteinte à l'autorité de l'Etat et à la confiance publique prévus par le code pénal :
 
 - corruption active et trafic d'influence (art. 433-1 et 433-2) ;
 
-- outrage et rébellion envers une personne dépositaire de l'autorité publique (art. 433-5, 433-7 et 433-8) ;
+- outrage et rébellion envers une personne dépositaire de l'autorité publique (art. 433-5,433-7 et 433-8) ;
 
 - témoignage mensonger et subornation de témoin (art. 434-13 à 434-15) ;
 
 - violation, par le condamné, des obligations ou interdictions résultant des peines de suspension ou d'annulation du permis
-de conduire ou refus de restituer celui-ci (art. 434-41) ;
+de conduire ou refus de restituer celui-ci ou destruction ou détournement d'un véhicule immobilisé (art. 434-41) ;
 
 - faux, usage de faux en écriture et détention de faux documents administratifs (art. 441-1 à 441-3) ;
 
-- établissement d'attestation ou de certificat inexact, après avoir sollicité des offres, dons ou avantages (art. 441-8).
+- établissement d'attestation ou de certificat inexact, après avoir sollicité des offres, dons ou avantages (art. 441-8). 
 
-IV. - Délit prévu par la loi du 23 décembre 1901 modifiée réprimant les fraudes dans les examens et concours publics.
+IV.-Délit prévu par la loi du 23 décembre 1901 modifiée réprimant les fraudes dans les examens et concours publics.
 
-V. - Délits prévus par le code du travail :
+V.-Délits prévus par le code du travail :
 
-- atteinte à l'égalité professionnelle entre les hommes et les femmes (art. L. 123-1) ;
+- atteinte à l'égalité professionnelle entre les hommes et les femmes (art.L. 1142-1 et L. 1146-1) ;
 
-- fourniture illégale de main d'oeuvre (art. L. 125-1) ;
+- fourniture illégale de main d'oeuvre (art.L. 8231-1 et L. 8234-1) ;
 
-- prêt de main d'oeuvre (art. L. 125-3) ;
+- prêt de main d'oeuvre (art.L. 8241-1 et L. 8243-1) ;
 
-- travail dissimulé (art. L. 324-9, L. 324-10, L. 362-3 à L. 362-5) ;
+- travail dissimulé (art.L. 8221-1, L. 8221-3 à L. 8221-5, L. 8224-1) ;
 
-- emploi d'étranger en situation irrégulière (art. L. 341-6).
+- emploi d'étranger en situation irrégulière (art.L. 8251-1, L. 8256-1, L. 8256-2). 
 
-VI. - Délits prévus par le code de la route :
+VI.-Délits prévus par le code de la route :
 
-- conduite sous l'empire d'un état alcoolique ou en état d'ivresse, délit de fuite, refus de se soumettre aux vérifications
-destinées à établir la preuve de l'état alcoolique, conduite après usage de stupéfiants, refus de se soumettre aux
-vérifications destinées à établir la preuve de l'usage de stupéfiants, refus d'obtempérer ou obstacle à l'immobilisation du
-véhicule, grand excès de vitesse en récidive, organisation de courses de véhicules à moteur sans autorisation (art. L. 224-5,
-L. 231-1, L. 233-1, L. 234-1, L. 234-8, L. 235-1, L. 235-3, L. 411-7 et L. 413-1) ;
+- délit de fuite, refus d'obtempérer à une sommation d'arrêt, refus d'obtempérer aggravé par la mise en danger d'autrui,
+refus de se soumettre aux vérifications concernant son véhicule ou sa personne, conduite ou accompagnement sous l'empire d'un
+état alcoolique ou en état d'ivresse, refus de se soumettre aux vérifications destinées à établir la preuve de l'état
+alcoolique, conduite ou accompagnement sous l'influence de substances ou plantes classées comme stupéfiants, refus de se
+soumettre aux vérifications destinées à établir la preuve de la conduite sous l'influence de substances ou plantes classées
+comme stupéfiants (art.L. 231-1, L. 233-1, L. 233-1-1, L. 233-2, L. 234-1, L. 234-8, L. 235-1 et L. 235-3) ;
 
-- entrave à la circulation (art. L. 412-1) ;
+- entrave volontaire à la circulation (art.L. 412-1) ;
 
-- circulation sans plaques ou avec de fausses plaques, modification du dispositif de limitation de vitesse par construction
-des véhicules de transports routiers, absence à bord du véhicule du transport routier de certains documents, destruction ou
-détournement d'un véhicule confisqué (art. L. 234-12 (III), L. 317-1 à L. 317-4, L. 325-4 et L. 325-5) ;
+- usage d'une fausse plaque d'immatriculation, circulation sans plaque d'immatriculation, mise en circulation d'un véhicule
+muni de plaques inexactes, usurpation de plaques, modification du dispositif de limitation de vitesse par construction des
+véhicules de transports routiers, absence à bord du véhicule du transport routier de certains documents, destruction ou
+détournement d'un véhicule confisqué (art.L. 234-12 (III), L. 317-1 à L. 317-4, L. 317-4-1 et L. 325-4) ;
 
-- conduite en récidive d'un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule
-considéré, conduite d'un véhicule malgré la rétention, l'invalidation, la suspension ou l'annulation du permis de conduire
-(art. L. 221-2, L. 223-5 et L. 224-16) ;
+- conduite d'un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule considéré,
+conduite d'un véhicule malgré la rétention, l'invalidation, la suspension ou l'annulation du permis de conduire (art.L.
+221-2, L. 223-5 et L. 224-16) ;
 
 - enseignement de la conduite des véhicules terrestres à moteur sans autorisation ou en violation d'une mesure de suspension
-(art. L. 212-4) ;
+(art.L. 212-4) ;
 
 - usage du nom d'une personne pour enregistrement, au nom de cette personne, d'une condamnation judiciaire ou d'une décision
-administrative (art. L. 225-7 et L. 330-6) ;
+administrative (art.L. 225-7 et L. 330-6) ;
 
-- usage d'un faux nom ou d'une fausse qualité pour obtenir des renseignements sur un conducteur (art. L. 225-8 et L. 330-7).
+- usage d'un faux nom ou d'une fausse qualité pour obtenir des renseignements sur un conducteur (art.L. 225-8 et L. 330-7).
 
-- délits liés à la commercialisation de dispositifs ayant pour objet d'augmenter la puissance du moteur d'un cyclomoteur
-(art. L. 317-5 à L. 317-8) ;
+- délits liés à l'offre ou à la commercialisation de dispositifs ayant pour objet d'augmenter la puissance du moteur d'un
+cyclomoteur, d'une motocyclette ou d'un quadricycle à moteur (art.L. 317-5 à L. 317-7) ;
 
-- délits liés à la commercialisation de dispositifs destinés à déceler la présence ou à perturber le fonctionnement des
-systèmes de constatation des infractions à la circulation routière (art. L. 413-2 à L. 413-5).
+- délits liés à l'offre ou à la commercialisation par un professionnel d'un cyclomoteur, d'une motocyclette, d'un tricycle ou
+d'un quadricycle à moteur soumis à réception et non réceptionné ou qui n'est plus conforme à celle-ci (art.L. 321-1 et L.
+321-2) ;
 
-VII. - Délit prévu par le code de la santé publique :
+- défaut d'assurance (art.L. 324-2) ;
 
-- usage de manière illicite de l'une des substances ou plantes classées comme stupéfiants (art. L. 3424-1).
+- obstacle à une mesure d'immobilisation ou à un ordre d'envoi en fourrière (art.L. 325-3-1) ;
 
-**Nota:**
+- organisation de courses de véhicules à moteur sans autorisation (art.L. 411-7) ;
 
-Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+- récidive de non-respect des distances de sécurité entre deux véhicules dans un tunnel (art.L. 412-2) ;
+
+- grand excès de vitesse en récidive (art.L. 413-1) ;
+
+- délits liés à l'offre ou à la commercialisation de dispositifs destinés à déceler la présence ou à perturber le
+fonctionnement des systèmes de constatation des infractions à la circulation routière (art.L. 413-2 à L. 413-5). 
+
+VII.-Délit prévu par le code de la santé publique :
+
+- usage de manière illicite de l'une des substances ou plantes classées comme stupéfiants (art.L. 3421-1).
 
 **Liens relatifs à cet article**
 
@@ -11200,50 +11342,170 @@ _Cité par_:
   - Code de la route. - art. R242-4 (Ab)
   - Code des transports - art. R3120-9 (V)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 7
+
+_Cite_:
+
+  - Code pénal - art. 221-6-1 (V)
+  - Code pénal - art. 222-14 (V)
+  - Code pénal - art. 222-19-1 (V)
+  - Code pénal - art. 222-2 (V)
+  - Code pénal - art. 222-20-1 (V)
+  - Code pénal - art. 222-36 (V)
+  - Code pénal - art. 222-37 (V)
+  - Code pénal - art. 222-9 (V)
+  - Code pénal - art. 223-1 (V)
+  - Code pénal - art. 223-5 (V)
+  - Code pénal - art. 225-10 (V)
+  - Code pénal - art. 225-11 (V)
+  - Code pénal - art. 225-5 (V)
+  - Code pénal - art. 227-25 (V)
+  - Code pénal - art. 227-26 (V)
+  - Code pénal - art. 227-27 (V)
+  - Code pénal - art. 311-13 (V)
+  - Code pénal - art. 311-3 (V)
+  - Code pénal - art. 312-1 (V)
+  - Code pénal - art. 312-2 (V)
+  - Code pénal - art. 312-9 (V)
+  - Code pénal - art. 313-1 (V)
+  - Code pénal - art. 314-1 (V)
+  - Code pénal - art. 314-5 (V)
+  - Code pénal - art. 314-6 (V)
+  - Code pénal - art. 314-7 (V)
+  - Code pénal - art. 321-1 (V)
+  - Code pénal - art. 321-2 (V)
+  - Code pénal - art. 322-1 (V)
+  - Code pénal - art. 433-1 (V)
+  - Code pénal - art. 433-13 (V)
+  - Code pénal - art. 433-2 (V)
+  - Code pénal - art. 433-5 (V)
+  - Code pénal - art. 433-7 (V)
+  - Code pénal - art. 434-41 (V)
+  - Code pénal - art. 441-1 (V)
+  - Code pénal - art. 441-8 (V)
+  - Code du travail - art. L1142-1 (V)
+  - Code du travail - art. L1146-1 (V)
+  - Code du travail - art. L8221-1 (V)
+  - Code du travail - art. L8221-3 (V)
+  - Code du travail - art. L8224-1 (V)
+  - Code du travail - art. L8231-1 (V)
+  - Code du travail - art. L8234-1 (V)
+  - Code du travail - art. L8241-1 (V)
+  - Code du travail - art. L8243-1 (V)
+  - Code du travail - art. L8251-1 (V)
+  - Code du travail - art. L8256-1 (V)
+  - Code du travail - art. L8256-2 (V)
+  - Code de la santé publique - art. L3421-1 (V)
+  - Code de la route. - art. L212-4 (V)
+  - Code de la route. - art. L221-2 (V)
+  - Code de la route. - art. L223-5 (V)
+  - Code de la route. - art. L224-16 (V)
+  - Code de la route. - art. L225-7 (V)
+  - Code de la route. - art. L225-8 (V)
+  - Code de la route. - art. L231-1 (V)
+  - Code de la route. - art. L233-1 (V)
+  - Code de la route. - art. L233-1-1 (V)
+  - Code de la route. - art. L233-2 (V)
+  - Code de la route. - art. L234-1 (V)
+  - Code de la route. - art. L234-12 (V)
+  - Code de la route. - art. L234-8 (V)
+  - Code de la route. - art. L235-1 (V)
+  - Code de la route. - art. L235-3 (V)
+  - Code de la route. - art. L317-1 (V)
+  - Code de la route. - art. L317-4-1 (V)
+  - Code de la route. - art. L317-5 (V)
+  - Code de la route. - art. L321-1 (V)
+  - Code de la route. - art. L321-2 (V)
+  - Code de la route. - art. L324-2 (V)
+  - Code de la route. - art. L325-3-1 (V)
+  - Code de la route. - art. L325-4 (Ab)
+  - Code de la route. - art. L330-6 (V)
+  - Code de la route. - art. L330-7 (V)
+  - Code de la route. - art. L411-7 (V)
+  - Code de la route. - art. L412-1 (V)
+  - Code de la route. - art. L412-2 (V)
+  - Code de la route. - art. L413-1 (V)
+  - Code de la route. - art. L413-2 (V)
 
 _Anciens textes_:
 
   - Code de la route - art. R243-2 (Ab)
   - Code de la route. - art. R243-2 (V)
 
+
+###### Article R212-4-1
+
+I.-Pour obtenir le renouvellement quinquennal de l'autorisation d'enseigner la conduite des véhicules à moteur d'une
+catégorie donnée et la sécurité routière, l'enseignant doit remplir les conditions fixées au I de l'article R. 212-2 et à
+l'article R. 212-4.
+
+II.-Pour obtenir le renouvellement quinquennal de l'autorisation d'animer les stages de sensibilisation à la sécurité
+routière, l'animateur doit : 
+
+1° Remplir les conditions fixées au II de l'article R. 212-2 et à l'article R. 212-4 ; 
+
+2° Justifier d'une attestation de formation continue à l'animation des stages de sensibilisation à la sécurité routière
+délivrée par le ministre chargé des transports. 
+
+Un arrêté du ministre chargé des transports précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 8
+
 _Cite_:
 
-  - Loi n°1901-12-23
+  - Code de la route. - art. R212-2 (V)
+  - Code de la route. - art. R212-4 (V)
 
 
 ###### Article R212-5
 
 En application de l'article L. 212-3, le retrait de l'autorisation d'enseigner la conduite des véhicules terrestres à moteur
-d'une catégorie donnée et la sécurité routière est prononcé après que l'intéressé a été mis à même de présenter ses
-observations, par arrêté du préfet du lieu de résidence du titulaire de l'autorisation ou, pour un non-résident, par le
-préfet du département où il exerce son activité lorsqu'une des conditions prévues pour sa délivrance cesse d'être remplie. La
-suspension de l'autorisation est prononcée dans les conditions prévues à l'article L. 212-3 par l'autorité préfectorale
-précitée.
+d'une catégorie donnée et la sécurité routière ou d'animer un stage de sensibilisation à la sécurité routière est prononcé
+après que l'intéressé a été mis à même de présenter ses observations, par arrêté du préfet du lieu de résidence du titulaire
+de l'autorisation ou, pour un non-résident, par le préfet du département où il exerce son activité lorsqu'une des conditions
+prévues pour sa délivrance cesse d'être remplie. La suspension de l'autorisation est prononcée dans les conditions prévues à
+l'article L. 212-3 par l'autorité préfectorale précitée. 
 
 Le procureur de la République transmet copie du procès-verbal visé à l'article L. 212-3 à l'autorité préfectorale
-susmentionnée.
+susmentionnée. 
+
+Un arrêté du ministre chargé des transports précise les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 9
 
 _Anciens textes_:
 
   - Code de la route - art. R243-3 (Ab)
-  - Code de la route R243-3
 
 _Cite_:
 
-  - Code de la route. - art. L212-3 (AbD)
+  - Code de la route. - art. L212-3 (V)
+
+
+###### Article R212-5-1
+
+A la demande d'une autorité compétente d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
+économique européen sur le territoire duquel un enseignant de la conduite ou un animateur de stages de sensibilisation à la
+sécurité routière exécute ou déclare vouloir exécuter une prestation de services, le préfet du département du lieu de
+résidence de l'enseignant ou de l'animateur communique à cette autorité toutes les informations pertinentes sur la légalité
+de l'établissement en France du professionnel concerné. Si le professionnel est, à la date de la communication, sous le coup
+d'une suspension ou d'un retrait d'autorisation, mention en est faite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 10
 
 
 ###### Article R212-6
@@ -11287,303 +11549,11 @@ _Cite_:
   - Code de la route. - art. R212-3 (M)
 
 
-#### Chapitre III : Etablissements d'enseignement<a id=82></a>
+#### Chapitre III : Etablissements d'enseignement<a id=83></a>
 
-##### Section 1 : Etablissements d'enseignement à titre onéreux.<a id=83></a>
+##### Section 1 : Etablissements d'enseignement à titre onéreux.<a id=84></a>
 
-###### Article R213-1
-
-Les agréments visés à l'article L. 213-1 sont délivrés pour une durée de cinq ans par le préfet du lieu d'implantation de
-l'établissement, après avis de la commission départementale de la sécurité routière. 
-
-Les agréments, ainsi que toutes les mesures affectant leur validité, sont inscrits dans un registre national qui est élaboré
-et tenu à jour dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et
-aux libertés. 
-
-Lorsqu'un exploitant décède ou est dans l'incapacité physique ou légale d'exploiter l'établissement, le préfet qui a délivré
-l'agrément peut maintenir ce dernier, sans qu'il soit justifié de la qualification d'une autre personne, pendant une période
-maximale d'un an à compter du jour du décès ou de l'incapacité.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°78-17 du 6 janvier 1978 (V)
-  - Code de la route. - art. L213-1 (M)
-
-_Cité par_:
-
-  - Arrêté du 8 janvier 2001 - art. 1 (V)
-  - Décret n°2014-1293 du 23 octobre 2014 - art. (V)
-  - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
-  - Arrêté du 2 mai 2019 (V)
-  - Code de la route. - art. R211-5 (V)
-  - Code de la route. - art. R213-9 (V)
-  - Code du sport. - art. Annexe II-1 (art. A212-1) (V)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Anciens textes_:
-
-  - Code de la route - art. R245 (Ab)
-  - Code de la route R245
-
-
-###### Article R213-2
-
-Les agréments prévus à l'article L. 213-1 sont délivrés aux personnes remplissant les conditions suivantes :
-
-1° Ne pas avoir fait l'objet d'une condamnation prononcée par une juridiction française ou par une juridiction étrangère à
-une peine criminelle ou à une peine correctionnelle pour l'une des infractions prévues à l'article R. 212-4 ;
-
-2° Justifier de la capacité à gérer un établissement d'enseignement de la conduite :
-
-- soit en étant titulaire d'un diplôme d'Etat ou d'un titre ou diplôme visé ou homologué de l'enseignement supérieur ou
-technologique d'un niveau égal ou supérieur au niveau III sanctionnant une formation juridique, économique, comptable ou
-commerciale ou d'un diplôme étranger d'un niveau comparable ;
-
-- soit en justifiant d'une formation agréée, portant sur la gestion et l'exploitation des établissements d'enseignement de la
-conduite.
-
-Un arrêté du ministre chargé des transports précise le programme, la durée minimale ainsi que les conditions d'agrément de
-cette formation ;
-
-3° Etre âgé d'au moins vingt-trois ans ;
-
-4° Justifier d'une expérience professionnelle de trois ans de pratique de l'enseignement de la conduite dans les conditions
-fixées par un arrêté du ministre chargé des transports ;
-
-5° Justifier de garanties minimales concernant les moyens de l'établissement :
-
-Ces garanties concernent les locaux, les véhicules, les moyens matériels et l'organisation de la formation ;
-
-Ces conditions sont fixées par un arrêté du ministre chargé des transports ;
-
-6° Justifier de la qualification des personnels enseignants :
-
-- pour les établissements d'enseignement de la conduite, les enseignants doivent être titulaires de l'autorisation
-d'enseigner mentionnée à l'article L. 212-1 pour assurer les prestations d'enseignement théorique et pratique ;
-
-- pour les établissements de formation des candidats à l'un des titres ou diplômes exigés pour l'exercice de la profession
-d'enseignant de la conduite des véhicules à moteur et de la sécurité routière, les personnels enseignants doivent satisfaire
-à des conditions particulières fixées par un arrêté du ministre chargé des transports. Dans chacun de ces établissements un
-directeur pédagogique est désigné. Il organise et encadre effectivement la formation. Ce directeur doit être titulaire du
-brevet d'aptitude à la formation des moniteurs (BAFM). Nul ne peut être directeur pédagogique dans plus d'un établissement.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 8 janvier 2001 - art. 1 (M)
-  - Arrêté du 8 janvier 2001 - art. 2 (V)
-  - Arrêté du 8 janvier 2001 - art. 3 (Ab)
-  - Arrêté du 8 janvier 2001 - art. 3 (VT)
-  - Arrêté du 8 janvier 2001 - art. ANNEXE II (VT)
-  - Arrêté du 1 juin 2001 - art. 2 (Ab)
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 24 (V)
-  - Arrêté du 30 juillet 2010 - art. 6
-  - Arrêté du 26 juin 2012 - art. 8 (V)
-  - Arrêté du 17 janvier 2013 - art. 3 (VD)
-  - Décret n°2015-1537 du 25 novembre 2015 - art. 9 (V)
-  - Arrêté du 12 avril 2016 (V)
-  - Arrêté du 12 avril 2016 - art. 2 (V)
-  - Arrêté du 13 avril 2016 (V)
-  - Arrêté du 13 avril 2016 - art. 1 (VD)
-  - Arrêté du 14 octobre 2016 - art. 2
-  - Arrêté du 14 octobre 2016 - art. 4
-  - Arrêté du 14 octobre 2016 - art. 4 (VD)
-  - Décret n°2017-1518 du 31 octobre 2017 (V)
-  - Code de la route. - art. R213-2-1 (V)
-  - Code de la route. - art. R213-6 (V)
-  - Code de la route. - art. R223-8 (V)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Anciens textes_:
-
-  - Code de la route - art. R245-1 (Ab)
-  - Code de la route. - art. R245-1 (M)
-
-_Cite_:
-
-  - Code de la route. - art. L212-1 (AbD)
-  - Code de la route. - art. L213-1 (AbD)
-  - Code de la route. - art. R212-4 (M)
-
-
-###### Article R213-3
-
-Le contrat passé entre le candidat et l'établissement, mentionné à chacun des alinéas de l'article L. 213-2, doit préciser
-les mentions ci-dessous. 
-
-1° S'agissant des parties contractantes :
-
-- la raison ou la dénomination sociale de l'établissement, le nom de l'exploitant et l'adresse de l'établissement agréé, le
-numéro et la date de l'agrément, la mention de la compagnie et du numéro de la police d'assurance prévue par l'article L.
-211-1 du code des assurances ;
-
-- le nom et l'adresse du candidat et, s'il est mineur, de son représentant légal ; 
-
-2° L'objet du contrat ; 
-
-3° L'évaluation du niveau du candidat avant l'entrée en formation, notamment le nombre prévisionnel d'heures de formation,
-lorsque cette évaluation est obligatoire ; 
-
-4° Le programme et le déroulement de la formation ; 
-
-5° Les moyens pédagogiques et techniques mis en oeuvre pour la formation et l'évaluation du candidat ; 
-
-6° Les démarches administratives et formalités nécessaires faites éventuellement par l'établissement en nom et place du
-candidat ; 
-
-7° Les obligations des parties : engagement de l'établissement à dispenser la formation et à présenter le candidat aux
-épreuves en fournissant les moyens nécessaires, engagement du candidat à respecter les prescriptions pédagogiques et le
-calendrier de la formation et de l'examen ; 
-
-8° Les conditions de résiliation ou de rupture du contrat et les modalités financières qui s'y attachent ; 
-
-9° Le tarif des prestations de formation quelle qu'en soit la forme et le tarif des éventuelles prestations
-administratives ; 
-
-10° Les modalités de paiement qui doivent préciser l'échelonnement des paiements ; 
-
-11° L'existence ou l'absence de souscription par l'établissement à un dispositif de garantie financière permettant le
-remboursement au candidat des sommes trop perçues en cas de défaillance de l'établissement. En cas de souscription, le nom du
-garant et le montant de la garantie devront être mentionnés.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 8 janvier 2001 - art. 13 (V)
-  - Arrêté du 1 juin 2001 - art. 16 (Ab)
-  - Arrêté du 1 juin 2001 - art. 6 (Ab)
-  - Décret n°2005-1225 du 29 septembre 2005 - art. 2 (V)
-  - Arrêté du 22 décembre 2009 - art. 3 (V)
-  - Arrêté du 12 avril 2016 - art. 12 (V)
-  - Arrêté du 12 avril 2016 - art. 14 (V)
-  - Arrêté du 28 mars 2017 - art. 1
-  - Arrêté du 28 mars 2017 - art. 6
-  - Code de la route. - art. R213-3-2 (M)
-
-_Modifié par_:
-
-  - Décret n°2009-1590 du 18 décembre 2009 - art. 6
-
-_Cite_:
-
-  - Code des assurances - art. L211-1 (V)
-  - Code de la route. - art. L213-2 (V)
-
-_Anciens textes_:
-
-  - Code de la route - art. R245-2 (Ab)
-  - Code de la route. - art. R245-2 (V)
-
-
-###### Article R213-4
-
-Les programmes de formation prévus à l'article L. 213-4 sont définis par arrêtés du ministre chargé des transports. Les
-délégués et inspecteurs du permis de conduire et de la sécurité routière ou les agents publics qualifiés et spécialement
-habilités par un arrêté du ministre chargé des transports procèdent au contrôle de l'application des programmes de formation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Cité par_:
-
-  - Arrêté du 26 juin 2012 - art. 17 (V)
-  - Arrêté du 26 juin 2012 - art. 9 (V)
-  - Arrêté du 13 mai 2013 - art. 2 (VD)
-  - Arrêté du 12 avril 2016 - art. 19 (V)
-  - Arrêté du 12 avril 2016 - art. 2 (V)
-
-_Anciens textes_:
-
-  - Code de la route - art. R245-3 (Ab)
-  - Code de la route R245-3
-
-_Cite_:
-
-  - Code de la route. - art. L213-4 (AbD)
-
-
-###### Article R213-5
-
-Le retrait des agréments est prononcé par le préfet du lieu d'implantation de l'établissement lorsqu'une des conditions
-prévues pour leur délivrance cesse d'être remplie. Le retrait est prononcé après que l'intéressé a été mis à même de
-présenter ses observations. La suspension des agréments est prononcée, dans les conditions prévues par l'article L. 213-5,
-par l'autorité préfectorale précitée.
-
-Le procureur de la République transmet copie du procès-verbal visé à l'article L. 213-5 au préfet du lieu d'implantation de
-l'établissement.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 8 janvier 2001 - art. 12 (V)
-  - Arrêté du 1 juin 2001 - art. 15 (Ab)
-  - Arrêté du 12 avril 2016 - art. 11 (V)
-  - Code de la route. - art. R213-9 (V)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Anciens textes_:
-
-  - Code de la route - art. R245-4 (Ab)
-  - Code de la route R245-4
-
-_Cite_:
-
-  - Code de la route. - art. L213-5 (AbD)
-
-
-###### Article R213-6
-
-Lors du renouvellement quinquennal de l'agrément, l'exploitant doit :
-
-1° Remplir les conditions fixées à l'article R. 213-2 (1°, 5° et 6°) ;
-
-2° Justifier d'une formation attestant de la réactualisation de ses connaissances professionnelles.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 8 janvier 2001 - art. 8 (VD)
-  - Arrêté du 1 juin 2001 - art. 10 (Ab)
-  - Arrêté du 18 décembre 2002 - art. 1 (V)
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 24 (V)
-  - Arrêté du 26 juin 2012 - art. 18 (V)
-  - Arrêté du 12 avril 2016 - art. 6 (V)
-  - Arrêté du 12 juillet 2017 (V)
-  - Arrêté du 24 novembre 2017 (V)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Anciens textes_:
-
-  - Code de la route - art. R245-5 (Ab)
-  - Code de la route R245-5
-
-_Cite_:
-
-  - Code de la route. - art. R213-2 (V)
-
-
-##### Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle.<a id=84></a>
+##### Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle.<a id=85></a>
 
 ###### Article R213-7
 
@@ -11701,7 +11671,428 @@ _Cite_:
   - Code de la route. - art. R213-7 (V)
 
 
-#### Chapitre IV  : Conseil supérieur de l'éducation routière (CSER)<a id=85></a>
+#### Chapitre III : Etablissements d'enseignement et d'animation des stages de sensibilisation à la sécurité routière.<a id=86></a>
+
+##### Section 1 : Etablissements d'enseignement à titre onéreux et d'animation des stages de sensibilisation à la sécurité routière.<a id=87></a>
+
+###### Article R213-1
+
+Les agréments visés à l'article L. 213-1 sont délivrés pour une durée de cinq ans par le préfet du lieu d'implantation de
+l'établissement, après avis de la commission départementale de la sécurité routière. 
+
+Les agréments, ainsi que toutes les mesures affectant leur validité, sont inscrits dans un registre national qui est élaboré
+et tenu à jour dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et
+aux libertés. 
+
+Lorsqu'un exploitant décède ou est dans l'incapacité d'exploiter l'établissement, suite à une incapacité physique ou une mise
+sous tutelle ou curatelle, le préfet qui a délivré l'agrément peut maintenir ce dernier, sans qu'il soit justifié de la
+qualification d'une autre personne, pendant une période maximale d'un an à compter du jour du décès ou de l'incapacité.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 (V)
+  - Code de la route. - art. L213-1 (M)
+
+_Cité par_:
+
+  - Arrêté du 8 janvier 2001 - art. 1 (V)
+  - Décret n°2014-1293 du 23 octobre 2014 - art. (V)
+  - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
+  - Arrêté du 2 mai 2019 (V)
+  - Code de la route. - art. R211-5 (V)
+  - Code de la route. - art. R213-9 (V)
+  - Code du sport. - art. Annexe II-1 (art. A212-1) (V)
+
+_Modifié par_:
+
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 12
+
+_Anciens textes_:
+
+  - Code de la route - art. R245 (Ab)
+  - Code de la route R245
+
+
+###### Article R213-2
+
+I.-Pour les exploitants des établissements d'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'une
+catégorie donnée et de la sécurité routière et pour les exploitants des établissements de formation des candidats à l'un des
+titres ou diplômes exigés pour l'exercice de la profession d'enseignant de la conduite, l'agrément prévu à l'article L. 213-1
+est délivré aux personnes remplissant les conditions suivantes : 
+
+1° Ne pas avoir fait l'objet d'une condamnation prononcée par une juridiction française ou par une juridiction étrangère à
+une peine criminelle ou à une peine correctionnelle pour l'une des infractions prévues à l'article R. 212-4 ; 
+
+2° Justifier de la capacité à gérer un établissement d'enseignement de la conduite :
+
+- soit en étant titulaire d'un diplôme d'Etat ou d'un titre ou diplôme visé ou homologué de l'enseignement supérieur ou
+technologique d'un niveau égal ou supérieur au niveau III sanctionnant une formation juridique, économique, comptable ou
+commerciale ou d'un diplôme étranger d'un niveau comparable ;
+
+- soit en justifiant d'une formation agréée, portant sur la gestion et l'exploitation des établissements d'enseignement de la
+conduite. 
+
+Un arrêté du ministre chargé des transports précise le programme, la durée minimale ainsi que les conditions d'agrément de
+cette formation ; 
+
+3° Etre âgé d'au moins vingt-trois ans ; 
+
+4° Justifier d'une expérience professionnelle de pratique de l'enseignement de la conduite, soit à temps plein pendant deux
+années continues ou non, soit à temps partiel pendant une durée totale équivalente aux deux années requises sur la base d'un
+temps plein, dans les conditions fixées par un arrêté du ministre chargé des transports ; 
+
+5° Justifier de garanties minimales concernant les moyens de formation de l'établissement. Ces garanties concernent les
+locaux, les véhicules, les moyens matériels et les modalités d'organisation de la formation ; 
+
+6° Justifier de la qualification des personnels enseignants :
+
+- pour les établissements d'enseignement de la conduite, les enseignants doivent être titulaires de l'autorisation
+d'enseigner mentionnée à l'article L. 212-1 pour assurer les prestations d'enseignement théorique et pratique ;
+
+- pour les établissements de formation des candidats à l'un des titres ou diplômes exigés pour l'exercice de la profession
+d'enseignant de la conduite des véhicules à moteur et de la sécurité routière, les personnels enseignants doivent satisfaire
+à des conditions particulières fixées par un arrêté du ministre chargé des transports. Dans chacun de ces établissements un
+directeur pédagogique est désigné. Il organise et encadre effectivement la formation. Ce directeur doit être titulaire du
+brevet d'aptitude à la formation des moniteurs (BAFM). Nul ne peut être directeur pédagogique dans plus d'un établissement. 
+
+II.-Pour les personnes assurant l'exploitation effective d'au moins un établissement organisant des stages de sensibilisation
+à la sécurité routière mentionnés aux articles L. 223-6 et R. 223-5 et, le cas échéant, pour les personnes qu'elles désignent
+nommément pour l'encadrement administratif des stages, à l'exclusion des 5° et 6° pour ces dernières, l'agrément prévu à
+l'article L. 213-1 est délivré si celles-ci remplissent les conditions suivantes : 
+
+1° Ne pas avoir fait l'objet d'une condamnation prononcée par une juridiction française ou par une juridiction étrangère à
+une peine criminelle ou à une peine correctionnelle pour l'une des infractions prévues à l'article R. 212-4 ; 
+
+2° Justifier d'une formation initiale à la gestion technique et administrative d'un établissement agréé pour l'animation des
+stages de sensibilisation à la sécurité routière ; 
+
+3° Etre âgé d'au moins vingt-cinq ans ; 
+
+4° Justifier d'une expérience professionnelle, soit à temps plein pendant deux années continues ou non, soit à temps partiel
+pendant une durée totale équivalente aux deux années requises sur la base d'un temps plein, dans le domaine de la
+sensibilisation à la sécurité routière ou de son enseignement ; 
+
+5° Justifier des garanties minimales concernant les moyens de formation de l'établissement. Ces garanties concernent les
+locaux, les moyens matériels, les modalités d'organisation de la formation et, le cas échéant, les véhicules ; 
+
+6° Justifier de la qualification des personnels animateurs qui doivent être titulaires de l'autorisation mentionnée au II de
+l'article R. 212-2. 
+
+Les conditions fixées au présent article sont précisées par arrêté du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 8 janvier 2001 - art. 1 (M)
+  - Arrêté du 8 janvier 2001 - art. 2 (V)
+  - Arrêté du 8 janvier 2001 - art. 3 (Ab)
+  - Arrêté du 8 janvier 2001 - art. 3 (VT)
+  - Arrêté du 8 janvier 2001 - art. ANNEXE II (VT)
+  - Arrêté du 1 juin 2001 - art. 2 (Ab)
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 24 (V)
+  - Arrêté du 30 juillet 2010 - art. 6
+  - Arrêté du 26 juin 2012 - art. 8 (V)
+  - Arrêté du 17 janvier 2013 - art. 3 (VD)
+  - Décret n°2015-1537 du 25 novembre 2015 - art. 9 (V)
+  - Arrêté du 12 avril 2016 (V)
+  - Arrêté du 12 avril 2016 - art. 2 (V)
+  - Arrêté du 13 avril 2016 (V)
+  - Arrêté du 13 avril 2016 - art. 1 (VD)
+  - Arrêté du 14 octobre 2016 - art. 2
+  - Arrêté du 14 octobre 2016 - art. 4
+  - Arrêté du 14 octobre 2016 - art. 4 (VD)
+  - Décret n°2017-1518 du 31 octobre 2017 (V)
+  - Code de la route. - art. R213-2-1 (V)
+  - Code de la route. - art. R213-6 (V)
+  - Code de la route. - art. R223-8 (V)
+
+_Modifié par_:
+
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 13
+
+_Anciens textes_:
+
+  - Code de la route - art. R245-1 (Ab)
+  - Code de la route. - art. R245-1 (M)
+
+_Cite_:
+
+  - Code de la route. - art. L212-1 (V)
+  - Code de la route. - art. L213-1 (V)
+  - Code de la route. - art. L223-6 (V)
+  - Code de la route. - art. R212-4 (V)
+  - Code de la route. - art. R223-5 (V)
+
+
+###### Article R213-2-1
+
+Pour satisfaire aux conditions de qualifications professionnelles énoncées aux 2° et 4° du I et aux 2° et 4° du II de
+l'article R. 213-2, les personnes ayant acquis leurs qualifications dans un autre Etat membre de la Communauté européenne ou
+dans un autre Etat partie à l'accord sur l'Espace économique européen doivent satisfaire aux conditions suivantes : 
+
+1° Conditions générales de la reconnaissance : 
+
+a) Lorsque l'Etat dans lequel ont été acquises les qualifications réglemente la profession, le demandeur doit posséder
+l'attestation de compétences ou le titre de formation prescrit pour exercer la profession dans cet Etat ; 
+
+b) Lorsque l'Etat dans lequel ont été acquises les qualifications ne réglemente pas la profession, le demandeur doit avoir
+exercé la profession au cours des dix années précédentes dans cet Etat, soit à temps plein pendant deux années continues ou
+non, soit à temps partiel pendant une durée totale équivalente aux deux années requises sur la base d'un temps plein, et
+posséder au moins une attestation de compétences ou un titre de formation attestant la préparation à l'exercice de cette
+profession. La condition relative à l'expérience professionnelle n'est toutefois pas exigée quand le candidat possède un
+titre sanctionnant une formation réglementée, spécifiquement orientée sur l'exercice de la profession, correspondant au
+minimum à un cycle d'études secondaires. 
+
+2° Conditions de validité des titres : 
+
+Les attestations de compétences ou les titres de formation mentionnés aux a et b du 1° doivent avoir été délivrés par une
+autorité compétente de l'Etat dans lequel ont été acquises les qualifications. 
+
+Est assimilé au titre de formation mentionné aux a et b du 1° tout titre de formation ou ensemble de titres de formation
+qui :
+
+- a été délivré par une autorité compétente d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen ;
+
+- sanctionne une formation acquise dans la Communauté européenne ou dans l'Espace économique européen et reconnue par l'Etat
+de délivrance du titre comme étant de niveau équivalent ;
+
+- et confère les mêmes droits d'accès ou d'exercice de la profession, ou prépare à l'exercice de cette profession. 
+
+Est également assimilée à un tel titre de formation toute qualification professionnelle qui, sans répondre aux exigences
+prévues par les dispositions législatives, réglementaires ou administratives de l'Etat dans lequel ont été acquises les
+qualifications pour l'accès à la profession ou son exercice, confère à son titulaire des droits acquis en vertu de ces
+dispositions. 
+
+Peuvent également justifier de leur capacité à exercer la profession les personnes qui possèdent un titre permettant son
+exercice, acquis dans un pays tiers et admis en équivalence dans un Etat membre de la Communauté européenne ou dans un Etat
+partie à l'accord sur l'Espace économique européen si cet Etat réglemente l'exercice de la profession. Elles doivent en outre
+justifier avoir exercé la profession pendant trois ans dans l'Etat qui a admis l'équivalence de leur titre ; 
+
+3° Mesures de compensation : 
+
+Il peut être exigé de la personne qui remplit les conditions fixées aux alinéas précédents qu'elle accomplisse, selon son
+choix, un stage d'adaptation d'une durée maximum d'un an ou qu'elle se soumette à une épreuve d'aptitude dans l'un des cas
+suivants : 
+
+a) Lorsque la formation qu'elle a reçue porte sur des matières substantiellement différentes de celles que comporte la
+formation exigée des personnes ayant acquis leurs qualifications en France ; 
+
+b) Lorsqu'une ou plusieurs des activités réglementées constitutives de la formation exigée en France n'existent pas dans la
+profession correspondante dans l'Etat ayant délivré l'attestation de compétences ou le titre de formation dont elle fait
+état, et que cette différence est caractérisée par une formation spécifique qui est requise en France et qui porte sur des
+matières substantiellement différentes de celles couvertes par l'attestation de compétences ou le titre de formation. 
+
+Le contenu du stage d'adaptation ou de l'épreuve d'aptitude tient compte des connaissances acquises par le candidat au cours
+de son expérience professionnelle. 
+
+Le candidat est dispensé du stage d'adaptation ou de l'épreuve d'aptitude si les connaissances qu'il a acquises au cours de
+son expérience professionnelle couvrent l'intégralité de la différence substantielle constatée entre la formation qu'il a
+reçue et la formation dispensée sur le territoire français et requise pour l'enseignement de la conduite ou l'animation de
+stages de sensibilisation à la sécurité routière. 
+
+Les dispositions fixées au présent article sont précisées par arrêté du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 14
+
+_Cité par_:
+
+  - Arrêté du 13 septembre 2017 - art. 1 (V)
+  - Arrêté du 13 septembre 2017 - art. 2 (V)
+  - Code de la route. - art. R213-2 (V)
+
+
+###### Article R213-3
+
+Le contrat passé entre le candidat et l'établissement, mentionné à chacun des alinéas de l'article L. 213-2, doit préciser
+les mentions ci-dessous. 
+
+1° S'agissant des parties contractantes :
+
+- la raison ou la dénomination sociale de l'établissement, le nom de l'exploitant et l'adresse de l'établissement agréé, le
+numéro et la date de l'agrément, la mention de la compagnie et du numéro de la police d'assurance prévue par l'article L.
+211-1 du code des assurances ;
+
+- le nom et l'adresse du candidat et, s'il est mineur, de son représentant légal ; 
+
+2° L'objet du contrat ; 
+
+3° L'évaluation du niveau du candidat avant l'entrée en formation, notamment le nombre prévisionnel d'heures de formation,
+lorsque cette évaluation est obligatoire ; 
+
+4° Le programme et le déroulement de la formation ; 
+
+5° Les moyens pédagogiques et techniques mis en oeuvre pour la formation et l'évaluation du candidat ; 
+
+6° Les démarches administratives et formalités nécessaires faites éventuellement par l'établissement en nom et place du
+candidat ; 
+
+7° Les obligations des parties : engagement de l'établissement à dispenser la formation et à présenter le candidat aux
+épreuves en fournissant les moyens nécessaires, engagement du candidat à respecter les prescriptions pédagogiques et le
+calendrier de la formation et de l'examen ; 
+
+8° Les conditions de résiliation ou de rupture du contrat et les modalités financières qui s'y attachent ; 
+
+9° Le tarif des prestations de formation quelle qu'en soit la forme et le tarif des éventuelles prestations
+administratives ; 
+
+10° Les modalités de paiement qui doivent préciser l'échelonnement des paiements ; 
+
+11° L'existence ou l'absence de souscription par l'établissement à un dispositif de garantie financière permettant le
+remboursement au candidat des sommes trop perçues en cas de défaillance de l'établissement. En cas de souscription, le nom du
+garant et le montant de la garantie devront être mentionnés.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 8 janvier 2001 - art. 13 (V)
+  - Arrêté du 1 juin 2001 - art. 16 (Ab)
+  - Arrêté du 1 juin 2001 - art. 6 (Ab)
+  - Décret n°2005-1225 du 29 septembre 2005 - art. 2 (V)
+  - Arrêté du 22 décembre 2009 - art. 3 (V)
+  - Arrêté du 12 avril 2016 - art. 12 (V)
+  - Arrêté du 12 avril 2016 - art. 14 (V)
+  - Arrêté du 28 mars 2017 - art. 1
+  - Arrêté du 28 mars 2017 - art. 6
+  - Code de la route. - art. R213-3-2 (M)
+
+_Modifié par_:
+
+  - Décret n°2009-1590 du 18 décembre 2009 - art. 6
+
+_Cite_:
+
+  - Code des assurances - art. L211-1 (V)
+  - Code de la route. - art. L213-2 (V)
+
+_Anciens textes_:
+
+  - Code de la route - art. R245-2 (Ab)
+  - Code de la route. - art. R245-2 (V)
+
+
+###### Article R213-4
+
+Les programmes de formation prévus à l'article L. 213-4 sont définis par arrêtés du ministre chargé des transports. Les
+délégués et inspecteurs du permis de conduire et de la sécurité routière ou les agents publics qualifiés et spécialement
+habilités par un arrêté du ministre chargé des transports procèdent au contrôle de l'application des programmes de formation
+et du respect des obligations mises à la charge du titulaire de l'agrément par le présent code.
+
+Les agents des services de l'Etat chargés des procédures d'agrément de ces établissements peuvent également procéder à des
+contrôles administratifs. 
+
+Indépendamment de ces contrôles, des audits pédagogiques des établissements agréés pour l'organisation des stages de
+sensibilisation à la sécurité routière peuvent être opérés par tout expert autorisé par le ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 15
+
+_Cité par_:
+
+  - Arrêté du 26 juin 2012 - art. 17 (V)
+  - Arrêté du 26 juin 2012 - art. 9 (V)
+  - Arrêté du 13 mai 2013 - art. 2 (VD)
+  - Arrêté du 12 avril 2016 - art. 19 (V)
+  - Arrêté du 12 avril 2016 - art. 2 (V)
+
+_Anciens textes_:
+
+  - Code de la route - art. R245-3 (Ab)
+
+_Cite_:
+
+  - Code de la route. - art. L213-4
+
+
+###### Article R213-5
+
+Le retrait des agréments mentionnés à l'article L. 213-l est prononcé par le préfet du lieu d'implantation de l'établissement
+lorsqu'une des conditions prévues pour leur délivrance cesse d'être remplie ou en cas de cessation d'activité. Le retrait est
+prononcé après que l'intéressé a été mis à même de présenter ses observations. La suspension des agréments est prononcée,
+dans les conditions prévues par l'article L. 213-5, par l'autorité préfectorale précitée. 
+
+Le procureur de la République transmet copie du procès-verbal visé à l'article L. 213-5 au préfet du lieu d'implantation de
+l'établissement.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 8 janvier 2001 - art. 12 (V)
+  - Arrêté du 1 juin 2001 - art. 15 (Ab)
+  - Arrêté du 12 avril 2016 - art. 11 (V)
+  - Code de la route. - art. R213-9 (V)
+
+_Modifié par_:
+
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 16
+
+_Anciens textes_:
+
+  - Code de la route - art. R245-4 (Ab)
+
+_Cite_:
+
+  - Code de la route. - art. L213-1 (V)
+  - Code de la route. - art. L213-5 (V)
+
+
+###### Article R213-6
+
+Lors du renouvellement quinquennal de l'agrément mentionné à l'article L. 213-1, l'exploitant doit : 
+
+1° Remplir les conditions fixées aux 1°, 5° et 6° du I ou du II de l'article R. 213-2, selon l'activité exercée ; 
+
+2° Justifier d'une formation attestant de la réactualisation de ses connaissances professionnelles dans le domaine spécifique
+de l'activité exercée ; 
+
+3° Justifier, en outre, pour les personnes désignées nommément par l'exploitant pour l'encadrement administratif des stages
+de sensibilisation à la sécurité routière, d'une attestation de réactualisation de leurs connaissances professionnelles dans
+ce domaine spécifique. 
+
+Les conditions fixées au présent article sont précisées par arrêté du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 8 janvier 2001 - art. 8 (VD)
+  - Arrêté du 1 juin 2001 - art. 10 (Ab)
+  - Arrêté du 18 décembre 2002 - art. 1 (V)
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 24 (V)
+  - Arrêté du 26 juin 2012 - art. 18 (V)
+  - Arrêté du 12 avril 2016 - art. 6 (V)
+  - Arrêté du 12 juillet 2017 (V)
+  - Arrêté du 24 novembre 2017 (V)
+
+_Modifié par_:
+
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 17
+
+_Anciens textes_:
+
+  - Code de la route - art. R245-5 (Ab)
+
+_Cite_:
+
+  - Code de la route. - art. L213-1 (V)
+  - Code de la route. - art. R213-2 (V)
+
+
+##### Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle.<a id=88></a>
+
+#### Chapitre IV  : Conseil supérieur de l'éducation routière (CSER)<a id=89></a>
 
 ###### Article D214-1
 
@@ -11822,9 +12213,9 @@ _Créé par_:
   - Décret n°2009-1182 du 5 octobre 2009 - art. 1
 
 
-### Titre II : Permis de conduire.<a id=86></a>
+### Titre II : Permis de conduire.<a id=90></a>
 
-#### Chapitre Ier : Délivrance et catégories.<a id=87></a>
+#### Chapitre Ier : Délivrance et catégories.<a id=91></a>
 
 ###### Article D221-3-1
 
@@ -12372,19 +12763,20 @@ _Cite_:
 
 ###### Article R221-10
 
-I. - Les catégories A et B du permis de conduire sont délivrées sans visite médicale préalable sauf dans les cas où cette
-visite est rendue obligatoire par arrêté du ministre chargé des transports pris en application de l'article R. 221-19.
+I.-Les catégories A et B du permis de conduire sont délivrées sans visite médicale préalable sauf dans les cas où cette
+visite est rendue obligatoire par arrêté du ministre chargé des transports pris en application de l'article R. 221-19. 
 
-II. - Les catégories A et B délivrées pour la conduite des véhicules spécialement aménagés pour tenir compte du handicap du
-conducteur et les catégories C, D et E ne peuvent être obtenues ou renouvelées qu'à la suite d'une visite médicale favorable.
+II.-Les catégories A et B délivrées pour la conduite des véhicules spécialement aménagés pour tenir compte du handicap du
+conducteur et les catégories C, D et E ne peuvent être obtenues ou renouvelées qu'à la suite d'une visite médicale
+favorable. 
 
-III. - La catégorie B du permis de conduire ne permet la conduite :
+III.-La catégorie B du permis de conduire ne permet la conduite : 
 
-1° Des taxis et des voitures de remise ;
+1° Des taxis, des voitures de tourisme avec chauffeur et des voitures de remise ; 
 
-2° Des ambulances ;
+2° Des ambulances ; 
 
-3° Des véhicules affectés au ramassage scolaire ;
+3° Des véhicules affectés au ramassage scolaire ; 
 
 4° Des véhicules affectés au transport public de personnes, 
 
@@ -12392,14 +12784,6 @@ que si le conducteur est en possession d'une attestation délivrée par le préf
 physique.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2005-320 du 30 mars 2005 - art. 3 () JORF 6 avril 2005
 
 _Cité par_:
 
@@ -12422,6 +12806,10 @@ _Cité par_:
   - Code des transports - art. D3120-5 (V)
   - Code du tourisme. - art. D231-8 (VT)
 
+_Modifié par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
+
 _Anciens textes_:
 
   - Code de la route - art. R127 (Ab)
@@ -12430,7 +12818,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R221-19 (V)
+  - Code de la route. - art. R221-19
 
 
 ###### Article R221-11
@@ -12897,7 +13285,7 @@ _Cité par_:
   - Code de la route. - art. R242-2 (V)
 
 
-#### Chapitre II : Reconnaissance et équivalences.<a id=88></a>
+#### Chapitre II : Reconnaissance et équivalences.<a id=92></a>
 
 ###### Article R222-1
 
@@ -13197,9 +13585,9 @@ _Cite_:
   - Code de la route. - art. R221-3 (VT)
 
 
-#### Chapitre III : Permis à points.<a id=89></a>
+#### Chapitre III : Permis à points.<a id=93></a>
 
-##### Section 1 : Principes généraux.<a id=90></a>
+##### Section 1 : Principes généraux.<a id=94></a>
 
 ###### Article R223-1
 
@@ -13361,25 +13749,21 @@ _Cite_:
   - Code de la route. - art. L223-6
 
 
-##### Section 2 : Des stages.<a id=91></a>
+##### Section 2 : Des stages.<a id=95></a>
+
+##### Section 2 : Des stages  de sensibilisation à la sécurité routière.<a id=96></a>
 
 ###### Article R223-5
 
-I-La formation spécifique prévue par le troisième alinéa de l'article L. 223-6 est destinée à éviter la réitération des
-comportements dangereux. Elle est organisée sous la forme d'un stage d'une durée minimale de seize heures réparties sur deux
-jours consécutifs. 
-
-II-Les personnes physiques ou morales qui se proposent de dispense cette formation doivent obtenir préalablement un agrément
-du préfet du département, ou de l'autorité compétente du territoire ou de la collectivité territoriale d'outre-mer, du lieu
-d'implantation de leur activité, qui vérifie que les obligations définies par les articles R. 223-5 à R. 223-8 pourront être
-respectées. Elles établissent à cet effet un dossier dont la teneur est précisée par arrêté conjoint du ministre l'intérieur
-et du ministre chargé des transports.
+Le stage de sensibilisation à la sécurité routière prévu à l'article L. 223-6 est destiné à éviter la réitération des
+comportements dangereux. Il est d'une durée de deux jours consécutifs. Il est organisé dans les conditions fixées par arrêté
+du ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 22
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 19
 
 _Cité par_:
 
@@ -13402,91 +13786,73 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L223-6
+  - Code de la route. - art. L223-6 (V)
 
 
 ###### Article R223-6
 
-I. - La formation doit comprendre :
+Le stage doit comprendre : 
 
-1° Un enseignement portant sur les facteurs généraux de l'insécurité routière ;
+1° Un premier module ayant pour objet de poser le cadre et les enjeux du stage de sensibilisation à la sécurité routière ; 
 
-2° Un ou plusieurs enseignements spécialisés dont l'objet est d'approfondir l'analyse de situations ou de facteurs
-générateurs d'accidents de la route.
+2° Un ou plusieurs modules spécialisés dont l'objet est d'impulser un processus de changement d'attitudes et de comportements
+chez le conducteur. 
 
-II. - Le programme de ces enseignements est fixé par l'arrêté mentionné à l'article R. 223-5.
+Le cadre de référence, le programme et les méthodes d'intervention sont fixés par arrêté du ministre chargé des transports. 
 
-III. - Cette formation peut inclure un entretien avec un psychologue et un enseignement pratique de conduite.
-
-**Nota:**
-
-Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+Ce programme d'éducation peut inclure un entretien avec un psychologue et une séquence de conduite.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 20
 
 _Anciens textes_:
 
   - Code de la route - art. R260 (Ab)
-  - Code de la route R260
 
 _Cite_:
 
-  - Code de la route. - art. R223-5 (M)
+  - Code de la route. - art. R223-5
 
 
 ###### Article R223-7
 
-La conduite et l'animation de chaque stage sont assurées par des formateurs reconnus aptes par le préfet. Ces formateurs
-doivent, pour certains d'entre eux, être titulaires d'un diplôme spécifique de formateur à la conduite automobile et, pour
-d'autres, être titulaires d'un diplôme permettant de faire usage du titre de psychologue.
-
-Pour être reconnus aptes, ces formateurs doivent suivre une préparation spécifique à l'animation des stages. L'arrêté
-interministériel mentionné à l'article R. 223-5 précise le contenu et les modalités de cette préparation ainsi que la liste
-des diplômes dont la possession est exigée des formateurs.
+L'animation des stages de sensibilisation à la sécurité routière est assurée conjointement par un enseignant de la conduite
+et de la sécurité routière et un psychologue, titulaires de l'autorisation d'animer, en cours de validité, mentionnée au II
+de l'article R. 212-2.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 21
 
 _Anciens textes_:
 
   - Code de la route - art. R261 (Ab)
-  - Code de la route R261
 
 _Cite_:
 
-  - Code de la route. - art. R223-5 (M)
+  - Code de la route. - art. L212-2 (V)
 
 
 ###### Article R223-8
 
-I.-La personne responsable d'une formation spécifique, titulaire de l'agrément prévu à l'article R. 223-5, délivre, à l'issue
-de celle-ci, une attestation de stage à toute personne qui l'a suivi en totalité. Cette attestation est transmise au
-représentant de l'Etat dans le département du lieu du stage, ou à l'autorité compétente de la collectivité d'outre-mer, dans
-un délai de quinze jours à compter de la fin de cette formation. 
+I.-Le titulaire de l'agrément prévu au II de l'article R. 213-2 délivre une attestation de stage à toute personne qui a suivi
+un stage de sensibilisation à la sécurité routière dans le respect de conditions d'assiduité et de participation fixées par
+arrêté du ministre chargé des transports. Il transmet un exemplaire de cette attestation au préfet du département du lieu du
+stage, dans un délai de quinze jours à compter de la fin de celui-ci. 
 
 II.-L'attestation délivrée à l'issue du stage effectué en application des dispositions de l'alinéa 3 de l'article L. 223-6
 donne droit à la récupération de quatre points dans la limite du plafond affecté au permis de conduire de son titulaire. Une
 nouvelle reconstitution de points, après une formation spécifique effectuée en application des mêmes dispositions, n'est
 possible qu'au terme d'un délai de deux ans. 
 
-III.-L'autorité administrative mentionnée au I ci-dessus procède à la reconstitution du nombre de points dans un délai d'un
-mois à compter de la réception de l'attestation et notifie cette reconstitution à l'intéressé par lettre simple. La
-reconstitution prend effet le lendemain de la dernière journée de stage. 
+III.-Le préfet mentionné au I ci-dessus procède à la reconstitution du nombre de points dans un délai d'un mois à compter de
+la réception de l'attestation et notifie cette reconstitution à l'intéressé par lettre simple. La reconstitution prend effet
+le lendemain de la dernière journée de stage. 
 
 IV.-Dans le cas prévu à l'article R. 223-4, sont transmises au comptable du Trésor du lieu de commission de l'infraction,
 dans le délai de quinze jours mentionné au I ci-dessus, l'attestation de suivi de stage ainsi que, si l'amende a été
@@ -13505,7 +13871,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 22
+  - Décret n°2009-1678 du 29 décembre 2009 - art. 22
 
 _Anciens textes_:
 
@@ -13515,88 +13881,8 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L223-6
+  - Code de la route. - art. R213-2 (V)
   - Code de la route. - art. R223-4
-  - Code de la route. - art. R223-5
-
-
-###### Article R223-9
-
-I. - Afin de permettre le contrôle des obligations mentionnées aux articles R. 223-5 à R. 223-8, les délégués au permis de
-conduire et à la sécurité routière et les inspecteurs du permis de conduire et de la sécurité routière ont accès aux locaux
-affectés au déroulement des stages.
-
-II. - Dans le même but, tout titulaire de l'agrément prévu à l'article R. 223-5 doit transmettre, avant le 31 janvier de
-chaque année, au préfet du département ou à l'autorité compétente du territoire ou de la collectivité territoriale d'outre-
-mer du lieu d'implantation de l'activité :
-
-1° Pour l'année écoulée, le programme, le contenu et le calendrier des stages réalisés, les effectifs de stagiaires
-accueillis et la liste des formateurs employés ;
-
-2° Pour l'année en cours, le programme, le contenu et le calendrier prévisionnels des stages et la liste des formateurs
-pressentis.
-
-**Nota:**
-
-Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
-
-_Abrogé par_:
-
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 23
-
-_Anciens textes_:
-
-  - Code de la route - art. R263 (Ab)
-  - Code de la route R263
-
-_Cite_:
-
-  - Code de la route.
-  - Code de la route. - art. R223-5
-
-
-###### Article R223-10
-
-L'agrément prévu à l'article R. 223-5 peut être retiré s'il apparaît que les obligations mises à la charge du titulaire de
-cet agrément par les articles R. 223-5 à R. 223-9 ont été méconnues. Cette décision de retrait n'intervient qu'après que la
-personne intéressée a été mise à même de présenter des observations écrites et, le cas échéant, sur sa demande, des
-observations orales.
-
-**Nota:**
-
-Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
-
-_Abrogé par_:
-
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 23
-
-_Anciens textes_:
-
-  - Code de la route - art. R264 (Ab)
-  - Code de la route R264
-
-_Cite_:
-
-  - Code de la route.
   - Code de la route. - art. R223-5
 
 
@@ -13638,9 +13924,9 @@ _Anciens textes_:
   - Code de la route R246-1
 
 
-#### Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation<a id=92></a>
+#### Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation<a id=97></a>
 
-##### Section 1 : Rétention et suspension administratives après constatation d'une infraction.<a id=93></a>
+##### Section 1 : Rétention et suspension administratives après constatation d'une infraction.<a id=98></a>
 
 ###### Article R224-1
 
@@ -13999,7 +14285,7 @@ _Anciens textes_:
   - Code de la route R274-1
 
 
-##### Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation.<a id=94></a>
+##### Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation.<a id=99></a>
 
 ###### Article R224-20
 
@@ -14172,7 +14458,7 @@ _Anciens textes_:
   - Code de la route R186 (al. 3)
 
 
-#### Chapitre V : Enregistrement et communication des informations relatives au permis de conduire.<a id=95></a>
+#### Chapitre V : Enregistrement et communication des informations relatives au permis de conduire.<a id=100></a>
 
 ###### Article R225-1
 
@@ -14418,9 +14704,9 @@ _Cite_:
   - Code de la route. - art. R225-5 (V)
 
 
-### Titre III : Comportement du conducteur.<a id=96></a>
+### Titre III : Comportement du conducteur.<a id=101></a>
 
-#### Chapitre Ier : Comportement en cas d'accident.<a id=97></a>
+#### Chapitre Ier : Comportement en cas d'accident.<a id=102></a>
 
 ###### Article R231-1
 
@@ -14457,7 +14743,7 @@ _Anciens textes_:
   - Code de la route R53-3
 
 
-#### Chapitre III : Comportement en cas de contrôle routier.<a id=98></a>
+#### Chapitre III : Comportement en cas de contrôle routier.<a id=103></a>
 
 ###### Article R233-1
 
@@ -14615,7 +14901,7 @@ _Cite_:
   - Code de la route. - art. L211-1 (V)
 
 
-#### Chapitre IV : Conduite sous l'influence de l'alcool.<a id=99></a>
+#### Chapitre IV : Conduite sous l'influence de l'alcool.<a id=104></a>
 
 ###### Article R234-1
 
@@ -14783,9 +15069,9 @@ _Cité par_:
   - Code de la santé publique - art. R3354-1 (V)
 
 
-#### Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants<a id=100></a>
+#### Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants<a id=105></a>
 
-##### Section 1 : Dispositions générales<a id=101></a>
+##### Section 1 : Dispositions générales<a id=106></a>
 
 ###### Article R235-1
 
@@ -14855,7 +15141,7 @@ _Cité par_:
   - Code de la route. - art. R245-2 (VD)
 
 
-##### Section 2 : Epreuves de dépistage<a id=102></a>
+##### Section 2 : Epreuves de dépistage<a id=107></a>
 
 ###### Article R235-3
 
@@ -14926,7 +15212,7 @@ _Cite_:
   - Code de la route. - art. R225-3
 
 
-##### Section 3 : Analyses et examens médicaux, cliniques et biologiques<a id=103></a>
+##### Section 3 : Analyses et examens médicaux, cliniques et biologiques<a id=108></a>
 
 ###### Article R235-5
 
@@ -15202,7 +15488,7 @@ _Cité par_:
   - Code de la route. - art. R245-2 (VD)
 
 
-##### Section 4 : Dispositions matérielles<a id=104></a>
+##### Section 4 : Dispositions matérielles<a id=109></a>
 
 ###### Article R235-12
 
@@ -15275,9 +15561,9 @@ _Cité par_:
   - Code de la route. - art. R245-2 (VD)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=105></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=110></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=106></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=111></a>
 
 ###### Article R241-1
 
@@ -15336,7 +15622,7 @@ _Cite_:
   - Code de la route. - art. R221-11 (M)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=107></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=112></a>
 
 ###### Article R242-1
 
@@ -15563,7 +15849,7 @@ _Cite_:
   - Code de la route. - art. R235-6 (M)
 
 
-#### Chapitre III : Dispositions applicables à la Nouvelle-Calédonie.<a id=108></a>
+#### Chapitre III : Dispositions applicables à la Nouvelle-Calédonie.<a id=113></a>
 
 ###### Article R243-1
 
@@ -15770,7 +16056,7 @@ _Nouveaux textes_:
   - Code de la route. - art. R212-4 (V)
 
 
-#### Chapitre IV : Dispositions applicables à la Polynésie française.<a id=109></a>
+#### Chapitre IV : Dispositions applicables à la Polynésie française.<a id=114></a>
 
 ###### Article R244-1
 
@@ -15963,7 +16249,7 @@ _Cite_:
   - Code de la route. - art. R235-9 (M)
 
 
-#### Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna.<a id=110></a>
+#### Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna.<a id=115></a>
 
 ###### Article R245-1
 
@@ -16173,11 +16459,11 @@ _Nouveaux textes_:
   - Code de la route. - art. R213-3 (V)
 
 
-## Livre III : Le véhicule.<a id=111></a>
+## Livre III : Le véhicule.<a id=116></a>
 
-### Titre Ier : Dispositions techniques.<a id=112></a>
+### Titre Ier : Dispositions techniques.<a id=117></a>
 
-#### Chapitre Ier : Dispositions générales et définitions.<a id=113></a>
+#### Chapitre Ier : Dispositions générales et définitions.<a id=118></a>
 
 ###### Article R311-1
 
@@ -16680,9 +16966,9 @@ _Cité par_:
   - Code de la route. - art. R130-6 (VD)
 
 
-#### Chapitre II : Poids et dimensions<a id=114></a>
+#### Chapitre II : Poids et dimensions<a id=119></a>
 
-##### Section 1 : Poids.<a id=115></a>
+##### Section 1 : Poids.<a id=120></a>
 
 ###### Article R312-1
 
@@ -17250,7 +17536,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R312-8 (V)
 
 
-##### Section 2 : Dimensions des véhicules.<a id=116></a>
+##### Section 2 : Dimensions des véhicules.<a id=121></a>
 
 ###### Article R312-10
 
@@ -17694,7 +17980,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R312-17 (V)
 
 
-##### Section 3 : Dimensions et conditions du chargement.<a id=117></a>
+##### Section 3 : Dimensions et conditions du chargement.<a id=122></a>
 
 ###### Article R312-19
 
@@ -17963,9 +18249,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R312-24 (V)
 
 
-#### Chapitre III : Eclairage et signalisations<a id=118></a>
+#### Chapitre III : Eclairage et signalisations<a id=123></a>
 
-##### Section 1 : Eclairage et signalisation des véhicules.<a id=119></a>
+##### Section 1 : Eclairage et signalisation des véhicules.<a id=124></a>
 
 ###### Article R313-1
 
@@ -19412,7 +19698,7 @@ _Anciens textes_:
   - Code de la route R92 (al. 6), R 168, R216 (al. 2), R231-1 III
 
 
-##### Section 2 : Signaux d'avertissement.<a id=120></a>
+##### Section 2 : Signaux d'avertissement.<a id=125></a>
 
 ###### Article R313-33
 
@@ -19508,7 +19794,7 @@ _Anciens textes_:
   - Code de la route R240 (al. 2)
 
 
-#### Chapitre IV : Pneumatiques.<a id=121></a>
+#### Chapitre IV : Pneumatiques.<a id=126></a>
 
 ###### Article R314-1
 
@@ -19770,7 +20056,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R314-6 (V)
 
 
-#### Chapitre V : Freinage.<a id=122></a>
+#### Chapitre V : Freinage.<a id=127></a>
 
 ###### Article R315-1
 
@@ -19979,7 +20265,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R315-5 (V)
 
 
-#### Chapitre VI : Organes de manoeuvre, de direction et de visibilité.<a id=123></a>
+#### Chapitre VI : Organes de manoeuvre, de direction et de visibilité.<a id=128></a>
 
 ###### Article R316-1
 
@@ -20289,9 +20575,9 @@ _Cité par_:
   - Code de la route. - art. R342-3 (V)
 
 
-#### Chapitre VII : Dispositifs et aménagements particuliers<a id=124></a>
+#### Chapitre VII : Dispositifs et aménagements particuliers<a id=129></a>
 
-##### Section 1 : Appareils de contrôle et de limitation de la vitesse.<a id=125></a>
+##### Section 1 : Appareils de contrôle et de limitation de la vitesse.<a id=130></a>
 
 ###### Article R317-1
 
@@ -20585,7 +20871,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-6 (M)
 
 
-##### Section 2 : Plaques et inscriptions.<a id=126></a>
+##### Section 2 : Plaques et inscriptions.<a id=131></a>
 
 ###### Article R317-8
 
@@ -20855,7 +21141,7 @@ _Anciens textes_:
   - Code de la route R168, R239
 
 
-##### Section 3 : Dispositif antivol.<a id=127></a>
+##### Section 3 : Dispositif antivol.<a id=132></a>
 
 ###### Article R317-15
 
@@ -20934,7 +21220,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-16 (V)
 
 
-##### Section 4 : Attelage des remorques.<a id=128></a>
+##### Section 4 : Attelage des remorques.<a id=133></a>
 
 ###### Article R317-18
 
@@ -21035,7 +21321,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-19 (V)
 
 
-##### Section 5 : Remorquage des véhicules en panne ou accidentés.<a id=129></a>
+##### Section 5 : Remorquage des véhicules en panne ou accidentés.<a id=134></a>
 
 ###### Article R317-21
 
@@ -21091,7 +21377,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-21 (V)
 
 
-##### Section 6 : Autres aménagements.<a id=130></a>
+##### Section 6 : Autres aménagements.<a id=135></a>
 
 ###### Article R317-23
 
@@ -21327,7 +21613,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-27 (V)
 
 
-#### Chapitre VIII : Energie, émissions polluantes et nuisances.<a id=131></a>
+#### Chapitre VIII : Energie, émissions polluantes et nuisances.<a id=136></a>
 
 ###### Article R318-1
 
@@ -21716,11 +22002,11 @@ _Cite_:
   - Directive 67-548 CEE 1967-06-27 (Conseil)
 
 
-### Titre II : Dispositions administratives.<a id=132></a>
+### Titre II : Dispositions administratives.<a id=137></a>
 
-#### Chapitre Ier : Réception et homologation<a id=133></a>
+#### Chapitre Ier : Réception et homologation<a id=138></a>
 
-##### Section 1 : Dispositions générales.<a id=134></a>
+##### Section 1 : Dispositions générales.<a id=139></a>
 
 ###### Article D321-5-1
 
@@ -21983,7 +22269,7 @@ _Créé par_:
   - Décret n°2009-497 du 30 avril 2009 - art. 8
 
 
-##### Section 2 : Réception communautaire ou réception CE.<a id=135></a>
+##### Section 2 : Réception communautaire ou réception CE.<a id=140></a>
 
 ###### Article R321-6
 
@@ -22316,7 +22602,7 @@ _Cité par_:
   - Code de la route. - art. R330-6 (V)
 
 
-##### Section 3 : Réception nationale par type ou à titre isolé et homologation.<a id=136></a>
+##### Section 3 : Réception nationale par type ou à titre isolé et homologation.<a id=141></a>
 
 ###### Article R321-15
 
@@ -22714,9 +23000,9 @@ _Cité par_:
   - Arrêté du 17 août 2016 - art. 23 (V)
 
 
-#### Chapitre II : Immatriculation<a id=137></a>
+#### Chapitre II : Immatriculation<a id=142></a>
 
-##### Section 1 : Délivrance du certificat d'immatriculation.<a id=138></a>
+##### Section 1 : Délivrance du certificat d'immatriculation.<a id=143></a>
 
 ###### Article R322-1
 
@@ -23359,7 +23645,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R322-9 (M)
 
 
-##### Section 2 : Opposition au transfert du certificat d'immatriculation.<a id=139></a>
+##### Section 2 : Opposition au transfert du certificat d'immatriculation.<a id=144></a>
 
 ###### Article R322-15
 
@@ -23458,9 +23744,9 @@ _Anciens textes_:
   - Code de la route - art. R301 (Ab)
 
 
-#### Chapitre III : Contrôle technique<a id=140></a>
+#### Chapitre III : Contrôle technique<a id=145></a>
 
-##### Section 1 : Dispositions générales.<a id=141></a>
+##### Section 1 : Dispositions générales.<a id=146></a>
 
 ###### Article R323-1
 
@@ -23637,7 +23923,7 @@ _Cité par_:
   - Code de la route. - art. R342-3 (V)
 
 
-##### Section 2 : Agrément des contrôleurs, des installations et des réseaux<a id=142></a>
+##### Section 2 : Agrément des contrôleurs, des installations et des réseaux<a id=147></a>
 
 ###### Article R323-6
 
@@ -24362,7 +24648,7 @@ _Cité par_:
   - Code de la route. - art. R323-13 (V)
 
 
-##### Section 3 : Dispositions applicables aux voitures particulières et aux camionnettes.<a id=143></a>
+##### Section 3 : Dispositions applicables aux voitures particulières et aux camionnettes.<a id=148></a>
 
 ###### Article R323-22
 
@@ -24435,7 +24721,7 @@ _Modifié par_:
   - TXT_SOURCE: Directive 96-62 CEE 1996-09-27
 
 
-##### Section 4 : Dispositions applicables aux autres véhicules.<a id=144></a>
+##### Section 4 : Dispositions applicables aux autres véhicules.<a id=149></a>
 
 ###### Article R323-23
 
@@ -24615,9 +24901,9 @@ _Cite_:
   - Code de la route. - art. R323-24 (M)
 
 
-#### Chapitre V : Immobilisation et mise en fourrière<a id=145></a>
+#### Chapitre V : Immobilisation et mise en fourrière<a id=150></a>
 
-##### Section 1 : Dispositions générales.<a id=146></a>
+##### Section 1 : Dispositions générales.<a id=151></a>
 
 ###### Article R325-1
 
@@ -24683,7 +24969,7 @@ _Cité par_:
   - Code de la route. - art. R344-1 (V)
 
 
-##### Section 2 : Immobilisation.<a id=147></a>
+##### Section 2 : Immobilisation.<a id=152></a>
 
 ###### Article R325-2
 
@@ -25078,9 +25364,9 @@ _Cite_:
   - Code de la route. - art. R325-9
 
 
-##### Section 3 : Fourrière<a id=148></a>
+##### Section 3 : Fourrière<a id=153></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=149></a>
+##### Sous-section 1 : Dispositions générales.<a id=154></a>
 
 ###### Article R325-12
 
@@ -26276,7 +26562,7 @@ _Anciens textes_:
   - Code de la route R275 (al. 4)
 
 
-##### Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique.<a id=150></a>
+##### Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique.<a id=155></a>
 
 ###### Article R325-47
 
@@ -26404,9 +26690,9 @@ _Cite_:
   - Code de la route. - art. R325-47 (V)
 
 
-#### Chapitre VI : Organisation de la profession d'expert en automobile<a id=151></a>
+#### Chapitre VI : Organisation de la profession d'expert en automobile<a id=156></a>
 
-##### Section 1 : Règles générales.<a id=152></a>
+##### Section 1 : Règles générales.<a id=157></a>
 
 ###### Article R326-1
 
@@ -26535,7 +26821,7 @@ _Anciens textes_:
   - Code de la route. - art. R327-4 (M)
 
 
-##### Section 2 : Organisation et fonctionnement de la Commission nationale des experts en automobile.<a id=153></a>
+##### Section 2 : Organisation et fonctionnement de la Commission nationale des experts en automobile.<a id=158></a>
 
 ###### Article R326-5
 
@@ -27003,7 +27289,7 @@ _Abrogé par_:
   - Décret n°2011-760 du 28 juin 2011 - art. 1
 
 
-#### Chapitre VII : Véhicules endommagés<a id=154></a>
+#### Chapitre VII : Véhicules endommagés<a id=159></a>
 
 ###### Article R327-1
 
@@ -27239,7 +27525,7 @@ _Nouveaux textes_:
   - Code de la route. - art. R326-6 (V)
 
 
-### Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules.<a id=155></a>
+### Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules.<a id=160></a>
 
 ###### Article R330-1
 
@@ -27391,9 +27677,9 @@ _Nouveaux textes_:
   - Code de la route. - art. R330-6 (V)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=156></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=161></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=157></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=162></a>
 
 ###### Article R341-1
 
@@ -27415,7 +27701,7 @@ _Codifié par_:
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=158></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=163></a>
 
 ###### Article R342-1
 
@@ -27591,9 +27877,9 @@ _Cite_:
   - Code de la route. - art. R326-17 (Ab)
 
 
-#### Chapitre III : Dispositions applicables à la Polynésie française<a id=159></a>
+#### Chapitre III : Dispositions applicables à la Polynésie française<a id=164></a>
 
-##### Section 1 : Dispositions générales.<a id=160></a>
+##### Section 1 : Dispositions générales.<a id=165></a>
 
 ###### Article R343-1
 
@@ -27679,7 +27965,7 @@ _Cite_:
   - Code de la route. - art. R317-4 (V)
 
 
-##### Section 2 : Immobilisation.<a id=161></a>
+##### Section 2 : Immobilisation.<a id=166></a>
 
 ###### Article R343-2
 
@@ -27859,7 +28145,7 @@ _Cité par_:
   - Code de la route. - art. R343-2 (M)
 
 
-##### Section 3 : Fourrière.<a id=162></a>
+##### Section 3 : Fourrière.<a id=167></a>
 
 ###### Article R343-4
 
@@ -28275,9 +28561,9 @@ _Cite_:
   - Code de la route. - art. R325-45 (V)
 
 
-#### Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie<a id=163></a>
+#### Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie<a id=168></a>
 
-##### Section 1 : Dispositions générales.<a id=164></a>
+##### Section 1 : Dispositions générales.<a id=169></a>
 
 ###### Article R344-1
 
@@ -28362,7 +28648,7 @@ _Cite_:
   - Code de la route. - art. R317-4 (V)
 
 
-##### Section 2 : Immobilisation.<a id=165></a>
+##### Section 2 : Immobilisation.<a id=170></a>
 
 ###### Article R344-2
 
@@ -28540,7 +28826,7 @@ _Créé par_:
   - Décret n°2007-1626 du 16 novembre 2007 - art. 13 () JORF 18 novembre 2007
 
 
-##### Section 3 : Fourrière.<a id=166></a>
+##### Section 3 : Fourrière.<a id=171></a>
 
 ###### Article R344-4
 
@@ -28908,13 +29194,13 @@ _Créé par_:
   - Décret n°2007-1626 du 16 novembre 2007 - art. 14 () JORF 18 novembre 2007
 
 
-## Livre IV : L'usage des voies.<a id=167></a>
+## Livre IV : L'usage des voies.<a id=172></a>
 
-### Titre Ier : Dispositions générales.<a id=168></a>
+### Titre Ier : Dispositions générales.<a id=173></a>
 
-#### Chapitre Ier : Pouvoirs de police de la circulation<a id=169></a>
+#### Chapitre Ier : Pouvoirs de police de la circulation<a id=174></a>
 
-##### Section 1 : Pouvoirs généraux de police.<a id=170></a>
+##### Section 1 : Pouvoirs généraux de police.<a id=175></a>
 
 ###### Article R411-1
 
@@ -29263,7 +29549,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Commission départementale de la sécurité routière.<a id=171></a>
+##### Section 2 : Commission départementale de la sécurité routière.<a id=176></a>
 
 ###### Article R411-10
 
@@ -29369,7 +29655,7 @@ _Cite_:
   - Code de la route. - art. R411-11 (M)
 
 
-##### Section 3 : Interdictions et restrictions de circulation.<a id=172></a>
+##### Section 3 : Interdictions et restrictions de circulation.<a id=177></a>
 
 ###### Article R411-18
 
@@ -29692,7 +29978,7 @@ _Cité par_:
   - Code de la route. - art. R442-6 (V)
 
 
-##### Section 4 : Signalisation routière.<a id=173></a>
+##### Section 4 : Signalisation routière.<a id=178></a>
 
 ###### Article R411-25
 
@@ -29828,7 +30114,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 5 : Courses et épreuves sportives.<a id=174></a>
+##### Section 5 : Courses et épreuves sportives.<a id=179></a>
 
 ###### Article R411-29
 
@@ -29958,9 +30244,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=175></a>
+#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=180></a>
 
-##### Section 1 : Equipements des utilisateurs de véhicules.<a id=176></a>
+##### Section 1 : Equipements des utilisateurs de véhicules.<a id=181></a>
 
 ###### Article R412-1
 
@@ -30184,7 +30470,7 @@ _Cite_:
   - Code de la route. - art. R412-1 (V)
 
 
-##### Section 2 : Principes généraux de circulation.<a id=177></a>
+##### Section 2 : Principes généraux de circulation.<a id=182></a>
 
 ###### Article R412-6
 
@@ -30700,7 +30986,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Matérialisation des voies de circulation.<a id=178></a>
+##### Section 3 : Matérialisation des voies de circulation.<a id=183></a>
 
 ###### Article R412-18
 
@@ -30949,7 +31235,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 4 : Sens de circulation.<a id=179></a>
+##### Section 4 : Sens de circulation.<a id=184></a>
 
 ###### Article R412-26
 
@@ -31042,7 +31328,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 5 : Feux de signalisation lumineux.<a id=180></a>
+##### Section 5 : Feux de signalisation lumineux.<a id=185></a>
 
 ###### Article R412-29
 
@@ -31200,7 +31486,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 6 : Circulation des piétons.<a id=181></a>
+##### Section 6 : Circulation des piétons.<a id=186></a>
 
 ###### Article R412-34
 
@@ -31518,7 +31804,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=182></a>
+##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=187></a>
 
 ###### Article R412-44
 
@@ -31712,7 +31998,7 @@ _Anciens textes_:
   - Code de la route R223, R233 (al. 1 et 2)
 
 
-##### Section 8 : Troubles à la circulation.<a id=183></a>
+##### Section 8 : Troubles à la circulation.<a id=188></a>
 
 ###### Article R412-51
 
@@ -31780,9 +32066,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Vitesse<a id=184></a>
+#### Chapitre III : Vitesse<a id=189></a>
 
-##### Section 1 : Vitesses maximales autorisées.<a id=185></a>
+##### Section 1 : Vitesses maximales autorisées.<a id=190></a>
 
 ###### Article R413-1
 
@@ -32426,7 +32712,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Maîtrise de la vitesse.<a id=186></a>
+##### Section 2 : Maîtrise de la vitesse.<a id=191></a>
 
 ###### Article R413-17
 
@@ -32550,9 +32836,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre IV : Croisement et dépassement<a id=187></a>
+#### Chapitre IV : Croisement et dépassement<a id=192></a>
 
-##### Section 1 : Croisement.<a id=188></a>
+##### Section 1 : Croisement.<a id=193></a>
 
 ###### Article R414-1
 
@@ -32658,7 +32944,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Dépassement.<a id=189></a>
+##### Section 2 : Dépassement.<a id=194></a>
 
 ###### Article R414-4
 
@@ -33180,7 +33466,7 @@ _Cité par_:
   - Code de la route. - art. R442-2 (V)
 
 
-#### Chapitre V : Intersections et priorité de passage.<a id=190></a>
+#### Chapitre V : Intersections et priorité de passage.<a id=195></a>
 
 ###### Article R415-1
 
@@ -33705,9 +33991,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=191></a>
+#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=196></a>
 
-##### Section 1 : Emploi des avertisseurs.<a id=192></a>
+##### Section 1 : Emploi des avertisseurs.<a id=197></a>
 
 ###### Article R416-1
 
@@ -33791,7 +34077,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=193></a>
+##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=198></a>
 
 ###### Article R416-4
 
@@ -34214,7 +34500,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres dispositions.<a id=194></a>
+##### Section 3 : Autres dispositions.<a id=199></a>
 
 ###### Article R416-17
 
@@ -34370,9 +34656,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VII : Arrêt et stationnement<a id=195></a>
+#### Chapitre VII : Arrêt et stationnement<a id=200></a>
 
-##### Section 1 : Dispositions générales.<a id=196></a>
+##### Section 1 : Dispositions générales.<a id=201></a>
 
 ###### Article R417-1
 
@@ -34641,7 +34927,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=197></a>
+##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=202></a>
 
 ###### Article R417-9
 
@@ -34918,7 +35204,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=198></a>
+#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=203></a>
 
 ###### Article R418-1
 
@@ -35220,9 +35506,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=199></a>
+### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=204></a>
 
-#### Chapitre Ier : Autoroutes.<a id=200></a>
+#### Chapitre Ier : Autoroutes.<a id=205></a>
 
 ###### Article R421-1
 
@@ -35573,7 +35859,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=201></a>
+#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=206></a>
 
 ###### Article R422-1
 
@@ -35748,9 +36034,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=202></a>
+### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=207></a>
 
-#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=203></a>
+#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=208></a>
 
 ###### Article R431-1
 
@@ -36147,9 +36433,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Véhicules d'intérêt général<a id=204></a>
+#### Chapitre II : Véhicules d'intérêt général<a id=209></a>
 
-##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=205></a>
+##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=210></a>
 
 ###### Article R432-1
 
@@ -36400,7 +36686,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R442-7 (V)
 
 
-##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=206></a>
+##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=211></a>
 
 ###### Article R432-2
 
@@ -36728,7 +37014,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres véhicules d'intérêt général.<a id=207></a>
+##### Section 3 : Autres véhicules d'intérêt général.<a id=212></a>
 
 ###### Article R432-5
 
@@ -36836,9 +37122,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=208></a>
+#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=213></a>
 
-##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=209></a>
+##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=214></a>
 
 ###### Article R433-1
 
@@ -37161,7 +37447,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Transports exceptionnels de personnes.<a id=210></a>
+##### Section 2 : Transports exceptionnels de personnes.<a id=215></a>
 
 ###### Article R433-7
 
@@ -37213,7 +37499,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=211></a>
+##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=216></a>
 
 ###### Article R433-8
 
@@ -37260,7 +37546,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 4 : Transports de bois ronds<a id=212></a>
+##### Section 4 : Transports de bois ronds<a id=217></a>
 
 ###### Article R433-9
 
@@ -37484,7 +37770,7 @@ _Cite_:
   - Code de la route. - art. L325-1
 
 
-#### Chapitre IV : Convois et véhicules à traction animale.<a id=213></a>
+#### Chapitre IV : Convois et véhicules à traction animale.<a id=218></a>
 
 ###### Article R434-1
 
@@ -37617,9 +37903,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre V : Autres véhicules<a id=214></a>
+#### Chapitre V : Autres véhicules<a id=219></a>
 
-##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=215></a>
+##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=220></a>
 
 ###### Article R435-1
 
@@ -37665,7 +37951,7 @@ _Cite_:
   - Code de la route L325-1 à L325-3
 
 
-##### Section 2 : Ensembles forains<a id=216></a>
+##### Section 2 : Ensembles forains<a id=221></a>
 
 ###### Article R436-1
 
@@ -37712,9 +37998,9 @@ _Nouveaux textes_:
   - Code de la route. - art. R435-3 (V)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=217></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=222></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=218></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=223></a>
 
 ###### Article R441-1
 
@@ -37844,7 +38130,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=219></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=224></a>
 
 ###### Article R442-1
 
