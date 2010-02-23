@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2010-02-15
+Version Consolidée au 2010-02-24
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -24035,8 +24035,8 @@ _Cité par_:
 ###### Article R323-6
 
 I.-Les contrôles techniques prévus au présent chapitre sont effectués par les services de l'Etat ou par un contrôleur agréé
-par l'Etat exerçant ses fonctions, dans les conditions prévues par la présente section, dans des installations de contrôle
-agréées rattachées, le cas échéant, à un réseau de contrôle agréé. 
+par l'Etat ou un prestataire visé au II de l'article L. 323-1 exerçant ses fonctions, dans les conditions prévues par la
+présente section, dans des installations de contrôle agréées rattachées, le cas échéant, à un réseau de contrôle agréé. 
 
 II.-Pour l'application de la présente section, sont considérés comme véhicules légers les véhicules mentionnés à l'article R.
 323-22 et les véhicules mentionnés aux articles R. 323-24 et R. 323-26 dont le poids total autorisé en charge n'excède pas 3,
@@ -24060,18 +24060,9 @@ _Cité par_:
   - Code de la route. - art. R323-22 (V)
   - Code de la route. - art. R323-7 (M)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-568 2004-06-11 art. 5 : champ d'application
-  - TXT_SOURCE: Directive 96-62 CEE 1996-09-27
-
 _Modifié par_:
 
-  - Décret n°2004-568 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
+  - Décret n°2010-163 du 22 février 2010 - art. 2
 
 _Anciens textes_:
 
@@ -24079,17 +24070,18 @@ _Anciens textes_:
   - Code de la route - art. R120 (Ab)
   - Code de la route R119-1 (al. 1), R120
 
+_Cite_:
+
+  - Code de la route. - art. L323-1
+  - Code de la route. - art. R323-23
+  - Code de la route. - art. R323-24
+  - Code de la route. - art. R323-25
+  - Code de la route. - art. R323-26
+
 _Nouveaux textes_:
 
   - Code de la route. - art. R323-22 (M)
   - Code de la route. - art. R323-22 (V)
-
-_Cite_:
-
-  - Code de la route. - art. R323-23 (V)
-  - Code de la route. - art. R323-24 (V)
-  - Code de la route. - art. R323-25 (V)
-  - Code de la route. - art. R323-26 (V)
 
 
 ###### Article R323-7
@@ -24516,23 +24508,23 @@ _Cité par_:
 
 ###### Article R323-16
 
-I. - Le fait, pour le titulaire de l'agrément des installations d'un centre de contrôle, de faire réaliser un contrôle
+I.-Le fait, pour le titulaire de l'agrément des installations d'un centre de contrôle, de faire réaliser un contrôle
 technique dans des locaux abritant une activité de réparation ou de commerce automobile ou communiquant avec un lieu abritant
-une telle activité est puni de l'amende prévue pour les contraventions de la cinquième classe.
+une telle activité est puni de l'amende prévue pour les contraventions de la cinquième classe. 
 
-II. - Le fait, pour le titulaire de l'agrément des installations de contrôle, de ne pas transmettre les données relatives à
-un contrôle technique effectué dans ces installations dans le délai fixé par l'arrêté prévu au I de l'article R. 323-13 est
-puni de l'amende prévue pour les contraventions de la cinquième classe.
+II.-Le fait, pour le titulaire de l'agrément des installations de contrôle, de ne pas transmettre les données relatives à un
+contrôle technique effectué dans ces installations dans le délai fixé par l'arrêté prévu au I de l'article R. 323-13 est puni
+de l'amende prévue pour les contraventions de la cinquième classe. 
 
-III. - Le fait, pour le titulaire de l'agrément des installations de contrôle, de faire réaliser un contrôle technique dans
-des installations ou au moyen d'équipements non conformes à l'agrément délivré ou aux dispositions définies par l'arrêté visé
-au I de l'article R. 323-13 est puni de l'amende prévue pour les contraventions de la cinquième classe.
+III.-Le fait, pour le titulaire de l'agrément des installations de contrôle, de faire réaliser un contrôle technique dans des
+installations ou au moyen d'équipements non conformes à l'agrément délivré ou aux dispositions définies par l'arrêté visé au
+I de l'article R. 323-13 est puni de l'amende prévue pour les contraventions de la cinquième classe. 
 
-IV. - Le fait, pour le titulaire de l'agrément des installations de contrôle, de faire réaliser un contrôle technique par un
-contrôleur agréé ne possédant pas la qualification requise pour ce contrôle est puni de l'amende prévue pour les
-contraventions de la cinquième classe.
+IV.-Le fait, pour le titulaire de l'agrément des installations de contrôle, de faire réaliser un contrôle technique par un
+contrôleur agréé ou un prestataire visé au II de l'article L. 323-1 ne possédant pas la qualification requise pour ce
+contrôle est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
-V. - Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du
+V.-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du
 code pénal, des infractions définies au présent article. La peine encourue par les personnes morales est l'amende, selon les
 modalités prévues par l'article 131-41 du code pénal.
 
@@ -24544,23 +24536,16 @@ _Anciens textes_:
   - Décret n°91-370 du 15 avril 1991 - art. 10 (Ab)
   - Décret n°91-370 du 15 avril 1991 - art. 13 (Ab)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-568 2004-06-11 art. 5 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2004-568 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
+  - Décret n°2010-163 du 22 février 2010 - art. 3
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-41 (V)
-  - Code de la route. - art. R323-13 (M)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-41
+  - Code de la route. - art. L323-1
+  - Code de la route. - art. R323-13
 
 _Cité par_:
 
@@ -24569,15 +24554,20 @@ _Cité par_:
 
 ###### Article R323-17
 
-I. - Les contrôleurs agréés doivent posséder une qualification dont les caractéristiques sont définies par arrêté du ministre
-chargé des transports pour chaque catégorie de contrôle technique.
+I.-Les contrôleurs agréés doivent posséder une qualification dont les caractéristiques sont définies par arrêté du ministre
+chargé des transports pour chaque catégorie de contrôle technique. 
 
-II. - Un contrôleur agréé ne peut exercer aucune activité dans la réparation ou le commerce automobile, que ce soit à titre
-indépendant ou en qualité de salarié.
+II.-Un contrôleur agréé ne peut exercer aucune activité dans la réparation ou le commerce automobile, que ce soit à titre
+indépendant ou en qualité de salarié. 
 
-III. - Un contrôleur agréé ne doit pas effectuer, par trimestre, plus de 35 % du nombre de ses contrôles techniques dans des
+III.-Un contrôleur agréé ne doit pas effectuer, par trimestre, plus de 35 % du nombre de ses contrôles techniques dans des
 installations auxiliaires. De plus, un contrôleur ne doit pas effectuer, par trimestre, plus de 35 % des contrôles techniques
-de véhicules lourds réalisés dans une même installation auxiliaire.
+de véhicules lourds réalisés dans une même installation auxiliaire. 
+
+IV.-Lorsqu'il est réalisé par un prestataire visé au II de l'article L. 323-1, le contrôle technique prévu par le présent
+chapitre ne peut être réputé avoir été réalisé que si, pour la prestation considérée, ce prestataire n'a aucun lien de nature
+à porter atteinte à son indépendance avec des personnes, organismes, sociétés ou entreprises qui exercent une activité de
+réparation ou de commerce dans le secteur automobile.
 
 **Liens relatifs à cet article**
 
@@ -24597,17 +24587,13 @@ _Cité par_:
   - Arrêté du 15 janvier 2013 - art. 32
   - Arrêté du 6 décembre 2017 - art. (V)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-568 2004-06-11 art. 5 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2004-568 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
+  - Décret n°2010-163 du 22 février 2010 - art. 4
+
+_Cite_:
+
+  - Code de la route. - art. L323-1
 
 
 ###### Article R323-18
@@ -24675,11 +24661,83 @@ _Modifié par_:
   - Décret n°2004-568 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
 
 
+###### Article R323-18-1
+
+La déclaration mentionnée au II de l'article L. 323-1 est adressée au préfet du département dans lequel le prestataire
+envisage d'exercer l'activité de contrôleur technique. 
+
+Elle doit être accompagnée des documents suivants lorsqu'elle est souscrite pour la première fois ou en cas de changement de
+situation : 
+
+1° Une preuve de la nationalité du prestataire ; 
+
+2° Une attestation certifiant que le prestataire est légalement établi dans un autre Etat membre de l'Union européenne ou
+dans un autre Etat partie à l'accord sur l'Espace économique européen pour y exercer la profession de contrôleur technique,
+et qu'il n'encourt, à la date de l'attestation, aucune interdiction, même temporaire, d'exercer ; 
+
+3° Une preuve de ses qualifications professionnelles ; 
+
+4° Lorsque la profession de contrôleur technique n'est pas réglementée dans l'Etat d'établissement, la preuve par tout moyen
+que le prestataire a exercé cette profession pendant au moins deux années au cours des dix années précédant la prestation ; 
+
+5° Une copie du contrat de travail ou une lettre d'engagement du centre de contrôle employeur. 
+
+La déclaration et les documents joints peuvent être transmis par tout moyen. Les documents en langue étrangère sont
+accompagnés de leur traduction en langue française.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 18 juin 1991 - art. 26-3 (T)
+  - Arrêté du 27 juillet 2004 - art. 35-1 (V)
+  - Arrêté du 27 juillet 2004 - art. 35-4 (V)
+
+_Créé par_:
+
+  - Décret n°2010-163 du 22 février 2010 - art. 5
+
+_Cite_:
+
+  - Code de la route. - art. L323-1
+
+
+###### Article R323-18-2
+
+La prestation est effectuée sous le titre professionnel porté dans l'Etat d'établissement ou, si le titre professionnel
+n'existe pas dans l'Etat d'établissement, sous le titre de formation du prestataire. 
+
+Le titre professionnel ou le titre de formation est indiqué dans la langue officielle ou dans l'une des langues officielles
+de l'Etat d'établissement. Le titre de formation est suivi des noms et lieux de l'établissement ou du jury qui l'a délivré.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-163 du 22 février 2010 - art. 5
+
+
+###### Article R323-18-3
+
+A la demande d'une autorité compétente d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique
+européen sur le territoire duquel un contrôleur technique exécute ou déclare vouloir exécuter une prestation de services, le
+préfet du département du lieu de résidence de celui-ci communique à cette autorité toutes informations pertinentes sur la
+légalité de l'établissement en France du professionnel concerné. Si le professionnel est, à la date de la communication, sous
+le coup d'une suspension ou d'un retrait d'agrément, mention en est faite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-163 du 22 février 2010 - art. 5
+
+
 ###### Article R323-19
 
-Le fait, pour tout contrôleur agréé, d'effectuer un contrôle technique dont le contenu, les modalités ou le résultat ne
-satisfont pas aux dispositions du présent chapitre et des dispositions prises pour son application ou de ne pas tirer de ce
-contrôle les conclusions qui s'imposent est puni de l'amende prévue pour les contraventions de la quatrième classe.
+Le fait, pour tout contrôleur agréé ou prestataire visé au II de l'article L. 323-1, d'effectuer un contrôle technique dont
+le contenu, les modalités ou le résultat ne satisfont pas aux dispositions du présent chapitre et des dispositions prises
+pour son application ou de ne pas tirer de ce contrôle les conclusions qui s'imposent est puni de l'amende prévue pour les
+contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
@@ -24687,17 +24745,13 @@ _Anciens textes_:
 
   - Décret n°91-370 1991-04-15 art. 13
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-568 2004-06-11 art. 5 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2004-568 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
+  - Décret n°2010-163 du 22 février 2010 - art. 6
+
+_Cite_:
+
+  - Code de la route. - art. L323-1
 
 
 ###### Article R323-20
@@ -27090,17 +27144,13 @@ _Nouveaux textes_:
 
 La commission établit son règlement intérieur.
 
-Le secrétariat de la commission est assuré par un fonctionnaire désigné par le ministre chargé des transports.
+Le secrétariat de la commission est assuré par le service désigné par le ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+  - Décret n°2010-163 du 22 février 2010 - art. 7
 
 _Anciens textes_:
 
@@ -27144,8 +27194,9 @@ _Nouveaux textes_:
 
 ###### Article R326-10
 
-Toute personne souhaitant être inscrite sur la liste des experts en automobile doit en faire la demande au secrétariat de la
-commission. Cette demande est accompagnée des pièces justificatives suivantes : 
+Toute personne, à l'exception de celles visées au II de l'article L. 326-4, souhaitant être inscrite sur la liste des experts
+en automobile doit en faire la demande au secrétariat de la commission. Cette demande est accompagnée des pièces
+justificatives suivantes : 
 
 1° Un document établissant l'état civil de l'intéressé ; 
 
@@ -27181,7 +27232,15 @@ d'exercer l'activité d'expert en automobile ;
 
 6° La copie de l'attestation justifiant que le demandeur a suivi la formation dans les conditions prévues à l'article R.
 326-17 lorsqu'il sollicite la reconnaissance de sa qualification pour le contrôle des véhicules endommagés prévue par les
-articles L. 327-1 à L. 327-6.
+articles L. 327-1 à L. 327-6. 
+
+Les pièces visées aux 4° et 5° ne peuvent dater de plus de trois mois au moment de leur production. 
+
+Les documents en langue étrangère visés au présent article sont accompagnés de leur traduction en langue française. 
+
+La commission accuse réception du dossier du demandeur dans un délai d'un mois à compter de sa réception et l'informe, le cas
+échéant, de tout document manquant. Elle statue sur la demande d'inscription par une décision motivée qui doit intervenir
+dans un délai de trois mois à compter de la date de réception du dossier complet présenté par l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -27190,6 +27249,7 @@ _Cite_:
   - Décret n°74-472 du 17 mai 1974
   - Décret n°95-493 du 25 avril 1995
   - Code de la route. - art. L326-2
+  - Code de la route. - art. L326-4
   - Code de la route. - art. L326-6
   - Code de la route. - art. L326-7
   - Code de la route. - art. L326-9
@@ -27199,11 +27259,132 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2009-397 du 10 avril 2009 - art. 3
+  - Décret n°2010-163 du 22 février 2010 - art. 8
 
 _Cité par_:
 
   - Code de la route. - art. R326-12 (V)
+
+
+###### Article R326-10-1
+
+La déclaration mentionnée au II de l'article L. 326-4 tient lieu de demande de première inscription à titre temporaire sur la
+liste des experts en automobile. 
+
+Elle est adressée au secrétariat de la commission et doit être accompagnée des documents suivants lorsqu'elle est souscrite
+pour la première fois ou en cas de changement matériel relatif à la situation établie par eux : 
+
+1° Une preuve de l'identité et de la nationalité du prestataire ; 
+
+2° Une attestation certifiant que le prestataire est légalement établi dans un autre Etat membre de l'Union européenne ou
+dans un autre Etat partie à l'accord sur l'Espace économique européen pour y exercer la profession d'expert en automobile, et
+qu'il n'encourt, lorsque l'attestation est délivrée, aucune interdiction même temporaire d'exercer ; 
+
+3° Une preuve de ses qualifications professionnelles ; 
+
+4° Lorsque la profession d'expert en automobile n'est pas réglementée dans l'Etat d'établissement, la preuve par tout moyen
+que le prestataire a exercé cette profession pendant au moins deux années au cours des dix années précédentes ; 
+
+5° Une preuve que le prestataire est couvert par un contrat d'assurance garantissant la responsabilité civile qu'il peut
+encourir en raison des activités mentionnées à l'article L. 326-4 ; 
+
+La déclaration et les documents joints peuvent être transmis par tout moyen. Les documents en langue étrangère sont
+accompagnés de leur traduction en langue française.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-163 du 22 février 2010 - art. 9
+
+_Cité par_:
+
+  - Arrêté du 23 février 2010 - art. 1 (Ab)
+  - Arrêté du 23 février 2010 - art. 4 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. L326-4
+
+
+###### Article R326-10-2
+
+La commission peut demander, le cas échéant, au prestataire de justifier qu'il possède les connaissances linguistiques
+nécessaires à l'exercice des fonctions d'expert en automobile en France.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-163 du 22 février 2010 - art. 9
+
+_Abrogé par_:
+
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
+
+
+###### Article R326-10-3
+
+La commission procède, au vu des pièces prévues à l'article R. 326-10-1, à la vérification des qualifications
+professionnelles de l'expert dans un délai d'un mois à compter de la réception de la déclaration et des documents prévus à
+l'article R. 326-10-1 et inscrit le prestataire sur la liste nationale pour une durée d'un an. 
+
+En l'absence de demande de complément d'information ou de notification du résultat de la vérification des qualifications, la
+prestation dont la nature est décrite dans la déclaration peut être effectuée à l'issue du délai d'un mois à compter de la
+réception de la déclaration par la commission. 
+
+Un arrêté du ministre chargé des transports fixe les modalités d'application du présent article, et notamment les conditions
+dans lesquelles la commission peut décider de soumettre le prestataire à un entretien professionnel, si l'examen des
+documents prévus à l'article R. 326-10-1 fait apparaître une différence substantielle entre les qualifications
+professionnelles du prestataire et celles requises pour exercer l'activité en France, et dans la mesure où cette différence
+est de nature à nuire à la sécurité des personnes. 
+
+Si, à l'issue de la première année, le prestataire souhaite à nouveau prester des services de manière temporaire et
+occasionnelle, il adresse à la commission une demande de renouvellement de son inscription sur la liste nationale pour une
+durée d'un an. Cette demande de renouvellement est accompagnée du document prévu au 5° de l'article R. 326-10-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-163 du 22 février 2010 - art. 9
+
+_Abrogé par_:
+
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
+
+
+###### Article R326-10-4
+
+A la demande d'une autorité compétente d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique
+européen sur le territoire duquel un expert en automobile exécute ou déclare vouloir exécuter une prestation de services, le
+service désigné par le ministre chargé des transports communique à cette autorité :
+
+- toute information pertinente sur la légalité de l'établissement en France de l'expert concerné. Si l'expert est, à la date
+de la communication, sous le coup d'une décision rendue en application de l'article R. 326-12, mention en est faite ;
+
+- les sanctions disciplinaires prononcées le cas échéant par la commission nationale des experts en automobile à l'encontre
+de cet expert. 
+
+Cette communication ne porte pas atteinte au caractère confidentiel des renseignements fournis.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-163 du 22 février 2010 - art. 9
+
+_Abrogé par_:
+
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. R326-12
 
 
 ###### Article R326-11
@@ -27231,7 +27412,8 @@ _Cité par_:
 
 ###### Article R326-12
 
-La commission vérifie chaque année que l'expert inscrit remplit les conditions requises par l'article R. 326-10.
+La commission vérifie chaque année que l'expert inscrit remplit les conditions requises par l'article R. 326-10, sauf si
+celui-ci a été inscrit à titre temporaire en application du II de l'article L. 326-4. 
 
 Elle peut, à tout moment, si elle constate qu'un expert ne remplit plus les conditions exigées, prononcer sa suspension
 pendant le temps nécessaire à la régularisation de sa situation ou sa radiation, après lui avoir imparti un délai pour
@@ -27239,17 +27421,14 @@ présenter ses observations.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Créé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+  - Décret n°2010-163 du 22 février 2010 - art. 10
 
 _Cite_:
 
-  - Code de la route. - art. R326-10 (V)
+  - Code de la route. - art. L326-4
+  - Code de la route. - art. R326-10
 
 _Cité par_:
 
