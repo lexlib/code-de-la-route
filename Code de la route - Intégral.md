@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2010-02-24
+Version Consolidée au 2010-05-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -527,10 +527,10 @@ Sauf cas de versement immédiat d'une amende forfaitaire ou d'une amende forfait
 applicables, lorsque l'auteur d'une infraction se trouve hors d'état de justifier d'un domicile ou d'un emploi sur le
 territoire français ou d'une caution agréée par l'administration habilitée à percevoir les amendes garantissant le paiement
 éventuel des condamnations pécuniaires encourues, le véhicule ayant servi à commettre l'infraction pourra être retenu jusqu'à
-ce qu'ait été versée à un comptable du Trésor ou à un agent mentionné à l'article L. 130-4 porteur d'un carnet de quittances
-à souches une consignation dont le montant est fixé par arrêté. La décision imposant le paiement d'une consignation est prise
-par le procureur de la République, qui est tenu de statuer dans le délai maximum de vingt-quatre heures après la constatation
-de l'infraction. 
+ce qu'ait été versée au comptable public compétent ou à un agent mentionné à l'article L. 130-4 porteur d'un carnet de
+quittances à souches une consignation dont le montant est fixé par arrêté. La décision imposant le paiement d'une
+consignation est prise par le procureur de la République, qui est tenu de statuer dans le délai maximum de vingt-quatre
+heures après la constatation de l'infraction. 
 
 Le véhicule peut être mis en fourrière si aucune de ces garanties n'est fournie par l'auteur de l'infraction et les frais en
 résultant sont mis à la charge de celui-ci.
@@ -557,11 +557,6 @@ _Cité par_:
   - Code de procédure pénale - art. R55-3 (V)
   - Code général des collectivités territoriales - art. L2212-5-1 (VD)
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 19 décembre 2001
@@ -569,7 +564,10 @@ _Codifié par_:
   - TXT_SOURCE: Arrêté du 19 décembre 2001 - art. 2 (V)
   - TXT_SOURCE: Arrêté du 19 décembre 2001 - art. 3 (V)
   - TXT_SOURCE: Arrêté du 19 décembre 2001 - art. 4 (V)
-  - SPEC_APPLI: Code de la route. - art. L318-4 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2010-420  du 27 avril 2010 - art. 116
 
 _Anciens textes_:
 
@@ -578,7 +576,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L130-4 (V)
+  - Code de la route. - art. L130-4
 
 
 ###### Article L121-4-1
@@ -6392,7 +6390,7 @@ _Cite_:
 
 ###### Article L322-1
 
-Lorsqu'une amende forfaitaire majorée a été émise, le comptable du Trésor peut faire opposition auprès de l'autorité
+Lorsqu'une amende forfaitaire majorée a été émise, le comptable public compétent peut faire opposition auprès de l'autorité
 administrative compétente à tout transfert du certificat d'immatriculation. Il en informe le procureur de la République. 
 
 Cette opposition suspend la prescription de la peine. 
@@ -6406,7 +6404,7 @@ lève l'opposition.
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 1
+  - Ordonnance n°2010-420  du 27 avril 2010 - art. 116
 
 _Cité par_:
 
@@ -8527,9 +8525,10 @@ _Cité par_:
 
 ###### Article L344-2
 
-Lorsqu'une amende forfaitaire majorée a été émise et que le comptable du Trésor constate que le contrevenant n'habite plus à
-l'adresse enregistrée au fichier territorial des immatriculations, il peut faire opposition au service d'immatriculation
-territorialement compétent à tout transfert du certificat d'immatriculation. Il en informe le procureur de la République. 
+Lorsqu'une amende forfaitaire majorée a été émise et que le comptable public compétent constate que le contrevenant n'habite
+plus à l'adresse enregistrée au fichier territorial des immatriculations, il peut faire opposition au service
+d'immatriculation territorialement compétent à tout transfert du certificat d'immatriculation. Il en informe le procureur de
+la République. 
 
 Cette opposition suspend la prescription de la peine. 
 
@@ -8540,9 +8539,14 @@ procureur de la République lève l'opposition.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-537 du 14 mai 2009 - art. 9
+  - Ordonnance n°2010-420  du 27 avril 2010 - art. 116
+
+_Cite_:
+
+  - Code de procédure pénale - art. 529-10 (V)
+  - Code de procédure pénale - art. 530 (V)
 
 
 ## Livre 4 : L'usage des voies<a id=53></a>
