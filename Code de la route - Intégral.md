@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2010-06-21
+Version Consolidée au 2010-06-25
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -155,7 +155,7 @@ Version Consolidée au 2010-06-21
           - [Section 1 : Règles générales. (art. R326-1 à R326-4)](#152)
           - [Section 2 : Organisation et fonctionnement de la Commission nationale des experts en automobile. (art. R326-5 à R326-18)](#153)
         - [Chapitre VII : Véhicules endommagés (art. R327-1 à R327-6)](#154)
-      - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-5)](#155)
+      - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-11)](#155)
       - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R344-4)](#156)
         - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R341-1)](#157)
         - [Chapitre II : Dispositions applicables à Mayotte. (art. R342-1 à R342-5)](#158)
@@ -27581,6 +27581,159 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code de la route. - art. R330-6 (V)
+
+
+###### Article R330-6
+
+I. ― Pour l'application des dispositions du 13° du I de l'article L. 330-2 : 
+
+1° Les rappels de sécurité s'entendent des rappels de véhicules effectués auprès des titulaires des certificats
+d'immatriculation en application des dispositions de l'article R. 321-14-1 ; 
+
+2° Les rappels de mise au point s'entendent des rappels de véhicules effectués auprès des titulaires des certificats
+d'immatriculation pour prévenir ou corriger, à titre gratuit et à des fins non commerciales, des défauts techniques qui ne
+sont pas de nature à compromettre gravement la sécurité routière, la santé publique ou la protection de l'environnement. 
+
+II. ― Les constructeurs de véhicules adressent au ministre de l'intérieur leur demande de communication. Ils peuvent désigner
+au ministre tout mandataire de leur choix. 
+
+La communication est effectuée à titre gratuit. Ses modalités sont fixées par voie conventionnelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-682 du 22 juin 2010 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. L330-2
+  - Code de la route. - art. R321-14-1
+
+_Anciens textes_:
+
+  - Code de la route. - art. R330-5 (T)
+
+
+###### Article R330-7
+
+Les personnes souhaitant bénéficier des dispositions des trois derniers alinéas de l'article L. 330-5 demandent au ministre
+de l'intérieur la délivrance d'une licence dans les conditions prévues à l'article 16 de la loi n° 78-753 du 17 juillet 1978
+portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre
+administratif, social et fiscal. La licence vaut agrément au sens de l'article L. 330-5. 
+
+La licence est dite statistique si elle est demandée aux fins prévues au troisième alinéa de l'article L. 330-5. Elle est
+dite commerciale si elle est demandée aux fins prévues à son quatrième alinéa.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-753 du 17 juillet 1978 - art. 16
+  - Code de la route. - art. L330-5
+
+_Créé par_:
+
+  - Décret n°2010-682 du 22 juin 2010 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 11 avril 2011 - art. 3 (V)
+  - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
+
+
+###### Article R330-8
+
+La demande de licence de réutilisation est présentée et instruite conformément à l'article 37 du décret n° 2005-1755 du 30
+décembre 2005 relatif à la liberté d'accès aux documents administratifs et à la réutilisation des informations publiques,
+pris pour l'application de la loi n° 78-753 du 17 juillet 1978.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-753 du 17 juillet 1978
+  - Décret n°2005-1755 du 30 décembre 2005 - art. 37
+
+_Créé par_:
+
+  - Décret n°2010-682 du 22 juin 2010 - art. 1
+
+
+###### Article R330-9
+
+La licence de réutilisation est délivrée pour une durée maximale de cinq ans. 
+
+Elle est renouvelable.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-682 du 22 juin 2010 - art. 1
+
+
+###### Article R330-10
+
+I. ― La licence de réutilisation comprend des clauses conformes aux articles 38 et 41 du décret susmentionné du 30 décembre
+2005. 
+
+II. ― Elle précise que son titulaire ne peut transférer les données personnelles issues du " système d'immatriculation des
+véhicules ” à d'autres personnes que celles : 
+
+1° Qui agissent sous sa responsabilité dans le cadre d'un contrat de prestation de services comportant un engagement de
+confidentialité ; 
+
+2° Ou qui sont énumérées à l'article L. 330-2, aux fins prévues au même article ; 
+
+3° Ou qui sont mentionnées à l'article L. 330-5, aux fins prévues par leurs licences. 
+
+III. ― Les licences commerciales prévoient que leurs titulaires avisent ou font aviser les personnes faisant l'objet
+d'enquêtes ou de prospections du droit d'opposition mentionné au II de l'article R. 330-11. 
+
+IV. ― La licence prévoit qu'elle peut être suspendue ou retirée, après que son titulaire a été mis en mesure de présenter ses
+observations, lorsque les conditions de sa délivrance cessent d'être remplies ou pour un motif d'intérêt général.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2005-1755 du 30 décembre 2005 - art. 38
+  - Code de la route. - art. L330-2
+  - Code de la route. - art. L330-5
+  - Code de la route. - art. R330-11
+
+_Créé par_:
+
+  - Décret n°2010-682 du 22 juin 2010 - art. 1
+
+
+###### Article R330-11
+
+I. ― Lors de l'enregistrement des informations mentionnées à l'article L. 330-1, toute personne physique est informée des
+droits qu'elle tient de l'article 38 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés, et mise en mesure de les exercer. 
+
+II. ― Lorsque les informations mentionnées à l'article L. 330-1 sont déjà enregistrées, toute personne physique peut
+s'opposer, auprès de l'Agence nationale des titres sécurisés, à la communication à des tiers des données à caractère
+personnel la concernant, en vue de leur réutilisation à des fins d'enquêtes et de prospections commerciales. Cette opposition
+est notifiée sans délai aux détenteurs d'une licence commerciale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 38 (V)
+  - Code de la route. - art. L330-1
+
+_Créé par_:
+
+  - Décret n°2010-682 du 22 juin 2010 - art. 1
+
+_Cité par_:
+
+  - Décret n°2011-477 du 2 mai 2011 (V)
+  - Code de la route. - art. R330-10 (V)
 
 
 ### Titre IV : Dispositions relatives à l'outre-mer.<a id=156></a>
