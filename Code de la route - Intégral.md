@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2010-06-25
+Version Consolidée au 2010-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -37972,6 +37972,30 @@ _Cité par_:
 _Cite_:
 
   - Code de la route. - art. R312-5
+
+
+###### Article R433-14
+
+Tout ensemble de véhicules de plus de 44 tonnes de poids total roulant autorisé qui effectue un transport de bois ronds doit
+disposer d'un équipement ou de documents se trouvant à bord permettant au conducteur de connaître le poids total roulant réel
+de l'ensemble. 
+
+Le non-respect de cette disposition est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-780 du 23 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Décret n°2009-780 du 23 juin 2009 - art. 4 (V)
+  - Arrêté du 29 juin 2009 - art. 5 (V)
 
 
 ###### Article R433-15
