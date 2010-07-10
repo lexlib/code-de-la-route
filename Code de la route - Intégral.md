@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2010-07-11
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -10481,9 +10481,9 @@ théoriques des règles de sécurité routière. Ce contrôle est ouvert aux per
 peuvent bénéficier des dispositions du I. Les titulaires d'un contrat d'apprentissage relèvent, quel que soit leur âge, des
 dispositions du présent alinéa.
 
-Un arrêté conjoint du ministre de la défense, du ministre chargé de l'emploi, du ministre chargé de l'éducation nationale, du
-ministre de la justice, du ministre chargé des transports, du ministre chargé de la mer, du ministre chargé de la santé et du
-ministre chargé de l'agriculture fixe les modalités d'application du I et du II.
+Un arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'emploi, du ministre chargé de l'éducation nationale,
+du ministre de la justice, du ministre chargé des transports, du ministre chargé de la mer, du ministre chargé de la santé et
+du ministre chargé de l'agriculture fixe les modalités d'application du I et du II.
 
 III. - Le brevet de sécurité routière est délivré aux titulaires d'une attestation scolaire de sécurité routière de premier
 ou de second niveau ou de l'attestation de sécurité routière ayant suivi une formation pratique organisée par une personne
@@ -10497,10 +10497,6 @@ _Anciens textes_:
 
   - Décret n°93-204 1993-02-12 art. 5
   - Décret n°93-204 du 12 février 1993 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 **Liens**:
 
@@ -10535,11 +10531,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1712 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
+  - Décret n°2010-774 du 8 juillet 2010 - art. 2
 
 _Cite_:
 
-  - Code de l'éducation - art. L131-1 (V)
+  - Code de l'éducation - art. L131-1
 
 
 ###### Article R211-2
@@ -14653,9 +14649,9 @@ conduire, les militaires de la gendarmerie et les fonctionnaires de la police na
 routiers en application des dispositions du présent code sont autorisés, dans les conditions fixées aux articles L. 225-4 et
 L. 225-5, à accéder directement aux informations prévues par ces articles.
 
-Des arrêtés conjoints selon le cas soit du ministre de l'intérieur et du ministre de la justice, soit du ministre de
-l'intérieur et du ministre de la défense définissent les modalités techniques et financières de l'accès à ces informations
-ouvert par voie téléinformatique aux autorités judiciaires et aux militaires de la gendarmerie.
+Un arrêté conjoint du ministre de l'intérieur et du ministre de la justice, ou un arrêté du ministre de l'intérieur définit
+les modalités techniques et financières de l'accès à ces informations ouvert par voie téléinformatique aux autorités
+judiciaires et aux militaires de la gendarmerie.
 
 Peuvent en outre accéder aux données mentionnées à l'article L. 225-4, dans les conditions fixées aux articles 9 et 33 de la
 loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la
@@ -14687,7 +14683,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2008-1456 du 30 décembre 2008 - art. 3
+  - Décret n°2010-773 du 8 juillet 2010 - art. 4
 
 _Anciens textes_:
 
@@ -25715,34 +25711,29 @@ _Cite_:
 
 ###### Article R325-16
 
-I. -(abrogé)
+I.-(abrogé) 
 
-II. -  L'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
-fonctions, territorialement compétent, ou l'agent placé sous leur autorité :
+II.-L'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
+fonctions, territorialement compétent, ou l'agent placé sous leur autorité : 
 
 1° Désigne la fourrière dans laquelle sera transféré le véhicule, cette désignation étant matérialisée par la pose d'un signe
-distinctif sur celui-ci ;
+distinctif sur celui-ci ; 
 
 2° Dresse, si possible contradictoirement en présence du propriétaire ou du conducteur du véhicule et du préposé à
 l'enlèvement, un état sommaire, extérieur et intérieur, du véhicule, sans l'ouvrir, au moyen d'une fiche descriptive dont le
-modèle est fixé par arrêté du ministre de l'intérieur et du ministre de la défense, avant que la mise en fourrière reçoive un
-commencement d'exécution ;
+modèle est fixé par arrêté du ministre de l'intérieur, avant que la mise en fourrière reçoive un commencement d'exécution ; 
 
 3° Remet à ce propriétaire ou ce conducteur, s'il est présent, un double de la fiche relative à l'état du véhicule et, le cas
-échéant, la fiche de circulation provisoire prévue à l'article R. 325-6 ;
+échéant, la fiche de circulation provisoire prévue à l'article R. 325-6 ; 
 
 4° Relate sur le procès-verbal de constatation ou le rapport les motifs de la mise en fourrière ; il y fait mention du
 retrait provisoire du certificat d'immatriculation et de l'heure d'appel du véhicule d'enlèvement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2005-1148 du 6 septembre 2005 - art. 5 () JORF 13 septembre 2005
+  - Décret n°2010-773 du 8 juillet 2010 - art. 4
 
 _Anciens textes_:
 
@@ -26424,33 +26415,33 @@ L'autorité dont relève la fourrière ne peut s'opposer à la demande d'autoris
 par le propriétaire du véhicule en vue exclusivement de faire procéder aux travaux reconnus indispensables par l'expert. Il
 en est de même lorsque le propriétaire du véhicule fait procéder à une contre-expertise, aux réparations remettant le
 véhicule en état de circuler dans des conditions normales de sécurité ainsi qu'au contrôle technique du véhicule dans un
-centre agréé.
+centre agréé. 
 
-Cette autorisation provisoire de sortie de fourrière, dont le modèle est fixé par arrêté du ministre de l'intérieur et du
-ministre de la défense, qui tient lieu de pièce de circulation et qui est limitée au temps des parcours nécessaires et des
-opérations précitées, peut prescrire un itinéraire et des conditions de sécurité.
+Cette autorisation provisoire de sortie de fourrière, dont le modèle est fixé par arrêté du ministre de l'intérieur, qui
+tient lieu de pièce de circulation et qui est limitée au temps des parcours nécessaires et des opérations précitées, peut
+prescrire un itinéraire et des conditions de sécurité. 
 
 Le réparateur doit remettre au propriétaire du véhicule une facture détaillée certifiant l'exécution des travaux prescrits en
 application du 2° du I de l'article R. 325-30.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Décret n°2010-773 du 8 juillet 2010 - art. 4
 
 _Cité par_:
 
   - Arrêté du 2 mars 2017 - art. 14
-  - Code de la route. - art. R325-23 (V)
+  - Code de la route. - art. R325-23 (VD)
   - Code de la route. - art. R325-32 (V)
   - Code de la route. - art. R325-5-1 (VD)
   - Code de la route. - art. R325-8 (V)
   - Code de la route. - art. R343-4 (M)
+
+_Abrogé par_:
+
+  - Décret n°2020-775 du 24 juin 2020 - art. 15
 
 _Anciens textes_:
 
@@ -26459,7 +26450,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R325-30 (M)
+  - Code de la route. - art. R325-30
 
 
 ###### Article R325-37
@@ -30674,20 +30665,16 @@ _Cité par_:
 L'autorité administrative compétente pour exercer le pouvoir de police en matière de circulation routière peut réglementer la
 circulation, l'interdire temporairement en cas de nécessité et prévoir que l'épreuve, la course ou la compétition sportive
 bénéficie d'une priorité de passage portée à la connaissance des usagers par une signalisation appropriée, définie par arrêté
-du ministre de l'intérieur, du ministre de la défense, du ministre chargé des transports et du ministre chargé des sports.
+du ministre de l'intérieur, du ministre chargé des transports et du ministre chargé des sports.
 
 Le fait de contrevenir aux restrictions de circulation édictées en vertu du présent article à l'occasion des épreuves,
 courses ou compétitions sportives est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Décret n°2010-773 du 8 juillet 2010 - art. 4
 
 _Cité par_:
 
@@ -38468,35 +38455,26 @@ _Anciens textes_:
 
 ###### Article R435-1
 
-I. - La circulation des véhicules et matériels agricoles ou forestiers et de leurs ensembles dont les dimensions, y compris
-les outillages portés amovibles, dépassent les limites réglementaires définies au chapitre II du livre III du présent code,
-et celle des machines agricoles automotrices et des machines et instruments agricoles remorqués d'une largeur supérieure à
-2,55 mètres, est soumise, lorsque leur longueur n'excède pas 25 mètres et leur largeur 4,50 mètres, à des règles
-particulières fixées par arrêté conjoint du ministre chargé des transports, du ministre de l'intérieur et du ministre de la
-défense.
+I.-La circulation des véhicules et matériels agricoles ou forestiers et de leurs ensembles dont les dimensions, y compris les
+outillages portés amovibles, dépassent les limites réglementaires définies au chapitre II du livre III du présent code, et
+celle des machines agricoles automotrices et des machines et instruments agricoles remorqués d'une largeur supérieure à 2, 55
+mètres, est soumise, lorsque leur longueur n'excède pas 25 mètres et leur largeur 4, 50 mètres, à des règles particulières
+fixées par arrêté conjoint du ministre chargé des transports et du ministre de l'intérieur. 
 
-Cet arrêté précise notamment :
+Cet arrêté précise notamment : 
 
-1° Les périodes et les itinéraires d'interdiction de circulation ;
+1° Les périodes et les itinéraires d'interdiction de circulation ; 
 
-2° Les dispositifs spécifiques de signalisation ;
+2° Les dispositifs spécifiques de signalisation ; 
 
-3° Les conditions et les modalités d'accompagnement.
+3° Les conditions et les modalités d'accompagnement. 
 
-II. - Le fait de contrevenir aux dispositions du présent article et à celles prises pour son application est puni de l'amende
-prévue pour les contraventions de la quatrième classe.
+II.-Le fait de contrevenir aux dispositions du présent article et à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
 
-III. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+III.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Créé par_:
-
-  - Décret n°2005-1655 du 26 décembre 2005 - art. 1 () JORF 28 décembre 2005
 
 _Cité par_:
 
@@ -38505,52 +38483,57 @@ _Cité par_:
   - Arrêté du 19 juillet 2006 - art. 2 (V)
   - Code de la route. - art. R130-6 (V)
 
+_Modifié par_:
+
+  - Décret n°2010-774 du 8 juillet 2010 - art. 2
+
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-3 (V)
 
 
 ##### Section 2 : Ensembles forains<a id=216></a>
 
 ###### Article R436-1
 
-I. - La circulation des ensembles forains transportant des équipements ou animaux destinés à la présentation d'une attraction
+I.-La circulation des ensembles forains transportant des équipements ou animaux destinés à la présentation d'une attraction
 foraine, dont la longueur dépasse les limites réglementaires définies au chapitre II du livre III du présent code sans
-excéder 30 mètres, est soumise à des règles particulières fixées par un arrêté conjoint du ministre chargé des transports, du
-ministre de l'intérieur et du ministre de la défense. Chacun des éléments composant cet ensemble doit respecter les limites
-réglementaires précitées.
+excéder 30 mètres, est soumise à des règles particulières fixées par un arrêté conjoint du ministre chargé des transports et
+du ministre de l'intérieur. Chacun des éléments composant cet ensemble doit respecter les limites réglementaires précitées. 
 
-Cet arrêté précise notamment :
+Cet arrêté précise notamment : 
 
-1° Les périodes et les itinéraires d'interdiction de circulation ;
+1° Les périodes et les itinéraires d'interdiction de circulation ; 
 
-2° Les dispositifs spécifiques de signalisation ;
+2° Les dispositifs spécifiques de signalisation ; 
 
-3° Les conditions et les modalités d'accompagnement.
+3° Les conditions et les modalités d'accompagnement. 
 
-II. - Le fait de contrevenir aux dispositions du présent article et à celles prises pour son application est puni de l'amende
-prévue pour les contraventions de la quatrième classe.
+II.-Le fait de contrevenir aux dispositions du présent article et à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
 
-III. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+III.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Créé par_:
-
-  - Décret n°2005-1655 du 26 décembre 2005 - art. 1 () JORF 28 décembre 2005
 
 _Cité par_:
 
   - Arrêté du 4 mai 2006 - art. 1 (V)
   - Arrêté du 4 mai 2006 - art. 17-5 (V)
 
+_Modifié par_:
+
+  - Décret n°2010-774 du 8 juillet 2010 - art. 2
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-15 du 6 janvier 2017 - art. 1
+
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. L325-3
 
 _Nouveaux textes_:
 
