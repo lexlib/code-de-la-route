@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2010-07-11
+Version Consolidée au 2010-07-14
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -660,11 +660,11 @@ forfaitaire et ne donne pas lieu au retrait des points du permis de conduire pr�
 L'officier du ministère public vérifie si les conditions de recevabilité de la requête ou de la réclamation prévues par le
 présent article sont remplies. " 
 
-" Art. 529-11-L'avis de contravention prévu par les articles 529-1 et 529-8 peut être envoyé à la suite de la constatation
-d'une contravention au code de la route réalisée grâce à un appareil homologué de contrôle automatique. En cas de réclamation
-portée devant la juridiction de proximité, le procès-verbal ou le rapport de l'officier ou de l'agent de police judiciaire
-faisant état du résultat de ce contrôle est alors dressé. Ce procès-verbal peut être revêtu d'une signature manuelle
-numérisée. " 
+" Art. 529-11-L'avis de contravention prévu par les articles 529-1 et 529-8 ou l'avis de paiement de la transaction prévue
+par l'article 529-6 peut être envoyé à la suite de la constatation d'une contravention au code de la route réalisée grâce à
+un appareil homologué de contrôle automatique. En cas de réclamation portée devant la juridiction de proximité, le procès-
+verbal ou le rapport de l'officier ou de l'agent de police judiciaire ou de l'agent verbalisateur faisant état du résultat de
+ce contrôle est alors dressé. Ce procès-verbal peut être revêtu d'une signature manuelle numérisée. " 
 
 " Art. 530-Le titre mentionné au second alinéa de l'article 529-2 ou au second alinéa de l'article 529-5 est exécuté suivant
 les règles prévues par le présent code pour l'exécution des jugements de police. La prescription de la peine commence à
@@ -682,10 +682,10 @@ d'une somme égale au montant de l'amende forfaitaire s'il s'en acquitte dans un
 effet d'annuler le titre exécutoire pour le montant de la majoration. 
 
 La réclamation doit être accompagnée de l'avis d'amende forfaitaire majorée correspondant à l'amende considérée ainsi que,
-dans le cas prévu par l'article 529-10, de l'un des documents exigés par cet article, à défaut de quoi elle est
-irrecevable." 
+dans le cas prévu par l'article 529-10, de l'un des documents exigés par cet article, à défaut de quoi elle est irrecevable.
+" 
 
-"Art. 530-1-Au vu de la requête faite en application du premier alinéa de l'article 529-2, de la protestation formulée en
+" Art. 530-1-Au vu de la requête faite en application du premier alinéa de l'article 529-2, de la protestation formulée en
 application du premier alinéa de l'article 529-5 ou de la réclamation faite en application du deuxième alinéa de l'article
 530, le ministère public peut, soit renoncer à l'exercice des poursuites, soit procéder conformément aux articles 524 à 528-2
 ou aux articles 531 et suivants, soit aviser l'intéressé de l'irrecevabilité de la réclamation non motivée ou non accompagnée
@@ -700,7 +700,7 @@ Dans les cas prévus par l'article 529-10, en cas de classement sans suite ou de
 prévue par cet article, le montant de la consignation est reversé à la personne à qui avait été adressé l'avis de paiement de
 l'amende forfaitaire ou ayant fait l'objet des poursuites. Les modalités de ce remboursement sont définies par voie
 réglementaire. En cas de condamnation, l'amende prononcée ne peut être inférieure au montant prévu à l'alinéa précédent
-augmenté d'une somme de 10 %."
+augmenté d'une somme de 10 %. " 
 
 " Art. 530-2-Les incidents contentieux relatifs à l'exécution du titre exécutoire et à la rectification des erreurs
 matérielles qu'il peut comporter sont déférés à la juridiction de proximité, qui statue conformément aux dispositions de
@@ -727,7 +727,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 3
+  - Loi n°2010-788 du 12 juillet 2010 - art. 58
 
 _Cite_:
 
@@ -736,23 +736,12 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 529-5 (M)
   - CODE DE PROCEDURE PENALE - art. 531 (M)
   - CODE DE PROCEDURE PENALE - art. 711 (M)
+  - Code de procédure pénale - art. 529-6 (V)
+  - Code de procédure pénale - art. 529-8 (V)
   - Code de la route. - art. L121-2 (M)
   - Code de la route. - art. L121-3 (M)
   - Code de la route. - art. L223-1 (M)
   - Code de la route. - art. L317-4-1 (V)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 529-10 (V)
-  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 529-11 (V)
-  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 529-7 (V)
-  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 529-8 (V)
-  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 529-9 (V)
-  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 530 (V)
-  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 530-1 (V)
-  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 530-2 (V)
-  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 530-2-1 (V)
-  - PILOTE_SUIVEUR: CODE DE PROCEDURE PENALE - art. 530-3 (V)
 
 
 #### Chapitre 2 : Indemnisation des victimes d'accidents de la circulation.<a id=6></a>
@@ -903,37 +892,37 @@ _Anciens textes_:
 
 Sans préjudice de la compétence générale des officiers et des agents de police judiciaire, ont compétence pour constater par
 procès-verbal les contraventions prévues par la partie Réglementaire du présent code ou par d'autres dispositions
-réglementaires, dans la mesure où elles se rattachent à la sécurité et à la circulation routières :
+réglementaires, dans la mesure où elles se rattachent à la sécurité et à la circulation routières : 
 
-1° Les personnels de l'Office national des forêts ;
+1° Les personnels de l'Office national des forêts ; 
 
-2° Les gardes champêtres des communes ;
+2° Les gardes champêtres des communes ; 
 
 3° Les agents titulaires ou contractuels de l'Etat et les agents des communes, titulaires ou non, chargés de la surveillance
-de la voie publique, agréés par le procureur de la République ;
+de la voie publique, agréés par le procureur de la République ; 
 
 4° Les agents, agréés par le procureur de la République, de ceux des services publics urbains de transport en commun de
-voyageurs qui figurent sur une liste dressée dans des conditions fixées par décret en Conseil d'Etat ;
+voyageurs qui figurent sur une liste dressée dans des conditions fixées par décret en Conseil d'Etat ; 
 
-5° Les officiers de port et les officiers de port adjoints ;
+5° Les officiers de port et les officiers de port adjoints ; 
 
 6° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre
-chargé des transports ;
+chargé des transports ; 
 
-7° Les agents des douanes ;
+7° Les agents des douanes ; 
 
-8° Les agents des concessionnaires d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à
-péage, agréés par le préfet ;
+8° Les agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage,
+agréés par le préfet ; 
 
-9° Les agents verbalisateurs mentionnés à l'article L. 116-2 du code de la voirie routière ;
+9° Les agents verbalisateurs mentionnés à l'article L. 116-2 du code de la voirie routière ; 
 
 10° Les agents des exploitants d'aérodromes, assermentés et agréés par le préfet pour les seules contraventions aux règles de
-stationnement dans l'emprise de l'aérodrome ;
+stationnement dans l'emprise de l'aérodrome ; 
 
-11° Les agents de police judiciaire adjoints ;
+11° Les agents de police judiciaire adjoints ; 
 
 12° Les fonctionnaires ou agents de l'Etat, chargés des réceptions des véhicules ou éléments de véhicules, placés sous
-l'autorité des ministres chargés de l'industrie et des transports.
+l'autorité des ministres chargés de l'industrie et des transports. 
 
 La liste des contraventions que chaque catégorie d'agents mentionnée ci-dessus est habilitée à constater est fixée par décret
 en Conseil d'Etat.
@@ -965,18 +954,13 @@ _Cité par_:
   - Code des transports - art. L2241-1 (V)
   - Code général des collectivités territoriales - art. L2212-5-1 (VD)
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 39 (V) JORF 13 juin 2003
+  - Loi n°2010-788 du 12 juillet 2010 - art. 58
 
 _Cite_:
 
-  - Code de la voirie routière - art. L116-2 (M)
+  - Code de la voirie routière - art. L116-2 (V)
 
 _Anciens textes_:
 
@@ -984,9 +968,8 @@ _Anciens textes_:
 
 **Liens**:
 
-  - TXT_ASSOCIE: Code de la route. - art. L142-4 (P)
+  - TXT_SOURCE: Code de la route. - art. L142-4 (P)
   - TXT_SOURCE: Code de la route. - art. L142-5 (Ab)
-  - TXT_ASSOCIE: Code de la route. - art. L142-5 (M)
 
 
 ###### Article L130-5
@@ -7923,8 +7906,16 @@ et d'identifier les auteurs des manquements au regard de ces taxes ;
 13° Aux constructeurs de véhicules ou à leurs mandataires pour les besoins des rappels de sécurité et des rappels de mise au
 point des véhicules. 
 
+14° Aux agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage,
+assermentés dans les conditions prévues à l'article L. 130-7, aux seules fins d'identifier les auteurs des contraventions au
+présent code qu'ils sont habilités à constater conformément au 8° de l'article L. 130-4. 
+
 II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la
-réalité du sinistre.
+réalité du sinistre. 
+
+III. ― Les exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage doivent
+produire à l'appui de leur demande tous éléments utiles permettant de vérifier la réalité de la contravention pour non-
+paiement du péage.
 
 **Liens relatifs à cet article**
 
@@ -7952,7 +7943,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-431 du 20 avril 2009 - art. 29
+  - Loi n°2003-239 du 18 mars 2003 - art. 86
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Loi n°2010-788 du 12 juillet 2010 - art. 58
 
 _Anciens textes_:
 
@@ -7964,6 +7957,8 @@ _Cite_:
   - Code de procédure pénale - art. 14
   - Code des douanes - art. 269
   - Code des douanes - art. 285 septies
+  - Code de la route. - art. L130-4 (V)
+  - Code de la route. - art. L130-7 (V)
 
 
 ###### Article L330-3
@@ -8591,7 +8586,7 @@ immeubles riverains ;
 
 3° Réserver sur la voie publique ou dans tout autre lieu de stationnement ouvert au public des emplacements de stationnement
 aménagés aux véhicules utilisés par les personnes titulaires de la carte de stationnement prévue à l'article L. 241-3-2 du
-code de l'action sociale et des familles. " 
+code de l'action sociale et des familles et aux véhicules bénéficiant du label "autopartage" tel que défini par décret. " 
 
 " Art.L. 2213-3-Le maire peut, par arrêté motivé : 
 
@@ -8643,10 +8638,6 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-4 (V)
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-5 (V)
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-6 (V)
-
-_Modifié par_:
-
-  - Code général des collectivités territoriales - art. L2213-6 (V)
 
 _Cite_:
 
