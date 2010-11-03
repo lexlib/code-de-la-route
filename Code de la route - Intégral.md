@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-11-04
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -11186,7 +11186,8 @@ comme stupéfiants (art.L. 231-1, L. 233-1, L. 233-1-1, L. 233-2, L. 234-1, L. 2
 - usage d'une fausse plaque d'immatriculation, circulation sans plaque d'immatriculation, mise en circulation d'un véhicule
 muni de plaques inexactes, usurpation de plaques, modification du dispositif de limitation de vitesse par construction des
 véhicules de transports routiers, absence à bord du véhicule du transport routier de certains documents, destruction ou
-détournement d'un véhicule confisqué (art.L. 234-12 (III), L. 317-1 à L. 317-4, L. 317-4-1 et L. 325-4) ;
+détournement d'un véhicule confisqué (art.L. 234-12 (III), L. 317-1 à L. 317-4, L. 317-4-1 et L. 3242-1 du code des
+transports ;
 
 - conduite d'un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule considéré,
 conduite d'un véhicule malgré la rétention, l'invalidation, la suspension ou l'annulation du permis de conduire (art.L.
@@ -11264,7 +11265,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 7
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cite_:
 
