@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2010-11-04
+Version Consolidée au 2010-11-17
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -9458,9 +9458,9 @@ en cas de nécessité absolue, l'arrêt ou le stationnement des véhicules ;
 
 - carrefour à sens giratoire : place ou carrefour comportant un terre-plein central matériellement infranchissable, ceinturé
 par une chaussée mise à sens unique par la droite sur laquelle débouchent différentes routes et annoncé par une signalisation
-spécifique. Toutefois, en agglomération exclusivement, les carrefours à sens giratoire peuvent comporter un terre-plein
-central matériellement franchissable, qui peut être chevauché par les conducteurs lorsque l'encombrement de leur véhicule
-rend cette manoeuvre indispensable ;
+spécifique. Toutefois,   , les carrefours à sens giratoire peuvent comporter un terre-plein central matériellement
+franchissable, qui peut être chevauché par les conducteurs lorsque l'encombrement de leur véhicule rend cette manoeuvre
+indispensable ;
 
 - chaussée : partie (s) de la route normalement utilisée (s) pour la circulation des véhicules ;
 
@@ -9478,14 +9478,14 @@ véhicules ;
 
 - zone de rencontre : section ou ensemble de sections de voies en agglomération constituant une zone affectée à la
 circulation de tous les usagers. Dans cette zone, les piétons sont autorisés à circuler sur la chaussée sans y stationner et
-bénéficient de la priorité sur les véhicules. La vitesse des véhicules y est limitée à 20 km / h. Toutes les chaussées sont à
+bénéficient de la priorité sur les véhicules. La vitesse des véhicules y est limitée à 20 km/ h. Toutes les chaussées sont à
 double sens pour les cyclistes, sauf dispositions différentes prises par l'autorité investie du pouvoir de police. Les
 entrées et sorties de cette zone sont annoncées par une signalisation et l'ensemble de la zone est aménagé de façon cohérente
 avec la limitation de vitesse applicable.
 
 - zone 30 : section ou ensemble de sections de voies constituant une zone affectée à la circulation de tous les usagers. Dans
-cette zone, la vitesse des véhicules est limitée à 30 km / h. Toutes les chaussées sont à double sens pour les cyclistes,
-sauf dispositions différentes prises par l'autorité investie du pouvoir de police. Les entrées et sorties de cette zone sont
+cette zone, la vitesse des véhicules est limitée à 30 km/ h. Toutes les chaussées sont à double sens pour les cyclistes, sauf
+dispositions différentes prises par l'autorité investie du pouvoir de police. Les entrées et sorties de cette zone sont
 annoncées par une signalisation et l'ensemble de la zone est aménagé de façon cohérente avec la limitation de vitesse
 applicable.
 
@@ -9507,7 +9507,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 1
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 2
 
 _Anciens textes_:
 
@@ -12574,8 +12574,8 @@ _Cité par_:
 
 ###### Article R221-7
 
-Les catégories A ou B du permis de conduire autorisent la conduite des tricycles à moteur et des quadricycles lourds à
-moteur.
+La catégorie A du permis de conduire autorise la conduite des véhicules de la catégorie L5e et des quadricycles lourds à
+moteur. La catégorie B du permis de conduire autorise la conduite des quadricycles lourds à moteur.
 
 La sous-catégorie A 1 du permis de conduire autorise la conduite des véhicules relevant de la sous-catégorie B 1.
 
@@ -12588,21 +12588,20 @@ son titulaire soit en possession de la catégorie D du permis de conduire.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 3
 
 _Anciens textes_:
 
   - Code de la route - art. R125 (Ab)
   - Code de la route - art. R186 (Ab)
-  - Code de la route R125, R186 (al. 2)
 
 _Cité par_:
 
   - Code de la route. - art. D221-3 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
 
 
 ###### Article R221-8
@@ -14704,7 +14703,10 @@ provisoires, ou les photocopies des certificats d'immatriculation dans les cas e
 du ministre de la justice et du ministre de l'intérieur ; 
 
 3° L'original ou la copie du certificat constatant l'achèvement d'une formation de conducteur de transport par route quand
-celui-ci est exigé en application de l'article R. 221-6.
+celui-ci est exigé en application de l'article R. 221-6. ;
+
+4° Dans les cas mentionnés aux II et III de l'article R. 221-8, une attestation de la formation pratique ou le document
+attestant d'une expérience de la conduite conforme aux conditions prévues par ces dispositions. 
 
 II.-En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
 vol tient lieu de titre pendant un délai de deux mois au plus. 
@@ -14737,7 +14739,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 9
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 5
 
 _Anciens textes_:
 
@@ -18076,6 +18078,25 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R312-25 (V)
 
 
+###### Article R312-22-1
+
+Par dérogation au premier alinéa de l'article R. 312-22, les véhicules d'exploitation des routes peuvent être équipés, pour
+l'exercice de leur mission, d'un outillage en dépassement de leur aplomb. 
+
+Un arrêté du ministre chargé des transports fixe les conditions d'application du présent article ainsi que les conditions de
+circulation des véhicules ainsi équipés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la route. - art. R312-22
+
+
 ###### Article R312-23
 
 Sans préjudice de la réglementation relative au transport des matières dangereuses, les véhicules-citernes doivent satisfaire
@@ -21338,6 +21359,29 @@ _Anciens textes_:
 **Liens**:
 
   - SPEC_APPLI: Code de la route. - art. R317-27 (V)
+
+
+###### Article R317-23-1
+
+Le fait d'utiliser un cyclomoteur muni d'un dispositif ayant pour effet de permettre à celui-ci de dépasser les limites
+réglementaires fixées à l'article R. 311-1 en matière de vitesse, de cylindrée ou de puissance maximale du moteur ou ayant
+fait l'objet d'une transformation à cette fin est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+L'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles L. 325-1 à L.
+325-3. 
+
+La confiscation du véhicule peut être prononcée à titre de peine complémentaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 7
+
+_Cite_:
+
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R311-1
 
 
 ###### Article R317-24
@@ -25165,24 +25209,30 @@ _Cite_:
 
 Lorsqu'un véhicule lui paraît en état de surcharge, le fonctionnaire ou agent habilité à prononcer l'immobilisation peut
 prescrire au conducteur de présenter son véhicule à une bascule proche autorisée pour un usage légal, en vue de sa pesée et,
-le cas échéant, de son immobilisation.
+le cas échéant, de son immobilisation. 
 
 Lorsqu'un véhicule paraît exagérément bruyant, le fonctionnaire ou agent peut prescrire de le présenter à un service de
-contrôle du niveau sonore en vue de sa vérification.
+contrôle du niveau sonore en vue de sa vérification. 
 
 Lorsqu'un véhicule paraît ne pas satisfaire aux prescriptions de l'article R. 318-1 et à celles prises pour son application,
-le fonctionnaire ou agent peut prescrire de le présenter à un service de contrôle.
+le fonctionnaire ou agent peut prescrire de le présenter à un service de contrôle. 
 
-Dans les cas prévus aux deux précédents alinéas, le conducteur peut être autorisé par le fonctionnaire ou agent verbalisateur
-à conduire le véhicule dans un établissement de son choix pour y faire procéder aux réparations nécessaires ; en pareil cas,
-une fiche de circulation provisoire est établie conformément aux prescriptions du II de l'article R. 325-9 et à celles de
-l'article R. 325-36.
+Lorsqu'un cyclomoteur paraît avoir été équipé d'un dispositif ayant pour effet de permettre de dépasser les limites
+réglementaires fixées à l'article R. 311-1 en matière de vitesse, de cylindrée ou de puissance maximale du moteur ou avoir
+fait l'objet d'une transformation à cette fin, l'agent peut prescrire de le présenter à un service de contrôle en vue de
+vérifier la conformité du véhicule aux dispositions de l'article R. 311-1. Un arrêté du ministre chargé des transports fixe
+les conditions d'application de ces dispositions. 
 
-En cas d'infraction, les frais de ces opérations sont à la charge du propriétaire du véhicule.
+Dans les cas prévus aux trois précédents alinéas, le conducteur peut être autorisé par le fonctionnaire ou agent
+verbalisateur à conduire le véhicule dans un établissement de son choix pour y faire procéder aux réparations nécessaires ;
+en pareil cas, une fiche de circulation provisoire est établie conformément aux prescriptions du II de l'article R. 325-9 et
+à celles de l'article R. 325-36. 
+
+En cas d'infraction, les frais de ces opérations sont à la charge du propriétaire du véhicule. 
 
 Le fait pour tout conducteur ou propriétaire d'un véhicule de transport de marchandises d'un poids total autorisé en charge
 excédant 3,5 tonnes ou un véhicule de transport en commun de contrevenir aux injonctions prévues au présent article est puni
-de l'amende prévue pour les contraventions de la cinquième classe.
+de l'amende prévue pour les contraventions de la cinquième classe. 
 
 Le fait pour tout conducteur ou propriétaire d'un autre véhicule de contrevenir aux injonctions prévues au présent article
 est puni de l'amende prévue pour les contraventions de la quatrième classe.
@@ -25191,13 +25241,16 @@ est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 8
 
 _Anciens textes_:
 
   - Code de la route - art. R242 (Ab)
   - Code de la route - art. R281 (Ab)
-  - Code de la route R242, R281
 
 _Cité par_:
 
@@ -25205,9 +25258,10 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de la route. - art. R311-1 (V)
   - Code de la route. - art. R318-1 (V)
-  - Code de la route. - art. R325-36 (M)
-  - Code de la route. - art. R325-9 (M)
+  - Code de la route. - art. R325-36 (V)
+  - Code de la route. - art. R325-9 (V)
 
 
 ###### Article R325-9
@@ -29633,33 +29687,41 @@ _Anciens textes_:
 
 ###### Article R411-7
 
-I. - Les intersections dans lesquelles le passage des véhicules est organisé par une signalisation spéciale ou par des feux
-de signalisation lumineux, sont désignées :
+I.-Les intersections dans lesquelles le passage des véhicules est organisé par une signalisation spéciale ou par des feux de
+signalisation lumineux, sont désignées : 
 
-1° Hors agglomération :
+1° Hors agglomération : 
 
-a) Par arrêté du préfet pour les intersections de routes appartenant à la voirie nationale ainsi que pour les intersections
-de routes classées à grande circulation après consultation du président du conseil général ou du maire si l'arrêté concerne
-des sections de routes départementales ou communales ;
+a) Par arrêté du préfet pour les intersections de routes appartenant à la voirie nationale ; 
 
 b) Par arrêté du président du conseil exécutif de Corse, pour les intersections de routes prévues à l'article L. 4424-30 du
-code général des collectivités territoriales ;
+code général des collectivités territoriales ; 
 
-c) Par arrêté du président du conseil général pour les intersections de routes départementales ;
+c) Par arrêté du président du conseil général pour les intersections de routes départementales ; 
 
-d) Par arrêté du maire pour les intersections de routes appartenant à la voirie communale ;
+d) Par arrêté du maire pour les intersections de routes appartenant à la voirie communale ; 
 
-e) Par arrêté conjoint du préfet et du président du conseil général ou du maire lorsqu'il s'agit d'une intersection formée
-par une route nationale et une route départementale non classée à grande circulation ou une route relevant de la voirie
-communale, et par arrêté conjoint du président du conseil général et du maire lorsque l'intersection est formée par une route
-départementale non classée à grande circulation et une route appartenant à la voirie communale ;
+e) Par arrêté conjoint du préfet et du président du conseil général ou du maire lorsque l'intersection est formée par une
+route nationale ou une route à grande circulation et une route classée ou non à grande circulation relevant de la voirie
+départementale ou communale ; 
 
-2° En agglomération, par arrêté du maire ou, pour les routes à grande circulation, par arrêté du préfet pris sur proposition
-ou après consultation du maire.
+f) Par arrêté conjoint du président du conseil général et du maire lorsque l'intersection est formée par une route
+départementale non classée à grande circulation et une route appartenant à la voirie communale non classée à grande
+circulation ; 
 
-II. - Lorsqu'il porte sur une route classée à grande circulation, l'arrêté du préfet prévu au a du 1° et au 2° du I ci-dessus
-comporte, en outre, le plan de gestion des feux de signalisation lumineux de l'ensemble de l'itinéraire ou, s'agissant d'un
-carrefour isolé, la synchronisation des feux de signalisation lumineux.
+g) Dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, par arrêté du préfet, après
+consultation du président du conseil général ou du maire, lorsque l'intersection est formée par une route à grande
+circulation et une route classée ou non à grande circulation relevant de la voirie départementale ou communale ; 
+
+2° En agglomération, par arrêté du maire ou, pour les routes à grande circulation, par arrêté conjoint du préfet et du maire
+et, dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, par arrêté du préfet, après
+consultation du maire. 
+
+II. (abrogé)
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -29669,26 +29731,21 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-253 du 27 février 2006 - art. 1 () JORF 4 mars 2006
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 9
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L4424-30 (T)
+  - Code général des collectivités territoriales - art. L4424-30
 
 _Anciens textes_:
 
   - Code de la route - art. R26-1 (Ab)
   - Code de la route - art. R27 (Ab)
   - Code de la route R26-1 (al. 2 à 5), R27 (al. 2 à 4)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R411-8
@@ -30792,21 +30849,26 @@ _Créé par_:
 
 ###### Article R412-7
 
-I-Tout conducteur doit, sauf en cas de nécessité absolue, faire circuler son véhicule exclusivement sur la chaussée. 
+I.-Les véhicules doivent, sauf en cas de nécessité absolue, circuler sur la chaussée. 
+
+Toutefois, ils peuvent franchir un trottoir, à partir de l'accès le plus proche, pour rejoindre ou quitter les accès
+carrossables des immeubles riverains ou des accès non ouverts à la circulation publique. 
+
+Ils peuvent également le franchir pour rejoindre une autre chaussée s'il existe un aménagement à cet effet. 
+
+Les engins d'entretien du trottoir peuvent y circuler dans l'exercice de leur mission, sauf dispositions contraires prises
+par l'autorité investie du pouvoir de police. 
 
 II.-Lorsque, sur la chaussée, une voie de circulation réservée à certaines catégories de véhicules est matérialisée, les
 conducteurs d'autres catégories de véhicules ne doivent pas circuler sur cette voie. Les conducteurs de véhicules motorisés
 ne doivent pas circuler sur une voie verte, ni dans une aire piétonne à l'exception des cas prévus par les règles de
-circulation mentionnées à l'article R. 411-3.
+circulation mentionnées à l'article R. 411-3. 
 
-III.-Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la 4e classe.
+III.-Sous réserve de l'application des dispositions des deuxième, troisième et quatrième alinéas du I, le fait, pour tout
+conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la 4e
+classe.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2008-754 du 30 juillet 2008 - art. 5
 
 _Cité par_:
 
@@ -30815,6 +30877,10 @@ _Cité par_:
   - Code de la route. - art. R130-11 (V)
   - Code de la route. - art. R130-3 (M)
   - Code de la route. - art. R413-18 (V)
+
+_Modifié par_:
+
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 10
 
 _Anciens textes_:
 
@@ -31716,9 +31782,13 @@ _Codifié par_:
 ###### Article R412-34
 
 I. - Lorsqu'une chaussée est bordée d'emplacements réservés aux piétons ou normalement praticables par eux, tels que
-trottoirs ou accotements, les piétons sont tenus de les utiliser, à l'exclusion de la chaussée. Les enfants de moins de huit
-ans qui conduisent un cycle peuvent également les utiliser, sauf dispositions différentes prises par l'autorité investie du
-pouvoir de police, à la condition de conserver l'allure du pas et de ne pas occasionner de gêne aux piétons.
+trottoirs ou accotements, les piétons sont tenus de les utiliser, à l'exclusion de la chaussée. Ces dispositions ne
+s'appliquent pas aux aires piétonnes et aux zones de rencontre. 
+
+I 
+  _bis_. - Les enfants de moins de huit ans qui conduisent un cycle peuvent utiliser les trottoirs ou accotements, sauf
+dispositions contraires prises par l'autorité investie du pouvoir de police, à la condition de conserver l'allure du pas et
+de ne pas occasionner de gêne aux piétons. 
 
 II. - Sont assimilés aux piétons :
 
@@ -31740,7 +31810,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 11
 
 _Anciens textes_:
 
@@ -31748,12 +31822,6 @@ _Anciens textes_:
   - Code de la route - art. R195 (Ab)
   - Code de la route - art. R217 (Ab)
   - Code de la route R191, R195 (al. 4), R217
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R412-42 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R412-35
@@ -31818,22 +31886,21 @@ Ils sont tenus d'utiliser, lorsqu'il en existe à moins de 50 mètres, les passa
 Aux intersections à proximité desquelles n'existe pas de passage prévu à leur intention, les piétons doivent emprunter la
 partie de la chaussée en prolongement du trottoir.
 
+Les dispositions du présent article ne s'appliquent pas aux aires piétonnes et aux zones de rencontre.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 12
 
 _Anciens textes_:
 
   - Code de la route - art. R219 (Ab)
-  - Code de la route R219
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R412-42 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R412-38
@@ -31879,22 +31946,21 @@ prévu à leur intention leur permettant la traversée directe.
 
 Ils doivent contourner la place ou l'intersection en traversant autant de chaussées qu'il est nécessaire.
 
+Les dispositions du présent article ne s'appliquent pas aux aires piétonnes et aux zones de rencontre.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 13
 
 _Anciens textes_:
 
   - Code de la route - art. R219-2 (Ab)
-  - Code de la route R219-2
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R412-42 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R412-40
@@ -33003,8 +33069,9 @@ _Anciens textes_:
 
 ###### Article R413-18
 
-Lorsque des parcs de stationnement de véhicules sont aménagés sur des trottoirs ou terre-pleins, les conducteurs ne doivent
-circuler sur ceux-ci qu'à une allure très réduite et en prenant toute précaution pour ne pas nuire aux piétons.
+Le conducteur d'un véhicule ou d'un engin qui circule dans un parc de stationnement aménagé sur un terre-plein ou qui
+franchit un trottoir ou y circule dans les conditions prévues à l'article R. 412-7 ne doit y rouler qu'à l'allure du pas et
+en prenant toute précaution afin de ne pas constituer un danger pour les piétons. 
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
@@ -33013,22 +33080,24 @@ contraventions de la quatrième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 14
 
 _Anciens textes_:
 
   - Code de la route - art. R220-3 (Ab)
   - Code de la route - art. R232 (Ab)
-  - Code de la route R220-3, R232 (al. 1, 3 et 4)
 
 _Cité par_:
 
   - Code de la route. - art. R130-3 (M)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Code de la route. - art. R412-7
 
 
 ###### Article R413-19
@@ -33950,11 +34019,13 @@ _Anciens textes_:
 ###### Article R415-8
 
 Hors agglomération, tout conducteur abordant une route à grande circulation et ne se trouvant pas lui-même sur une route de
-cette catégorie est tenu de céder le passage aux véhicules qui circulent sur la route à grande circulation. 
+cette catégorie est tenu de céder le passage aux véhicules qui circulent sur la route à grande circulation. Toutefois
+l'autorité investie du pouvoir de police peut, lorsque les circonstances locales le justifient et après avis conforme du
+préfet, prendre un arrêté modifiant cette règle de priorité dans les conditions qu'il définit. 
 
 En agglomération, tout conducteur abordant une route à grande circulation et ne se trouvant pas lui-même sur une route de
-cette catégorie peut également,        par arrêté du maire pris après avis conforme du préfet, être tenu de céder le passage
-aux véhicules qui circulent sur la route à grande circulation. 
+cette catégorie peut également, par arrêté du maire pris après avis conforme du préfet, être tenu de céder le passage aux
+véhicules qui circulent sur la route à grande circulation. 
 
 Le maire peut, par arrêté pris après avis du préfet, reporter l'obligation prévue à l'alinéa précédent sur les conducteurs
 qui abordent d'autres routes qu'une route classée à grande circulation si ces routes assurent la continuité de l'itinéraire à
@@ -33980,7 +34051,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 10
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 15
 
 _Anciens textes_:
 
@@ -33993,9 +34064,9 @@ _Anciens textes_:
 
 ###### Article R415-9
 
-I. - Tout conducteur débouchant sur une route à partir d'un accès non ouvert à la circulation publique, d'un chemin de terre
-ou d'une aire de stationnement en bordure de la route ne doit s'engager sur celle-ci qu'après s'être assuré qu'il peut le
-faire sans danger et à une vitesse suffisamment réduite pour permettre un arrêt sur place.
+I. - Tout conducteur qui débouche sur une route en franchissant un trottoir ou à partir d'un accès non ouvert à la
+circulation publique, d'un chemin de terre ou d'une aire de stationnement ne doit s'engager sur la route qu'après s'être
+assuré qu'il peut le faire sans danger et qu'à une vitesse suffisamment réduite pour lui permettre un arrêt sur place. 
 
 II. - Il doit céder le passage à tout autre véhicule.
 
@@ -34012,7 +34083,11 @@ V. - Cette contravention donne lieu de plein droit à la réduction de quatre po
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 16
 
 _Anciens textes_:
 
@@ -34020,12 +34095,6 @@ _Anciens textes_:
   - Code de la route - art. R256 (Ab)
   - Code de la route - art. R266 (Ab)
   - Code de la route - art. R7 (Ab)
-  - Code de la route R7, R232 (al. 1 et 7), R256 2°, R266 1°
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R415-10
@@ -34068,8 +34137,9 @@ _Anciens textes_:
 
 ###### Article R415-11
 
-Tout conducteur est tenu de céder le passage aux         piétons régulièrement engagés dans la traversée d'une chaussée et à
-ceux circulant dans une zone de rencontre ou une aire piétonne. 
+Tout conducteur est tenu de céder le passage, au besoin en s'arrêtant, au piéton s'engageant régulièrement dans la traversée
+d'une chaussée ou manifestant clairement l'intention de le faire ou circulant dans une aire piétonne ou une zone de
+rencontre. 
 
 Le fait, pour tout conducteur, de ne pas respecter les règles de priorité fixées au présent article est puni de l'amende
 prévue pour les contraventions de la quatrième classe. 
@@ -34084,7 +34154,7 @@ Cette contravention donne lieu de plein droit à la réduction de quatre points 
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 11
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 17
 
 _Anciens textes_:
 
@@ -34181,15 +34251,15 @@ _Anciens textes_:
 
 ###### Article R415-15
 
-Aux intersections, l'autorité investie du pouvoir de police peut décider de créer :
+Aux intersections, l'autorité investie du pouvoir de police peut décider de : 
 
-1° Sur les voies d'accès, des feux de signalisation décalés et distincts, l'un pour les cycles et les cyclomoteurs, l'autre
-pour les autres catégories de véhicules ;
+1° Mettre en place sur les voies équipées de feux de signalisation une signalisation distincte destinée à une ou plusieurs
+catégories de véhicules ou indiquant une ou plusieurs directions ou remplissant ces deux fonctions de manière concomitante ; 
 
-2° Sur les voies d'accès équipées de feux de signalisation communs à toutes les catégories d'usagers, deux lignes d'arrêt
-distinctes, l'une pour les cycles et cyclomoteurs, l'autre pour les autres catégories de véhicules ;
+2° Mettre en place sur les voies équipées de feux de signalisation communs à toutes les catégories d'usagers deux lignes
+d'arrêt distinctes, l'une pour les cycles et cyclomoteurs, l'autre pour les autres catégories de véhicules ; 
 
-3° Une voie réservée que les conducteurs de cycles et de cyclomoteurs sont tenus d'emprunter pour contourner l'intersection
+3° Réserver une voie que les conducteurs de cycles et de cyclomoteurs sont tenus d'emprunter pour contourner l'intersection
 par la droite.
 
 **Liens relatifs à cet article**
@@ -34201,17 +34271,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 18
 
 _Anciens textes_:
 
   - Code de la route - art. R28-1 (Ab)
   - Code de la route R28-1 (al. 3 à 6)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 #### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=191></a>
@@ -37253,6 +37322,8 @@ notamment sur les bandes d'arrêt d'urgence ;
 
 5° A l'arrêt et au stationnement sur les chaussées,
 
+6° A la vitesse minimale de 80 km/h sur la voie la plus à gauche, 
+
 ne sont pas applicables aux conducteurs des véhicules d'exploitation des routes lorsqu'ils font usage de leurs avertisseurs
 spéciaux dans les cas nécessités par l'exercice de leur mission et sous réserve de ne pas mettre en danger les autres
 usagers.
@@ -37261,11 +37332,9 @@ usagers.
 
 _Anciens textes_:
 
-  - Arrêté 1967-11-24 art. 5
   - Arrêté du 24 novembre 1967 - art. 5 (M)
   - Code de la route - art. R43-6 (Ab)
   - Code de la route - art. R5-2 (Ab)
-  - Code de la route R5-2 (al. 3), R43-6 (al. 6)
 
 _Cité par_:
 
@@ -37273,12 +37342,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 19
 
 
 ###### Article R432-6
