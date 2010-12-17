@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2010-12-01
+Version Consolidée au 2010-12-18
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -8520,7 +8520,7 @@ Les règles relatives aux pouvoirs de police de la circulation routière dévolu
 les communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin de celles visées à l'article L. 2213-6, sont fixées
 par les articles L. 2213-1 à L. 2213-6 du code général des collectivités territoriales ci-après reproduits : 
 
-" Art.L. 2213-1-Le maire exerce la police de la circulation sur les routes nationales, les routes départementales et les
+" Art. L. 2213-1-Le maire exerce la police de la circulation sur les routes nationales, les routes départementales et les
 voies de communication à l'intérieur des agglomérations, sous réserve des pouvoirs dévolus au représentant de l'Etat dans le
 département sur les routes à grande circulation. 
 
@@ -8531,7 +8531,7 @@ Par dérogation aux dispositions des deux alinéas précédents et à celles des
 peuvent transférer, dans les attributions du représentant de l'Etat dans le département, la police de la circulation sur
 certaines sections des routes à grande circulation. " 
 
-" Art.L. 2213-2-Le maire peut, par arrêté motivé, eu égard aux nécessités de la circulation et de la protection de
+" Art. L. 2213-2-Le maire peut, par arrêté motivé, eu égard aux nécessités de la circulation et de la protection de
 l'environnement : 
 
 1° Interdire à certaines heures l'accès de certaines voies de l'agglomération ou de certaines portions de voie ou réserver
@@ -8542,9 +8542,9 @@ immeubles riverains ;
 
 3° Réserver sur la voie publique ou dans tout autre lieu de stationnement ouvert au public des emplacements de stationnement
 aménagés aux véhicules utilisés par les personnes titulaires de la carte de stationnement prévue à l'article L. 241-3-2 du
-code de l'action sociale et des familles et aux véhicules bénéficiant du label "autopartage" tel que défini par décret. " 
+code de l'action sociale et des familles et aux véhicules bénéficiant du label " autopartage " tel que défini par décret. " 
 
-" Art.L. 2213-3-Le maire peut, par arrêté motivé : 
+" Art. L. 2213-3-Le maire peut, par arrêté motivé : 
 
 1° Instituer, à titre permanent ou provisoire, pour les véhicules affectés à un service public et pour les besoins exclusifs
 de ce service et, dans le cadre de leurs missions, pour les véhicules de transport de fonds, de bijoux ou de métaux précieux,
@@ -8554,7 +8554,15 @@ des stationnements réservés sur les voies publiques de l'agglomération ;
 voyageurs et des taxis ainsi que des véhicules de transport de fonds, de bijoux ou de métaux précieux, dans le cadre de leurs
 missions et l'arrêt des véhicules effectuant un chargement ou un déchargement de marchandises. 
 
-" Art.L. 2213-4-Le maire peut, par arrêté motivé, interdire l'accès de certaines voies ou de certaines portions de voies ou
+" Art. L. 2213-3-1-Lorsqu'une commune est membre d'une métropole, d'une communauté urbaine ou d'une communauté
+d'agglomération compétente en matière de voirie dont le territoire est couvert par un plan de déplacements urbains, ou d'une
+communauté de communes compétente en matière de voirie dont le territoire est couvert par un plan de déplacements urbains, le
+stationnement des véhicules à moteur est soit interdit, soit réservé à des catégories particulières de véhicules, ou limité
+dans le temps, ou soumis à paiement, sur les voies publiques supportant la circulation de véhicules assurant un service
+régulier de transport public et sur les trottoirs adjacents à ces voies lorsque ces mesures sont nécessaires pour faciliter
+la circulation de ces véhicules ou l'accès des usagers au service. 
+
+" Art. L. 2213-4-Le maire peut, par arrêté motivé, interdire l'accès de certaines voies ou de certaines portions de voies ou
 de certains secteurs de la commune aux véhicules dont la circulation sur ces voies ou dans ces secteurs est de nature à
 compromettre soit la tranquillité publique, soit la qualité de l'air, soit la protection des espèces animales ou végétales,
 soit la protection des espaces naturels, des paysages ou des sites ou leur mise en valeur à des fins esthétiques,
@@ -8568,11 +8576,11 @@ Ces dispositions ne s'appliquent pas aux véhicules utilisés pour assurer une m
 s'appliquer d'une façon permanente aux véhicules utilisés à des fins professionnelles de recherche, d'exploitation ou
 d'entretien des espaces naturels. " 
 
-" Art.L. 2213-5-Le maire peut, par arrêté motivé, interdire l'accès de certaines voies ou de certaines portions de voies aux
-véhicules de transport de matières dangereuses visées par la directive 82 / 501 du Conseil du 24 juin 1982 concernant les
+" Art. L. 2213-5-Le maire peut, par arrêté motivé, interdire l'accès de certaines voies ou de certaines portions de voies aux
+véhicules de transport de matières dangereuses visées par la directive 82/501 du Conseil du 24 juin 1982 concernant les
 risques d'accidents majeurs de certaines activités industrielles et de nature à compromettre la sécurité publique. " 
 
-" Art.L. 2213-6-Le maire peut, moyennant le paiement de droits fixés par un tarif dûment établi, donner des permis de
+" Art. L. 2213-6-Le maire peut, moyennant le paiement de droits fixés par un tarif dûment établi, donner des permis de
 stationnement ou de dépôt temporaire sur la voie publique et autres lieux publics, sous réserve que cette autorisation
 n'entraîne aucune gêne pour la circulation, la navigation et la liberté du commerce. "
 
@@ -8586,18 +8594,19 @@ _Cité par_:
   - Code de la route. - art. R411-1 (V)
   - Code de la route. - art. R411-17 (V)
 
+_Modifié par_:
+
+  - Loi n°2010-1563 du 16 décembre 2010 - art. 17
+
 **Liens**:
 
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-1 (V)
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-2 (V)
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-3 (V)
+  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-3-1 (V)
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-4 (V)
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-5 (V)
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-6 (V)
-
-_Cite_:
-
-  - Code général des collectivités territoriales L2213-1 à L2213-6
 
 
 ###### Article L411-2
