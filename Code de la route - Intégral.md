@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2010-12-19
+Version Consolidée au 2011-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -12459,35 +12459,41 @@ _Cité par_:
 
 ###### Article R221-8
 
-I. - La catégorie A du permis de conduire, obtenue avant le 1er mars 1980, ou les catégories A 2 ou A 3, obtenues entre le
-1er mars 1980 et le 31 décembre 1984, autorise la conduite de toutes les motocyclettes.
+I.-La catégorie A du permis de conduire, obtenue avant le 1er mars 1980, ou les catégories A 2 ou A 3, obtenues entre le 1er
+mars 1980 et le 31 décembre 1984, autorise la conduite de toutes les motocyclettes. 
 
 Une licence de circulation, délivrée avant le 1er avril 1958, une catégorie quelconque du permis obtenue avant le 1er mars
 1980, ou la catégorie A 1 du permis obtenue entre le 1er mars 1980 et le 31 décembre 1984, autorise la conduite des
 motocyclettes dont la cylindrée n'excède pas 125 cm3, mises en circulation pour la première fois avant le 31 décembre 1984,
-et celle des motocyclettes légères.
+et celle des motocyclettes légères. 
 
-II. - La catégorie B du permis de conduire délivrée avant le 1er janvier 2007 autorise la conduite, sur le territoire
-national, d'une véhicule relevant de la sous-catégorie A1 si le conducteur est titulaire de la catégorie B du permis de
-conduire depuis au moins deux ans.
+II.-La catégorie B du permis de conduire autorise la conduite, sur le territoire national, d'une motocyclette légère à la
+double condition que le conducteur soit titulaire de cette catégorie de permis depuis au moins deux ans et qu'il ait suivi
+une formation pratique dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L. 213-7. 
 
-III. - La catégorie B du permis de conduire délivrée à compter du 1er janvier 2007 autorise la conduite, sur le territoire
-national, d'un véhicule relevant de la sous-catégorie A1 si le conducteur est titulaire de la catégorie B du permis de
-conduire depuis au moins deux ans. Cette autorisation n'est valide que si le conducteur a suivi une formation pratique
-dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L. 213-7 et qu'il est fait mention
-de cette autorisation sur le permis de conduire.
+Toutefois, la condition relative à la formation pratique n'est pas exigée des conducteurs qui justifient d'une pratique de la
+conduite d'une motocyclette légère au cours des cinq années précédant le 1er janvier 2011. La preuve de cette pratique est
+apportée par la production d'un document délivré par l'assureur et attestant la souscription d'une assurance couvrant l'usage
+d'un tel véhicule au cours de la période considérée. 
 
-Un arrêté du ministre chargé des transports fixe les modalités d'application du précédent alinéa.
+III.-La catégorie B du permis de conduire autorise la conduite, sur le territoire national, d'un véhicule de la catégorie L5e
+à la double condition que le conducteur soit titulaire de cette catégorie de permis depuis au moins deux ans et qu'il ait
+suivi une formation pratique dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L.
+213-7.
+
+Toutefois, ces deux conditions ne sont pas exigées des conducteurs qui justifient d'une pratique de la conduite d'un véhicule
+de la catégorie L5e au cours des cinq années précédant le 1er janvier 2011. La preuve de cette pratique est apportée par la
+production d'un document délivré par l'assureur et attestant la souscription d'une assurance couvrant l'usage d'un tel
+véhicule au cours de la période considérée. 
+
+IV.-Un arrêté conjoint du ministre chargé des transports et du ministre chargé des assurances fixe les modalités
+d'application des II et III.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2006-1811 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -12496,6 +12502,10 @@ _Cité par_:
   - Arrêté du 30 août 2013 (V)
   - Code de la route. - art. R233-1 (V)
 
+_Modifié par_:
+
+  - Décret n°2010-1390 du 12 novembre 2010 - art. 4
+
 _Anciens textes_:
 
   - Code de la route - art. R125-1 (Ab)
@@ -12503,8 +12513,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L213-1 (AbD)
-  - Code de la route. - art. L213-7 (AbD)
+  - Code de la route. - art. L213-1 (V)
 
 
 ###### Article R221-9
