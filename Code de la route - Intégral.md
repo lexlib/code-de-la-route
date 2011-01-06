@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-07
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -1824,34 +1824,35 @@ _Anciens textes_:
 ###### Article L213-3
 
 Nul ne peut exploiter, à titre individuel, ou être dirigeant ou gérant de droit ou de fait d'un des établissements mentionnés
-à l'article L. 213-1, s'il ne satisfait aux conditions suivantes :
+à l'article L. 213-1, s'il ne satisfait aux conditions suivantes : 
 
-1° Ne pas avoir fait l'objet d'une condamnation :
+1° Ne pas avoir fait l'objet d'une condamnation : 
 
-a) Soit à une peine criminelle ;
+a) Soit à une peine criminelle ; 
 
-b) Soit à une peine correctionnelle prononcée pour une infraction figurant sur une liste fixée par décret en Conseil d'Etat ;
+b) Soit à une peine correctionnelle prononcée pour une infraction figurant sur une liste fixée par décret en Conseil
+d'Etat ; 
 
 c) Soit à une peine prévue par les articles 186 et 192 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la
-liquidation judiciaires des entreprises, pendant la durée de cette peine.
+liquidation judiciaires des entreprises, pendant la durée de cette peine. 
 
-2° Justifier de la capacité à la gestion d'un établissement d'enseignement de la conduite ;
+2° Justifier de la capacité à la gestion d'un établissement d'enseignement de la conduite ; 
 
-3° Remplir les conditions d'âge, d'ancienneté du permis de conduire, d'expérience professionnelle et de réactualisation des
-connaissances fixées par décret en Conseil d'Etat.
+3° Remplir les conditions d'âge, d'ancienneté du permis de conduire et de réactualisation des connaissances fixées par décret
+en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°85-98 du 25 janvier 1985 - art. 186 (M)
-  - Loi n°85-98 du 25 janvier 1985 - art. 192 (M)
-  - Code de la route. - art. L213-1 (AbD)
+  - Loi n°85-98 du 25 janvier 1985 - art. 186 (Ab)
+  - Loi n°85-98 du 25 janvier 1985 - art. 192 (Ab)
+  - Code de la route. - art. L213-1
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Cité par_:
 
@@ -1877,12 +1878,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V) JORF 7 mars 2007 en vigueur au plus tard le 7 mars 2009
+  - Loi n°2011-12 du 5 janvier 2011 - art. 6
 
 _Anciens textes_:
 
   - Code de la route - art. L29-7 (Ab)
-  - Code de la route L29-7
 
 
 ###### Article L213-4
