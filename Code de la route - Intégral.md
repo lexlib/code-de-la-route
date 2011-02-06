@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-01-19
+Version Consolidée au 2011-02-07
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -21750,38 +21750,46 @@ _Cite_:
 
 ###### Article R318-10
 
-I. - Les voitures particulières et les camionnettes doivent être construites de façon à limiter l'utilisation de substances
-dangereuses, au sens de la directive 67/548 du Conseil du 27 juin 1967 modifiée concernant le rapprochement des dispositions
-législatives, réglementaires et administratives relatives à la classification, l'emballage et l'étiquetage des substances
-dangereuses, afin de prévenir le rejet de ces substances dans l'environnement, de faciliter le recyclage des composants et
-matériaux des véhicules et d'éviter d'avoir à éliminer des déchets dangereux au sens du décret n° 2002-540 du 18 avril 2002
-relatif à la classification des déchets.
+I.-Les voitures particulières et les camionnettes doivent être construites de façon à limiter l'utilisation de substances
+dangereuses afin de prévenir le rejet de ces substances dans l'environnement, de faciliter le recyclage des composants et
+matériaux des véhicules et d'éviter d'avoir à éliminer des déchets dangereux au sens des articles R. 541-7 à R. 541-11 du
+code de l'environnement. 
+
+Les substances dangereuses visées à l'alinéa précédent répondent aux critères des classes ou catégories de danger suivantes,
+visées à l'annexe I du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la
+classification, à l'étiquetage et à l'emballage des substances et des mélanges : 
+
+a) Les classes de danger 2.1 à 2.4, 2.6 et 2.7, 2.8 types A et B, 2.9, 2.10, 2.12, 2.13 catégories 1 et 2, 2.14 catégories 1
+et 2, 2.15 types A à F ; 
+
+b) Les classes de danger 3.1 à 3.6, 3.7 effets néfastes sur la fonction sexuelle et la fertilité ou sur le développement, 3.8
+effets autres que des effets narcotiques, 3.9 et 3.10 ; 
+
+c) La classe de danger 4.1 ; 
+
+d) La classe de danger 5.1. 
 
 Un arrêté conjoint des ministres chargés des transports, de l'environnement et de l'industrie fixe les conditions
-d'utilisation du plomb, du mercure, du cadmium et du chrome hexavalent dans les composants et matériaux des véhicules.
+d'utilisation du plomb, du mercure, du cadmium et du chrome hexavalent dans les composants et matériaux des véhicules. 
 
-II. - Les voitures particulières et les camionnettes doivent être construites de façon à faciliter leur démontage et leur
+II.-Les voitures particulières et les camionnettes doivent être construites de façon à faciliter leur démontage et leur
 dépollution lors de leur destruction ultérieure ainsi que le réemploi ou la valorisation, en particulier le recyclage, de
-leurs composants et matériaux.
+leurs composants et matériaux. 
 
 Les composants et matériaux de ces véhicules font l'objet d'une codification afin de faciliter l'identification de ceux qui
-peuvent être réemployés et valorisés.
+peuvent être réemployés et valorisés. 
 
 Un arrêté conjoint des ministres chargés des transports, de l'environnement et de l'industrie fixe les modalités
-d'application du présent II.
+d'application du présent II. 
 
-III. - Le respect des dispositions des I et II ci-dessus est vérifié lors de la réception communautaire prévue par les
-articles R. 321-6 à R. 321-14 du présent code.
+III.-Le respect des dispositions des I et II ci-dessus est vérifié lors de la réception communautaire prévue par les articles
+R. 321-6 à R. 321-14 du présent code.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Créé par_:
-
-  - Décret n°2003-727 du 1 août 2003 - art. 3 () JORF 5 août 2003
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -21790,9 +21798,15 @@ _Cité par_:
   - Code de l'environnement - art. R543-153 (V)
   - Code de l'environnement - art. R543-169 (V)
 
+_Modifié par_:
+
+  - Décret n°2011-153 du 4 février 2011 - art. 3
+
 _Cite_:
 
-  - Directive 67-548 CEE 1967-06-27 (Conseil)
+  - Code de l'environnement - art. R541-7
+  - Code de la route. - art. R321-6
+  - annexe I du règlement (CE) n°1272/2008
 
 
 ### Titre II : Dispositions administratives.<a id=132></a>
