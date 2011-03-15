@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-02-07
+Version Consolidée au 2011-03-16
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -19,14 +19,14 @@ Version Consolidée au 2011-02-07
         - [Chapitre 3 : Etablissements d'enseignement et d'animation de stages de sensibilisation à la sécurité routière. (art. L213-1 à L213-8)](#16)
       - [Titre 2 : Permis de conduire (art. L221-1 à L225-9)](#17)
         - [Chapitre 1er : Délivrance et catégories. (art. L221-1 à L221-2)](#18)
-        - [Chapitre 3 : Permis à points. (art. L223-1 à L223-8)](#19)
+        - [Chapitre 3 : Permis à points. (art. L223-1 à L223-9)](#19)
         - [Chapitre  4 : Interdiction de délivrance, rétention, suspension et annulation. (art. L224-1 à L224-18)](#20)
         - [Chapitre  5 : Enregistrement et communication des informations relatives au permis de conduire. (art. L225-1 à L225-9)](#21)
       - [Titre 3 : Comportement du conducteur (art. L231-1 à L235-4)](#22)
         - [Chapitre 1er : Comportement en cas d'accident. (art. L231-1 à L231-3)](#23)
         - [Chapitre 2 : Atteintes involontaires aux personnes. (art. L232-1 à L232-3)](#24)
         - [Chapitre 3 : Comportement en cas de contrôle routier. (art. L233-1 à L233-2)](#25)
-        - [Chapitre 4 : Conduite sous l'influence de l'alcool. (art. L234-1 à L234-15)](#26)
+        - [Chapitre 4 : Conduite sous l'influence de l'alcool. (art. L234-1 à L234-17)](#26)
         - [Chapitre 5 : Conduite sous l'influence de substances ou plantes classées comme stupéfiants. (art. L235-1 à L235-4)](#27)
       - [Titre 4 : Dispositions relatives à l'outre-mer (art. L241-1 à L245-2)](#28)
         - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. L241-1)](#29)
@@ -1150,6 +1150,10 @@ Pour l'application des dispositions relatives à l'amende forfaitaire, le lieu d
 nominatives concernant les constatations effectuées par les appareils de contrôle automatisé est considéré comme le lieu de
 constatation de l'infraction.
 
+Lorsque l'excès de vitesse est constaté par le relevé d'une vitesse moyenne, entre deux points d'une voie de circulation,
+supérieure à la vitesse maximale autorisée entre ces deux points, le lieu de commission de l'infraction est celui où a été
+réalisée la deuxième constatation, sans préjudice des dispositions du précédent alinéa.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -1168,16 +1172,16 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°78-17 1978-01-06
+  - Loi n°78-17 du 6 janvier 1978
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 56 () JORF 10 mars 2004
+  - Loi n°2011-267 du 14 mars 2011 - art. 87
 
 
 ### Titre 4 : Dispositions relatives à l'outre-mer<a id=8></a>
@@ -2203,39 +2207,36 @@ _Cité par_:
 
 ###### Article L221-2
 
-I. - Le fait de conduire un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule
-considéré est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+I.-Le fait de conduire un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule
+considéré est puni d'un an d'emprisonnement et de 15 000 euros d'amende. 
 
-II. - Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
-suivantes :
+II.-Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
+suivantes : 
 
-1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
+1° La confiscation obligatoire du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le
+propriétaire. La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée. 
+
+2° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+l'enfance délinquante ; 
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
-
-3° (Alinéa supprimé)
+3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
 
 4° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
-conduire n'est pas exigé, pour une durée de cinq ans au plus ;
+conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
 
-5° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
+5° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière. 
 
-6° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire.
-
-III. - L'immobilisation peut être prescrite, dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+III.-L'immobilisation peut être prescrite, dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (M)
-  - Code pénal - art. 131-25 (M)
-  - Code pénal - art. 131-5 (M)
-  - Code pénal - art. 131-8 (M)
-  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25
-  - Code de la route L325-1 à L325-3
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
+  - Code de la route. - art. L325-1 (V)
 
 _Cité par_:
 
@@ -2264,12 +2265,12 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 57 () JORF 10 mars 2004
+  - Loi n°2011-267 du 14 mars 2011 - art. 70
 
 _Anciens textes_:
 
@@ -2278,11 +2279,6 @@ _Anciens textes_:
   - Code de la route - art. L12 (Ab)
   - Code de la route - art. R278 (Ab)
   - Code de la route L1-1 (al. 2), L1-2, L12 (al. 1), R278 2°
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre 3 : Permis à points.<a id=19></a>
@@ -2296,12 +2292,16 @@ A la date d'obtention du permis de conduire, celui-ci est affecté de la moitié
 délai probatoire de trois ans. Au terme de chaque année de ce délai probatoire, le permis est majoré d'un sixième du nombre
 maximal de points si aucune infraction ayant donné lieu à un retrait de points n'a été commise depuis le début de la période
 probatoire. Lorsque le titulaire du permis de conduire a suivi un apprentissage anticipé de la conduite, ce délai probatoire
-est réduit à deux ans et cette majoration est portée au quart du nombre maximal de points.
+est réduit à deux ans et cette majoration est portée au quart du nombre maximal de points. 
 
-Lorsque le nombre de points est nul, le permis perd sa validité.
+Lorsque le nombre de points est nul, le permis perd sa validité. 
 
 La réalité d'une infraction entraînant retrait de points est établie par le paiement d'une amende forfaitaire ou l'émission
-du titre exécutoire de l'amende forfaitaire majorée, l'exécution d'une composition pénale ou par une condamnation définitive.
+du titre exécutoire de l'amende forfaitaire majorée, l'exécution d'une composition pénale ou par une condamnation
+définitive. 
+
+Le premier alinéa de l'article L. 223-6 n'est pas applicable pendant le délai probatoire mentionné au deuxième alinéa du
+présent article.
 
 **Liens relatifs à cet article**
 
@@ -2352,12 +2352,12 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V)
+  - Loi n°2011-267 du 14 mars 2011 - art. 75
 
 _Anciens textes_:
 
@@ -2552,33 +2552,28 @@ _Anciens textes_:
 
 ###### Article L223-6
 
-Si le titulaire du permis de conduire n'a pas commis, dans le délai de trois ans à compter de la date du paiement de la
+Si le titulaire du permis de conduire n'a pas commis, dans le délai de deux ans à compter de la date du paiement de la
 dernière amende forfaitaire, de l'émission du titre exécutoire de la dernière amende forfaitaire majorée, de l'exécution de
 la dernière composition pénale ou de la dernière condamnation définitive, une nouvelle infraction ayant donné lieu au retrait
-de points, son permis est affecté du nombre maximal de points.
+de points, son permis est affecté du nombre maximal de points. 
+
+Le délai de deux ans mentionné au premier alinéa est porté à trois ans si l'une des infractions ayant entraîné un retrait de
+points est un délit ou une contravention de la quatrième ou de la cinquième classe. 
 
 Toutefois, en cas de commission d'une infraction ayant entraîné le retrait d'un point, ce point est réattribué au terme du
-délai d'un an à compter de la date mentionnée à l'alinéa précédent, si le titulaire du permis de conduire n'a pas commis,
-dans cet intervalle, une infraction ayant donné lieu à un nouveau retrait de points.
+délai de six mois à compter de la date mentionnée au premier alinéa, si le titulaire du permis de conduire n'a pas commis,
+dans cet intervalle, une infraction ayant donné lieu à un nouveau retrait de points. 
 
 Le titulaire du permis de conduire qui a commis une infraction ayant donné lieu à retrait de points peut obtenir une
-récupération de points s'il suit un stage de sensibilisation à la sécurité routière. Lorsque le titulaire du permis de
-conduire a commis une infraction ayant donné lieu à un retrait de points égal ou supérieur au quart du nombre maximal de
-points et qu'il se trouve dans la période du délai probatoire défini à l'article L. 223-1, il doit se soumettre à cette
-formation spécifique qui se substitue à l'amende sanctionnant l'infraction.
+récupération de points s'il suit un stage de sensibilisation à la sécurité routière qui peut être effectué dans la limite
+d'une fois par an. Lorsque le titulaire du permis de conduire a commis une infraction ayant donné lieu à un retrait de points
+égal ou supérieur au quart du nombre maximal de points et qu'il se trouve dans la période du délai probatoire défini à
+l'article L. 223-1, il doit se soumettre à cette formation spécifique qui se substitue à l'amende sanctionnant l'infraction. 
 
-Sans préjudice de l'application des trois premiers alinéas du présent article, les points retirés du fait de contraventions
-des quatre premières classes au présent code sont réattribués au titulaire du permis de conduire à l'expiration d'un délai de
-dix ans à compter de la date à laquelle la condamnation est devenue définitive ou du paiement de l'amende forfaitaire
+Sans préjudice de l'application des alinéas précédents du présent article, les points retirés du fait de contraventions des
+quatre premières classes au présent code sont réattribués au titulaire du permis de conduire à l'expiration d'un délai de dix
+ans à compter de la date à laquelle la condamnation est devenue définitive ou du paiement de l'amende forfaitaire
 correspondante.
-
-**Nota:**
-
-Loi n° 2007-297 du 5 mars 2007, art. 23 VIII : 
-
-Ces dispositions s'appliquent aux infractions commises à compter du 1er janvier 2007 et aux infractions antérieures pour
-lesquelles le paiement de l'amende forfaitaire, l'émission du titre exécutoire de l'amende majorée, l'exécution de la
-composition pénale ou la condamnation définitive ne sont pas intervenus.
 
 **Liens relatifs à cet article**
 
@@ -2604,8 +2599,8 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 **Liens**:
 
@@ -2614,7 +2609,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V)
+  - Loi n°2011-267 du 14 mars 2011 - art. 75
+  - Loi n°2011-267 du 14 mars 2011 - art. 76
 
 _Anciens textes_:
 
@@ -2690,6 +2686,51 @@ _Cite_:
   - Code de la route. - art. L223-6 (V)
 
 
+###### Article L223-9
+
+I. ― Est puni de six mois d'emprisonnement et 15 000 € d'amende le fait, par l'auteur d'une contravention entraînant retrait
+de point du permis de conduire, de proposer ou de donner une rémunération à une personne pour qu'elle accepte d'être désignée
+comme conducteur du véhicule dans la requête en exonération ou la réclamation présentée dans les conditions prévues au b du
+1° de l'article 529-10 du code de procédure pénale. 
+
+II. ― Est puni des mêmes peines le fait, par toute personne, de proposer ou d'accepter contre rémunération d'être désignée,
+par l'auteur d'une contravention entraînant retrait de point, comme conducteur du véhicule dans la requête en exonération ou
+la réclamation présentée dans les conditions prévues au même b. 
+
+III. ― Lorsque les faits prévus au II sont commis de façon habituelle ou par la diffusion, par tout moyen, d'un message à
+destination du public, la peine est portée à un an d'emprisonnement et 30 000 € d'amende. 
+
+IV. ― La personne coupable des délits prévus par le présent article encourt également les peines complémentaires suivantes : 
+
+1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension ne pouvant pas être limitée à
+la conduite en dehors de l'activité professionnelle ; 
+
+2° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
+prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
+l'enfance délinquante ; 
+
+3° La peine de jours-amendes dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
+
+4° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
+
+5° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-22
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
+  - Code de procédure pénale - art. 529-10
+
+_Créé par_:
+
+  - Loi n°2011-267 du 14 mars 2011 - art. 77
+
+
 #### Chapitre  4 : Interdiction de délivrance, rétention, suspension et annulation.<a id=20></a>
 
 ###### Article L224-1
@@ -2698,23 +2739,30 @@ Lorsque les épreuves de dépistage de l'imprégnation alcoolique et le comporte
 celui-ci conduisait sous l'empire de l'état alcoolique défini à l'article L. 234-1 ou lorsque les mesures faites au moyen de
 l'appareil homologué mentionné à l'article L. 234-4 ont établi cet état, les officiers et agents de police judiciaire
 retiennent à titre conservatoire le permis de conduire de l'intéressé. Ces dispositions sont applicables à l'accompagnateur
-de l'élève conducteur.
+de l'élève conducteur. 
 
 Il en est de même en cas de conduite en état d'ivresse manifeste ou d'accompagnement en état d'ivresse manifeste d'un élève
 conducteur ou lorsque le conducteur ou l'accompagnateur refuse de se soumettre aux épreuves et mesures prévues à l'alinéa
 précédent. Le procès-verbal fait état des raisons pour lesquelles il n'a pu être procédé aux épreuves de dépistage prévues au
 premier alinéa ; en cas d'état d'ivresse manifeste du conducteur ou de l'accompagnateur, les épreuves doivent être effectuées
-dans les plus brefs délais.
+dans les plus brefs délais. 
 
 Lorsqu'il est fait application des dispositions de l'article L. 235-2, les dispositions du présent article sont applicables
-au conducteur si les épreuves de dépistage se révèlent positives.
+au conducteur si les épreuves de dépistage se révèlent positives. 
 
 Il en est de même s'il existe une ou plusieurs raisons plausibles de soupçonner que le conducteur ou l'accompagnateur de
 l'élève conducteur a fait usage de stupéfiants ou lorsque le conducteur ou l'accompagnateur refuse de se soumettre aux
-épreuves de vérification prévues par l'article L. 235-2.
+épreuves de vérification prévues par l'article L. 235-2. 
 
-Lorsque le dépassement de 40 km/h ou plus de la vitesse maximale autorisée est établi au moyen d'un appareil homologué et
-lorsque le véhicule est intercepté, les dispositions du présent article sont applicables au conducteur.
+Lorsque le dépassement de 40 km/ h ou plus de la vitesse maximale autorisée est établi au moyen d'un appareil homologué et
+lorsque le véhicule est intercepté, les dispositions du présent article sont applicables au conducteur. Dans ce cas, les
+agents de police judiciaire adjoints mentionnés à l'article 21 du code de procédure pénale sont habilités à retenir à titre
+conservatoire le permis de conduire du conducteur. 
+
+En cas d'accident de la circulation ayant entraîné la mort d'une personne, les officiers et agents de police judiciaire
+retiennent également à titre conservatoire le permis de conduire du conducteur à l'égard duquel il existe une ou plusieurs
+raisons plausibles de le soupçonner d'avoir commis une infraction en matière de respect des vitesses maximales autorisées ou
+des règles de croisement, de dépassement, d'intersection et de priorités de passage.
 
 **Liens relatifs à cet article**
 
@@ -2733,27 +2781,24 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 34 () JORF 13 juin 2003
+  - Loi n°2011-267 du 14 mars 2011 - art. 78
+
+_Cite_:
+
+  - Code de procédure pénale - art. 21
+  - Code de la route. - art. L234-1
+  - Code de la route. - art. L234-4
+  - Code de la route. - art. L235-2
 
 _Anciens textes_:
 
   - Code de la route - art. L18-1 (Ab)
   - Code de la route L18-1 (al. 1 et 2)
-
-_Cite_:
-
-  - Code de la route. - art. L234-1 (M)
-  - Code de la route. - art. L234-4 (M)
-  - Code de la route. - art. L235-2 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
 
 
 ###### Article L224-2
@@ -2763,29 +2808,37 @@ Lorsque l'état alcoolique est établi au moyen d'un appareil homologué, comme 
 représentant de l'Etat dans le département peut, dans les soixante-douze heures de la rétention du permis, prononcer la
 suspension du permis de conduire pour une durée qui ne peut excéder six mois. Il en est de même si le conducteur ou
 l'accompagnateur de l'élève conducteur a refusé de se soumettre aux épreuves et vérifications destinées à établir la preuve
-de l'état alcoolique.
+de l'état alcoolique. 
 
 A défaut de décision de suspension dans le délai de soixante-douze heures prévu par l'alinéa précédent, le permis de conduire
-est remis à la disposition de l'intéressé, sans préjudice de l'application ultérieure des articles L. 224-7 à L. 224-9.
+est remis à la disposition de l'intéressé, sans préjudice de l'application ultérieure des articles L. 224-7 à L. 224-9. 
 
 Lorsqu'il est fait application des dispositions de l'article L. 235-2, les dispositions du présent article sont applicables
 au conducteur si les analyses et examens médicaux, cliniques et biologiques établissent qu'il conduisait après avoir fait
 usage de substances ou plantes classées comme stupéfiants. Il en est de même si le conducteur ou l'accompagnateur de l'élève
-conducteur a refusé de se soumettre aux épreuves de vérification prévues par l'article L. 235-2.
+conducteur a refusé de se soumettre aux épreuves de vérification prévues par l'article L. 235-2. 
 
 Lorsque le dépassement de 40 km/h ou plus de la vitesse maximale autorisée est établi au moyen d'un appareil homologué et
-lorsque le véhicule est intercepté, les dispositions du présent article sont applicables au conducteur.
+lorsque le véhicule est intercepté, les dispositions du présent article sont applicables au conducteur. 
+
+Elles sont également applicables lorsque le permis a été retenu à la suite d'un accident de la circulation ayant entraîné la
+mort d'une personne, en application du dernier alinéa de l'article L. 224-1, en cas de procès-verbal constatant que le
+conducteur a commis une infraction en matière de respect des vitesses maximales autorisées ou des règles de croisement, de
+dépassement, d'intersection et de priorités de passage. 
+
+En cas d'accident de la circulation ayant entraîné la mort d'une personne, la durée de la suspension du permis de conduire
+peut être portée à un an.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 21 () JORF 2 juillet 2004
+  - Loi n°2011-267 du 14 mars 2011 - art. 78
 
 _Anciens textes_:
 
@@ -2794,12 +2847,10 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route L224-1, L234-4, L234-5, L224-8, L224-7 à L224-9, L235-2
-  - Code de la route. - art. L224-1 (M)
-  - Code de la route. - art. L224-8 (M)
-  - Code de la route. - art. L234-4 (M)
-  - Code de la route. - art. L234-5 (V)
-  - Code de la route. - art. L235-2 (M)
+  - Code de la route. - art. L224-1 (V)
+  - Code de la route. - art. L224-7 (V)
+  - Code de la route. - art. L234-4 (V)
+  - Code de la route. - art. L235-2 (V)
 
 _Cité par_:
 
@@ -2808,44 +2859,35 @@ _Cité par_:
   - Code de la route. - art. R224-4 (V)
   - Code de la route. - art. R224-6 (V)
 
-**Liens**:
-
-  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
-
 
 ###### Article L224-3
 
-Dans les cas prévus aux premier, troisième et quatrième alinéas de l'article L. 224-2, le représentant de l'Etat dans le
-département, s'il s'agit d'un brevet militaire de conduite délivré par l'autorité militaire, transmet directement ce titre à
-ladite autorité, à qui il appartient de prendre les mesures nécessaires.
+Dans les cas prévus aux premier, troisième, quatrième et cinquième alinéas de l'article L. 224-2, le représentant de l'Etat
+dans le département, s'il s'agit d'un brevet militaire de conduite délivré par l'autorité militaire, transmet directement ce
+titre à ladite autorité, à qui il appartient de prendre les mesures nécessaires.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Cité par_:
 
   - Arrêté du 22 avril 2008 - art. 7 (V)
 
+_Modifié par_:
+
+  - Loi n°2011-267 du 14 mars 2011 - art. 78
+
 _Anciens textes_:
 
   - Code de la route - art. L18-1 (Ab)
-  - Code de la route L18-1 (al. 6)
 
 _Cite_:
 
-  - Code de la route. - art. L224-2 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
-
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-_Modifié par_:
-
-  - Loi n°2003-495 du 12 juin 2003 - art. 34 () JORF 13 juin 2003
+  - Code de la route. - art. L224-2
 
 
 ###### Article L224-4
@@ -3141,49 +3183,53 @@ _Anciens textes_:
 
 ###### Article L224-16
 
-I. - Le fait pour toute personne, malgré la notification qui lui aura été faite d'une décision prononçant à son encontre la
+I.-Le fait pour toute personne, malgré la notification qui lui aura été faite d'une décision prononçant à son encontre la
 suspension, la rétention, l'annulation ou l'interdiction d'obtenir la délivrance du permis de conduire, de conduire un
 véhicule à moteur pour la conduite duquel une telle pièce est nécessaire est puni de deux ans d'emprisonnement et de 4 500
-euros d'amende.
+euros d'amende. 
 
-II. - Toute personne coupable du délit prévu au présent article encourt également les peines complémentaires suivantes :
+II.-Toute personne coupable du délit prévu au présent article encourt également les peines complémentaires suivantes : 
 
-1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension ne pouvant pas être limitée à
-la conduite en dehors de l'activité professionnelle ;
+1° La confiscation obligatoire du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le
+propriétaire. La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée. La
+confiscation n'est pas obligatoire lorsque le délit a été commis à la suite d'une des mesures administratives prévues aux
+articles L. 224-1, L. 224-2 et L. 224-7.
 
-2° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
+2° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension ne pouvant pas être limitée à
+la conduite en dehors de l'activité professionnelle ; 
+
+3° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+l'enfance délinquante ; 
 
-3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ;
+4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
 
-4° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
-conduire n'est pas exigé, pour une durée de cinq ans au plus ;
+5° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
 
-5° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
+6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière. 
 
-6° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire.
+III.-Toute personne coupable du délit prévu au présent article, dans les cas où il a été commis à la suite d'une décision de
+suspension ou de rétention du permis de conduire, encourt également la peine complémentaire d'annulation de ce permis, avec
+interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au plus. 
 
-III. - Toute personne coupable du délit prévu au présent article, dans les cas où il a été commis à la suite d'une décision
-de suspension ou de rétention du permis de conduire, encourt également la peine complémentaire d'annulation de ce permis,
-avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au plus.
+IV.-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
 
-IV. - L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
-
-V. - Le délit prévu au présent article, dans le cas où il a été commis à la suite d'une décision de suspension ou de
-rétention du permis de conduire, donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis
-de conduire.
+V.-Le délit prévu au présent article, dans le cas où il a été commis à la suite d'une décision de suspension ou de rétention
+du permis de conduire, donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de
+conduire.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (M)
-  - Code pénal - art. 131-25 (M)
-  - Code pénal - art. 131-5 (M)
-  - Code pénal - art. 131-8 (M)
-  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25
-  - Code de la route L325-1 à L325-3
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-22 (V)
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
+  - Code de la route. - art. L224-1 (V)
+  - Code de la route. - art. L224-7 (V)
+  - Code de la route. - art. L325-1 (V)
 
 _Cité par_:
 
@@ -3203,14 +3249,12 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 11 (V) JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+  - Loi n°2011-267 du 14 mars 2011 - art. 70
 
 _Anciens textes_:
 
@@ -3222,11 +3266,6 @@ _Anciens textes_:
   - Code de la route - art. L19 (Ab)
   - Code de la route - art. R278 (Ab)
   - Code de la route L1-1 (al. 2), L1-2, L11-1 (al. 1 et 2), L11-2 (al. 1), L14 (al. 1 et 2), L19 (al. 1), R278 2°
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L224-17
@@ -3511,11 +3550,12 @@ _Anciens textes_:
 
 ###### Article L225-4
 
-Les autorités judiciaires, les officiers de police judiciaire chargés de l'exécution d'une ordonnance juridictionnelle ou
-agissant dans le cadre d'une enquête de flagrance, le représentant de l'Etat dans le département dans l'exercice de ses
-compétences en matière de permis de conduire, les militaires de la gendarmerie et les fonctionnaires de la police nationale
-habilités à effectuer des contrôles routiers en application du présent code sont autorisés à accéder directement aux
-informations enregistrées en application de l'article L. 225-1.
+Les  autorités judiciaires, les magistrats de l'ordre administratif dans le cadre des recours formulés contre les décisions
+de retrait de point du permis de conduire, les officiers de police judiciaire chargés de l'exécution d'une ordonnance
+juridictionnelle ou agissant dans le cadre d'une enquête de flagrance, le représentant de l'Etat dans le département dans
+l'exercice de ses compétences en matière de permis de conduire, les militaires de la gendarmerie et les fonctionnaires de la
+police nationale habilités à effectuer des contrôles routiers en application du présent code sont autorisés à accéder
+directement aux informations enregistrées en application de l'article L. 225-1.
 
 **Liens relatifs à cet article**
 
@@ -3534,7 +3574,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-644 du 1er juillet 2008 - art. 10
+  - Loi n°2011-267 du 14 mars 2011 - art. 79
 
 _Anciens textes_:
 
@@ -3719,16 +3759,16 @@ _Cite_:
 Les dispositions relatives au délit de fuite commis par le conducteur d'un véhicule sont fixées par les articles 434-10 et
 434-45 du code pénal ci-après reproduits : 
 
-" Art. 434-10 - Le fait, pour tout conducteur d'un véhicule ou engin terrestre, fluvial ou maritime, sachant qu'il vient de
+" Art. 434-10-Le fait, pour tout conducteur d'un véhicule ou engin terrestre, fluvial ou maritime, sachant qu'il vient de
 causer ou d'occasionner un accident, de ne pas s'arrêter et de tenter ainsi d'échapper à la responsabilité pénale ou civile
-qu'il peut avoir encourue est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. 
+qu'il peut avoir encourue, est puni de trois ans d'emprisonnement et de 75 000 € d'amende. 
 
 Lorsqu'il y a lieu à l'application des articles 221-6 et 222-19, les peines prévues par ces articles sont portées au double
-hors les cas prévus par les articles 221-6-1, 222-19-1 et 222-20-1."
+hors les cas prévus par les articles 221-6-1,222-19-1 et 222-20-1. " 
 
-"Art. 434-45 - Les personnes physiques coupables du délit prévu par l'article 434-10 encourent également la suspension, pour
+" Art. 434-45-Les personnes physiques coupables du délit prévu par l'article 434-10 encourent également la suspension, pour
 une durée de cinq ans au plus, du permis de conduire, cette suspension ne pouvant pas être limitée à la conduite en dehors de
-l'activité professionnelle."
+l'activité professionnelle. "
 
 **Liens relatifs à cet article**
 
@@ -3744,25 +3784,22 @@ _Cité par_:
   - Code des transports - art. R3113-26 (V)
   - Code des transports - art. R3211-27 (V)
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 4 () JORF 13 juin 2003
+  - Loi n°2011-267 du 14 mars 2011 - art. 82
 
 _Cite_:
 
-  - Code pénal - art. 221-6 (M)
-  - Code pénal - art. 222-19 (M)
+  - Code pénal - art. 221-6 (V)
+  - Code pénal - art. 221-6-1 (V)
+  - Code pénal - art. 222-19 (V)
+  - Code pénal - art. 222-19-1 (V)
+  - Code pénal - art. 222-20-1 (V)
 
 **Liens**:
 
   - PILOTE_SUIVEUR: Code pénal - art. 434-10 (V)
   - PILOTE_SUIVEUR: Code pénal - art. 434-45 (V)
-  - HISTO: n
 
 
 ###### Article L231-2
@@ -4389,48 +4426,51 @@ _Cite_:
 
 ###### Article L234-2
 
-I. - Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines complémentaires
-suivantes :
+I.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines complémentaires
+suivantes : 
 
 1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension ne pouvant pas être limitée à
-la conduite en dehors de l'activité professionnelle ;
+la conduite en dehors de l'activité professionnelle ; 
 
 2° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
-plus ;
+plus ; 
 
 3° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+l'enfance délinquante ; 
 
-4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ;
+4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
 
 5° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
-conduire n'est pas exigé, pour une durée de cinq ans au plus ;
+conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
 
-6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière.
+6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
 
-II. - La suspension du permis de conduire prévue au présent article ne peut être assortie du sursis, même partiellement.
+7° L'interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé par un professionnel
+agréé ou par construction d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque cette interdiction
+est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle s'applique, pour la durée
+fixée par la juridiction, à l'issue de l'exécution de cette peine. 
+
+II.-La suspension du permis de conduire prévue au présent article ne peut être assortie du sursis, même partiellement.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (M)
-  - Code pénal - art. 131-25 (M)
-  - Code pénal - art. 131-5 (M)
-  - Code pénal - art. 131-8 (M)
-  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25
-  - Code de la route. - art. L234-1 (M)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-22 (V)
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
+  - Code de la route. - art. L234-1 (V)
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+  - Loi n°2011-267 du 14 mars 2011 - art. 71
 
 _Cité par_:
 
@@ -4455,10 +4495,11 @@ _Anciens textes_:
 
 ###### Article L234-3
 
-Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation alcoolique par l'air
-expiré l'auteur présumé d'une infraction punie par le présent code de la peine complémentaire de suspension du permis de
-conduire ou le conducteur ou l'accompagnateur de l'élève conducteur impliqué dans un accident de la circulation ayant
-occasionné un dommage corporel.
+Les officiers ou agents de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents et, sur
+l'ordre et sous la responsabilité desdits officiers de police judiciaire, les agents de police judiciaire adjoints soumettent
+à des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré l'auteur présumé d'une infraction punie par le
+présent code de la peine complémentaire de suspension du permis de conduire ou le conducteur ou l'accompagnateur de l'élève
+conducteur impliqué dans un accident de la circulation ayant occasionné un dommage corporel. 
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur ou tout accompagnateur d'élève conducteur impliqué dans un accident
 quelconque de la circulation ou auteur présumé de l'une des infractions aux prescriptions du présent code relatives à la
@@ -4468,8 +4509,12 @@ vitesse des véhicules et au port de la ceinture de sécurité ou du casque.
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
+
+_Modifié par_:
+
+  - Loi n°2011-267 du 14 mars 2011 - art. 93
 
 _Anciens textes_:
 
@@ -4749,27 +4794,42 @@ _Anciens textes_:
 
 ###### Article L234-9
 
-Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur initiative, et, sur
-l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire peuvent, même en
-l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule ou qui accompagne un élève
-conducteur à des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré.
+Les officiers de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents soit sur
+l'instruction du procureur de la République, soit à leur initiative et, sur l'ordre et sous la responsabilité de ceux-ci, les
+agents de police judiciaire et les agents de police judiciaire adjoints peuvent, même en l'absence d'infraction préalable ou
+d'accident, soumettre toute personne qui conduit un véhicule ou qui accompagne un élève conducteur à des épreuves de
+dépistage de l'imprégnation alcoolique par l'air expiré. 
 
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique, les officiers ou agents de police
 judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen de l'appareil
 permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, mentionné aux articles L. 234-4 et L. 234-5
-et dans les conditions prévues par ces mêmes articles.
+et dans les conditions prévues par ces mêmes articles. 
 
 En cas d'impossibilité de subir ces épreuves résultant d'une incapacité physique attestée par le médecin requis, les
 officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique
 au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les conditions prévues par les articles L. 234-4 et
-L. 234-5.
+L. 234-5. 
+
+Lorsque la constatation est faite par un agent de police judiciaire adjoint mentionné aux 1° bis,1° ter,1° quater ou 2° de
+l'article 21 du code de procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un état alcoolique
+ou du refus du conducteur ou de l'accompagnateur de l'élève conducteur de subir les épreuves de dépistage dans les conditions
+prévues à l'article L. 234-4 du présent code.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
+
+_Modifié par_:
+
+  - Loi n°2011-267 du 14 mars 2011 - art. 93
+
+_Cite_:
+
+  - Code de procédure pénale - art. 21
+  - Code de la route. - art. L234-4
 
 _Anciens textes_:
 
@@ -4789,11 +4849,6 @@ _Cité par_:
   - Code de la route. - art. R244-1 (M)
   - Code de la route. - art. R245-1 (M)
 
-_Cite_:
-
-  - Code de la route. - art. L234-4 (M)
-  - Code de la route. - art. L234-5 (V)
-
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de la route. - art. L244-1 (V)
@@ -4802,52 +4857,43 @@ _Cite_:
 
 ###### Article L234-12
 
-I. - Toute personne coupable, en état de récidive au sens de l'article 132-10 du code pénal, de l'une des infractions prévues
-aux articles L. 234-1 et L. 234-8 encourt également les peines complémentaires suivantes :
+I.-Toute personne coupable, en état de récidive au sens de l'article 132-10 du code pénal, de l'une des infractions prévues
+aux articles L. 234-1 et L. 234-8 encourt également les peines complémentaires suivantes : 
 
-1° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire, les
-dispositions de l'article L. 325-9 étant alors applicables, le cas échéant, au créancier gagiste ;
+1° La confiscation obligatoire du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire.
+La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée ; 
 
 2° L'immobilisation, pendant une durée d'un an au plus, du véhicule dont le prévenu s'est servi pour commettre l'infraction,
-s'il en est propriétaire.
+s'il en est propriétaire. 
 
-II. (Paragraphe abrogé).
+II. (Paragraphe abrogé). 
 
-III. - Le fait de détruire, détourner ou tenter de détruire ou de détourner un véhicule confisqué en application des
+III.-Le fait de détruire, détourner ou tenter de détruire ou de détourner un véhicule confisqué en application des
 dispositions du présent article est puni des peines prévues par l'article 434-41 du code pénal.
-
-**Nota:**
-
-Loi n° 2003-495 art. 3 III : Les dispositions du II de l'article L. 234-12 dans leur rédaction antérieure à l'entrée en
-vigueur de la loi n° 2003-495 demeurent applicables aux infractions commises avant cette entrée en vigueur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2003-495 2003-06-12 art. 3 III
-
-_Modifié par_:
-
-  - Loi n°2003-495 du 12 juin 2003 - art. 3 (V) JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Cité par_:
 
   - Loi n°2003-495 du 12 juin 2003 - art. 3 (V)
   - Code de la route. - art. R212-4 (V)
 
+_Modifié par_:
+
+  - Loi n°2011-267 du 14 mars 2011 - art. 74
+  - Loi n°2011-267 du 14 mars 2011 - art. 81
+
 _Cite_:
 
-  - Code pénal - art. 132-10 (V)
-  - Code pénal - art. 434-41 (M)
-  - Code de la route. - art. L234-1 (M)
-  - Code de la route. - art. L234-8 (M)
-  - Code de la route. - art. L325-9 (M)
+  - Code pénal - art. 132-10
+  - Code pénal - art. 434-41
+  - Code de la route. - art. L234-1
+  - Code de la route. - art. L234-8
 
 _Anciens textes_:
 
@@ -4929,6 +4975,73 @@ autres données ne peuvent être consultées que par des personnes nommément d�
 _Créé par_:
 
   - Loi n°2009-1503 du 8 décembre 2009 - art. 42
+
+
+###### Article L234-16
+
+I. ― Le fait de contrevenir à l'interdiction prononcée sur le fondement du 7° de l'article L. 234-2 est puni de deux ans
+d'emprisonnement et de 4 500 € d'amende. 
+
+II. ― Toute personne coupable de l'infraction prévue au I encourt également les peines complémentaires suivantes : 
+
+1° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pendant une durée de cinq ans au plus ; 
+
+2° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
+plus ; 
+
+3° La peine de travail d'intérêt général selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
+prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
+l'enfance délinquante. 
+
+III. ― Toute personne coupable, en état de récidive au sens de l'article 132-10 du code pénal, de l'infraction prévue au I du
+présent article encourt également la confiscation obligatoire du véhicule dont elle s'est servie pour commettre l'infraction,
+si elle en est le propriétaire. La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement
+motivée.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-22
+  - Code pénal - art. 131-8
+  - Code pénal - art. 132-10
+  - Code de la route. - art. L234-2
+
+_Créé par_:
+
+  - Loi n°2011-267 du 14 mars 2011 - art. 71
+
+_Cité par_:
+
+  - Code de la route. - art. L243-2 (V)
+  - Code de la route. - art. L244-2 (V)
+  - Code de la route. - art. L245-2 (V)
+  - Code pénal - art. R131-4-1 (V)
+
+
+###### Article L234-17
+
+Les conditions d'homologation des dispositifs d'anti-démarrage par éthylotest électronique ainsi que les modalités d'agrément
+des professionnels chargés de les installer sont fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-267 du 14 mars 2011 - art. 71
+
+_Cité par_:
+
+  - Décret n°2011-1661 du 28 novembre 2011 - art. 1 (V)
+  - Arrêté du 13 juillet 2012 - art. 1 (VD)
+  - Code de la route. - art. R224-6 (V)
+  - Code de la route. - art. R234-1 (V)
+  - Code de la route. - art. R234-7 (V)
+  - Code de procédure pénale - art. R15-33-41-1 (V)
+  - Code pénal - art. 221-8 (VD)
+  - Code pénal - art. 222-44 (VD)
 
 
 #### Chapitre 5 : Conduite sous l'influence de substances ou plantes classées comme stupéfiants.<a id=27></a>
@@ -5022,22 +5135,37 @@ _Anciens textes_:
 
 ###### Article L235-2
 
-Les officiers ou agents de police judiciaire font procéder, sur le conducteur ou l'accompagnateur de l'élève conducteur
-impliqué dans un accident mortel de la circulation, à des épreuves de dépistage en vue d'établir si cette personne conduisait
-en ayant fait usage de substances ou plantes classées comme stupéfiants. Il en est de même si la personne est impliquée dans
-un accident de la circulation ayant occasionné un dommage corporel, lorsqu'il existe à son encontre une ou plusieurs raisons
-plausibles de soupçonner qu'elle a fait usage de stupéfiants.
+Les officiers ou agents de police judiciaire de la gendarmerie ou la police nationales territorialement compétents et, sur
+l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire adjoints font procéder,
+sur le conducteur ou l'accompagnateur de l'élève conducteur impliqué dans un accident mortel ou corporel de la circulation, à
+des épreuves de dépistage en vue d'établir si cette personne conduisait en ayant fait usage de substances ou plantes classées
+comme stupéfiants.
 
-Les officiers ou agents de police judiciaire peuvent également faire procéder à ces mêmes épreuves sur tout conducteur ou
-tout accompagnateur d'élève conducteur, soit qui est impliqué dans un accident quelconque de la circulation, soit qui est
-l'auteur présumé de l'une des infractions au présent code punies de la peine de suspension du permis de conduire, ou
-relatives à la vitesse des véhicules ou au port de la ceinture de sécurité ou du casque, soit à l'encontre duquel il existe
-une ou plusieurs raisons plausibles de soupçonner qu'il a fait usage de stupéfiants.
+Les officiers ou agents de police judiciaire de la gendarmerie ou la police nationales territorialement compétents et, sur
+l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire adjoints peuvent
+également faire procéder à ces mêmes épreuves sur tout conducteur ou tout accompagnateur d'élève conducteur qui est impliqué
+dans un accident matériel de la circulation ou est l'auteur présumé de l'une des infractions au présent code ou à l'encontre
+duquel il existe une ou plusieurs raisons plausibles de soupçonner qu'il a fait usage de stupéfiants.
 
-Si ces épreuves de dépistage se révèlent positives ou lorsque le conducteur refuse ou est dans l'impossibilité de les subir,
+Les officiers ou agents de police judiciaire de la gendarmerie ou la police nationales territorialement compétents, agissant
+sur réquisitions du procureur de la République précisant les lieux et dates des opérations et, sur l'ordre et sous la
+responsabilité de ces officiers de police judiciaire, les agents de police judiciaire adjoints peuvent également, même en
+l'absence d'accident de la circulation, d'infraction ou de raisons plausibles de soupçonner un usage de stupéfiants, procéder
+ou faire procéder, sur tout conducteur ou tout accompagnateur d'élève conducteur, à des épreuves de dépistage en vue
+d'établir si cette personne conduisait en ayant fait usage de substances ou plantes classées comme stupéfiants. Les
+réquisitions prévues au présent alinéa peuvent être adressées par tout moyen. Si elles sont adressées oralement, il en est
+fait mention dans le procès-verbal dressé par l'officier ou l'agent de police judiciaire.
+
+Si les épreuves de dépistage se révèlent positives ou lorsque le conducteur refuse ou est dans l'impossibilité de les subir,
 les officiers ou agents de police judiciaire font procéder à des vérifications consistant en des analyses ou examens
 médicaux, cliniques et biologiques, en vue d'établir si la personne conduisait en ayant fait usage de substances ou plantes
 classées comme stupéfiants.
+
+Lorsque la constatation est faite par un agent de police judiciaire adjoint mentionné aux 1° bis, 1° ter, 1° quater ou 2° de
+l'article 21 du code de procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un usage de
+substances ou plantes classées comme stupéfiants ou du refus du conducteur ou de l'accompagnateur de l'élève conducteur de
+subir les épreuves de dépistage à tout officier de police judiciaire de la police nationale ou de la gendarmerie nationale
+territorialement compétent, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ la personne concernée. 
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
@@ -5045,12 +5173,12 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 35 () JORF 13 juin 2003
+  - Loi n°2011-267 du 14 mars 2011 - art. 83
 
 _Cité par_:
 
@@ -5073,11 +5201,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. Annexe 2 (V)
   - Code de la sécurité intérieure - art. R546-2 (VD)
 
-**Liens**:
+_Cite_:
 
-  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+  - Code de procédure pénale - art. 21
 
 
 ###### Article L235-3
@@ -5146,19 +5272,19 @@ _Modifié par_:
 
 ###### Article L235-4
 
-I. - Toute personne coupable, en état de récidive au sens de l'article 132-10 du code pénal, de l'une des infractions prévues
-aux articles L. 235-1 et L. 235-3 du présent code encourt également les peines complémentaires suivantes :
+I.-Toute personne coupable, en état de récidive au sens de l'article 132-10 du code pénal, de l'une des infractions prévues
+aux articles L. 235-1 et L. 235-3 du présent code encourt également les peines complémentaires suivantes : 
 
-1° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire, les
-dispositions de l'article L. 325-9 étant alors applicables, le cas échéant, au créancier gagiste ;
+1° La confiscation obligatoire du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire.
+La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée ; 
 
 2° L'immobilisation, pendant une durée d'un an au plus, du véhicule dont le prévenu s'est servi pour commettre l'infraction,
-s'il en est propriétaire.
+s'il en est propriétaire. 
 
 Le fait de détruire, détourner ou tenter de détruire ou de détourner un véhicule confisqué ou immobilisé en application des
-1° et 2° est puni des peines prévues à l'article 434-41 du code pénal.
+1° et 2° est puni des peines prévues à l'article 434-41 du code pénal. 
 
-II. - Toute condamnation pour les délits prévus aux articles L. 235-1 et L. 235-3 commis en état de récidive au sens de
+II.-Toute condamnation pour les délits prévus aux articles L. 235-1 et L. 235-3 commis en état de récidive au sens de
 l'article 132-10 du code pénal donne lieu de plein droit à l'annulation du permis de conduire avec interdiction de solliciter
 la délivrance d'un nouveau permis pendant trois ans au plus.
 
@@ -5166,20 +5292,20 @@ la délivrance d'un nouveau permis pendant trois ans au plus.
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-87 2003-02-03 art. 1 2° JORF 4 février 2003
+  - Loi n°2011-267 du 14 mars 2011 - art. 74
+  - Loi n°2011-267 du 14 mars 2011 - art. 81
 
 _Cite_:
 
   - Code pénal - art. 132-10 (V)
-  - Code pénal - art. 434-41 (M)
-  - Code de la route. - art. L235-1 (M)
-  - Code de la route. - art. L235-3 (M)
-  - Code de la route. - art. L325-9 (M)
+  - Code pénal - art. 434-41 (V)
+  - Code de la route. - art. L235-1 (V)
+  - Code de la route. - art. L235-3 (V)
 
 _Cité par_:
 
@@ -5187,12 +5313,6 @@ _Cité par_:
   - Code de la route. - art. L243-2 (V)
   - Code de la route. - art. L244-2 (V)
   - Code de la route. - art. L245-2 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ### Titre 4 : Dispositions relatives à l'outre-mer<a id=28></a>
@@ -5269,23 +5389,28 @@ mots : " dans la collectivité ".
 
 Les articles L. 234-1 à L. 234-9 sont applicables à la Nouvelle-Calédonie dans la rédaction suivante : 
 
-Art.L. 234-1.-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un état
-alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0, 80 gramme par litre ou par une
-concentration d'alcool dans l'air expiré égale ou supérieure à 0, 40 milligramme par litre est puni de deux ans
+Art. L. 234-1.-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
+état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par
+une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans
 d'emprisonnement et de 4 500 euros d'amende. 
 
 II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. 
 
-Art.L. 234-2.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
+Art. L. 234-2.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
 complémentaires suivantes : 
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante ; 
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
 
-Art.L. 234-3.-Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
+3° L'interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé, par un
+professionnel agréé ou par construction, d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque
+cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle
+s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine. 
+
+Art. L. 234-3.-Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
 alcoolique par l'air expiré l'auteur présumé de l'une des infractions prévues par les dispositions applicables localement
 susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation
 ayant occasionné un dommage corporel. 
@@ -5294,7 +5419,7 @@ Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un que
 présumé de l'une des infractions aux prescriptions applicables localement relatives à la vitesse des véhicules et au port de
 la ceinture de sécurité ou du casque. 
 
-Art.L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
+Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
 établir la preuve de l'état alcoolique. 
 
@@ -5302,20 +5427,20 @@ Ces vérifications sont faites soit au moyen d'analyses et examens médicaux, cl
 appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, à la condition que cet appareil
 soit conforme à un type homologué. 
 
-Art.L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un
+Art. L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un
 échantillon est conservé. 
 
 Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air
 expiré, un second contrôle peut être immédiatement effectué, après vérification du bon fonctionnement de l'appareil ; ce
 contrôle est de droit lorsqu'il est demandé par l'intéressé. 
 
-Art.L. 234-6.-L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
+Art. L. 234-6.-L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
 destinées à établir l'état alcoolique. 
 
-Art.L. 234-7.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
+Art. L. 234-7.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
 dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. 
 
-Art.L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux
+Art. L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux
 vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende. 
 
 II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
@@ -5326,10 +5451,10 @@ l'enfance délinquante ;
 
 2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
 
-Art.L. 234-9.-Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur initiative,
-et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire peuvent, même
-en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des épreuves de
-dépistage de l'imprégnation alcoolique par l'air expiré. 
+Art. L. 234-9.-Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
+initiative, et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire
+peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des
+épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. 
 
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique, les officiers ou agents de police
 judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen de l'appareil
@@ -5343,6 +5468,18 @@ L. 234-5.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
+  - Code pénal - art. 131-22 (V)
+  - Code pénal - art. 131-25 (V)
+  - Code pénal - art. 131-5 (V)
+  - Code pénal - art. 131-8 (V)
+  - Code de la route. - art. L225-4
+  - Code de la route. - art. L234-1
+  - Code de la route. - art. L234-3 (V)
+  - Code de la route. - art. L234-4 (V)
+
 _Anciens textes_:
 
   - Loi n°95-97 du 1 février 1995 - art. 1 (Ab)
@@ -5352,35 +5489,31 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-644 du 1er juillet 2008 - art. 13
-
-_Cite_:
-
-  - Code de la route. - art. L225-4
-  - Code de la route. - art. L234-1 (V)
+  - Loi n°2011-267 du 14 mars 2011 - art. 137
 
 
 ###### Article L243-2
 
-Le I, les 3° et 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3
-et le I de l'article L. 235-4 sont applicables en Nouvelle-Calédonie.
+Les articles L. 234-16 et L. 234-17, le I, les 3° et 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les
+3° et 4° du II de l'article L. 235-3 et le I de l'article L. 235-4 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-567 du 17 juin 2004 - art. 1
+  - Loi n°2011-267 du 14 mars 2011 - art. 137
 
 _Cite_:
 
-  - Code de la route. - art. L235-1 (M)
-  - Code de la route. - art. L235-2 (M)
-  - Code de la route. - art. L235-3 (M)
+  - Code de la route. - art. L234-16 (V)
+  - Code de la route. - art. L235-1 (V)
+  - Code de la route. - art. L235-2 (V)
+  - Code de la route. - art. L235-3 (V)
   - Code de la route. - art. L235-4 (V)
 
 
@@ -5393,23 +5526,28 @@ mots : " dans la collectivité ".
 
 Les articles L. 234-1 à L. 234-9 sont applicables à la Polynésie française, dans la rédaction suivante : 
 
-" Art.L. 234-1.-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
-état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0, 80 gramme par litre ou par
-une concentration d'alcool dans l'air expiré égale ou supérieure à 0, 40 milligramme par litre est puni de deux ans
+" Art. L. 234-1.-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
+état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par
+une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans
 d'emprisonnement et de 4 500 euros d'amende. 
 
 II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. " 
 
-" Art.L. 234-2.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
+" Art. L. 234-2.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
 complémentaires suivantes : 
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante ; 
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. " 
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; " 
 
-" Art.L. 234-3.-Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
+3° L'interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé, par un
+professionnel agréé ou par construction, d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque
+cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle
+s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine. 
+
+" Art. L. 234-3.-Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
 alcoolique par l'air expiré l'auteur présumé de l'une des infractions prévues par les dispositions applicables localement
 susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation
 ayant occasionné un dommage corporel. 
@@ -5418,7 +5556,7 @@ Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un que
 présumé de l'une des infractions aux prescriptions applicables localement relatives à la vitesse des véhicules et au port de
 la ceinture de sécurité ou du casque. " 
 
-" Art.L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
+" Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
 établir la preuve de l'état alcoolique. 
 
@@ -5426,20 +5564,20 @@ Ces vérifications sont faites soit au moyen d'analyses et examens médicaux, cl
 appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré à la condition que cet appareil
 soit conforme à un type homologué. " 
 
-" Art.L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un
+" Art. L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un
 échantillon est conservé. 
 
 Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air
 expiré, un second contrôle peut être immédiatement effectué, après vérification du bon fonctionnement de l'appareil ; ce
 contrôle est de droit lorsqu'il est demandé par l'intéressé. " 
 
-" Art.L. 234-6.-L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
+" Art. L. 234-6.-L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
 destinées à établir l'état alcoolique. " 
 
-" Art.L. 234-7.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
+" Art. L. 234-7.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
 dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. " 
 
-" Art.L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux
+" Art. L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux
 vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende. 
 
 II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
@@ -5450,7 +5588,7 @@ l'enfance délinquante ;
 
 2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. " 
 
-" Art.L. 234-9.-Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
+" Art. L. 234-9.-Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
 initiative, et sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire
 peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des
 épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. 
@@ -5467,6 +5605,15 @@ L. 234-5. "
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
+  - Code pénal - art. 131-22 (V)
+  - Code pénal - art. 131-25 (V)
+  - Code pénal - art. 131-5 (V)
+  - Code pénal - art. 131-8 (V)
+  - Code de la route. - art. L225-4
+
 _Anciens textes_:
 
   - Loi n°95-97 du 1 février 1995 - art. 1 (Ab)
@@ -5476,40 +5623,33 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-644 du 1er juillet 2008 - art. 13
-
-_Cite_:
-
-  - Code de la route. - art. L225-4
+  - Loi n°2011-267 du 14 mars 2011 - art. 137
 
 
 ###### Article L244-2
 
-Le I, les 3° et 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3
-et le I de l'article L. 235-4 sont applicables en Polynésie française.
+Les articles L. 234-16 et L. 234-17, le I, les 3° et 4° du II et le III de l'article L. 235-1, 
+l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de l'article L. 235-4 sont applicables en
+Polynésie française.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 45 () JORF 13 juin 2003
+  - Loi n°2011-267 du 14 mars 2011 - art. 137
 
 _Cite_:
 
-  - Code de la route. - art. L235-1 (M)
-  - Code de la route. - art. L235-2 (M)
-  - Code de la route. - art. L235-3 (M)
+  - Code de la route. - art. L234-16 (V)
+  - Code de la route. - art. L235-1 (V)
+  - Code de la route. - art. L235-2 (V)
+  - Code de la route. - art. L235-3 (V)
   - Code de la route. - art. L235-4 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre 5 : Dispositions applicables au territoire des îles Wallis-et-Futuna.<a id=33></a>
@@ -5521,23 +5661,28 @@ par les mots : " dans la collectivité ".
 
 Les articles L. 234-1 à L. 234-9 sont applicables au territoire des îles Wallis-et-Futuna dans la rédaction suivante : 
 
-" Art.L. 234-1.-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
-état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0, 80 gramme par litre ou par
-une concentration d'alcool dans l'air expiré égale ou supérieure à 0, 40 milligramme par litre est puni de deux ans
+" Art. L. 234-1.-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
+état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par
+une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans
 d'emprisonnement et de 4 500 euros d'amende. 
 
 II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. " 
 
-" Art.L. 234-2.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
+" Art. L. 234-2.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
 complémentaires suivantes : 
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante ; 
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. " 
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; " 
 
-" Art.L. 234-3.-Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
+3° L'interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé, par un
+professionnel agréé ou par construction, d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque
+cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle
+s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine. 
+
+" Art. L. 234-3.-Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
 alcoolique par l'air expiré l'auteur présumé de l'une des infractions prévues aux dispositions applicables localement
 susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation
 ayant occasionné un dommage corporel. 
@@ -5546,7 +5691,7 @@ Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un que
 présumé de l'une des infractions aux prescriptions applicables localement relatives à la vitesse des véhicules et au port de
 la ceinture de sécurité ou du casque. " 
 
-" Art.L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
+" Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
 établir la preuve de l'état alcoolique. 
 
@@ -5554,20 +5699,20 @@ Ces vérifications sont faites soit au moyen d'analyses et examens médicaux, cl
 appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré à la condition que cet appareil
 soit conforme à un type homologué. " 
 
-" Art.L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un
+" Art. L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un
 échantillon est conservé. 
 
 Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air
 expiré, un second contrôle peut être immédiatement effectué, après vérification du bon fonctionnement de l'appareil ; ce
 contrôle est de droit lorsqu'il est demandé par l'intéressé. 
 
-" Art.L. 234-6.-L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
+" Art. L. 234-6.-L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
 destinées à établir l'état alcoolique. " 
 
-" Art.L. 234-7.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
+" Art. L. 234-7.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
 dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. " 
 
-" Art.L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux
+" Art. L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux
 vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende. 
 
 II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
@@ -5578,7 +5723,7 @@ l'enfance délinquante ;
 
 2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. " 
 
-" Art.L. 234-9.-Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
+" Art. L. 234-9.-Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
 initiative, et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire
 peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des
 épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. 
@@ -5595,6 +5740,15 @@ au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les con
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
+  - Code pénal - art. 131-22 (V)
+  - Code pénal - art. 131-25 (V)
+  - Code pénal - art. 131-5 (V)
+  - Code pénal - art. 131-8 (V)
+  - Code de la route. - art. L225-4
+
 _Anciens textes_:
 
   - Loi n°95-97 du 1 février 1995 - art. 1 (Ab)
@@ -5604,34 +5758,31 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-644 du 1er juillet 2008 - art. 13
-
-_Cite_:
-
-  - Code de la route. - art. L225-4
+  - Loi n°2011-267 du 14 mars 2011 - art. 137
 
 
 ###### Article L245-2
 
-Le I, les 3° et 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3
-et le I de l'article L. 235-4 sont applicables dans les îles Wallis et Futuna.
+Les articles L. 234-16 et L. 234-17, le I, les 3° et 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les
+3° et 4° du II de l'article L. 235-3 et le I de l'article L. 235-4 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-567 du 17 juin 2004 - art. 2
+  - Loi n°2011-267 du 14 mars 2011 - art. 137
 
 _Cite_:
 
-  - Code de la route. - art. L235-1 (M)
-  - Code de la route. - art. L235-2 (M)
-  - Code de la route. - art. L235-3 (M)
+  - Code de la route. - art. L234-16 (V)
+  - Code de la route. - art. L235-1 (V)
+  - Code de la route. - art. L235-2 (V)
+  - Code de la route. - art. L235-3 (V)
   - Code de la route. - art. L235-4 (V)
 
 
@@ -6817,9 +6968,11 @@ l'autorisation préalable du procureur de la République donnée par tout moyen,
 en fourrière du véhicule.
 
 Si la juridiction ne prononce pas la peine de confiscation du véhicule, celui-ci est restitué à son propriétaire, sous
-réserve des dispositions du troisième alinéa. Si la confiscation est ordonnée, le véhicule est remis au service des domaines
-en vue de sa destruction ou de son aliénation. Les frais d'enlèvement et de garde en fourrière sont à la charge de
-l'acquéreur.
+réserve des dispositions du troisième alinéa. Si la confiscation est ordonnée, le véhicule est remis à l'Agence de gestion et
+de recouvrement des avoirs saisis et confisqués  en vue de sa destruction ou de son aliénation. Les frais d'enlèvement et de
+garde en fourrière sont à la charge de l'acquéreur. Le produit de la vente est tenu, le cas échéant, à la disposition du
+créancier gagiste pouvant justifier de ses droits, pendant un délai de deux ans. A l'expiration de ce délai, ce produit est
+acquis à l'Etat.
 
 Si la juridiction prononce la peine d'immobilisation du véhicule, celui-ci n'est restitué au condamné qu'à l'issue de la
 durée de l'immobilisation fixée par la juridiction contre paiement des frais d'enlèvement et de garde en fourrière, qui sont
@@ -6829,12 +6982,12 @@ durée de l'immobilisation fixée par la juridiction contre paiement des frais d
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V)
+  - Loi n°2011-267 du 14 mars 2011 - art. 81
 
 _Cité par_:
 
@@ -6849,14 +7002,53 @@ _Cité par_:
   - Code pénal - art. R131-10-1 (V)
 
 
+###### Article L325-1-2
+
+Dès lors qu'est constatée une infraction pour laquelle une peine de confiscation obligatoire du véhicule est encourue, le
+représentant de l'Etat dans le département où cette infraction a été commise peut faire procéder à titre provisoire à
+l'immobilisation et à la mise en fourrière du véhicule dont l'auteur s'est servi pour commettre l'infraction. Il en informe
+immédiatement, par tout moyen, le procureur de la République. 
+
+Lorsque l'immobilisation ou la mise en fourrière prévue à l'article L. 325-1-1 n'est pas autorisée par le procureur de la
+République dans un délai de sept jours suivant la décision du représentant de l'Etat prise en application du premier alinéa,
+le véhicule est restitué à son propriétaire. En cas de mesures successives, le délai n'est pas prorogé. 
+
+Lorsqu'une peine d'immobilisation ou de confiscation du véhicule est prononcée par la juridiction, les règles relatives aux
+frais d'enlèvement et de garde en fourrière prévues à l'article L. 325-1-1 s'appliquent. 
+
+Lorsque l'auteur de l'infraction visée au premier alinéa du présent article n'est pas le propriétaire du véhicule,
+l'immobilisation ou la mise en fourrière est levée dès qu'un conducteur qualifié proposé par l'auteur de l'infraction ou par
+le titulaire du certificat d'immatriculation du véhicule peut en assurer la conduite. Les frais d'enlèvement et de garde en
+fourrière sont à la charge du propriétaire. 
+
+Les frais d'enlèvement et de garde du véhicule immobilisé et mis en fourrière pendant une durée maximale de sept jours en
+application du présent article ne constituent pas des frais de justice relevant de l'article 800 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-267 du 14 mars 2011 - art. 84
+
+_Cite_:
+
+  - Code de procédure pénale - art. 800
+  - Code de la route. - art. L325-1-1
+
+_Cité par_:
+
+  - Code de la route. - art. R325-22 (V)
+  - Code de la route. - art. R325-27 (V)
+
+
 ###### Article L325-2
 
-Pour l'application des articles L. 325-1 et L. 325-1-1 et sur prescription de l'officier de police judiciaire
+Pour l'application des articles L. 325-1, L. 325-1-1 et L. 325-1-2 et sur prescription de l'officier de police judiciaire
 territorialement compétent, les fonctionnaires de police en tenue et les militaires de la gendarmerie habilités à constater
 par procès-verbaux les contraventions à la police de la circulation routière peuvent, en cas de besoin, ouvrir ou faire
 ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule ou le faire
 conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens autonomes de
-propulsion dont le véhicule est muni.
+propulsion dont le véhicule est muni. 
 
 La mise en fourrière peut également être prescrite par l'agent de police judiciaire adjoint, chef de la police municipale ou
 qui occupe ces fonctions, territorialement compétent. Pour l'application de cette disposition et sur prescription de l'agent
@@ -6864,7 +7056,7 @@ de police judiciaire adjoint, chef de la police municipale ou qui occupe ces fon
 habilités à constater par procès-verbal les contraventions à la police de la circulation routière peuvent, en cas de besoin,
 ouvrir ou faire ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le
 véhicule ou le faire conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens
-autonomes de propulsion dont le véhicule est muni.
+autonomes de propulsion dont le véhicule est muni. 
 
 Dans les cas prévus aux alinéas précédents, l'assureur du propriétaire du véhicule est tenu de garantir dans les limites du
 contrat la réparation du dommage causé au tiers, sauf recours, s'il y a lieu, contre la collectivité publique qui, par son
@@ -6878,10 +7070,8 @@ dirigées contre une personne morale de droit public.
 
 _Cite_:
 
-  - Loi n°57-1424 du 31 décembre 1957 - art. 1 (V)
-  - Code de la route L325-1, L325-1-1, 131, 77, 86 à 89, 91
-  - Code de la route. - art. L325-1 (M)
-  - Code de la route. - art. L325-1-1 (M)
+  - Loi n°57-1424 du 31 décembre 1957 - art. 1
+  - Code de la route. - art. L325-1
 
 _Cité par_:
 
@@ -6901,12 +7091,13 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V) JORF 6 janvier 2006
+  - Loi n°2003-239 du 18 mars 2003 - art. 89
+  - Loi n°2011-267 du 14 mars 2011 - art. 84
 
 _Anciens textes_:
 
@@ -8021,7 +8212,11 @@ information nominative ;
 
 - à des fins d'enquêtes et de prospections commerciales, sauf opposition des personnes concernées selon les modalités prévues
 au deuxième alinéa de l'article 38 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés.
+libertés. 
+
+La décision d'agrément mentionnée au deuxième alinéa peut être précédée d'une enquête administrative, dans les conditions
+prévues par l'article 17-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité,
+pour des motifs d'intérêt général liés à la protection des personnes et des biens.
 
 **Liens relatifs à cet article**
 
@@ -8029,11 +8224,8 @@ _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978 - art. 38
   - Loi n°78-753 du 17 juillet 1978
+  - Loi n°95-73 du 21 janvier 1995 - art. 17-1
   - Code de la route. - art. L330-2
-
-_Modifié par_:
-
-  - Loi n°2009-431 du 20 avril 2009 - art. 29
 
 _Cité par_:
 
@@ -8043,6 +8235,10 @@ _Cité par_:
   - Décret n°2017-1278 du 9 août 2017 (V)
   - Code de la route. - art. R330-10 (V)
   - Code de la route. - art. R330-7 (V)
+
+_Modifié par_:
+
+  - Loi n°2011-267 du 14 mars 2011 - art. 80
 
 _Anciens textes_:
 
@@ -8235,7 +8431,7 @@ _Cite_:
 Les articles L. 325-1, L. 325-2, L. 325-6 à L. 325-11 sont applicables à la Polynésie française, dans la rédaction
 suivante : 
 
-" Art.L. 325-1-Les véhicules dont la circulation ou le stationnement, en infraction aux dispositions applicables localement,
+" Art. L. 325-1-Les véhicules dont la circulation ou le stationnement, en infraction aux dispositions applicables localement,
 aux règlements de police ou à la réglementation relative à l'assurance obligatoire des véhicules à moteur, compromettent la
 sécurité ou le droit à réparation des usagers de la route, la tranquillité ou l'hygiène publique, l'esthétique des sites et
 paysages classés, la conservation ou l'utilisation normale des voies ouvertes à la circulation publique et de leurs
@@ -8250,7 +8446,7 @@ le cas échéant, aliénés ou livrés à la destruction les véhicules qui, se 
 publique ou sur leurs dépendances, sont privés d'éléments indispensables à leur utilisation normale et insusceptibles de
 réparation immédiate à la suite de dégradations ou de vols. " 
 
-" Art.L. 325-2-Pour l'application des articles L. 325-1 et L. 325-1-1 et sur prescription de l'officier de police judiciaire
+" Art. L. 325-2-Pour l'application des articles L. 325-1 et L. 325-1-1 et sur prescription de l'officier de police judiciaire
 territorialement compétent, les fonctionnaires de police en tenue et les militaires de la gendarmerie habilités à constater
 par procès-verbaux les contraventions à la police de la circulation routière peuvent, en cas de besoin, ouvrir ou faire
 ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule ou le faire
@@ -8273,17 +8469,17 @@ assurance du véhicule dans les conditions prévues par l'article 1er de la loi 
 tribunaux judiciaires compétence pour statuer sur les actions en responsabilité des dommages causés par tout véhicule et
 dirigées contre une personne morale de droit public. " 
 
-" Art.L. 325-6-Les véhicules dont l'état ne permet pas la circulation dans les conditions normales de sécurité ou qui ne sont
-plus conformes à leur réception ne peuvent être retirés de la fourrière que par des réparateurs chargés par les propriétaires
-d'effectuer les travaux reconnus indispensables à leur remise en état ou en conformité. 
+" Art. L. 325-6-Les véhicules dont l'état ne permet pas la circulation dans les conditions normales de sécurité ou qui ne
+sont plus conformes à leur réception ne peuvent être retirés de la fourrière que par des réparateurs chargés par les
+propriétaires d'effectuer les travaux reconnus indispensables à leur remise en état ou en conformité. 
 
 Ils ne peuvent ensuite être restitués à leurs propriétaires qu'après vérification de la bonne exécution des travaux. 
 
-En cas de désaccord sur l'état du véhicule, un expert est désigné dans des conditions fixées par décret en Conseil
-d'Etat.S'il constate que le véhicule n'est pas en état de circuler dans des conditions normales de sécurité ou qu'il
-nécessite une mise en conformité à la réception, il détermine les travaux à effectuer avant sa remise au propriétaire. " 
+En cas de désaccord sur l'état du véhicule, un expert est désigné dans des conditions fixées par décret en Conseil d'Etat.
+S'il constate que le véhicule n'est pas en état de circuler dans des conditions normales de sécurité ou qu'il nécessite une
+mise en conformité à la réception, il détermine les travaux à effectuer avant sa remise au propriétaire. " 
 
-" Art.L. 325-7-Sont réputés abandonnés les véhicules laissés en fourrière à l'expiration d'un délai de quarante-cinq jours à
+" Art. L. 325-7-Sont réputés abandonnés les véhicules laissés en fourrière à l'expiration d'un délai de quarante-cinq jours à
 compter de la mise en demeure faite au propriétaire d'avoir à retirer son véhicule. 
 
 La notification est valablement faite à l'adresse indiquée au répertoire des immatriculations. Dans le cas où le véhicule
@@ -8298,27 +8494,30 @@ normales de sécurité.
 
 Les véhicules visés à l'alinéa précédent sont, à l'expiration du délai de dix jours, livrés à la destruction. " 
 
-" Art.L. 325-8-Les véhicules abandonnés dans les conditions prévues au premier alinéa de l'article L. 325-7 sont remis au
+" Art. L. 325-8-Les véhicules abandonnés dans les conditions prévues au premier alinéa de l'article L. 325-7 sont remis au
 service des domaines en vue de leur aliénation dans les formes prévues pour les ventes du mobilier de la Polynésie française.
 Les véhicules qui n'ont pas trouvé preneur, à l'expiration d'un délai fixé par le président du gouvernement de la Polynésie
 française, sont livrés à la destruction sur l'initiative de l'autorité administrative investie des pouvoirs de police en
 matière de circulation. " 
 
-" Art.L. 325-9-Les frais d'enlèvement, de garde en fourrière, d'expertise et de vente ou de destruction du véhicule sont à la
-charge du propriétaire. 
+" Art. L. 325-9-Les frais d'enlèvement, de garde en fourrière, d'expertise et de vente ou de destruction du véhicule sont à
+la charge du propriétaire. 
 
 Le produit de la vente, sous déduction des frais énumérés à l'alinéa précédent, est tenu à la disposition du propriétaire ou
-de ses ayants droit ou, le cas échéant, du créancier gagiste pouvant justifier de ses droits, pendant un délai de deux ans.A
+de ses ayants droit ou, le cas échéant, du créancier gagiste pouvant justifier de ses droits, pendant un délai de deux ans. A
 l'expiration de ce délai, ce produit est acquis à la Polynésie française. 
 
 Lorsque le produit de la vente est inférieur au montant des frais visés ci-dessus, le propriétaire ou ses ayants droit
 restent débiteurs de la différence. Celle-ci est recouvrée dans les conditions fixées par délibération de l'assemblée de la
 Polynésie française. " 
 
-" Art.L. 325-10-La collectivité publique intéressée n'est pas responsable des dommages subis par les véhicules visés au
+Le présent article est applicable au créancier gagiste en cas de confiscation du véhicule qui a servi pour commettre une
+infraction. 
+
+" Art. L. 325-10-La collectivité publique intéressée n'est pas responsable des dommages subis par les véhicules visés au
 quatrième alinéa de l'article L. 325-7, placés dans une fourrière non clôturée et non gardée. " 
 
-" Art.L. 325-11-Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 325-1, L. 325-2, L. 325-6
+" Art. L. 325-11-Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 325-1, L. 325-2, L. 325-6
 à L. 325-9. 
 
 Une délibération de l'assemblée de la Polynésie française détermine les clauses devant obligatoirement figurer dans le
@@ -8331,6 +8530,10 @@ Loi n° 2001-1062 article 71 III : ces dispositions sont applicables en Polynés
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Loi n°57-1424 du 31 décembre 1957 - art. 1 (V)
+
 _Anciens textes_:
 
   - Loi n°96-609 1996-07-05 art. 40, en ce qui concerne L25 (sauf al. 2) à L25-7
@@ -8338,12 +8541,22 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V) JORF 6 janvier 2006
+  - Loi n°2011-267 du 14 mars 2011 - art. 137
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L325-1
+  - PILOTE_SUIVEUR: Code de la route. - art. L325-11
+  - PILOTE_SUIVEUR: Code de la route. - art. L325-2
+  - PILOTE_SUIVEUR: Code de la route. - art. L325-6
+  - PILOTE_SUIVEUR: Code de la route. - art. L325-7
+  - PILOTE_SUIVEUR: Code de la route. - art. L325-8
+  - PILOTE_SUIVEUR: Code de la route. - art. L325-9
 
 _Cité par_:
 
@@ -8450,6 +8663,9 @@ l'expiration de ce délai, ce produit est acquis à la Nouvelle-Calédonie.
 restent débiteurs de la différence. Celle-ci est recouvrée dans les conditions fixées par délibération du congrès de la
 Nouvelle-Calédonie.
 
+Le présent article est applicable au créancier gagiste en cas de confiscation du véhicule qui a servi pour commettre une
+infraction.
+
 "Art. L. 325-10 - La collectivité publique intéressée n'est pas responsable des dommages subis par les véhicules visés au
 quatrième alinéa de l'article L. 325-7, placés dans une fourrière non clôturée et non gardée.
 
@@ -8463,19 +8679,19 @@ les collectivités publiques intéressées et les entreprises aptes à procéder
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V)
+  - Loi n°2011-267 du 14 mars 2011 - art. 137
 
 _Cite_:
 
-  - Code de la route L325-1, L325-1-1, L325-2, L325-6 à L325-11
-  - Code de la route. - art. L325-1 (M)
-  - Code de la route. - art. L325-1-1 (M)
-  - Code de la route. - art. L325-2 (M)
+  - Code de la route.
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. L325-1-1
+  - Code de la route. - art. L325-2
 
 _Cité par_:
 
@@ -8962,17 +9178,23 @@ _Cité par_:
 
 ###### Article L413-1
 
-Est puni de trois mois d'emprisonnement et de 3 750 euros d'amende tout conducteur d'un véhicule à moteur qui, déjà condamné
-définitivement pour un dépassement de la vitesse maximale autorisée égal ou supérieur à 50 km/h, commet la même infraction en
-état de récidive dans les conditions prévues par le deuxième alinéa de l'article 132-11 du code pénal.
+I. - Est puni de trois mois d'emprisonnement et de 3 750 euros d'amende tout conducteur d'un véhicule à moteur qui, déjà
+condamné définitivement pour un dépassement de la vitesse maximale autorisée égal ou supérieur à 50 km/h, commet la même
+infraction en état de récidive dans les conditions prévues par le deuxième alinéa de l'article 132-11 du code pénal.
 
-Tout conducteur coupable de ce délit encourt également la peine complémentaire de suspension, pour une durée de trois ans au
-plus, du permis de conduire, cette suspension ne pouvant pas être limitée à la conduite en dehors de l'activité
-professionnelle. Il encourt également la peine d'interdiction de conduire certains véhicules terrestres à moteur, pour une
-durée de cinq ans au plus, la peine d'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière
-ainsi que la peine de confiscation du véhicule dont il s'est servi pour commettre l'infraction, s'il en est le propriétaire.
+II. - Tout conducteur coupable de ce délit encourt également les peines complémentaires suivantes :
 
-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
+1° La confiscation obligatoire du véhicule dont il s'est servi pour commettre l'infraction, s'il en est le propriétaire. La
+juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée ;
+
+2° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension ne pouvant pas être limitée à
+la conduite en dehors de l'activité professionnelle ;
+
+3° L'interdiction de conduire certains véhicules terrestres à moteur, pour une durée de cinq ans au plus ;
+
+4° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière. 
+
+III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
 
 **Liens relatifs à cet article**
 
@@ -8990,19 +9212,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 11 (V) JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 4 () JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+  - Loi n°2011-267 du 14 mars 2011 - art. 74
 
 _Cite_:
 
-  - Code pénal - art. 132-11 (M)
+  - Code pénal - art. 132-11
 
 _Anciens textes_:
 
@@ -9011,11 +9230,6 @@ _Anciens textes_:
   - Code de la route - art. L14 (Ab)
   - Code de la route - art. L4-1 (Ab)
   - Code de la route L4-1, L11-1 (al. 1 et 2), L11-2 (al. 1), L14 (al. 1 et 2)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L413-2
