@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2011-04-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -1231,30 +1231,34 @@ _Cite_:
 
 Pour l'application des dispositions du présent livre à Mayotte, les termes énumérés ci-après sont remplacés comme suit : 
 
-1° " Cour d'appel et   chambre de l'instruction " par " Tribunal supérieur d'appel " ; 
+1° " Cour d'appel et chambre de l'instruction " par "    Chambre d'appel de Mamoudzou " ; 
 
-2° " Procureur général " par " Procureur de la République près le tribunal supérieur d'appel " ; 
+2° " Procureur général " par " Procureur général près la cour d'appel " ; 
 
 3° " Préfet " par " représentant de l'Etat " ; 
 
 4° " Tribunal de police " par " tribunal de première instance ".
 
+**Nota:**
+
+Aux termes de l'alinéa 6 de l'article 12 de l'ordonnance n° 2011-337 du 29 mars 2011, la référence au tribunal de première
+instance est remplacée par celle au tribunal de grande instance ou au tribunal d'instance conformément à la répartition des
+compétences fixées entre ces juridictions par le code de l'organisation judiciaire.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Ordonnance 92-256 1992-03-04 art. 3
   - Ordonnance no 92-256 du 4 mars 1992 portant extens - art. 3 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2000-516 du 15 juin 2000 - art. 83
-  - Loi n°2003-495 du 12 juin 2003 - art. 43 (V) JORF 13 juin 2003
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
 
 
 ###### Article L142-2
@@ -12815,6 +12819,10 @@ III.-La catégorie B du permis de conduire ne permet la conduite :
 que si le conducteur est en possession d'une attestation délivrée par le préfet après vérification médicale de l'aptitude
 physique.
 
+IV. - La catégorie A du permis de conduire ne permet la conduite des véhicules motorisés à deux ou trois roues utilisés pour
+le transport à titre onéreux de personnes que si le conducteur est en possession d'une attestation délivrée par le préfet
+après vérification médicale de l'aptitude physique.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -12840,7 +12848,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
+  - Décret n°2010-1223 du 11 octobre 2010 - art. 2
 
 _Anciens textes_:
 
@@ -12855,26 +12863,26 @@ _Cite_:
 
 ###### Article R221-11
 
-I. - Lorsqu'une visite médicale est obligatoire en vue de la délivrance ou du renouvellement du permis de conduire, celui-ci
-peut être :
+I.-Lorsqu'une visite médicale est obligatoire en vue de la délivrance ou du renouvellement du permis de conduire, celui-ci
+peut être : 
 
 1° Dans les cas prévus au I de l'article R. 221-10, accordé sans limitation de durée ou délivré ou prorogé selon la
-périodicité maximale définie ci-dessous ;
+périodicité maximale définie ci-dessous ; 
 
-2° Dans les cas prévus aux II et III de l'article R. 221-10, délivré ou prorogé selon la périodicité maximale suivante : cinq
-ans pour les conducteurs de moins de soixante ans, deux ans à partir de l'âge de soixante ans et un an à partir de l'âge de
-soixante-seize ans. Toutefois, pour les conducteurs titulaires de la catégorie D du permis de conduire, la périodicité
-maximale est d'un an à partir de l'âge de soixante ans.
+2° Dans les cas prévus aux II, III et IV de l'article R. 221-10, délivré ou prorogé selon la périodicité maximale suivante :
+cinq ans pour les conducteurs de moins de soixante ans, deux ans à partir de l'âge de soixante ans et un an à partir de l'âge
+de soixante-seize ans. Toutefois, pour les conducteurs titulaires de la catégorie D du permis de conduire, la périodicité
+maximale est d'un an à partir de l'âge de soixante ans. 
 
-II. - La validité du permis ainsi délivré ne peut être prorogée qu'au vu d'un certificat médical favorable délivré par un
+II.-La validité du permis ainsi délivré ne peut être prorogée qu'au vu d'un certificat médical favorable délivré par un
 médecin de ville agréé ou par une commission médicale. Un arrêté du ministre chargé des transports détermine les modalités
-d'application du présent II.
+d'application du présent II. 
 
-III. - La demande de prorogation doit être adressée au préfet du département du domicile du pétitionnaire. Tant qu'il n'y est
+III.-La demande de prorogation doit être adressée au préfet du département du domicile du pétitionnaire. Tant qu'il n'y est
 pas statué par le préfet dans les conditions fixées par arrêté du ministre chargé des transports, notamment en ce qui
-concerne la procédure et les délais et sauf carence de l'intéressé, le permis reste provisoirement valide.
+concerne la procédure et les délais et sauf carence de l'intéressé, le permis reste provisoirement valide. 
 
-IV. - Les catégories A et B du permis de conduire délivrées pour la conduite des véhicules spécialement aménagés pour tenir
+IV.-Les catégories A et B du permis de conduire délivrées pour la conduite des véhicules spécialement aménagés pour tenir
 compte du handicap du conducteur sont toutefois délivrées sans limitation de durée si le certificat médical favorable à
 l'attribution de ces catégories établit que l'intéressé est atteint d'une invalidité ou d'une infirmité incurable, définitive
 ou stabilisée.
@@ -12904,11 +12912,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-46 du 13 janvier 2006 - art. 2 () JORF 15 janvier 2006
+  - Décret n°2010-1223 du 11 octobre 2010 - art. 2
 
 _Anciens textes_:
 
@@ -12918,7 +12926,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R221-10 (M)
+  - Code de la route. - art. R221-10
 
 
 ###### Article R221-12
