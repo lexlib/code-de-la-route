@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-04-01
+Version Consolidée au 2011-04-07
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -172,7 +172,7 @@ Version Consolidée au 2011-04-01
         - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#169)
           - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#170)
           - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#171)
-          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-18 à R411-24)](#172)
+          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-17 à R411-24)](#172)
           - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#173)
           - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#174)
         - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#175)
@@ -10210,15 +10210,24 @@ _Cite_:
 Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre
 chargé des transports peuvent constater par procès-verbal : 
 
-1° Les contraventions aux dispositions des articles R. 121-1 à R. 121-5, R. 312-2 à R. 312-6, R. 312-10 à R. 312-14, R.
-312-19 à R. 312-23, R. 314-1, R. 317-1, R. 317-3, R. 317-4, R. 317-5, R. 317-24, R. 323-1, R. 323-2, R. 323-6, R. 323-23 à R.
-323-26, R. 411-18, R. 412-16, R. 433-1 à R. 433-7, R. 433-20, ainsi que, lorsqu'elles sont commises par le conducteur d'un
-véhicule qui doit être équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux dispositions relatives
-aux vitesses maximales autorisées par le présent code ; 
+1° Les contraventions aux dispositions des articles R. 121-1 à R. 121-5, R. 221-1, R. 221-20, R. 233-1, R. 233-2, R. 311-3,
+R. 312-2 à R. 312-6, R. 312-10 à R. 312-14, R. 312-19 à R. 312-23, R. 313-1 à R. 313-7, R. 313-10, R. 313-12, R. 313-14, R.
+313-17 à R. 313-20, R. 314-1, R. 314-3, R. 315-1, R. 315-2, R. 316-4, R. 316-7, R. 317-1, R. 317-3, R. 317-4, R. 317-5, R.
+317-8 à R. 317-14, R. 317-18, R. 317-20, R. 317-23, R. 317-24, R. 317-26, R. 317-28, R. 318-1, R. 318-3, R. 322-1, R. 323-1,
+R. 323-2, R. 323-6, R. 323-23 à R. 323-26, R. 411-17, R. 411-18, R. 412-1, R. 412-16, R. 433-1 à R. 433-8, R. 433-11, R.
+433-12, R. 433-14 à R. 433-16, R. 435-1 et R. 436-1 ainsi que, lorsqu'elles sont commises par le conducteur d'un véhicule qui
+doit être équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux dispositions relatives aux vitesses
+maximales autorisées par le présent code ;
 
 2° Toutes les autres contraventions prévues aux 1° et 2° de l'article R. 130-1 lorsqu'elles sont connexes à des infractions
-aux dispositions législatives et réglementaires en matière de coordination et d'harmonisation des transports ferroviaires et
-routiers.
+aux dispositions législatives relatives à l'accès aux professions du transport ferroviaire ou guidé et du transport routier
+et à leurs conditions d'exercice prévues au livre IV de la première partie et à la troisième partie du code des transports
+ainsi qu'aux dispositions réglementaires prises pour leur application.
+
+**Nota:**
+
+Conformément à l'article 1er II du décret n° 2011-368 du 4 avril 2011, le 2° de l'article R. 130-6 s'applique à compter du
+1er décembre 2010.
 
 **Liens relatifs à cet article**
 
@@ -10228,7 +10237,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-335 du 28 mars 2011 - art. 1
+  - Décret n°2011-368 du 4 avril 2011 - art. 1
 
 _Cité par_:
 
@@ -10237,25 +10246,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de la route - art. R251 (Ab)
-
-_Cite_:
-
-  - Code de la route. - art. R121-1 (V)
-  - Code de la route. - art. R130-1 (V)
-  - Code de la route. - art. R312-10 (V)
-  - Code de la route. - art. R312-19 (V)
-  - Code de la route. - art. R312-2 (V)
-  - Code de la route. - art. R314-1 (V)
-  - Code de la route. - art. R317-1 (V)
-  - Code de la route. - art. R317-24 (V)
-  - Code de la route. - art. R317-3 (V)
-  - Code de la route. - art. R317-4 (V)
-  - Code de la route. - art. R323-1 (V)
-  - Code de la route. - art. R323-23 (V)
-  - Code de la route. - art. R411-18 (V)
-  - Code de la route. - art. R412-16 (V)
-  - Code de la route. - art. R433-1 (V)
-  - Code de la route. - art. R433-20 (V)
 
 
 ###### Article R130-7
@@ -17160,30 +17150,53 @@ _Anciens textes_:
 Il est interdit de faire circuler un véhicule ou un élément de véhicule dont le poids réel excède le poids total autorisé en
 charge fixé par la direction régionale de l'industrie, de la recherche et de l'environnement ou par l'autorité compétente
 d'un Etat membre de la Communauté européenne et inscrit sur le certificat d'immatriculation de chaque véhicule ou élément de
-véhicule.
+véhicule. 
 
 Il est interdit de faire circuler un véhicule ou un élément de véhicule dont un essieu supporte une charge réelle qui excède
-le poids maximal autorisé pour cet essieu.
+le poids maximal autorisé pour cet essieu. 
 
 Il est interdit de faire circuler un ensemble de véhicules, un véhicule articulé ou un train double dont le poids total
 roulant réel dépasse le poids total roulant autorisé fixé par la direction régionale de l'industrie, de la recherche et de
 l'environnement ou par l'autorité compétente d'un Etat membre de la Communauté européenne et inscrit sur le certificat
-d'immatriculation du véhicule tracteur.
+d'immatriculation du véhicule tracteur. 
 
 Les conditions de circulation du véhicule tracteur d'un véhicule articulé même non attelé d'une semi-remorque sont
-déterminées par son poids total roulant autorisé.
+déterminées par son poids total roulant autorisé. 
 
 Le ministre chargé des transports détermine par arrêté les modalités d'application du présent article et les conditions dans
 lesquelles des dérogations peuvent être accordées à certains ensembles de véhicules circulant à vitesse réduite et aux
-matériels de travaux publics.
+matériels de travaux publics. 
 
-Toute infraction aux dispositions du présent article ou à celles prises pour son application est punie de l'amende prévue
-pour les contraventions de la quatrième classe.
+Toute infraction aux dispositions du présent article ou à celles prises pour son application est punie : 
 
-Toutefois, lorsque les dépassements excèdent les limites réglementaires de plus de 20 %, l'amende encourue est celle prévue
-pour les contraventions de la cinquième classe.
+a) Pour un véhicule ou un élément de véhicule d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes : de
+l'amende prévue pour les contraventions de la quatrième classe pour le dépassement jusqu'à 0,5 tonne du poids autorisé et,
+pour un dépassement supérieur, de la même amende prononcée autant de fois qu'il y a de tranches de dépassement de 0,5
+tonne ; 
 
-Dans ce dernier cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.
+b) Pour un ensemble de véhicules d'un poids total roulant autorisé inférieur ou égal à 3,5 tonnes : de l'amende prévue pour
+les contraventions de la quatrième classe pour le dépassement jusqu'à 0,5 tonne du poids autorisé et, pour un dépassement
+supérieur, de la même amende prononcée autant de fois qu'il y a de tranches de dépassement de 0,5 tonne ; 
+
+c) Pour un véhicule ou un élément de véhicule d'un poids total autorisé en charge supérieur à 3,5 tonnes : de l'amende prévue
+pour les contraventions de la quatrième classe pour le dépassement jusqu'à une tonne du poids autorisé et, pour un
+dépassement supérieur, de la même amende prononcée autant de fois qu'il y a de tranches de dépassement d'une tonne ; 
+
+d) Pour un ensemble de véhicules d'un poids total roulant autorisé supérieur à 3,5 tonnes : de l'amende prévue pour les
+contraventions de la quatrième classe pour le dépassement jusqu'à une tonne du poids autorisé et, pour un dépassement
+supérieur, de la même amende prononcée autant de fois qu'il y a de tranches de dépassement d'une tonne ; 
+
+e) Pour chaque essieu, de l'amende prévue pour les contraventions de la quatrième classe pour le dépassement jusqu'à 0,3
+tonne du poids maximal autorisé pour cet essieu et, pour un dépassement supérieur, de la même amende prononcée autant de fois
+qu'il y a de tranches de dépassement de 0,3 tonne. 
+
+Toutefois, lorsqu'il est constaté une infraction aux dispositions du présent article en ce qui concerne le poids total
+autorisé en charge ou le poids total roulant autorisé, et qu'il est constaté concomitamment une infraction aux dispositions
+de l'article R. 312-4 similaire, seule l'infraction la plus grave est retenue et réprimée. 
+
+Lorsqu'il est constaté une infraction aux dispositions du présent article en ce qui concerne la charge à l'essieu, et qu'il
+est constaté concomitamment pour le même essieu une infraction aux dispositions des articles R. 312-5 ou R. 312-6, seule
+l'infraction la plus grave est retenue et réprimée. 
 
 En cas de dépassement du poids autorisé excédant 5 %, l'immobilisation peut être prescrite dans les conditions prévues aux
 articles L. 325-1 à L. 325-3.
@@ -17208,12 +17221,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-_Cite_:
+_Modifié par_:
 
-  - Code pénal - art. 132-11 (M)
-  - Code de la route L325-1 à L325-3
+  - Décret n°2011-368 du 4 avril 2011 - art. 2
 
 _Anciens textes_:
 
@@ -17225,36 +17237,35 @@ _Anciens textes_:
   - Code de la route - art. R54-2 (Ab)
   - Code de la route R54 C, R54-2, R139, R142, R238 (al. 4), R278 3°
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R312-9 (V)
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R312-4
+  - Code de la route. - art. R312-5
 
 
 ###### Article R312-3
 
 Le poids réel de la remorque ou des remorques attelées derrière un véhicule tracteur ne peut excéder 1,3 fois le poids réel
-de celui-ci.
+de celui-ci. 
 
 Toutefois dans le cas où le poids total roulant réel d'un ensemble constitué d'un véhicule tracteur et d'une remorque est
 supérieur à 32 tonnes, le coefficient 1,3 ci-dessus est majoré d'une valeur égale à 80 % du rapport entre la partie du poids
-total roulant réel excédant 32 tonnes et 32 tonnes, sans pouvoir être supérieur à 1,5.
+total roulant réel excédant 32 tonnes et 32 tonnes, sans pouvoir être supérieur à 1,5. 
 
 Le poids total en charge des remorques des motocyclettes, des tricycles et des quadricycles à moteur, des cyclomoteurs ne
-peut dépasser 50 % du poids à vide du véhicule tracteur.
+peut dépasser 50 % du poids à vide du véhicule tracteur. 
 
-Les dispositions du présent article ne sont pas applicables aux remorques des cycles et aux véhicules à traction animale.
+Les dispositions du présent article ne sont pas applicables aux remorques des cycles et aux véhicules à traction animale. 
 
 Le ministre chargé des transports détermine par arrêté les modalités d'application du présent article et les conditions dans
 lesquelles des dérogations peuvent être accordées à certains ensembles de véhicules circulant à vitesse réduite et aux
-matériels de travaux publics et aux véhicules agricoles.
+matériels de travaux publics et aux véhicules agricoles. 
 
 Toute infraction aux dispositions du présent article ou à celles prises pour son application est punie de l'amende prévue
-pour les contraventions de la quatrième classe.
-
-Toutefois, lorsque les dépassements excèdent les limites réglementaires de plus de 20 %, l'amende encourue est celle prévue
-pour les contraventions de la cinquième classe.
-
-Dans ce dernier cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.
+pour les contraventions de la quatrième classe pour le dépassement jusqu'à 0,1 du coefficient autorisé et, pour un
+dépassement supérieur, de la même amende prononcée autant de fois qu'il y a de tranches de dépassement de 0,1 du coefficient
+autorisé. 
 
 En cas de dépassement du poids autorisé excédant 5 %, l'immobilisation peut être prescrite dans les conditions prévues aux
 articles L. 325-1 à L. 325-3.
@@ -17269,12 +17280,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-_Cite_:
+_Modifié par_:
 
-  - Code pénal - art. 132-11 (M)
-  - Code de la route L325-1 à L325-3
+  - Décret n°2011-368 du 4 avril 2011 - art. 3
 
 _Anciens textes_:
 
@@ -17288,18 +17298,16 @@ _Anciens textes_:
   - Code de la route - art. R54-2 (Ab)
   - Code de la route R54-1, R54-2, R139, R142, R174 (al. 2), R194 (al. 1), R238 (al. 4), R278 3°
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R312-9 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R312-4
 
 I.-Le poids total autorisé en charge d'un véhicule ne doit pas dépasser les limites suivantes : 
 
-1° Véhicule à moteur à deux essieux, ou remorque à deux essieux : 
-
-19 tonnes ; 
+1° Véhicule à moteur à deux essieux, ou remorque à deux essieux : 19 tonnes ; 
 
 2° Véhicule à moteur à trois essieux, ou véhicule remorqué à trois essieux ou plus : 26 tonnes ; 
 
@@ -17307,9 +17315,7 @@ I.-Le poids total autorisé en charge d'un véhicule ne doit pas dépasser les l
 
 4° Autobus articulé comportant une seule section articulée : 32 tonnes ; 
 
-5° Autobus articulé comportant au moins deux sections articulées : 
-
-38 tonnes ; 
+5° Autobus articulé comportant au moins deux sections articulées : 38 tonnes ; 
 
 6° Autocar articulé : 28 tonnes. 
 
@@ -17360,12 +17366,12 @@ départements intéressés fixe, le cas échéant, la liste des itinéraires aut
 voiries empruntées. Cet arrêté peut préciser les restrictions à la circulation destinées à préserver la sécurité routière et
 l'état de la voirie. 
 
-III quater. - La circulation des véhicules dont les caractéristiques sont définies au III peut également être autorisée sur
-le territoire national, afin d'assurer exclusivement le transport des produits agricoles et agroalimentaires dont la liste
-est fixée par arrêté du ministre chargé des transports.
+III quater.-La circulation des véhicules dont les caractéristiques sont définies au III peut également être autorisée sur le
+territoire national, afin d'assurer exclusivement le transport des produits agricoles et agroalimentaires dont la liste est
+fixée par arrêté du ministre chargé des transports. 
 
 Cette autorisation ne concerne que les véhicules ou ensembles de véhicules mentionnés au deuxième alinéa du 1° du III bis du
-présent article.
+présent article. 
 
 Un arrêté du représentant de l'Etat dans le département ou un arrêté conjoint des représentants de l'Etat dans les
 départements intéressés fixe, le cas échéant, la liste des itinéraires autorisés, après avis des autorités gestionnaires des
@@ -17375,7 +17381,7 @@ l'état de la voirie.
 IV.-Les véhicules à gazogène, gaz comprimé et accumulateurs électriques bénéficient, dans la limite maximale d'une tonne, de
 dérogations correspondant au poids en ordre de marche soit du gazogène et de ses accessoires, soit des accumulateurs et de
 leurs accessoires. Il en est de même, dans la limite maximale d'une tonne, pour les ensembles routiers comportant au moins
-six essieux, et dans la limite maximale de 0,5 tonne, pour les poids des ralentisseurs des véhicules qui en sont munis. 
+six essieux, et dans la limite maximale de 0,5 tonne, pour les poids des ralentisseurs des véhicules qui en sont munis.
 
 V.-Le poids à vide des cyclomoteurs à trois roues ne peut excéder 270 kilogrammes et leur charge utile ne peut excéder 300
 kilogrammes. 
@@ -17383,16 +17389,19 @@ kilogrammes.
 VI.-Le ministre chargé des transports détermine par arrêté les modalités d'application du présent article et fixe le poids
 total autorisé en charge des engins de service hivernal. 
 
-VII.-Toute infraction aux dispositions du présent article ou à celles prises pour son application est punie de l'amende
-prévue pour les contraventions de la quatrième classe. 
+VII.-Toute infraction aux dispositions du I au IV ou à celles prises pour leur application est punie de l'amende prévue pour
+les contraventions de la quatrième classe pour le dépassement jusqu'à une tonne du poids autorisé et, pour un dépassement
+supérieur, de la même amende prononcée autant de fois qu'il y a de tranches de dépassement d'une tonne du poids total
+autorisé. 
 
-VIII.-Toutefois, lorsque les dépassements excèdent les limites réglementaires de plus de 20 %, l'amende encourue est celle
-prévue pour les contraventions de la cinquième classe. 
+VIII.-Toute infraction aux dispositions du V ou à celles prises pour leur application est punie de l'amende prévue pour les
+contraventions de la quatrième classe. 
 
-IX.-Dans ce dernier cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.
+IX.-Toutefois, lorsque les dépassements excèdent de plus de 20 % les limites réglementaires prévues au V, l'amende encourue
+est celle prévue pour les contraventions de la cinquième classe.
 
-X.-En cas de dépassement du poids autorisé excédant 5 %, l'immobilisation peut être prescrite dans les conditions prévues aux
-articles L. 325-1 à L. 325-3.
+X.-En cas de dépassement excédant 5 % des poids autorisés au présent article, l'immobilisation peut être prescrite dans les
+conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
@@ -17432,12 +17441,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-64 du 17 janvier 2011 - art. 1
-
-_Cite_:
-
-  - Code pénal - art. 132-11
-  - Code de la route. - art. L325-1
+  - Décret n°2011-368 du 4 avril 2011 - art. 4
 
 _Anciens textes_:
 
@@ -17450,21 +17454,22 @@ _Anciens textes_:
   - Code de la route - art. R55 (Ab)
   - Code de la route R55, R139, R142, R188 (al. 2 et 3), R231-1 III, R238 (al. 4), R278 3°
 
+_Cite_:
+
+  - Code de la route. - art. L325-1
+
 
 ###### Article R312-5
 
-L'essieu le plus chargé d'un véhicule ou d'un élément de véhicule ne doit pas supporter une charge supérieure à 13 tonnes.
+L'essieu le plus chargé d'un véhicule ou d'un élément de véhicule ne doit pas supporter une charge supérieure à 13 tonnes. 
 
 Le ministre chargé des transports détermine par arrêté les conditions dérogatoires applicables à certains matériels de
-travaux publics.
+travaux publics. 
 
 Toute infraction aux dispositions du présent article ou à celles prises pour son application est punie de l'amende prévue
-pour les contraventions de la quatrième classe.
-
-Toutefois, lorsque les dépassements excèdent les limites réglementaires de plus de 20 %, l'amende encourue est celle prévue
-pour les contraventions de la cinquième classe.
-
-Dans ce dernier cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.
+pour les contraventions de la quatrième classe pour le dépassement jusqu'à 0,3 tonne de la charge autorisée et, pour un
+dépassement supérieur, de la même amende prononcée autant de fois qu'il y a de tranches de dépassement de 0,3 tonne de la
+charge autorisée. 
 
 En cas de dépassement de la charge par essieu excédant 5 %, l'immobilisation peut être prescrite dans les conditions prévues
 aux articles L. 325-1 à L. 325-3.
@@ -17482,12 +17487,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-_Cite_:
+_Modifié par_:
 
-  - Code pénal - art. 132-11 (M)
-  - Code de la route L325-1 à L325-3
+  - Décret n°2011-368 du 4 avril 2011 - art. 5
 
 _Anciens textes_:
 
@@ -17498,63 +17502,60 @@ _Anciens textes_:
   - Code de la route - art. R56 (Ab)
   - Code de la route R56, R139, R142, R238 (al. 4), R278 3°
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R312-9 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R312-6
 
-I. - Sur les véhicules ou éléments de véhicules comportant plus de deux essieux, la charge de l'essieu le plus chargé
+I.-Sur les véhicules ou éléments de véhicules comportant plus de deux essieux, la charge de l'essieu le plus chargé
 appartenant à un groupe d'essieux ne doit pas, en fonction de la distance séparant deux essieux consécutifs de ce groupe,
-dépasser les valeurs suivantes :
+dépasser les valeurs suivantes : 
 
-a) Pour une distance entre deux essieux consécutifs inférieure à 0,90 mètre : 7,350 tonnes ;
+a) Pour une distance entre deux essieux consécutifs inférieure à 0,90 mètre : 7,350 tonnes ; 
 
 b) Pour une distance entre deux essieux consécutifs supérieure ou égale à 0,90 mètre et inférieure à 1,35 mètre : 7,350
-tonnes majorées de 0,35 tonne par tranche de 5 centimètres de la distance entre les deux essieux diminuée de 0,90 mètre ;
+tonnes majorées de 0,35 tonne par tranche de 5 centimètres de la distance entre les deux essieux diminuée de 0,90 mètre ; 
 
 c) Pour une distance entre deux essieux consécutifs supérieure ou égale à 1,35 mètre et inférieure à 1,80 mètre : 10,5
-tonnes.
+tonnes. 
 
-II. - Toutefois, la charge maximale de l'essieu moteur appartenant à un groupe de deux essieux d'un véhicule à moteur peut
-être portée à 11,5 tonnes, à condition que la charge totale du groupe ne dépasse pas, en fonction de la distance séparant les
-deux essieux, les valeurs suivantes :
+II.-Toutefois, la charge maximale de l'essieu moteur appartenant à un groupe de deux essieux d'un véhicule à moteur peut être
+portée à 11,5 tonnes, à condition que la charge totale du groupe ne dépasse pas, en fonction de la distance séparant les deux
+essieux, les valeurs suivantes : 
 
-1° Pour une distance entre les deux essieux inférieure à 0,90 mètre : 13,15 tonnes ;
+1° Pour une distance entre les deux essieux inférieure à 0,90 mètre : 13,15 tonnes ; 
 
 2° Pour une distance entre les deux essieux supérieure ou égale à 0,90 mètre et inférieure à 1 mètre : 13,15 tonnes majorées
-de 0,65 tonne par tranche de 5 centimètres de la distance entre les deux essieux diminuée de 0,90 mètre ;
+de 0,65 tonne par tranche de 5 centimètres de la distance entre les deux essieux diminuée de 0,90 mètre ; 
 
 3° Pour une distance entre les deux essieux supérieure ou égale à 1 mètre et inférieure à 1,35 mètre, la plus grande des deux
-valeurs suivantes :
+valeurs suivantes : 
 
 a) 13,15 tonnes majorées de 0,65 tonne par tranche de 5 centimètres de la distance entre les deux essieux diminuée de 0,90
-mètre ;
+mètre ; 
 
-b) 16 tonnes ;
+b) 16 tonnes ; 
 
-4° Pour une distance entre les deux essieux supérieure ou égale à 1,35 mètre et inférieure à 1,80 mètre : 19 tonnes.
+4° Pour une distance entre les deux essieux supérieure ou égale à 1,35 mètre et inférieure à 1,80 mètre : 19 tonnes. 
 
-III. - Le ministre chargé des transports détermine par arrêté les conditions dérogatoires applicables à certains matériels de
-travaux publics.
+III.-Le ministre chargé des transports détermine par arrêté les conditions dérogatoires applicables à certains matériels de
+travaux publics. 
 
-IV. - Toute infraction aux dispositions du présent article ou à celles prises pour son application est punie de l'amende
-prévue pour les contraventions de la quatrième classe.
+IV.-Toute infraction aux dispositions du présent article ou à celles prises pour son application est punie de l'amende prévue
+pour les contraventions de la quatrième classe pour le dépassement jusqu'à 0,3 tonne de la charge autorisée et, pour un
+dépassement supérieur, de la même amende prononcée autant de fois qu'il y a de tranches de dépassement de 0,3 tonne de la
+charge autorisée.
 
-V. - Toutefois, lorsque les dépassements excèdent les limites réglementaires de plus de 20 %, l'amende encourue est celle
-prévue pour les contraventions de la cinquième classe.
-
-VI. - Dans ce dernier cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.
-
-VII. - En cas de dépassement des charges par essieu excédant 5 %, l'immobilisation peut être prescrite dans les conditions
+V.-En cas de dépassement des charges par essieu excédant 5 %, l'immobilisation peut être prescrite dans les conditions
 prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -17565,10 +17566,9 @@ _Cité par_:
   - Code de la route. - art. R433-1 (VD)
   - Code de la route. - art. R433-7 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code pénal - art. 132-11 (M)
-  - Code de la route L325-1 à L325-3
+  - Décret n°2011-368 du 4 avril 2011 - art. 6
 
 _Anciens textes_:
 
@@ -17579,9 +17579,9 @@ _Anciens textes_:
   - Code de la route - art. R58 (Ab)
   - Code de la route R58, R139, R142, R238 (al. 4), R278 3°
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R312-9 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R312-7
@@ -17625,15 +17625,12 @@ _Cite_:
 ###### Article R312-8
 
 Le ministre chargé des transports détermine par arrêté les règles relatives aux poids des engins spéciaux dont la vitesse ne
-peut excéder par construction 25 km/h.
+peut excéder par construction 25 km/ h. 
 
-Le fait, pour tout conducteur d'un engin spécial, de contrevenir aux dispositions prises en application du présent article
-est puni de l'amende prévue pour les contraventions de la quatrième classe.
-
-Toutefois, lorsque les dépassements excèdent les limites réglementaires de plus de 20 %, l'amende encourue est celle prévue
-pour les contraventions de la cinquième classe.
-
-Dans ce dernier cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.
+Toute infraction aux dispositions du présent article ou à celles prises pour son application est punie de l'amende prévue
+pour les contraventions de la quatrième classe pour le dépassement jusqu'à une tonne du poids autorisé et, pour un
+dépassement supérieur, de la même amende prononcée autant de fois qu'il y a de tranches de dépassement d'une tonne du poids
+autorisé. 
 
 En cas de dépassement du poids autorisé excédant 5 %, l'immobilisation peut être prescrite dans les conditions prévues aux
 articles L. 325-1 à L. 325-3.
@@ -17642,23 +17639,21 @@ articles L. 325-1 à L. 325-3.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-_Cite_:
+_Modifié par_:
 
-  - Code pénal - art. 132-11 (M)
-  - Code de la route L325-1 à L325-3
+  - Décret n°2011-368 du 4 avril 2011 - art. 7
 
 _Anciens textes_:
 
   - Code de la route - art. R168 (Ab)
   - Code de la route - art. R238 (Ab)
   - Code de la route - art. R278 (Ab)
-  - Code de la route R168, R238 (al. 4), R278 3°
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R312-9 (V)
+  - Code de la route. - art. L325-1
 
 _Cité par_:
 
@@ -21634,15 +21629,19 @@ _Cite_:
 ###### Article R317-24
 
 Tout véhicule destiné normalement ou employé exceptionnellement au transport de personnes doit être aménagé de manière à
-assurer la sécurité et la commodité des voyageurs.
+assurer la sécurité et la commodité des voyageurs. 
 
 Le ministre chargé des transports détermine les conditions particulières auxquelles doivent répondre, en plus de celles qui
-sont déjà prescrites par le présent chapitre, les différentes catégories de véhicules affectés au transport de personnes.
+sont déjà prescrites par le présent chapitre, les différentes catégories de véhicules affectés au transport de personnes. 
 
 Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application relatives à la solidité
 des véhicules, à leur poids, à leur mode de chargement, au nombre et à la sûreté des voyageurs, à l'indication, à l'intérieur
 des voitures, des places qu'elles contiennent et du prix des places, à l'indication, à l'extérieur, du nom du propriétaire
-est puni de l'amende prévue pour les contraventions de la deuxième classe.
+est puni de l'amende prévue pour les contraventions de la deuxième classe et, s'il s'agit de transport en commun de
+personnes, de l'amende prévue pour les contraventions de la quatrième classe.
+
+L'immobilisation du véhicule de transport en commun de personnes peut être prescrite dans les conditions prévues aux articles
+L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
@@ -21657,17 +21656,20 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2011-368 du 4 avril 2011 - art. 8
 
 _Anciens textes_:
 
   - Code de la route - art. R105 (Ab)
   - Code de la route - art. R240-1 (Ab)
-  - Code de la route R105, R240-1
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R317-27 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R317-25
@@ -21834,13 +21836,13 @@ _Anciens textes_:
 ###### Article R318-1
 
 Les véhicules à moteur ne doivent pas émettre de fumées, de gaz toxiques, corrosifs ou odorants, dans des conditions
-susceptibles d'incommoder la population ou de compromettre la santé et la sécurité publiques.
+susceptibles d'incommoder la population ou de compromettre la santé et la sécurité publiques. 
 
 Le ministre chargé des transports, le ministre chargé de la santé et le ministre chargé de l'environnement fixent par arrêté
-les conditions d'application du présent article.
+les conditions d'application du présent article. 
 
 Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
-prévue pour les contraventions de la troisième classe.
+prévue pour les contraventions de la quatrième classe.
 
 L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
@@ -21855,7 +21857,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2011-368 du 4 avril 2011 - art. 9
 
 _Anciens textes_:
 
@@ -21866,15 +21872,10 @@ _Anciens textes_:
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R69 (Ab)
   - Code de la route - art. R71 (Ab)
-  - Code de la route R69, R71 (al. 1), R147 (al. 1), R172, R188-2, R239, R278 7°
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R318-6 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R318-2
@@ -21969,18 +21970,18 @@ _Cite_:
 ###### Article R318-3
 
 Les véhicules à moteur ne doivent pas émettre de bruits susceptibles de causer une gêne aux usagers de la route ou aux
-riverains.
+riverains. 
 
 Le moteur doit être muni d'un dispositif d'échappement silencieux en bon état de fonctionnement sans possibilité
-d'interruption par le conducteur.
+d'interruption par le conducteur. 
 
-Toute opération tendant à supprimer ou à réduire l'efficacité du dispositif d'échappement silencieux est interdite.
+Toute opération tendant à supprimer ou à réduire l'efficacité du dispositif d'échappement silencieux est interdite. 
 
 Le ministre chargé des transports, le ministre chargé de la santé et le ministre chargé de l'environnement fixent par arrêté
-les conditions d'application du présent article.
+les conditions d'application du présent article. 
 
 Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
-prévue pour les contraventions de la troisième classe.
+prévue pour les contraventions de la quatrième classe.
 
 L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
@@ -21988,7 +21989,11 @@ L'immobilisation peut être prescrite dans les conditions prévues aux articles 
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2011-368 du 4 avril 2011 - art. 10
 
 _Anciens textes_:
 
@@ -21999,31 +22004,30 @@ _Anciens textes_:
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R70 (Ab)
   - Code de la route - art. R71 (Ab)
-  - Code de la route R70, R71 (al. 1), R147 (al. 1), R172, R188-2, R239, R278 7°
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R318-6 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R318-4
 
-Tout véhicule à moteur doit être muni de dispositifs antiparasites radioélectriques.
+Tout véhicule à moteur doit être muni de dispositifs antiparasites radioélectriques. 
 
-Le ministre chargé des transports fixe par arrêté les conditions d'application du présent article.
+Le ministre chargé des transports fixe par arrêté les conditions d'application du présent article. 
 
 Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
-prévue pour les contraventions de la troisième classe.
+prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2011-368 du 4 avril 2011 - art. 11
 
 _Anciens textes_:
 
@@ -22032,20 +22036,15 @@ _Anciens textes_:
   - Code de la route - art. R188-2 (Ab)
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R71 (Ab)
-  - Code de la route R71 (al. 2), R147 (al. 1), R172, R188-2, R239
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R318-6 (V)
 
 
 ###### Article R318-5
 
 Le ministre chargé des transports fixe par arrêté les règles relatives aux émissions polluantes et aux nuisances sonores des
-engins spéciaux dont la vitesse ne peut excéder par construction 25 km/h.
+engins spéciaux dont la vitesse ne peut excéder par construction 25 km/ h. 
 
 Le fait de contrevenir aux dispositions prises en application du présent article est puni de l'amende prévue pour les
-contraventions de la troisième classe.
+contraventions de la quatrième classe.
 
 L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
@@ -22053,22 +22052,21 @@ L'immobilisation peut être prescrite dans les conditions prévues aux articles 
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2011-368 du 4 avril 2011 - art. 12
 
 _Anciens textes_:
 
   - Code de la route - art. R168 (Ab)
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R278 (Ab)
-  - Code de la route R168, R239, R278 7°
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R318-6 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R318-6
@@ -30209,6 +30207,45 @@ _Cite_:
 
 ##### Section 3 : Interdictions et restrictions de circulation.<a id=172></a>
 
+###### Article R411-17
+
+Le fait, pour tout conducteur, de ne pas respecter l'interdiction permanente d'accès de certaines routes à certaines
+catégories de véhicules, prise par l'autorité investie du pouvoir de police en application des articles L. 411-1 à L. 411-5-1
+pour prévenir un danger pour les usagers de la voie, est puni de l'amende prévue pour les contraventions de la quatrième
+classe. 
+
+Lorsque, en outre, cette interdiction concerne une route comportant une descente dangereuse, l'infraction est punie de
+l'amende prévue pour les contraventions de la cinquième classe. Tout conducteur coupable de cette infraction encourt
+également la peine complémentaire de suspension du permis de conduire pour une durée de trois ans au plus, cette suspension
+ne pouvant ni être limitée à la conduite en dehors de l'activité professionnelle, ni être assortie du sursis, même
+partiellement.
+
+L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°86-426 du 13 mars 1986 - art. 8 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2011-368 du 4 avril 2011 - art. 13
+
+_Cite_:
+
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. L411-1
+
+_Cité par_:
+
+  - Code de la route. - art. R130-6 (VD)
+
+
 ###### Article R411-18
 
 Le préfet peut interdire temporairement la circulation d'une ou plusieurs catégories de véhicules sur certaines portions du
@@ -37692,38 +37729,57 @@ _Codifié par_:
 
 ###### Article R433-1
 
-I. - Le transport ou la circulation de marchandises, engins ou véhicules présentant un caractère exceptionnel en raison de
+I.-Le transport ou la circulation de marchandises, engins ou véhicules présentant un caractère exceptionnel en raison de
 leurs dimensions ou de leur masse excédant les limites réglementaires, doit faire l'objet d'une autorisation préalable. Ces
-dispositions s'appliquent aux catégories de véhicules suivantes :
+dispositions s'appliquent aux catégories de véhicules suivantes : 
 
-1° Véhicule à moteur ou remorque transportant ou destiné au transport de charges indivisibles ;
+1° Véhicule à moteur ou remorque transportant ou destiné au transport de charges indivisibles ; 
 
 2° Véhicule, matériel agricole ou forestier ou leur ensemble, machine agricole automotrice, machine ou instrument agricole
 remorqué dont les dimensions, y compris les outillages portés amovibles, dépassent une longueur de 25 mètres ou une largeur
-de 4,50 mètres ;
+de 4,50 mètres ; 
 
-3° Véhicule à moteur ou remorque à usage forain ;
+3° Véhicule à moteur ou remorque à usage forain ; 
 
-4° Ensemble forain dont la longueur est supérieure à 30 mètres ;
+4° Ensemble forain dont la longueur est supérieure à 30 mètres ; 
 
-5° Véhicule ou engin spécial ;
+5° Véhicule ou engin spécial ; 
 
-6° Véhicule ou matériel de travaux publics.
+6° Véhicule ou matériel de travaux publics. 
 
-II. - Au sens du présent article on entend par charge indivisible une charge qui ne peut, aux fins de transport par route,
-être divisée en plusieurs chargements sans frais ou risque de dommages importants et qui ne peut, du fait de ses dimensions
-ou masse, être transportée par un véhicule dont les dimensions ou la masse respectent elles-mêmes les limites réglementaires.
+II.-Au sens du présent article on entend par charge indivisible une charge qui ne peut, aux fins de transport par route, être
+divisée en plusieurs chargements sans frais ou risque de dommages importants et qui ne peut, du fait de ses dimensions ou
+masse, être transportée par un véhicule dont les dimensions ou la masse respectent elles-mêmes les limites réglementaires. 
 
-III. - Le fait de faire circuler un véhicule visé au présent article sans respecter les prescriptions de l'autorisation
-préfectorale est puni de l'amende prévue pour les contraventions de la quatrième classe.
+III. Le fait de faire circuler un véhicule visé au présent article sans autorisation préfectorale est puni de l'amende prévue
+pour les contraventions de la cinquième classe. 
 
-IV. - Toutefois, lorsque les prescriptions concernent le poids du véhicule, sa charge maximale par essieu ou les dimensions
-de son chargement et que le dépassement de ces prescriptions excède les limites de l'autorisation de plus de 20 %, l'amende
-encourue est celle prévue pour les contraventions de la cinquième classe.
+Le fait de faire circuler un véhicule visé au présent article sans respecter les prescriptions de l'autorisation préfectorale
+est puni conformément aux dispositions suivantes : 
 
-V. - La récidive de la contravention prévue au IV est réprimée conformément à l'article 132-11 du code pénal.
+1° Pour le dépassement du poids du véhicule : il est fait application des dispositions du VII de l'article R. 312-4 prévoyant
+une ou plusieurs contraventions de la quatrième classe ; 
 
-VI. - Lorsque le conducteur ne peut présenter l'autorisation préfectorale ou n'en respecte pas les dispositions,
+2° Pour le dépassement de la charge maximale par essieu : il est fait application des dispositions du IV de l'article R.
+312-6 prévoyant une ou plusieurs contraventions de la quatrième classe ; 
+
+3° Pour le non-respect de l'itinéraire autorisé : l'infraction est punie de l'amende prévue pour les contraventions de la
+cinquième classe ; 
+
+4° Pour le non-respect d'une prescription liée à la traversée d'un passage à niveau : l'infraction est punie de l'amende
+prévue pour les contraventions de la cinquième classe ; 
+
+5° Pour le non-respect d'une autre prescription de l'autorisation préfectorale : l'infraction est punie de l'amende prévue
+pour les contraventions de la quatrième classe. 
+
+Toutefois, pour les dimensions du chargement, l'infraction est punie de l'amende prévue pour les contraventions de la
+cinquième classe lorsque le dépassement excède les limites de l'autorisation de plus de 20 %. 
+
+IV. (Supprimé) 
+
+V.-La récidive de la contravention prévue aux 3° et 4° du III est réprimée conformément à l'article 132-11 du code pénal. 
+
+VI.-Lorsque le conducteur ne peut présenter l'autorisation préfectorale ou n'en respecte pas les dispositions,
 l'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
@@ -37757,16 +37813,18 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2005-1655 du 26 décembre 2005 - art. 2 () JORF 28 décembre 2005
+  - Décret n°2011-368 du 4 avril 2011 - art. 14
 
 _Cite_:
 
-  - Code pénal - art. 132-11 (M)
-  - Code de la route L325-1 à L325-3
+  - Code pénal - art. 132-11
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R312-4
+  - Code de la route. - art. R312-6
 
 _Anciens textes_:
 
@@ -37826,42 +37884,33 @@ _Cite_:
 
 ###### Article R433-3
 
-I. - Lorsque des besoins locaux permanents le justifient, le transport de marchandises ou la circulation de véhicules
+I.-Lorsque des besoins locaux permanents le justifient, le transport de marchandises ou la circulation de véhicules
 présentant un caractère exceptionnel en raison de leurs dimensions ou de leur masse, lesquelles ne respectent pas les limites
 réglementaires, peut être réglementé par arrêté du préfet du département dans lequel est effectué le déplacement. Ces
-dispositions s'appliquent exclusivement aux catégories de véhicules ou de marchandises suivantes :
+dispositions s'appliquent exclusivement aux catégories de véhicules ou de marchandises suivantes : 
 
-1° Pièce indivisible de grande longueur ;
+1° Pièce indivisible de grande longueur ; 
 
-2° Bois en grume ;
+2° Bois en grume ; 
 
-3° Matériel et engin de travaux publics ;
+3° Matériel et engin de travaux publics ; 
 
-4° Conteneur.
+4° Conteneur. 
 
-II. - Le cas échéant, pour les besoins de l'exploitation, ce déplacement peut s'effectuer au-delà du département, mais
+II.-Le cas échéant, pour les besoins de l'exploitation, ce déplacement peut s'effectuer au-delà du département, mais
 seulement dans les départements limitrophes et sous réserve que des mesures similaires aient été arrêtées dans ces
-départements.
+départements. 
 
-III. - L'arrêté du préfet est établi conformément à l'un des arrêtés types prévu au 7° de l'article R. 433-5.
+III.-L'arrêté du préfet est établi conformément à l'un des arrêtés types prévu au 7° de l'article R. 433-5. 
 
-IV. - Le fait de faire circuler un véhicule visé au présent article sans respecter les prescriptions de l'arrêté préfectoral
-l'autorisant est puni de l'amende prévue pour les contraventions de la quatrième classe.
-
-V. - Toutefois, lorsque les prescriptions concernent le poids du véhicule, sa charge maximale par essieu ou les dimensions de
-son chargement et que le dépassement de ces prescriptions excède de plus de 20 % les limites fixées par l'arrêté du préfet,
-l'amende encourue est celle prévue pour les contraventions de la cinquième classe.
-
-VI. - La récidive de la contravention prévue au V est réprimée conformément à l'article 132-11 du code pénal.
-
-VII. - Lorsque le conducteur ne peut présenter l'arrêté préfectoral ou n'en respecte pas les dispositions, l'immobilisation
-du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+IV.-Le fait de faire circuler un véhicule visé au présent article sans respecter les prescriptions de l'arrêté préfectoral
+est puni conformément aux dispositions des III, IV et V de l'article R. 433-1.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -37872,12 +37921,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1655 du 26 décembre 2005 - art. 3 () JORF 28 décembre 2005
-
-_Cite_:
-
-  - Code pénal - art. 132-11 (M)
-  - Code de la route R433-5, L325-1 à L325-3
+  - Décret n°2011-368 du 4 avril 2011 - art. 15
 
 _Anciens textes_:
 
@@ -37885,6 +37929,10 @@ _Anciens textes_:
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R50 (Ab)
   - Code de la route R50, R238-2, R278
+
+_Cite_:
+
+  - Code de la route. - art. R433-1
 
 
 ###### Article R433-4
@@ -38022,70 +38070,90 @@ _Anciens textes_:
 
 ###### Article R433-7
 
-I. - Lorsque des besoins locaux spécifiques de transport de personnes le justifient, notamment du fait de l'affluence du
-public et des caractéristiques géographiques du lieu, le préfet du département autorise par arrêté la circulation de
-véhicules et d'ensembles de véhicules présentant un caractère exceptionnel en raison de leurs dimensions ou de leur masse, ne
-respectant pas les limites réglementaires, à condition que ces véhicules garantissent la sécurité des personnes et la
-protection de l'environnement.
+I.-Lorsque des besoins locaux spécifiques de transport de personnes le justifient, notamment du fait de l'affluence du public
+et des caractéristiques géographiques du lieu, le préfet du département autorise par arrêté la circulation de véhicules et
+d'ensembles de véhicules présentant un caractère exceptionnel en raison de leurs dimensions ou de leur masse, ne respectant
+pas les limites réglementaires, à condition que ces véhicules garantissent la sécurité des personnes et la protection de
+l'environnement. 
 
-II. - L'arrêté du préfet précise les conditions d'utilisation de ces véhicules et les itinéraires empruntés.
+II.-L'arrêté du préfet précise les conditions d'utilisation de ces véhicules et les itinéraires empruntés. 
 
-III. - Le fait de faire circuler un véhicule visé au présent article sans respecter les prescriptions de l'autorisation
-préfectorale est puni de l'amende prévue pour les contraventions de la quatrième classe.
+III.-Le fait de faire circuler un véhicule visé au présent article sans autorisation préfectorale est puni de l'amende prévue
+pour les contraventions de la cinquième classe. 
 
-IV. - Toutefois, lorsque les prescriptions concernent le poids du véhicule, sa charge maximale par essieu, les dimensions de
-son chargement ou le nombre de personnes transportées et que le dépassement de ces prescriptions excède les limites de
-l'autorisation de plus de 20 %, l'amende encourue est celle prévue pour les contraventions de la cinquième classe.
+Le fait de faire circuler un véhicule visé au présent article sans respecter les prescriptions de l'autorisation préfectorale
+est puni conformément aux dispositions suivantes : 
 
-V. - La récidive de la contravention prévue au IV est réprimée conformément à l'article 132-11 du code pénal.
+1° Pour le dépassement du poids du véhicule : il est fait application des dispositions du VII de l'article R. 312-4 prévoyant
+une ou plusieurs contraventions de la quatrième classe ; 
 
-VI. - Lorsque le conducteur ne peut présenter l'autorisation préfectorale ou n'en respecte pas les dispositions,
+2° Pour le dépassement de la charge maximale par essieu : il est fait application des dispositions du IV de l'article R.
+312-6 prévoyant une ou plusieurs contraventions de la quatrième classe ; 
+
+3° Pour le non-respect de l'itinéraire autorisé : l'infraction est punie de l'amende prévue pour les contraventions de la
+cinquième classe ; 
+
+4° Pour le non-respect d'une prescription liée à la traversée d'un passage à niveau : l'infraction est punie de l'amende
+prévue pour les contraventions de la cinquième classe ; 
+
+5° Pour le non-respect d'une autre prescription de l'autorisation préfectorale : l'infraction est punie de l'amende prévue
+pour les contraventions de la quatrième classe. 
+
+Toutefois, pour les dimensions du chargement ou le nombre de personnes transportées, l'infraction est punie de l'amende
+prévue pour les contraventions de la cinquième classe lorsque le dépassement excède les limites de l'autorisation de plus de
+20 %. 
+
+IV.-(Supprimé) 
+
+V.-La récidive de la contravention prévue aux 3° et 4° du III est réprimée conformément à l'article 132-11 du code pénal. 
+
+VI.-Lorsque le conducteur ne peut présenter l'autorisation préfectorale ou n'en respecte pas les dispositions,
 l'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2011-368 du 4 avril 2011 - art. 16
 
 _Cite_:
 
-  - Code pénal - art. 132-11 (M)
-  - Code de la route L325-1 à L325-3
+  - Code pénal - art. 132-11
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R312-4
+  - Code de la route. - art. R312-6
 
 _Anciens textes_:
 
   - Code de la route - art. R238-2 (Ab)
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R52 (Ab)
-  - Code de la route R52, R238-2, R278 4°
 
 _Cité par_:
 
   - Code de la route. - art. R322-2 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=211></a>
 
 ###### Article R433-8
 
-La circulation des ensembles de véhicules comprenant plus d'une remorque est interdite.
+La circulation des ensembles de véhicules comprenant plus d'une remorque est interdite. 
 
 Toutefois, est autorisée la circulation des ensembles comprenant deux remorques, dans des conditions fixées par arrêté du
-ministre chargé des transports, et des trains doubles.
+ministre chargé des transports, et des trains doubles. 
 
 Par ailleurs, la circulation des autres ensembles comprenant plusieurs remorques ou des ensembles composés d'un véhicule
 articulé et d'une remorque est autorisée sous réserve d'avoir obtenu une autorisation du préfet délivrée dans les conditions
-prévues pour les transports exceptionnels de marchandises, d'engins ou de véhicules.
+prévues pour les transports exceptionnels de marchandises, d'engins ou de véhicules. 
 
 Le fait, pour tout conducteur, de faire circuler un ensemble de véhicules sans respecter les conditions fixées par le présent
 article ou sans l'autorisation préfectorale exigée ou sans en respecter les prescriptions est puni de l'amende prévue pour
-les contraventions de la troisième classe.
+les contraventions de la quatrième classe.
 
 L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
@@ -38093,28 +38161,26 @@ L'immobilisation du véhicule peut être prescrite dans les conditions prévues 
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
   - Décret n°2003-416 du 30 avril 2003 - art. 2 (AbD)
   - Code de la route. - art. R421-2 (V)
 
+_Modifié par_:
+
+  - Décret n°2011-368 du 4 avril 2011 - art. 17
+
 _Anciens textes_:
 
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R47 (Ab)
-  - Code de la route R47, R239, R278 4°
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Code de la route. - art. L325-1
 
 
 ##### Section 4 : Transports de bois ronds<a id=212></a>
@@ -38227,12 +38293,8 @@ précités.
 
 En outre, les véhicules et ensembles de véhicules concernés sont soumis aux dispositions de l'article R. 321-17. 
 
-Toute infraction à ces dispositions est punie de l'amende prévue pour les contraventions de la quatrième classe. 
-
-Toutefois, lorsque le dépassement du poids autorisé excède les limites réglementaires de plus de 20 %, l'amende encourue est
-celle prévue pour les contraventions de la cinquième classe. 
-
-La récidive de la contravention prévue à l'alinéa précédent est réprimée conformément à l'article 132-11 du code pénal. 
+Toute infraction aux dispositions du présent article ou à celles prises pour son application est punie conformément aux
+dispositions du VII de l'article R. 312-4.
 
 En cas de dépassement excédant 5 % du poids autorisé, l'immobilisation du véhicule peut être prescrite dans les conditions
 prévues aux articles L. 325-1 à L. 325-3 du présent code.
@@ -38250,20 +38312,20 @@ cette activité dans les limites du poids total roulant autorisé fixées ci-des
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2009-780 du 23 juin 2009 - art. 1
-
 _Cité par_:
 
   - Décret n°2009-780 du 23 juin 2009 - art. 4 (V)
   - Arrêté du 29 juin 2009 - art. 3 (V)
   - Code de la route. - art. R433-11 (VD)
 
+_Modifié par_:
+
+  - Décret n°2011-368 du 4 avril 2011 - art. 18
+
 _Cite_:
 
-  - Code pénal - art. 132-11
   - Code de la route. - art. L325-1
+  - Code de la route. - art. R312-4
   - Code de la route. - art. R321-17
 
 
