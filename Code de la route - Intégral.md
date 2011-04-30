@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-04-07
+Version Consolidée au 2011-05-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -7477,9 +7477,7 @@ _Cité par_:
 
 ###### Article L326-3
 
-Nul ne peut exercer la profession d'expert en automobile s'il ne figure sur une liste arrêtée par une commission nationale
-présidée par un conseiller à la Cour de cassation et composée, de représentants de l'Etat, de représentants des professions
-concernées par l'expertise et l'assurance et de représentants des consommateurs.
+Nul ne peut exercer la profession d'expert en automobile s'il ne figure sur une liste fixée par l'autorité administrative.
 
 L'inscription sur cette liste est de droit pour les personnes remplissant les conditions fixées par le présent chapitre.
 
@@ -7491,7 +7489,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-507 du 30 mai 2008 - art. 10
+  - Loi n°2011-12 du 5 janvier 2011 - art. 7 (V)
 
 _Cité par_:
 
@@ -7566,29 +7564,32 @@ _Cite_:
 
 ###### Article L326-5
 
-Un décret en Conseil d'Etat fixe les conditions d'application des articles L. 326-1 à L. 326-4 et notamment les modalités de
-désignation des membres de la commission nationale et l'étendue de son pouvoir disciplinaire.
+Les conditions d'application des articles L. 326-1 à L. 326-4, et notamment le régime disciplinaire auquel sont soumis les
+experts en automobile, sont fixées par un décret en Conseil d'Etat. 
+
+Une commission nationale composée de représentants de l'Etat, de représentants des professions concernées par l'expertise et
+l'assurance et de représentants d'associations d'usagers est consultée pour avis par l'autorité administrative qui rend les
+décisions disciplinaires, selon des modalités prévues par décret.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°72-1097 1972-12-11 art. 1 (al. 9), art. 7
-  - Loi n°72-1097 du 11 décembre 1972 - art. 7 (Ab)
   - Loi n°72-1097 du 11 décembre 1972 - art. 1 (Ab)
+  - Loi n°72-1097 du 11 décembre 1972 - art. 7 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2003-495 2003-06-12 art. 20 1° JORF 13 juin 2003
+  - Loi n°2011-12 du 5 janvier 2011 - art. 7 (V)
 
 _Cite_:
 
-  - Code de la route L326-1 à L326-4
+  - Code de la route. - art. L326-1
 
 _Cité par_:
 
@@ -7606,7 +7607,8 @@ moteur et des pièces accessoires ;
 
 3° L'exercice de la profession d'assureur ;
 
-4° L'accomplissement d'actes de nature à porter atteinte à son indépendance.
+I bis. - Les conditions dans lesquelles un expert en automobile exerce sa profession ne doivent pas porter atteinte à son
+indépendance. 
 
 II. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article et notamment les règles
 professionnelles que doivent respecter les experts en automobile.
@@ -7619,7 +7621,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-507 du 30 mai 2008 - art. 10
+  - Loi n°2011-12 du 5 janvier 2011 - art. 7 (V)
 
 _Cité par_:
 
