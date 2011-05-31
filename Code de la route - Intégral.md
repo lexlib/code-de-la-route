@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-05-27
+Version Consolidée au 2011-06-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -22,12 +22,12 @@ Version Consolidée au 2011-05-27
         - [Chapitre 3 : Permis à points. (art. L223-1 à L223-9)](#19)
         - [Chapitre  4 : Interdiction de délivrance, rétention, suspension et annulation. (art. L224-1 à L224-18)](#20)
         - [Chapitre  5 : Enregistrement et communication des informations relatives au permis de conduire. (art. L225-1 à L225-9)](#21)
-      - [Titre 3 : Comportement du conducteur (art. L231-1 à L235-4)](#22)
+      - [Titre 3 : Comportement du conducteur (art. L231-1 à L235-5)](#22)
         - [Chapitre 1er : Comportement en cas d'accident. (art. L231-1 à L231-3)](#23)
         - [Chapitre 2 : Atteintes involontaires aux personnes. (art. L232-1 à L232-3)](#24)
         - [Chapitre 3 : Comportement en cas de contrôle routier. (art. L233-1 à L233-2)](#25)
-        - [Chapitre 4 : Conduite sous l'influence de l'alcool. (art. L234-1 à L234-17)](#26)
-        - [Chapitre 5 : Conduite après usage de substances ou plantes classées comme stupéfiants (art. L235-1 à L235-4)](#27)
+        - [Chapitre 4 : Conduite sous l'influence de l'alcool. (art. L234-1 à L234-18)](#26)
+        - [Chapitre 5 : Conduite après usage de substances ou plantes classées comme stupéfiants (art. L235-1 à L235-5)](#27)
       - [Titre 4 : Dispositions relatives à l'outre-mer (art. L241-1 à L245-2)](#28)
         - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. L241-1)](#29)
         - [Chapitre 2 : Dispositions applicables à Mayotte. (art. L242-1 à L242-2)](#30)
@@ -4924,6 +4924,29 @@ _Cité par_:
   - Code pénal - art. 222-44 (VD)
 
 
+###### Article L234-18
+
+Lorsqu'il a été procédé aux épreuves de dépistage et aux vérifications prévues par les articles L. 234-3 et L. 234-5, le
+placement en garde à vue de la personne, si les conditions de cette mesure prévues par le code de procédure pénale sont
+réunies, n'est pas obligatoire dès lors qu'elle n'est pas tenue sous la contrainte de demeurer à la disposition des
+enquêteurs et qu'elle a été informée qu'elle peut à tout moment quitter les locaux de police ou de gendarmerie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-392 du 14 avril 2011 - art. 15
+
+_Cité par_:
+
+  - Loi n°2016-731 du 3 juin 2016 - art. 83
+
+_Cite_:
+
+  - Code de la route. - art. L234-3
+  - Code de la route. - art. L234-5
+
+
 #### Chapitre 5 : Conduite après usage de substances ou plantes classées comme stupéfiants<a id=27></a>
 
 ###### Article L235-1
@@ -5193,6 +5216,34 @@ _Cité par_:
   - Code de la route. - art. L243-2 (VD)
   - Code de la route. - art. L244-2 (VD)
   - Code de la route. - art. L245-2 (VD)
+
+
+###### Article L235-5
+
+Lorsqu'il a été procédé aux épreuves de dépistage et aux vérifications prévues par l'article L. 235-2, le placement en garde
+à vue de la personne, si les conditions de cette mesure prévues par le code de procédure pénale sont réunies, n'est pas
+obligatoire dès lors qu'elle n'est pas tenue sous la contrainte de demeurer à la disposition des enquêteurs et qu'elle a été
+informée qu'elle peut à tout moment quitter les locaux de police ou de gendarmerie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
+
+_Cité par_:
+
+  - Loi n°2003-495 du 12 juin 2003 - art. 3 (V)
+  - Loi n°2016-731 du 3 juin 2016 - art. 83
+
+_Modifié par_:
+
+  - Loi n°2011-392 du 14 avril 2011 - art. 15
+
+_Cite_:
+
+  - Code de la route. - art. L235-2
 
 
 ### Titre 4 : Dispositions relatives à l'outre-mer<a id=28></a>
