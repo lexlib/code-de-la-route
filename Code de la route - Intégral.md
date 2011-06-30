@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-06-01
+Version Consolidée au 2011-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -151,9 +151,9 @@ Version Consolidée au 2011-06-01
           - [Section 3 : Fourrière (art. R325-12 à R325-52)](#148)
             - [Sous-section 1 : Dispositions générales. (art. R325-12 à R325-46)](#149)
             - [Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique. (art. R325-47 à R325-52)](#150)
-        - [Chapitre VI : Organisation de la profession d'expert en automobile (art. R326-1 à R326-18)](#151)
+        - [Chapitre VI : Organisation de la profession d'expert en automobile (art. R326-1 à R326-14)](#151)
           - [Section 1 : Règles générales. (art. R326-1 à R326-4)](#152)
-          - [Section 2 : Organisation et fonctionnement de la Commission nationale des experts en automobile. (art. R326-5 à R326-18)](#153)
+          - [Section 2 : Conditions à remplir pour l'exercice de la profession d'expert en automobile et procédure disciplinaire. (art. D326-15 à R326-14)](#153)
         - [Chapitre VII : Véhicules endommagés (art. R327-1 à R327-6)](#154)
       - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-11)](#155)
       - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R344-4)](#156)
@@ -10888,8 +10888,8 @@ n'encourt, lorsque l'attestation est délivrée, aucune interdiction, même temp
 3° Une preuve de ses qualifications professionnelles ; 
 
 4° La preuve par tout moyen qu'il a exercé la ou les activités concernées pendant au moins deux ans consécutifs ou non au
-cours des dix années précédentes ou pendant une durée équivalente à temps partiel lorsque l'activité n'est pas réglementée
-dans l'Etat d'établissement ; 
+cours des dix années précédentes ou pendant une durée équivalente à temps partiel   lorsque l'activité ou la formation y
+conduisant n'est pas réglementée dans l'Etat d'établissement ; 
 
 La déclaration et les documents joints peuvent être transmis par tout moyen, accompagnés, le cas échéant, de leur traduction
 en langue française. 
@@ -10919,10 +10919,10 @@ Un arrêté du ministre chargé des transports fixe les conditions d'application
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 (V)
-  - Code de la route. - art. L212-1 (V)
-  - Code de la route. - art. L223-6 (V)
-  - Code de la route. - art. R223-5 (V)
+  - Loi n°78-17 du 6 janvier 1978
+  - Code de la route. - art. L212-1
+  - Code de la route. - art. L223-6
+  - Code de la route. - art. R223-5
 
 _Cité par_:
 
@@ -10951,7 +10951,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 3
+  - Décret n°2011-759 du 28 juin 2011 - art. 1 (V)
 
 _Anciens textes_:
 
@@ -11670,9 +11670,7 @@ cette formation ;
 
 3° Etre âgé d'au moins vingt-trois ans ; 
 
-4° Justifier d'une expérience professionnelle de pratique de l'enseignement de la conduite, soit à temps plein pendant deux
-années continues ou non, soit à temps partiel pendant une durée totale équivalente aux deux années requises sur la base d'un
-temps plein, dans les conditions fixées par un arrêté du ministre chargé des transports ; 
+4° (alinéa abrogé) ;
 
 5° Justifier de garanties minimales concernant les moyens de formation de l'établissement. Ces garanties concernent les
 locaux, les véhicules, les moyens matériels et les modalités d'organisation de la formation ; 
@@ -11701,9 +11699,7 @@ stages de sensibilisation à la sécurité routière ;
 
 3° Etre âgé d'au moins vingt-cinq ans ; 
 
-4° Justifier d'une expérience professionnelle, soit à temps plein pendant deux années continues ou non, soit à temps partiel
-pendant une durée totale équivalente aux deux années requises sur la base d'un temps plein, dans le domaine de la
-sensibilisation à la sécurité routière ou de son enseignement ; 
+4° (alinéa abrogé)
 
 5° Justifier des garanties minimales concernant les moyens de formation de l'établissement. Ces garanties concernent les
 locaux, les moyens matériels, les modalités d'organisation de la formation et, le cas échéant, les véhicules ; 
@@ -11742,7 +11738,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 13
+  - Décret n°2011-759 du 28 juin 2011 - art. 2 (V)
 
 _Anciens textes_:
 
@@ -11751,18 +11747,18 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L212-1 (V)
-  - Code de la route. - art. L213-1 (V)
-  - Code de la route. - art. L223-6 (V)
-  - Code de la route. - art. R212-4 (V)
-  - Code de la route. - art. R223-5 (V)
+  - Code de la route. - art. L212-1
+  - Code de la route. - art. L213-1
+  - Code de la route. - art. L223-6
+  - Code de la route. - art. R212-4
+  - Code de la route. - art. R223-5
 
 
 ###### Article R213-2-1
 
-Pour satisfaire aux conditions de qualifications professionnelles énoncées aux 2° et 4° du I et aux 2° et 4° du II de
-l'article R. 213-2, les personnes ayant acquis leurs qualifications dans un autre Etat membre de la Communauté européenne ou
-dans un autre Etat partie à l'accord sur l'Espace économique européen doivent satisfaire aux conditions suivantes : 
+Pour satisfaire aux conditions de qualifications professionnelles énoncées au 2° du I et au 2° du II de l'article R. 213-2,
+les personnes ayant acquis leurs qualifications dans un autre Etat membre de la Communauté européenne ou dans un autre Etat
+partie à l'accord sur l'Espace économique européen doivent satisfaire aux conditions suivantes : 
 
 1° Conditions générales de la reconnaissance : 
 
@@ -11829,9 +11825,9 @@ Les dispositions fixées au présent article sont précisées par arrêté du mi
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 14
+  - Décret n°2011-759 du 28 juin 2011 - art. 2 (V)
 
 _Cité par_:
 
@@ -27143,22 +27139,108 @@ _Anciens textes_:
   - Code de la route. - art. R327-4 (M)
 
 
-##### Section 2 : Organisation et fonctionnement de la Commission nationale des experts en automobile.<a id=153></a>
+##### Section 2 : Conditions à remplir pour l'exercice de la profession d'expert en automobile et procédure disciplinaire.<a id=153></a>
 
-###### Article R326-5
+###### Article D326-15
 
-La commission nationale instituée par l'article L. 326-3 peut être consultée par le ministre chargé des transports sur toute
-question relative à l'expertise en automobile et à l'organisation générale de la profession d'expert en automobile.
+La commission nationale des experts en automobile comprend : 
+
+1° Un président désigné par le ministre chargé des transports ; 
+
+2° Quatre représentants de l'Etat désignés par le ministre chargé des transports ; 
+
+3° Quatre experts en automobile désignés par le ministre chargé des transports, sur proposition des organisations
+professionnelles ; 
+
+4° Deux représentants d'associations d'usagers de la route désignés par le ministre chargé des transports ; 
+
+5° Deux représentants des entreprises d'assurances désignés par le ministre chargé des assurances. 
+
+Les représentants des associations d'usagers de la route ne peuvent appartenir aux catégories mentionnées aux 3° et 5° du
+présent article. 
+
+Un suppléant de chaque membre titulaire de la commission est désigné dans les mêmes conditions. 
+
+Les membres titulaires et suppléants de la commission sont nommés pour trois ans par arrêté du ministre chargé des
+transports.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
+
+
+###### Article R326-5
+
+Toute personne souhaitant être inscrite sur la liste des experts en automobile, à l'exception de celles mentionnées au II de
+l'article L. 326-4, doit en faire la demande au ministre chargé des transports. Cette demande est accompagnée des pièces
+justificatives suivantes : 
+
+1° Un document établissant l'état civil de l'intéressé ; 
+
+2° La copie, suivant le cas :
+
+- soit du brevet professionnel d'expert en automobile ou de la reconnaissance de la qualité d'expert en automobile prévus par
+le décret n° 74-472 du 17 mai 1974 relatif aux experts en automobile ou du diplôme d'expert en automobile prévu par le décret
+n° 95-493 du 25 avril 1995 portant création et règlement général du diplôme d'expert en automobile, ou du relevé de notes du
+diplôme d'expert en automobile délivré par le recteur d'académie ;
+
+- soit d'un titre délivré par un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
+économique européen ou d'un titre reconnu par l'un de ces Etats, équivalents aux titres mentionnés à l'alinéa précédent ;
+
+- soit de toute pièce de nature à établir l'expérience professionnelle acquise par l'intéressé en matière d'expertise
+automobile dans l'un des Etats mentionnés à l'alinéa précédent dans les conditions fixées par arrêté du ministre chargé des
+transports ; 
+
+3° Une déclaration sur l'honneur du demandeur attestant qu'il ne détient pas de charge d'officier public ou ministériel et
+n'exerce pas une activité incompatible avec la qualité d'expert en automobile, conformément aux dispositions de l'article L.
+326-6. 
+
+Le ministre chargé des transports peut, en outre, demander à l'intéressé de fournir tout autre document ou renseignement
+utile, notamment son contrat de travail s'il s'agit d'un expert salarié, afin de lui permettre de vérifier que la condition
+d'indépendance est remplie ; 
+
+4° Un document justificatif de l'assurance obligatoire prévue par l'article L. 326-7 ; 
+
+5° Un extrait du bulletin n° 3 du casier judiciaire ou, pour les ressortissants étrangers, un document équivalent, accompagné
+d'une déclaration sur l'honneur de l'intéressé selon laquelle il n'a fait l'objet d'aucune des condamnations pénales prévues
+à l'article L. 326-2 et n'est pas sous le coup d'un jugement rendu en application de l'article L. 326-9 lui interdisant
+d'exercer l'activité d'expert en automobile ; 
+
+6° Un justificatif démontrant que, lorsqu'il sollicite la reconnaissance de sa qualification pour le contrôle des véhicules
+endommagés prévue par les articles L. 327-1 à L. 327-6, le demandeur répond aux conditions prévues à l'article R. 326-11 ; 
+
+Les pièces définies aux 4° et 5° ne peuvent dater de plus de trois mois au moment de leur production. 
+
+Les documents en langue étrangère mentionnés au présent article sont accompagnés de leur traduction en langue française. 
+
+Le ministre chargé des transports accuse réception du dossier du demandeur dans un délai d'un mois à compter de sa réception
+et l'informe, le cas échéant, de tout document manquant. Il statue sur la demande d'inscription par une décision motivée qui
+doit intervenir dans un délai de trois mois à compter de la date de réception du dossier complet présenté par l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°74-472 du 17 mai 1974, v. init.
+  - Décret n°95-493 du 25 avril 1995 (V)
+  - Code de la route. - art. L326-2
+  - Code de la route. - art. L326-4 (V)
+  - Code de la route. - art. L326-6
+  - Code de la route. - art. L326-7
+  - Code de la route. - art. L326-9
+  - Code de la route. - art. L327-1
+  - Code de la route. - art. L327-6
+  - Code de la route. - art. R326-11 (V)
+
+_Codifié par_:
+
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -27168,14 +27250,14 @@ _Cité par_:
   - Code de la route. - art. R326-12 (V)
   - Code de la route. - art. R342-3 (V)
 
+_Modifié par_:
+
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
+
 _Anciens textes_:
 
   - Code de la route - art. R294-4 (Ab)
   - Code de la route R294-4
-
-_Cite_:
-
-  - Code de la route. - art. L326-3 (M)
 
 **Liens**:
 
@@ -27191,42 +27273,39 @@ _Nouveaux textes_:
 
 ###### Article R326-6
 
-I. - La commission nationale instituée par l'article L. 326-3 comprend :
+La déclaration mentionnée au II de l'article L. 326-4 tient lieu de demande de première inscription à titre temporaire sur la
+liste des experts en automobile. 
 
-1° Un président, conseiller en activité ou honoraire à la Cour de cassation, désigné par le ministre de la justice sur
-proposition du premier président de la Cour de cassation ;
+Elle est adressée au ministre chargé des transports et doit être accompagnée des documents suivants lorsqu'elle est souscrite
+pour la première fois ou en cas de changement matériel relatif à la situation établie par eux : 
 
-2° Cinq représentants de l'Etat, dont deux désignés par le ministre chargé des transports, un par le ministre chargé des
-assurances, un par le ministre de l'intérieur et un par le ministre chargé de la consommation ;
+1° Une preuve de l'identité et de la nationalité du prestataire ; 
 
-3° Quatre experts en automobile désignés par le ministre chargé des transports, sur proposition des organisations
-professionnelles ;
+2° Une attestation certifiant que le prestataire est légalement établi dans un autre Etat membre de l'Union européenne ou
+dans un autre Etat partie à l'accord sur l'Espace économique européen pour y exercer la profession d'expert en automobile, et
+qu'il n'encourt, lorsque l'attestation est délivrée, aucune interdiction même temporaire d'exercer ; 
 
-4° Deux représentants des consommateurs désignés par le ministre chargé de la consommation, pris dans une liste proposée par
-le collège de consommateurs du conseil national de la consommation ;
+3° Une preuve de ses qualifications professionnelles ; 
 
-5° Deux représentants des entreprises d'assurance désignés par le ministre chargé des assurances. Les représentants des
-consommateurs ne peuvent appartenir aux catégories mentionnées aux 3° et 5° du présent article.
+4° Lorsque la profession d'expert en automobile ou la formation y conduisant n'est pas réglementée dans l'Etat
+d'établissement, la preuve par tout moyen que le prestataire a exercé cette profession pendant au moins deux années au cours
+des dix années précédentes ; 
 
-Un suppléant de chaque membre titulaire de la commission est désigné dans les mêmes conditions.
+5° Une preuve que le prestataire est couvert par un contrat d'assurance garantissant la responsabilité civile qu'il peut
+encourir en raison des activités mentionnées à l'article L. 326-4 ; 
 
-II. - Les membres titulaires et suppléants de la commission sont nommés pour trois ans par arrêté du ministre chargé des
-transports.
-
-Il est procédé au remplacement du membre titulaire ou suppléant qui perd la qualité au titre de laquelle il a été désigné ou
-qui ne peut plus exercer ses fonctions. Le nouveau membre siège pour la durée du mandat restant à courir. Sauf s'il s'agit du
-président, il n'est pas procédé au remplacement d'un membre de la commission si l'on se trouve à moins de six mois du
-renouvellement général de la commission, à moins que la condition de quorum prévue à l'article R. 326-7 l'exige.
+La déclaration et les documents joints peuvent être transmis par tout moyen. Les documents en langue étrangère sont
+accompagnés de leur traduction en langue française.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
 
 _Cité par_:
 
@@ -27242,8 +27321,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L326-3 (M)
-  - Code de la route. - art. R326-7 (M)
+  - Code de la route. - art. L326-4
 
 _Nouveaux textes_:
 
@@ -27252,24 +27330,18 @@ _Nouveaux textes_:
 
 ###### Article R326-7
 
-La commission se réunit sur convocation de son président qui fixe l'ordre du jour.
-
-La commission ne peut valablement délibérer que si au moins la moitié de ses membres sont présents. Si ce quorum n'est pas
-atteint, une deuxième réunion est convoquée sur le même ordre du jour. La commission peut alors valablement délibérer quel
-que soit le nombre des membres présents.
-
-Les décisions de la commission sont prises à la majorité des membres présents. En cas de partage égal des voix, celle du
-président est prépondérante.
+Le ministre chargé des transports peut demander, le cas échéant, au prestataire de justifier qu'il possède les connaissances
+linguistiques nécessaires à l'exercice des fonctions d'expert en automobile en France.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
 
 _Anciens textes_:
 
@@ -27288,21 +27360,39 @@ _Nouveaux textes_:
 
 ###### Article R326-8
 
-La commission établit son règlement intérieur.
+Le ministre chargé des transports procède à la vérification des qualifications professionnelles de l'expert relevant du II de
+l'article L. 326-4 au vu des pièces prévues à l'article R. 326-6, dans un délai d'un mois à compter de leur réception ainsi
+que de la déclaration qu'elles accompagnent et inscrit le prestataire sur la liste pour une durée d'un an. 
 
-Le secrétariat de la commission est assuré par le service désigné par le ministre chargé des transports.
+A l'issue du délai mentionné à l'alinéa précédent, en l'absence de demande de complément d'information ou de notification du
+résultat de la vérification des qualifications, l'expert est réputé être inscrit sur la liste. 
+
+Un arrêté du ministre chargé des transports fixe les modalités d'application du présent article, et notamment les conditions
+dans lesquelles le prestataire peut être soumis à un entretien professionnel, si l'examen des documents prévus à l'article R.
+326-6 fait apparaître une différence substantielle entre les qualifications professionnelles du prestataire et celles
+requises pour exercer l'activité en France, et dans la mesure où cette différence est de nature à nuire à la sécurité des
+personnes. 
+
+Si, à l'issue de la première année, le prestataire souhaite à nouveau exercer son activité de manière temporaire et
+occasionnelle, il adresse au ministre chargé des transports une demande de renouvellement de son inscription sur la liste
+pour une durée d'un an. Cette demande de renouvellement est accompagnée du document prévu au 5° de l'article 326-6.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-163 du 22 février 2010 - art. 7
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
 
 _Anciens textes_:
 
   - Code de la route - art. R294-8 (Ab)
   - Code de la route R294-8
   - Code de la route. - art. R327-8 (M)
+
+_Cite_:
+
+  - Code de la route. - art. L326-4
+  - Code de la route. - art. R326-6 (V)
 
 _Nouveaux textes_:
 
@@ -27311,27 +27401,37 @@ _Nouveaux textes_:
 
 ###### Article R326-9
 
-La liste des experts en automobile est publiée avant le 31 décembre de chaque année au Bulletin officiel du ministère chargé
-des transports.
+A la demande d'une autorité compétente d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique
+européen sur le territoire duquel un expert en automobile exécute ou déclare vouloir exécuter une prestation de services, le
+ministre chargé des transports communique à cette autorité :
 
-Tout changement de situation ou de condition d'exercice professionnel survenant entre deux publications et entraînant une
-modification de la liste fait l'objet d'une publication distincte.
+- toute information pertinente sur la légalité de l'établissement en France de l'expert concerné. Si l'expert est, à la date
+de la communication, sous le coup d'une décision rendue en application de l'article R. 326-12, mention en est faite ;
+
+- les sanctions disciplinaires prononcées, le cas échéant, par le ministre chargé des transports à l'encontre de cet
+expert ; 
+
+Cette communication ne porte pas atteinte au caractère confidentiel des renseignements fournis.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
 
 _Anciens textes_:
 
   - Code de la route - art. R294-9 (Ab)
   - Code de la route R294-9
   - Code de la route. - art. R327-9 (M)
+
+_Cite_:
+
+  - Code de la route. - art. R326-12 (V)
 
 _Nouveaux textes_:
 
@@ -27340,53 +27440,10 @@ _Nouveaux textes_:
 
 ###### Article R326-10
 
-Toute personne, à l'exception de celles visées au II de l'article L. 326-4, souhaitant être inscrite sur la liste des experts
-en automobile doit en faire la demande au secrétariat de la commission. Cette demande est accompagnée des pièces
-justificatives suivantes : 
-
-1° Un document établissant l'état civil de l'intéressé ; 
-
-2° La copie, suivant le cas :
-
-- soit du brevet professionnel d'expert en automobile ou de la reconnaissance de la qualité d'expert en automobile prévus par
-le décret n° 74-472 du 17 mai 1974 relatif aux experts en automobile, ou du diplôme d'expert en automobile prévu par le
-décret n° 95-493 du 25 avril 1995 portant création et règlement général du diplôme d'expert en automobile, ou du relevé de
-notes du diplôme d'expert en automobile délivré par le recteur d'académie ;
-
-- soit d'un titre délivré par un autre Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur
-l'Espace économique européen ou d'un titre reconnu par l'un de ces Etats, équivalents aux titres mentionnés à l'alinéa
-précédent ;
-
-- soit de toute pièce de nature à établir l'expérience professionnelle acquise par l'intéressé en matière d'expertise
-automobile dans l'un des Etats mentionnés à l'alinéa précédent dans les conditions fixées par arrêté du ministre chargé des
-transports ; 
-
-3° Une déclaration sur l'honneur du demandeur attestant qu'il ne détient pas de charge d'officier public ou ministériel et
-n'exerce pas une activité incompatible avec la qualité d'expert en automobile, conformément aux dispositions de l'article L.
-326-6. 
-
-La commission peut, en outre, demander à l'intéressé de fournir tout autre document ou renseignement utile, notamment son
-contrat de travail s'il s'agit d'un expert salarié, afin de lui permettre de vérifier que la condition d'indépendance est
-remplie ; 
-
-4° Un document justificatif de l'assurance obligatoire prévue par l'article L. 326-7 ; 
-
-5° Un extrait du bulletin n° 3 du casier judiciaire, ou pour les ressortissants étrangers un document équivalent, accompagné
-d'une déclaration sur l'honneur de l'intéressé selon laquelle il n'a fait l'objet d'aucune des condamnations pénales prévues
-à l'article L. 326-2 et n'est pas sous le coup d'un jugement rendu en application de l'article L. 326-9 lui interdisant
-d'exercer l'activité d'expert en automobile ; 
-
-6° La copie de l'attestation justifiant que le demandeur a suivi la formation dans les conditions prévues à l'article R.
-326-17 lorsqu'il sollicite la reconnaissance de sa qualification pour le contrôle des véhicules endommagés prévue par les
-articles L. 327-1 à L. 327-6. 
-
-Les pièces visées aux 4° et 5° ne peuvent dater de plus de trois mois au moment de leur production. 
-
-Les documents en langue étrangère visés au présent article sont accompagnés de leur traduction en langue française. 
-
-La commission accuse réception du dossier du demandeur dans un délai d'un mois à compter de sa réception et l'informe, le cas
-échéant, de tout document manquant. Elle statue sur la demande d'inscription par une décision motivée qui doit intervenir
-dans un délai de trois mois à compter de la date de réception du dossier complet présenté par l'intéressé.
+Les experts inscrits sur la liste signalent au ministre chargé des transports, dans les trente jours, tous les événements
+pouvant avoir des conséquences sur leur inscription, notamment les changements de lieu d'exercice professionnel, les
+cessations temporaires ou définitives d'activité ainsi que toute circonstance ou activité nouvelle incompatible avec
+l'activité d'expert en automobile.
 
 **Liens relatifs à cet article**
 
@@ -27405,149 +27462,35 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2010-163 du 22 février 2010 - art. 8
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
 
 _Cité par_:
 
   - Code de la route. - art. R326-12 (V)
 
 
-###### Article R326-10-1
-
-La déclaration mentionnée au II de l'article L. 326-4 tient lieu de demande de première inscription à titre temporaire sur la
-liste des experts en automobile. 
-
-Elle est adressée au secrétariat de la commission et doit être accompagnée des documents suivants lorsqu'elle est souscrite
-pour la première fois ou en cas de changement matériel relatif à la situation établie par eux : 
-
-1° Une preuve de l'identité et de la nationalité du prestataire ; 
-
-2° Une attestation certifiant que le prestataire est légalement établi dans un autre Etat membre de l'Union européenne ou
-dans un autre Etat partie à l'accord sur l'Espace économique européen pour y exercer la profession d'expert en automobile, et
-qu'il n'encourt, lorsque l'attestation est délivrée, aucune interdiction même temporaire d'exercer ; 
-
-3° Une preuve de ses qualifications professionnelles ; 
-
-4° Lorsque la profession d'expert en automobile n'est pas réglementée dans l'Etat d'établissement, la preuve par tout moyen
-que le prestataire a exercé cette profession pendant au moins deux années au cours des dix années précédentes ; 
-
-5° Une preuve que le prestataire est couvert par un contrat d'assurance garantissant la responsabilité civile qu'il peut
-encourir en raison des activités mentionnées à l'article L. 326-4 ; 
-
-La déclaration et les documents joints peuvent être transmis par tout moyen. Les documents en langue étrangère sont
-accompagnés de leur traduction en langue française.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-163 du 22 février 2010 - art. 9
-
-_Cité par_:
-
-  - Arrêté du 23 février 2010 - art. 1 (Ab)
-  - Arrêté du 23 février 2010 - art. 4 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°2011-760 du 28 juin 2011 - art. 1
-
-_Cite_:
-
-  - Code de la route. - art. L326-4
-
-
-###### Article R326-10-2
-
-La commission peut demander, le cas échéant, au prestataire de justifier qu'il possède les connaissances linguistiques
-nécessaires à l'exercice des fonctions d'expert en automobile en France.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-163 du 22 février 2010 - art. 9
-
-_Abrogé par_:
-
-  - Décret n°2011-760 du 28 juin 2011 - art. 1
-
-
-###### Article R326-10-3
-
-La commission procède, au vu des pièces prévues à l'article R. 326-10-1, à la vérification des qualifications
-professionnelles de l'expert dans un délai d'un mois à compter de la réception de la déclaration et des documents prévus à
-l'article R. 326-10-1 et inscrit le prestataire sur la liste nationale pour une durée d'un an. 
-
-En l'absence de demande de complément d'information ou de notification du résultat de la vérification des qualifications, la
-prestation dont la nature est décrite dans la déclaration peut être effectuée à l'issue du délai d'un mois à compter de la
-réception de la déclaration par la commission. 
-
-Un arrêté du ministre chargé des transports fixe les modalités d'application du présent article, et notamment les conditions
-dans lesquelles la commission peut décider de soumettre le prestataire à un entretien professionnel, si l'examen des
-documents prévus à l'article R. 326-10-1 fait apparaître une différence substantielle entre les qualifications
-professionnelles du prestataire et celles requises pour exercer l'activité en France, et dans la mesure où cette différence
-est de nature à nuire à la sécurité des personnes. 
-
-Si, à l'issue de la première année, le prestataire souhaite à nouveau prester des services de manière temporaire et
-occasionnelle, il adresse à la commission une demande de renouvellement de son inscription sur la liste nationale pour une
-durée d'un an. Cette demande de renouvellement est accompagnée du document prévu au 5° de l'article R. 326-10-1.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-163 du 22 février 2010 - art. 9
-
-_Abrogé par_:
-
-  - Décret n°2011-760 du 28 juin 2011 - art. 1
-
-
-###### Article R326-10-4
-
-A la demande d'une autorité compétente d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique
-européen sur le territoire duquel un expert en automobile exécute ou déclare vouloir exécuter une prestation de services, le
-service désigné par le ministre chargé des transports communique à cette autorité :
-
-- toute information pertinente sur la légalité de l'établissement en France de l'expert concerné. Si l'expert est, à la date
-de la communication, sous le coup d'une décision rendue en application de l'article R. 326-12, mention en est faite ;
-
-- les sanctions disciplinaires prononcées le cas échéant par la commission nationale des experts en automobile à l'encontre
-de cet expert. 
-
-Cette communication ne porte pas atteinte au caractère confidentiel des renseignements fournis.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-163 du 22 février 2010 - art. 9
-
-_Abrogé par_:
-
-  - Décret n°2011-760 du 28 juin 2011 - art. 1
-
-_Cite_:
-
-  - Code de la route. - art. R326-12
-
-
 ###### Article R326-11
 
-Les experts inscrits sur la liste signalent à la commission, dans les trente jours, tous les événements pouvant avoir des
-conséquences sur leur inscription, notamment les changements de lieu d'exercice professionnel, les cessations temporaires ou
-définitives d'activité ainsi que toute circonstance ou activité nouvelle incompatible avec l'activité d'expert en automobile.
+La qualification des experts en automobile pour le contrôle des véhicules endommagés prévue par les articles L. 327-1 à L.
+327-5 est acquise après une formation dispensée dans les conditions définies par arrêté du ministre chargé des transports. 
+
+Elle est également accordée, dans des conditions fixées par arrêté du ministre chargé des transports, aux experts ayant
+bénéficié d'une formation dispensée dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur
+l'Espace économique européen ou établissant avoir une expérience professionnelle en matière de contrôle des véhicules
+endommagés acquise dans l'un de ces Etats, dès lors que cette formation ou cette expérience professionnelle permettent de
+justifier que les objectifs de la formation mentionnée à l'alinéa précédent sont acquis. 
+
+La liste des experts en automobile mentionne pour chaque expert concerné cette qualification.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
 
 _Cité par_:
 
@@ -27555,26 +27498,33 @@ _Cité par_:
   - Code de la route. - art. R326-14 (V)
   - Code de la route. - art. R326-5 (V)
 
+_Cite_:
+
+  - Code de la route. - art. L327-1
+  - Code de la route. - art. L327-5
+
 
 ###### Article R326-12
 
-La commission vérifie chaque année que l'expert inscrit remplit les conditions requises par l'article R. 326-10, sauf si
-celui-ci a été inscrit à titre temporaire en application du II de l'article L. 326-4. 
+Le ministre chargé des transports vérifie chaque année que l'expert inscrit remplit les conditions requises par l'article R.
+326-5 sauf si celui-ci a été inscrit à titre temporaire en application du II de l'article L. 326-4. 
 
-Elle peut, à tout moment, si elle constate qu'un expert ne remplit plus les conditions exigées, prononcer sa suspension
-pendant le temps nécessaire à la régularisation de sa situation ou sa radiation, après lui avoir imparti un délai pour
-présenter ses observations.
+Le ministre chargé des transports constatant qu'un expert ne remplit plus les conditions exigées par la réglementation pour
+l'exercice de sa profession peut à tout moment lui demander, par courrier, de régulariser sa situation. 
+
+En l'absence de régularisation, dans le délai d'un mois, le ministre chargé des transports peut décider de la suspension de
+l'expert jusqu'à régularisation effective.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-163 du 22 février 2010 - art. 10
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
 
 _Cite_:
 
   - Code de la route. - art. L326-4
-  - Code de la route. - art. R326-10
+  - Code de la route. - art. R326-5 (V)
 
 _Cité par_:
 
@@ -27584,151 +27534,14 @@ _Cité par_:
 
 ###### Article R326-13
 
-En cas de faute ou de manquement par un expert aux conditions d'exercice de son activité professionnelle, la commission peut
-prononcer l'une des sanctions suivantes : un avertissement, un blâme, la suspension de l'exercice de son activité
-professionnelle pour une durée ne pouvant excéder trois ans ou la radiation de la liste nationale des experts en automobile
-avec interdiction de solliciter une nouvelle inscription pendant cinq ans.
+La liste des experts en automobile est consultable sur le site internet de la sécurité routière. 
 
-La suspension peut être limitée à la qualification mentionnée à l'article R. 326-17.
+La mise à jour de la liste des experts en automobile sur le site internet de la sécurité routière intervient à tout moment
+suite à un changement de situation ou de condition d'exercice professionnel nécessitant une mise à jour de cette liste ou
+encore suite à une décision de suspension ou de radiation d'un expert. 
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Créé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-_Cite_:
-
-  - Code de la route. - art. R326-17 (V)
-
-
-###### Article R326-14
-
-I. - La procédure disciplinaire est engagée à l'initiative de l'un des ministres mentionnés à l'article R. 326-6, du préfet,
-du procureur de la République ou du président de la commission agissant d'office ou sur plainte d'un tiers.
-
-II. - Le président désigne pour chaque affaire un rapporteur, fonctionnaire de catégorie A ou assimilé n'appartenant pas à la
-commission.
-
-Le rapporteur désigné peut se faire assister de toute personne nécessaire à l'exercice de sa mission. Il entend l'expert si
-celui-ci le demande ou s'il le juge utile, ainsi que toute personne nécessaire à l'instruction ou dont la plainte est à
-l'origine de la procédure engagée. Le rapporteur doit respecter le caractère contradictoire de la procédure. Il consigne le
-résultat de ses auditions par écrit.
-
-Si le président décide de ne pas donner suite à une plainte, il en informe son auteur.
-
-III. - Les griefs formulés à l'encontre de l'expert mis en cause lui sont notifiés par lettre recommandée du président de la
-commission avec avis de réception ou remise contre récépissé. L'intéressé est informé, lors de la notification des griefs,
-qu'il peut prendre connaissance et copie, en personne ou par mandataire, des pièces du dossier qui sera soumis à la
-commission. Il est également informé de la possibilité de se faire assister d'un défenseur et du délai dont il dispose et qui
-ne peut être inférieur à un mois pour présenter ses observations écrites.
-
-IV. - L'expert mis en cause et, le cas échéant, son défenseur sont convoqués un mois au moins avant la réunion de la
-commission, par lettre recommandée avec avis de réception ou remise contre récépissé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Créé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-_Cite_:
-
-  - Code de la route. - art. R326-6 (M)
-
-
-###### Article R326-15
-
-Le président dirige les débats. La commission entend l'expert mis en cause et, le cas échéant, son défenseur. La commission
-peut, en outre, à la demande du président, entendre toute personne dont l'audition lui paraît utile. Si l'intéressé n'est ni
-présent ni représenté et qu'il a adressé un mémoire au président, le rapporteur donne connaissance du contenu de ce mémoire.
-
-Lorsque l'intéressé ne se présente pas, la commission apprécie si elle doit ou non passer aux débats. La réunion de la
-commission n'est pas publique sauf si l'expert mis en cause en fait la demande. Le rapporteur présente l'affaire. La
-commission délibère en la seule présence des membres de la commission, du rapporteur et de la personne qui assure le
-secrétariat. Ces deux dernières personnes ne prennent pas part au vote.
-
-La décision est signée par le président et le secrétaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Créé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-
-###### Article R326-16
-
-La décision de la commission est notifiée à l'expert mis en cause. La notification indique que la décision de la commission
-peut faire l'objet d'une demande d'annulation devant la juridiction administrative compétente.
-
-Les décisions de suspension ou de radiation sont publiées au Bulletin officiel du ministère chargé des transports.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Créé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2011-760 du 28 juin 2011 - art. 1
-
-
-###### Article R326-17
-
-La qualification des experts en automobile pour le contrôle des véhicules endommagés prévu par les articles L. 327-1 à L.
-327-5 est acquise après une formation dispensée dans les conditions définies par arrêté du ministre chargé des transports
-pris après avis du ministre chargé de l'enseignement supérieur. 
-
-Elle est également accordée, dans des conditions fixées par arrêté du ministre chargé des transports, aux experts ayant reçu
-une formation dispensée dans un autre Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen équivalente à la formation mentionnée au premier alinéa ou établissant avoir une expérience
-professionnelle en matière de contrôle des véhicules endommagés acquise dans l'un de ces Etats. 
-
-La liste des experts en automobile mentionne pour chaque expert concerné cette qualification.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-397 du 10 avril 2009 - art. 3
-
-_Cité par_:
-
-  - Arrêté du 29 avril 2009 - art. 2 (V)
-  - Arrêté du 26 juillet 2011 - art. (V)
-  - Code de la route. - art. R326-10 (V)
-  - Code de la route. - art. R326-13 (V)
-  - Code de la route. - art. R327-1 (V)
-  - Code de la route. - art. R327-2 (V)
-  - Code de la route. - art. R327-3 (V)
-  - Code de la route. - art. R342-5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-760 du 28 juin 2011 - art. 1
-
-
-###### Article R326-18
-
-Le ministre chargé des transports fixe par arrêté les modalités d'application du présent chapitre.
+II. - Les décisions de suspension ou de radiation sont consultables sur le site mentionné au I pendant la durée de leur
+effet.
 
 **Liens relatifs à cet article**
 
@@ -27736,13 +27549,63 @@ _Codifié par_:
 
   - Décret n°2001-251 du 22 mars 2001
 
-_Créé par_:
-
-  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2011-760 du 28 juin 2011 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. R326-17
+
+
+###### Article R326-14
+
+I.-La procédure disciplinaire peut être engagée à l'encontre d'un expert en automobile, en cas de faute ou de manquement aux
+conditions d'exercice de son activité professionnelle, par le ministre chargé des transports, de sa propre initiative ou s'il
+est saisi d'une demande en ce sens. 
+
+II.-Le ministre notifie à l'expert mis en cause les griefs formulés à son encontre par lettre recommandée avec avis de
+réception ou par remise contre récépissé. Il en informe, le cas échéant, le demandeur. Il désigne pour chaque affaire un
+rapporteur n'appartenant pas à la Commission nationale des experts en automobile mentionnée à l'article L. 326-5. 
+
+Lorsque les griefs formulés à son encontre lui sont notifiés, l'expert mis en cause est informé qu'il peut prendre
+connaissance et copie, en personne ou par mandataire, des pièces du dossier qui sera soumis aux membres de la commission,
+notamment du rapport établi par le rapporteur et des éventuelles restitutions écrites de ses auditions. Il est également
+informé de la possibilité de se faire assister d'un défenseur et du délai dont il dispose, qui ne peut être inférieur à un
+mois, pour présenter ses observations écrites. 
+
+Le rapporteur désigné peut se faire assister de toute personne nécessaire à l'exercice de sa mission. Il entend l'expert si
+celui-ci le demande ou s'il le juge utile ainsi que toute personne nécessaire à l'instruction ou dont la demande est à
+l'origine de la procédure engagée. Il consigne le résultat de ses auditions par écrit. Il établit un rapport, au vu de
+l'ensemble des éléments du dossier. 
+
+III.-Au vu du rapport du rapporteur et après avoir, le cas échéant, entendu l'expert mis en cause, la Commission nationale
+des experts en automobile émet un avis motivé sur la sanction susceptible d'être prononcée par le ministre chargé des
+transports à l'encontre de l'intéressé parmi les sanctions suivantes : l'avertissement, le blâme, l'interdiction de
+l'exercice de son activité professionnelle pour une durée n'excédant pas trois ans ou la radiation de la liste des experts en
+automobile avec interdiction de solliciter une nouvelle inscription pendant cinq ans. La radiation peut être limitée à la
+qualification mentionnée à l'article R. 326-11. Les sanctions peuvent être assorties d'un sursis total ou partiel. 
+
+Au vu de l'avis de la commission, le ministre chargé des transports notifie à l'expert mis en cause la sanction envisagée.
+Celui-ci dispose d'un délai d'un mois pour présenter ses observations. A l'issue de ce délai, compte tenu, le cas échéant,
+des observations formulées par l'expert mis en cause, le ministre chargé des transports prend une décision, qu'il notifie à
+l'intéressé. La notification mentionne que la décision peut faire l'objet d'un recours de pleine juridiction devant la
+juridiction administrative compétente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2011-760 du 28 juin 2011 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. L326-5
+  - Code de la route. - art. R326-11 (V)
 
 
 #### Chapitre VII : Véhicules endommagés<a id=154></a>
