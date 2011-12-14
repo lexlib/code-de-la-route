@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-09-08
+Version Consolidée au 2011-12-15
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -41,7 +41,7 @@ Version Consolidée au 2011-09-08
         - [Chapitre 8 : Energie, émissions polluantes et nuisances. (art. L318-1 à L318-4)](#38)
       - [Titre 2 : Dispositions administratives (art. L321-1 à L327-6)](#39)
         - [Chapitre 1er : Réception et homologation. (art. L321-1 à L321-6)](#40)
-        - [Chapitre 2 : Immatriculation. (art. L322-1 à L322-2)](#41)
+        - [Chapitre 2 : Immatriculation. (art. L322-1 à L322-3)](#41)
         - [Chapitre 3 : Contrôle technique. (art. L323-1)](#42)
         - [Chapitre 4 : Assurance. (art. L324-1 à L324-2)](#43)
         - [Chapitre 5 : Immobilisation et mise en fourrière. (art. L325-1 à L325-13)](#44)
@@ -410,9 +410,11 @@ _Cité par_:
 Par dérogation aux dispositions de l'article L. 121-1, le titulaire du certificat d'immatriculation du véhicule est
 responsable pécuniairement des infractions à la réglementation sur le stationnement des véhicules ou sur l'acquittement des
 péages pour lesquelles seule une peine d'amende est encourue, à moins qu'il n'établisse l'existence d'un événement de force
-majeure ou qu'il ne fournisse des renseignements permettant d'identifier l'auteur véritable de l'infraction.
+majeure ou qu'il ne fournisse des renseignements permettant d'identifier l'auteur véritable de l'infraction. 
 
-Dans le cas où le véhicule était loué à un tiers, cette responsabilité pèse, avec les mêmes réserves, sur le locataire.
+Dans le cas où le véhicule était loué à un tiers, cette responsabilité pèse, avec les mêmes réserves, sur le locataire. 
+
+Dans le cas où le véhicule a été cédé, cette responsabilité pèse, avec les mêmes réserves, sur l'acquéreur du véhicule. 
 
 Lorsque le certificat d'immatriculation du véhicule est établi au nom d'une personne morale, la responsabilité pécuniaire
 prévue au premier alinéa incombe, sous les mêmes réserves, au représentant légal de cette personne morale.
@@ -421,12 +423,8 @@ prévue au premier alinéa incombe, sous les mêmes réserves, au représentant 
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-_Modifié par_:
-
-  - Loi n°2003-495 du 12 juin 2003 - art. 8 () JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Cité par_:
 
@@ -442,10 +440,13 @@ _Cité par_:
   - Code de procédure pénale - art. A37-33 (V)
   - Code de procédure pénale - art. R49-8-4-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 31
+
 _Anciens textes_:
 
   - Code de la route - art. L21-1 (Ab)
-  - Code de la route L21-1
 
 **Liens**:
 
@@ -478,11 +479,14 @@ cette personne morale.
 Lorsque le véhicule était loué à un tiers, la responsabilité pécuniaire prévue au premier alinéa incombe au locataire, sous
 les réserves prévues au premier alinéa de l'article L. 121-2.
 
+Dans le cas où le véhicule a été cédé, la responsabilité pécuniaire prévue au premier alinéa du présent article incombe, sous
+les réserves prévues au premier alinéa de l'article L. 121-2, à l'acquéreur du véhicule.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 164
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 31
 
 _Cité par_:
 
@@ -6408,6 +6412,21 @@ _Cité par_:
   - Code de la route. - art. R322-15 (V)
 
 
+###### Article L322-3
+
+Est puni de deux ans d'emprisonnement et de 30 000 € d'amende tout propriétaire qui fait une déclaration mensongère
+certifiant la cession de son véhicule. 
+
+La personne coupable du délit prévu au présent article encourt également la peine complémentaire de confiscation de son
+véhicule.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 31
+
+
 #### Chapitre 3 : Contrôle technique.<a id=42></a>
 
 ###### Article L323-1
@@ -6756,7 +6775,7 @@ en fourrière du véhicule.
 
 Si la juridiction ne prononce pas la peine de confiscation du véhicule, celui-ci est restitué à son propriétaire, sous
 réserve des dispositions du troisième alinéa. Si la confiscation est ordonnée, le véhicule est remis à l'Agence de gestion et
-de recouvrement des avoirs saisis et confisqués  en vue de sa destruction ou de son aliénation. Les frais d'enlèvement et de
+de recouvrement des avoirs saisis et confisqués en vue de sa destruction ou de son aliénation. Les frais d'enlèvement et de
 garde en fourrière sont à la charge de l'acquéreur. Le produit de la vente est tenu, le cas échéant, à la disposition du
 créancier gagiste pouvant justifier de ses droits, pendant un délai de deux ans. A l'expiration de ce délai, ce produit est
 acquis à l'Etat.
@@ -6764,6 +6783,10 @@ acquis à l'Etat.
 Si la juridiction prononce la peine d'immobilisation du véhicule, celui-ci n'est restitué au condamné qu'à l'issue de la
 durée de l'immobilisation fixée par la juridiction contre paiement des frais d'enlèvement et de garde en fourrière, qui sont
 à la charge de ce dernier.
+
+En cas de relaxe, le propriétaire dont le véhicule a été mis en fourrière sur autorisation du procureur de la République
+peut, selon des modalités précisées par arrêté du ministre de la justice, demander à l'Etat le remboursement, au titre des
+frais de justice, des frais d'enlèvement et de garde en fourrière qu'il a dû acquitter pour récupérer son véhicule.
 
 **Liens relatifs à cet article**
 
@@ -6774,7 +6797,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 81
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 31
 
 _Cité par_:
 
@@ -8363,7 +8386,11 @@ l'acquéreur.
 
 " Si la juridiction prononce la peine d'immobilisation du véhicule, celui-ci n'est restitué au condamné qu'à l'issue de la
 durée d'immobilisation fixée par la juridiction contre paiement des frais d'enlèvement et de garde en fourrière, qui sont à
-la charge de ce dernier. 
+la charge de ce dernier.
+
+En cas de relaxe, le propriétaire dont le véhicule a été mis en fourrière sur autorisation du procureur de la République
+peut, selon des modalités précisées par arrêté du ministre de la justice, demander à l'Etat le remboursement, au titre des
+frais de justice, des frais d'enlèvement et de garde en fourrière qu'il a dû acquitter pour récupérer son véhicule. 
 
 " Art. L. 325-2 - Pour l'application des articles L. 325-1 et L. 325-1-1 et sur prescription de l'officier de police
 judiciaire territorialement compétent, les fonctionnaires de police en tenue et les militaires de la gendarmerie habilités à
@@ -8458,7 +8485,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-884 du 27 juillet 2011 - art. 19
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 31
 
 _Cite_:
 
