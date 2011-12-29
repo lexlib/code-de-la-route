@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-12-15
+Version Consolidée au 2011-12-30
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -6638,16 +6638,17 @@ police ou à la réglementation relative à l'assurance obligatoire des véhicul
 des marchandises dangereuses par route compromettent la sécurité ou le droit à réparation des usagers de la route, la
 tranquillité ou l'hygiène publique, l'esthétique des sites et des paysages classés, la conservation ou l'utilisation normale
 des voies ouvertes à la circulation publique et de leurs dépendances, notamment par les véhicules de transport en commun,
-peuvent à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement compétent,
-même sans l'accord du propriétaire du véhicule, dans les cas et conditions précisés par le décret prévu aux articles L. 325-3
-et L. 325-11, être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la
-destruction.
+ainsi que les véhicules en infraction aux dispositions des articles 269 à 283 ter et 285 septies du code des douanes, peuvent
+à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement compétent, même sans
+l'accord du propriétaire du véhicule, dans les cas et conditions précisés par le décret prévu aux articles L. 325-3 et L.
+325-11, être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la
+destruction. 
 
 Peuvent également, à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement
 compétent, même sans l'accord du propriétaire du véhicule, être immobilisés, mis en fourrière, retirés de la circulation et,
 le cas échéant, aliénés ou livrés à la destruction les véhicules qui, se trouvant sur les voies ouvertes à la circulation
 publique ou sur leurs dépendances, sont privés d'éléments indispensables à leur utilisation normale et insusceptibles de
-réparation immédiate à la suite de dégradations ou de vols.
+réparation immédiate à la suite de dégradations ou de vols. 
 
 L'immobilisation des véhicules se trouvant dans l'une des situations prévues aux deux alinéas précédents peut également être
 décidée, dans la limite de leur champ de compétence, par les agents habilités à constater les infractions au présent code
@@ -6771,21 +6772,24 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 24 () JORF 7 mars 2007
+  - Loi n°2003-239 du 18 mars 2003 - art. 87
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
+
+_Cite_:
+
+  - Code des douanes - art. 269 (V)
+  - Code des douanes - art. 285 septies (V)
+  - Code de la route. - art. L325-11
 
 _Anciens textes_:
 
   - Code de la route - art. L25 (Ab)
   - Code de la route L25 (al. 1)
-
-_Cite_:
-
-  - Code de la route. - art. L325-11 (M)
 
 **Liens**:
 
