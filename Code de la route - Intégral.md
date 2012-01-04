@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-12-31
+Version Consolidée au 2012-01-05
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -99,7 +99,7 @@ Version Consolidée au 2011-12-31
       - [Titre III : Comportement du conducteur. (art. R231-1 à R235-13)](#96)
         - [Chapitre Ier : Comportement en cas d'accident. (art. R231-1)](#97)
         - [Chapitre III : Comportement en cas de contrôle routier. (art. R233-1 à R233-3)](#98)
-        - [Chapitre IV : Conduite sous l'influence de l'alcool. (art. R234-1 à R234-5)](#99)
+        - [Chapitre IV : Conduite sous l'influence de l'alcool. (art. R234-1 à R234-6)](#99)
         - [Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants (art. R235-1 à R235-13)](#100)
           - [Section 1 : Dispositions générales (art. R235-1 à R235-2)](#101)
           - [Section 2 : Epreuves de dépistage (art. R235-3 à R235-4)](#102)
@@ -10141,9 +10141,9 @@ R. 312-2 à R. 312-6, R. 312-10 à R. 312-14, R. 312-19 à R. 312-23, R. 313-1 �
 313-17 à R. 313-20, R. 314-1, R. 314-3, R. 315-1, R. 315-2, R. 316-4, R. 316-7, R. 317-1, R. 317-3, R. 317-4, R. 317-5, R.
 317-8 à R. 317-14, R. 317-18, R. 317-20, R. 317-23, R. 317-24, R. 317-26, R. 317-28, R. 318-1, R. 318-3, R. 322-1, R. 323-1,
 R. 323-2, R. 323-6, R. 323-23 à R. 323-26, R. 411-17, R. 411-18, R. 412-1, R. 412-16, R. 433-1 à R. 433-8, R. 433-11, R.
-433-12, R. 433-14 à R. 433-16, R. 435-1 et R. 436-1 ainsi que, lorsqu'elles sont commises par le conducteur d'un véhicule qui
-doit être équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux dispositions relatives aux vitesses
-maximales autorisées par le présent code ;
+433-12, R. 433-14 à R. 433-16, R. 433-20, R. 435-1 et R. 436-1 ainsi que, lorsqu'elles sont commises par le conducteur d'un
+véhicule qui doit être équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux dispositions relatives
+aux vitesses maximales autorisées par le présent code ; 
 
 2° Toutes les autres contraventions prévues aux 1° et 2° de l'article R. 130-1 lorsqu'elles sont connexes à des infractions
 aux dispositions législatives relatives à l'accès aux professions du transport ferroviaire ou guidé et du transport routier
@@ -10152,8 +10152,7 @@ ainsi qu'aux dispositions réglementaires prises pour leur application.
 
 **Nota:**
 
-Conformément à l'article 1er II du décret n° 2011-368 du 4 avril 2011, le 2° de l'article R. 130-6 s'applique à compter du
-1er décembre 2010.
+
 
 **Liens relatifs à cet article**
 
@@ -10163,7 +10162,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-368 du 4 avril 2011 - art. 1
+  - Décret n°2012-3 du 3 janvier 2012 - art. 2
 
 _Cité par_:
 
@@ -12726,35 +12725,41 @@ _Cité par_:
 
 ###### Article R221-8
 
-I.-La catégorie A du permis de conduire, obtenue avant le 1er mars 1980, ou les catégories A 2 ou A 3, obtenues entre le 1er
-mars 1980 et le 31 décembre 1984, autorise la conduite de toutes les motocyclettes. 
+I. - La catégorie A du permis de conduire, obtenue avant le 1er mars 1980, ou les catégories A 2 ou A 3, obtenues entre le
+1er mars 1980 et le 31 décembre 1984, autorise la conduite de toutes les motocyclettes.
 
 Une licence de circulation, délivrée avant le 1er avril 1958, une catégorie quelconque du permis obtenue avant le 1er mars
 1980, ou la catégorie A 1 du permis obtenue entre le 1er mars 1980 et le 31 décembre 1984, autorise la conduite des
 motocyclettes dont la cylindrée n'excède pas 125 cm3, mises en circulation pour la première fois avant le 31 décembre 1984,
-et celle des motocyclettes légères. 
+et celle des motocyclettes légères.
 
-II.-La catégorie B du permis de conduire autorise la conduite, sur le territoire national, d'une motocyclette légère à la
+II. - La catégorie B du permis de conduire autorise la conduite, sur le territoire national, d'une motocyclette légère à la
 double condition que le conducteur soit titulaire de cette catégorie de permis depuis au moins deux ans et qu'il ait suivi
-une formation pratique dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L. 213-7. 
+une formation pratique dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L. 213-7.
 
 Toutefois, la condition relative à la formation pratique n'est pas exigée des conducteurs qui justifient d'une pratique de la
-conduite d'une motocyclette légère au cours des cinq années précédant le 1er janvier 2011. La preuve de cette pratique est
-apportée par la production d'un document délivré par l'assureur et attestant la souscription d'une assurance couvrant l'usage
-d'un tel véhicule au cours de la période considérée. 
+conduite d'une motocyclette légère ou d'un véhicule de la catégorie L5e  au cours des cinq années précédant le 1er janvier
+2011. La preuve de cette pratique est apportée par la production d'un document délivré par l'assureur et attestant la
+souscription d'une assurance couvrant l'usage de l'un ou l'autre de ces véhicules au cours de la période considérée.
 
-III.-La catégorie B du permis de conduire autorise la conduite, sur le territoire national, d'un véhicule de la catégorie L5e
-à la double condition que le conducteur soit titulaire de cette catégorie de permis depuis au moins deux ans et qu'il ait
+III. - La catégorie B du permis de conduire autorise la conduite, sur le territoire national, d'un véhicule de la catégorie
+L5e à la double condition que le conducteur soit titulaire de cette catégorie de permis depuis au moins deux ans et qu'il ait
 suivi une formation pratique dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L.
 213-7.
 
 Toutefois, ces deux conditions ne sont pas exigées des conducteurs qui justifient d'une pratique de la conduite d'un véhicule
-de la catégorie L5e au cours des cinq années précédant le 1er janvier 2011. La preuve de cette pratique est apportée par la
-production d'un document délivré par l'assureur et attestant la souscription d'une assurance couvrant l'usage d'un tel
-véhicule au cours de la période considérée. 
+de la catégorie L5e ou d'une motocyclette légère  au cours des cinq années précédant le 1er janvier 2011. La preuve de cette
+pratique est apportée par la production d'un document délivré par l'assureur et attestant la souscription d'une assurance
+couvrant l'usage de l'un ou l'autre de ces véhicules au cours de la période considérée.
 
-IV.-Un arrêté conjoint du ministre chargé des transports et du ministre chargé des assurances fixe les modalités
+IV. - Un arrêté conjoint du ministre chargé des transports et du ministre chargé des assurances fixe les modalités
 d'application des II et III.
+
+**Nota:**
+
+Décret n° 2012-3 du 3 janvier 2012 art 25 : Les conducteurs et passagers d'une motocyclette d'une cylindrée supérieure à 125
+cm³ ou d'un véhicule de la catégorie L5e d'une puissance supérieure à 15 kW/h doivent se conformer à l'obligation prévue à
+l'article 23 du présent décret au plus tard le 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -12771,7 +12776,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1390 du 12 novembre 2010 - art. 4
+  - Décret n°2012-3 du 3 janvier 2012 - art. 3
 
 _Anciens textes_:
 
@@ -12780,7 +12785,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L213-1 (V)
+  - Code de la route. - art. L213-1
 
 
 ###### Article R221-9
@@ -14685,15 +14690,16 @@ _Cite_:
 
 ###### Article R225-4
 
-Les autorités judiciaires, les officiers de police judiciaire chargés de l'exécution d'une ordonnance juridictionnelle ou
-agissant dans le cadre d'une enquête de flagrance, les préfets dans l'exercice de leurs compétences en matière de permis de
-conduire, les militaires de la gendarmerie et les fonctionnaires de la police nationale habilités à effectuer des contrôles
-routiers en application des dispositions du présent code sont autorisés, dans les conditions fixées aux articles L. 225-4 et
-L. 225-5, à accéder directement aux informations prévues par ces articles.
+Les  autorités judiciaires, les juridictions administratives dans le cadre des recours formulés contre les décisions de
+retrait de points du permis de conduire, les officiers de police judiciaire chargés de l'exécution d'une ordonnance
+juridictionnelle ou agissant dans le cadre d'une enquête de flagrance, les préfets dans l'exercice de leurs compétences en
+matière de permis de conduire, les militaires de la gendarmerie et les fonctionnaires de la police nationale habilités à
+effectuer des contrôles routiers en application des dispositions du présent code sont autorisés, dans les conditions fixées
+aux articles L. 225-4 et L. 225-5, à accéder directement aux informations prévues par ces articles.
 
 Un arrêté conjoint du ministre de l'intérieur et du ministre de la justice, ou un arrêté du ministre de l'intérieur définit
 les modalités techniques et financières de l'accès à ces informations ouvert par voie téléinformatique aux autorités
-judiciaires et aux militaires de la gendarmerie.
+judiciaires, aux juridictions administratives mentionnées à l'alinéa précédent et aux militaires de la gendarmerie.
 
 Peuvent en outre accéder aux données mentionnées à l'article L. 225-4, dans les conditions fixées aux articles 9 et 33 de la
 loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la
@@ -14725,7 +14731,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2010-773 du 8 juillet 2010 - art. 4
+  - Décret n°2012-3 du 3 janvier 2012 - art. 4
 
 _Anciens textes_:
 
@@ -15224,6 +15230,30 @@ _Cité par_:
   - Code pénal - art. R131-4-1 (V)
 
 
+###### Article R234-6
+
+Tout conducteur d'un véhicule obligatoirement équipé d'un éthylotest antidémarrage doit utiliser ce dispositif préalablement
+au démarrage du véhicule.
+
+Le fait pour le conducteur de conduire un véhicule équipé d'un tel dispositif soit après que celui-ci a été utilisé par un
+tiers pour permettre le démarrage, soit après l'avoir neutralisé ou détérioré ou l'avoir utilisé dans des conditions
+empêchant la mesure exacte de son état d'imprégnation alcoolique est puni de l'amende prévue pour les contraventions de la
+quatrième classe.
+
+Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
+contravention prévue à l'alinéa précédent est puni de la même peine.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2012-3 du 3 janvier 2012 - art. 5
+
+_Cité par_:
+
+  - Code de la route. - art. R130-6 (VD)
+
+
 #### Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants<a id=100></a>
 
 ##### Section 1 : Dispositions générales<a id=101></a>
@@ -15302,10 +15332,12 @@ _Cité par_:
 
 Les épreuves de dépistage prévues par l'article L. 235-2 sont effectuées par un médecin, un biologiste, ou un étudiant en
 médecine autorisé à exercer à titre de remplaçant, dans les conditions fixées à l'article L. 4131-2 du code de la santé
-publique, requis à cet effet par un officier ou agent de police judiciaire qui leur fournit les matériels nécessaires au
-dépistage lorsqu'il s'agit d'un recueil urinaire. 
+publique, requis à cet effet par un officier ou agent de police judiciaire ou par un agent de police judiciaire adjoint, sur
+l'ordre et sous la responsabilité d'un officier de police judiciaire, qui leur fournit les matériels nécessaires au dépistage
+lorsqu'il s'agit d'un recueil urinaire.
 
-Ces épreuves sont effectuées par un officier ou agent de police judiciaire lorsqu'il s'agit d'un recueil salivaire.
+Ces épreuves sont effectuées par un officier ou agent de police judiciaire ou par un agent de police judiciaire adjoint dans
+les conditions prévues à l'alinéa précédent, lorsqu'il s'agit d'un recueil salivaire.
 
 **Liens relatifs à cet article**
 
@@ -15324,7 +15356,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 14
+  - Décret n°2012-3 du 3 janvier 2012 - art. 6
 
 _Cite_:
 
@@ -15340,8 +15372,8 @@ française de sécurité sanitaire des produits de santé, qui précise notammen
 des fiches présentant les résultats. Lorsqu'il s'agit d'un recueil salivaire, cet arrêté est également pris par le ministre
 de la justice et par le ministre de l'intérieur. 
 
-Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à l'article R. 235-3 ou complétées par ce
-dernier lorsqu'il s'agit d'un recueil salivaire.
+Ces fiches sont remises à l'officier ou l'agent de police judiciaire       ou à l'agent de police judiciaire adjoint ou
+complétées par ces derniers lorsqu'il s'agit d'un recueil salivaire.
 
 **Liens relatifs à cet article**
 
@@ -15360,11 +15392,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 14
-
-_Cite_:
-
-  - Code de la route. - art. R225-3
+  - Décret n°2012-3 du 3 janvier 2012 - art. 7
 
 
 ##### Section 3 : Analyses et examens médicaux, cliniques et biologiques<a id=103></a>
@@ -15523,28 +15551,31 @@ _Cite_:
 ###### Article R235-9
 
 L'officier ou l'agent de police judiciaire adresse les deux échantillons biologiques prélevés, accompagnés des résultats des
-épreuves de dépistage, à un expert inscrit sous une rubrique spéciale en toxicologie, sur la liste de la cour d'appel, dans
-les conditions prévues par l'article R. 32 du code des débits de boissons et des mesures contre l'alcoolisme, ou à un
-laboratoire de police technique et scientifique.
+épreuves de dépistage, à un laboratoire de biologie médicale, à un laboratoire de toxicologie, de pharmacologie ou de
+biochimie d'un établissement public de santé ou à un laboratoire de police technique et scientifique, ou à un expert inscrit
+en toxicologie dans l'une des listes instituées en application de l'article 2 de la loi n° 71-498 du 29 juin 1971 relative
+aux experts judiciaires et de l'article 157 du code de procédure pénale, dans les conditions prévues par l'article R. 3354-20
+du code de la santé publique. 
 
 Le laboratoire ou l'expert conserve un des deux flacons mentionnés à l'article R. 235-7 en vue d'une demande éventuelle d'un
 examen technique ou d'une expertise. Un arrêté du ministre chargé de la santé précise, après avis du directeur général de
-l'Agence française de sécurité sanitaire des produits de santé, les conditions dans lesquelles est conservé cet échantillon.
+l'Agence française de sécurité sanitaire des produits de santé, les conditions de réalisation des examens de biologie
+médicale et de conservation des échantillons.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Loi n°71-498 du 29 juin 1971 - art. 2 (V)
+  - Code de procédure pénale - art. 157 (V)
+
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2003-293 2003-03-31 art. 5 I, VIII JORF 1er avril 2003
-  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
+  - Décret n°2012-3 du 3 janvier 2012 - art. 8
 
 _Cité par_:
 
@@ -15552,11 +15583,6 @@ _Cité par_:
   - Code de la route. - art. R235-11 (V)
   - Code de la route. - art. R244-2 (V)
   - Code de la route. - art. R245-2 (VD)
-
-_Cite_:
-
-  - Code de la route. - art. R235-7 (M)
-  - Code des débits de boissons R32
 
 
 ###### Article R235-10
@@ -21100,48 +21126,48 @@ _Anciens textes_:
 ###### Article R317-8
 
 I. Tout véhicule à moteur, à l'exception des matériels de travaux publics doit être muni de deux plaques d'immatriculation,
-portant le numéro assigné au véhicule et fixées en évidence d'une manière inamovible à l'avant et à l'arrière du véhicule. 
+portant le numéro assigné au véhicule et fixées en évidence d'une manière inamovible à l'avant et à l'arrière du véhicule.
 
 Toutefois, toute motocyclette, tout tricycle ou quadricycle à moteur, tout cyclomoteur, tout véhicule agricole ou forestier à
 moteur attaché à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou à une coopérative
 d'utilisation de matériel agricole, peut ne porter qu'une plaque d'immatriculation, fixée en évidence d'une manière
-inamovible à l'arrière du véhicule. 
+inamovible à l'arrière du véhicule.
 
 II. Tout véhicule ou appareil agricole remorqué dont le poids total autorisé en charge est supérieur à 1, 5 tonne, toute
 autre remorque dont le poids total autorisé en charge est supérieur à 500 kilogrammes, toute autre semi-remorque doit être
 munie d'une plaque d'immatriculation portant son numéro d'immatriculation et fixée en évidence, d'une manière inamovible, à
-l'arrière du véhicule. 
+l'arrière du véhicule.
 
 Tout véhicule ou appareil agricole remorqué attaché à une exploitation agricole ou forestière, à une entreprise de travaux
 agricoles ou à une coopérative d'utilisation de matériel agricole, lorsqu'il n'est pas soumis à cette obligation, doit être
-muni à l'arrière de la plaque d'identité prévue à l'article R. 317-12. 
+muni à l'arrière de la plaque d'identité prévue à l'article R. 317-12.
 
 Tout véhicule ou appareil agricole remorqué non attaché à une exploitation agricole ou forestière, à une entreprise de
 travaux agricoles ou à une coopérative d'utilisation de matériel agricole, toute autre remorque, toute autre semi-remorque,
 lorsqu'il n'est pas soumis à cette obligation, doit être muni à l'arrière d'une plaque d'immatriculation reproduisant la
-plaque arrière du véhicule tracteur. La plaque d'immatriculation peut, dans ce cas, être amovible. 
+plaque arrière du véhicule tracteur. La plaque d'immatriculation peut, dans ce cas, être amovible.
 
 Toutefois, toute remorque attelée à une motocyclette, à un cyclomoteur, à un quadricycle léger à moteur ou à un tricycle à
 moteur ne doit porter à l'arrière une plaque d'immatriculation reproduisant le numéro d'immatriculation du véhicule tracteur
 que si les dimensions de la remorque ou du chargement sont telles que la plaque d'immatriculation du véhicule tracteur n'est
-pas visible pour un observateur placé à l'arrière. 
+pas visible pour un observateur placé à l'arrière.
 
-III. Chaque plaque doit être maintenue dans un état d'entretien permettant la lecture des inscriptions qu'elle comporte. 
+III. Chaque plaque doit être maintenue dans un état d'entretien permettant la lecture des inscriptions qu'elle comporte.
 
 IV. Le ministre chargé des transports et le ministre de l'intérieur fixent par arrêté les caractéristiques et le mode de pose
 des plaques d'immatriculation.
 
 V. Le fait de faire circuler un véhicule à moteur ou une remorque sans qu'il soit muni des plaques ou inscriptions exigées
-par le présent article est puni de l'amende prévue pour les contraventions de la quatrième classe. 
+par le présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 VI. Le fait de contrevenir aux dispositions du présent article relatives à l'entretien, aux caractéristiques ou au mode de
-pose des plaques d'immatriculation est puni de l'amende prévue pour les contraventions de la troisième classe. 
+pose des plaques d'immatriculation est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
-VII.L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+VII. L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
-VIII.-Le fait d'exposer, d'offrir, de mettre en vente, de vendre, de proposer ou d'inciter à acheter ou à utiliser une plaque
-d'immatriculation non conforme aux caractéristiques visées au IV est puni de l'amende prévue pour les contraventions de la
-quatrième classe. La plaque est saisie et confisquée.
+VIII. - Le fait d'exposer, d'offrir, de mettre en vente, de vendre, de proposer ou d'inciter à acheter ou à utiliser une
+plaque d'immatriculation non conforme aux caractéristiques visées au IV est puni de l'amende prévue pour les contraventions
+de la quatrième classe. La plaque est saisie et confisquée.
 
 **Liens relatifs à cet article**
 
@@ -21158,7 +21184,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 4
+  - Décret n°2012-3 du 3 janvier 2012 - art. 9
 
 _Anciens textes_:
 
@@ -25200,12 +25226,12 @@ _Cite_:
 ###### Article R325-1
 
 L'immobilisation, la mise en fourrière, le retrait de la circulation et la destruction prévus à l'article L. 325-1 peuvent
-être décidés dans les cas et les conditions définis au présent code.
+être décidés dans les cas et les conditions définis au présent code. 
 
-L'immobilisation et la mise en fourrière peuvent également être ordonnées conformément aux dispositions de l'article L.
-325-1-1.
+L'immobilisation et la mise en fourrière peuvent également être ordonnées conformément aux dispositions des articles L.
+325-1-1 et L. 325-1-2. 
 
-Ces mesures ne font pas obstacle aux saisies ordonnées par l'autorité judiciaire.
+Ces mesures ne font pas obstacle aux saisies ordonnées par l'autorité judiciaire. 
 
 Elles ne s'appliquent pas aux véhicules participant à des opérations de maintien de l'ordre.
 
@@ -25213,21 +25239,20 @@ Elles ne s'appliquent pas aux véhicules participant à des opérations de maint
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2005-320 du 30 mars 2005 - art. 5 () JORF 6 avril 2005
+  - Décret n°2012-3 du 3 janvier 2012 - art. 10
 
 _Anciens textes_:
 
   - Code de la route - art. R275 (Ab)
-  - Code de la route R275 (al. 1, 2 et 3)
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (M)
-  - Code de la route. - art. L325-1-1 (M)
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. L325-1-1
 
 _Cité par_:
 
@@ -25237,23 +25262,23 @@ _Cité par_:
 
 ###### Article R325-1-1
 
-Lorsque la juridiction prononce la confiscation d'un véhicule immobilisé et mis en fourrière en application de l'article L.
-325-1-1, le service des domaines chargé de son aliénation informe préalablement le candidat acquéreur que le montant des
-frais d'enlèvement et de garde en fourrière seront à sa charge.
+Lorsque la juridiction prononce la confiscation d'un véhicule immobilisé et mis en fourrière en application des articles L.
+325-1-1 ou L. 325-1-2, le service des domaines chargé de son aliénation informe préalablement le candidat acquéreur que le
+montant des frais d'enlèvement et de garde en fourrière seront à sa charge.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-320 du 30 mars 2005 - art. 5 () JORF 6 avril 2005
+  - Décret n°2012-3 du 3 janvier 2012 - art. 11
 
 _Cite_:
 
-  - Code de la route. - art. L325-1-1 (M)
+  - Code de la route. - art. L325-1-1
 
 _Cité par_:
 
@@ -25990,37 +26015,40 @@ _Anciens textes_:
 I.-Lorsque le propriétaire du véhicule faisant l'objet de la mise en fourrière est domicilié ou réside dans le ressort de
 l'officier de police judiciaire ou de l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
 fonctions qui prescrit cette mesure, celui-ci peut faire garder le véhicule par son propriétaire, à condition que le
-certificat d'immatriculation soit immédiatement retiré. Ce document reçoit la destination prévue à l'article R. 325-34.
+certificat d'immatriculation soit immédiatement retiré. Ce document reçoit la destination prévue à l'article R. 325-34. 
 
 II.-Dans cette hypothèse, l'autorité dont relève la fourrière est : 
 
 1° Soit le maire, lorsque la mise en fourrière a été décidée par lui ou par un de ses adjoints agissant en qualité d'officier
 de police judiciaire ou par l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces fonctions ; 
 
-2° Soit le préfet, dans les autres cas.
+2° Soit le préfet, dans les autres cas. 
+
+III.-Les dispositions du présent article sont applicables à la mise en fourrière prévue à l'article L. 325-1-2 lorsque le
+propriétaire du véhicule réside dans le département du représentant de l'Etat qui a prescrit cette mesure.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2005-1148 du 6 septembre 2005 - art. 8 () JORF 13 septembre 2005
+  - Décret n°2012-3 du 3 janvier 2012 - art. 12
 
 _Anciens textes_:
 
   - Code de la route - art. R286-3 (Ab)
-  - Code de la route R286-3
+
+_Cite_:
+
+  - Code de la route. - art. L325-1-2 (V)
+  - Code de la route. - art. R325-34
 
 _Cité par_:
 
   - Code de la route. - art. R325-24 (V)
-
-_Cite_:
-
-  - Code de la route. - art. R325-34 (V)
 
 
 ###### Article R325-23
@@ -26144,9 +26172,10 @@ _Anciens textes_:
 Les intéressés peuvent contester la décision de mise en fourrière :
 
 - auprès du procureur de la République du lieu de l'enlèvement du véhicule, lorsque la procédure est consécutive à la
-commission d'une infraction ;
+commission d'une infraction, à l'exclusion des cas où elle est mise en œuvre par le préfet, dans le cadre des dispositions
+prévues à l'article L. 325-1-2 ;
 
-- auprès du préfet du lieu de l'enlèvement du véhicule, dans les autres cas.
+- auprès du préfet du lieu de l'enlèvement du véhicule, dans les autres cas. 
 
 Dans le délai de cinq jours ouvrables, l'autorité compétente confirme la mesure ou, si elle estime la décision infondée, en
 ordonne la mainlevée. Elle en informe sans délai l'auteur de la prescription.
@@ -26155,16 +26184,19 @@ ordonne la mainlevée. Elle en informe sans délai l'auteur de la prescription.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2005-1148 du 6 septembre 2005 - art. 11 () JORF 13 septembre 2005
+  - Décret n°2012-3 du 3 janvier 2012 - art. 13
 
 _Anciens textes_:
 
   - Code de la route - art. R288 (Ab)
-  - Code de la route R288
+
+_Cite_:
+
+  - Code de la route. - art. L325-1-2
 
 _Cité par_:
 
@@ -26371,7 +26403,7 @@ qualifiée pour donner mainlevée de la mise en fourrière.
 a) De dix jours pour un véhicule qu'un expert aura estimé d'une valeur marchande inférieure à un montant fixé par arrêté
 interministériel et déclaré hors d'état de circuler dans des conditions normales de sécurité ; 
 
-b) De quarante-cinq jours dans les autres cas, 
+b) De   trente jours  dans les autres cas, 
 
 ces délais commençant à courir un jour franc après la date de notification ; 
 
@@ -26385,7 +26417,7 @@ soit livré à la destruction ;
 
 III.-Si le traitement automatisé mis en œuvre pour l'immatriculation des véhicule révèle l'inscription d'un gage, copie de la
 notification de mise en fourrière est adressée par l'auteur de la prescription de mise en fourrière au créancier-gagiste, par
-lettre recommandée avec demande d'accusé de réception, qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5, 6
+lettre recommandée avec demande d'accusé de réception, qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5,6
 et 7) fixant les conditions de remise au service des domaines des véhicules non retirés de fourrière par leurs propriétaires.
 
 **Liens relatifs à cet article**
@@ -26398,7 +26430,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 10
+  - Décret n°2012-3 du 3 janvier 2012 - art. 14
 
 _Anciens textes_:
 
@@ -26694,10 +26726,9 @@ _Anciens textes_:
 ###### Article R325-43
 
 En application des dispositions des articles L. 325-7 et L. 325-8 relatives aux véhicules abandonnés, l'autorité dont relève
-la fourrière décide de la remise du véhicule au service des domaines en vue de son aliénation ; l'autorité administrative
-investie du pouvoir de police en matière de circulation décide de la destruction des véhicules mentionnés au quatrième alinéa
-de l'article L. 325-7 ainsi que des véhicules qui ont été remis au service des domaines pour aliénation et qui n'ont pas
-trouvé preneur. 
+la fourrière décide de la remise du véhicule au service des domaines en vue de son aliénation ;             elle décide
+également  de la destruction des véhicules mentionnés au quatrième alinéa de l'article L. 325-7 ainsi que des véhicules qui
+ont été remis au service des domaines pour aliénation et qui n'ont pas trouvé preneur. 
 
 L'autorité dont relève la fourrière informe de ces décisions l'autorité qualifiée pour prononcer la mainlevée, détentrice du
 certificat d'immatriculation, ainsi que le préfet du département ou, à Paris, le préfet de police. 
@@ -26710,16 +26741,19 @@ certificat d'immatriculation est impossible, elle en précise le motif.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2012-3 du 3 janvier 2012 - art. 15
 
 _Anciens textes_:
 
   - Code de la route - art. R293-6 (Ab)
-  - Code de la route R293-6
 
 _Cite_:
 
-  - Code de la route. - art. L325-7 (V)
+  - Code de la route. - art. L325-7
 
 
 ###### Article R325-44
@@ -26795,12 +26829,12 @@ c) Paragraphe supprimé ;
 
 En contrepartie de ses obligations, l'entreprise a le droit : 
 
-a) De réclamer aux propriétaires des véhicules mis, sur la demande de l'autorité publique, en fourrière sur son chantier le
-paiement, conformément au tarif approuvé par l'autorité publique, des frais de transfert et de garde en fourrière à la
-condition que son chantier soit clôturé ou soit gardé jour et nuit. Toutefois, s'agissant des véhicules hors d'usage au sens
-de l'article 1er du décret n° 2003-727 du 1er août 2003 relatif à la construction des véhicules et à l'élimination des
-véhicules hors d'usage, et sous réserve des dispositions de l'article 5 de ce décret, seuls les frais de transfert peuvent
-éventuellement donner lieu à facturation ; 
+a) De réclamer aux propriétaires des véhicules mis, sur la demande de l'autorité publique, sur son chantier le paiement,
+conformément au tarif approuvé par l'autorité publique, des frais de transfert et de garde à la condition que son chantier
+soit clôturé ou soit gardé jour et nuit. Toutefois, s'agissant des véhicules hors d'usage au sens de l'article 1er du décret
+n° 2003-727 du 1er août 2003 relatif à la construction des véhicules et à l'élimination des véhicules hors d'usage, et sous
+réserve des dispositions de l'article 5 de ce décret, seuls les frais de transfert peuvent éventuellement donner lieu à
+facturation ; 
 
 b) En cas de démolition du véhicule, de récupérer tout accessoire et toute pièce détachée en vue de sa revente après, en cas
 de besoin, remise en état ; 
@@ -26810,26 +26844,24 @@ matières ayant une valeur marchande (fer, cuivre, etc.).
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°72-822 1972-09-06 annexe
-  - Code de la route - art. R293-8 (Ab)
-  - Code de la route R293-8
-
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cite_:
 
-  - Décret n°2003-727 du 1 août 2003 - art. 1 (Ab)
-  - Code de la route. - art. L325-1 (V)
-  - Code de la route. - art. L325-6 (V)
-  - Code de la route. - art. R325-20 (V)
+  - Décret n°2003-727 du 1 août 2003 - art. 1
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. L325-6
+  - Code de la route. - art. R325-20
 
 _Modifié par_:
 
-  - Décret n°2003-727 du 1 août 2003 - art. 19 () JORF 5 août 2003
+  - Décret n°2012-3 du 3 janvier 2012 - art. 16
+
+_Anciens textes_:
+
+  - Code de la route - art. R293-8 (Ab)
 
 _Cité par_:
 
@@ -30324,28 +30356,27 @@ _Cité par_:
 ###### Article R411-21-1
 
 Pour prévenir un danger pour les usagers de la voie ou en raison de l'établissement d'un chantier, l'autorité investie du
-pouvoir de police peut ordonner la fermeture temporaire d'une route.
+pouvoir de police peut ordonner la fermeture temporaire d'une route ou l'interdiction temporaire de circulation sur tout ou
+partie de la chaussée, matérialisée par une signalisation routière adaptée. 
 
-Le fait pour tout conducteur de ne pas respecter l'interdiction de circuler sur une route dont la fermeture a été ordonnée en
-application du premier alinéa du présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+Le fait pour tout conducteur de ne pas respecter les interdictions de circuler prescrites  en application du premier alinéa
+du présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de trois
 ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
 professionnelle.
 
+Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2002-530 2002-04-11 art. 5 : application à Mayotte
-
-_Créé par_:
-
-  - Décret n°2002-530 du 11 avril 2002 - art. 4 () JORF 18 avril 2002
+  - Décret n°2012-3 du 3 janvier 2012 - art. 17
 
 
 ###### Article R411-22
@@ -30989,23 +31020,19 @@ _Cite_:
 L'usage d'un téléphone tenu en main par le conducteur d'un véhicule en circulation est interdit.
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la deuxième classe.
+contraventions de la quatrième classe.
 
-Cette contravention donne lieu de plein droit à la réduction de deux points du permis de conduire.
-
-**Nota:**
-
-Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
+Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-293 du 31 mars 2003 - art. 4 () JORF 1er avril 2003
+  - Décret n°2012-3 du 3 janvier 2012 - art. 18
 
 _Cité par_:
 
@@ -31013,28 +31040,29 @@ _Cité par_:
   - Code de la route. - art. R121-6 (V)
   - Code de la route. - art. R130-11 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
-
 
 ###### Article R412-6-2
 
 Le fait de placer dans le champ de vision du conducteur d'un véhicule en circulation un appareil en fonctionnement doté d'un
-écran et ne constituant pas une aide à la conduite ou à la navigation est interdit. 
+écran et ne constituant pas une aide à la conduite ou à la navigation est interdit.
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la 4e classe. 
+contraventions de la cinquième classe.
 
-Est également encourue la peine de confiscation de l'appareil mentionné au premier alinéa. 
+L'appareil mentionné au premier alinéa est saisi.
 
-Cette contravention donne lieu de plein droit à la réduction de deux points du permis de conduire.
+Toute condamnation donne lieu de plein droit à la confiscation de l'appareil qui a servi ou était destiné à commettre
+l'infraction.
+
+Est également encourue la peine de confiscation de l'appareil mentionné au premier alinéa.
+
+Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 16
+  - Décret n°2012-3 du 3 janvier 2012 - art. 19
 
 
 ###### Article R412-7
@@ -31087,8 +31115,8 @@ _Cite_:
 
 La circulation sur les bandes d'arrêt d'urgence est interdite.
 
-Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la deuxième
-classe.
+Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
+quatrième classe.
 
 Tout conducteur coupable de cette infraction encourt également la peine complémentaire de suspension du permis de conduire
 pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
@@ -31096,10 +31124,6 @@ professionnelle.
 
 Cette contravention commise à l'occasion de la conduite d'un véhicule donne lieu de plein droit à la réduction de trois
 points du permis de conduire.
-
-**Nota:**
-
-Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -31112,11 +31136,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
+  - Décret n°2012-3 du 3 janvier 2012 - art. 20
 
 _Anciens textes_:
 
@@ -31124,10 +31148,6 @@ _Anciens textes_:
   - Code de la route - art. R256 (Ab)
   - Code de la route - art. R43-6 (Ab)
   - Code de la route R43-6 (al. 5), R233 (al. 1 et 2), R256 3°
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R412-9
@@ -31586,13 +31606,25 @@ _Anciens textes_:
 ###### Article R412-22
 
 Les lignes longitudinales délimitant les bandes d'arrêt d'urgence sont continues ou discontinues. Elles ne peuvent être
-franchies qu'en cas de nécessité absolue.
+chevauchées ou franchies qu'en cas de nécessité absolue.
+
+Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
+contraventions de la quatrième classe.
+
+Tout conducteur coupable de cette infraction encourt également la peine complémentaire de suspension du permis de conduire
+pour une durée de trois ans au plus.
+
+Cette contravention donne lieu de plein droit à la réduction d'un point du permis de conduire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2012-3 du 3 janvier 2012 - art. 21
 
 _Anciens textes_:
 
@@ -31603,11 +31635,6 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de la route. - art. R121-6 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R412-23
@@ -33134,28 +33161,26 @@ ou appliqué sur un véhicule.
 Toute condamnation donne lieu de plein droit à la confiscation du dispositif qui a servi ou était destiné à commettre
 l'infraction.
 
-IV. - Cette contravention donne lieu de plein droit à la réduction de deux points du permis de conduire.
+IV. - Cette contravention donne lieu de plein droit à la réduction de six points du permis de conduire.
 
-**Nota:**
-
-Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+V. - Les dispositions du présent article sont également applicables aux dispositifs ou produits visant à avertir ou informer
+de la localisation d'appareils, instruments ou systèmes servant à la constatation des infractions à la législation ou à la
+réglementation de la circulation routière.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
+  - Décret n°2012-3 du 3 janvier 2012 - art. 22
 
 _Anciens textes_:
 
   - Code de la route - art. R242-4 (Ab)
   - Code de la route - art. R266 (Ab)
-  - Code de la route R242-4, R266 8°
-  - Code de la route. - art. R242-4 (V)
 
 _Cité par_:
 
