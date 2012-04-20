@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2012-03-29
+Version Consolidée au 2012-04-21
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -37587,7 +37587,7 @@ départements.
 III.-L'arrêté du préfet est établi conformément à l'un des arrêtés types prévu au 7° de l'article R. 433-5. 
 
 IV.-Le fait de faire circuler un véhicule visé au présent article sans respecter les prescriptions de l'arrêté préfectoral
-est puni conformément aux dispositions des III, IV et V de l'article R. 433-1.
+est puni conformément aux dispositions des III,  V et VI de l'article R. 433-1.
 
 **Liens relatifs à cet article**
 
@@ -37604,7 +37604,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-368 du 4 avril 2011 - art. 15
+  - Décret n°2012-516 du 18 avril 2012 - art. 2
 
 _Anciens textes_:
 
@@ -37621,21 +37621,18 @@ _Cite_:
 
 I.-La circulation des véhicules effectuant des transports exceptionnels est interdite : 
 
-1° Sur autoroute ; toutefois, le préfet qui a délivré l'autorisation de transport exceptionnel peut accorder des dérogations
-à cette interdiction dans les conditions déterminées par l'arrêté conjoint prévu à l'article R. 433-5 ; 
-
-2° Sur l'ensemble du réseau routier et autoroutier du samedi ou veille de fête douze heures au lundi ou lendemain de fête six
+1° Sur l'ensemble du réseau routier et autoroutier du samedi ou veille de fête douze heures au lundi ou lendemain de fête six
 heures ; toutefois, le préfet qui a délivré l'autorisation de transport exceptionnel, peut, en cas de nécessité absolue et en
 tenant compte des circonstances locales, après avis le cas échéant des préfets des départements traversés, accorder des
 dérogations à cette interdiction ; 
 
-3° Pendant les périodes et sur les itinéraires d'interdiction de circulation des véhicules de transport de marchandises et de
+2° Pendant les périodes et sur les itinéraires d'interdiction de circulation des véhicules de transport de marchandises et de
 transport de matières dangereuses, définis chaque année par arrêté du ministre de l'intérieur et du ministre chargé des
 transports ; 
 
-4° Pendant la fermeture des barrières de dégel, sur les itinéraires qu'elles concernent ; 
+3° Pendant la fermeture des barrières de dégel, sur les itinéraires qu'elles concernent ; 
 
-5° Par temps de neige ou de verglas ou lorsque la visibilité est insuffisante. 
+4° Par temps de neige ou de verglas ou lorsque la visibilité est insuffisante. 
 
 II.-Le fait, pour tout conducteur, de ne pas respecter les interdictions de circulation mentionnées au présent article est
 puni de l'amende prévue pour les contraventions de la quatrième classe. 
@@ -37654,7 +37651,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2012-516 du 18 avril 2012 - art. 3
 
 _Anciens textes_:
 
@@ -37662,35 +37663,29 @@ _Anciens textes_:
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R43-2 (Ab)
   - Code de la route - art. R43-4 (Ab)
-  - Code de la route R43-2 (al. 1 et 9), R43-4 (al. 5), R232 (al. 1 et 10), R278 6°
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R433-5
 
-Un arrêté conjoint des ministres chargés de l'intérieur, des armées, de l'équipement, des transports et de l'industrie fixe
-les conditions d'application de la présente section, et notamment :
+Un arrêté conjoint des ministres chargés de l'intérieur, de l'équipement et des transports fixe les conditions d'application
+de la présente section, et notamment : 
 
-1° Les règles particulières de circulation des convois exceptionnels ;
+1° Les règles particulières de circulation des convois exceptionnels ; 
 
-2° Les périodes et les itinéraires d'interdiction de circulation ;
+2° Les périodes et les itinéraires d'interdiction de circulation ; 
 
-3° Les conditions dans lesquelles les accords des préfets des départements traversés sont recueillis ;
+3° Les conditions dans lesquelles les accords des préfets des départements traversés sont recueillis ; 
 
 4° Les dispositifs spécifiques de signalisation des convois exceptionnels ainsi que les conditions dans lesquelles le préfet
-peut les compléter ;
+peut les compléter ; 
 
-5° Les conditions d'accompagnement des convois ;
+5° Les conditions d'accompagnement des convois ; 
 
-6° Les dispositifs de signalisation et d'équipement des véhicules d'accompagnement ;
+6° Les dispositifs de signalisation et d'équipement des véhicules d'accompagnement ; 
 
 7° Les arrêtés types préfectoraux mentionnés à l'article R. 433-3.
 
@@ -37698,7 +37693,7 @@ peut les compléter ;
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -37708,15 +37703,13 @@ _Cité par_:
   - Code de la route. - art. R433-3 (V)
   - Code de la route. - art. R442-7 (V)
 
+_Modifié par_:
+
+  - Décret n°2012-516 du 18 avril 2012 - art. 4
+
 _Anciens textes_:
 
   - Code de la route - art. R51 (Ab)
-  - Code de la route R51
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R433-6
