@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2012-04-21
+Version Consolidée au 2012-04-23
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -29893,7 +29893,11 @@ véhicules à moteur ;
 5° D'agrément des personnes et des organismes dispensant aux conducteurs responsables d'infractions la formation spécifique à
 la sécurité routière.
 
-II. - La commission peut également être consultée pour la mise en place d'itinéraires de déviation pour les poids lourds.
+II. - La commission peut également être consultée sur tout autre sujet relatif à la sécurité routière, tel que : 
+
+- la mise en place d'itinéraires de déviation pour les poids lourds ; 
+
+- l'harmonisation des limitations de vitesse des véhicules sur les voies ouvertes à la circulation publique.
 
 **Liens relatifs à cet article**
 
@@ -29903,11 +29907,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
+  - Décret n°2012-537 du 20 avril 2012 - art. 1
 
 _Cité par_:
 
@@ -29956,10 +29960,13 @@ _Cité par_:
 ###### Article R411-12
 
 Des formations spécialisées peuvent être constituées par le président de la commission départementale de la sécurité routière
-au sein de cette commission pour exercer chacune des attributions qui lui sont dévolues par le I de l'article R. 411-10.
+au sein de cette commission pour exercer chacune des attributions qui lui sont dévolues par le I de l'article R. 411-10. 
 
 Elles comprennent au moins un représentant des catégories visées aux 1°, 2°, 3° et 5° de l'article R. 411-11 et au moins
-trois représentants de la catégorie visée au 4° du même article.
+trois représentants de la catégorie visée au 4° du même article. 
+
+Pour l'exercice des compétences consultatives mentionnées au II de l'article R. 411-10, le président de la commission peut
+associer à ses travaux des représentants des gestionnaires des voies concernées.
 
 **Liens relatifs à cet article**
 
@@ -29969,16 +29976,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
+  - Décret n°2012-537 du 20 avril 2012 - art. 2
 
 _Cite_:
 
-  - Code de la route. - art. R411-10 (M)
-  - Code de la route. - art. R411-11 (M)
+  - Code de la route. - art. R411-10
+  - Code de la route. - art. R411-11
 
 
 ##### Section 3 : Interdictions et restrictions de circulation.<a id=173></a>
