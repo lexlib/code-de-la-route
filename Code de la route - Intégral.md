@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2012-04-23
+Version Consolidée au 2012-05-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -867,48 +867,18 @@ _Anciens textes_:
 ###### Article L130-5
 
 Les règles relatives à la constatation des contraventions au présent code par les agents de police municipale sont fixées par
-l'article L. 2212-5 du code général des collectivités territoriales ci-après reproduit : 
-
-" Art. L. 2212-5.-Sans préjudice de la compétence générale de la police nationale et de la gendarmerie nationale, les agents
-de police municipale exécutent, dans la limite de leurs attributions et sous son autorité, les tâches relevant de la
-compétence du maire que celui-ci leur confie en matière de prévention et de surveillance du bon ordre, de la tranquillité, de
-la sécurité et de la salubrité publiques. 
-
-Ils sont chargés d'assurer l'exécution des arrêtés de police du maire et de constater par procès-verbaux les contraventions
-auxdits arrêtés. Sans préjudice des compétences qui leur sont dévolues par des lois spéciales, ils constatent également par
-procès-verbaux les contraventions aux dispositions du code de la route dont la liste est fixée par décret en Conseil d'Etat
-ainsi que les contraventions mentionnées au livre VI du code pénal dont la liste est fixée par décret en Conseil d'Etat, dès
-lors qu'elles ne nécessitent pas de leur part d'actes d'enquêtes et à l'exclusion de celles réprimant des atteintes à
-l'intégrité des personnes. 
-
-Ils peuvent également constater par rapport le délit prévu par l'article L. 126-3 du code de la construction et de
-l'habitation. 
-
-Ils exercent leurs fonctions sur le territoire communal, dans les conditions prévues au 2° de l'article 21 du code de
-procédure pénale. 
-
-A la demande des maires de plusieurs communes appartenant à un même établissement public de coopération intercommunale à
-fiscalité propre, celui-ci peut recruter, après délibération de deux tiers au moins des conseils municipaux des communes
-intéressées représentant plus de la moitié de la population totale de celles-ci, ou de la moitié au moins des conseils
-municipaux des communes représentant les deux tiers de la population, un ou plusieurs agents de police municipale, en vue de
-les mettre à disposition de l'ensemble de ces communes. Leur nomination en qualité de fonctionnaires stagiaires ne fait pas
-obstacle à leur mise à disposition. 
-
-Les agents de police municipale ainsi recrutés exercent, sur le territoire de chaque commune où ils sont affectés, les
-compétences mentionnées ci-dessus, sans préjudice des compétences de police judiciaire qui leur sont dévolues par le code de
-procédure pénale et par les lois pénales spéciales. Pendant l'exercice de leurs fonctions sur le territoire d'une commune,
-ils sont placés sous l'autorité du maire de cette commune. "
+les articles L. 511-1 et L. 512-2 du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 119 (V)
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. 10
 
 _Cite_:
 
-  - Code de procédure pénale - art. 21 (V)
-  - Code de la construction et de l'habitation. - art. L126-3 (V)
+  - Code de la sécurité intérieure - art. L511-1
+  - Code de la sécurité intérieure - art. L512-2
 
 _Cité par_:
 
@@ -15328,12 +15298,12 @@ _Cite_:
 
 Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées conformément aux méthodes
 et dans les conditions prescrites par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé, qui précise notamment les critères de choix des réactifs et le modèle
-des fiches présentant les résultats. Lorsqu'il s'agit d'un recueil salivaire, cet arrêté est également pris par le ministre
-de la justice et par le ministre de l'intérieur. 
+nationale de sécurité du médicament et des produits de santé, qui précise notamment les critères de choix des réactifs et le
+modèle des fiches présentant les résultats. Lorsqu'il s'agit d'un recueil salivaire, cet arrêté est également pris par le
+ministre de la justice et par le ministre de l'intérieur. 
 
-Ces fiches sont remises à l'officier ou l'agent de police judiciaire       ou à l'agent de police judiciaire adjoint ou
-complétées par ces derniers lorsqu'il s'agit d'un recueil salivaire.
+Ces fiches sont remises à l'officier ou l'agent de police judiciaire ou à l'agent de police judiciaire adjoint ou complétées
+par ces derniers lorsqu'il s'agit d'un recueil salivaire.
 
 **Liens relatifs à cet article**
 
@@ -15352,7 +15322,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-3 du 3 janvier 2012 - art. 7
+  - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 
 ##### Section 3 : Analyses et examens médicaux, cliniques et biologiques<a id=104></a>
@@ -15406,7 +15376,7 @@ dans les mêmes conditions.
 
 Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à sa disposition par un officier ou un agent de
 police judiciaire, en se conformant aux méthodes prescrites par arrêté du ministre chargé de la santé pris après avis du
-directeur général de l'Agence française de sécurité sanitaire des produits de santé. 
+directeur général de l'Agence nationale de sécurité du médicament et des produits de santé. 
 
 Un officier ou un agent de police judiciaire assiste au prélèvement biologique.
 
@@ -15414,11 +15384,7 @@ Un officier ou un agent de police judiciaire assiste au prélèvement biologique
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -15438,12 +15404,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2003-293 2003-03-31 art. 5 I, VII JORF 1er avril 2003
-  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
+  - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 _Cite_:
 
-  - Code de la santé publique - art. L4131-2 (V)
+  - Code de la santé publique - art. L4131-2
 
 
 ###### Article R235-7
@@ -15476,21 +15441,17 @@ _Cité par_:
 
 En cas de décès du ou des conducteurs impliqués, le prélèvement des échantillons biologiques et l'examen du corps sont
 effectués soit dans les conditions fixées par les articles R. 235-5 et R. 235-6, soit par un médecin légiste au cours de
-l'autopsie judiciaire.
+l'autopsie judiciaire. 
 
 Les méthodes particulières de prélèvement et de conservation des échantillons biologiques applicables en cas de décès du ou
 des conducteurs impliqués sont fixées par arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé.
+nationale de sécurité du médicament et des produits de santé.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -15500,12 +15461,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
+  - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 _Cite_:
 
-  - Code de la route. - art. R235-5 (M)
-  - Code de la route. - art. R235-6 (M)
+  - Code de la route. - art. R235-5 (V)
 
 
 ###### Article R235-9
@@ -15519,15 +15479,17 @@ du code de la santé publique.
 
 Le laboratoire ou l'expert conserve un des deux flacons mentionnés à l'article R. 235-7 en vue d'une demande éventuelle d'un
 examen technique ou d'une expertise. Un arrêté du ministre chargé de la santé précise, après avis du directeur général de
-l'Agence française de sécurité sanitaire des produits de santé, les conditions de réalisation des examens de biologie
+l'Agence nationale de sécurité du médicament et des produits de santé, les conditions de réalisation des examens de biologie
 médicale et de conservation des échantillons.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°71-498 du 29 juin 1971 - art. 2 (V)
-  - Code de procédure pénale - art. 157 (V)
+  - Loi n°71-498 du 29 juin 1971 - art. 2
+  - Code de procédure pénale - art. 157
+  - Code de la santé publique - art. R3354-20 (V)
+  - Code de la route. - art. R235-7 (V)
 
 _Codifié par_:
 
@@ -15535,7 +15497,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-3 du 3 janvier 2012 - art. 8
+  - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 _Cité par_:
 
@@ -15548,7 +15510,7 @@ _Cité par_:
 ###### Article R235-10
 
 La recherche et le dosage des produits stupéfiants sont pratiqués dans les conditions définies par arrêté du ministre chargé
-de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des produits de santé.
+de la santé, après avis du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé. 
 
 Les résultats des analyses et examens médicaux, cliniques et biologiques sont consignés sur les fiches mentionnées à
 l'article R. 235-4. Ces fiches sont ensuite transmises à l'officier ou à l'agent de police judiciaire ayant assisté au
@@ -15558,11 +15520,7 @@ prélèvement biologique.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -15577,12 +15535,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2003-293 2003-03-31 art. 5 I, IX JORF 1er avril 2003
-  - Décret n°2003-293 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
+  - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 _Cite_:
 
-  - Code de la route. - art. R235-4 (M)
+  - Code de la route. - art. R235-4
 
 
 ###### Article R235-11
@@ -16319,131 +16276,124 @@ _Cite_:
 
 ###### Article R244-2
 
-Les articles R. 235-1 à R. 235-13 sont applicables en Polynésie française dans la rédaction suivante :
+Les articles R. 235-1 à R. 235-13 sont applicables en Polynésie française dans la rédaction suivante : 
 
-"Art. R. 235-1 - En vue de procéder aux épreuves de dépistage et, le cas échéant, aux analyses et examens médicaux, cliniques
+" Art. R. 235-1-En vue de procéder aux épreuves de dépistage et, le cas échéant, aux analyses et examens médicaux, cliniques
 et biologiques prévus par l'article L. 235-2, le délai séparant, d'une part, l'heure de l'accident et, d'autre part, l'heure
-de l'épreuve de dépistage, et le cas échéant, des analyses et examens précités doit être le plus court possible.
+de l'épreuve de dépistage, et le cas échéant, des analyses et examens précités doit être le plus court possible. 
 
-"Art. R. 235-2 - Pour l'application de l'article L. 235-2, doit être regardé comme étant un accident mortel de la circulation
-celui qui a des conséquences immédiatement mortelles.
+" Art. R. 235-2-Pour l'application de l'article L. 235-2, doit être regardé comme étant un accident mortel de la circulation
+celui qui a des conséquences immédiatement mortelles. 
 
-"Art. R. 235-3 - Les épreuves de dépistage prévues par l'article L. 235-2 sont effectuées par un médecin ou un biologiste,
-requis à cet effet par un officier ou agent de police judiciaire qui leur fournit les matériels nécessaires au dépistage.
+" Art. R. 235-3-Les épreuves de dépistage prévues par l'article L. 235-2 sont effectuées par un médecin ou un biologiste,
+requis à cet effet par un officier ou agent de police judiciaire qui leur fournit les matériels nécessaires au dépistage. 
 
-"Art. R. 235-4 - Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées
+" Art. R. 235-4-Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées
 conformément aux méthodes et dans les conditions prescrites par un arrêté du ministre chargé de la santé, qui tient compte
 des particularités locales et qui précise notamment les critères de choix des réactifs et le modèle des fiches présentant les
-résultats.
+résultats. 
 
-Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à l'article R. 235-3.
+Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à l'article R. 235-3. 
 
-"Art. R. 235-5 - Les analyses et examens médicaux, cliniques et biologiques prévus à l'article L. 235-2 comportent les
+" Art. R. 235-5-Les analyses et examens médicaux, cliniques et biologiques prévus à l'article L. 235-2 comportent les
 opérations suivantes :
 
 - examen clinique ;
 
 - prélèvement biologique ;
 
-- recherche et dosage des stupéfiants.
+- recherche et dosage des stupéfiants. 
 
-"Art. R. 235-6 - L'examen clinique et le prélèvement biologique sont effectués par un médecin requis à cet effet par un
+" Art. R. 235-6-L'examen clinique et le prélèvement biologique sont effectués par un médecin requis à cet effet par un
 officier ou un agent de police judiciaire. Le prélèvement biologique peut également être effectué par un biologiste requis
-dans les mêmes conditions.
+dans les mêmes conditions. 
 
 Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à sa disposition par un officier ou un agent de
 police judiciaire, en se conformant aux méthodes prescrites par un arrêté du ministre chargé de la santé, après avis du
-directeur général de l'Agence française de sécurité sanitaire des produits de santé.
+directeur général de l'Agence nationale de sécurité du médicament et des produits de santé. 
 
-Un officier ou un agent de police judiciaire assiste au prélèvement biologique.
+Un officier ou un agent de police judiciaire assiste au prélèvement biologique. 
 
-"Art. R. 235-7 - Le prélèvement biologique est réparti entre deux flacons étiquetés et scellés par un officier ou agent de
-police judiciaire.
+" Art. R. 235-7-Le prélèvement biologique est réparti entre deux flacons étiquetés et scellés par un officier ou agent de
+police judiciaire. 
 
-"Art. R. 235-8 - En cas de décès du ou des conducteurs impliqués, le prélèvement des échantillons biologiques et l'examen du
+" Art. R. 235-8-En cas de décès du ou des conducteurs impliqués, le prélèvement des échantillons biologiques et l'examen du
 corps sont effectués soit dans les conditions fixées par les articles R. 235-5 et R. 235-6, soit par un médecin légiste au
-cours de l'autopsie judiciaire.
+cours de l'autopsie judiciaire. 
 
 Les méthodes particulières de prélèvement et de conservation des échantillons biologiques applicables en cas de décès du ou
 des conducteurs impliqués sont fixées par un arrêté du ministre chargé de la santé, après avis du directeur général de
-l'Agence française de sécurité sanitaire des produits de santé.
+l'Agence nationale de sécurité du médicament et des produits de santé. 
 
-"Art. R. 235-9 - L'officier ou l'agent de police judiciaire adresse les deux échantillons biologiques prélevés, accompagnés
+" Art. R. 235-9-L'officier ou l'agent de police judiciaire adresse les deux échantillons biologiques prélevés, accompagnés
 des résultats des épreuves de dépistage, à un expert inscrit sous une rubrique spéciale en toxicologie, sur la liste de la
-cour d'appel, ou à un laboratoire de police technique et scientifique.
+cour d'appel, ou à un laboratoire de police technique et scientifique. 
 
 Le laboratoire ou l'expert conserve un des deux flacons mentionnés à l'article R. 235-7 en vue d'une demande éventuelle d'un
 examen technique ou d'une expertise. Les conditions dans lesquelles est conservé cet échantillon sont fixées par un arrêté du
-ministre chargé de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des produits de
-santé.
+ministre chargé de la santé, après avis du directeur général de l'Agence nationale de sécurité du médicament et des produits
+de santé. 
 
-"Art. R. 235-10. - La recherche et le dosage des produits stupéfiants sont pratiqués dans les conditions définies par un
-arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des
-produits de santé.
+" Art. R. 235-10.-La recherche et le dosage des produits stupéfiants sont pratiqués dans les conditions définies par un
+arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé. 
 
 Les résultats des analyses et examens médicaux, cliniques et biologiques sont consignés sur les fiches mentionnées à
 l'article R. 235-4. Ces fiches sont ensuite transmises à l'officier ou à l'agent de police judiciaire ayant assisté au
-prélèvement biologique.
+prélèvement biologique. 
 
-"Art. R. 235-11. - Le conducteur peut demander au procureur de la République, au juge d'instruction ou à la juridiction de
-jugement qu'il soit procédé à un examen technique ou à une expertise en application des articles 60, 77-1 et 156 du code de
-procédure pénale.
+" Art. R. 235-11.-Le conducteur peut demander au procureur de la République, au juge d'instruction ou à la juridiction de
+jugement qu'il soit procédé à un examen technique ou à une expertise en application des articles 60,77-1 et 156 du code de
+procédure pénale. 
 
 De même, le conducteur peut demander qu'il soit procédé, dans les mêmes conditions, à la recherche de l'usage des médicaments
-psychoactifs pouvant avoir des effets sur la capacité de conduire le véhicule.
+psychoactifs pouvant avoir des effets sur la capacité de conduire le véhicule. 
 
 En cas d'examen technique ou d'expertise, ceux-ci sont confiés à un autre laboratoire ou à un autre expert répondant aux
 conditions fixées par l'article R. 235-9. Celui-ci pratique l'expertise de contrôle en se conformant aux méthodes prescrites
-en application de l'article R. 235-10.
+en application de l'article R. 235-10. 
 
-La consignation et la transmission de ces résultats sont effectuées dans les conditions mentionnées à l'article R. 235-10.
+La consignation et la transmission de ces résultats sont effectuées dans les conditions mentionnées à l'article R. 235-10. 
 
-"Art. R. 235-12. - Les honoraires et indemnités de déplacement afférents aux épreuves de dépistage et aux examens cliniques,
+" Art. R. 235-12.-Les honoraires et indemnités de déplacement afférents aux épreuves de dépistage et aux examens cliniques,
 médicaux et biologiques prévus aux articles R. 235-4 et R. 235-6 sont calculés par référence aux articles R. 110, R. 111 et
 R. 117 (1°, c et e) du code de procédure pénale, dans leurs versions applicables localement tirées des articles R. 317 et R.
-321 de ce même code.
+321 de ce même code. 
 
 Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique en application des dispositions de l'article R.
 235-6 du code des débits de boissons et des mesures contre l'alcoolisme, il n'est dû qu'une seule indemnité de déplacement et
-les honoraires pour un seul acte.
+les honoraires pour un seul acte. 
 
 Les frais afférents aux examens de laboratoire prévus par les articles R. 235-10 et R. 235-11 relatifs à la recherche et au
 dosage des produits stupéfiants et, le cas échéant, les frais afférents à la recherche des médicaments psychoactifs sont
-fixés par référence aux 10° et 11° de l'article R. 118 du code de procédure pénale.
+fixés par référence aux 10° et 11° de l'article R. 118 du code de procédure pénale. 
 
 Les frais afférents à l'acquisition des matériels de recueil et de dépistage prévus par l'article R. 235-3 sont fixés par
-arrêté conjoint du ministre de la justice et du ministre chargé du budget.
+arrêté conjoint du ministre de la justice et du ministre chargé du budget. 
 
-"Art. R. 235-13. - Les dépenses visées à l'article précédent constituent des frais de justice criminelle, correctionnelle et
-de police.
+" Art. R. 235-13.-Les dépenses visées à l'article précédent constituent des frais de justice criminelle, correctionnelle et
+de police. 
 
-Le paiement de ces frais a lieu conformément aux dispositions du titre X du livre V du code de procédure pénale."
+Le paiement de ces frais a lieu conformément aux dispositions du titre X du livre V du code de procédure pénale. "
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
   - Arrêté du 5 septembre 2001 - art. 16-1 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-1626 du 16 novembre 2007 - art. 3 () JORF 18 novembre 2007
+  - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 156 (M)
-  - CODE DE PROCEDURE PENALE - art. 60 (M)
-  - CODE DE PROCEDURE PENALE - art. 77-1 (M)
-  - Code de la route R235-1 à R235-13, L235-2, R235-3, R235-7, R235-9, R235-10
-  - Code de la route. - art. L235-2 (M)
-  - Code de la route. - art. R235-10 (M)
-  - Code de la route. - art. R235-3 (M)
-  - Code de la route. - art. R235-7 (M)
-  - Code de la route. - art. R235-9 (M)
+  - Code de la route. - art. L235-2 (V)
+  - Code de la route. - art. R235-1 (V)
 
 
 #### Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna.<a id=111></a>
@@ -16570,8 +16520,8 @@ requis à cet effet par un officier ou agent de police judiciaire qui leur fourn
 
 "Art. R. 235-4 - Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées
 conformément aux méthodes et dans les conditions prescrites par un arrêté du ministre chargé de la santé, après avis du
-directeur général de l'Agence française de sécurité sanitaire des produits de santé, qui précise notamment les critères de
-choix des réactifs et le modèle des fiches présentant les résultats.
+directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, qui précise notamment les
+critères de choix des réactifs et le modèle des fiches présentant les résultats.
 
 "Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à l'article R. 235-3.
 
@@ -16590,7 +16540,7 @@ dans les mêmes conditions.
 
 "Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à sa disposition par un officier ou un agent de
 police judiciaire, en se conformant aux méthodes prescrites par un arrêté du ministre chargé de la santé, après avis du
-directeur général de l'Agence française de sécurité sanitaire des produits de santé.
+directeur général de l'Agence nationale de sécurité du médicament et des produits de santé.
 
 "Un officier ou un agent de police judiciaire assiste au prélèvement biologique.
 
@@ -16603,7 +16553,7 @@ cours de l'autopsie judiciaire.
 
 "Les méthodes particulières de prélèvement et de conservation des échantillons biologiques applicables en cas de décès du ou
 des conducteurs impliqués sont fixées par un arrêté du ministre chargé de la santé, après avis du directeur général de
-l'Agence française de sécurité sanitaire des produits de santé.
+l'Agence nationale de sécurité du médicament et des produits de santé.
 
 "Art. R. 235-9 - L'officier ou l'agent de police judiciaire adresse les deux échantillons biologiques prélevés, accompagnés
 des résultats des épreuves de dépistage, à un expert inscrit sous une rubrique spéciale en toxicologie, sur la liste de la
@@ -16615,7 +16565,7 @@ ministre chargé de la santé, après avis du directeur général de l'Agence fr
 santé.
 
 "Art. R. 235-10 - La recherche et le dosage des produits stupéfiants sont pratiqués dans les conditions définies par un
-arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des
+arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence nationale de sécurité du médicament et des
 produits de santé.
 
 "Les résultats des analyses et examens médicaux, cliniques et biologiques sont consignés sur les fiches mentionnées à
@@ -16665,20 +16615,20 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-1626 du 16 novembre 2007 - art. 4 () JORF 18 novembre 2007
+  - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 _Cite_:
 
-  - Code de la route R235-1 à R235-13, L235-2, R235-3, R235-7, R235-4, R235-10
-  - Code de la route. - art. L235-2 (M)
-  - Code de la route. - art. R235-10 (M)
-  - Code de la route. - art. R235-3 (M)
-  - Code de la route. - art. R235-4 (M)
-  - Code de la route. - art. R235-7 (M)
+  - Code de la route.
+  - Code de la route. - art. L235-2
+  - Code de la route. - art. R235-10
+  - Code de la route. - art. R235-3
+  - Code de la route. - art. R235-4
+  - Code de la route. - art. R235-7
   - Code des débits de boissons R235-6
 
 _Nouveaux textes_:
