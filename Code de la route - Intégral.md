@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2012-05-01
+Version Consolidée au 2012-05-09
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -10520,25 +10520,25 @@ _Modifié par_:
 
 ###### Article R211-1
 
-I. - Des attestations scolaires de sécurité routière de premier et de second niveaux sont délivrées aux élèves qui ont subi
+I.-Des attestations scolaires de sécurité routière de premier et de second niveaux sont délivrées aux élèves qui ont subi
 avec succès un contrôle des connaissances théoriques des règles de sécurité routière. Ce contrôle est organisé pour les
 élèves soumis à l'obligation scolaire définie à l'article L. 131-1 du code de l'éducation ainsi que pour les élèves âgés de
-plus de seize ans inscrits dans un établissement scolaire.
+plus de seize ans inscrits dans un établissement scolaire. 
 
-II. - Une attestation de sécurité routière est délivrée aux personnes qui ont subi avec succès un contrôle des connaissances
+II.-Une attestation de sécurité routière est délivrée aux personnes qui ont subi avec succès un contrôle des connaissances
 théoriques des règles de sécurité routière. Ce contrôle est ouvert aux personnes qui, pour quelque raison que ce soit, ne
 peuvent bénéficier des dispositions du I. Les titulaires d'un contrat d'apprentissage relèvent, quel que soit leur âge, des
-dispositions du présent alinéa.
+dispositions du présent alinéa. 
 
-Un arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'emploi, du ministre chargé de l'éducation nationale,
-du ministre de la justice, du ministre chargé des transports, du ministre chargé de la mer, du ministre chargé de la santé et
-du ministre chargé de l'agriculture fixe les modalités d'application du I et du II.
+Un arrêté conjoint du ministre chargé de la sécurité routière, du ministre de l'intérieur, du ministre chargé de l'emploi, du
+ministre chargé de l'éducation nationale, du ministre de la justice, du ministre chargé de la mer, du ministre chargé de la
+santé et du ministre chargé de l'agriculture fixe les modalités d'application du I et du II. 
 
-III. - Le brevet de sécurité routière est délivré aux titulaires d'une attestation scolaire de sécurité routière de premier
-ou de second niveau ou de l'attestation de sécurité routière ayant suivi une formation pratique organisée par une personne
-physique ou morale agréée par le préfet.
+III.-Le brevet de sécurité routière est délivré aux titulaires d'une attestation scolaire de sécurité routière de premier ou
+de second niveau ou de l'attestation de sécurité routière ayant suivi une formation pratique organisée par une personne
+physique ou morale agréée par le préfet. 
 
-Un arrêté du ministre chargé des transports fixe les modalités d'application du précédent alinéa.
+Un arrêté du ministre chargé de la sécurité routière fixe les modalités d'application du précédent alinéa.
 
 **Liens relatifs à cet article**
 
@@ -10580,11 +10580,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-774 du 8 juillet 2010 - art. 2
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Cite_:
 
-  - Code de l'éducation - art. L131-1
+  - Code de l'éducation - art. L131-1 (V)
 
 
 ###### Article R211-2
@@ -10593,12 +10593,12 @@ I.-Tout conducteur de cyclomoteur doit être âgé d'au moins quatorze ans.
 
 II.-Tout conducteur de cyclomoteur doit être titulaire soit du brevet de sécurité routière ou d'un titre reconnu équivalent
 délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen dont la
-liste est fixée par arrêté du ministre chargé des transports, soit du permis de conduire. 
+liste est fixée par arrêté du   ministre chargé de la sécurité routière, soit du permis de conduire. 
 
 III.-Le fait de contrevenir aux dispositions des deux alinéas précédents est puni de l'amende prévue pour les contraventions
 de la 2e classe. 
 
-IV.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+IV.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
 
 V.-Les dispositions du II ne sont applicables qu'aux personnes qui atteindront l'âge de seize ans à compter du 1er janvier
 2004. Jusqu'à cette date, ces dispositions sont applicables aux personnes qui n'ont pas atteint l'âge de seize ans.
@@ -10607,7 +10607,7 @@ V.-Les dispositions du II ne sont applicables qu'aux personnes qui atteindront l
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 **Liens**:
 
@@ -10627,7 +10627,6 @@ _Codifié par_:
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 7 (VT)
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe I (Ab)
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe II (Ab)
-  - SPEC_APPLI: Décret n°2004-795 2004-07-29 art. 3 : champ d'application
 
 _Cité par_:
 
@@ -10638,18 +10637,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-795 du 29 juillet 2004 - art. 1 () JORF 3 août 2004
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
+  - Décret n°2012-688 du 7 mai 2012 - art. 3
 
 _Anciens textes_:
 
   - Code de la route - art. R200-1 (Ab)
   - Code de la route - art. R233 (Ab)
   - Code de la route - art. R241-4 (Ab)
-  - Code de la route R200-1 (al. 1 à al. 3)
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-1
 
 
 ##### Section 2 : Apprentissage de la conduite.<a id=81></a>
@@ -10661,19 +10660,20 @@ permis de conduire, il faut :
 
 1° Etre âgé de seize ans minimum ; 
 
-2° Etre détenteur d'un livret d'apprentissage établi dans les conditions fixées par arrêté du ministre chargé des transports,
-et précisant les objectifs et la progressivité de la formation ; 
+2° Etre détenteur d'un livret d'apprentissage établi dans les conditions fixées par arrêté du ministre chargé de la sécurité
+routière, et précisant les objectifs et la progressivité de la formation ; 
 
 3° Etre détenteur du formulaire de la demande de permis de conduire validée par le préfet du département dans lequel cette
 demande a été déposée, ou d'un récépissé du dépôt de la demande pour la catégorie B du permis de conduire délivré par le
-préfet pour une durée maximale de deux mois, dans les conditions fixées par arrêté du ministre chargé des transports ; 
+préfet pour une durée maximale de deux mois, dans les conditions fixées par arrêté du ministre chargé de la sécurité
+routière ; 
 
 4° Etre, durant l'apprentissage, sous la surveillance constante et directe d'un enseignant, titulaire de l'autorisation
 d'enseigner la conduite des véhicules à moteur mentionnée aux articles L. 212-1 et R. 212-1 correspondant à la catégorie du
 véhicule utilisé, ou d'un accompagnateur titulaire, depuis au moins cinq ans sans interruption, du permis de conduire
-correspondant à la catégorie du véhicule utilisée.L'accompagnateur doit avoir suivi, dans les conditions définies par arrêté
-du ministre chargé des transports, une formation spécifique le préparant à assurer cette fonction et à utiliser, dans de
-bonnes conditions, les dispositifs de double commande dont doit être équipé le véhicule conformément aux dispositions
+correspondant à la catégorie du véhicule utilisée. L'accompagnateur doit avoir suivi, dans les conditions définies par arrêté
+du ministre chargé de la sécurité routière, une formation spécifique le préparant à assurer cette fonction et à utiliser,
+dans de bonnes conditions, les dispositifs de double commande dont doit être équipé le véhicule conformément aux dispositions
 mentionnées à l'article R. 317-25. Toutefois, cette obligation de formation spécifique ne s'applique pas à l'accompagnateur
 exerçant cette fonction pendant les périodes dites d'apprentissage anticipé de la conduite, de conduite supervisée ou de
 conduite encadrée, mentionnées aux articles R. 211-5, R. 211-5-1 et R. 211-5-2 ; 
@@ -10697,7 +10697,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1590 du 18 décembre 2009 - art. 2
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Anciens textes_:
 
@@ -10708,22 +10708,27 @@ _Cite_:
 
   - Code de la route. - art. L211-1
   - Code de la route. - art. R211-5
+  - Code de la route. - art. R211-5-1 (V)
   - Code de la route. - art. R212-1
   - Code de la route. - art. R317-25
 
 
 ###### Article R211-4
 
-Pour chaque catégorie de permis de conduire, un arrêté du ministre chargé des transports définit le contenu, la progressivité
-ainsi que la durée minimale de la formation. S'agissant des véhicules dont le poids total autorisé en charge n'excède pas 3,5
-tonnes, la durée minimale de la formation est identique à celle prévue dans le cadre de l'apprentissage anticipé de la
-conduite.
+Pour chaque catégorie de permis de conduire, un arrêté du   ministre chargé de la sécurité routière définit le contenu, la
+progressivité ainsi que la durée minimale de la formation. S'agissant des véhicules dont le poids total autorisé en charge
+n'excède pas 3,5 tonnes, la durée minimale de la formation est identique à celle prévue dans le cadre de l'apprentissage
+anticipé de la conduite.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Cité par_:
 
@@ -10732,7 +10737,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de la route - art. R123-2 (Ab)
-  - Code de la route R123-2 (al. 7)
 
 
 ###### Article R211-5
@@ -10755,11 +10759,11 @@ titulaire depuis au moins cinq ans sans interruption du permis de conduire de la
 
 Cette période commence par un rendez-vous pédagogique préalable entre l'enseignant de la conduite, l'accompagnateur et
 l'élève conducteur. Deux autres rendez-vous pédagogiques doivent avoir lieu au cours de cette période, pendant laquelle
-l'élève conducteur doit parcourir une distance minimale pendant une durée minimale, précisées par arrêté du ministre chargé
-des transports. 
+l'élève conducteur doit parcourir une distance minimale pendant une durée minimale, précisées par arrêté du   ministre chargé
+de la sécurité routière. 
 
 III.-Les conditions dans lesquelles les établissements d'enseignement de la conduite peuvent proposer et encadrer un
-apprentissage anticipé de la conduite sont fixées par arrêté du ministre chargé des transports.
+apprentissage anticipé de la conduite sont fixées par arrêté du   ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
@@ -10774,7 +10778,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1590 du 18 décembre 2009 - art. 3
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Anciens textes_:
 
@@ -10802,16 +10806,16 @@ La période d'apprentissage en conduite supervisée est accessible à partir de 
 rendez-vous pédagogique préalable entre l'enseignant de la conduite, l'accompagnateur et l'élève conducteur. 
 
 Au cours de cette période, l'élève doit participer à au moins un autre rendez-vous pédagogique et parcourir une distance
-minimale pendant une durée minimale, précisées par arrêté du ministre chargé des transports. 
+minimale pendant une durée minimale, précisées par arrêté du   ministre chargé de la sécurité routière. 
 
 Les conditions dans lesquelles les établissements d'enseignement de la conduite peuvent proposer et encadrer une phase de
-conduite supervisée sont fixées par arrêté du ministre chargé des transports.
+conduite supervisée sont fixées par arrêté du   ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1590 du 18 décembre 2009 - art. 4
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Cité par_:
 
@@ -10821,7 +10825,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la route. - art. L213-1 (V)
+  - Code de la route. - art. L213-1
 
 
 ###### Article R211-5-2
@@ -10836,20 +10840,20 @@ diplôme de l'éducation nationale, et ayant participé à un rendez-vous pédag
 l'enseignement de la conduite dans le cadre de la formation professionnelle et avec l'accompagnateur. Au moins un autre
 rendez-vous pédagogique doit avoir lieu au cours de cette période. 
 
-Un arrêté conjoint du ministre chargé des transports et du ministre chargé de l'éducation nationale fixe les conditions
-d'application du présent article.
+Un arrêté conjoint du   ministre chargé de la sécurité routière et du ministre chargé de l'éducation nationale fixe les
+conditions d'application du présent article.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-1590 du 18 décembre 2009 - art. 4
 
 _Cité par_:
 
   - Arrêté du 30 septembre 2010 (V)
   - Arrêté du 30 septembre 2010 - art. 3 (V)
   - Code de la route. - art. R317-25 (V)
+
+_Modifié par_:
+
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 
 ###### Article R211-5-3
@@ -10874,7 +10878,7 @@ _Créé par_:
 ###### Article R211-6
 
 Les leçons de conduite des véhicules à moteur sont autorisées sur les autoroutes, dans les conditions fixées par arrêté
-conjoint du ministre chargé des transports et du ministre chargé de l'intérieur. 
+conjoint du   ministre chargé de la sécurité routière et du ministre chargé de l'intérieur. 
 
 Le fait, pour toute personne enseignant la conduite des véhicules à moteur, de contrevenir aux dispositions fixées par
 l'arrêté susmentionné est puni de l'amende prévue pour les contraventions de la deuxième classe.
@@ -10883,7 +10887,7 @@ l'arrêté susmentionné est puni de l'amende prévue pour les contraventions de
 
 _Modifié par_:
 
-  - Décret n°2009-1590 du 18 décembre 2009 - art. 5
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Anciens textes_:
 
@@ -10901,7 +10905,7 @@ I.-L'autorisation d'enseigner la conduite des véhicules à moteur d'une catégo
 l'autorisation d'animer les stages de sensibilisation à la sécurité routière mentionnés aux articles L. 223-6 et R. 223-5
 sont délivrées, pour une durée de cinq ans, par le préfet du lieu de résidence du demandeur ou, pour un non-résident en
 France, par le préfet du département où il envisage d'exercer la profession d'enseignant ou d'animateur, dans les conditions
-fixées par arrêté du ministre chargé des transports. 
+fixées par arrêté du   ministre chargé de la sécurité routière. 
 
 Ces autorisations sont valables sur l'ensemble du territoire national. 
 
@@ -10923,7 +10927,7 @@ n'encourt, lorsque l'attestation est délivrée, aucune interdiction, même temp
 3° Une preuve de ses qualifications professionnelles ; 
 
 4° La preuve par tout moyen qu'il a exercé la ou les activités concernées pendant au moins deux ans consécutifs ou non au
-cours des dix années précédentes ou pendant une durée équivalente à temps partiel   lorsque l'activité ou la formation y
+cours des dix années précédentes ou pendant une durée équivalente à temps partiel lorsque l'activité ou la formation y
 conduisant n'est pas réglementée dans l'Etat d'établissement ; 
 
 La déclaration et les documents joints peuvent être transmis par tout moyen, accompagnés, le cas échéant, de leur traduction
@@ -10948,7 +10952,7 @@ organisée et les résultats lui en sont communiqués dans un délai maximal de 
 En l'absence de décision du préfet, ou, le cas échéant, de l'organisation de l'épreuve d'aptitude, dans les délais prévus ci-
 dessus, la prestation de services peut être effectuée. 
 
-Un arrêté du ministre chargé des transports fixe les conditions d'application du présent article.
+Un arrêté du   ministre chargé de la sécurité routière fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -10984,7 +10988,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-759 du 28 juin 2011 - art. 1 (V)
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Anciens textes_:
 
@@ -11004,8 +11008,8 @@ suivantes :
 3° Etre titulaire du permis de conduire de la catégorie B dont le délai probatoire fixé à l'article L. 223-1 est expiré ; 
 
 4° Remplir les conditions d'aptitude physique requises pour l'obtention du permis de conduire des catégories C, E (C), D, E
-(D), dont les modalités sont fixées par arrêté du ministre chargé des transports. Cette aptitude est attestée par un
-certificat médical en cours de validité. 
+(D), dont les modalités sont fixées par arrêté du   ministre chargé de la sécurité routière. Cette aptitude est attestée par
+un certificat médical en cours de validité. 
 
 Les conditions de délivrance et la périodicité du certificat médical sont celles fixées à l'article R. 221-11. 
 
@@ -11016,16 +11020,17 @@ II.-L'autorisation d'animer les stages de sensibilisation à la sécurité routi
 conditions suivantes :
 
 - soit être titulaire de l'autorisation d'enseigner mentionnée au I du présent article et d'un diplôme complémentaire dans le
-domaine de la formation à la sécurité routière figurant sur une liste fixée par arrêté du ministre chargé des transports ;
+domaine de la formation à la sécurité routière figurant sur une liste fixée par arrêté du   ministre chargé de la sécurité
+routière ;
 
 - soit être titulaire d'un diplôme permettant de faire usage du titre de psychologue et du permis de conduire dont le délai
 probatoire fixé à l'article L. 223-1 est expiré ;
 
 - et, dans les deux cas, être âgé d'au moins vingt-cinq ans et être titulaire d'une attestation de suivi de formation
 initiale à l'animation de stages de sensibilisation à la sécurité routière délivrée dans les conditions fixées par arrêté du
-ministre chargé des transports. 
+ministre chargé de la sécurité routière. 
 
-III.-Un arrêté du ministre chargé des transports définit les conditions d'application du présent article.
+III.-Un arrêté du   ministre chargé de la sécurité routière définit les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -11048,7 +11053,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 4
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Anciens textes_:
 
@@ -11057,8 +11062,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L223-1 (V)
-  - Code de la route. - art. R221-11 (V)
+  - Code de la route. - art. L223-1
+  - Code de la route. - art. R221-11
 
 
 ###### Article R212-3
@@ -11068,8 +11073,8 @@ Les titres ou diplômes prévus au I, 1°, de l'article R. 212-2 sont :
 I.-Le brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER). 
 
 Ce diplôme est délivré par le préfet qui a organisé les épreuves aux personnes ayant subi avec succès lesdites épreuves
-organisées dans des conditions fixées par un arrêté du ministre chargé des transports. Cet arrêté détermine en outre les
-conditions de dépôt, d'instruction des dossiers de candidature, le programme de formation, les épreuves et leur
+organisées dans des conditions fixées par un arrêté du ministre chargé de la sécurité routière. Cet arrêté détermine en outre
+les conditions de dépôt, d'instruction des dossiers de candidature, le programme de formation, les épreuves et leur
 organisation. 
 
 Ce diplôme porte, le cas échéant, la ou les mentions suivantes :
@@ -11089,11 +11094,11 @@ véhicules terrestres à moteur de la catégorie B :
 2° La carte professionnelle et le certificat d'aptitude professionnelle et pédagogique (CAPP) ; 
 
 3° Le brevet de spécialiste de l'armée de terre (BSAT), mention instruction élémentaire de conduite, ou les diplômes
-militaires reconnus équivalents à celui-ci par arrêté conjoint du ministre chargé des transports et du ministre de la
-défense ; 
+militaires reconnus équivalents à celui-ci par arrêté conjoint du ministre chargé de la sécurité routière et du ministre de
+la défense ; 
 
 4° Les diplômes d'enseignement de la conduite délivrés dans les territoires d'outre-mer et dans les collectivités
-territoriales de Mayotte et de Saint-Pierre-et-Miquelon.
+territoriales de Mayotte et de Saint-Pierre-et-Miquelon. 
 
 L'équivalence avec le brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité
 routière (BEPECASER), portant la ou les mentions catégorie E (B), catégorie A et catégories C, E (C), D, E (D), est admise de
@@ -11108,9 +11113,9 @@ R. 212-3-1.
 
 IV.-Un diplôme d'enseignement de la conduite délivré par un Etat qui n'est ni membre de la Communauté européenne ni partie à
 l'accord sur l'Espace économique européen, reconnu équivalent au brevet pour l'exercice de la profession d'enseignant de la
-conduite automobile et de la sécurité routière (BEPECASER), par décision du ministre chargé des transports prise sur avis
-d'une commission interministérielle créée à cet effet par arrêté conjoint du ministre chargé des Transports et du ministre
-chargé des Affaires étrangères.
+conduite automobile et de la sécurité routière (BEPECASER), par décision du ministre chargé de la sécurité routière prise sur
+avis d'une commission interministérielle créée à cet effet par arrêté conjoint du ministre chargé de la sécurité routière et
+du ministre chargé des Affaires étrangères.
 
 **Liens relatifs à cet article**
 
@@ -11145,7 +11150,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 5
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Anciens textes_:
 
@@ -11154,7 +11159,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R212-3-1 (V)
+  - Code de la route. - art. R212-3-1
 
 
 ###### Article R212-3-1
@@ -11224,13 +11229,13 @@ son expérience professionnelle couvrent l'intégralité de la différence subst
 reçue et la formation dispensée sur le territoire français et requise pour l'enseignement de la conduite ou l'animation de
 stages de sensibilisation à la sécurité routière. 
 
-Les dispositions fixées au présent article sont précisées par arrêté du ministre chargé des transports.
+Les dispositions fixées au présent article sont précisées par arrêté du   ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 6
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Cité par_:
 
@@ -11241,7 +11246,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la route. - art. R212-2 (V)
+  - Code de la route. - art. R212-2
 
 
 ###### Article R212-3-2
@@ -11523,7 +11528,7 @@ _Anciens textes_:
 
 I.-Pour obtenir le renouvellement quinquennal de l'autorisation d'enseigner la conduite des véhicules à moteur d'une
 catégorie donnée et la sécurité routière, l'enseignant doit remplir les conditions fixées au I de l'article R. 212-2 et à
-l'article R. 212-4.
+l'article R. 212-4. 
 
 II.-Pour obtenir le renouvellement quinquennal de l'autorisation d'animer les stages de sensibilisation à la sécurité
 routière, l'animateur doit : 
@@ -11531,20 +11536,20 @@ routière, l'animateur doit :
 1° Remplir les conditions fixées au II de l'article R. 212-2 et à l'article R. 212-4 ; 
 
 2° Justifier d'une attestation de formation continue à l'animation des stages de sensibilisation à la sécurité routière
-délivrée par le ministre chargé des transports. 
+délivrée par le   ministre chargé de la sécurité routière. 
 
-Un arrêté du ministre chargé des transports précise les conditions d'application du présent article.
+Un arrêté du   ministre chargé de la sécurité routière précise les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 8
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Cite_:
 
-  - Code de la route. - art. R212-2 (V)
-  - Code de la route. - art. R212-4 (V)
+  - Code de la route. - art. R212-2
+  - Code de la route. - art. R212-4
 
 
 ###### Article R212-5
@@ -11559,13 +11564,13 @@ l'article L. 212-3 par l'autorité préfectorale précitée.
 Le procureur de la République transmet copie du procès-verbal visé à l'article L. 212-3 à l'autorité préfectorale
 susmentionnée. 
 
-Un arrêté du ministre chargé des transports précise les conditions d'application du présent article.
+Un arrêté du   ministre chargé de la sécurité routière précise les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 9
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Anciens textes_:
 
@@ -11573,7 +11578,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L212-3 (V)
+  - Code de la route. - art. L212-3
 
 
 ###### Article R212-5-1
@@ -11594,41 +11599,44 @@ _Créé par_:
 
 ###### Article R212-6
 
-Le brevet d'animateur pour la formation des conducteurs responsables d'infractions (BAFCRI) est délivré par le ministre
-chargé des transports aux personnes ayant subi avec succès les épreuves d'un examen.
+Le brevet d'animateur pour la formation des conducteurs responsables d'infractions (BAFCRI) est délivré par le   ministre
+chargé de la sécurité routière aux personnes ayant subi avec succès les épreuves d'un examen. 
 
 Seuls peuvent se présenter à cet examen, en vue de l'obtention de ce brevet, les titulaires du brevet pour l'exercice de la
 profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER) ou d'un titre ou diplôme reconnu
-équivalent en application de l'article R. 212-3.
+équivalent en application de l'article R. 212-3. 
 
-L'examen est composé de deux épreuves écrites d'admissibilité et d'une épreuve orale d'admission.
+L'examen est composé de deux épreuves écrites d'admissibilité et d'une épreuve orale d'admission. 
 
 Les épreuves écrites d'admissibilité portent l'une sur la réglementation de la sécurité routière et l'autre sur des éléments
-d'accidentologie, de pédagogie et de psychologie.
+d'accidentologie, de pédagogie et de psychologie. 
 
 L'épreuve orale d'admission consiste en un entretien destiné à évaluer l'aptitude du candidat à animer un groupe de
-stagiaires.
+stagiaires. 
 
-Un arrêté du ministre chargé des transports précise le contenu détaillé des épreuves et les modalités de l'examen.
+Un arrêté du   ministre chargé de la sécurité routière précise le contenu détaillé des épreuves et les modalités de l'examen.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
   - Arrêté du 21 décembre 2005 - art. 2 (V)
 
+_Modifié par_:
+
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
+
 _Anciens textes_:
 
   - Code de la route - art. R244 (Ab)
-  - Code de la route R244
 
 _Cite_:
 
-  - Code de la route. - art. R212-3 (M)
+  - Code de la route. - art. R212-3
 
 
 #### Chapitre III : Etablissements d'enseignement et d'animation des stages de sensibilisation à la sécurité routière.<a id=83></a>
@@ -11693,12 +11701,12 @@ commerciale ou d'un diplôme étranger d'un niveau comparable ;
 - soit en justifiant d'une formation agréée, portant sur la gestion et l'exploitation des établissements d'enseignement de la
 conduite. 
 
-Un arrêté du ministre chargé des transports précise le programme, la durée minimale ainsi que les conditions d'agrément de
-cette formation ; 
+Un arrêté du   ministre chargé de la sécurité routière précise le programme, la durée minimale ainsi que les conditions
+d'agrément de cette formation ; 
 
 3° Etre âgé d'au moins vingt-trois ans ; 
 
-4° (alinéa abrogé) ;
+4° (alinéa abrogé) ; 
 
 5° Justifier de garanties minimales concernant les moyens de formation de l'établissement. Ces garanties concernent les
 locaux, les véhicules, les moyens matériels et les modalités d'organisation de la formation ; 
@@ -11710,9 +11718,10 @@ d'enseigner mentionnée à l'article L. 212-1 pour assurer les prestations d'ens
 
 - pour les établissements de formation des candidats à l'un des titres ou diplômes exigés pour l'exercice de la profession
 d'enseignant de la conduite des véhicules à moteur et de la sécurité routière, les personnels enseignants doivent satisfaire
-à des conditions particulières fixées par un arrêté du ministre chargé des transports. Dans chacun de ces établissements un
-directeur pédagogique est désigné. Il organise et encadre effectivement la formation. Ce directeur doit être titulaire du
-brevet d'aptitude à la formation des moniteurs (BAFM). Nul ne peut être directeur pédagogique dans plus d'un établissement. 
+à des conditions particulières fixées par un arrêté du   ministre chargé de la sécurité routière. Dans chacun de ces
+établissements un directeur pédagogique est désigné. Il organise et encadre effectivement la formation. Ce directeur doit
+être titulaire du brevet d'aptitude à la formation des moniteurs (BAFM). Nul ne peut être directeur pédagogique dans plus
+d'un établissement. 
 
 II.-Pour les personnes assurant l'exploitation effective d'au moins un établissement organisant des stages de sensibilisation
 à la sécurité routière mentionnés aux articles L. 223-6 et R. 223-5 et, le cas échéant, pour les personnes qu'elles désignent
@@ -11727,7 +11736,7 @@ stages de sensibilisation à la sécurité routière ;
 
 3° Etre âgé d'au moins vingt-cinq ans ; 
 
-4° (alinéa abrogé)
+4° (alinéa abrogé) 
 
 5° Justifier des garanties minimales concernant les moyens de formation de l'établissement. Ces garanties concernent les
 locaux, les moyens matériels, les modalités d'organisation de la formation et, le cas échéant, les véhicules ; 
@@ -11735,7 +11744,7 @@ locaux, les moyens matériels, les modalités d'organisation de la formation et,
 6° Justifier de la qualification des personnels animateurs qui doivent être titulaires de l'autorisation mentionnée au II de
 l'article R. 212-2. 
 
-Les conditions fixées au présent article sont précisées par arrêté du ministre chargé des transports.
+Les conditions fixées au présent article sont précisées par arrêté du   ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
@@ -11766,7 +11775,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-759 du 28 juin 2011 - art. 2 (V)
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Anciens textes_:
 
@@ -11849,13 +11858,13 @@ son expérience professionnelle couvrent l'intégralité de la différence subst
 reçue et la formation dispensée sur le territoire français et requise pour l'enseignement de la conduite ou l'animation de
 stages de sensibilisation à la sécurité routière. 
 
-Les dispositions fixées au présent article sont précisées par arrêté du ministre chargé des transports.
+Les dispositions fixées au présent article sont précisées par arrêté du   ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-759 du 28 juin 2011 - art. 2 (V)
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Cité par_:
 
@@ -11936,22 +11945,23 @@ _Anciens textes_:
 
 ###### Article R213-4
 
-Les programmes de formation prévus à l'article L. 213-4 sont définis par arrêtés du ministre chargé des transports. Les
-délégués et inspecteurs du permis de conduire et de la sécurité routière ou les agents publics qualifiés et spécialement
-habilités par un arrêté du ministre chargé des transports procèdent au contrôle de l'application des programmes de formation
-et du respect des obligations mises à la charge du titulaire de l'agrément par le présent code.
+Les programmes de formation prévus à l'article L. 213-4 sont définis par arrêtés du   ministre chargé de la sécurité
+routière. Les délégués et inspecteurs du permis de conduire et de la sécurité routière ou les agents publics qualifiés et
+spécialement habilités par un arrêté du   ministre chargé de la sécurité routière procèdent au contrôle de l'application des
+programmes de formation et du respect des obligations mises à la charge du titulaire de l'agrément par le présent code. 
 
 Les agents des services de l'Etat chargés des procédures d'agrément de ces établissements peuvent également procéder à des
 contrôles administratifs. 
 
 Indépendamment de ces contrôles, des audits pédagogiques des établissements agréés pour l'organisation des stages de
-sensibilisation à la sécurité routière peuvent être opérés par tout expert autorisé par le ministre chargé des transports.
+sensibilisation à la sécurité routière peuvent être opérés par tout expert autorisé par le   ministre chargé de la sécurité
+routière.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 15
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Cité par_:
 
@@ -12016,7 +12026,7 @@ de l'activité exercée ;
 de sensibilisation à la sécurité routière, d'une attestation de réactualisation de leurs connaissances professionnelles dans
 ce domaine spécifique. 
 
-Les conditions fixées au présent article sont précisées par arrêté du ministre chargé des transports.
+Les conditions fixées au présent article sont précisées par arrêté du   ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
@@ -12033,7 +12043,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 17
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Anciens textes_:
 
@@ -12041,8 +12051,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L213-1 (V)
-  - Code de la route. - art. R213-2 (V)
+  - Code de la route. - art. L213-1
+  - Code de la route. - art. R213-2
 
 
 ##### Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle.<a id=85></a>
@@ -12099,7 +12109,7 @@ d'enseigner qui remplissent les conditions prévues par l'article R. 212-2 ;
 visé à l'article R. 213-4 ; 
 
 5° Justifier de garanties minimales concernant les moyens de l'établissement. Ces garanties concernent les locaux, les
-véhicules, les moyens matériels. Ces garanties sont fixées par un arrêté du ministre chargé des transports ; 
+véhicules, les moyens matériels. Ces garanties sont fixées par un arrêté du   ministre chargé de la sécurité routière ; 
 
 6° Remplir les conditions prévues à l'article R. 213-2 (1°). Ces conditions sont exigées du président et de toute personne
 qu'il a, le cas échéant, dûment mandatée pour encadrer l'activité réglementée au présent chapitre.
@@ -12108,13 +12118,17 @@ qu'il a, le cas échéant, dûment mandatée pour encadrer l'activité réglemen
 
 _Cite_:
 
-  - Loi du 1 juillet 1901 - art. 5 (V)
-  - Code de la route. - art. R212-2 (M)
+  - Loi du 1er juillet 1901 - art. 5
+  - Code de la route. - art. R212-2
   - Loi n°1901-07-01 art. 5
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Cité par_:
 
@@ -12130,13 +12144,13 @@ _Anciens textes_:
 
 ###### Article R213-9
 
-L'agrément est délivré, retiré ou suspendu dans les conditions fixées aux articles R. 213-1 et R. 213-5.
+L'agrément est délivré, retiré ou suspendu dans les conditions fixées aux articles R. 213-1 et R. 213-5. 
 
 En outre, l'association agréée est tenue de présenter annuellement au préfet du département dans lequel elle dispense la
 formation mentionnée à l'article R. 213-7 un rapport d'activité. Ce rapport doit porter sur les activités de l'association
 pour l'insertion ou la réinsertion sociale ou professionnelle et préciser en particulier les actions entreprises pour la
-formation à la conduite et à la sécurité routière des publics concernés. Un arrêté du ministre chargé des transports précise
-les conditions d'application du présent alinéa.
+formation à la conduite et à la sécurité routière des publics concernés. Un arrêté du   ministre chargé de la sécurité
+routière précise les conditions d'application du présent alinéa.
 
 **Liens relatifs à cet article**
 
@@ -12146,18 +12160,21 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Anciens textes_:
 
   - Code de la route - art. R246-2 (Ab)
-  - Code de la route R246-2
 
 _Cite_:
 
-  - Code de la route. - art. R213-1 (V)
-  - Code de la route. - art. R213-5 (V)
-  - Code de la route. - art. R213-7 (V)
+  - Code de la route. - art. R213-1
+  - Code de la route. - art. R213-5
+  - Code de la route. - art. R213-7
 
 
 #### Chapitre IV  : Conseil supérieur de l'éducation routière (CSER)<a id=86></a>
@@ -13878,13 +13895,13 @@ _Cite_:
 
 Le stage de sensibilisation à la sécurité routière prévu à l'article L. 223-6 est destiné à éviter la réitération des
 comportements dangereux. Il est d'une durée de deux jours consécutifs. Il est organisé dans les conditions fixées par arrêté
-du ministre chargé des transports.
+du   ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 19
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Cité par_:
 
@@ -13907,7 +13924,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L223-6 (V)
+  - Code de la route. - art. L223-6
 
 
 ###### Article R223-6
@@ -13919,7 +13936,8 @@ Le stage doit comprendre :
 2° Un ou plusieurs modules spécialisés dont l'objet est d'impulser un processus de changement d'attitudes et de comportements
 chez le conducteur. 
 
-Le cadre de référence, le programme et les méthodes d'intervention sont fixés par arrêté du ministre chargé des transports. 
+Le cadre de référence, le programme et les méthodes d'intervention sont fixés par arrêté du   ministre chargé de la sécurité
+routière. 
 
 Ce programme d'éducation peut inclure un entretien avec un psychologue et une séquence de conduite.
 
@@ -13927,7 +13945,7 @@ Ce programme d'éducation peut inclure un entretien avec un psychologue et une s
 
 _Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 20
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Anciens textes_:
 
@@ -13963,8 +13981,8 @@ _Cite_:
 
 I.-Le titulaire de l'agrément prévu au II de l'article R. 213-2 délivre une attestation de stage à toute personne qui a suivi
 un stage de sensibilisation à la sécurité routière dans le respect de conditions d'assiduité et de participation fixées par
-arrêté du ministre chargé des transports. Il transmet un exemplaire de cette attestation au préfet du département du lieu du
-stage, dans un délai de quinze jours à compter de la fin de celui-ci. 
+arrêté du   ministre chargé de la sécurité routière. Il transmet un exemplaire de cette attestation au préfet du département
+du lieu du stage, dans un délai de quinze jours à compter de la fin de celui-ci. 
 
 II.-L'attestation délivrée à l'issue du stage effectué en application des dispositions de l'alinéa 3 de l'article L. 223-6
 donne droit à la récupération de quatre points dans la limite du plafond affecté au permis de conduire de son titulaire. Une
@@ -13977,10 +13995,10 @@ le lendemain de la dernière journée de stage.
 
 IV.-Dans le cas prévu à l'article R. 223-4, sont transmises au comptable du Trésor du lieu de commission de l'infraction,
 dans le délai de quinze jours mentionné au I ci-dessus, l'attestation de suivi de stage ainsi que, si l'amende a été
-acquittée, les pièces nécessaires à son remboursement.
+acquittée, les pièces nécessaires à son remboursement. 
 
 L'attestation de suivi de stage et les pièces nécessaires au remboursement de l'amende payée sont définies par arrêté
-conjoint du ministre de l'intérieur, du ministre chargé du budget et du ministre chargé des transports.
+conjoint du ministre de l'intérieur, du ministre chargé du budget et du   ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
@@ -13992,7 +14010,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 22
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Anciens textes_:
 
@@ -14002,28 +14020,28 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L223-6
-  - Code de la route. - art. R213-2 (V)
+  - Code de la route. - art. R213-2
   - Code de la route. - art. R223-4
   - Code de la route. - art. R223-5
 
 
 ###### Article R223-13
 
-Le brevet d'animateur pour la formation des conducteurs responsables d'infractions (BAFCRI) est délivré par le ministre
-chargé des transports aux personnes ayant subi avec succès les épreuves d'un examen.
+Le brevet d'animateur pour la formation des conducteurs responsables d'infractions (BAFCRI) est délivré par le   ministre
+chargé de la sécurité routière aux personnes ayant subi avec succès les épreuves d'un examen. 
 
 Seuls peuvent se présenter à l'examen, en vue de l'obtention de ce brevet, les titulaires du brevet pour l'exercice de la
-profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER).
+profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER). 
 
-L'examen est composé de deux épreuves écrites d'admissibilité et d'une épreuve orale d'admission.
+L'examen est composé de deux épreuves écrites d'admissibilité et d'une épreuve orale d'admission. 
 
 Les épreuves écrites d'admissibilité portent l'une sur la réglementation de la sécurité routière et l'autre sur des éléments
-d'accidentologie, de pédagogie et de psychologie.
+d'accidentologie, de pédagogie et de psychologie. 
 
 L'épreuve orale d'admission consiste en un entretien destiné à évaluer l'aptitude du candidat à animer un groupe de
-stagiaires.
+stagiaires. 
 
-Un arrêté du ministre chargé des transports précise le contenu détaillé des épreuves et les modalités de l'examen.
+Un arrêté du   ministre chargé de la sécurité routière précise le contenu détaillé des épreuves et les modalités de l'examen.
 
 **Nota:**
 
@@ -14033,16 +14051,15 @@ Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Anciens textes_:
 
   - Code de la route - art. R246-1 (Ab)
-  - Code de la route R246-1
 
 
 #### Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation<a id=93></a>
