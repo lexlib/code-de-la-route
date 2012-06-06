@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2012-05-09
+Version Consolidée au 2012-06-07
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -30003,16 +30003,17 @@ I. - La commission départementale de la sécurité routière est consultée pr�
 2° D'agrément d'exploitation d'un établissement destiné à la formation de moniteurs d'enseignement de la conduite des
 véhicules à moteur ;
 
-3° D'autorisation d'organisation d'épreuves ou compétitions sportives dont la délivrance relève de la compétence du préfet ;
+3° D'autorisation d'organisation de manifestations sportives, dans les conditions prévues aux articles R. 331-11 et R. 331-26
+du code du sport ;
 
 4° D'agrément des gardiens et des installations de fourrière ;
 
 5° D'agrément des personnes et des organismes dispensant aux conducteurs responsables d'infractions la formation spécifique à
 la sécurité routière.
 
-II. - La commission peut également être consultée sur tout autre sujet relatif à la sécurité routière, tel que : 
+II. - La commission peut également être consultée sur tout autre sujet relatif à la sécurité routière, tel que :
 
-- la mise en place d'itinéraires de déviation pour les poids lourds ; 
+- la mise en place d'itinéraires de déviation pour les poids lourds ;
 
 - l'harmonisation des limitations de vitesse des véhicules sur les voies ouvertes à la circulation publique.
 
@@ -30028,7 +30029,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-537 du 20 avril 2012 - art. 1
+  - Décret n°2012-312 du 5 mars 2012 - art. 5
+
+_Cite_:
+
+  - Code du sport. - art. R331-11
+  - Code du sport. - art. R331-26
 
 _Cité par_:
 
@@ -30632,17 +30638,41 @@ _Cité par_:
 
 L'organisation des épreuves, courses ou compétitions sportives devant se disputer en totalité ou en partie sur les voies
 ouvertes à la circulation publique est soumise à autorisation administrative délivrée dans les conditions prévues à la
-section 4 du chapitre 1er du titre III du livre III du code du sport.
+section 4 du chapitre 1er du titre III du livre III du code du sport. 
+
+Par dérogation aux dispositions de l'article R. 322-1, la circulation sur la voie publique ou ouverte à la circulation
+publique d'un véhicule à moteur destiné à participer à une manifestation sportive entrant dans le cadre de l'article R.
+331-18 du code du sport, non réceptionné ou qui n'est plus conforme à sa réception d'origine telle que prévue aux articles R.
+321-1 et suivants, est autorisée sur un parcours de liaison tel que défini à l'article R. 331-21 (4°) du code du sport. 
+
+Cette autorisation est valide sous réserve d'une inscription à une manifestation sportive organisée conformément à l'article
+R. 331-26 du code du sport. 
+
+Cette dérogation est strictement limitée à la date et à l'itinéraire prévus dans l'arrêté d'autorisation de la manifestation
+sportive. 
+
+Les modalités d'application relatives à l'identification des conducteurs sont fixées par arrêté conjoint du ministre de
+l'intérieur et du ministre chargé des sports. 
+
+Un arrêté du ministre chargé des transports fixe, pour chaque type de véhicule, les dispositifs techniques et de sécurité
+minimaux dont ils doivent disposer pour l'application de cet article.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 art. 4 JORF 25 juillet 2007
+  - Décret n°2012-312 du 5 mars 2012 - art. 5
+
+_Cite_:
+
+  - Code du sport. - art. R331-18
+  - Code du sport. - art. R331-21
+  - Code du sport. - art. R331-26
+  - Code de la route. - art. R322-1
 
 _Anciens textes_:
 
@@ -30692,17 +30722,25 @@ _Anciens textes_:
 ###### Article R411-31
 
 L'autorisation peut être subordonnée à l'agrément par l'autorité administrative de représentants de la fédération sportive ou
-de l'association qui organise l'épreuve, la course ou la compétition sportive. Les représentants qui doivent être majeurs et
-titulaires du permis de conduire sont chargés, sur l'itinéraire emprunté, de signaler l'épreuve, la course ou la compétition
-sportive aux usagers de la route. Dans l'accomplissement de leur mission, ils sont tenus de se conformer aux instructions des
-membres des forces de police ou de gendarmerie présents sur les lieux. Ils leur rendent compte des incidents qui peuvent
-survenir.
+de la personne physique ou morale qui organise l'épreuve, la course ou la compétition sportive. Les représentants qui doivent
+être majeurs et titulaires du permis de conduire sont chargés, sur l'itinéraire emprunté, de signaler l'épreuve, la course ou
+la compétition sportive aux usagers de la route. Ils portent des signes vestimentaires permettant de les identifier. Dans
+l'accomplissement de leur mission, ils sont tenus de se conformer aux instructions des membres des forces de police ou de
+gendarmerie territorialement compétents. Ils leur rendent compte des incidents qui peuvent survenir. 
+
+Le fait pour tout usager de contrevenir aux indications des représentants mentionnés à l'alinéa précédent et mettant en œuvre
+les mesures de circulation édictées en vertu de l'article R. 411-30 à l'occasion des épreuves, courses ou compétitions
+sportives est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2012-312 du 5 mars 2012 - art. 5
 
 _Cité par_:
 
@@ -30716,10 +30754,9 @@ _Anciens textes_:
   - Code de la route - art. R53 (Ab)
   - Code de la route R53 (al. 3)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Code de la route. - art. R411-30
 
 
 ###### Article R411-32
