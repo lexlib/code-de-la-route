@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2012-06-07
+Version Consolidée au 2012-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -100,7 +100,7 @@ Version Consolidée au 2012-06-07
       - [Titre III : Comportement du conducteur. (art. R231-1 à R235-13)](#97)
         - [Chapitre Ier : Comportement en cas d'accident. (art. R231-1)](#98)
         - [Chapitre III : Comportement en cas de contrôle routier. (art. R233-1 à R233-3)](#99)
-        - [Chapitre IV : Conduite sous l'influence de l'alcool. (art. R234-1 à R234-6)](#100)
+        - [Chapitre IV : Conduite sous l'influence de l'alcool. (art. R234-1 à R234-7)](#100)
         - [Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants (art. R235-1 à R235-13)](#101)
           - [Section 1 : Dispositions générales (art. R235-1 à R235-2)](#102)
           - [Section 2 : Epreuves de dépistage (art. R235-3 à R235-4)](#103)
@@ -14902,8 +14902,8 @@ _Anciens textes_:
 
 ###### Article R233-1
 
-I.-Tout conducteur d'un véhicule à moteur est tenu de présenter à toute réquisition des agents de l'autorité compétente,
-lorsque ces documents sont exigés par le présent code : 
+I.-Lorsque les dispositions du présent code l'exigent, tout conducteur est tenu de présenter à toute réquisition des agents
+de l'autorité compétente : 
 
 1° Tout titre justifiant de son autorisation de conduire ; 
 
@@ -14926,19 +14926,26 @@ construction d'un tel dispositif ; ou
 
 b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de procédure pénale. 
 
+6° Un éthylotest dans les conditions prévues à l'article R. 234-7 (1). 
+
 II.-En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
 vol tient lieu de titre pendant un délai de deux mois au plus. 
 
-III.-Le fait de ne pas présenter immédiatement aux agents de l'autorité compétente les autorisations et pièces
-administratives exigées par le présent article est puni de l'amende prévue pour les contraventions de la première classe. 
+III.-Le fait de ne pas présenter immédiatement aux agents de l'autorité compétente les éléments exigés par le présent article
+est puni de l'amende prévue pour les contraventions de la première classe. 
 
 IV.-Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession de son brevet de sécurité
 routière, de ne pas présenter ce document avant l'expiration de ce délai est puni de l'amende prévue pour les contraventions
 de la deuxième classe. 
 
-V.-Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession des autorisations et pièces
-exigées par le présent article, de ne pas présenter ces documents avant l'expiration de ce délai est puni de l'amende prévue
-pour les contraventions de la quatrième classe.
+V.-Hors le cas prévu au 6° du I, le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la
+possession des autorisations et pièces exigées par le présent article, de ne pas présenter ces documents avant l'expiration
+de ce délai est puni de l'amende prévue pour les contraventions de la quatrième classe (1).
+
+**Nota:**
+
+(1) Décret n° 2012-284 du 28 février 2012 article 3 : les 2° et 4° de l'article 2 entreront en vigueur le 1er novembre 2012.
+L'article 1 du décret n° 2012-1197 du 29 octobre 2012 a remplacé la date du 1er novembre 2012 par celle du 1er mars 2013.
 
 **Liens relatifs à cet article**
 
@@ -14957,13 +14964,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1048 du 5 septembre 2011 - art. 4
+  - Décret n°2012-284 du 28 février 2012 - art. 2
 
 _Cite_:
 
-  - Code de procédure pénale - art. 41-2
-  - Code de la route. - art. R221-6
-  - Code de la route. - art. R221-8
+  - Code de procédure pénale - art. 41-2 (V)
+  - Code de la route. - art. R221-6 (VT)
+  - Code de la route. - art. R221-8 (VT)
+  - Code de la route. - art. R234-7 (V)
 
 _Anciens textes_:
 
@@ -15313,6 +15321,37 @@ _Modifié par_:
 _Cité par_:
 
   - Code de la route. - art. R130-6 (VD)
+
+
+###### Article R234-7
+
+Tout conducteur d'un véhicule terrestre à moteur, à l'exclusion d'un cyclomoteur, doit justifier de la possession d'un
+éthylotest, non usagé, disponible immédiatement. 
+
+L'éthylotest mentionné au premier alinéa respecte les conditions de validité, notamment la date de péremption, prévues par
+son fabricant. Il est revêtu d'une marque de certification ou d'un marquage du fabricant déclarant sa conformité à un modèle
+bénéficiant d'une attestation de conformité aux normes dont les références sont publiées au Journal officiel de la République
+française. 
+
+Sont considérés comme répondant à l'obligation prévue au premier alinéa, le conducteur d'un véhicule équipé par un
+professionnel agréé ou par construction d'un dispositif d'antidémarrage par éthylotest électronique homologué conformément à
+l'article L. 234-17 ainsi que le conducteur d'un autocar équipé d'un dispositif éthylotest antidémarrage dans les conditions
+fixées à l'article R. 317-24.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-284 du 28 février 2012 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. L234-17
+  - Code de la route. - art. R317-24
+
+_Cité par_:
+
+  - Code de la route. - art. R233-1 (V)
 
 
 #### Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants<a id=101></a>
