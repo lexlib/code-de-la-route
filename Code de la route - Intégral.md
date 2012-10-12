@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2012-09-01
+Version Consolidée au 2012-10-13
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -24886,23 +24886,17 @@ réseau. L'ensemble de ces équipements est défini par arrêté du ministre cha
 II. - L'activité d'un centre de contrôle doit s'exercer dans des locaux n'abritant aucune activité de réparation ou de
 commerce automobile et ne communiquant avec aucun local abritant une telle activité.
 
-Toutefois, afin d'assurer une meilleure couverture géographique, de répondre aux besoins des usagers ou, s'agissant des
-véhicules lourds, de réduire les déplacements, un réseau de contrôle agréé peut utiliser des installations auxiliaires
-situées dans des locaux abritant des activités de réparation ou de commerce automobile. Il doit pour cela obtenir un agrément
-particulier.
-
-Une convention de mise à disposition à titre onéreux est passée entre le réseau et l'exploitant de ces installations.
-
-Lorsqu'un véhicule est contrôlé dans une installation auxiliaire, il ne doit faire l'objet d'aucune réparation pendant la
-durée de ce contrôle.
-
-Les installations auxiliaires font l'objet d'une surveillance spéciale de la part des fonctionnaires ou agents de l'Etat
-cités au I de l'article R. 323-21.
-
 III. - Sur la demande du ministre chargé des transports, le titulaire de l'agrément des installations d'un centre de contrôle
 met l'une ou plusieurs de ces installations à la disposition des fonctionnaires ou agents de l'Etat chargés des réceptions
 des véhicules ou éléments de véhicules, placés sous l'autorité des ministres chargés de l'industrie et des transports. Une
 convention à titre onéreux est passée entre l'exploitant et l'administration.
+
+**Nota:**
+
+Décret n° 2012-1145 du 10 octobre 2012 art. 2 I : Les agréments délivrés aux installations auxiliaires en vertu du II de
+l'article R. 323-13 du code de la route, dans sa rédaction antérieure à la publication du présent décret, peuvent être
+maintenus dans l'intérêt de la sécurité routière pour une durée d'au plus quatre ans à partir de cette date de publication si
+les circonstances locales le justifient.
 
 **Liens relatifs à cet article**
 
@@ -24928,19 +24922,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-568 2004-06-11 art. 5 : champ d'application
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2004-568 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
-
-_Cite_:
-
-  - Code de la route. - art. R323-21 (M)
+  - Décret n°2012-1145 du 10 octobre 2012 - art. 1
 
 
 ###### Article R323-14
@@ -24962,18 +24948,7 @@ faciliter la mission des agents désignés par lui pour surveiller le bon foncti
 Le dossier de demande comporte, en outre, l'avis du réseau de contrôle agréé lorsque le centre de contrôle est rattaché à un
 réseau, ou l'avis de l'organisme technique central dans le cas contraire.
 
-II. - L'agrément particulier des installations auxiliaires est délivré au réseau qui les utilise par le préfet du département
-où sont implantées les installations après avis favorable de l'organisme technique central.
-
-La demande d'agrément indique l'identité du demandeur, son statut juridique et les catégories de contrôles techniques qui
-seront effectuées dans les installations. Elle est accompagnée d'un document par lequel le réseau s'engage à respecter les
-prescriptions d'un cahier des charges. Cet engagement décrit notamment l'organisation et les moyens techniques mis en oeuvre
-pour assurer en permanence la qualité et l'objectivité des contrôles techniques effectués. Le demandeur doit s'engager à
-établir tous les documents se rapportant à son activité prescrits par le ministre chargé des transports et à faciliter la
-mission des agents désignés par lui pour surveiller le bon fonctionnement des installations de contrôle.
-
-Pour le contrôle technique des véhicules lourds, l'agrément des installations auxiliaires est délivré pour une durée de
-quatre ans renouvelable.
+II. - (Abrogé).
 
 III. - Les agréments des installations de contrôle, ainsi que toutes les mesures affectant leur validité, sont inscrits dans
 un registre national qui est élaboré et tenu à jour dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978
@@ -24992,7 +24967,7 @@ mois.
 
 _Cite_:
 
-  - Loi n°78-17 1978-01-06
+  - Loi n°78-17 du 6 janvier 1978
 
 _Anciens textes_:
 
@@ -25017,23 +24992,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-568 2004-06-11 art. 5 : champ d'application
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2004-568 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
+  - Décret n°2012-1145 du 10 octobre 2012 - art. 1
 
 
 ###### Article R323-15
 
 I. - Lorsqu'un centre de contrôle agréé est rattaché à un réseau agréé, il ne peut dépendre que d'un seul réseau de contrôle.
-
-De même, une installation auxiliaire ne peut être rattachée qu'à un seul réseau. Elle ne doit être utilisée, dans le cadre du
-contrôle technique, que par des contrôleurs relevant de ce réseau.
 
 II. - Les contrôles techniques effectués sur des véhicules lourds appartenant à une même personne physique ou morale ne
 doivent pas représenter, chaque année, plus de 10 % de l'activité de contrôle technique des véhicules lourds d'un centre de
@@ -25057,15 +25025,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-568 2004-06-11 art. 5 : champ d'application
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2004-568 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
+  - Décret n°2012-1145 du 10 octobre 2012 - art. 1
 
 _Cité par_:
 
@@ -25114,20 +25078,24 @@ _Cité par_:
 
 ###### Article R323-17
 
-I.-Les contrôleurs agréés doivent posséder une qualification dont les caractéristiques sont définies par arrêté du ministre
+I. - Les contrôleurs agréés doivent posséder une qualification dont les caractéristiques sont définies par arrêté du ministre
 chargé des transports pour chaque catégorie de contrôle technique. 
 
-II.-Un contrôleur agréé ne peut exercer aucune activité dans la réparation ou le commerce automobile, que ce soit à titre
+II. - Un contrôleur agréé ne peut exercer aucune activité dans la réparation ou le commerce automobile, que ce soit à titre
 indépendant ou en qualité de salarié. 
 
-III.-Un contrôleur agréé ne doit pas effectuer, par trimestre, plus de 35 % du nombre de ses contrôles techniques dans des
-installations auxiliaires. De plus, un contrôleur ne doit pas effectuer, par trimestre, plus de 35 % des contrôles techniques
-de véhicules lourds réalisés dans une même installation auxiliaire. 
+III. - (Abrogé).
 
-IV.-Lorsqu'il est réalisé par un prestataire visé au II de l'article L. 323-1, le contrôle technique prévu par le présent
+IV. - Lorsqu'il est réalisé par un prestataire visé au II de l'article L. 323-1, le contrôle technique prévu par le présent
 chapitre ne peut être réputé avoir été réalisé que si, pour la prestation considérée, ce prestataire n'a aucun lien de nature
 à porter atteinte à son indépendance avec des personnes, organismes, sociétés ou entreprises qui exercent une activité de
 réparation ou de commerce dans le secteur automobile.
+
+**Nota:**
+
+Décret n° 2012-1145 du 10 octobre 2012 art. 2 II : Les dispositions du III de l'article R. 323-17 du code de la route
+demeurent applicables, dans leur rédaction antérieure à la publication du présent décret, aux contrôleurs agréés en vertu de
+l'article R. 323-17 de ce code qui exercent dans les installations auxiliaires.
 
 **Liens relatifs à cet article**
 
@@ -25149,7 +25117,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-163 du 22 février 2010 - art. 4
+  - Décret n°2012-1145 du 10 octobre 2012 - art. 1
 
 _Cite_:
 
