@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2012-11-11
+Version Consolidée au 2012-12-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -35904,7 +35904,9 @@ de transports publics de voyageurs, des taxis ou des véhicules d'intérêt gén
 délimitées par l'autorité investie du pouvoir de police ; 
 
 3° D'un véhicule sur les emplacements réservés aux véhicules portant une carte de stationnement de modèle communautaire pour
-personne handicapée, ou un macaron grand invalide de guerre (GIG) ou grand invalide civil (GIC). 
+personne handicapée, ou un macaron grand invalide de guerre (GIG) ou grand invalide civil (GIC) ;
+
+4° D'un véhicule sur les emplacements réservés aux véhicules de transport de fonds, de bijoux ou de métaux précieux.  
 
 II.-Tout arrêt ou stationnement gênant prévu par le présent article est puni de l'amende prévue pour les contraventions de la
 quatrième classe. 
@@ -35913,19 +35915,11 @@ III.-Lorsque le conducteur ou le titulaire du certificat d'immatriculation est a
 agents, de faire cesser le stationnement gênant, l'immobilisation et la mise en fourrière peuvent être prescrites dans les
 conditions prévues aux articles L. 325-1 à L. 325-3.
 
-**Nota:**
-
-Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 6 () JORF 12 juillet 2003
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -35936,6 +35930,10 @@ _Cité par_:
   - Arrêté du 29 juin 2018 - art. (V)
   - Arrêté du 12 décembre 2018 - art. 3
 
+_Modifié par_:
+
+  - Décret n°2012-1109 du 1er octobre 2012 - art. 17
+
 _Anciens textes_:
 
   - Code de la route - art. R233-1 (Ab)
@@ -35945,7 +35943,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R417-12
