@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2012-12-01
+Version Consolidée au 2012-12-30
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -14840,7 +14840,7 @@ _Cite_:
 
 ###### Article R225-4
 
-Les  autorités judiciaires, les juridictions administratives dans le cadre des recours formulés contre les décisions de
+Les autorités judiciaires, les juridictions administratives dans le cadre des recours formulés contre les décisions de
 retrait de points du permis de conduire, les officiers de police judiciaire chargés de l'exécution d'une ordonnance
 juridictionnelle ou agissant dans le cadre d'une enquête de flagrance, les préfets dans l'exercice de leurs compétences en
 matière de permis de conduire, les militaires de la gendarmerie et les fonctionnaires de la police nationale habilités à
@@ -14851,17 +14851,14 @@ Un arrêté conjoint du ministre de l'intérieur et du ministre de la justice, o
 les modalités techniques et financières de l'accès à ces informations ouvert par voie téléinformatique aux autorités
 judiciaires, aux juridictions administratives mentionnées à l'alinéa précédent et aux militaires de la gendarmerie.
 
-Peuvent en outre accéder aux données mentionnées à l'article L. 225-4, dans les conditions fixées aux articles 9 et 33 de la
-loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la
-sécurité et aux contrôles transfrontaliers :
+Peuvent également accéder aux données mentionnées à l'article L. 225-4 du présent code dans les conditions fixées à l'article
+L. 222-1 du code de la sécurité intérieure et à l'article 33 de la loi n° 2006-64 du 23 janvier 2006 : 
 
 - les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie
 nationale chargés des missions de prévention et de répression des actes de terrorisme ;
 
 - les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de
 terrorisme.
-
-Les dispositions prévues aux troisième, quatrième et cinquième alinéas sont applicables jusqu'au 31 décembre 2012.
 
 **Liens relatifs à cet article**
 
@@ -14881,7 +14878,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-3 du 3 janvier 2012 - art. 4
+  - Décret n°2012-1490 du 27 décembre 2012 - art. 1
 
 _Anciens textes_:
 
@@ -28279,24 +28276,16 @@ de la défense et du ministre de l'intérieur, soit du ministre chargé de l'ind
 les modalités de l'accès à ces informations ouvert par voie téléinformatique aux services du ministre chargé des transports
 et du ministre chargé de l'industrie et aux militaires de la gendarmerie. 
 
-Peuvent également accéder aux données mentionnées à l'article L. 330-2 du code de la route dans les conditions fixées aux
-articles 9 et 33 de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions
-diverses relatives à la sécurité et aux contrôles transfrontaliers :
+Peuvent également accéder aux données mentionnées à l'article L. 330-2 du présent code dans les conditions fixées à l'article
+L. 222-1 du code de la sécurité intérieure et à l'article 33 de la loi n° 2006-64 du 23 janvier 2006 : 
 
 - les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie
 nationale chargés des missions de prévention et de répression des actes de terrorisme ;
 
 - les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de
-terrorisme. 
-
-Les dispositions prévues aux troisième, quatrième et cinquième alinéas sont applicables jusqu'au 31 décembre 2012.
+terrorisme.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2006-64 du 23 janvier 2006 - art. 9 (V)
-  - Code de la route. - art. L330-2 (V)
 
 _Cité par_:
 
@@ -28307,12 +28296,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-1456 du 30 décembre 2008 - art. 3
+  - Décret n°2012-1490 du 27 décembre 2012 - art. 2
 
 _Anciens textes_:
 
   - Code de la route - art. R247-7 (Ab)
   - Code de la route R247-7
+
+_Cite_:
+
+  - Code de la route. - art. L330-2
 
 
 ###### Article R330-3
