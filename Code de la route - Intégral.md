@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2012-12-30
+Version Consolidée au 2013-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -17644,9 +17644,7 @@ d'un train double, ne doit pas dépasser :
 
 1° 38 tonnes, si l'ensemble considéré ne comporte pas plus de quatre essieux ; 
 
-2° 40 tonnes, si l'ensemble considéré comporte cinq essieux ;
-
-3° 44 tonnes, si l'ensemble considéré comporte plus de cinq essieux. 
+2° 44 tonnes, si l'ensemble considéré comporte plus de quatre essieux.
 
 III. - Lorsque les exigences de sécurité routière ou de préservation du bon état de la voirie le justifient, un arrêté du
 représentant de l'Etat dans le département ou un arrêté conjoint des représentants de l'Etat dans les départements intéressés
@@ -17718,7 +17716,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-64 du 17 janvier 2011 - art. 2 (V)
+  - Décret n°2012-1359 du 4 décembre 2012 - art. 1
 
 _Cite_:
 
@@ -17739,7 +17737,9 @@ _Anciens textes_:
 
 ###### Article R312-5
 
-L'essieu le plus chargé d'un véhicule ou d'un élément de véhicule ne doit pas supporter une charge supérieure à 13 tonnes. 
+L'essieu le plus chargé d'un véhicule ou d'un élément de véhicule ne doit pas supporter une charge supérieure à 13 tonnes,
+cette limite étant fixée à 12 tonnes pour les véhicules articulés d'un ensemble composé d'un véhicule à moteur et d'une
+remorque d'un train double circulant entre 40 et 44 tonnes. 
 
 Le ministre chargé des transports détermine par arrêté les conditions dérogatoires applicables à certains matériels de
 travaux publics. 
@@ -17768,7 +17768,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-368 du 4 avril 2011 - art. 5
+  - Décret n°2012-1359 du 4 décembre 2012 - art. 2
 
 _Anciens textes_:
 
@@ -17816,6 +17816,10 @@ b) 16 tonnes ;
 
 4° Pour une distance entre les deux essieux supérieure ou égale à 1,35 mètre et inférieure à 1,80 mètre : 19 tonnes. 
 
+II bis. - Lorsque les véhicules articulés d'un ensemble composé d'un véhicule à moteur et d'une remorque d'un train double
+circulent entre 40 et 44 tonnes et comportent un groupe de trois essieux, la charge totale supportée par ce groupe ne doit
+pas dépasser 27 tonnes.  
+
 III.-Le ministre chargé des transports détermine par arrêté les conditions dérogatoires applicables à certains matériels de
 travaux publics. 
 
@@ -17843,7 +17847,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-368 du 4 avril 2011 - art. 6
+  - Décret n°2012-1359 du 4 décembre 2012 - art. 3
 
 _Anciens textes_:
 
@@ -36814,6 +36818,35 @@ _Cité par_:
   - Arrêté du 29 septembre 2008 - art. 1 (VD)
   - Arrêté du 29 septembre 2008 - art. 2 (V)
   - Arrêté du 29 septembre 2008 - art. 3 (VD)
+
+
+###### Article R431-1-2
+
+Lorsqu'ils circulent ou lorsqu'ils sont amenés à descendre de leur véhicule immobilisé sur la chaussée ou ses abords à la
+suite d'un arrêt d'urgence, tous conducteurs et passagers d'une motocyclette d'une cylindrée supérieure à 125 cm³ ou d'un
+véhicule de la catégorie L5e d'une puissance supérieure à 15 kW/h doivent porter un vêtement muni d'un équipement
+rétroréfléchissant dont les caractéristiques sont fixées par arrêté du ministre chargé de la sécurité routière.
+
+Le fait pour tout conducteur ou passager d'une motocyclette ou tricycle visé au premier alinéa de contrevenir aux
+dispositions du présent article est puni de l'amende prévue pour les contraventions de la troisième classe.
+
+Cette contravention, lorsqu'elle est commise par le conducteur, donne lieu de plein droit à la réduction de deux points du
+permis de conduire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-3 du 3 janvier 2012 - art. 23
+
+_Abrogé par_:
+
+  - Décret n°2015-514 du 7 mai 2015 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 19 septembre 2016 (V)
+  - Arrêté du 19 septembre 2016 - art. 1 (V)
 
 
 ###### Article R431-3
