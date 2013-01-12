@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2013-01-06
+Version Consolidée au 2013-01-13
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -16119,36 +16119,36 @@ _Nouveaux textes_:
 
 ###### Article R242-3
 
-Pour l'application du présent livre à Mayotte :
+Pour l'application du présent livre à Mayotte : 
 
-1° Au I de l'article R. 212-3 et dans les articles R. 212-6, R. 213-2, R. 213-4 et R. 213-9, le terme "ministre chargé des
-transports" est remplacé par "représentant de l'Etat" ;
+1° Au I de l'article R. 212-3 et dans les articles R. 212-6, R. 213-2, R. 213-4 et R. 213-9, le terme " ministre chargé des
+transports " est remplacé par " représentant de l'Etat " ; 
 
-2° Le ministre chargé de l'outre-mer signe les arrêtés ministériels prévus par les articles R. 221-4, R. 221-10 et R. 233-1 ;
+2° Le ministre chargé de l'outre-mer signe les arrêtés ministériels prévus par les articles R. 221-4, R. 221-10 et R.
+233-1 ; 
 
-3° Les arrêtés ministériels prévus par les articles R. 222-1 à R. 222-3, R. 222-7, R. 222-8 et R. 234-2 sont pris après avis
-du ministre chargé de l'outre-mer ;
+3° Les arrêtés ministériels prévus par les articles R. 222-1 à R. 222-3, R. 222-7, D. 222-8 et R. 234-2 sont pris après avis
+du ministre chargé de l'outre-mer ; 
 
-4° Au quatrième alinéa de l'article R. 221-20, après les mots :
+4° Au quatrième alinéa de l'article R. 221-20, après les mots : 
 
-"départements d'outre-mer", il est ajouté les mots : "et à Mayotte."
+" départements d'outre-mer ", il est ajouté les mots : " et à Mayotte. "
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°93-301 1993-03-08 art. 3, art. 4, art. 9
   - Décret n°93-301 du 8 mars 1993 - art. 3 (Ab)
   - Décret n°93-301 du 8 mars 1993 - art. 4 (Ab)
   - Décret n°93-301 du 8 mars 1993 - art. 9 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+  - Code de la route. - art. D222-8 (VD)
 
 _Nouveaux textes_:
 
