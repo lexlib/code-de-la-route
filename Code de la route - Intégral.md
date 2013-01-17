@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2013-01-13
+Version Consolidée au 2013-01-18
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -12821,15 +12821,19 @@ _Cité par_:
 
 ###### Article R221-7
 
-La catégorie A du permis de conduire autorise la conduite des véhicules de la catégorie L5e et des quadricycles lourds à
-moteur. La catégorie B du permis de conduire autorise la conduite des quadricycles lourds à moteur.
+La catégorie A du permis de conduire autorise la conduite des véhicules relevant des catégories A2 et A1. 
 
-La sous-catégorie A 1 du permis de conduire autorise la conduite des véhicules relevant de la sous-catégorie B 1.
+La catégorie A2 du permis de conduire autorise la conduite des véhicules relevant de la catégorie A1. 
 
-Les catégories E (C) ou E (D) du permis de conduire autorisent la conduite des véhicules relevant de la catégorie E (B).
+La catégorie B du permis de conduire autorise la conduite des quadricycles à moteur (véhicules des catégories L6e et L7e). 
 
-La catégorie E (C) du permis de conduire autorise la conduite des véhicules relevant de la catégorie E (D) sous réserve que
-son titulaire soit en possession de la catégorie D du permis de conduire.
+Les catégories C1E, CE, D1E et DE du permis de conduire autorisent la conduite des véhicules relevant de la catégorie BE. 
+
+La catégorie CE du permis de conduire autorise la conduite des véhicules relevant de la catégorie DE sous réserve que son
+titulaire soit en possession de la catégorie D du permis de conduire. 
+
+La catégorie C1E du permis de conduire autorise la conduite des véhicules relevant de la catégorie D1E sous réserve que son
+titulaire soit en possession de la catégorie D1 du permis de conduire.
 
 **Liens relatifs à cet article**
 
@@ -12839,7 +12843,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1390 du 12 novembre 2010 - art. 3
+  - Décret n°2013-58 du 17 janvier 2013 - art. 3
 
 _Anciens textes_:
 
@@ -12853,41 +12857,56 @@ _Cité par_:
 
 ###### Article R221-8
 
-I. - La catégorie A du permis de conduire, obtenue avant le 1er mars 1980, ou les catégories A 2 ou A 3, obtenues entre le
-1er mars 1980 et le 31 décembre 1984, autorise la conduite de toutes les motocyclettes.
+I.-La catégorie A du permis de conduire, obtenue avant le 1er mars 1980, ou les catégories A 2 ou A 3, obtenues entre le 1er
+mars 1980 et le 31 décembre 1984, autorise la conduite de toutes les motocyclettes. 
 
 Une licence de circulation, délivrée avant le 1er avril 1958, une catégorie quelconque du permis obtenue avant le 1er mars
 1980, ou la catégorie A 1 du permis obtenue entre le 1er mars 1980 et le 31 décembre 1984, autorise la conduite des
 motocyclettes dont la cylindrée n'excède pas 125 cm3, mises en circulation pour la première fois avant le 31 décembre 1984,
-et celle des motocyclettes légères.
+et celle des motocyclettes légères. 
 
-II. - La catégorie B du permis de conduire autorise la conduite, sur le territoire national, d'une motocyclette légère à la
+La catégorie A du permis de conduire, obtenue avant le 19 janvier 2013, n'autorise à compter de sa date d'obtention et
+pendant une période de deux ans que la conduite des motocyclettes dont la puissance n'excède pas 35 kilowatts, avec un
+rapport puissance/poids en ordre de marche ne dépassant pas 0,2 kilowatt par kilogramme. Cette restriction d'usage est levée
+si le conducteur était âgé d'au moins 21 ans à la date d'obtention de la catégorie A.
+
+La catégorie A du permis de conduire, obtenue avant le 19 janvier 2013, autorise la conduite des tricycles à moteur d'une
+puissance supérieure à 15 kW quel que soit l'âge du conducteur.
+
+Les catégories A et A1 du permis de conduire obtenues avant le 19 janvier 2013 autorisent la conduite des quadricycles à
+moteur (véhicules des catégories L6e et L7e).
+
+Les catégories B et B1 du permis de conduire obtenues avant le 19 janvier 2013 autorisent la conduite des tricycles à moteur
+dont la puissance n'excède pas 15 kilowatts et dont le poids à vide n'excède pas 550 kilogrammes ainsi que les quadricycles à
+moteur (véhicules des catégories L6e et L7e). 
+
+II.-La catégorie B du permis de conduire autorise la conduite, sur le territoire national, d'une motocyclette légère à la
 double condition que le conducteur soit titulaire de cette catégorie de permis depuis au moins deux ans et qu'il ait suivi
-une formation pratique dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L. 213-7.
+une formation pratique dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L. 213-7. 
 
 Toutefois, la condition relative à la formation pratique n'est pas exigée des conducteurs qui justifient d'une pratique de la
-conduite d'une motocyclette légère ou d'un véhicule de la catégorie L5e  au cours des cinq années précédant le 1er janvier
+conduite d'une motocyclette légère ou d'un véhicule de la catégorie L5e au cours des cinq années précédant le 1er janvier
 2011. La preuve de cette pratique est apportée par la production d'un document délivré par l'assureur et attestant la
-souscription d'une assurance couvrant l'usage de l'un ou l'autre de ces véhicules au cours de la période considérée.
+souscription d'une assurance couvrant l'usage de l'un ou l'autre de ces véhicules au cours de la période considérée. 
 
-III. - La catégorie B du permis de conduire autorise la conduite, sur le territoire national, d'un véhicule de la catégorie
-L5e à la double condition que le conducteur soit titulaire de cette catégorie de permis depuis au moins deux ans et qu'il ait
-suivi une formation pratique dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L.
-213-7.
+III.-La catégorie B du permis de conduire autorise la conduite, sur le territoire national, d'un véhicule de la catégorie L5e
+à la triple condition que le conducteur soit âgé de 21 ans, soit titulaire de cette catégorie de permis depuis au moins deux
+ans et qu'il ait suivi une formation pratique dispensée par un établissement ou une association agréés au titre de l'article
+L. 213-1 ou L. 213-7. 
 
-Toutefois, ces deux conditions ne sont pas exigées des conducteurs qui justifient d'une pratique de la conduite d'un véhicule
-de la catégorie L5e ou d'une motocyclette légère  au cours des cinq années précédant le 1er janvier 2011. La preuve de cette
-pratique est apportée par la production d'un document délivré par l'assureur et attestant la souscription d'une assurance
-couvrant l'usage de l'un ou l'autre de ces véhicules au cours de la période considérée.
+Toutefois, ces deux dernières conditions ne sont pas exigées des conducteurs qui justifient d'une pratique de la conduite
+d'un véhicule de la catégorie L5e ou d'une motocyclette légère au cours des cinq années précédant le 1er janvier 2011. La
+preuve de cette pratique est apportée par la production d'un document délivré par l'assureur et attestant la souscription
+d'une assurance couvrant l'usage de l'un ou l'autre de ces véhicules au cours de la période considérée. 
 
-IV. - Un arrêté conjoint du ministre chargé des transports et du ministre chargé des assurances fixe les modalités
+III bis. -La catégorie B du permis de conduire autorise la conduite des véhicules de la catégorie B attelés d'une remorque
+lorsque le poids total autorisé en charge (PTAC) de la remorque excède 750 kilogrammes et lorsque la somme des poids totaux
+autorisés en charge (PTAC) du véhicule tracteur et de la remorque est supérieure à 3 500 kilogrammes mais ne dépasse pas 4
+250 kilogrammes sous réserve que le titulaire du permis ait suivi une formation dont les modalités sont définies par arrêté
+du ministre chargé de la sécurité routière.
+
+IV.-Un arrêté conjoint du ministre chargé de la sécurité routière et du ministre chargé des assurances fixe les modalités
 d'application des II et III.
-
-**Nota:**
-
-Décret n° 2012-3 du 3 janvier 2012 art 25 : Les conducteurs et passagers d'une motocyclette d'une cylindrée supérieure à 125
-cm³ ou d'un véhicule de la catégorie L5e d'une puissance supérieure à 15 kW/h doivent se conformer à l'obligation prévue à
-l'article 23 du présent décret au plus tard le 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -12904,7 +12923,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-3 du 3 janvier 2012 - art. 3
+  - Décret n°2013-58 du 17 janvier 2013 - art. 4
 
 _Anciens textes_:
 
@@ -12914,6 +12933,7 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L213-1
+  - Code de la route. - art. L213-7
 
 
 ###### Article R221-9
