@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2013-01-18
+Version Consolidée au 2013-01-19
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -87,9 +87,9 @@ Version Consolidée au 2013-01-18
           - [Section 1 : Etablissements d'enseignement à titre onéreux et d'animation des stages de sensibilisation à la sécurité routière. (art. R213-1 à R213-6)](#84)
           - [Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle. (art. R213-7 à R213-9)](#85)
         - [Chapitre IV  : Conseil supérieur de l'éducation routière (CSER) (art. D214-1 à D214-5)](#86)
-      - [Titre II : Permis de conduire. (art. D221-3-1 à R226-4)](#87)
-        - [Chapitre Ier : Délivrance et catégories. (art. D221-3-1 à R221-21)](#88)
-        - [Chapitre II : Reconnaissance et équivalences. (art. R222-1 à R222-8)](#89)
+      - [Titre II : Permis de conduire. (art. D221-3 à R226-4)](#87)
+        - [Chapitre Ier : Délivrance et catégories. (art. D221-3 à R221-21)](#88)
+        - [Chapitre II : Reconnaissance et équivalences. (art. D222-8 à R222-7)](#89)
         - [Chapitre III : Permis à points. (art. R223-1 à R223-13)](#90)
           - [Section 1 : Principes généraux. (art. R223-1 à R223-4)](#91)
           - [Section 2 : Des stages  de sensibilisation à la sécurité routière. (art. R223-5 à R223-13)](#92)
@@ -10625,11 +10625,24 @@ Un arrêté conjoint du ministre chargé de la sécurité routière, du ministre
 ministre chargé de l'éducation nationale, du ministre de la justice, du ministre chargé de la mer, du ministre chargé de la
 santé et du ministre chargé de l'agriculture fixe les modalités d'application du I et du II. 
 
-III.-Le brevet de sécurité routière est délivré aux titulaires d'une attestation scolaire de sécurité routière de premier ou
-de second niveau ou de l'attestation de sécurité routière ayant suivi une formation pratique organisée par une personne
-physique ou morale agréée par le préfet. 
+III.-Le brevet de sécurité routière prévu au second alinéa de l'article L. 221-1 est délivré aux personnes âgées de quatorze
+ans révolus : 
 
-Un arrêté du ministre chargé de la sécurité routière fixe les modalités d'application du précédent alinéa.
+1° Ayant réussi un contrôle des connaissances théoriques des règles de sécurité routière sanctionnée par la délivrance de
+l'attestation scolaire de sécurité routière de premier ou de second niveau ou de l'attestation de sécurité routière ; 
+
+2° Et ayant suivi une formation dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L.
+213-7. 
+
+La durée de validité du titre attestant de la qualité de titulaire du brevet de sécurité routière est de quinze ans à compter
+de sa délivrance. 
+
+La date limite de validité est inscrite sur le titre de conduite. 
+
+Le brevet de sécurité routière correspond à la catégorie AM du permis de conduire au sens de la directive 2006/126/ CE du
+Parlement européen et du Conseil du 20 décembre 2006 relative au permis de conduire. 
+
+Un arrêté du ministre chargé de la sécurité routière fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -10671,28 +10684,30 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 2
   - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Cite_:
 
-  - Code de l'éducation - art. L131-1 (V)
+  - Code de l'éducation - art. L131-1
+  - Code de la route. - art. L213-1
+  - Code de la route. - art. L221-1
 
 
 ###### Article R211-2
 
-I.-Tout conducteur de cyclomoteur doit être âgé d'au moins quatorze ans. 
+I. - Tout conducteur de cyclomoteur doit être âgé d'au moins quatorze ans. Tout conducteur de quadricycle léger à moteur doit
+être âgé d'au moins seize ans. 
 
-II.-Tout conducteur de cyclomoteur doit être titulaire soit du brevet de sécurité routière ou d'un titre reconnu équivalent
-délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen dont la
-liste est fixée par arrêté du   ministre chargé de la sécurité routière, soit du permis de conduire. 
+II.-Tout conducteur de cyclomoteur ou de quadricycle léger à moteur, né après le 31 décembre 1987 doit être titulaire soit du
+permis de conduire, soit du brevet de sécurité routière ou d'un titre reconnu équivalent délivré par un Etat membre de
+l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen dont la liste est fixée par arrêté du
+ministre chargé de la sécurité routière. 
 
 III.-Le fait de contrevenir aux dispositions des deux alinéas précédents est puni de l'amende prévue pour les contraventions
 de la 2e classe. 
 
-IV.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
-
-V.-Les dispositions du II ne sont applicables qu'aux personnes qui atteindront l'âge de seize ans à compter du 1er janvier
-2004. Jusqu'à cette date, ces dispositions sont applicables aux personnes qui n'ont pas atteint l'âge de seize ans.
+IV.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
@@ -10728,8 +10743,8 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 3
   - Décret n°2012-688 du 7 mai 2012 - art. 2
-  - Décret n°2012-688 du 7 mai 2012 - art. 3
 
 _Anciens textes_:
 
@@ -12454,6 +12469,69 @@ _Créé par_:
 
 #### Chapitre Ier : Délivrance et catégories.<a id=88></a>
 
+###### Article D221-3
+
+Les examens du permis de conduire susvisés comportent une épreuve théorique et une épreuve pratique qui se déroulent dans les
+conditions et selon les modalités fixées par arrêté du ministre chargé de la sécurité routière. 
+
+Par exception aux dispositions de ce premier alinéa : l'épreuve pratique de la catégorie A peut être remplacée par le suivi
+d'une formation dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L. 213-7 pour les
+titulaires de la catégorie A2 depuis deux ans au moins. 
+
+Les examens organisés en vue de l'obtention du permis de conduire comprennent notamment une interrogation sur les effets de
+l'absorption de l'alcool ou d'autres substances modificatives du comportement des conducteurs. 
+
+Le permis de conduire à l'exception de la catégorie A obtenue dans les conditions définies au deuxième alinéa du présent
+article, est délivré sur l'avis favorable soit d'un inspecteur du permis de conduire et de la sécurité routière, soit d'un
+agent public appartenant à une des catégories fixées par arrêté. 
+
+Il n'est valable pour les catégories autres que celles qu'il vise expressément que dans les conditions définies aux articles
+R. 221-7 à R. 221-9. 
+
+Le ministre chargé de la sécurité routière fixe par arrêtés les conditions et modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°97-1017 du 30 octobre 1997 - art. 3 (V)
+  - Arrêté du 19 février 2010 - art. 3 (VD)
+  - Arrêté du 20 avril 2012 - art. 1 (V)
+  - Arrêté du 20 avril 2012 - art. 2 (VD)
+  - Arrêté du 20 avril 2012 - art. 7 (V)
+  - Arrêté du 23 avril 2012 - art. (V)
+  - Arrêté du 17 janvier 2013 (V)
+  - Arrêté du 26 avril 2013 - art. 1 (VD)
+  - Arrêté du 12 février 2014 (Ab)
+  - Arrêté du 12 février 2014 - art. 1 (Ab)
+  - Arrêté du 30 juin 2014 (V)
+  - Arrêté du 30 juin 2014 - art. 1 (V)
+  - Décret n°2015-1379 du 29 octobre 2015 - art. 1 (V)
+  - Décret n°2016-723 du 31 mai 2016 - art. 2 (V)
+  - Arrêté du 20 février 2017 (V)
+  - Arrêté du 18 juin 2018 (V)
+  - Code de la route. - art. R222-2 (V)
+  - Code de la route. - art. R222-3 (V)
+  - Code de la route. - art. R222-4 (V)
+  - Code de la route. - art. R222-7 (V)
+  - Code de la route. - art. R224-20 (VD)
+  - Code de la route. - art. R224-6 (V)
+
+_Modifié par_:
+
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 5
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
+
+_Cite_:
+
+  - Code de la route. - art. L213-1
+  - Code de la route. - art. R221-7
+
+_Anciens textes_:
+
+  - Code de la route. - art. R221-3 (VT)
+
+
 ###### Article D221-3-1
 
 Des sessions spécialisées sont prévues pour les candidats sourds ou malentendants se présentant aux épreuves théorique et
@@ -12513,6 +12591,20 @@ respecte les restrictions d'usage mentionnées sur ce titre.
 Par dérogation à l'article R. 110-1, ces dispositions sont également applicables à la conduite sur les voies non ouvertes à
 la circulation publique, sauf dans le cas prévu à l'article R. 221-16. 
 
+I bis.-La durée de validité des titres attestant de la qualité de titulaire du permis de conduire est limitée ainsi qu'il
+suit : 
+
+1° Les permis de conduire comportant les catégories A1, A2, A, B, B1 et BE du permis de conduire ont une durée de validité de
+quinze ans à compter de leur délivrance, sous réserve des dispositions de l'article R. 221-10 ; 
+
+2° Sous la même réserve, les permis de conduire comportant les catégories C, CE, C1, C1E, D, DE, D1 et D1E ont une durée de
+validité de cinq ans. 
+
+La date limite de validité est inscrite sur le titre de conduite. 
+
+Les conditions de renouvellement des titres attestant de la qualité de titulaire du permis de conduire sont fixées par arrêté
+du ministre chargé de la sécurité routière. 
+
 II.-Le permis de conduire est délivré à tout candidat qui a satisfait aux épreuves d'examen prévues au présent chapitre par
 le préfet du département de sa résidence ou par le préfet du département dans lequel ces épreuves ont été subies. 
 
@@ -12559,11 +12651,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2005-320 du 30 mars 2005 - art. 2 () JORF 6 avril 2005
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 4
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2016-347 du 22 mars 2016 - art. 2
 
 _Anciens textes_:
 
@@ -12574,135 +12670,126 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
-  - Code de la route. - art. R110-1 (V)
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R110-1
+  - Code de la route. - art. R221-10
+  - Code de la route. - art. R221-16
 
 _Nouveaux textes_:
 
   - Code de la route. - art. R221-1-1 (V)
 
 
-###### Article R221-3
-
-Les examens du permis de conduire susvisés comportent une épreuve théorique et une épreuve pratique qui se déroulent dans les
-conditions et selon les modalités fixées par arrêté du ministre chargé des transports.
-
-Les examens organisés en vue de l'obtention du permis de conduire comprennent notamment une interrogation sur les effets de
-l'absorption de l'alcool ou d'autres substances modificatives du comportement des conducteurs.
-
-Le permis de conduire est délivré sur l'avis favorable soit d'un inspecteur du permis de conduire et de la sécurité routière,
-soit d'un agent public appartenant à une des catégories fixées par arrêté du ministre chargé de la sécurité routière.
-
-Il n'est valable pour les catégories autres que celles qu'il vise expressément que dans les conditions définies aux articles
-R. 221-7 à R. 221-9
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°70-597 du 9 juillet 1970 - art. 4, v. init.
-  - Loi n°70-597 du 9 juillet 1970 - art. 4 (Ab)
-  - Code de la route - art. R123 (Ab)
-
-_Cité par_:
-
-  - Décret n°87-997 du 10 décembre 1987 - art. 3 (VT)
-  - Arrêté du 21 novembre 2001 - art. 1 (Ab)
-  - Arrêté du 27 juin 2007 - art. 3 (Ab)
-  - Arrêté du 19 février 2010 (V)
-  - Arrêté du 19 février 2010 - art. 3 (V)
-  - Arrêté du 3 mars 2010 (V)
-  - Arrêté du 11 août 2011 (V)
-  - Décret n°2013-422 du 22 mai 2013 - art. 4 (VD)
-  - Code de la route. - art. R222-2 (VT)
-  - Code de la route. - art. R222-3 (VT)
-  - Code de la route. - art. R222-4 (VT)
-  - Code de la route. - art. R222-7 (M)
-  - Code de la route. - art. R222-8 (VT)
-  - Code de la route. - art. R223-14 (Ab)
-  - Code de la route. - art. R224-20 (M)
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
-  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. D221-3 (VD)
-
-
 ###### Article R221-4
 
-I. - Les différentes catégories du permis de conduire énoncées ci-dessous autorisent la conduite des véhicules suivants :
+I. - Les différentes catégories du permis de conduire énoncées ci-dessous autorisent la conduite des véhicules suivants : 
 
-Catégorie A
+Catégorie A1 : 
 
-Motocyclettes, avec ou sans side-car.
+Motocyclettes avec ou sans side-car, d'une cylindrée maximale de 125 cm ³, d'une puissance n'excédant pas 11 kilowatts et
+dont le rapport puissance/ poids ne dépasse pas 0,1 kilowatt par kilogramme ; 
 
-Sous-catégorie A 1
+Tricycles à moteur d'une puissance maximale de 15 kilowatts. 
 
-Motocyclettes légères.
+Catégorie A2 : 
 
-Catégorie B
+Motocyclettes avec ou sans side-car d'une puissance n'excédant pas 35 kilowatts et dont le rapport puissance/ poids n'excède
+pas 0,2 kilowatt par kilogramme. La puissance ne peut résulter du bridage d'un véhicule développant plus du double de sa
+puissance. 
+
+Catégorie A : 
+
+Motocyclettes avec ou sans side-car ; 
+
+Tricycles à moteur d'une puissance supérieure à 15 kilowatts. 
+
+Catégorie B1 : 
+
+Véhicules de la catégorie L7e. 
+
+Catégorie B : 
 
 Véhicules automobiles ayant un poids total autorisé en charge (PTAC) qui n'excède pas 3,5 tonnes, affectés au transport de
-personnes et comportant, outre le siège du conducteur, huit places assises au maximum, ou affectés au transport de
-marchandises, ainsi que les véhicules qui peuvent être assimilés aux véhicules précédents et dont la liste est fixée par
-arrêté du ministre chargé des transports.
+personnes et comportant, outre le siège du conducteur, huit places assises au maximum ou affectés au transport de
+marchandises ainsi que les véhicules qui peuvent être assimilés aux véhicules précédents et dont la liste est fixée par
+arrêté du ministre chargé de la sécurité routière. 
 
 Véhicules mentionnés à l'alinéa précédent attelés d'une remorque lorsque le poids total autorisé en charge (PTAC) de la
-remorque est inférieur ou égal à 750 kilogrammes.
+remorque est inférieur ou égal à 750 kilogrammes. 
 
 Mêmes véhicules attelés d'une remorque lorsque le poids total autorisé en charge (PTAC) de la remorque est supérieur à 750
-kilogrammes, à condition, d'une part, que le poids total autorisé en charge (PTAC) de la remorque soit inférieur ou égal au
-poids à vide du véhicule tracteur et, d'autre part, que la somme des poids totaux autorisés en charge (PTAC) du véhicule
-tracteur et de la remorque soit inférieure ou égale à 3,5 tonnes.
+kilogrammes, sous réserve que la somme des poids totaux autorisés en charge (PTAC) du véhicule tracteur et de la remorque de
+l'ensemble n'excède pas 4 250 kilogrammes. 
 
-Sous-catégorie B 1
+Catégorie C1 : 
 
-Tricycles à moteur dont la puissance n'excède pas 15 kilowatts et dont le poids à vide n'excède pas 550 kilogrammes.
-
-Quadricycles lourds à moteur.
-
-Catégorie C
-
-Véhicules automobiles isolés autres que ceux de la catégorie D dont le poids total autorisé en charge (PTAC) excède 3,5
-tonnes.
+Véhicules automobiles autres que ceux de la catégorie D et D1 dont le poids total autorisé en charge (PTAC) est supérieur à 3
+500 kilogrammes sans excéder 7 500 kilogrammes et qui sont conçus et construits pour le transport de huit passagers au plus
+outre le conducteur. 
 
 Aux véhicules de cette catégorie peut être attelée une remorque dont le poids total autorisé en charge (PTAC) n'excède pas
-750 kilogrammes.
+750 kilogrammes. 
 
-Catégorie D
+Catégorie C : 
 
-Véhicules automobiles affectés au transport de personnes comportant plus de huit places assises outre le siège du conducteur
-ou transportant plus de huit personnes, non compris le conducteur.
+Véhicules automobiles autres que ceux des catégories D et D1, dont le poids total autorisé en charge (PTAC) excède 3,5 tonnes
+et qui sont conçus et construits pour le transport de huit passagers au plus outre le conducteur. 
 
 Aux véhicules de cette catégorie peut être attelée une remorque dont le poids total autorisé en charge (PTAC) n'excède pas
-750 kilogrammes.
+750 kilogrammes. 
 
-Catégorie E (B)
+Catégorie D1 : 
 
-Véhicules relevant de la catégorie B attelés d'une remorque lorsque l'ensemble formé par le véhicule tracteur et la remorque
-ne relève pas de la catégorie B.
+Véhicules automobiles conçus et construits pour le transport de personnes comportant, outre le siège du conducteur, seize
+places assises maximum et d'une longueur n'excédant pas huit mètres. 
 
-Catégorie E (C)
+Aux véhicules de cette catégorie peut être attelée une remorque dont le poids total autorisé en charge (PTAC) n'excède pas
+750 kilogrammes. 
 
-Véhicules relevant de la catégorie C attelés d'une remorque lorsque l'ensemble formé par le véhicule tracteur et la remorque
-ne relève pas de la catégorie C.
+Catégorie D : 
 
-Catégorie E (D)
+Véhicules automobiles conçus et construits pour le transport de personnes comportant plus de huit places assises outre le
+siège du conducteur ou transportant plus de huit personnes, non compris le conducteur. 
 
-Véhicules attelés d'une remorque lorsque l'ensemble formé par le véhicule tracteur et la remorque ne relève pas de la
-catégorie D.
+Aux véhicules de cette catégorie peut être attelée une remorque dont le poids total autorisé en charge (PTAC) n'excède pas
+750 kilogrammes. 
 
-II. Le permis de conduire des catégories et des sous-catégories ci-dessus mentionnées peut être délivré, dans des conditions
-fixées par le ministre chargé des transports, aux personnes atteintes d'un handicap physique nécessitant l'aménagement du
-véhicule.
+Catégorie BE : 
+
+Véhicules relevant de la catégorie B auxquels est attelée une remorque ou une semi-remorque qui a un poids total autorisé en
+charge (PTAC) n'excédant pas 3 500 kilogrammes lorsque l'ensemble formé par le véhicule tracteur et la remorque ne relève pas
+de la catégorie B. 
+
+Catégorie C1E : 
+
+Véhicules relevant de la catégorie C1 attelés d'une remorque ou d'une semi-remorque dont le poids total autorisé en charge
+(PTAC) excède 750 kilogrammes ; 
+
+Véhicules relevant de la catégorie B attelés d'une remorque ou d'une semi-remorque dont le poids total autorisé en charge
+excède 3 500 kilogrammes. 
+
+Le poids total roulant autorisé des ensembles de véhicules relevant de la catégorie C1E ne peut excéder 12 000 kilogrammes. 
+
+Catégorie CE : 
+
+Véhicules relevant de la catégorie C attelés d'une remorque ou d'une semi-remorque dont le poids total autorisé en charge
+(PTAC) excède 750 kilogrammes. 
+
+Catégorie D1E : 
+
+Véhicules relevant de la catégorie D1 attelés d'une remorque dont le poids total autorisé en charge (PTAC) excède 750
+kilogrammes. 
+
+Catégorie DE : 
+
+Véhicules relevant de la catégorie D attelés d'une remorque dont le poids total autorisé en charge excède 750 kilogrammes. 
+
+II. - Le permis de conduire peut être délivré, dans des conditions fixées par le ministre chargé de la sécurité routière, aux
+personnes atteintes d'un handicap physique nécessitant l'aménagement du véhicule. 
+
+III. - Il sera substitué au plus tard avant le 19 janvier 2033, dans les conditions fixées par un arrêté du ministre chargé
+de la sécurité routière, aux permis de conduire délivrés avant le 19 janvier 2013 un nouveau modèle de permis de conduire
+défini par arrêté du ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
@@ -12742,11 +12829,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-1496 du 29 novembre 2006 - art. 4 () JORF 1er décembre 2006 en vigueur le 1er janvier 2008
+  - Décret n°2013-58 du 17 janvier 2013 - art. 2
 
 _Anciens textes_:
 
@@ -12757,32 +12844,47 @@ _Anciens textes_:
 
 ###### Article R221-5
 
-Les conditions minimales requises pour l'obtention du permis de conduire dont les catégories ou sous-catégories sont définies
-à l'article R. 221-4 sont les suivantes :
+Les conditions minimales requises pour l'obtention du permis de conduire sont les suivantes : 
 
-1° Etre âgé(e) :
+1° Etre âgé (e) :
 
-a) De seize ans révolus pour les sous-catégories A 1 et B 1 ;
+- de seize ans révolus pour les catégories A1 et B1 ;
 
-b) De dix-huit ans révolus pour les catégories A, B, C, E (B) et E (C) ;
+- de dix-huit ans révolus pour les catégories A2, B, C1, BE et C1E ;
 
-c) De vingt et un ans révolus pour les catégories D et E (D).
+- de vingt-quatre ans révolus pour la catégorie A, sauf pour les titulaires du permis A2 depuis au moins deux ans ;
 
-La reconnaissance des permis de conduire prévue aux articles R. 222-1 à R. 222-8 est également subordonnée au respect de ces
-conditions d'âge.
+- de vingt et un ans révolus pour le conducteur d'un tricycle à moteur d'une puissance supérieure à 15 kilowatts ;
 
-2° Etre titulaire :
+- de vingt et un ans révolus pour les catégories C, CE, D1 et D1E, sans préjudice des dispositions relatives à l'âge
+autorisant la conduite de ces véhicules figurant dans le décret n° 2007-1340 du 11 septembre 2007 modifié relatif à la
+qualification initiale et à la formation continue des conducteurs de certains véhicules affectés aux transports routiers de
+marchandises et de voyageurs.
 
-a) De l'attestation scolaire de sécurité routière de second niveau ou de l'attestation de sécurité routière pour la première
-obtention du permis de conduire, quelle qu'en soit la catégorie ou sous-catégorie ;
+- de vingt-quatre ans révolus pour les catégories D et DE, sans préjudice des dispositions relatives à l'âge autorisant la
+conduite de ces véhicules figurant dans le décret n° 2007-1340 du 11 septembre 2007 modifié relatif à la qualification
+initiale et à la formation continue des conducteurs de certains véhicules affectés aux transports routiers de marchandises et
+de voyageurs. 
 
-b) De la catégorie B du permis de conduire pour l'obtention des catégories C, D et E (B) ;
+La reconnaissance des permis de conduire prévue aux articles R. 222-1 à D. 222-8 est également subordonnée au respect de ces
+conditions d'âge ; 
 
-c) De la catégorie C du permis de conduire pour l'obtention de la catégorie E (C) ;
+2° Etre titulaire : 
 
-d) De la catégorie D du permis de conduire pour l'obtention de la catégorie E (D).
+a) Pour la première obtention du permis de conduire, s'agissant des personnes nées à compter du 1er janvier 1988, de
+l'attestation scolaire de sécurité routière de second niveau ou de l'attestation de sécurité routière ; 
 
-Les dispositions du a) ne sont applicables qu'aux personnes qui atteindront l'âge de seize ans à compter du 1er janvier 2004.
+b) En outre :
+
+- pour l'obtention des catégories C1, C, D1, D, BE, de la catégorie B du permis de conduire ;
+
+- pour l'obtention de la catégorie C1E, de la catégorie C1 du permis de conduire ;
+
+- pour l'obtention de la catégorie CE, de la catégorie C du permis de conduire ;
+
+- pour l'obtention de la catégorie D1E, de la catégorie D1 du permis de conduire ;
+
+- pour l'obtention de la catégorie DE, de la catégorie D du permis de conduire.
 
 **Liens relatifs à cet article**
 
@@ -12802,7 +12904,7 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 **Liens**:
 
@@ -12816,9 +12918,15 @@ _Codifié par_:
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe I (Ab)
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe II (Ab)
 
+_Cite_:
+
+  - Décret n°2007-1340 du 11 septembre 2007
+  - Code de la route. - art. R222-1
+
 _Modifié par_:
 
-  - Décret n°2006-1712 du 23 décembre 2006 - art. 5 () JORF 29 décembre 2006
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 7
 
 _Anciens textes_:
 
@@ -12828,27 +12936,14 @@ _Anciens textes_:
 
 ###### Article R221-6
 
-La catégorie A du permis de conduire n'autorise la conduite des motocyclettes dont la puissance est supérieure à 25 kilowatts
-ou dont le rapport puissance/poids en ordre de marche est supérieur à 0,16 kilowatt par kilogramme que si le conducteur est
-titulaire de cette catégorie depuis au moins deux ans.
-
-Toutefois, cette condition n'est pas exigée des personnes âgées d'au moins vingt et un ans ayant subi avec succès une épreuve
-pratique spécifique définie par arrêté du ministre chargé des transports.
-
-Les catégories C et E (C) du permis de conduire, pour les personnes âgées de dix-huit à vingt et un ans, n'autorise la
-conduite que des véhicules d'un poids total autorisé n'excédant pas 7,5 tonnes, sauf si le conducteur est titulaire d'un
-certificat, prévu par arrêté interministériel, constatant l'achèvement d'une formation de conducteur de transport de
-marchandises par route.
-
-La catégorie D du permis de conduire n'autorise la conduite des véhicules de transport en commun effectuant des services
-réguliers nationaux de voyageurs dont le parcours de ligne ne dépasse pas 50 kilomètres que sous certaines conditions
-relatives à l'âge et à la formation du conducteur. Ces conditions sont fixées par arrêtés du ministre chargé des transports.
+Le permis de conduire de la catégorie A est délivré aux titulaires de permis de la catégorie A2 depuis deux ans au moins qui
+justifient avoir suivi une formation dont les modalités sont fixées par arrêté du ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1590 du 18 décembre 2009 - art. 7
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 8
 
 _Anciens textes_:
 
@@ -12981,10 +13076,12 @@ _Cite_:
 
 ###### Article R221-9
 
-I. - La catégorie C du permis de conduire, obtenue avant le 20 janvier 1975, ou la catégorie C 1 du permis de conduire,
-obtenue entre le 20 janvier 1975 et le 31 décembre 1984, ou la catégorie C du permis de conduire obtenue entre le 1er janvier
-1985 et le 1er juillet 1990, autorise la conduite de tous les véhicules affectés au transport de marchandises, ainsi que
-celle des véhicules affectés au transport en commun dans les conditions fixées par le quatrième alinéa de l'article R. 221-6.
+I. - La catégorie C du permis de conduire, obtenue avant le 20 janvier 1975, ou la catégorie C1 du permis de conduire obtenue
+entre le 20 janvier 1975 et le 31 décembre 1984 ou la catégorie C du permis de conduire obtenue entre le 1er janvier 1985 et
+le 1er juillet 1990 autorise la conduite de tous les véhicules affectés au transport de marchandises ainsi que celle des
+véhicules affectés au transport en commun sur des parcours de ligne dépassant 50 kilomètres sous réserve, pour ces derniers,
+des conditions relatives à l'expérience de conduite ou à la formation du conducteur fixées par arrêté du ministre chargé des
+transports. 
 
 II. - La catégorie C du permis de conduire, obtenue entre le 20 janvier 1975 et le 31 décembre 1984, ou la catégorie C
 limitée, obtenue entre le 1er janvier 1985 et le 1er juillet 1990, autorise la conduite des véhicules affectés au transport
@@ -12995,10 +13092,14 @@ de marchandises suivants :
 2° Véhicules dont le poids total roulant autorisé (PTRA) n'excède pas 12,5 tonnes, lorsqu'il s'agit du véhicule tracteur d'un
 ensemble de véhicules ou du véhicule tracteur d'un véhicule articulé.
 
+II bis. - La catégorie C du permis de conduire obtenue avant le 19 janvier 2013 autorise la conduite de véhicules automobiles
+isolés autres que ceux de la catégorie D et dont le poids total autorisé en charge (PTAC) excède 3,5 tonnes. 
+
 III. - La catégorie D du permis de conduire, obtenue avant le 20 janvier 1975, lorsque l'examen a été subi sur un véhicule
 d'un poids total autorisé en charge (PTAC) de plus de 3,5 tonnes, autorise la conduite de tous les véhicules affectés au
-transport de marchandises, ainsi que celle des véhicules affectés au transport en commun dans les conditions fixées par le
-quatrième alinéa de l'article R. 221-6.
+transport de marchandises ainsi que celle des véhicules affectés au transport en commun sur des parcours de ligne dépassant
+50 km sous réserve, pour ces derniers, des conditions relatives à l'expérience de conduite ou à la formation du conducteur
+fixées par arrêté du ministre chargé des transports.
 
 IV. - La catégorie D du permis de conduire, obtenue soit avant le 1er juin 1979, lorsque l'examen a été subi sur un véhicule
 d'un poids total autorisé en charge (PTAC) inférieur ou égal à 3,5 tonnes, soit entre le 1er juin 1979 et le 1er juillet
@@ -13015,35 +13116,38 @@ tonnes, autorise la conduite des véhicules affectés au transport de marchandis
 2° Véhicules dont le poids total roulant autorisé (PTRA) n'excède pas 12,5 tonnes, lorsqu'il s'agit du véhicule tracteur d'un
 ensemble de véhicules ou du véhicule tracteur d'un véhicule articulé.
 
+VI. - La catégorie D du permis de conduire obtenue avant le 19 janvier 2013 autorise la conduite de véhicules automobiles
+affectés au transport de personnes comportant plus de huit places assises outre le siège du conducteur ou transportant plus
+de huit personnes, non compris le conducteur.
+
+Aux véhicules de cette catégorie peut être attelée une remorque dont le poids total autorisé en charge (PTAC) n'excède pas
+750 kilogrammes.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 11
 
 _Anciens textes_:
 
   - Code de la route - art. R125-2 (Ab)
   - Code de la route R125-2
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
-
-_Cite_:
-
-  - Code de la route. - art. R221-6 (V)
-
 
 ###### Article R221-10
 
-I.-Les catégories A et B du permis de conduire sont délivrées sans visite médicale préalable sauf dans les cas où cette
-visite est rendue obligatoire par arrêté du ministre chargé de la sécurité routière pris en application de l'article R.
+I.-Les catégories A1, A2, A, B1 et B du permis de conduire sont délivrées sans visite médicale préalable sauf dans les cas où
+cette visite est rendue obligatoire par arrêté du ministre chargé de la sécurité routière pris en application de l'article R.
 226-1. 
 
-II.-Les catégories A et B délivrées pour la conduite des véhicules spécialement aménagés pour tenir compte du handicap du
-conducteur et les catégories C, D et E ne peuvent être obtenues ou renouvelées qu'à la suite d'une visite médicale
-favorable. 
+II.-Les catégories A1, A2, A, B1 et B délivrées pour la conduite des véhicules spécialement aménagés pour tenir compte du
+handicap du conducteur et les catégories C1, C1E, C, CE, D1, D1E, D, DE et BE ne peuvent être obtenues ou renouvelées qu'à la
+suite d'un avis médical favorable. 
 
 III.-La catégorie B du permis de conduire ne permet la conduite : 
 
@@ -13087,7 +13191,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-886 du 17 juillet 2012 - art. 3
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 12
 
 _Anciens textes_:
 
@@ -13097,33 +13201,33 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R226-1
+  - Code de la route. - art. R226-1 (VD)
 
 
 ###### Article R221-11
 
-I. - Lorsqu'une visite médicale est obligatoire en vue de la délivrance ou du renouvellement du permis de conduire, celui-ci
+I.-Lorsqu'une visite médicale est obligatoire en vue de la délivrance  ou du renouvellement du permis de conduire, celui-ci
 peut être : 
 
 1° Dans les cas prévus au I de l'article R. 221-10, accordé sans limitation de durée ou délivré ou prorogé selon la
 périodicité maximale définie ci-dessous ; 
 
-2° Dans les cas prévus aux II, III et IV de l'article R. 221-10, délivré ou prorogé selon la périodicité maximale suivante :
-cinq ans pour les conducteurs de moins de soixante ans, deux ans à partir de l'âge de soixante ans et un an à partir de l'âge
-de soixante-seize ans. Toutefois, pour les conducteurs titulaires de la catégorie D du permis de conduire, la périodicité
-maximale est d'un an à partir de l'âge de soixante ans. 
+2°  Dans les cas prévus aux II, III et IV de l'article R. 221-10, délivré  ou prorogé selon la périodicité maximale
+suivante : cinq ans pour les  conducteurs de moins de soixante ans, deux ans à partir de l'âge de  soixante ans et un an à
+partir de l'âge de soixante-seize ans.  Toutefois, pour les conducteurs titulaires des catégories D1, D, D1E ou  DE du permis
+de conduire, la périodicité maximale est d'un an à partir  de l'âge de soixante ans. 
 
-II. - La validité du permis ainsi délivré ne peut être prorogée qu'après l'avis médical établi par un médecin agréé
-consultant hors commission médicale ou par la commission médicale. 
+II. - La validité du permis ainsi délivré ne peut être prorogée qu'après  l'avis médical établi par un médecin agréé
+consultant hors commission  médicale ou par la commission médicale.  
 
-III. - La demande de prorogation doit être adressée au préfet du département du domicile du pétitionnaire. Tant qu'il n'y est
-pas statué par le préfet dans les conditions fixées par arrêté du ministre chargé de la sécurité routière, notamment en ce
-qui concerne la procédure et les délais et sauf carence de l'intéressé, le permis reste provisoirement valide. 
+III.-La demande de prorogation doit  être adressée au préfet du département du domicile du pétitionnaire.  Tant qu'il n'y est
+pas statué par le préfet dans les conditions fixées  par arrêté du ministre chargé des transports, notamment en ce qui
+concerne la procédure et les délais et sauf carence de l'intéressé, le  permis reste provisoirement valide. 
 
-IV. - Les catégories A et B du permis de conduire délivrées pour la conduite des véhicules spécialement aménagés pour tenir
-compte du handicap du conducteur sont toutefois délivrées sans limitation de durée si l'avis médical favorable à
-l'attribution de ces catégories établit que l'intéressé est atteint d'une invalidité ou d'une infirmité incurable, définitive
-ou stabilisée.
+IV.-Les catégories A1, A2, A,  B1 et B du permis de conduire délivrées pour la conduite des véhicules  spécialement aménagés
+pour tenir compte du handicap du conducteur sont  toutefois délivrées sans limitation de durée si le certificat médical
+favorable à l'attribution de ces catégories établit que l'intéressé est  atteint d'une invalidité ou d'une infirmité
+incurable, définitive ou  stabilisée.
 
 **Liens relatifs à cet article**
 
@@ -13148,13 +13252,9 @@ _Cité par_:
   - Code des transports - art. D3120-5 (V)
   - Code des transports - art. R3121-7 (V)
 
-_Codifié par_:
-
-  - Décret n°2001-251 du 22 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2012-886 du 17 juillet 2012 - art. 3
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 13
 
 _Anciens textes_:
 
@@ -13555,6 +13655,35 @@ _Cité par_:
 
 #### Chapitre II : Reconnaissance et équivalences.<a id=89></a>
 
+###### Article D222-8
+
+Le ministre chargé de la sécurité routière fixe, par arrêté pris après avis du ministre chargé de l'éducation nationale et du
+ministre chargé de la formation professionnelle, les modalités et la liste des diplômes délivrés par le ministre chargé de
+l'éducation nationale ainsi que des titres professionnels de conduite routière délivrés par le ministre chargé de la
+formation professionnelle permettant, compte tenu de la nature et du contenu des épreuves conduisant à leur obtention,
+d'obtenir la délivrance du permis de conduire, sans subir les épreuves prévues à l'article R. 221-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 14
+
+_Cité par_:
+
+  - Arrêté du 22 mars 2013 (V)
+  - Arrêté du 26 mai 2014 (V)
+  - Arrêté du 23 décembre 2016 (V)
+  - Arrêté du 27 juin 2017 (V)
+  - Arrêté du 9 avril 2018 (V)
+  - Arrêté du 18 juin 2018 (V)
+  - Arrêté du 6 juillet 2018 (V)
+  - Arrêté du 26 septembre 2018 (V)
+  - Arrêté du 10 octobre 2018 (V)
+  - Code de la route. - art. R222-4 (V)
+  - Code de la route. - art. R242-3 (V)
+
+
 ###### Article R222-1
 
 Tout permis de conduire national délivré à une personne ayant sa résidence normale en France par un Etat membre de la
@@ -13604,7 +13733,7 @@ _Anciens textes_:
 
 Toute personne ayant sa résidence normale en France, titulaire d'un permis de conduire national délivré par un Etat membre de
 la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, en cours de validité dans cet
-Etat, peut, sans qu'elle soit tenue de subir les examens prévus au premier alinéa de l'article R. 221-3, l'échanger contre le
+Etat, peut, sans qu'elle soit tenue de subir les examens prévus au premier alinéa de l'article D. 221-3, l'échanger contre le
 permis de conduire français selon les modalités définies par arrêté du ministre chargé des transports, pris après avis du
 ministre de la justice, du ministre de l'intérieur et du ministre chargé des affaires étrangères. 
 
@@ -13618,10 +13747,6 @@ prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Cité par_:
 
   - Arrêté du 3 janvier 2008 - art. 2 (V)
@@ -13629,6 +13754,10 @@ _Cité par_:
   - Code de la route. - art. R130-1-2 (M)
   - Code de la route. - art. R130-2 (V)
   - Code de la route. - art. R130-3 (V)
+
+_Modifié par_:
+
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
 
 _Anciens textes_:
 
@@ -13638,7 +13767,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R221-3 (VT)
+  - Code de la route. - art. D221-3 (VD)
 
 
 ###### Article R222-3
@@ -13646,20 +13775,12 @@ _Cite_:
 Tout permis de conduire national, en cours de validité, délivré par un Etat ni membre de la Communauté européenne, ni partie
 à l'accord sur l'Espace économique européen, peut être reconnu en France jusqu'à l'expiration d'un délai d'un an après
 l'acquisition de la résidence normale de son titulaire. Pendant ce délai, il peut être échangé contre le permis français,
-sans que son titulaire soit tenu de subir les examens prévus au premier alinéa de l'article R. 221-3 Les conditions de cette
+sans que son titulaire soit tenu de subir les examens prévus au premier alinéa de l'article D. 221-3 Les conditions de cette
 reconnaissance et de cet échange sont définies par arrêté du ministre chargé des transports, après avis du ministre de la
 justice, du ministre de l'intérieur et du ministre chargé des affaires étrangères. Au terme de ce délai, ce permis n'est plus
 reconnu et son titulaire perd tout droit de conduire un véhicule pour la conduite duquel le permis de conduire est exigé.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2005-320 du 30 mars 2005 - art. 3 () JORF 6 avril 2005
 
 _Cité par_:
 
@@ -13670,6 +13791,10 @@ _Cité par_:
   - Code de la route. - art. R130-1-2 (M)
   - Code de la route. - art. R130-2 (M)
 
+_Modifié par_:
+
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
+
 _Anciens textes_:
 
   - Code de la route - art. R123-1 (Ab)
@@ -13678,13 +13803,13 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R221-3 (VT)
+  - Code de la route. - art. D221-3 (VD)
 
 
 ###### Article R222-4
 
-Les titulaires du permis de conduire en cours de validité délivré dans les conditions prévues aux articles R. 221-1, R.
-221-3, R. 222-1 à R. 222-3, R. 222-7 ou R. 222-8 sont habilités, pour la catégorie définie à l'article R. 221-4 au titre de
+Les titulaires du permis de conduire en cours de validité délivré dans les conditions prévues aux articles R. 221-1, D.
+221-3, R. 222-1 à R. 222-3, R. 222-7 ou D. 222-8 sont habilités, pour la catégorie définie à l'article R. 221-4 au titre de
 laquelle le permis leur a été délivré, à conduire les véhicules du ministère de la défense ou des établissements publics qui
 en dépendent. 
 
@@ -13698,14 +13823,6 @@ _Anciens textes_:
 
   - Décret n°97-479 du 9 mai 1997 - art. 1 (Ab)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
-
 _Cité par_:
 
   - Arrêté du 22 avril 2008 - art. 1 (V)
@@ -13713,14 +13830,18 @@ _Cité par_:
   - Décret n°2017-198 du 16 février 2017 (V)
   - Code de la route. - art. R222-5 (V)
 
+_Modifié par_:
+
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
+
 _Cite_:
 
+  - Code de la route. - art. D221-3 (VD)
+  - Code de la route. - art. D222-8 (VD)
   - Code de la route. - art. R221-1 (V)
-  - Code de la route. - art. R221-3 (V)
   - Code de la route. - art. R221-4 (V)
   - Code de la route. - art. R222-1 (V)
   - Code de la route. - art. R222-7 (V)
-  - Code de la route. - art. R222-8 (V)
 
 
 ###### Article R222-5
@@ -13767,7 +13888,7 @@ _Modifié par_:
 ###### Article R222-7
 
 Tout titulaire d'un brevet militaire de conduite, validé par l'autorité militaire, peut, sans être tenu de subir les examens
-prévus au premier alinéa de l'article R. 221-3 obtenir la délivrance de la ou des catégories du permis de conduire
+prévus au premier alinéa de l'article D. 221-3 obtenir la délivrance de la ou des catégories du permis de conduire
 correspondantes selon les modalités définies par arrêté du ministre chargé des transports, après avis du ministre de
 l'intérieur et du ministre de la défense.
 
@@ -13791,13 +13912,9 @@ _Anciens textes_:
   - TXT_SOURCE: Arrêté du 1 juin 1999 - art. 7 (V)
   - TXT_SOURCE: Arrêté du 1 juin 1999 - art. 8 (V)
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 _Modifié par_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
 
 _Cité par_:
 
@@ -13808,49 +13925,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du tourisme. - art. R221-3 (VD)
-
-
-###### Article R222-8
-
-Tout titulaire d'un certificat d'aptitude professionnelle de conducteur routier, d'un certificat d'aptitude professionnelle
-de conduite routière ou d'un brevet d'études professionnelles " conduite et services dans le transport routier " délivrés par
-le ministre chargé de l'éducation nationale, d'un titre professionnel de conducteur routier délivré par le ministre chargé de
-la formation professionnelle peut, sans être tenu de subir les examens prévus au premier alinéa de l'article R. 221-3 obtenir
-la délivrance du permis de conduire selon les modalités définies par arrêté du ministre chargé des transports, pris après
-avis du ministre de l'intérieur, du ministre chargé de l'éducation nationale et du ministre chargé de la formation
-professionnelle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2002-1029 du 2 août 2002 - art. 9 () JORF 6 août 2002
-
-_Cité par_:
-
-  - Arrêté du 26 février 2008 (V)
-  - Arrêté du 21 juillet 2008 (Ab)
-  - Arrêté du 30 octobre 2012 (V)
-  - Arrêté du 30 octobre 2012 (P)
-  - Code de la route. - art. R222-4 (VT)
-
-_Abrogé par_:
-
-  - Décret n°2011-1475 du 9 novembre 2011 - art. 14
-
-_Anciens textes_:
-
-  - Code de la route - art. R123-1 (Ab)
-  - Code de la route R123-1 V
-
-_Cite_:
-
-  - Code de la route. - art. R221-3 (VT)
+  - Code de la route. - art. D221-3 (VD)
 
 
 #### Chapitre III : Permis à points.<a id=90></a>
@@ -14574,22 +14649,23 @@ _Anciens textes_:
 
 Tout conducteur dont le permis de conduire a perdu sa validité en application de l'article L. 223-1 ou a été annulé à la
 suite d'une condamnation pour une infraction prévue par le présent code ou par les articles 221-6-1,222-19-1 ou 222-20-1 du
-code pénal, et qui sollicite un nouveau permis doit subir à nouveau les épreuves prévues à l'article R. 221-3. 
+code pénal, et qui sollicite un nouveau permis doit répondre à nouveau aux conditions fixées à l'article D. 221-3. 
 
 Toutefois, pour les conducteurs titulaires du permis de conduire depuis trois ans ou plus à la date de la perte de validité
 du permis ou à la date de son annulation, et auxquels il est interdit de solliciter un nouveau permis pendant une durée
-inférieure à un an, l'épreuve pratique est supprimée sous réserve qu'ils sollicitent un nouveau permis moins de neuf mois
-après la date à laquelle ils sont autorisés à le faire.
+inférieure à un an, l'épreuve pratique ou la formation prévue à l'article R. 221-3 est supprimée sous réserve qu'ils
+sollicitent un nouveau permis moins de neuf mois après la date à laquelle ils sont autorisés à le faire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2007-753 du 9 mai 2007 - art. 3 () JORF 10 mai 2007
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 15
 
 _Cité par_:
 
@@ -14598,8 +14674,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 221-6-1 (V)
-  - Code pénal - art. 222-19-1 (V)
+  - Code pénal - art. 221-6-1
+  - Code pénal - art. 222-19-1
+  - Code pénal - art. 222-20-1
+  - Code de la route. - art. D221-3 (VD)
+  - Code de la route. - art. L223-1
 
 _Anciens textes_:
 
@@ -15185,8 +15264,7 @@ de l'autorité compétente :
 provisoires, ou les photocopies des certificats d'immatriculation dans les cas et dans les conditions prévues par un arrêté
 du ministre de la justice et du ministre de l'intérieur ; 
 
-3° L'original ou la copie du certificat constatant l'achèvement d'une formation de conducteur de transport par route quand
-celui-ci est exigé en application de l'article R. 221-6 ; 
+3° (Supprimé) 
 
 4° Dans les cas mentionnés aux II et III de l'article R. 221-8, une attestation de la formation pratique ou le document
 attestant d'une expérience de la conduite conforme aux conditions prévues par ces dispositions ; 
@@ -15197,7 +15275,7 @@ et de la vérification de son fonctionnement, lorsque le conducteur :
 a) A été condamné à une peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou par
 construction d'un tel dispositif ; ou 
 
-b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de procédure pénale. 
+b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de procédure pénale ; 
 
 6° Un éthylotest dans les conditions prévues à l'article R. 234-7 (1). 
 
@@ -15237,12 +15315,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-284 du 28 février 2012 - art. 2
+  - Décret n°2011-1475 du 9 novembre 2011 - art. 16
 
 _Cite_:
 
   - Code de procédure pénale - art. 41-2 (V)
-  - Code de la route. - art. R221-6 (VT)
   - Code de la route. - art. R221-8 (VT)
   - Code de la route. - art. R234-7 (V)
 
@@ -37281,72 +37358,6 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-1 (V)
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
   - SPEC_APPLI: Code de la route. - art. R433-6 (V)
-
-
-###### Article R431-4
-
-I.-Tout conducteur de quadricycle léger à moteur doit être âgé d'au moins seize ans. 
-
-II.-Tout conducteur de quadricycle léger à moteur doit être titulaire soit du brevet de sécurité routière ou d'un titre
-reconnu équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen dont la liste est fixée par arrêté du ministre chargé des transports, soit du permis de conduire. 
-
-III.-Le fait de contrevenir aux dispositions des deux alinéas précédents est puni de l'amende prévue pour les contraventions
-de la 2e classe. 
-
-IV.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
-
-V.-Les dispositions du II ne sont applicables qu'aux personnes qui atteindront l'âge de seize ans à compter du 1er janvier
-2004.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 17 décembre 2003
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 1 (M)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 2 (VT)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 3 (M)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 4 (Ab)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 4 (VT)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 5 (Ab)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 5 (VT)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 6 (Ab)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 6 (M)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 7 (VT)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe I (Ab)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe II (Ab)
-  - SPEC_APPLI: Décret n°2004-795 2004-07-29 art. 3 : champ d'application
-
-_Cité par_:
-
-  - Arrêté du 17 décembre 2003 - art. 1 (VT)
-
-_Modifié par_:
-
-  - Décret n°2004-795 du 29 juillet 2004 - art. 2 () JORF 3 août 2004
-
-_Abrogé par_:
-
-  - Décret n°2011-1475 du 9 novembre 2011 - art. 18 (V)
-
-_Anciens textes_:
-
-  - Code de la route - art. R200-1 (Ab)
-  - Code de la route - art. R233 (Ab)
-  - Code de la route R233 (al. 1, al. 2)
-
-_Cite_:
-
-  - Code de la route L325-1 à L325-3
-  - Code de la route. - art. L325-1
 
 
 ###### Article R431-5
