@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2013-01-19
+Version Consolidée au 2013-03-02
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -15254,7 +15254,7 @@ _Anciens textes_:
 
 ###### Article R233-1
 
-I.-Lorsque les dispositions du présent code l'exigent, tout conducteur est tenu de présenter à toute réquisition des agents
+I. - Lorsque les dispositions du présent code l'exigent, tout conducteur est tenu de présenter à toute réquisition des agents
 de l'autorité compétente : 
 
 1° Tout titre justifiant de son autorisation de conduire ; 
@@ -15279,17 +15279,17 @@ b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de pr
 
 6° Un éthylotest dans les conditions prévues à l'article R. 234-7 (1). 
 
-II.-En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
+II. - En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
 vol tient lieu de titre pendant un délai de deux mois au plus. 
 
-III.-Le fait de ne pas présenter immédiatement aux agents de l'autorité compétente les éléments exigés par le présent article
-est puni de l'amende prévue pour les contraventions de la première classe. 
+III. - Hors le cas prévu au 6° du I, le fait de ne pas présenter immédiatement aux agents de l'autorité compétente les
+éléments exigés par le présent article est puni de l'amende prévue pour les contraventions de la première classe. 
 
-IV.-Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession de son brevet de sécurité
+IV. - Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession de son brevet de sécurité
 routière, de ne pas présenter ce document avant l'expiration de ce délai est puni de l'amende prévue pour les contraventions
 de la deuxième classe. 
 
-V.-Hors le cas prévu au 6° du I, le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la
+V. - Hors le cas prévu au 6° du I, le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la
 possession des autorisations et pièces exigées par le présent article, de ne pas présenter ces documents avant l'expiration
 de ce délai est puni de l'amende prévue pour les contraventions de la quatrième classe (1).
 
@@ -15315,13 +15315,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1475 du 9 novembre 2011 - art. 16
+  - Décret n°2013-180 du 28 février 2013 - art. 1
 
 _Cite_:
 
-  - Code de procédure pénale - art. 41-2 (V)
-  - Code de la route. - art. R221-8 (VT)
-  - Code de la route. - art. R234-7 (V)
+  - Code de procédure pénale - art. 41-2
+  - Code de la route. - art. R221-8
+  - Code de la route. - art. R234-7
 
 _Anciens textes_:
 
