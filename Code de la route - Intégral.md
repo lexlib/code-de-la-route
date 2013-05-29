@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2013-03-02
+Version Consolidée au 2013-05-30
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -893,14 +893,15 @@ _Cite_:
 
 ###### Article L130-6
 
-Les infractions prévues par les articles L. 233-2, 
-L. 317-1, 
-L. 325-3-1 et L. 413-1 peuvent être constatées par les fonctionnaires ou agents de l'Etat chargés du contrôle des transports
-terrestres placés sous l'autorité du ministre chargé des transports lorsqu'elles sont commises au moyen de véhicules affectés
-au transport routier de voyageurs ou de marchandises. 
+Les infractions prévues aux articles L. 233-2, L. 317-1 à L. 317-4-1, 
+L. 324-2, L. 325-3-1 et L. 413-1 peuvent être constatées par les fonctionnaires ou agents de l'Etat chargés du contrôle des
+transports terrestres placés sous l'autorité du ministre chargé des transports lorsqu'elles sont commises au moyen de
+véhicules affectés au transport routier de voyageurs ou de marchandises. 
 
 Ces fonctionnaires ont accès à l'appareil de contrôle, dit " chronotachygraphe ", et à toutes ses composantes afin d'en
-vérifier l'intégrité, sur les véhicules soumis à l'obligation d'en être équipés.
+vérifier l'intégrité, sur les véhicules soumis à l'obligation d'en être équipés. 
+
+Ils ont également accès au poste de conduite afin d'y effectuer les vérifications prescrites par le présent code.
 
 **Liens relatifs à cet article**
 
@@ -912,12 +913,12 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V)
+  - Loi n°2013-431 du 28 mai 2013 - art. 20
 
 _Anciens textes_:
 
@@ -928,6 +929,7 @@ _Cite_:
 
   - Code de la route. - art. L233-2 (V)
   - Code de la route. - art. L317-1 (V)
+  - Code de la route. - art. L324-2 (V)
   - Code de la route. - art. L325-3-1 (V)
   - Code de la route. - art. L413-1 (V)
 
@@ -3502,7 +3504,10 @@ encourue du fait des dommages causés par les véhicules à moteur ;
 
 9° A l'organisme chargé de la délivrance et de la gestion des cartes de qualification de conducteur destinées à prouver la
 qualification initiale et la formation continue des conducteurs de certains véhicules routiers affectés aux transports de
-marchandises ou de voyageurs.
+marchandises ou de voyageurs ;
+
+10° Aux fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre
+chargé des transports pour l'exercice des compétences en matière de contrôle du transport routier prévues au présent code.
 
 **Liens relatifs à cet article**
 
@@ -3525,8 +3530,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 86
-  - Loi n°2009-1503 du 8 décembre 2009 - art. 41
+  - Loi n°2013-431 du 28 mai 2013 - art. 20
 
 _Anciens textes_:
 
@@ -6843,11 +6847,10 @@ police ou à la réglementation relative à l'assurance obligatoire des véhicul
 des marchandises dangereuses par route compromettent la sécurité ou le droit à réparation des usagers de la route, la
 tranquillité ou l'hygiène publique, l'esthétique des sites et des paysages classés, la conservation ou l'utilisation normale
 des voies ouvertes à la circulation publique et de leurs dépendances, notamment par les véhicules de transport en commun,
-ainsi que les véhicules en infraction aux dispositions des articles 269 à 283 ter et 285 septies du code des douanes, peuvent
-à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement compétent, même sans
-l'accord du propriétaire du véhicule, dans les cas et conditions précisés par le décret prévu aux articles L. 325-3 et L.
-325-11, être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la
-destruction. 
+ainsi que les véhicules en infraction aux dispositions des articles 269 à 283 ter du code des douanes, peuvent à la demande
+et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement compétent, même sans l'accord du
+propriétaire du véhicule, dans les cas et conditions précisés par le décret prévu aux articles L. 325-3 et L. 325-11, être
+immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la destruction. 
 
 Peuvent également, à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement
 compétent, même sans l'accord du propriétaire du véhicule, être immobilisés, mis en fourrière, retirés de la circulation et,
@@ -6985,13 +6988,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 87
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
+  - Loi n°2013-431 du 28 mai 2013 - art. 12 (M)
 
 _Cite_:
 
-  - Code des douanes - art. 269 (V)
-  - Code des douanes - art. 285 septies (V)
+  - Code des douanes - art. 269
   - Code de la route. - art. L325-11
 
 _Anciens textes_:
@@ -8107,21 +8108,27 @@ l'immatriculation d'un véhicule précédemment immatriculé dans un autre de ce
 criminalité visant les véhicules et ayant des incidences transfrontalières ; 
 
 11° Aux fonctionnaires de la police nationale et du contrôle des transports terrestres ainsi qu'aux militaires de la
-gendarmerie nationale, aux seules fins de vérifier la régularité de la situation des redevables au regard des taxes sur les
-poids lourds prévues aux articles 269 à 283 quinquies et 285 septies du code des douanes et d'identifier les auteurs des
-manquements au regard de ces taxes ; 
+gendarmerie nationale, aux seules fins de vérifier la régularité de la situation des redevables au regard de la taxe sur les
+poids lourds prévue au chapitre II du titre X du code des douanes et d'identifier les auteurs des manquements au regard de
+cette taxe ; 
 
 12° Aux personnels agréés du prestataire autorisé par l'Etat à exploiter les appareils de contrôle automatique et à procéder
-à la constatation des manquements au regard des taxes sur les poids lourds prévues aux articles 269 à 283 quinquies et 285
-septies du code des douanes, aux seules fins de vérifier la régularité de la situation des redevables au regard de ces taxes
-et d'identifier les auteurs des manquements au regard de ces taxes ; 
+à la constatation des manquements au regard de la taxe sur les poids lourds prévue au chapitre II du titre X du code des
+douanes, aux seules fins de vérifier la régularité de la situation des redevables au regard de cette taxe et d'identifier les
+auteurs des manquements au regard de cette taxe ; 
 
 13° Aux constructeurs de véhicules ou à leurs mandataires pour les besoins des rappels de sécurité et des rappels de mise au
 point des véhicules. 
 
 14° Aux agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage,
 assermentés dans les conditions prévues à l'article L. 130-7, aux seules fins d'identifier les auteurs des contraventions au
-présent code qu'ils sont habilités à constater conformément au 8° de l'article L. 130-4. 
+présent code qu'ils sont habilités à constater conformément au 8° de l'article L. 130-4 ;
+
+15° Aux agents mentionnés aux articles L. 2132-21 et L. 2132-23 du code général de la propriété des personnes publiques ainsi
+qu'aux articles L. 2241-1, L. 4321-3, L. 4272-1, L. 5243-1 et L. 5337-2 du code des transports habilités à dresser procès-
+verbal de contravention de grande voirie en application de ces mêmes codes et aux personnels de Voies navigables de France
+mentionnés à l'article L. 4272-2 du code des transports habilités à constater les infractions définies par les règlements de
+police de la navigation intérieure, aux seules fins d'identifier le titulaire du certificat d'immatriculation. 
 
 II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la
 réalité du sinistre. 
@@ -8156,9 +8163,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 86
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
-  - Loi n°2010-788 du 12 juillet 2010 - art. 58
+  - Loi n°2013-431 du 28 mai 2013 - art. 12 (M)
+  - Loi n°2013-431 du 28 mai 2013 - art. 20
 
 _Anciens textes_:
 
@@ -8170,8 +8176,8 @@ _Cite_:
   - Code de procédure pénale - art. 14
   - Code des douanes - art. 269
   - Code des douanes - art. 285 septies
-  - Code de la route. - art. L130-4 (V)
-  - Code de la route. - art. L130-7 (V)
+  - Code de la route. - art. L130-4
+  - Code de la route. - art. L130-7
 
 
 ###### Article L330-3
