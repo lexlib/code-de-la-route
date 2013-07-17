@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2013-05-30
+Version Consolidée au 2013-07-18
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -8054,6 +8054,10 @@ charge l'indemnisation d'une des victimes ;
 9° Aux autorités étrangères avec lesquelles existe un accord d'échange d'informations relatives à l'identification du
 titulaire du certificat d'immatriculation ; 
 
+9° bis Aux services compétents des Etats membres, pour l'application de la directive 2011/82/ UE du Parlement européen et du
+Conseil du 25 octobre 2011 facilitant l'échange transfrontalier d'informations concernant les infractions en matière de
+sécurité routière ; 
+
 10° Aux services compétents en matière d'immatriculation des Etats membres de l'Union européenne et aux autres Etats parties
 à l'accord sur l'Espace économique européen, dans le cadre des dispositions prévoyant un échange d'informations relatives à
 l'immatriculation d'un véhicule précédemment immatriculé dans un autre de ces Etats, ou au titre de la répression de la
@@ -8074,13 +8078,14 @@ point des véhicules.
 
 14° Aux agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage,
 assermentés dans les conditions prévues à l'article L. 130-7, aux seules fins d'identifier les auteurs des contraventions au
-présent code qu'ils sont habilités à constater conformément au 8° de l'article L. 130-4 ;
+présent code qu'ils sont habilités à constater conformément au 8° de l'article L. 130-4 ; 
 
 15° Aux agents mentionnés aux articles L. 2132-21 et L. 2132-23 du code général de la propriété des personnes publiques ainsi
-qu'aux articles L. 2241-1, L. 4321-3, L. 4272-1, L. 5243-1 et L. 5337-2 du code des transports habilités à dresser procès-
-verbal de contravention de grande voirie en application de ces mêmes codes et aux personnels de Voies navigables de France
-mentionnés à l'article L. 4272-2 du code des transports habilités à constater les infractions définies par les règlements de
-police de la navigation intérieure, aux seules fins d'identifier le titulaire du certificat d'immatriculation. 
+qu'aux articles L. 2241-1, L. 4321-3, L. 4272-1, 
+L. 5243-1 et L. 5337-2 du code des transports habilités à dresser procès-verbal de contravention de grande voirie en
+application de ces mêmes codes et aux personnels de Voies navigables de France mentionnés à l'article L. 4272-2 du code des
+transports habilités à constater les infractions définies par les règlements de police de la navigation intérieure, aux
+seules fins d'identifier le titulaire du certificat d'immatriculation. 
 
 II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la
 réalité du sinistre. 
@@ -8115,8 +8120,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-431 du 28 mai 2013 - art. 12 (M)
-  - Loi n°2013-431 du 28 mai 2013 - art. 20
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (M)
+  - Loi n°2013-619 du 16 juillet 2013 - art. 35
 
 _Anciens textes_:
 
@@ -8125,11 +8130,17 @@ _Anciens textes_:
 
 _Cite_:
 
+  - Code général de la propriété des personnes publiques. - art. L2132-21
+  - Code général de la propriété des personnes publiques. - art. L2132-23
   - Code de procédure pénale - art. 14
-  - Code des douanes - art. 269
-  - Code des douanes - art. 285 septies
   - Code de la route. - art. L130-4
   - Code de la route. - art. L130-7
+  - Code des transports - art. L2241-1
+  - Code des transports - art. L4272-1
+  - Code des transports - art. L4272-2
+  - Code des transports - art. L4321-3
+  - Code des transports - art. L5243-1
+  - Code des transports - art. L5337-2
 
 
 ###### Article L330-3
