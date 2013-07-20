@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2013-07-18
+Version Consolidée au 2013-07-21
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -25568,8 +25568,8 @@ L'immobilisation peut être prescrite par les officiers et les agents de police 
 judiciaire adjoints mentionnés à l'article 21 du code de procédure pénale et les gardes champêtres lorsqu'ils constatent la
 nécessité de faire cesser sans délai une des infractions pour lesquelles cette mesure est prévue par le présent code. 
 
-Elle peut être prescrite par les agents mentionnés au 2° de l'article L. 116-2 du code de la voirie routière lorsque
-l'infraction qui la motive est constatée dans les conditions prévues à l'article R. 130-5. 
+Elle peut être prescrite par les agents mentionnés au 2° de l'article L. 116-2 du code de la voirie routière 
+lorsque l'infraction qui la motive est constatée dans les conditions prévues à l'article R. 130-5. 
 
 Elle peut également être prescrite, dans le champ de leur compétence, par les inspecteurs des transports, fonctionnaires ou
 agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre chargé des transports
@@ -25577,26 +25577,30 @@ mentionnés à l'article 25 de la loi n° 52-401 du 14 avril 1952, modifié par 
 des douanes et les inspecteurs du travail lorsqu'il y a nécessité de faire cesser sans délai une infraction pour laquelle
 cette mesure est prévue par le présent code. 
 
-Elle peut être en outre prescrite par les agents verbalisateurs mentionnés à l'article L. 362-5 du code de l'environnement.
+Elle peut être en outre prescrite par les agents verbalisateurs mentionnés à l'article L. 362-5 du code de l'environnement. 
+
+L'immobilisation prévue à l'article 283 bis du code des douanes peut être prescrite par les agents des douanes, de la police
+nationale, de la gendarmerie nationale ou du contrôle des transports terrestres.
+
+**Nota:**
+
+Décret n° 2013-652 du 18 juillet 2013 art. 2 : Les dispositions du présent décret entrent en vigueur à compter de la date
+fixée par l'arrêté prévu à la seconde phrase du 1 du C du II de l'article 153 de la loi du 27 décembre 2008 susvisée.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°52-401 du 14 avril 1952 (V)
-  - Décret n°65-714 1965-08-21
-  - Code de la voirie routière - art. L116-2 (M)
-  - Code de procédure pénale - art. 21 (V)
-  - Code de l'environnement - art. L362-5 (V)
-  - Code de la route. - art. R130-5 (V)
+  - Loi n°52-401 du 14 avril 1952 - art. 25
+  - Décret n°65-714 du 24 août 1965
+  - Code de la voirie routière - art. L116-2
+  - Code de procédure pénale - art. 21
+  - Code des douanes - art. 283 bis
+  - Code de l'environnement - art. L362-5
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-536 du 20 juin 2003 - art. 14 () JORF 22 juin 2003
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -25604,10 +25608,13 @@ _Cité par_:
   - Code de la route. - art. R342-4 (V)
   - Code des transports - art. R3452-43 (V)
 
+_Modifié par_:
+
+  - Décret n°2013-652 du 18 juillet 2013 - art. 1
+
 _Anciens textes_:
 
   - Code de la route - art. R277 (Ab)
-  - Code de la route R277
 
 
 ###### Article R325-4
