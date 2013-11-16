@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2013-07-21
+Version Consolidée au 2013-11-17
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -1164,39 +1164,6 @@ _Cite_:
 
   - Code de la route. - art. L110-2 (V)
   - Code de la route. - art. L130-5 (V)
-
-
-###### Article L142-3
-
-Les règles relatives à la constatation des contraventions au présent code par les agents de police municipale sont fixées par
-l'article 4 de l'ordonnance n° 98-728 du 20 août 1998 portant actualisation et adaptation de certaines dispositions de droit
-pénal et de procédure pénale dans les territoires d'outre-mer et les collectivités territoriales de Mayotte et de Saint-
-Pierre-et-Miquelon.
-
-**Nota:**
-
-Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
-territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée
-par la référence à la collectivité départementale.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°98-728 du 20 août 1998 - art. 4
-
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
-
-_Abrogé par_:
-
-  - Loi n°2013-1029 du 15 novembre 2013 - art. 23
 
 
 ###### Article L142-4
