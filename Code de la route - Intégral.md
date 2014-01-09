@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2013-11-17
+Version Consolidée au 2014-01-10
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -32910,20 +32910,20 @@ _Anciens textes_:
 
 ###### Article R413-3
 
-En agglomération, la vitesse des véhicules est limitée à 50 km/h.
+En agglomération, la vitesse des véhicules est limitée à 50 km/ h. 
 
-Toutefois, cette limite peut être relevée à 70 km/h sur les sections de route où les accès des riverains et les traversées
+Toutefois, cette limite peut être relevée à 70 km/ h sur les sections de route où les accès des riverains et les traversées
 des piétons sont en nombre limité et sont protégés par des dispositifs appropriés. La décision est prise par arrêté de
 l'autorité détentrice du pouvoir de police de la circulation, après consultation des autorités gestionnaires de la voie et,
 s'il s'agit d'une route à grande circulation, après avis conforme du préfet. 
 
-Sur le boulevard périphérique de Paris, cette limite est fixée à 80 km/h.
+Sur le boulevard périphérique de Paris, cette limite est fixée à   70 km/h.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 7
+  - Décret n°2014-3 du 3 janvier 2014 - art. 1
 
 _Anciens textes_:
 
@@ -33102,17 +33102,17 @@ un terre-plein central ;
 3° 80 km/h sur les autres routes. Toutefois, cette vitesse maximale est abaissée à 60 km/h pour les véhicules articulés ou
 avec remorque dont le poids total est supérieur à 12 tonnes.
 
-4° 50 km/h en agglomération. Toutefois, cette vitesse maximale est relevée à 80 km/h sur le boulevard périphérique de Paris.
+4° 50 km/h en agglomération. Toutefois, cette vitesse maximale est relevée à 70 km/h sur le boulevard périphérique de Paris.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-1812 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+  - Décret n°2014-3 du 3 janvier 2014 - art. 1
 
 _Anciens textes_:
 
@@ -33158,7 +33158,7 @@ transport exceptionnel, est limitée à :
 prioritaire et signalées comme telles, pour les véhicules possédant des caractéristiques particulières définies par arrêté du
 ministre chargé des transports ;
 
-3° 50 km/h en agglomération. Toutefois cette vitesse maximale est relevée à 80 km/h sur le boulevard périphérique de Paris.
+3° 50 km/h en agglomération. Toutefois cette vitesse maximale est relevée à 70 km/h sur le boulevard périphérique de Paris.
 
 **Liens relatifs à cet article**
 
@@ -33169,17 +33169,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2014-3 du 3 janvier 2014 - art. 1
 
 _Anciens textes_:
 
   - Code de la route - art. R10-2 (Ab)
-  - Code de la route R10-2
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R413-10
