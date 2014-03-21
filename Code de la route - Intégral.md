@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2014-03-19
+Version Consolidée au 2014-03-22
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -23338,6 +23338,10 @@ Le ministre chargé des transports détermine par arrêté les éléments de vé
 particulières auxquelles sont soumis les différents éléments de véhicule pour assurer la conformité des véhicules formés à
 partir d'éléments avec les dispositions du présent code. 
 
+Toutefois, tout véhicule carrossé individuellement peut être mis en circulation après un contrôle de conformité initial
+effectué par un opérateur qualifié. Les catégories de véhicules soumis à ce contrôle, les modalités de ce contrôle et les
+conditions de désignation des opérateurs qualifiés sont fixées par arrêté du ministre chargé des transports.
+
 Le ministre chargé des transports fixe la liste des matériels de travaux publics, appelés à être employés normalement sur les
 routes, qui doivent faire l'objet d'une réception. 
 
@@ -23345,7 +23349,7 @@ Les remorques ou appareils agricoles destinés à être attelés à un tracteur 
 montés sur bandages pleins ou si, étant équipés de bandages pneumatiques, leur poids total autorisé en charge (PTAC) est
 inférieur à 1, 5 tonne, ne sont pas soumis à l'obligation de réception. 
 
-Les dispositions du présent article ne sont pas applicables   aux véhicules de collection et aux véhicules appartenant à des
+Les dispositions du présent article ne sont pas applicables aux véhicules de collection et aux véhicules appartenant à des
 personnes de statut diplomatique ou assimilé.
 
 **Liens relatifs à cet article**
@@ -23377,7 +23381,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 5
+  - Décret n°2014-357 du 19 mars 2014 - art. 1
 
 _Anciens textes_:
 
@@ -25517,18 +25521,12 @@ _Anciens textes_:
 
 ###### Article R323-25
 
-Tout véhicule dont le poids total autorisé en charge est supérieur à 3,5 tonnes, à l'exception des véhicules visés aux
-articles R. 323-23, R. 323-24 et R. 323-26, et qui fait l'objet d'une demande de certificat d'immatriculation, ne peut être
-mis en circulation qu'après un contrôle de conformité initial effectué soit par les services de l'Etat chargés de la
-réception des véhicules, soit par des opérateurs qualifiés. Un arrêté du ministre chargé des transports fixe les modalités du
-contrôle et les conditions de désignation des opérateurs qualifiés.
-
-Toutefois, certaines catégories de véhicules livrés prêts à l'emploi, définies par le ministre chargé des transports en
-fonction de l'affectation et du poids des véhicules concernés, pourront n'être présentées au contrôle technique qu'au plus
-tard un an après la date de leur première mise en circulation.
+Tout véhicule dont le poids total autorisé en charge est supérieur à 3,5 tonnes, à l'exception des véhicules mentionnés aux
+articles R. 323-23, R. 323-24 et R. 323-26, est soumis à un contrôle technique au plus tard un an après la date de sa
+première immatriculation. 
 
 Les véhicules mentionnés au présent article sont ensuite soumis à des contrôles techniques périodiques renouvelés tous les
-ans.
+ans. 
 
 Pour les véhicules de collection, cette périodicité est portée à cinq ans.
 
@@ -25560,7 +25558,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-2046 du 29 décembre 2011 - art. 4
+  - Décret n°2014-357 du 19 mars 2014 - art. 2
 
 _Anciens textes_:
 
