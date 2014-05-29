@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2014-03-22
+Version Consolidée au 2014-05-30
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -14002,8 +14002,8 @@ _Cite_:
 
 I.-Le titulaire de l'agrément prévu au II de l'article R. 213-2 délivre une attestation de stage à toute personne qui a suivi
 un stage de sensibilisation à la sécurité routière dans le respect de conditions d'assiduité et de participation fixées par
-arrêté du   ministre chargé de la sécurité routière. Il transmet un exemplaire de cette attestation au préfet du département
-du lieu du stage, dans un délai de quinze jours à compter de la fin de celui-ci. 
+arrêté du ministre chargé de la sécurité routière. Il transmet un exemplaire de cette attestation au préfet du département du
+lieu du stage, dans un délai de quinze jours à compter de la fin de celui-ci. 
 
 II.-L'attestation délivrée à l'issue du stage effectué en application des dispositions de l'alinéa 3 de l'article L. 223-6
 donne droit à la récupération de quatre points dans la limite du plafond affecté au permis de conduire de son titulaire. Une
@@ -14014,12 +14014,12 @@ III.-Le préfet mentionné au I ci-dessus procède à la reconstitution du nombr
 la réception de l'attestation et notifie cette reconstitution à l'intéressé par lettre simple. La reconstitution prend effet
 le lendemain de la dernière journée de stage. 
 
-IV.-Dans le cas prévu à l'article R. 223-4, sont transmises au comptable du Trésor du lieu de commission de l'infraction,
-dans le délai de quinze jours mentionné au I ci-dessus, l'attestation de suivi de stage ainsi que, si l'amende a été
-acquittée, les pièces nécessaires à son remboursement. 
+IV.-Dans le cas prévu à l'article R. 223-4, sont transmises au  comptable de la direction générale des finances publiques du
+lieu de commission de l'infraction, dans le délai de quinze jours mentionné au I ci-dessus, l'attestation de suivi de stage
+ainsi que, si l'amende a été acquittée, les pièces nécessaires à son remboursement. 
 
 L'attestation de suivi de stage et les pièces nécessaires au remboursement de l'amende payée sont définies par arrêté
-conjoint du ministre de l'intérieur, du ministre chargé du budget et du   ministre chargé de la sécurité routière.
+conjoint du ministre de l'intérieur, du ministre chargé du budget et du ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
@@ -14031,7 +14031,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-688 du 7 mai 2012 - art. 2
+  - Décret n°2014-551 du 27 mai 2014 - art. 25
 
 _Anciens textes_:
 
@@ -24162,7 +24162,8 @@ _Cite_:
 ###### Article R322-16
 
 L'opposition au transfert du certificat d'immatriculation prévue par l'article L. 322-1 en cas d'émission d'une amende
-forfaitaire majorée peut être effectuée par le comptable du Trésor dans l'un des deux cas suivants : 
+forfaitaire majorée peut être effectuée par le comptable de la direction générale des finances publiques dans l'un des deux
+cas suivants : 
 
 1° Le contrevenant n'habite plus à l'adresse enregistrée au fichier national des immatriculations ; 
 
@@ -24173,15 +24174,16 @@ de l'avis prévu par l'article R. 49-6 du code de procédure pénale.
 
 _Modifié par_:
 
-  - Décret n°2009-383 du 6 avril 2009 - art. 2
+  - Décret n°2014-551 du 27 mai 2014 - art. 25
+
+_Cite_:
+
+  - Code de procédure pénale - art. R49-6 (V)
+  - Code de la route. - art. L322-1 (VT)
 
 _Anciens textes_:
 
   - Code de la route - art. R299 (Ab)
-
-_Cite_:
-
-  - Code de la route. - art. L322-1
 
 
 ###### Article R322-17
@@ -24214,16 +24216,17 @@ _Anciens textes_:
 
 ###### Article R322-18
 
-La levée de l'opposition intervient, soit à la suite du règlement au comptable du Trésor des amendes pour lesquelles il a été
-fait opposition, soit lorsque l'intéressé a formé une réclamation selon les modalités et dans les délais prévus par les
-articles 529-10 et 530 du code de procédure pénale à peine d'irrecevabilité, et, s'il n'habitait plus à l'adresse enregistrée
-dans le fichier, qu'il justifie avoir adressé la déclaration mentionnée à l'article R. 322-7.
+La levée de l'opposition intervient, soit à la suite du règlement au  comptable de la direction générale des finances
+publiques des amendes pour lesquelles il a été fait opposition, soit lorsque l'intéressé a formé une réclamation selon les
+modalités et dans les délais prévus par les articles 529-10 et 530 du code de procédure pénale à peine d'irrecevabilité, et,
+s'il n'habitait plus à l'adresse enregistrée dans le fichier, qu'il justifie avoir adressé la déclaration mentionnée à
+l'article R. 322-7.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-383 du 6 avril 2009 - art. 2
+  - Décret n°2014-551 du 27 mai 2014 - art. 25
 
 _Cite_:
 
@@ -25426,8 +25429,8 @@ _Cité par_:
 ###### Article R325-1-1
 
 Lorsque la juridiction prononce la confiscation d'un véhicule immobilisé et mis en fourrière en application des articles L.
-325-1-1 ou L. 325-1-2, le service des domaines chargé de son aliénation informe préalablement le candidat acquéreur que le
-montant des frais d'enlèvement et de garde en fourrière seront à sa charge.
+325-1-1 ou L. 325-1-2,    l'administration chargée des domaines chargée de son aliénation informe préalablement le candidat
+acquéreur que le montant des frais d'enlèvement et de garde en fourrière seront à sa charge.
 
 **Liens relatifs à cet article**
 
@@ -25437,7 +25440,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-3 du 3 janvier 2012 - art. 11
+  - Décret n°2014-551 du 27 mai 2014 - art. 25
 
 _Cite_:
 
@@ -26290,18 +26293,21 @@ _Cite_:
 
 Le gardien de fourrière enregistre, au fur et à mesure de leurs arrivées, les entrées des véhicules mis en fourrière, leurs
 sorties provisoires et définitives, les décisions de mainlevée de la mise en fourrière et, le cas échéant, les décisions de
-remise au service des domaines ou à une entreprise de destruction.
+remise   à l'administration chargée des domaines ou à une entreprise de destruction.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2014-551 du 27 mai 2014 - art. 25
 
 _Anciens textes_:
 
   - Code de la route - art. R286-6 (Ab)
-  - Code de la route R286-6
 
 
 ###### Article R325-26
@@ -26426,8 +26432,8 @@ IV.-Les taux maximaux des frais d'opérations préalables à la mise en fourriè
 fourrière, d'expertise et de destruction des véhicules sont fixés par arrêté conjoint du ministre de l'intérieur et du
 ministre chargé de l'économie et des finances, compte tenu des catégories de véhicules. 
 
-V.-Les frais de vente par le service des domaines sont fixés conformément aux dispositions de l'article A. 114 du code du
-domaine de l'Etat. 
+V.-Les frais de vente par l'administration chargée des domaines sont fixés conformément aux dispositions de l'article A. 114
+du code du domaine de l'Etat. 
 
 VI.-Les professionnels auxquels l'autorité dont relève la fourrière fait appel dans le cadre de la mise en fourrière sont
 rémunérés par cette autorité. 
@@ -26442,21 +26448,22 @@ A défaut de stipulations contractuelles, cette autorité indemnise les frais é
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2005-1148 du 6 septembre 2005 - art. 13 () JORF 13 septembre 2005
+  - Décret n°2014-551 du 27 mai 2014 - art. 25
 
 _Cite_:
 
-  - Code du domaine de l'Etat - art. A114 (V)
-  - Code de la route. - art. R325-12 (V)
+  - Code du domaine de l'Etat - art. A114
+  - Code de la route. - art. R325-12
+  - Code de la route. - art. R325-30 (V)
+  - Code de la route. - art. R325-35 (V)
 
 _Anciens textes_:
 
   - Code de la route - art. R289-1 (Ab)
-  - Code de la route R289-1
 
 _Cité par_:
 
@@ -26573,13 +26580,13 @@ qualifiée pour donner mainlevée de la mise en fourrière.
 a) De dix jours pour un véhicule qu'un expert aura estimé d'une valeur marchande inférieure à un montant fixé par arrêté
 interministériel et déclaré hors d'état de circuler dans des conditions normales de sécurité ; 
 
-b) De   trente jours  dans les autres cas, 
+b) De trente jours dans les autres cas, 
 
 ces délais commençant à courir un jour franc après la date de notification ; 
 
 6° Avertissement au propriétaire que son absence de réponse dans les délais impartis vaudra abandon de son véhicule et que
-ledit véhicule sera, dans les conditions prévues par décret, soit remis au service des domaines en vue de son aliénation,
-soit livré à la destruction ; 
+ledit véhicule sera, dans les conditions prévues par décret, soit remis   à l'administration chargée des domaines en vue de
+son aliénation, soit livré à la destruction ; 
 
 7° Nature et montant des frais qu'il sera tenu de rembourser ; 
 
@@ -26588,19 +26595,20 @@ soit livré à la destruction ;
 III.-Si le traitement automatisé mis en œuvre pour l'immatriculation des véhicule révèle l'inscription d'un gage, copie de la
 notification de mise en fourrière est adressée par l'auteur de la prescription de mise en fourrière au créancier-gagiste, par
 lettre recommandée avec demande d'accusé de réception, qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5,6
-et 7) fixant les conditions de remise au service des domaines des véhicules non retirés de fourrière par leurs propriétaires.
+et 7) fixant les conditions de remise   à l'administration chargée des domaines des véhicules non retirés de fourrière par
+leurs propriétaires.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°72-823 du 6 septembre 1972 - art. 5
+  - Décret n°72-823 du 6 septembre 1972 - art. 5 (V)
   - Code de la route. - art. R325-30
   - Code de la route. - art. R325-35
 
 _Modifié par_:
 
-  - Décret n°2012-3 du 3 janvier 2012 - art. 14
+  - Décret n°2014-551 du 27 mai 2014 - art. 25
 
 _Anciens textes_:
 
@@ -26830,25 +26838,28 @@ _Anciens textes_:
 ###### Article R325-40
 
 La mainlevée prend effet au jour de la délivrance de l'autorisation définitive de sortie du véhicule dans les cas prévus au
-IV de l'article R. 325-38.
+IV de l'article R. 325-38. 
 
-La mainlevée prend effet à compter de la remise du véhicule au service des domaines s'il est destiné à être aliéné, ou de sa
-remise à l'entreprise spécialisée s'il est destiné à être détruit.
+La mainlevée prend effet à compter de la remise du véhicule à l'administration chargée des domaines s'il est destiné à être
+aliéné, ou de sa remise à l'entreprise spécialisée s'il est destiné à être détruit.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2014-551 du 27 mai 2014 - art. 25
 
 _Anciens textes_:
 
   - Code de la route - art. R293-3 (Ab)
-  - Code de la route R293-3
 
 _Cite_:
 
-  - Code de la route. - art. R325-38 (M)
+  - Code de la route. - art. R325-38 (V)
 
 _Cité par_:
 
@@ -26877,28 +26888,31 @@ _Anciens textes_:
 
 ###### Article R325-42
 
-Aucun véhicule mis en fourrière ne peut être remis au service des domaines en vue de son aliénation ou à une entreprise de
-démolition en vue de sa destruction sans que la mainlevée de cette mesure ait été préalablement prononcée à l'une ou l'autre
-de ces fins.
+Aucun véhicule mis en fourrière ne peut être remis   à l'administration chargée des domaines en vue de son aliénation ou à
+une entreprise de démolition en vue de sa destruction sans que la mainlevée de cette mesure ait été préalablement prononcée à
+l'une ou l'autre de ces fins.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2014-551 du 27 mai 2014 - art. 25
 
 _Anciens textes_:
 
   - Code de la route - art. R293-5 (Ab)
-  - Code de la route R293-5
 
 
 ###### Article R325-43
 
 En application des dispositions des articles L. 325-7 et L. 325-8 relatives aux véhicules abandonnés, l'autorité dont relève
-la fourrière décide de la remise du véhicule au service des domaines en vue de son aliénation ;             elle décide
-également  de la destruction des véhicules mentionnés au quatrième alinéa de l'article L. 325-7 ainsi que des véhicules qui
-ont été remis au service des domaines pour aliénation et qui n'ont pas trouvé preneur. 
+la fourrière décide de la remise du véhicule   à l'administration chargée des domaines en vue de son aliénation ; elle décide
+également de la destruction des véhicules mentionnés au quatrième alinéa de l'article L. 325-7 ainsi que des véhicules qui
+ont été remis   à l'administration chargée des domaines pour aliénation et qui n'ont pas trouvé preneur. 
 
 L'autorité dont relève la fourrière informe de ces décisions l'autorité qualifiée pour prononcer la mainlevée, détentrice du
 certificat d'immatriculation, ainsi que le préfet du département ou, à Paris, le préfet de police. 
@@ -26915,7 +26929,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-3 du 3 janvier 2012 - art. 15
+  - Décret n°2014-551 du 27 mai 2014 - art. 25
 
 _Anciens textes_:
 
@@ -26928,9 +26942,9 @@ _Cite_:
 
 ###### Article R325-44
 
-Le service des domaines informe le préfet du département ou, à Paris, le préfet de police de l'aliénation du véhicule ou de
-la nécessité de le détruire s'il n'a pas trouvé preneur. La destruction d'un véhicule ne peut être réalisée que dans des
-installations classées pour la protection de l'environnement. 
+L'administration chargée des domaines informe le préfet du département ou, à Paris, le préfet de police de l'aliénation du
+véhicule ou de la nécessité de le détruire s'il n'a pas trouvé preneur. La destruction d'un véhicule ne peut être réalisée
+que dans des installations classées pour la protection de l'environnement. 
 
 S'il s'agit d'un véhicule hors d'usage au sens de l'article 1er du décret n° 2003-727 du 1er août 2003 relatif à la
 construction des véhicules et à l'élimination des véhicules hors d'usage, la destruction doit être opérée par un démolisseur,
@@ -26940,20 +26954,19 @@ ou un broyeur, agréé.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cite_:
 
-  - Décret n°2003-727 du 1 août 2003 - art. 1 (Ab)
+  - Décret n°2003-727 du 1 août 2003 - art. 1
 
 _Modifié par_:
 
-  - Décret n°2003-727 du 1 août 2003 - art. 19 () JORF 5 août 2003
+  - Décret n°2014-551 du 27 mai 2014 - art. 25
 
 _Anciens textes_:
 
   - Code de la route - art. R293-7 (Ab)
-  - Code de la route R293-7
 
 
 ###### Article R325-45
