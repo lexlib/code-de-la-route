@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-07-11
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -10200,19 +10200,23 @@ _Cite_:
 Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre
 chargé des transports peuvent constater par procès-verbal : 
 
-1° Les contraventions aux dispositions des articles R. 121-1 à R. 121-5, R. 221-1, R. 221-20, R. 233-1, R. 233-2, R. 311-3,
-R. 312-2 à R. 312-6, R. 312-10 à R. 312-14, R. 312-19 à R. 312-23, R. 313-1 à R. 313-7, R. 313-10, R. 313-12, R. 313-14, R.
-313-17 à R. 313-20, R. 314-1, R. 314-3, R. 315-1, R. 315-2, R. 316-4, R. 316-7, R. 317-1, R. 317-3, R. 317-4, R. 317-5, R.
-317-8 à R. 317-14, R. 317-18, R. 317-20, R. 317-23, R. 317-24, R. 317-26, R. 317-28, R. 318-1, R. 318-3, R. 322-1, R. 323-1,
-R. 323-2, R. 323-6, R. 323-23 à R. 323-26, R. 411-17, R. 411-18, R. 412-1, R. 412-16, R. 433-1 à R. 433-8, R. 433-11, R.
-433-12, R. 433-14 à R. 433-16, R. 433-20, R. 435-1 et R. 436-1 ainsi que, lorsqu'elles sont commises par le conducteur d'un
-véhicule qui doit être équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux dispositions relatives
-aux vitesses maximales autorisées par le présent code ; 
+1° Les contraventions aux dispositions des articles R. 121-1 à R. 121-5, R. 221-1, R. 221-20, R. 233-1, R. 233-2, R. 234-6,
+R. 311-3, R. 312-2 à R. 312-6, R. 312-10 à R. 312-14, R. 312-19 à R. 312-23, R. 313-1 à R. 313-7, R. 313-9, R. 313-10, R.
+313-12, R. 313-14, R. 313-17 à R. 313-20, R. 313-21, R. 313-24, R. 313-25, R. 313-26, R. 313-33, R. 314-1, R. 314-3, R.
+315-1, R. 315-2, R. 316-1, R. 316-3, R. 316-4, R. 316-6, R. 316-7, R. 316-8, R. 317-1, R. 317-3, R. 317-4, R. 317-5, R. 317-8
+à R. 317-14, R. 317-18, R. 317-20, R. 317-23, R. 317-24, R. 317-24-1, R. 317-26, R. 317-28, R. 318-1, R. 318-3, R. 318-4, R.
+322-1, R. 323-1, R. 323-2, R. 323-6, R. 323-22, R. 323-23 à R. 323-26, R. 325-2, R. 325-8, R. 411-17, R. 411-18, R. 411-21,
+R. 411-21-1, R. 411-23, R. 411-23-1, R. 411-23-2, R. 412-1, R. 412-13, R. 412-16, R. 433-1 à R. 433-8, R. 433-11, R. 433-12,
+R. 433-14 à R. 433-16, R. 433-20, R. 435-1 et R. 436-1 ainsi que, lorsqu'elles sont commises par le conducteur d'un véhicule
+qui doit être équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux dispositions relatives aux
+vitesses maximales autorisées par le présent code ;
 
 2° Toutes les autres contraventions prévues aux 1° et 2° de l'article R. 130-1 lorsqu'elles sont connexes à des infractions
 aux dispositions législatives relatives à l'accès aux professions du transport ferroviaire ou guidé et du transport routier
 et à leurs conditions d'exercice prévues au livre IV de la première partie et à la troisième partie du code des transports
-ainsi qu'aux dispositions réglementaires prises pour leur application.
+ainsi qu'aux dispositions réglementaires prises pour leur application ;
+
+3° Les contraventions prévues à l'article R. 211-14 du code des assurances.
 
 **Nota:**
 
@@ -10226,7 +10230,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-3 du 3 janvier 2012 - art. 2
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
 
 _Cité par_:
 
@@ -15188,7 +15192,9 @@ construction d'un tel dispositif ; ou
 
 b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de procédure pénale ; 
 
-6° Un éthylotest dans les conditions prévues à l'article R. 234-7 (1). 
+6° Un éthylotest dans les conditions prévues à l'article R. 234-7 (1) ;
+
+7° Le procès-verbal de contrôle technique périodique pour les véhicules mentionnés aux articles R. 323-23 et R. 323-25. 
 
 II. - En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
 vol tient lieu de titre pendant un délai de deux mois au plus. 
@@ -15226,7 +15232,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-180 du 28 février 2013 - art. 1
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
 
 _Cite_:
 
@@ -17151,7 +17157,14 @@ assises ;
 
 1. 8. Autobus articulé ou autocar articulé : autobus ou autocar composé d'au moins deux tronçons rigides reliés entre eux par
 des sections articulées, lesquelles permettent la libre circulation des voyageurs ; les sections rigides sont reliées de
-façon permanente et ne peuvent être disjointes que par une opération nécessitant des installations spécifiques. 
+façon permanente et ne peuvent être disjointes que par une opération nécessitant des installations spécifiques ;
+
+1.9. Véhicule de transport en commun d'enfants : véhicule de catégorie M2 ou M3 affecté à titre principal au transport de
+personnes de moins de dix-huit ans, quel que soit le motif du déplacement.
+
+1.10. Véhicule affecté au transport d'enfants : véhicule comportant, outre le siège du conducteur, huit places assises au
+maximum défini aux points 1.4 et 6.7 du présent article assurant un transport organisé à titre principal pour des personnes
+de moins de dix-huit ans, quel que soit le motif du déplacement. 
 
 2. Véhicules de catégorie N : véhicules à moteur conçus et construits pour le transport de marchandises et ayant au moins
 quatre roues : 
@@ -17566,7 +17579,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-497 du 30 avril 2009 - art. 2
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
 
 
 ###### Article R311-2
@@ -17833,14 +17846,14 @@ I.-Le poids total autorisé en charge d'un véhicule ne doit pas dépasser les l
 
 6° Autocar articulé : 28 tonnes. 
 
-II.-Le poids total roulant autorisé d'un véhicule articulé d'un ensemble composé d'un véhicule à moteur et d'une remorque
-d'un train double, ne doit pas dépasser : 
+II.-Le poids total roulant autorisé d'un véhicule articulé, d'un train double ou d'un ensemble composé d'un véhicule à moteur
+et d'une remorque ne doit pas dépasser : 
 
 1° 38 tonnes, si l'ensemble considéré ne comporte pas plus de quatre essieux ; 
 
-2° 44 tonnes, si l'ensemble considéré comporte plus de quatre essieux.
+2° 44 tonnes, si l'ensemble considéré comporte plus de quatre essieux. 
 
-III. - Lorsque les exigences de sécurité routière ou de préservation du bon état de la voirie le justifient, un arrêté du
+III.-Lorsque les exigences de sécurité routière ou de préservation du bon état de la voirie le justifient, un arrêté du
 représentant de l'Etat dans le département ou un arrêté conjoint des représentants de l'Etat dans les départements intéressés
 fixe la liste des itinéraires autorisés à la circulation des véhicules mentionnés au 2° du II du présent article et circulant
 à plus de 40 tonnes, après avis des autorités gestionnaires des voies empruntées. Cet arrêté précise, le cas échéant, les
@@ -17857,18 +17870,18 @@ kilogrammes.
 VI.-Le ministre chargé des transports détermine par arrêté les modalités d'application du présent article et fixe le poids
 total autorisé en charge des engins de service hivernal. 
 
-VII. - Toute infraction aux dispositions du I au IV ou à celles prises pour leur application est punie de l'amende prévue
-pour les contraventions de la quatrième classe pour le dépassement jusqu'à une tonne du poids autorisé et, pour un
-dépassement supérieur, de la même amende prononcée autant de fois qu'il y a de tranches de dépassement d'une tonne du poids
-total autorisé. 
+VII.-Toute infraction aux dispositions du I au IV ou à celles prises pour leur application est punie de l'amende prévue pour
+les contraventions de la quatrième classe pour le dépassement jusqu'à une tonne du poids autorisé et, pour un dépassement
+supérieur, de la même amende prononcée autant de fois qu'il y a de tranches de dépassement d'une tonne du poids total
+autorisé. 
 
-VIII. - Toute infraction aux dispositions du V ou à celles prises pour leur application est punie de l'amende prévue pour les
+VIII.-Toute infraction aux dispositions du V ou à celles prises pour leur application est punie de l'amende prévue pour les
 contraventions de la quatrième classe. 
 
-IX. - Toutefois, lorsque les dépassements excèdent de plus de 20 % les limites réglementaires prévues au V, l'amende encourue
+IX.-Toutefois, lorsque les dépassements excèdent de plus de 20 % les limites réglementaires prévues au V, l'amende encourue
 est celle prévue pour les contraventions de la cinquième classe. 
 
-X. - En cas de dépassement excédant 5 % des poids autorisés au présent article, l'immobilisation peut être prescrite dans les
+X.-En cas de dépassement excédant 5 % des poids autorisés au présent article, l'immobilisation peut être prescrite dans les
 conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Nota:**
@@ -17912,12 +17925,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1359 du 4 décembre 2012 - art. 1
-
-_Cite_:
-
-  - Code pénal - art. 132-11
-  - Code de la route. - art. L325-1
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
 
 _Anciens textes_:
 
@@ -17930,12 +17938,16 @@ _Anciens textes_:
   - Code de la route - art. R55 (Ab)
   - Code de la route R55, R139, R142, R188 (al. 2 et 3), R231-1 III, R238 (al. 4), R278 3°
 
+_Cite_:
+
+  - Code de la route. - art. L325-1 (V)
+
 
 ###### Article R312-5
 
 L'essieu le plus chargé d'un véhicule ou d'un élément de véhicule ne doit pas supporter une charge supérieure à 13 tonnes,
-cette limite étant fixée à 12 tonnes pour les véhicules articulés d'un ensemble composé d'un véhicule à moteur et d'une
-remorque d'un train double circulant entre 40 et 44 tonnes. 
+cette limite étant fixée à 12 tonnes pour un véhicule articulé, un train double ou un ensemble composé d'un véhicule à moteur
+et d'une remorque, circulant entre 40 et 44 tonnes.
 
 Le ministre chargé des transports détermine par arrêté les conditions dérogatoires applicables à certains matériels de
 travaux publics. 
@@ -17964,7 +17976,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1359 du 4 décembre 2012 - art. 2
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
 
 _Anciens textes_:
 
@@ -18012,9 +18024,9 @@ b) 16 tonnes ;
 
 4° Pour une distance entre les deux essieux supérieure ou égale à 1,35 mètre et inférieure à 1,80 mètre : 19 tonnes. 
 
-II bis. - Lorsque les véhicules articulés d'un ensemble composé d'un véhicule à moteur et d'une remorque d'un train double
+II bis. - Lorsqu'un véhicule articulé, un train double ou un ensemble composé d'un véhicule à moteur et d'une remorque
 circulent entre 40 et 44 tonnes et comportent un groupe de trois essieux, la charge totale supportée par ce groupe ne doit
-pas dépasser 27 tonnes.  
+pas dépasser 27 tonnes.
 
 III.-Le ministre chargé des transports détermine par arrêté les conditions dérogatoires applicables à certains matériels de
 travaux publics. 
@@ -18043,7 +18055,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1359 du 4 décembre 2012 - art. 3
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
 
 _Anciens textes_:
 
@@ -21311,7 +21323,15 @@ _Anciens textes_:
 
 ###### Article R317-3
 
-L'appareil de contrôle doit être constamment maintenu en bon état de fonctionnement.
+L'appareil de contrôle, dénommé chronotachygraphe, doit être constamment maintenu en bon état de fonctionnement. 
+
+Le chronotachygraphe est astreint à un contrôle en service renouvelé tous les deux ans, sur l'initiative et aux frais du
+détenteur de l'appareil, par l'un des centres de contrôle agréés à cet effet par les préfets des départements où ces centres
+sont situés. 
+
+Les véhicules mentionnés à l'article R. 317-2 doivent être munis d'une plaquette d'installation périodique certifiant la
+conformité de l'appareil de contrôle aux prescriptions réglementaires et mentionnant la date limite avant laquelle le
+contrôle en service suivant devra être effectué. 
 
 Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
 quatrième classe.
@@ -21320,56 +21340,60 @@ quatrième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
 
 _Anciens textes_:
 
   - Code de la route - art. R238-1 (Ab)
   - Code de la route - art. R78 (Ab)
-  - Code de la route R78 (al. 6), R238-1
 
 _Cité par_:
 
   - Code de la route. - art. R130-6 (V)
   - Code de la route. - art. R344-1-1 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R317-7 (V)
+  - Code de la route. - art. R317-2 (V)
 
 
 ###### Article R317-4
 
 L'immobilisation des véhicules devant être équipés d'un appareil de contrôle permettant l'enregistrement de la vitesse peut
-être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3 :
+être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3 : 
 
 1° Lorsque le conducteur est en infraction aux règles relatives aux conditions de travail dans les transports routiers,
-publics ou privés ;
+publics ou privés ; 
 
 2° Lorsque le conducteur ne peut présenter les documents dûment renseignés concernant les conditions de travail dans les
-transports publics et privés ;
+transports publics et privés ; 
 
 3° En l'absence d'appareil de contrôle permettant l'enregistrement de la vitesse ou lorsque celui-ci a fait l'objet d'une
-modification ou d'une détérioration affectant son fonctionnement normal.
+modification ou d'une détérioration affectant son fonctionnement normal ; 
+
+4° Lorsque le chronotachygraphe n'a pas fait l'objet du contrôle en service.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2003-536 du 20 juin 2003 - art. 8 () JORF 22 juin 2003
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
 
 _Anciens textes_:
 
   - Code de la route - art. R278 (Ab)
-  - Code de la route R278 10° et 16°
 
 _Cite_:
 
-  - Code de la route L325-1 à L325-3
+  - Code de la route. - art. L325-1 (V)
 
 _Cité par_:
 
@@ -22088,8 +22112,7 @@ sont déjà prescrites par le présent chapitre, les différentes catégories de
 Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application relatives à la solidité
 des véhicules, à leur poids, à leur mode de chargement, au nombre et à la sûreté des voyageurs, à l'indication, à l'intérieur
 des voitures, des places qu'elles contiennent et du prix des places, à l'indication, à l'extérieur, du nom du propriétaire
-est puni de l'amende prévue pour les contraventions de la deuxième classe et, s'il s'agit de transport en commun de
-personnes, de l'amende prévue pour les contraventions de la quatrième classe.
+est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 L'immobilisation du véhicule de transport en commun de personnes peut être prescrite dans les conditions prévues aux articles
 L. 325-1 à L. 325-3.
@@ -22111,7 +22134,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-368 du 4 avril 2011 - art. 8
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
 
 _Anciens textes_:
 
@@ -22121,6 +22144,35 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L325-1
+
+
+###### Article R317-24-1
+
+A partir d'une date définie par arrêté du ministre chargé des transports, tout transport effectué par un autocar est réalisé
+au moyen d'un véhicule équipé de ceintures de sécurité. 
+
+Cette disposition n'est pas applicable aux véhicules dont le certificat d'immatriculation porte la mention d'usage " véhicule
+de collection ". 
+
+Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
+
+L'immobilisation du véhicule de transport en commun de personnes peut être prescrite dans les conditions prévues aux articles
+L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
+
+_Cité par_:
+
+  - Décret n°2016-697 du 27 mai 2016 - art. 2 (V)
+
+_Cite_:
+
+  - Code de la route. - art. L325-1 (V)
 
 
 ###### Article R317-25
@@ -30490,11 +30542,12 @@ catégories de véhicules, prise par l'autorité investie du pouvoir de police e
 pour prévenir un danger pour les usagers de la voie, est puni de l'amende prévue pour les contraventions de la quatrième
 classe. 
 
-Lorsque, en outre, cette interdiction concerne une route comportant une descente dangereuse, l'infraction est punie de
-l'amende prévue pour les contraventions de la cinquième classe. Tout conducteur coupable de cette infraction encourt
-également la peine complémentaire de suspension du permis de conduire pour une durée de trois ans au plus, cette suspension
-ne pouvant ni être limitée à la conduite en dehors de l'activité professionnelle, ni être assortie du sursis, même
-partiellement.
+Lorsque, en outre, cette interdiction concerne une route ou une portion de route ne permettant pas d'éviter une descente
+dangereuse ou un tunnel, l'infraction est punie de l'amende prévue pour les contraventions de la cinquième classe. Tout
+conducteur coupable de cette infraction encourt également la peine complémentaire de suspension du permis de conduire pour
+une durée de trois ans au plus, cette suspension ne pouvant ni être limitée à la conduite en dehors de l'activité
+professionnelle ni être assortie du sursis, même partiellement. Cette contravention donne lieu de plein droit à la réduction
+de trois points du permis de conduire. 
 
 L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
@@ -30510,7 +30563,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-368 du 4 avril 2011 - art. 13
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
 
 _Cite_:
 
@@ -30737,16 +30790,19 @@ _Cité par_:
 
 Pour prévenir un danger pour les usagers de la voie ou en raison de l'établissement d'un chantier, l'autorité investie du
 pouvoir de police peut ordonner la fermeture temporaire d'une route ou l'interdiction temporaire de circulation sur tout ou
-partie de la chaussée, matérialisée par une signalisation routière adaptée. 
+partie de la chaussée, matérialisée par une signalisation routière adaptée.
 
-Le fait pour tout conducteur de ne pas respecter les interdictions de circuler prescrites  en application du premier alinéa
-du présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+Le fait pour tout conducteur de ne pas respecter les interdictions de circuler prescrites en application du premier alinéa du
+présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
-Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de trois
+Lorsque, en outre, cette interdiction concerne une route ou une section de route ne permettant pas d'éviter une descente
+dangereuse ou un tunnel, l'infraction est punie de l'amende prévue pour les contraventions de la cinquième classe.
+
+Toute personne coupable de ces infractions encourt également la peine complémentaire de suspension, pour une durée de trois
 ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
 professionnelle.
 
-Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+Ces contraventions donnent lieu de plein droit à la réduction de trois points du permis de conduire.
 
 **Liens relatifs à cet article**
 
@@ -30756,7 +30812,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-3 du 3 janvier 2012 - art. 17
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
 
 
 ###### Article R411-22
@@ -30829,6 +30885,75 @@ _Cité par_:
 
   - SPEC_APPLI: Code de la route. - art. R432-1 (V)
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+
+###### Article R411-23-1
+
+I.-Sans préjudice des dispositions de l'article R. 411-23-2, les autobus et autocars qui assurent un service public de
+transport peuvent circuler avec des passagers debout : 
+
+1° A l'intérieur des agglomérations ; 
+
+2° Dans les limites des périmètres de transports urbains, tels que définis aux articles L. 1231-3 et suivants du code des
+transports, et en Ile-de-France, de la zone de compétence de l'autorité organisatrice des transports de voyageurs. 
+
+En dehors des agglomérations, l'autorité organisatrice de transports compétente définit les itinéraires empruntés sans
+préjudice du pouvoir de l'autorité de police compétente. Les conditions relatives au prolongement de ces itinéraires au-delà
+des agglomérations ou des périmètres de transports urbains sont fixées par arrêté du ministre chargé des transports. 
+
+En cas d'urgence le justifiant, le préfet peut autoriser de façon limitée tout service en ayant recours à tout véhicule
+destiné au transport de personnes. 
+
+II.-Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
+
+III.-L'immobilisation du véhicule de transport en commun de personnes peut être prescrite dans les conditions prévues aux
+articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
+
+_Cite_:
+
+  - Code de la route. - art. L325-1 (V)
+  - Code des transports - art. L1231-3 (V)
+
+_Cité par_:
+
+  - Code de la route. - art. R411-23-2 (V)
+
+
+###### Article R411-23-2
+
+Dans les véhicules de transport en commun d'enfants, les enfants sont transportés assis. 
+
+Dans une situation imprévue, de façon limitée et à titre exceptionnel, les enfants peuvent, sur décision de l'autorité
+organisatrice de transports concernée, être transportés debout aux conditions définies à l'article R. 411-23-1 dans les
+véhicules affectés à des services de transports scolaires, sans préjudice du pouvoir de l'autorité de police compétente. 
+
+Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
+
+L'immobilisation du véhicule de transport en commun de personnes peut être prescrite dans les conditions prévues aux articles
+L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-784 du 8 juillet 2014 - art. 7
+
+_Cité par_:
+
+  - Arrêté du 17 février 2015 (V)
+  - Code de la route. - art. R411-23-1 (V)
+
+_Cite_:
+
+  - Code de la route. - art. L325-1 (V)
 
 
 ###### Article R411-24
