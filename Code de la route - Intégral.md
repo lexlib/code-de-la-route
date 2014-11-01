@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2014-07-11
+Version Consolidée au 2014-11-02
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -10643,8 +10643,7 @@ _Cite_:
 
 ###### Article R211-2
 
-I. - Tout conducteur de cyclomoteur doit être âgé d'au moins quatorze ans. Tout conducteur de quadricycle léger à moteur doit
-être âgé d'au moins seize ans. 
+I. - Tout conducteur de cyclomoteur ou de quadricycle léger à moteur doit être âgé d'au moins quatorze ans.  
 
 II.-Tout conducteur de cyclomoteur ou de quadricycle léger à moteur, né après le 31 décembre 1987 doit être titulaire soit du
 permis de conduire, soit du brevet de sécurité routière ou d'un titre reconnu équivalent délivré par un Etat membre de
@@ -10690,8 +10689,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1475 du 9 novembre 2011 - art. 3
-  - Décret n°2012-688 du 7 mai 2012 - art. 2
+  - Décret n°2014-1295 du 31 octobre 2014 - art. 2
 
 _Anciens textes_:
 
@@ -10712,7 +10710,8 @@ _Cite_:
 Pour apprendre à conduire un véhicule à moteur sur une voie ouverte à la circulation publique, en vue de l'obtention du
 permis de conduire, il faut : 
 
-1° Etre âgé de seize ans minimum ; 
+1° Etre âgé de seize ans minimum, ou de quinze ans dans le cadre de l'apprentissage dit anticipé de la conduite mentionné à
+l'article R. 211-5 ; 
 
 2° Etre détenteur d'un livret d'apprentissage établi dans les conditions fixées par arrêté du ministre chargé de la sécurité
 routière, et précisant les objectifs et la progressivité de la formation ; 
@@ -10751,7 +10750,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-688 du 7 mai 2012 - art. 2
+  - Décret n°2014-1295 du 31 octobre 2014 - art. 3
 
 _Anciens textes_:
 
@@ -10762,7 +10761,7 @@ _Cite_:
 
   - Code de la route. - art. L211-1
   - Code de la route. - art. R211-5
-  - Code de la route. - art. R211-5-1 (V)
+  - Code de la route. - art. R211-5-1
   - Code de la route. - art. R212-1
   - Code de la route. - art. R317-25
 
@@ -11127,54 +11126,42 @@ _Cite_:
 
 ###### Article R212-3
 
-Les titres ou diplômes prévus au I, 1°, de l'article R. 212-2 sont : 
+Les titres ou diplômes prévus au 1° du I de l'article R. 212-2 sont : 
 
-I.-Le brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER). 
+I.-Le brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER).
+Ce diplôme porte, le cas échéant, la mention " deux-roues " et la mention " groupe lourd ", correspondant respectivement aux
+catégories AM, A1, A2 et A et aux catégories C1, C, D1, D, C1E, CE, D1E et DE du permis de conduire. 
 
 Ce diplôme est délivré par le préfet qui a organisé les épreuves aux personnes ayant subi avec succès lesdites épreuves
-organisées dans des conditions fixées par un arrêté du ministre chargé de la sécurité routière. Cet arrêté détermine en outre
-les conditions de dépôt, d'instruction des dossiers de candidature, le programme de formation, les épreuves et leur
-organisation. 
+organisées dans des conditions fixées par un arrêté du ministre chargé de la sécurité routière. 
 
-Ce diplôme porte, le cas échéant, la ou les mentions suivantes :
+II.-L'un des titres ou diplômes énumérés ci-après : 
 
-- enseignement de la conduite des véhicules de la catégorie E (B) ;
+1° Pour l'enseignement de la conduite des véhicules terrestres à moteur relevant de la catégorie B, B1 et BE du permis de
+conduire : 
 
-- enseignement de la conduite des véhicules de la catégorie A ;
+a) Le certificat d'aptitude professionnelle à l'enseignement de la conduite des véhicules terrestres à moteur (CAPEC) ; 
 
-- enseignement de la conduite des véhicules des catégories C, E (C), D, E (D). 
+b) La carte professionnelle et le certificat d'aptitude professionnelle et pédagogique (CAPP) ; 
 
-II.-L'un des titres ou diplômes énumérés ci-après reconnus équivalents de plein droit au brevet pour l'exercice de la
-profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER), pour enseigner la conduite des
-véhicules terrestres à moteur de la catégorie B : 
-
-1° Le certificat d'aptitude professionnelle à l'enseignement de la conduite des véhicules terrestres à moteur (CAPEC) ; 
-
-2° La carte professionnelle et le certificat d'aptitude professionnelle et pédagogique (CAPP) ; 
-
-3° Le brevet de spécialiste de l'armée de terre (BSAT), mention instruction élémentaire de conduite, ou les diplômes
-militaires reconnus équivalents à celui-ci par arrêté conjoint du ministre chargé de la sécurité routière et du ministre de
+c) Les titres ou diplômes militaires définis par arrêté conjoint du ministre chargé de la sécurité routière et du ministre de
 la défense ; 
 
-4° Les diplômes d'enseignement de la conduite délivrés dans les territoires d'outre-mer et dans les collectivités
-territoriales de Mayotte et de Saint-Pierre-et-Miquelon. 
+d) Les diplômes d'enseignement de la conduite délivrés par les collectivités d'outre-mer et la Nouvelle-Calédonie ; 
 
-L'équivalence avec le brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité
-routière (BEPECASER), portant la ou les mentions catégorie E (B), catégorie A et catégories C, E (C), D, E (D), est admise de
-plein droit pour les personnes ayant subi avec succès la ou les épreuves correspondantes du certificat d'aptitude
-professionnelle à l'enseignement de la conduite des véhicules terrestres à moteur (CAPEC). Pour les titulaires d'un titre ou
-diplôme mentionné aux 2°, 3° et 4° ci-dessus, elle n'est admise qu'à la condition qu'ils aient été en possession, le 1er
-janvier 1982, des catégories de permis de conduire correspondantes. 
+2° Pour l'enseignement de la conduite des véhicules correspondant aux mentions précisées au I : 
 
-III.-Un titre acquis dans un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur
-l'Espace économique européen et reconnu par le préfet comme équivalent au BEPECASER dans les conditions définies à l'article
-R. 212-3-1. 
+a) Le certificat d'aptitude professionnelle à l'enseignement de la conduite des véhicules terrestres à moteur (CAPEC), pour
+les personnes ayant subi avec succès la ou les épreuves correspondantes auxdites mentions ; 
 
-IV.-Un diplôme d'enseignement de la conduite délivré par un Etat qui n'est ni membre de la Communauté européenne ni partie à
-l'accord sur l'Espace économique européen, reconnu équivalent au brevet pour l'exercice de la profession d'enseignant de la
-conduite automobile et de la sécurité routière (BEPECASER), par décision du ministre chargé de la sécurité routière prise sur
-avis d'une commission interministérielle créée à cet effet par arrêté conjoint du ministre chargé de la sécurité routière et
-du ministre chargé des Affaires étrangères.
+b) Les titres ou diplômes mentionnés aux b, c et d du 1° du II à la condition que les titulaires aient été en possession, le
+1er janvier 1982, des catégories de permis de conduire correspondantes. 
+
+III.-Une qualification professionnelle satisfaisant aux conditions prévues à l'article R. 212-3-1. 
+
+IV.-Un diplôme d'enseignement de la conduite délivré par un Etat qui n'est ni membre de l'Union européenne ni partie à
+l'accord sur l'Espace économique européen et reconnu pour l'exercice de la profession d'enseignant de la conduite automobile
+et de la sécurité routière par décision du ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
@@ -11209,7 +11196,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-688 du 7 mai 2012 - art. 2
+  - Décret n°2014-1295 du 31 octobre 2014 - art. 4
 
 _Anciens textes_:
 
@@ -11336,21 +11323,47 @@ I.-Délits d'atteinte à la personne humaine prévus par le code pénal :
 
 - atteinte involontaire à la vie (art. 221-6-1) ;
 
-- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13,222-14 [3° et 4°],222-19-1 et
+- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13,222-14 [3° et 4°], 222-19-1 et
 222-20-1,222-2 à 222-33) ;
 
 - mise en danger de la vie d'autrui (art. 223-1) ;
 
-- trafic de stupéfiants (art. 222-36 [1er alinéa],222-37 à 222-40) ;
+- trafic de stupéfiants (art. 222-36 [1er alinéa], 222-37 à 222-40) ;
 
 - entrave aux mesures d'assistance et omission de porter secours (art. 223-5 à 223-7) ;
 
 - proxénétisme (art. 225-5 à 225-7, art. 225-10 et 225-11) ;
 
+- provocation de mineur à l'usage illicite de stupéfiants (art. 227-18) ;
+
+- provocation de mineur au trafic de stupéfiants (art. 227-18-1) ;
+
+- provocation de mineur à la consommation habituelle et excessive de boissons alcooliques (art. 227-19) ;
+
+- provocation de mineur à la commission d'un crime ou d'un délit (art. 227-21) ;
+
+- corruption de mineur (art. 227-22) ;
+
+- propositions sexuelles à un mineur de quinze ans en utilisant un moyen de communication électronique (art. 227-22-1) ;
+
+- fixation, enregistrement ou transmission d'images de mineur à caractère pornographique, offre, diffusion, importation,
+exportation, acquisition ou détention de ces images, consultation d'un service de communication au public en ligne mettant à
+disposition ces images (art. 227-23) ;
+
+- fabrication, transport, diffusion ou commerce d'un message violent, pornographique ou incitant à se livrer à des jeux
+dangereux susceptible d'être vu ou perçu par un mineur (art. 227-24) ;
+
+- incitation à la soumission ou à la commission d'une mutilation sexuelle d'un mineur (art. 227-24-1) ;
+
 - atteinte sexuelle sur mineur de quinze ans (art. 227-25 et 227-26) ;
 
-- atteinte sexuelle sur mineur de plus de quinze ans sans violence, contrainte, menace ni surprise par une personne majeure
-abusant de l'autorité que lui confèrent ses fonctions (art. 227-27). 
+- atteinte sexuelle sur mineur de plus de quinze ans par ascendant ou personne ayant autorité (art. 227-27) ;
+
+- atteinte sexuelle sur mineur de plus de quinze ans par personne abusant de l'autorité que lui confèrent ses fonctions (art.
+227-27) ;
+
+- provocation à la commission à l'encontre d'un mineur de l'un des crimes ou délits visés aux articles 222-22 à 222-31,225-5
+à 225-11,227-22,227-23 et 227-25 à 227-28 (art. 227-28-3). 
 
 II.-Délits d'atteinte aux biens prévus par le code pénal :
 
@@ -11385,19 +11398,19 @@ de conduire ou refus de restituer celui-ci ou destruction ou détournement d'un 
 
 - établissement d'attestation ou de certificat inexact, après avoir sollicité des offres, dons ou avantages (art. 441-8). 
 
-IV.-Délit prévu par la loi du 23 décembre 1901 modifiée réprimant les fraudes dans les examens et concours publics.
+IV.-Délit prévu par la loi du 23 décembre 1901 modifiée réprimant les fraudes dans les examens et concours publics. 
 
 V.-Délits prévus par le code du travail :
 
-- atteinte à l'égalité professionnelle entre les hommes et les femmes (art.L. 1142-1 et L. 1146-1) ;
+- atteinte à l'égalité professionnelle entre les hommes et les femmes (art. L. 1142-1 et L. 1146-1) ;
 
-- fourniture illégale de main d'oeuvre (art.L. 8231-1 et L. 8234-1) ;
+- fourniture illégale de main d'oeuvre (art. L. 8231-1 et L. 8234-1) ;
 
-- prêt de main d'oeuvre (art.L. 8241-1 et L. 8243-1) ;
+- prêt de main d'oeuvre (art. L. 8241-1 et L. 8243-1) ;
 
-- travail dissimulé (art.L. 8221-1, L. 8221-3 à L. 8221-5, L. 8224-1) ;
+- travail dissimulé (art. L. 8221-1, L. 8221-3 à L. 8221-5, L. 8224-1) ;
 
-- emploi d'étranger en situation irrégulière (art.L. 8251-1, L. 8256-1, L. 8256-2). 
+- emploi d'étranger en situation irrégulière (art. L. 8251-1, L. 8256-1, L. 8256-2). 
 
 VI.-Délits prévus par le code de la route :
 
@@ -11406,51 +11419,57 @@ refus de se soumettre aux vérifications concernant son véhicule ou sa personne
 état alcoolique ou en état d'ivresse, refus de se soumettre aux vérifications destinées à établir la preuve de l'état
 alcoolique, conduite ou accompagnement sous l'influence de substances ou plantes classées comme stupéfiants, refus de se
 soumettre aux vérifications destinées à établir la preuve de la conduite sous l'influence de substances ou plantes classées
-comme stupéfiants (art.L. 231-1, L. 233-1, L. 233-1-1, L. 233-2, L. 234-1, L. 234-8, L. 235-1 et L. 235-3) ;
+comme stupéfiants (art. L. 231-1, L. 233-1, L. 233-1-1, L. 233-2, L. 234-1, L. 234-8, L. 235-1 et L. 235-3) ;
 
-- entrave volontaire à la circulation (art.L. 412-1) ;
+- entrave volontaire à la circulation (art. L. 412-1) ;
 
 - usage d'une fausse plaque d'immatriculation, circulation sans plaque d'immatriculation, mise en circulation d'un véhicule
 muni de plaques inexactes, usurpation de plaques, modification du dispositif de limitation de vitesse par construction des
 véhicules de transports routiers, absence à bord du véhicule du transport routier de certains documents, destruction ou
-détournement d'un véhicule confisqué (art.L. 234-12 (III), L. 317-1 à L. 317-4, L. 317-4-1 et L. 3242-1 du code des
+détournement d'un véhicule confisqué (art. L. 234-12 (III), L. 317-1 à L. 317-4, L. 317-4-1 et L. 3242-1 du code des
 transports ;
 
 - conduite d'un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule considéré,
-conduite d'un véhicule malgré la rétention, l'invalidation, la suspension ou l'annulation du permis de conduire (art.L.
+conduite d'un véhicule malgré la rétention, l'invalidation, la suspension ou l'annulation du permis de conduire (art. L.
 221-2, L. 223-5 et L. 224-16) ;
 
 - enseignement de la conduite des véhicules terrestres à moteur sans autorisation ou en violation d'une mesure de suspension
-(art.L. 212-4) ;
+(art. L. 212-4) ;
+
+- exploitation d'un établissement d'enseignement de la conduite des véhicules terrestres à moteur et de la sécurité routière
+ou de formation des candidats pour l'exercice de la profession d'enseignant sans l'agrément ou en violation d'une mesure
+provisoire de suspension (art. L. 213-6) ;
+
+- emploi d'un enseignant non titulaire de l'autorisation d'enseigner (art. L. 213-6) ;
 
 - usage du nom d'une personne pour enregistrement, au nom de cette personne, d'une condamnation judiciaire ou d'une décision
-administrative (art.L. 225-7 et L. 330-6) ;
+administrative (art. L. 225-7 et L. 330-6) ;
 
-- usage d'un faux nom ou d'une fausse qualité pour obtenir des renseignements sur un conducteur (art.L. 225-8 et L. 330-7).
+- usage d'un faux nom ou d'une fausse qualité pour obtenir des renseignements sur un conducteur (art. L. 225-8 et L. 330-7).
 
 - délits liés à l'offre ou à la commercialisation de dispositifs ayant pour objet d'augmenter la puissance du moteur d'un
-cyclomoteur, d'une motocyclette ou d'un quadricycle à moteur (art.L. 317-5 à L. 317-7) ;
+cyclomoteur, d'une motocyclette ou d'un quadricycle à moteur (art. L. 317-5 à L. 317-7) ;
 
 - délits liés à l'offre ou à la commercialisation par un professionnel d'un cyclomoteur, d'une motocyclette, d'un tricycle ou
-d'un quadricycle à moteur soumis à réception et non réceptionné ou qui n'est plus conforme à celle-ci (art.L. 321-1 et L.
+d'un quadricycle à moteur soumis à réception et non réceptionné ou qui n'est plus conforme à celle-ci (art. L. 321-1 et L.
 321-2) ;
 
-- défaut d'assurance (art.L. 324-2) ;
+- défaut d'assurance (art. L. 324-2) ;
 
-- obstacle à une mesure d'immobilisation ou à un ordre d'envoi en fourrière (art.L. 325-3-1) ;
+- obstacle à une mesure d'immobilisation ou à un ordre d'envoi en fourrière (art. L. 325-3-1) ;
 
-- organisation de courses de véhicules à moteur sans autorisation (art.L. 411-7) ;
+- organisation de courses de véhicules à moteur sans autorisation (art. L. 411-7) ;
 
-- récidive de non-respect des distances de sécurité entre deux véhicules dans un tunnel (art.L. 412-2) ;
+- récidive de non-respect des distances de sécurité entre deux véhicules dans un tunnel (art. L. 412-2) ;
 
-- grand excès de vitesse en récidive (art.L. 413-1) ;
+- grand excès de vitesse en récidive (art. L. 413-1) ;
 
 - délits liés à l'offre ou à la commercialisation de dispositifs destinés à déceler la présence ou à perturber le
-fonctionnement des systèmes de constatation des infractions à la circulation routière (art.L. 413-2 à L. 413-5). 
+fonctionnement des systèmes de constatation des infractions à la circulation routière (art. L. 413-2 à L. 413-5). 
 
 VII.-Délit prévu par le code de la santé publique :
 
-- usage de manière illicite de l'une des substances ou plantes classées comme stupéfiants (art.L. 3421-1).
+- usage de manière illicite de l'une des substances ou plantes classées comme stupéfiants (art. L. 3421-1).
 
 **Liens relatifs à cet article**
 
@@ -11492,90 +11511,91 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+  - Décret n°2014-1295 du 31 octobre 2014 - art. 5
 
 _Cite_:
 
-  - Code pénal - art. 221-6-1 (V)
-  - Code pénal - art. 222-14 (V)
-  - Code pénal - art. 222-19-1 (V)
-  - Code pénal - art. 222-2 (V)
-  - Code pénal - art. 222-20-1 (V)
-  - Code pénal - art. 222-36 (V)
-  - Code pénal - art. 222-37 (V)
-  - Code pénal - art. 222-9 (V)
-  - Code pénal - art. 223-1 (V)
-  - Code pénal - art. 223-5 (V)
-  - Code pénal - art. 225-10 (V)
-  - Code pénal - art. 225-11 (V)
-  - Code pénal - art. 225-5 (V)
-  - Code pénal - art. 227-25 (V)
-  - Code pénal - art. 227-26 (V)
-  - Code pénal - art. 227-27 (V)
-  - Code pénal - art. 311-13 (V)
-  - Code pénal - art. 311-3 (V)
-  - Code pénal - art. 312-1 (V)
-  - Code pénal - art. 312-2 (V)
-  - Code pénal - art. 312-9 (V)
-  - Code pénal - art. 313-1 (V)
-  - Code pénal - art. 314-1 (V)
-  - Code pénal - art. 314-5 (V)
-  - Code pénal - art. 314-6 (V)
-  - Code pénal - art. 314-7 (V)
-  - Code pénal - art. 321-1 (V)
-  - Code pénal - art. 321-2 (V)
-  - Code pénal - art. 322-1 (V)
-  - Code pénal - art. 433-1 (V)
-  - Code pénal - art. 433-13 (V)
-  - Code pénal - art. 433-2 (V)
-  - Code pénal - art. 433-5 (V)
-  - Code pénal - art. 433-7 (V)
-  - Code pénal - art. 434-41 (V)
-  - Code pénal - art. 441-1 (V)
-  - Code pénal - art. 441-8 (V)
-  - Code du travail - art. L1142-1 (V)
-  - Code du travail - art. L1146-1 (V)
-  - Code du travail - art. L8221-1 (V)
-  - Code du travail - art. L8221-3 (V)
-  - Code du travail - art. L8224-1 (V)
-  - Code du travail - art. L8231-1 (V)
-  - Code du travail - art. L8234-1 (V)
-  - Code du travail - art. L8241-1 (V)
-  - Code du travail - art. L8243-1 (V)
-  - Code du travail - art. L8251-1 (V)
-  - Code du travail - art. L8256-1 (V)
-  - Code du travail - art. L8256-2 (V)
-  - Code de la santé publique - art. L3421-1 (V)
-  - Code de la route. - art. L212-4 (V)
-  - Code de la route. - art. L221-2 (V)
-  - Code de la route. - art. L223-5 (V)
-  - Code de la route. - art. L224-16 (V)
-  - Code de la route. - art. L225-7 (V)
-  - Code de la route. - art. L225-8 (V)
-  - Code de la route. - art. L231-1 (V)
-  - Code de la route. - art. L233-1 (V)
-  - Code de la route. - art. L233-1-1 (V)
-  - Code de la route. - art. L233-2 (V)
-  - Code de la route. - art. L234-1 (V)
-  - Code de la route. - art. L234-12 (V)
-  - Code de la route. - art. L234-8 (V)
-  - Code de la route. - art. L235-1 (V)
-  - Code de la route. - art. L235-3 (V)
-  - Code de la route. - art. L317-1 (V)
-  - Code de la route. - art. L317-4-1 (V)
-  - Code de la route. - art. L317-5 (V)
-  - Code de la route. - art. L321-1 (V)
-  - Code de la route. - art. L321-2 (V)
-  - Code de la route. - art. L324-2 (V)
-  - Code de la route. - art. L325-3-1 (V)
-  - Code de la route. - art. L325-4 (Ab)
-  - Code de la route. - art. L330-6 (V)
-  - Code de la route. - art. L330-7 (V)
-  - Code de la route. - art. L411-7 (V)
-  - Code de la route. - art. L412-1 (V)
-  - Code de la route. - art. L412-2 (V)
-  - Code de la route. - art. L413-1 (V)
-  - Code de la route. - art. L413-2 (V)
+  - Code pénal - art. 221-6-1
+  - Code pénal - art. 222-14
+  - Code pénal - art. 222-19-1
+  - Code pénal - art. 222-2
+  - Code pénal - art. 222-20-1
+  - Code pénal - art. 222-36
+  - Code pénal - art. 222-37
+  - Code pénal - art. 222-9
+  - Code pénal - art. 223-1
+  - Code pénal - art. 223-5
+  - Code pénal - art. 225-10
+  - Code pénal - art. 225-11
+  - Code pénal - art. 225-5
+  - Code pénal - art. 227-25
+  - Code pénal - art. 227-26
+  - Code pénal - art. 227-27
+  - Code pénal - art. 311-13
+  - Code pénal - art. 311-3
+  - Code pénal - art. 312-1
+  - Code pénal - art. 312-2
+  - Code pénal - art. 312-9
+  - Code pénal - art. 313-1
+  - Code pénal - art. 314-1
+  - Code pénal - art. 314-5
+  - Code pénal - art. 314-6
+  - Code pénal - art. 314-7
+  - Code pénal - art. 321-1
+  - Code pénal - art. 321-2
+  - Code pénal - art. 322-1
+  - Code pénal - art. 433-1
+  - Code pénal - art. 433-13
+  - Code pénal - art. 433-2
+  - Code pénal - art. 433-5
+  - Code pénal - art. 433-7
+  - Code pénal - art. 434-41
+  - Code pénal - art. 441-1
+  - Code pénal - art. 441-8
+  - Code du travail - art. L1142-1
+  - Code du travail - art. L1146-1
+  - Code du travail - art. L8221-1
+  - Code du travail - art. L8221-3
+  - Code du travail - art. L8224-1
+  - Code du travail - art. L8231-1
+  - Code du travail - art. L8234-1
+  - Code du travail - art. L8241-1
+  - Code du travail - art. L8243-1
+  - Code du travail - art. L8251-1
+  - Code du travail - art. L8256-1
+  - Code du travail - art. L8256-2
+  - Code de la santé publique - art. L3421-1
+  - Code de la route. - art. L212-4
+  - Code de la route. - art. L213-6
+  - Code de la route. - art. L221-2
+  - Code de la route. - art. L223-5
+  - Code de la route. - art. L224-16
+  - Code de la route. - art. L225-7
+  - Code de la route. - art. L225-8
+  - Code de la route. - art. L231-1
+  - Code de la route. - art. L233-1
+  - Code de la route. - art. L233-1-1
+  - Code de la route. - art. L233-2
+  - Code de la route. - art. L234-1
+  - Code de la route. - art. L234-12
+  - Code de la route. - art. L234-8
+  - Code de la route. - art. L235-1
+  - Code de la route. - art. L235-3
+  - Code de la route. - art. L317-1
+  - Code de la route. - art. L317-4-1
+  - Code de la route. - art. L317-5
+  - Code de la route. - art. L321-1
+  - Code de la route. - art. L321-2
+  - Code de la route. - art. L324-2
+  - Code de la route. - art. L325-3-1
+  - Code de la route. - art. L325-4
+  - Code de la route. - art. L330-6
+  - Code de la route. - art. L330-7
+  - Code de la route. - art. L411-7
+  - Code de la route. - art. L412-1
+  - Code de la route. - art. L412-2
+  - Code de la route. - art. L413-1
+  - Code de la route. - art. L413-2
 
 _Anciens textes_:
 
@@ -11954,8 +11974,9 @@ lorsque cette évaluation est obligatoire ;
 
 5° Les moyens pédagogiques et techniques mis en oeuvre pour la formation et l'évaluation du candidat ; 
 
-6° Les démarches administratives et formalités nécessaires faites éventuellement par l'établissement en nom et place du
-candidat ; 
+6° Les conditions et la durée du mandat consenti à l'établissement pour effectuer les démarches administratives nécessaires,
+au nom et pour le compte du candidat, ainsi que pour recevoir communication par l'autorité administrative des informations le
+concernant ; 
 
 7° Les obligations des parties : engagement de l'établissement à dispenser la formation et à présenter le candidat aux
 épreuves en fournissant les moyens nécessaires, engagement du candidat à respecter les prescriptions pédagogiques et le
@@ -11989,12 +12010,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1590 du 18 décembre 2009 - art. 6
+  - Décret n°2014-1295 du 31 octobre 2014 - art. 6
 
 _Cite_:
 
-  - Code des assurances - art. L211-1 (V)
-  - Code de la route. - art. L213-2 (V)
+  - Code des assurances - art. L211-1
+  - Code de la route. - art. L213-2
 
 _Anciens textes_:
 
@@ -12004,23 +12025,21 @@ _Anciens textes_:
 
 ###### Article R213-4
 
-Les programmes de formation prévus à l'article L. 213-4 sont définis par arrêtés du   ministre chargé de la sécurité
-routière. Les délégués et inspecteurs du permis de conduire et de la sécurité routière ou les agents publics qualifiés et
-spécialement habilités par un arrêté du   ministre chargé de la sécurité routière procèdent au contrôle de l'application des
-programmes de formation et du respect des obligations mises à la charge du titulaire de l'agrément par le présent code. 
+Les programmes de formation prévus à l'article L. 213-4 sont définis par arrêtés du ministre chargé de la sécurité routière.
+Ils incluent notamment une sensibilisation aux comportements à adopter en cas d'accident, aux premiers secours à apporter aux
+victimes et aux risques encourus par les usagers vulnérables ainsi qu'à l'impact écologique et économique des déplacements.
+Les délégués et inspecteurs du permis de conduire et de la sécurité routière ou les agents publics qualifiés et spécialement
+habilités par un arrêté du ministre chargé de la sécurité routière procèdent au contrôle de l'application des programmes de
+formation et du respect des obligations mises à la charge du titulaire de l'agrément par le présent code. 
 
 Les agents des services de l'Etat chargés des procédures d'agrément de ces établissements peuvent également procéder à des
 contrôles administratifs. 
 
 Indépendamment de ces contrôles, des audits pédagogiques des établissements agréés pour l'organisation des stages de
-sensibilisation à la sécurité routière peuvent être opérés par tout expert autorisé par le   ministre chargé de la sécurité
+sensibilisation à la sécurité routière peuvent être opérés par tout expert autorisé par le ministre chargé de la sécurité
 routière.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Cité par_:
 
@@ -12029,6 +12048,10 @@ _Cité par_:
   - Arrêté du 13 mai 2013 - art. 2 (VD)
   - Arrêté du 12 avril 2016 - art. 19 (V)
   - Arrêté du 12 avril 2016 - art. 2 (V)
+
+_Modifié par_:
+
+  - Décret n°2014-1295 du 31 octobre 2014 - art. 7
 
 _Anciens textes_:
 
@@ -12624,8 +12647,7 @@ Tricycles à moteur d'une puissance maximale de 15 kilowatts.
 Catégorie A2 : 
 
 Motocyclettes avec ou sans side-car d'une puissance n'excédant pas 35 kilowatts et dont le rapport puissance/ poids n'excède
-pas 0,2 kilowatt par kilogramme. La puissance ne peut résulter du bridage d'un véhicule développant plus du double de sa
-puissance. 
+pas 0,2 kilowatt par kilogramme. La puissance ne peut résulter du bridage d'un véhicule développant plus de 70 kW. 
 
 Catégorie A : 
 
@@ -12640,9 +12662,9 @@ Véhicules de la catégorie L7e.
 Catégorie B : 
 
 Véhicules automobiles ayant un poids total autorisé en charge (PTAC) qui n'excède pas 3,5 tonnes, affectés au transport de
-personnes et comportant, outre le siège du conducteur, huit places assises au maximum ou affectés au transport de
-marchandises ainsi que les véhicules qui peuvent être assimilés aux véhicules précédents et dont la liste est fixée par
-arrêté du ministre chargé de la sécurité routière. 
+personnes ou de marchandises, conçus et construits pour le transport de huit passagers au maximum non compris le conducteur
+ainsi que les véhicules qui peuvent être assimilés aux véhicules précédents et dont la liste est fixée par arrêté du ministre
+chargé de la sécurité routière. 
 
 Véhicules mentionnés à l'alinéa précédent attelés d'une remorque lorsque le poids total autorisé en charge (PTAC) de la
 remorque est inférieur ou égal à 750 kilogrammes. 
@@ -12670,16 +12692,15 @@ Aux véhicules de cette catégorie peut être attelée une remorque dont le poid
 
 Catégorie D1 : 
 
-Véhicules automobiles conçus et construits pour le transport de personnes comportant, outre le siège du conducteur, seize
-places assises maximum et d'une longueur n'excédant pas huit mètres. 
+Véhicules automobiles conçus et construits pour le transport de seize passagers au maximum non compris le conducteur et d'une
+longueur n'excédant pas huit mètres. 
 
 Aux véhicules de cette catégorie peut être attelée une remorque dont le poids total autorisé en charge (PTAC) n'excède pas
 750 kilogrammes. 
 
 Catégorie D : 
 
-Véhicules automobiles conçus et construits pour le transport de personnes comportant plus de huit places assises outre le
-siège du conducteur ou transportant plus de huit personnes, non compris le conducteur. 
+Véhicules automobiles conçus et construits pour le transport de plus de huit passagers, non compris le conducteur. 
 
 Aux véhicules de cette catégorie peut être attelée une remorque dont le poids total autorisé en charge (PTAC) n'excède pas
 750 kilogrammes. 
@@ -12762,7 +12783,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-58 du 17 janvier 2013 - art. 2
+  - Décret n°2014-1295 du 31 octobre 2014 - art. 8
 
 _Anciens textes_:
 
@@ -13132,28 +13153,31 @@ _Cite_:
 
 ###### Article R221-11
 
-I.-Lorsqu'une visite médicale est obligatoire en vue de la délivrance  ou du renouvellement du permis de conduire, celui-ci
+I.-Lorsqu'une visite médicale est obligatoire en vue de la délivrance ou du renouvellement du permis de conduire, celui-ci
 peut être : 
 
 1° Dans les cas prévus au I de l'article R. 221-10, accordé sans limitation de durée ou délivré ou prorogé selon la
 périodicité maximale définie ci-dessous ; 
 
-2°  Dans les cas prévus aux II, III et IV de l'article R. 221-10, délivré  ou prorogé selon la périodicité maximale
-suivante : cinq ans pour les  conducteurs de moins de soixante ans, deux ans à partir de l'âge de  soixante ans et un an à
-partir de l'âge de soixante-seize ans.  Toutefois, pour les conducteurs titulaires des catégories D1, D, D1E ou  DE du permis
-de conduire, la périodicité maximale est d'un an à partir  de l'âge de soixante ans. 
+2° Dans les cas prévus aux II, III et IV de l'article R. 221-10, délivré ou prorogé selon la périodicité maximale suivante :
+cinq ans pour les conducteurs de moins de soixante ans, deux ans à partir de l'âge de soixante ans et un an à partir de l'âge
+de soixante-seize ans. Toutefois, pour les conducteurs titulaires des catégories D1, D, D1E ou DE du permis de conduire, la
+périodicité maximale est d'un an à partir de l'âge de soixante ans. 
 
-II. - La validité du permis ainsi délivré ne peut être prorogée qu'après  l'avis médical établi par un médecin agréé
-consultant hors commission  médicale ou par la commission médicale.  
+II. - La validité du permis ainsi délivré ne peut être prorogée qu'après l'avis médical établi par un médecin agréé
+consultant hors commission médicale ou par la commission médicale. 
 
-III.-La demande de prorogation doit  être adressée au préfet du département du domicile du pétitionnaire.  Tant qu'il n'y est
-pas statué par le préfet dans les conditions fixées  par arrêté du ministre chargé des transports, notamment en ce qui
-concerne la procédure et les délais et sauf carence de l'intéressé, le  permis reste provisoirement valide. 
+III.-La demande de prorogation doit être adressée au préfet du département du domicile du pétitionnaire. Lorsque l'avis
+médical est émis avant l'expiration de la durée de validité des catégories concernées, et tant que le préfet n'a pas statué
+sur la demande de prorogation dans les conditions fixées par arrêté du ministre chargé de la sécurité routière, le permis
+reste provisoirement valide. Cette disposition s'applique pour les avis médicaux concluant à l'aptitude, l'aptitude
+temporaire ou l'aptitude avec restriction d'utilisation du permis, dès lors que le conducteur justifie du respect de ces
+restrictions. 
 
-IV.-Les catégories A1, A2, A,  B1 et B du permis de conduire délivrées pour la conduite des véhicules  spécialement aménagés
-pour tenir compte du handicap du conducteur sont  toutefois délivrées sans limitation de durée si le certificat médical
-favorable à l'attribution de ces catégories établit que l'intéressé est  atteint d'une invalidité ou d'une infirmité
-incurable, définitive ou  stabilisée.
+IV.-Les catégories A1, A2, A, B1 et B du permis de conduire délivrées pour la conduite des véhicules spécialement aménagés
+pour tenir compte du handicap du conducteur sont toutefois délivrées sans limitation de durée si le certificat médical
+favorable à l'attribution de ces catégories établit que l'intéressé est atteint d'une invalidité ou d'une infirmité
+incurable, définitive ou stabilisée.
 
 **Liens relatifs à cet article**
 
@@ -13180,7 +13204,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1475 du 9 novembre 2011 - art. 13
+  - Décret n°2014-1295 du 31 octobre 2014 - art. 9
 
 _Anciens textes_:
 
@@ -14120,16 +14144,15 @@ un stage de sensibilisation à la sécurité routière dans le respect de condit
 arrêté du ministre chargé de la sécurité routière. Il transmet un exemplaire de cette attestation au préfet du département du
 lieu du stage, dans un délai de quinze jours à compter de la fin de celui-ci. 
 
-II.-L'attestation délivrée à l'issue du stage effectué en application des dispositions de l'alinéa 3 de l'article L. 223-6
-donne droit à la récupération de quatre points dans la limite du plafond affecté au permis de conduire de son titulaire. Une
-nouvelle reconstitution de points, après une formation spécifique effectuée en application des mêmes dispositions, n'est
-possible qu'au terme d'un délai de deux ans. 
+II.-L'attestation délivrée à l'issue du stage effectué en application des dispositions du quatrième alinéa de l'article L.
+223-6 donne droit à la récupération de quatre points dans la limite du plafond affecté au permis de conduire de son
+titulaire. 
 
 III.-Le préfet mentionné au I ci-dessus procède à la reconstitution du nombre de points dans un délai d'un mois à compter de
 la réception de l'attestation et notifie cette reconstitution à l'intéressé par lettre simple. La reconstitution prend effet
 le lendemain de la dernière journée de stage. 
 
-IV.-Dans le cas prévu à l'article R. 223-4, sont transmises au  comptable de la direction générale des finances publiques du
+IV.-Dans le cas prévu à l'article R. 223-4, sont transmises au comptable de la direction générale des finances publiques du
 lieu de commission de l'infraction, dans le délai de quinze jours mentionné au I ci-dessus, l'attestation de suivi de stage
 ainsi que, si l'amende a été acquittée, les pièces nécessaires à son remboursement. 
 
@@ -14146,7 +14169,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-551 du 27 mai 2014 - art. 25
+  - Décret n°2014-1295 du 31 octobre 2014 - art. 10
 
 _Anciens textes_:
 
@@ -14158,7 +14181,6 @@ _Cite_:
   - Code de la route. - art. L223-6
   - Code de la route. - art. R213-2
   - Code de la route. - art. R223-4
-  - Code de la route. - art. R223-5
 
 
 ###### Article R223-13
@@ -15169,8 +15191,8 @@ _Anciens textes_:
 
 ###### Article R233-1
 
-I. - Lorsque les dispositions du présent code l'exigent, tout conducteur est tenu de présenter à toute réquisition des agents
-de l'autorité compétente : 
+I.-Lorsque les dispositions du présent code l'exigent, tout conducteur ou, le cas échéant, tout accompagnateur d'un apprenti
+conducteur, est tenu de présenter à toute réquisition des agents de l'autorité compétente : 
 
 1° Tout titre justifiant de son autorisation de conduire ; 
 
@@ -15179,7 +15201,13 @@ de l'autorité compétente :
 provisoires, ou les photocopies des certificats d'immatriculation dans les cas et dans les conditions prévues par un arrêté
 du ministre de la justice et du ministre de l'intérieur ; 
 
-3° (Supprimé) 
+3° Pour l'accompagnateur d'un apprenti conducteur assujetti à une obligation de formation, le permis de conduire de la
+catégorie exigée pour la conduite du véhicule, obtenu depuis au moins cinq ans, accompagné d'une attestation certifiant qu'il
+a suivi la formation spécifique prévue au 4° de l'article R. 211-3. 
+
+Pour les titulaires d'une autorisation d'enseigner la conduite en cours de validité, les délégués et inspecteurs du permis de
+conduire et de la sécurité routière, en leur qualité d'accompagnateur à titre non onéreux, l'attestation délivrée dans les
+conditions fixées par arrêté du ministre chargé de la sécurité routière ; 
 
 4° Dans les cas mentionnés aux II et III de l'article R. 221-8, une attestation de la formation pratique ou le document
 attestant d'une expérience de la conduite conforme aux conditions prévues par ces dispositions ; 
@@ -15192,28 +15220,23 @@ construction d'un tel dispositif ; ou
 
 b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de procédure pénale ; 
 
-6° Un éthylotest dans les conditions prévues à l'article R. 234-7 (1) ;
+6° Un éthylotest dans les conditions prévues à l'article R. 234-7 ; 
 
 7° Le procès-verbal de contrôle technique périodique pour les véhicules mentionnés aux articles R. 323-23 et R. 323-25. 
 
-II. - En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
+II.-En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
 vol tient lieu de titre pendant un délai de deux mois au plus. 
 
-III. - Hors le cas prévu au 6° du I, le fait de ne pas présenter immédiatement aux agents de l'autorité compétente les
-éléments exigés par le présent article est puni de l'amende prévue pour les contraventions de la première classe. 
+III.-Hors le cas prévu au 6° du I, le fait de ne pas présenter immédiatement aux agents de l'autorité compétente les éléments
+exigés par le présent article est puni de l'amende prévue pour les contraventions de la première classe. 
 
-IV. - Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession de son brevet de sécurité
+IV.-Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession de son brevet de sécurité
 routière, de ne pas présenter ce document avant l'expiration de ce délai est puni de l'amende prévue pour les contraventions
 de la deuxième classe. 
 
-V. - Hors le cas prévu au 6° du I, le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la
+V.-Hors le cas prévu au 6° du I, le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la
 possession des autorisations et pièces exigées par le présent article, de ne pas présenter ces documents avant l'expiration
-de ce délai est puni de l'amende prévue pour les contraventions de la quatrième classe (1).
-
-**Nota:**
-
-(1) Décret n° 2012-284 du 28 février 2012 article 3 : les 2° et 4° de l'article 2 entreront en vigueur le 1er novembre 2012.
-L'article 1 du décret n° 2012-1197 du 29 octobre 2012 a remplacé la date du 1er novembre 2012 par celle du 1er mars 2013.
+de ce délai est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
@@ -15232,13 +15255,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-784 du 8 juillet 2014 - art. 7
+  - Décret n°2014-1295 du 31 octobre 2014 - art. 11
 
 _Cite_:
 
   - Code de procédure pénale - art. 41-2
+  - Code de la route. - art. R211-3
   - Code de la route. - art. R221-8
   - Code de la route. - art. R234-7
+  - Code de la route. - art. R323-23
 
 _Anciens textes_:
 
