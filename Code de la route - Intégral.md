@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2014-12-29
+Version Consolidée au 2015-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -8214,7 +8214,10 @@ information nominative ;
 
 - à des fins d'enquêtes et de prospections commerciales, sauf opposition des personnes concernées selon les modalités prévues
 au deuxième alinéa de l'article 38 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés. 
+libertés ;
+
+- à des fins de sécurisation des activités économiques qui nécessitent une utilisation de caractéristiques techniques des
+véhicules fiables, sans communication des nom, prénom et adresse des personnes concernées. 
 
 La décision d'agrément mentionnée au deuxième alinéa peut être précédée d'une enquête administrative, dans les conditions
 prévues par l'article 17-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité,
@@ -8240,7 +8243,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 80
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 47
 
 _Anciens textes_:
 
@@ -8912,6 +8915,24 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L3221-5 (V)
 
 
+###### Article L411-3-1
+
+Dans la métropole de Lyon, les règles relatives aux pouvoirs de police de la circulation routière du président du conseil de
+la métropole et aux pouvoirs de police du stationnement des maires sont fixées au 
+5° du I de l'article L. 3642-2 du code général des collectivités territoriales
+.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 10
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L3642-2
+
+
 ###### Article L411-4
 
 Les règles relatives aux pouvoirs de police de la circulation routière dévolus au président du conseil exécutif dans la
@@ -9057,19 +9078,18 @@ _Cité par_:
 Sur les voies ouvertes à la circulation publique, l'organisation de courses de véhicules à moteur est soumise à autorisation
 de l'autorité investie du pouvoir de police.
 
+Pour l'application de l'alinéa précédent sur le territoire de la métropole de Lyon, l'autorité à laquelle il est fait
+référence est celle investie du pouvoir de police de la circulation. 
+
 Le fait d'organiser une course de véhicules à moteur sans avoir obtenu l'autorisation prévue par le présent article est puni
 de six mois d'emprisonnement et de 18 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Cité par_:
 
@@ -9080,15 +9100,14 @@ _Cité par_:
   - Code du sport. - art. R331-18 (V)
   - Code du sport. - art. R331-45 (V)
 
+_Modifié par_:
+
+  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 10
+
 _Anciens textes_:
 
   - Code de la route - art. L5 (Ab)
   - Code de la route L5
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre 2 : Conduite des véhicules et circulation des piétons.<a id=57></a>
@@ -13121,7 +13140,7 @@ suite d'un avis médical favorable.
 
 III.-La catégorie B du permis de conduire ne permet la conduite : 
 
-1° Des taxis, des voitures de tourisme avec chauffeur et des voitures de remise ; 
+1° Des taxis et des voitures de transport avec chauffeur ; 
 
 2° Des ambulances ; 
 
@@ -13161,7 +13180,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1475 du 9 novembre 2011 - art. 12
+  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 _Anciens textes_:
 
@@ -13171,7 +13190,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R226-1 (VD)
+  - Code de la route. - art. R226-1
 
 
 ###### Article R221-11
@@ -25458,10 +25477,9 @@ chaque contrôle technique réalisé à partir du 1er janvier 1999, d'un contrô
 contrôle des émissions polluantes. Cette disposition n'est pas applicable aux camionnettes de collection. 
 
 III. - Ne sont pas soumis à ces obligations les véhicules devant subir un contrôle technique en application d'une
-réglementation spécifique, notamment les véhicules de moins de dix places, conducteur compris, affectés au transport public
-de personnes, les véhicules utilisés pour les transports sanitaires terrestres, les véhicules utilisés pour l'enseignement de
-la conduite des véhicules à moteur, les véhicules utilisés dans le cadre de l'exploitation des entreprises de remise et de
-tourisme, ainsi que les taxis et les voitures de remise.
+réglementation spécifique, notamment les véhicules de moins de dix places, conducteur compris, affectés au transport public,
+collectif ou particulier, de personnes, les véhicules utilisés pour les transports sanitaires terrestres, les véhicules
+utilisés pour l'enseignement de la conduite des véhicules à moteur.
 
 **Liens relatifs à cet article**
 
@@ -25490,14 +25508,9 @@ _Codifié par_:
 
   - Décret n°2001-251 du 22 mars 2001
 
-_Cite_:
-
-  - Décret n°2001-449 du 25 mai 2001 - art. 15
-  - Code de la route. - art. R318-2
-
 _Modifié par_:
 
-  - Décret n°2011-2046 du 29 décembre 2011 - art. 3
+  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 
 ##### Section 4 : Dispositions applicables aux autres véhicules.<a id=146></a>
@@ -25635,10 +25648,9 @@ _Cite_:
 
 Tout autre véhicule à moteur, prévu pour une fonction spécifique nécessitant des adaptations de la carrosserie ou des
 équipements spéciaux, notamment les véhicules visés à l'article R. 323-24, les véhicules utilisés pour les transports
-sanitaires terrestres, les véhicules utilisés pour l'enseignement de la conduite des véhicules à moteur, les véhicules
-utilisés dans le cadre de l'exploitation des entreprises de remise et de tourisme, ainsi que les taxis et les voitures de
-remise, est soumis à un contrôle technique selon des modalités et dans des conditions fixées par arrêté du ministre chargé
-des transports.
+sanitaires terrestres, les véhicules utilisés pour l'enseignement de la conduite des véhicules à moteur, les véhicules de
+transport public particulier de personnes, est soumis à un contrôle technique selon des modalités et dans des conditions
+fixées par arrêté du ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
@@ -25656,24 +25668,19 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-568 2004-06-11 art. 5 : champ d'application
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2004-568 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
+  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 _Anciens textes_:
 
   - Code de la route - art. R119-1 (Ab)
-  - Code de la route R119-1 (al. 2)
 
 _Cite_:
 
-  - Code de la route. - art. R323-24 (M)
+  - Code de la route. - art. R323-24
 
 
 #### Chapitre V : Immobilisation et mise en fourrière<a id=147></a>
