@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-02-18
+Version Consolidée au 2015-03-19
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -18,7 +18,7 @@ Version Consolidée au 2015-02-18
         - [Chapitre 2 : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière (art. L212-1 à L212-5)](#15)
         - [Chapitre 3 : Etablissements d'enseignement et d'animation de stages de sensibilisation à la sécurité routière. (art. L213-1 à L213-8)](#16)
       - [Titre 2 : Permis de conduire (art. L221-1 à L225-9)](#17)
-        - [Chapitre 1er : Délivrance et catégories. (art. L221-1 à L221-2)](#18)
+        - [Chapitre 1er : Délivrance et catégories. (art. L221-1 à L221-3)](#18)
         - [Chapitre 3 : Permis à points. (art. L223-1 à L223-9)](#19)
         - [Chapitre  4 : Interdiction de délivrance, rétention, suspension et annulation. (art. L224-1 à L224-18)](#20)
         - [Chapitre  5 : Enregistrement et communication des informations relatives au permis de conduire. (art. L225-1 à L225-9)](#21)
@@ -2135,6 +2135,22 @@ _Anciens textes_:
   - Code de la route - art. L12 (Ab)
   - Code de la route - art. R278 (Ab)
   - Code de la route L1-1 (al. 2), L1-2, L12 (al. 1), R278 2°
+
+
+###### Article L221-3
+
+Les candidats à l'examen du permis de conduire sont formés aux notions élémentaires de premiers secours. 
+
+Cette formation fait l'objet d'une évaluation à l'occasion de l'examen du permis de conduire. 
+
+Le contenu de cette formation et les modalités de vérification de son assimilation par les candidats sont fixés par voie
+réglementaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-294 du 17 mars 2015 - art. 1
 
 
 #### Chapitre 3 : Permis à points.<a id=19></a>
