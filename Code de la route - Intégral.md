@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-03-19
+Version Consolidée au 2015-03-22
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -7494,8 +7494,9 @@ _Modifié par_:
 
 ###### Article L325-13
 
-Le maire, le président d'un établissement public de coopération intercommunale ou le président du conseil général ont chacun
-la faculté d'instituer un ou plusieurs services publics de fourrières pour automobiles relevant de leur autorité respective.
+Le maire, le président d'un établissement public de coopération intercommunale ou le président du conseil départemental  ont
+chacun la faculté d'instituer un ou plusieurs services publics de fourrières pour automobiles relevant de leur autorité
+respective.
 
 **Nota:**
 
@@ -7503,23 +7504,18 @@ la faculté d'instituer un ou plusieurs services publics de fourrières pour aut
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
-
 _Anciens textes_:
 
   - Loi n°70-1301 du 31 décembre 1970 - art. 3 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 88 () JORF 19 mars 2003
-  - Loi n°2003-239 du 18 mars 2003 - art. 88
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 #### Chapitre 6 : Organisation de la profession d'expert en automobile.<a id=46></a>
@@ -8969,21 +8965,20 @@ Les règles relatives aux pouvoirs de police de la circulation routière dévolu
 département sont fixées par les articles L. 3221-4 et L. 3221-5 du code général des collectivités territoriales ci-après
 reproduits : 
 
-" Art.L. 3221-4.-Le président du conseil général gère le domaine du département.A ce titre, il exerce les pouvoirs de police
-afférents à cette gestion, notamment en ce qui concerne la circulation sur ce domaine, sous réserve des attributions dévolues
-aux maires par le présent code et au représentant de l'Etat dans le département, ainsi que du pouvoir de substitution du
-représentant de l'Etat dans le département prévu à l'article L. 3221-5. " 
+" Art.L. 3221-4.-Le président du conseil départemental gère le domaine du département. A ce titre, il exerce les pouvoirs de
+police afférents à cette gestion, notamment en ce qui concerne la circulation sur ce domaine, sous réserve des attributions
+dévolues aux maires par le présent code et au représentant de l'Etat dans le département, ainsi que du pouvoir de
+substitution du représentant de l'Etat dans le département prévu à l'article L. 3221-5. " 
 
 " Art.L. 3221-5.-Le représentant de l'Etat dans le département peut, dans le cas où il n'y aurait pas été pourvu par le
-président du conseil général, et après une mise en demeure restée sans résultat, exercer les attributions dévolues au
-président du conseil général en matière de police en vertu des dispositions de l'article L. 3221-4. "
+président du conseil départemental, et après une mise en demeure restée sans résultat, exercer les attributions dévolues au
+président du conseil départemental en matière de police en vertu des dispositions de l'article L. 3221-4. "
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cite_:
 
@@ -26667,10 +26662,10 @@ _Cite_:
 ###### Article R325-20
 
 Si la mise en fourrière est effectuée dans un lieu public ou relevant d'une autorité publique, la fourrière relève de
-l'autorité respectivement du préfet, du président du conseil général, du président du conseil exécutif de Corse, du président
-de l'organisme de coopération intercommunale ou du maire, selon que l'Etat, le département, la collectivité territoriale de
-Corse, l'organisme de coopération intercommunale ou la commune est propriétaire, ou dispose de l'immeuble où se trouve la
-fourrière.
+l'autorité respectivement du préfet, du président du conseil départemental, du président du conseil exécutif de Corse, du
+président de l'organisme de coopération intercommunale ou du maire, selon que l'Etat, le département, la collectivité
+territoriale de Corse, l'organisme de coopération intercommunale ou la commune est propriétaire, ou dispose de l'immeuble où
+se trouve la fourrière.
 
 **Nota:**
 
@@ -26680,7 +26675,7 @@ fourrière.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -26689,6 +26684,10 @@ _Cité par_:
   - Code de la route. - art. R325-19 (V)
   - Code de la route. - art. R325-45 (VD)
   - Code de la route. - art. R343-4 (M)
+
+_Modifié par_:
+
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Anciens textes_:
 
@@ -30590,11 +30589,11 @@ _Cite_:
 ###### Article R411-5
 
 Pour l'application des dispositions du présent code, les compétences de police attribuées par la loi au président du conseil
-général, au maire, au président du conseil exécutif en Corse en matière de circulation routière s'exercent sous réserve des
-pouvoirs propres du préfet en sa qualité d'autorité de police générale dans le département, lorsqu'il prend des mesures
+départemental, au maire, au président du conseil exécutif en Corse en matière de circulation routière s'exercent sous réserve
+des pouvoirs propres du préfet en sa qualité d'autorité de police générale dans le département, lorsqu'il prend des mesures
 relatives au bon ordre et à la sécurité publique dont le champ d'application excède le territoire d'une commune. 
 
-Le préfet se substitue au président du conseil général par application de l'article L. 3221-5 du code général des
+Le préfet se substitue au président du conseil départemental par application de l'article L. 3221-5 du code général des
 collectivités territoriales, au maire par application de l'article L. 2215-1 du même code, ou conjointement aux deux
 autorités lorsque celles-ci n'ont pas exercé leurs attributions de police respectives ou conjointes après qu'il les a mises
 en demeure.
@@ -30607,12 +30606,16 @@ en demeure.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2215-1 (V)
-  - Code général des collectivités territoriales - art. L3221-5 (V)
+  - Code général des collectivités territoriales - art. L2215-1
+  - Code général des collectivités territoriales - art. L3221-5
 
 _Anciens textes_:
 
@@ -30624,11 +30627,6 @@ _Cité par_:
   - Code de la route. - art. R411-20 (VD)
   - Code de la route. - art. R442-4 (VD)
   - Code de la route. - art. R442-5 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R411-6
@@ -30664,20 +30662,20 @@ a) Par arrêté du préfet pour les intersections de routes appartenant à la vo
 b) Par arrêté du président du conseil exécutif de Corse, pour les intersections de routes prévues à l'article L. 4424-30 du
 code général des collectivités territoriales ; 
 
-c) Par arrêté du président du conseil général pour les intersections de routes départementales ; 
+c) Par arrêté du président du conseil départemental pour les intersections de routes départementales ; 
 
 d) Par arrêté du maire pour les intersections de routes appartenant à la voirie communale ; 
 
-e) Par arrêté conjoint du préfet et du président du conseil général ou du maire lorsque l'intersection est formée par une
-route nationale ou une route à grande circulation et une route classée ou non à grande circulation relevant de la voirie
+e) Par arrêté conjoint du préfet et du président du conseil départemental ou du maire lorsque l'intersection est formée par
+une route nationale ou une route à grande circulation et une route classée ou non à grande circulation relevant de la voirie
 départementale ou communale ; 
 
-f) Par arrêté conjoint du président du conseil général et du maire lorsque l'intersection est formée par une route
+f) Par arrêté conjoint du président du conseil départemental et du maire lorsque l'intersection est formée par une route
 départementale non classée à grande circulation et une route appartenant à la voirie communale non classée à grande
 circulation ; 
 
 g) Dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, par arrêté du préfet, après
-consultation du président du conseil général ou du maire, lorsque l'intersection est formée par une route à grande
+consultation du président du conseil départemental ou du maire, lorsque l'intersection est formée par une route à grande
 circulation et une route classée ou non à grande circulation relevant de la voirie départementale ou communale ; 
 
 2° En agglomération, par arrêté du maire ou, pour les routes à grande circulation, par arrêté conjoint du préfet et du maire
@@ -30702,7 +30700,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1390 du 12 novembre 2010 - art. 9
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cite_:
 
@@ -30718,12 +30716,12 @@ _Anciens textes_:
 ###### Article R411-8
 
 Les dispositions du présent code ne font pas obstacle au droit conféré par les lois et règlements aux préfets, au président
-du Conseil exécutif de Corse, aux présidents de conseil général et aux maires de prescrire, dans la limite de leurs pouvoirs,
-des mesures plus rigoureuses dès lors que la sécurité de la circulation routière l'exige. Pour ce qui les concerne, les
-préfets et les maires peuvent également fonder leurs décisions sur l'intérêt de l'ordre public.
+du Conseil exécutif de Corse, aux présidents de conseil départemental et aux maires de prescrire, dans la limite de leurs
+pouvoirs, des mesures plus rigoureuses dès lors que la sécurité de la circulation routière l'exige. Pour ce qui les concerne,
+les préfets et les maires peuvent également fonder leurs décisions sur l'intérêt de l'ordre public. 
 
 Lorsqu'ils intéressent la police de la circulation sur les voies classées à grande circulation, les arrêtés du président du
-conseil général ou du maire fondés sur le premier alinéa sont pris après avis du préfet.
+conseil départemental ou du maire fondés sur le premier alinéa sont pris après avis du préfet.
 
 **Nota:**
 
@@ -30737,17 +30735,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Anciens textes_:
 
   - Code de la route - art. R225 (Ab)
   - Code de la route R225 (al. 1 et 2)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R411-8-1
@@ -30855,17 +30852,17 @@ _Cité par_:
 
 ###### Article R411-11
 
-La commission départementale de la sécurité routière est présidée par le préfet. Elle comprend :
+La commission départementale de la sécurité routière est présidée par le préfet. Elle comprend : 
 
-1° Des représentants des services de l'Etat ;
+1° Des représentants des services de l'Etat ; 
 
-2° Des élus départementaux désignés par le conseil général ;
+2° Des élus départementaux désignés par le conseil départemental ; 
 
-3° Des élus communaux désignés par l'association des maires du département ou, à défaut, par le préfet ;
+3° Des élus communaux désignés par l'association des maires du département ou, à défaut, par le préfet ; 
 
-4° Des représentants des organisations professionnelles et des fédérations sportives ;
+4° Des représentants des organisations professionnelles et des fédérations sportives ; 
 
-5° Des représentants des associations d'usagers.
+5° Des représentants des associations d'usagers. 
 
 A Paris, les élus visés aux 2° et 3° sont désignés par le conseil de Paris.
 
@@ -30881,11 +30878,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cité par_:
 
@@ -31093,14 +31090,14 @@ _Cite_:
 
 ###### Article R411-20
 
-Le préfet pour les routes nationales, le président du conseil général pour les routes départementales y compris les routes
-classées à grande circulation, le président du conseil exécutif de Corse, pour les routes prévues à l'article L. 4424-30 du
-code général des collectivités territoriales, le maire pour les autres routes peut ordonner l'établissement de barrières de
-dégel. Ces autorités fixent les conditions de circulation sur les routes ou sections de routes soumises aux barrières de
-dégel. 
+Le préfet pour les routes nationales, le président du conseil départemental pour les routes départementales y compris les
+routes classées à grande circulation, le président du conseil exécutif de Corse, pour les routes prévues à l'article L.
+4424-30 du code général des collectivités territoriales, le maire pour les autres routes peut ordonner l'établissement de
+barrières de dégel. Ces autorités fixent les conditions de circulation sur les routes ou sections de routes soumises aux
+barrières de dégel. 
 
 L'établissement de barrières de dégel sur les routes forestières relève de la compétence du préfet, du président du conseil
-général ou du maire selon que la route appartient au domaine forestier national, départemental ou communal. 
+départemental ou du maire selon que la route appartient au domaine forestier national, départemental ou communal. 
 
 Les pouvoirs conférés par le présent article au préfet s'exercent sans préjudice des compétences qu'il tient de l'article R.
 411-5.
@@ -31113,22 +31110,21 @@ Les pouvoirs conférés par le présent article au préfet s'exercent sans préj
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L4424-30 (V)
-  - Code de la route. - art. R411-5 (V)
+  - Code général des collectivités territoriales - art. L4424-30
+  - Code de la route. - art. R411-5
 
 _Anciens textes_:
 
   - Code de la route - art. R45 (Ab)
   - Code de la route R45
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 _Cité par_:
 
@@ -37438,14 +37434,14 @@ _Anciens textes_:
 
 Sur les ponts qui n'offriraient pas toutes les garanties nécessaires à la sécurité des passages, le préfet pour la voirie
 nationale ainsi que pour les routes classées à grande circulation, le président du conseil exécutif pour les routes
-nationales en Corse, le président du conseil général pour les routes départementales ou le maire pour la voirie communale
-peut prendre toutes dispositions de nature à assurer cette sécurité. Le maximum de la charge autorisée et les mesures
-prescrites pour la protection et l'emprunt de ces ponts sont, dans tous les cas, placardés à leur entrée et à leur sortie de
-manière à être parfaitement visibles des conducteurs. 
+nationales en Corse, le président du conseil départemental pour les routes départementales ou le maire pour la voirie
+communale peut prendre toutes dispositions de nature à assurer cette sécurité. Le maximum de la charge autorisée et les
+mesures prescrites pour la protection et l'emprunt de ces ponts sont, dans tous les cas, placardés à leur entrée et à leur
+sortie de manière à être parfaitement visibles des conducteurs. 
 
 En cas d'urgence ou de péril imminent, le maire peut prendre les mesures provisoires que lui paraît commander la sécurité
 publique, sauf à en informer le préfet et, si le réseau routier départemental est concerné par ces mesures, le président du
-conseil général. 
+conseil départemental. 
 
 Les dispositions prises en application du présent article ne sont applicables ni aux convois et transports militaires ni aux
 véhicules des unités d'instruction et d'intervention de la sécurité civile, qui font l'objet de règles particulières. 
@@ -37474,12 +37470,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cite_:
 
-  - Code pénal - art. 132-11 (V)
-  - Code de la route. - art. L325-1 (V)
+  - Code pénal - art. 132-11
+  - Code de la route. - art. L325-1
 
 _Anciens textes_:
 
@@ -37490,11 +37490,6 @@ _Anciens textes_:
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R46 (Ab)
   - Code de la route R46, R229 (al. 1 et 2), R229-2, R233-4, R266 10°, R278 6°
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R422-5
@@ -39881,8 +39876,8 @@ _Cite_:
 
 ###### Article R442-4
 
-Les pouvoirs attribués au président du conseil général par les articles R. 411-5, R. 411-7 et R. 422-4 sont exercés par le
-représentant de l'Etat.
+Les pouvoirs attribués au président du conseil départemental par les articles R. 411-5, R. 411-7 et R. 422-4 sont exercés par
+le représentant de l'Etat.
 
 **Nota:**
 
@@ -39897,18 +39892,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cite_:
 
-  - Code de la route. - art. R411-5 (V)
-  - Code de la route. - art. R422-4 (V)
+  - Code de la route. - art. R411-5
+  - Code de la route. - art. R422-4
 
 
 ###### Article R442-5
