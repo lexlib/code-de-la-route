@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-06-28
+Version Consolidée au 2015-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -12013,6 +12013,53 @@ _Anciens textes_:
   - Code de la route - art. R245-2 (Ab)
 
 
+###### Article R213-3-1
+
+Constituent des frais de transfert interdits en application de l'article L. 213-2, tous frais, quelles que soient leurs
+dénominations, ou toute majoration de prix des prestations appliquées spécifiquement par un établissement d'enseignement de
+la conduite et de la sécurité routière à un candidat précédemment inscrit dans un autre de ces établissements.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-578 du 27 mai 2015 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. L213-2
+
+
+###### Article R213-3-2
+
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe : 
+
+1° Le fait de ne pas remettre le contrat mentionné au premier alinéa de l'article L. 213-2 ; 
+
+2° Le fait d'appliquer des frais en infraction aux premier et deuxième alinéas de l'article L. 213-2 ; 
+
+3° Le fait de remettre un contrat ne comportant pas les mentions prévues à l'article R. 213-3. 
+
+La récidive des contraventions prévues au présent article est réprimée conformément aux articles 
+132-11 
+et 
+132-15 
+du code pénal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-578 du 27 mai 2015 - art. 1
+
+_Cite_:
+
+  - Code pénal - art. 132-11
+  - Code pénal - art. 132-15
+  - Code de la route. - art. L213-2
+  - Code de la route. - art. R213-3 (V)
+
+
 ###### Article R213-4
 
 Les programmes de formation prévus à l'article L. 213-4 sont définis par arrêtés du ministre chargé de la sécurité routière.
@@ -15420,19 +15467,23 @@ _Cite_:
 ###### Article R234-2
 
 Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L. 234-3 à L. 234-5 et L.
-234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies par arrêté du ministre
-chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur et du ministre de la
-défense.
+234-9, sont effectuées au moyen d'un éthylotest électronique ou chimique qui répond, selon sa nature, aux exigences fixées
+par le décret n° 2008-883 du 1er septembre 2008 relatif aux éthylotests électroniques ou par le décret n° 2015-775 du 29 juin
+2015 fixant les exigences de fiabilité et de sécurité relatives aux éthylotests chimiques destinés à un usage préalable à la
+conduite routière.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-_Modifié par_:
+_Cite_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Décret n°2008-883 du 1er septembre 2008
+  - Décret n°2015-775 du 29 juin 2015
+  - Code de la route. - art. L234-3
+  - Code de la route. - art. L234-9
 
 _Cité par_:
 
@@ -15441,15 +15492,13 @@ _Cité par_:
   - Code de la route. - art. R244-1 (V)
   - Code de la route. - art. R245-1 (V)
 
+_Modifié par_:
+
+  - Décret n°2015-774 du 29 juin 2015 - art. 1
+
 _Anciens textes_:
 
   - Code de la route - art. R295 (Ab)
-  - Code de la route R295
-
-_Cite_:
-
-  - Code de la route L234-3 à L234-5, L234-9
-  - Code de la route. - art. L234-9 (V)
 
 
 ###### Article R234-3
@@ -15599,10 +15648,10 @@ _Cité par_:
 Tout conducteur d'un véhicule terrestre à moteur, à l'exclusion d'un cyclomoteur, doit justifier de la possession d'un
 éthylotest, non usagé, disponible immédiatement. 
 
-L'éthylotest mentionné au premier alinéa respecte les conditions de validité, notamment la date de péremption, prévues par
-son fabricant. Il est revêtu d'une marque de certification ou d'un marquage du fabricant déclarant sa conformité à un modèle
-bénéficiant d'une attestation de conformité aux normes dont les références sont publiées au Journal officiel de la République
-française. 
+L'éthylotest mentionné au premier alinéa est électronique ou chimique. Il répond selon sa nature aux exigences fixées par le
+décret n° 2008-883 du 1er septembre 2008 relatif aux éthylotests électroniques ou par le décret n° 29 juin 2015 du 29 juin
+2015 fixant les exigences de fiabilité et de sécurité relatives aux éthylotests chimiques destinés à un usage préalable à la
+conduite routière. 
 
 Sont considérés comme répondant à l'obligation prévue au premier alinéa, le conducteur d'un véhicule équipé par un
 professionnel agréé ou par construction d'un dispositif d'antidémarrage par éthylotest électronique homologué conformément à
@@ -15611,14 +15660,15 @@ fixées à l'article R. 317-24.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2012-284 du 28 février 2012 - art. 1
-
 _Cite_:
 
+  - Décret n°2008-883 du 1er septembre 2008
   - Code de la route. - art. L234-17
   - Code de la route. - art. R317-24
+
+_Modifié par_:
+
+  - Décret n°2015-774 du 29 juin 2015 - art. 2
 
 _Cité par_:
 
@@ -30447,7 +30497,8 @@ La commission départementale de la sécurité routière est présidée par le p
 
 1° Des représentants des services de l'Etat ; 
 
-2° Des élus départementaux désignés par le conseil départemental ; 
+2° Des élus départementaux désignés par le conseil départemental et des élus désignés par le conseil de la métropole de
+Lyon ; 
 
 3° Des élus communaux désignés par l'association des maires du département ou, à défaut, par le préfet ; 
 
@@ -30473,7 +30524,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+  - Décret n°2015-694 du 18 juin 2015 - art. 1
 
 _Cité par_:
 
