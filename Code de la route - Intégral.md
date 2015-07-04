@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-07-01
+Version Consolidée au 2015-07-05
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -32058,14 +32058,19 @@ Ils peuvent également le franchir pour rejoindre une autre chaussée s'il exist
 Les engins d'entretien du trottoir peuvent y circuler dans l'exercice de leur mission, sauf dispositions contraires prises
 par l'autorité investie du pouvoir de police. 
 
+Dans l'exercice de leur mission, les véhicules d'entretien des voies du domaine public routier peuvent circuler et s'arrêter
+sur les bandes cyclables, les pistes cyclables et les voies vertes. 
+
+Les véhicules de collecte des ordures ménagères peuvent circuler et s'arrêter sur les bandes cyclables dans leur sens de
+circulation pour la réalisation des opérations de collecte de la section de rue concernée. 
+
 II.-Lorsque, sur la chaussée, une voie de circulation réservée à certaines catégories de véhicules est matérialisée, les
 conducteurs d'autres catégories de véhicules ne doivent pas circuler sur cette voie. Les conducteurs de véhicules motorisés
 ne doivent pas circuler sur une voie verte, ni dans une aire piétonne à l'exception des cas prévus par les règles de
 circulation mentionnées à l'article R. 411-3. 
 
-III.-Sous réserve de l'application des dispositions des deuxième, troisième et quatrième alinéas du I, le fait, pour tout
-conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la 4e
-classe.
+III.-Sous réserve de l'application des dispositions des deuxième à sixième alinéas du I, le fait, pour tout conducteur, de
+contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la 4e classe.
 
 **Liens relatifs à cet article**
 
@@ -32079,7 +32084,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1390 du 12 novembre 2010 - art. 10
+  - Décret n°2015-808 du 2 juillet 2015 - art. 2
 
 _Anciens textes_:
 
@@ -32142,8 +32147,15 @@ d'emprunter une sortie située sur sa gauche par rapport à son axe d'entrée pe
 Chaque manoeuvre de changement de voie à l'intérieur du carrefour à sens giratoire reste soumise aux règles de la priorité et
 doit être signalée aux autres conducteurs.
 
-Le fait, pour tout conducteur, de ne pas maintenir, en marche normale, son véhicule près du bord droit de la chaussée est
-puni de l'amende prévue pour les contraventions de la deuxième classe.
+Un conducteur de cycle peut s'éloigner du bord droit de la chaussée lorsqu'une trajectoire matérialisée pour les cycles,
+signalisée en application des dispositions de l'article R. 411-25, le permet. 
+
+Sur les voies où la vitesse maximale autorisée n'excède pas 50 km/ h, un conducteur de cycle peut s'écarter des véhicules en
+stationnement sur le bord droit de la chaussée, d'une distance nécessaire à sa sécurité. 
+
+Sous réserve des dispositions des quatrième et cinquième alinéas du présent article, le fait, pour tout conducteur, de ne pas
+maintenir, en marche normale, son véhicule près du bord droit de la chaussée est puni de l'amende prévue pour les
+contraventions de la deuxième classe.
 
 Le fait, pour tout conducteur, de circuler, en marche normale, sur la partie gauche d'une chaussée à double sens de
 circulation est puni de l'amende prévue pour les contraventions de la quatrième classe.
@@ -32154,29 +32166,21 @@ professionnelle.
 
 Cette dernière contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
 
-**Nota:**
-
-Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
-
-_Modifié par_:
-
-  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
   - Arrêté du 19 février 2010 - art. 27 (V)
   - Décret n°2015-1750 du 23 décembre 2015 - art. 1 (V)
   - Code de la route. - art. R130-3 (M)
+
+_Modifié par_:
+
+  - Décret n°2015-808 du 2 juillet 2015 - art. 3
 
 _Anciens textes_:
 
@@ -32491,34 +32495,29 @@ _Codifié par_:
 ###### Article R412-19
 
 Lorsque des lignes longitudinales continues axiales ou séparatives de voies de circulation sont apposées sur la chaussée,
-elles interdisent aux conducteurs leur franchissement ou leur chevauchement.
+elles interdisent aux conducteurs leur franchissement ou leur chevauchement. 
+
+Toutefois, leur chevauchement est autorisé pour le dépassement d'un cycle dans les conditions prévues par l'article R.
+414-4. 
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la quatrième classe.
+contraventions de la quatrième classe. 
 
 Tout conducteur coupable de l'une des infractions prévues au présent article encourt également la peine complémentaire de
 suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
-dehors de l'activité professionnelle.
+dehors de l'activité professionnelle. 
 
 Le franchissement d'une ligne continue axiale ou séparative de voies de circulation donne lieu de plein droit à la réduction
-de trois points du permis de conduire.
+de trois points du permis de conduire. 
 
-Le chevauchement d'une ligne continue axiale ou séparative de voies de circulation donne lieu de plein droit à la réduction
-d'un point du permis de conduire.
-
-**Nota:**
-
-Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
+Sous réserve des dispositions du deuxième alinéa du présent article, le chevauchement d'une ligne continue axiale ou
+séparative de voies de circulation donne lieu de plein droit à la réduction d'un point du permis de conduire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -32527,6 +32526,10 @@ _Cité par_:
   - Code de la route. - art. R130-11 (V)
   - Code de la route. - art. R130-3 (M)
 
+_Modifié par_:
+
+  - Décret n°2015-808 du 2 juillet 2015 - art. 4
+
 _Anciens textes_:
 
   - Code de la route - art. R232 (Ab)
@@ -32534,9 +32537,9 @@ _Anciens textes_:
   - Code de la route - art. R5 (Ab)
   - Code de la route R5 1° et 2°, R232 (al. 1 et 2), R256 3°, R256 5°
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
+  - Code de la route. - art. R414-4
 
 
 ###### Article R412-20
@@ -32839,22 +32842,24 @@ _Codifié par_:
 
 ###### Article R412-30
 
-Tout conducteur doit marquer l'arrêt absolu devant un feu de signalisation rouge, fixe ou clignotant.
+Tout conducteur doit marquer l'arrêt absolu devant un feu de signalisation rouge, fixe ou clignotant. 
 
 L'arrêt se fait en respectant la limite d'une ligne perpendiculaire à l'axe de la voie de circulation. Lorsque cette ligne
 d'arrêt n'est pas matérialisée sur la chaussée, elle se situe à l'aplomb du feu de signalisation ou avant le passage piéton
-lorsqu'il en existe un.
+lorsqu'il en existe un. 
 
-Lorsqu'une piste cyclable traversant la chaussée est parallèle et contiguë à un passage réservé aux piétons dont le
-franchissement est réglé par des feux de signalisation lumineux, tout conducteur empruntant cette piste est tenu, à défaut de
-signalisation spécifique, de respecter les feux de signalisation réglant la traversée de la chaussée par les piétons.
+Lorsqu'une piste cyclable ou une trajectoire matérialisée pour les cycles, signalisée en application des dispositions de
+l'article R. 411-25, traversant la chaussée est parallèle et contiguë à un passage réservé aux piétons dont le franchissement
+est réglé par des feux de signalisation lumineux, tout conducteur empruntant cette piste ou cette trajectoire matérialisée
+est tenu, à défaut de signalisation spécifique, de respecter les feux de signalisation réglant la traversée de la chaussée
+par les piétons. 
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la quatrième classe.
+contraventions de la quatrième classe. 
 
 Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de trois
 ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle.
+professionnelle. 
 
 Cette contravention donne lieu de plein droit à la réduction de quatre points du permis de conduire.
 
@@ -32862,11 +32867,7 @@ Cette contravention donne lieu de plein droit à la réduction de quatre points 
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22
-
-_Modifié par_:
-
-  - Décret n°2003-283 du 27 mars 2003 - art. 1 () JORF 29 mars 2003
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -32874,6 +32875,10 @@ _Cité par_:
   - Code de la route. - art. R121-6 (V)
   - Code de la route. - art. R130-11 (V)
   - Code de la route. - art. R130-3 (M)
+
+_Modifié par_:
+
+  - Décret n°2015-808 du 2 juillet 2015 - art. 6
 
 _Anciens textes_:
 
@@ -32883,10 +32888,9 @@ _Anciens textes_:
   - Code de la route - art. R9-1 (Ab)
   - Code de la route R9-1, R232 (al. 1 et 9), R256 2°, R266 2°
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Code de la route. - art. R411-25
 
 
 ###### Article R412-31
@@ -33107,7 +33111,7 @@ _Anciens textes_:
 ###### Article R412-38
 
 Les feux de signalisation lumineux réglant la traversée des chaussées par les piétons sont verts ou rouges et comportent un
-pictogramme.
+pictogramme. Ils peuvent comporter un signal lumineux jaune indiquant leur mise en service. 
 
 Lorsque la traversée d'une chaussée est réglée par ces feux, les piétons ne doivent s'engager qu'au feu vert.
 
@@ -33129,13 +33133,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code de la route. - art. R412-42 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Décret n°2015-808 du 2 juillet 2015 - art. 7
 
 
 ###### Article R412-39
@@ -35460,16 +35462,14 @@ _Anciens textes_:
 
 ###### Article R415-15
 
-Aux intersections, l'autorité investie du pouvoir de police peut décider de : 
+L'autorité investie du pouvoir de police peut décider de : 
 
 1° Mettre en place sur les voies équipées de feux de signalisation une signalisation distincte destinée à une ou plusieurs
 catégories de véhicules ou indiquant une ou plusieurs directions ou remplissant ces deux fonctions de manière concomitante ; 
 
 2° Mettre en place sur les voies équipées de feux de signalisation communs à toutes les catégories d'usagers deux lignes
-d'arrêt distinctes, l'une pour les cycles et cyclomoteurs, l'autre pour les autres catégories de véhicules ; 
-
-3° Réserver une voie que les conducteurs de cycles et de cyclomoteurs sont tenus d'emprunter pour contourner l'intersection
-par la droite.
+d'arrêt distinctes, l'une pour les cycles, l'autre pour les autres catégories de véhicules. La ligne d'arrêt pour les cycles
+peut être autorisée pour les cyclomoteurs.
 
 **Liens relatifs à cet article**
 
@@ -35484,7 +35484,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1390 du 12 novembre 2010 - art. 18
+  - Décret n°2015-808 du 2 juillet 2015 - art. 9
 
 _Anciens textes_:
 
@@ -36488,57 +36488,58 @@ _Cité par_:
 
 ###### Article R417-10
 
-I.-Tout véhicule à l'arrêt ou en stationnement doit être placé de manière à gêner le moins possible la circulation. 
+I.-Tout véhicule à l'arrêt ou en stationnement doit être placé de manière à gêner le moins possible la circulation.
 
-II.-Est considéré comme gênant la circulation publique l'arrêt ou le stationnement d'un véhicule : 
+II.-Est considéré comme gênant la circulation publique l'arrêt ou le stationnement d'un véhicule :
 
-1° Sur les trottoirs, les passages ou accotements réservés à la circulation des piétons ; 
+1° Sur les trottoirs lorsqu'il s'agit d'une motocyclette, d'un tricycle à moteur ou d'un cyclomoteur ;
 
-1° bis Sur les voies vertes, les bandes et pistes cyclables ainsi qu'en bordure des bandes cyclables ; 
+1° bis Abrogé ;
 
 2° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de transport public de voyageurs, des taxis, des
 véhicules titulaires du label " autopartage prévu par le décret n° 2012-280 du 28 février 2012 relatif au label " autopartage
-" ou des véhicules affectés à un service public l'autorité investie du pouvoir de police peut toutefois définir par arrêté
-les horaires pendant lesquels le stationnement est autorisé ; 
+" ou des véhicules affectés à un service public ; l'autorité investie du pouvoir de police peut toutefois définir par arrêté
+les horaires pendant lesquels le stationnement est autorisé ;
 
 3° Entre le bord de la chaussée et une ligne continue lorsque la largeur de la voie restant libre entre cette ligne et le
-véhicule ne permet pas à un autre véhicule de circuler sans franchir ou chevaucher la ligne ; 
+véhicule ne permet pas à un autre véhicule de circuler sans franchir ou chevaucher la ligne ;
 
-4° A proximité des signaux lumineux de circulation ou des panneaux de signalisation, à des emplacements tels que ceux-ci
-peuvent être masqués à la vue des usagers ; 
+4° Abrogé ;
 
 5° Sur les emplacements où le véhicule empêche soit l'accès à un autre véhicule à l'arrêt ou en stationnement, soit le
-dégagement de ce dernier ; 
+dégagement de ce dernier ;
 
 6° Sur les ponts, dans les passages souterrains, tunnels et sous les passages supérieurs, sauf dispositions différentes
-prises par l'autorité investie du pouvoir de police ; 
+prises par l'autorité investie du pouvoir de police ;
 
-7° Au droit des bouches d'incendie et des accès à des installations souterraines ; 
+7° Abrogé ;
 
-8° (abrogé) ; 
+8° (abrogé) ;
 
-9° Sur les bandes d'arrêt d'urgence, sauf cas de nécessité absolue ; 
+9° Sur les bandes d'arrêt d'urgence, sauf cas de nécessité absolue ;
 
-10° Sur une voie publique spécialement désignée par arrêté de l'autorité investie du pouvoir de police municipale. 
+10° Sur une voie publique spécialement désignée par arrêté de l'autorité investie du pouvoir de police municipale.
 
-III.-Est également considéré comme gênant la circulation publique le stationnement d'un véhicule : 
+III.-Est également considéré comme gênant la circulation publique le stationnement d'un véhicule :
 
-1° Devant les entrées carrossables des immeubles riverains ; 
+1° Devant les entrées carrossables des immeubles riverains ;
 
 2° En double file, sauf en ce qui concerne les cycles à deux roues, les cyclomoteurs à deux roues et les motocyclettes sans
-side-car ; 
+side-car ;
 
-3° Devant les dispositifs destinés à la recharge en énergie des véhicules électriques ; 
+3° Devant les dispositifs destinés à la recharge en énergie des véhicules électriques ;
 
-4° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de livraison l'autorité investie du pouvoir de
-police peut toutefois définir par arrêté les horaires pendant lesquels le stationnement est autorisé ; 
+4° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de livraison ; l'autorité investie du pouvoir de
+police peut toutefois définir par arrêté les horaires pendant lesquels le stationnement est autorisé ;
 
-5° Dans les zones de rencontre, en dehors des emplacements aménagés à cet effet ; 
+5° Dans les zones de rencontre, en dehors des emplacements aménagés à cet effet ;
 
-6° Dans les aires piétonnes, à l'exception des cycles sur les emplacements aménagés à cet effet. 
+6° Dans les aires piétonnes, à l'exception des cycles sur les emplacements aménagés à cet effet ;
+
+7° Au-dessus des accès signalés à des installations souterraines.
 
 IV.-Tout arrêt ou stationnement gênant prévu par le présent article est puni de l'amende prévue pour les contraventions de la
-deuxième classe. 
+deuxième classe.
 
 V.-Lorsque le conducteur ou le propriétaire du véhicule est absent ou refuse, malgré l'injonction des agents, de faire cesser
 le stationnement gênant, l'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues aux
@@ -36567,7 +36568,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-280 du 28 février 2012 - art. 10
+  - Décret n°2015-808 du 2 juillet 2015 - art. 11
 
 _Anciens textes_:
 
@@ -36582,25 +36583,44 @@ _Anciens textes_:
 
 ###### Article R417-11
 
-I.-Est également considéré comme gênant tout arrêt ou stationnement : 
+I.-Est considéré comme très gênant pour la circulation publique l'arrêt ou le stationnement : 
 
-1° D'un véhicule sur les chaussées, voies, pistes, bandes, trottoirs ou accotements réservés à la circulation des véhicules
-de transports publics de voyageurs, des taxis ou des véhicules d'intérêt général prioritaires ; 
+1° D'un véhicule sur les chaussées et voies réservées à la circulation des véhicules de transport public de voyageurs, des
+taxis ou des véhicules d'intérêt général prioritaires ; 
 
-2° D'un véhicule ou ensemble de véhicules de plus de 20 mètres carrés de surface maximale dans les zones touristiques
-délimitées par l'autorité investie du pouvoir de police ; 
+2° D'un véhicule ou d'un ensemble de véhicules de plus de 20 mètres carrés de surface maximale dans les zones touristiques
+délimitée par l'autorité investie du pouvoir de police ; 
 
-3° D'un véhicule sur les emplacements réservés aux véhicules portant une carte de stationnement de modèle communautaire pour
-personne handicapée, ou un macaron grand invalide de guerre (GIG) ou grand invalide civil (GIC) ;
+3° D'un véhicule sur les emplacements réservés aux véhicules portant une carte de stationnement pour personnes handicapées
+prévue à l'article L. 241-3-2 du code de l'action sociale et des familles ; 
 
-4° D'un véhicule sur les emplacements réservés aux véhicules de transport de fonds, de bijoux ou de métaux précieux.  
+4° D'un véhicule sur les emplacements réservés aux véhicules de transport de fonds ou de métaux précieux ; 
 
-II.-Tout arrêt ou stationnement gênant prévu par le présent article est puni de l'amende prévue pour les contraventions de la
-quatrième classe. 
+5° D'un véhicule sur les passages réservés à la circulation des piétons en traversée de chaussée ; 
+
+6° D'un véhicule au droit des bandes d'éveil de vigilance à l'exception de celles qui signalent le quai d'un arrêt de
+transport public ; 
+
+7° D'un véhicule à proximité des signaux lumineux de circulation ou des panneaux de signalisation lorsque son gabarit est
+susceptible de masquer cette signalisation à la vue des usagers de la voie ; 
+
+8° D'un véhicule motorisé à l'exception des cycles à pédalage assisté : 
+
+a) Sur les trottoirs, à l'exception des motocyclettes, tricycles à moteur et cyclomoteurs ; 
+
+b) Sur les voies vertes, les bandes et pistes cyclables ; 
+
+c) Sur une distance de cinq mètres en amont des passages piétons dans le sens de la circulation, en dehors des emplacements
+matérialisés à cet effet, à l'exception des motocyclettes, tricycles et cyclomoteurs ; 
+
+d) Au droit des bouches d'incendie. ; 
+
+II.-Tout arrêt ou stationnement très gênant pour la circulation publique prévu par le présent article est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
 
 III.-Lorsque le conducteur ou le titulaire du certificat d'immatriculation est absent ou refuse, malgré l'injonction des
-agents, de faire cesser le stationnement gênant, l'immobilisation et la mise en fourrière peuvent être prescrites dans les
-conditions prévues aux articles L. 325-1 à L. 325-3.
+agents, de faire cesser le stationnement très gênant pour la circulation publique, l'immobilisation et la mise en fourrière
+peuvent être prescrites dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
@@ -36619,7 +36639,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1109 du 1er octobre 2012 - art. 17
+  - Décret n°2015-808 du 2 juillet 2015 - art. 12
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L241-3-2
+  - Code de la route. - art. L325-1
 
 _Anciens textes_:
 
@@ -36627,10 +36652,6 @@ _Anciens textes_:
   - Code de la route - art. R278 (Ab)
   - Code de la route - art. R285-2 (Ab)
   - Code de la route R233-1 (al. 2 et 3), R278 18°, R285-2 2°
-
-_Cite_:
-
-  - Code de la route. - art. L325-1
 
 
 ###### Article R417-12
@@ -37828,7 +37849,7 @@ ouverte à droite de la route, dans le sens de la circulation.
 Les conducteurs de cycles peuvent circuler sur les aires piétonnes, sauf dispositions différentes prises par l'autorité
 investie du pouvoir de police, à la condition de conserver l'allure du pas et de ne pas occasionner de gêne aux piétons. 
 
-Hors agglomération, les conducteurs de cycles peuvent circuler sur les accotements équipés d'un revêtement routier. 
+Les conducteurs de cycles peuvent circuler sur les accotements équipés d'un revêtement routier. 
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article ou à celles prises pour son application est
 puni de l'amende prévue pour les contraventions de la deuxième classe.
@@ -37837,11 +37858,11 @@ puni de l'amende prévue pour les contraventions de la deuxième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2003-283 du 27 mars 2003 - art. 3 () JORF 29 mars 2003
+  - Décret n°2015-808 du 2 juillet 2015 - art. 13
 
 _Anciens textes_:
 
@@ -37853,11 +37874,6 @@ _Cité par_:
 
   - Code de la route. - art. R110-2 (V)
   - Code de la route. - art. R412-43-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R431-10
