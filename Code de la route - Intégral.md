@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-08-19
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -17,213 +17,212 @@ Version Consolidée au 2015-08-08
         - [Chapitre 1er : Formation à la conduite et à la sécurité routière. (art. L211-1 à L211-7)](#14)
         - [Chapitre 2 : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière (art. L212-1 à L212-5)](#15)
         - [Chapitre 3 : Etablissements d'enseignement et d'animation de stages de sensibilisation à la sécurité routière. (art. L213-1 à L213-9)](#16)
-      - [Titre 2 : Permis de conduire (art.  à L225-9)](#17)
-        - [Chapitre 1er : Délivrance et catégories. (art.  à L213-9)](#18)
-        - [Chapitre 1er : Vérification d'aptitude, délivrance et catégories. (art. L221-1 à L221-10)](#19)
-        - [Chapitre 3 : Permis à points. (art. L223-1 à L223-9)](#20)
-        - [Chapitre  4 : Interdiction de délivrance, rétention, suspension et annulation. (art. L224-1 à L224-18)](#21)
-        - [Chapitre  5 : Enregistrement et communication des informations relatives au permis de conduire. (art. L225-1 à L225-9)](#22)
-      - [Titre 3 : Comportement du conducteur (art. L231-1 à L235-5)](#23)
-        - [Chapitre 1er : Comportement en cas d'accident. (art. L231-1 à L231-3)](#24)
-        - [Chapitre 2 : Atteintes involontaires aux personnes. (art. L232-1 à L232-3)](#25)
-        - [Chapitre 3 : Comportement en cas de contrôle routier. (art. L233-1 à L233-2)](#26)
-        - [Chapitre 4 : Conduite sous l'influence de l'alcool. (art. L234-1 à L234-18)](#27)
-        - [Chapitre 5 : Conduite après usage de substances ou plantes classées comme stupéfiants (art. L235-1 à L235-5)](#28)
-      - [Titre 4 : Dispositions relatives à l'outre-mer (art. L241-1 à L245-2)](#29)
-        - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. L241-1)](#30)
-        - [Chapitre 2 : Dispositions applicables à Mayotte. (art. L242-1 à L242-2)](#31)
-        - [Chapitre 3 : Dispositions applicables à la Nouvelle-Calédonie. (art. L243-1 à L243-2)](#32)
-        - [Chapitre 4 : Dispositions applicables à la Polynésie française. (art. L244-1 à L244-2)](#33)
-        - [Chapitre 5 : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. L245-1 à L245-2)](#34)
-    - [Livre 3 : Le véhicule (art. L311-1 à L344-2)](#35)
-      - [Titre 1er : Dispositions techniques (art. L311-1 à L318-4)](#36)
-        - [Chapitre 1er : Dispositions générales et définitions. (art. L311-1)](#37)
-        - [Chapitre 2 : Poids et dimensions. (art. L312-1)](#38)
-        - [Chapitre 7 : Dispositifs et aménagements particuliers. (art. L317-1 à L317-9)](#39)
-        - [Chapitre 8 : Energie, émissions polluantes et nuisances. (art. L318-1 à L318-4)](#40)
-      - [Titre 2 : Dispositions administratives (art. L321-1 à L327-6)](#41)
-        - [Chapitre 1er : Réception et homologation. (art. L321-1 à L321-6)](#42)
-        - [Chapitre 2 : Immatriculation. (art. L322-1 à L322-3)](#43)
-        - [Chapitre 3 : Contrôle technique. (art. L323-1)](#44)
-        - [Chapitre 4 : Assurance. (art. L324-1 à L324-2)](#45)
-        - [Chapitre 5 : Immobilisation et mise en fourrière. (art. L325-1 à L325-13)](#46)
-        - [Chapitre 6 : Organisation de la profession d'expert en automobile. (art. L326-1 à L326-9)](#47)
-        - [Chapitre 7 : Véhicules endommagés. (art. L327-1 à L327-6)](#48)
-      - [Titre 3 : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. L330-1 à L330-8)](#49)
-      - [Titre 4 : Dispositions relatives à l'outre-mer (art. L341-1 à L344-2)](#50)
-        - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. L341-1)](#51)
-        - [Chapitre 2 : Dispositions applicables à Mayotte. (art. L342-1 à L342-3)](#52)
-        - [Chapitre 3 : Dispositions applicables à la Polynésie française. (art. L343-1)](#53)
-        - [Chapitre 4 : Dispositions applicables en Nouvelle-Calédonie. (art. L344-1 à L344-2)](#54)
-    - [Livre 4 : L'usage des voies (art. L411-1 à L444-1)](#55)
-      - [Titre 1er : Dispositions générales (art. L411-1 à L417-1)](#56)
-        - [Chapitre 1er : Pouvoirs de police de la circulation. (art. L411-1 à L411-7)](#57)
-        - [Chapitre 2 : Conduite des véhicules et circulation des piétons. (art. L412-1 à L412-2)](#58)
-        - [Chapitre 3 : Vitesse. (art. L413-1 à L413-5)](#59)
-        - [Chapitre 7 : Arrêt et stationnement. (art. L417-1)](#60)
-      - [Titre 3 : Dispositions complémentaires applicables à la circulation de certains véhicules (art. L431-1 à L433-1)](#61)
-        - [Chapitre 1er : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. L431-1)](#62)
-        - [Chapitre 3 : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque. (art. L433-1)](#63)
-      - [Titre 4 : Dispositions relatives à l'outre-mer (art. L441-1 à L444-1)](#64)
-        - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. L441-1 à L441-2)](#65)
-        - [Chapitre 2 : Dispositions applicables à Mayotte. (art. L442-1 à L442-2)](#66)
-        - [Chapitre 3 : Dispositions applicables à la Polynésie française. (art. L443-1)](#67)
-        - [Chapitre 4 : Dispositions applicables en Nouvelle-Calédonie. (art. L444-1)](#68)
-  - [Partie réglementaire (art. R110-1 à R442-7)](#69)
-    - [Livre Ier : Dispositions générales (art. R110-1 à R142-6)](#70)
-      - [Titre Ier : Définitions. (art. R110-1 à R110-3)](#71)
-      - [Titre II : Responsabilité. (art. R121-1 à R121-5)](#72)
-        - [Chapitre Ier : Responsabilité pénale. (art. R121-1 à R121-5)](#73)
-      - [Titre III : Recherche et constatation des infractions. (art. R130-1 à R130-10)](#74)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R141-1 à R142-6)](#75)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R141-1)](#76)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R142-1 à R142-6)](#77)
-    - [Livre II : Le conducteur. (art. R211-1 à R245-2)](#78)
-      - [Titre Ier : Enseignement de la conduite et de la sécurité routière. (art. R211-1 à D214-5)](#79)
-        - [Chapitre Ier : Formation à la conduite et à la sécurité routière (art. R211-1 à R211-6)](#80)
-          - [Section 1 : Attestations et brevet de sécurité routière. (art. R211-1 à R211-2)](#81)
-          - [Section 2 : Apprentissage de la conduite. (art. R211-3 à R211-6)](#82)
-        - [Chapitre II : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière. (art. R212-1 à R212-6)](#83)
-        - [Chapitre III : Etablissements d'enseignement et d'animation des stages de sensibilisation à la sécurité routière. (art. R213-1 à R213-9)](#84)
-          - [Section 1 : Etablissements d'enseignement à titre onéreux et d'animation des stages de sensibilisation à la sécurité routière. (art. R213-1 à R213-6)](#85)
-          - [Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle. (art. R213-7 à R213-9)](#86)
-        - [Chapitre IV  : Conseil supérieur de l'éducation routière (CSER) (art. D214-1 à D214-5)](#87)
-      - [Titre II : Permis de conduire. (art. D221-3 à R226-4)](#88)
-        - [Chapitre Ier : Délivrance et catégories. (art. D221-3 à R221-21)](#89)
-        - [Chapitre II : Reconnaissance et équivalences. (art. D222-8 à R222-7)](#90)
-        - [Chapitre III : Permis à points. (art. R223-1 à R223-13)](#91)
-          - [Section 1 : Principes généraux. (art. R223-1 à R223-4)](#92)
-          - [Section 2 : Des stages  de sensibilisation à la sécurité routière. (art. R223-5 à R223-13)](#93)
-        - [Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation (art. R224-1 à R224-24)](#94)
-          - [Section 1 : Rétention et suspension administratives après constatation d'une infraction. (art. R224-1 à R224-19)](#95)
-          - [Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation. (art. R224-20 à R224-24)](#96)
-        - [Chapitre V : Enregistrement et communication des informations relatives au permis de conduire. (art. R225-1 à R225-6)](#97)
-        - [Chapitre VI : Organisation du contrôle médical de l'aptitude à la conduite (art. R226-1 à R226-4)](#98)
-      - [Titre III : Comportement du conducteur. (art. R231-1 à R235-13)](#99)
-        - [Chapitre Ier : Comportement en cas d'accident. (art. R231-1)](#100)
-        - [Chapitre III : Comportement en cas de contrôle routier. (art. R233-1 à R233-3)](#101)
-        - [Chapitre IV : Conduite sous l'influence de l'alcool. (art. R234-1 à R234-7)](#102)
-        - [Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants (art. R235-1 à R235-13)](#103)
-          - [Section 1 : Dispositions générales (art. R235-1 à R235-2)](#104)
-          - [Section 2 : Epreuves de dépistage (art. R235-3 à R235-4)](#105)
-          - [Section 3 : Analyses et examens médicaux, cliniques et biologiques (art. R235-5 à R235-11)](#106)
-          - [Section 4 : Dispositions matérielles (art. R235-12 à R235-13)](#107)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R241-1 à R245-2)](#108)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R241-1 à R241-2)](#109)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R242-1 à R242-7)](#110)
-        - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie. (art. R243-1 à R243-2)](#111)
-        - [Chapitre IV : Dispositions applicables à la Polynésie française. (art. R244-1 à R244-2)](#112)
-        - [Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. R245-1 à R245-2)](#113)
-    - [Livre III : Le véhicule. (art. R311-1 à R344-4)](#114)
-      - [Titre Ier : Dispositions techniques. (art. R311-1 à R318-10)](#115)
-        - [Chapitre Ier : Dispositions générales et définitions. (art. R311-1 à R311-3)](#116)
-        - [Chapitre II : Poids et dimensions (art. R312-1 à R312-25)](#117)
-          - [Section 1 : Poids. (art. R312-1 à R312-9)](#118)
-          - [Section 2 : Dimensions des véhicules. (art. R312-10 à R312-18)](#119)
-          - [Section 3 : Dimensions et conditions du chargement. (art. R312-19 à R312-25)](#120)
-        - [Chapitre III : Eclairage et signalisations (art. R313-1 à R313-35)](#121)
-          - [Section 1 : Eclairage et signalisation des véhicules. (art. R313-1 à R313-32)](#122)
-          - [Section 2 : Signaux d'avertissement. (art. R313-33 à R313-35)](#123)
-        - [Chapitre IV : Pneumatiques. (art. R314-1 à R314-7)](#124)
-        - [Chapitre V : Freinage. (art. R315-1 à R315-6)](#125)
-        - [Chapitre VI : Organes de manoeuvre, de direction et de visibilité. (art. R316-1 à R316-10)](#126)
-        - [Chapitre VII : Dispositifs et aménagements particuliers (art. R317-1 à R317-28)](#127)
-          - [Section 1 : Appareils de contrôle et de limitation de la vitesse. (art. R317-1 à R317-7)](#128)
-          - [Section 2 : Plaques et inscriptions. (art. R317-8 à R317-14)](#129)
-          - [Section 3 : Dispositif antivol. (art. R317-15 à R317-17)](#130)
-          - [Section 4 : Attelage des remorques. (art. R317-18 à R317-20)](#131)
-          - [Section 5 : Remorquage des véhicules en panne ou accidentés. (art. R317-21 à R317-22)](#132)
-          - [Section 6 : Autres aménagements. (art. R317-23 à R317-28)](#133)
-        - [Chapitre VIII : Energie, émissions polluantes et nuisances. (art. R318-1 à R318-10)](#134)
-      - [Titre II : Dispositions administratives. (art. D321-5-1 à R327-6)](#135)
-        - [Chapitre Ier : Réception et homologation (art. D321-5-1 à R321-25)](#136)
-          - [Section 1 : Dispositions générales. (art. D321-5-1 à R321-5-3)](#137)
-          - [Section 2 : Réception communautaire ou réception CE. (art. R321-6 à R321-14-1)](#138)
-          - [Section 3 : Réception nationale par type ou à titre isolé et homologation. (art. R321-15 à R321-25)](#139)
-        - [Chapitre II : Immatriculation (art. R322-1 à R322-18)](#140)
-          - [Section 1 : Délivrance du certificat d'immatriculation. (art. R322-1 à R322-14)](#141)
-          - [Section 2 : Opposition au transfert du certificat d'immatriculation. (art. R322-15 à R322-18)](#142)
-        - [Chapitre III : Contrôle technique (art. R323-1 à R323-26)](#143)
-          - [Section 1 : Dispositions générales. (art. R323-1 à R323-5)](#144)
-          - [Section 2 : Agrément des contrôleurs, des installations et des réseaux (art. R323-6 à R323-21)](#145)
-          - [Section 3 : Dispositions applicables aux voitures particulières et aux camionnettes. (art. R323-22)](#146)
-          - [Section 4 : Dispositions applicables aux autres véhicules. (art. R323-23 à R323-26)](#147)
-        - [Chapitre V : Immobilisation et mise en fourrière (art. R325-1 à R325-52)](#148)
-          - [Section 1 : Dispositions générales. (art. R325-1 à R325-1-1)](#149)
-          - [Section 2 : Immobilisation. (art. R325-2 à R325-11)](#150)
-          - [Section 3 : Fourrière (art. R325-12 à R325-52)](#151)
-            - [Sous-section 1 : Dispositions générales. (art. R325-12 à R325-46)](#152)
-            - [Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique. (art. R325-47 à R325-52)](#153)
-        - [Chapitre VI : Organisation de la profession d'expert en automobile (art. R326-1 à R326-14)](#154)
-          - [Section 1 : Règles générales. (art. R326-1 à R326-4)](#155)
-          - [Section 2 : Conditions à remplir pour l'exercice de la profession d'expert en automobile et procédure disciplinaire. (art. D326-15 à R326-14)](#156)
-        - [Chapitre VII : Véhicules endommagés (art. R327-1 à R327-6)](#157)
-      - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-11)](#158)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R344-4)](#159)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R341-1)](#160)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R342-1 à R342-5)](#161)
-        - [Chapitre III : Dispositions applicables à la Polynésie française (art. R343-1 à R343-4)](#162)
-          - [Section 1 : Dispositions générales. (art. R343-1 à R343-1-1)](#163)
-          - [Section 2 : Immobilisation. (art. R343-2 à R343-3)](#164)
-          - [Section 3 : Fourrière. (art. R343-4)](#165)
-        - [Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie (art. R344-1 à R344-4)](#166)
-          - [Section 1 : Dispositions générales. (art. R344-1 à R344-1-1)](#167)
-          - [Section 2 : Immobilisation. (art. R344-2 à R344-3)](#168)
-          - [Section 3 : Fourrière. (art. R344-4)](#169)
-    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#170)
-      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#171)
-        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#172)
-          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#173)
-          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#174)
-          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-17 à R411-24)](#175)
-          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#176)
-          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#177)
-        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#178)
-          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#179)
-          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#180)
-          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#181)
-          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28)](#182)
-          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#183)
-          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#184)
-          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#185)
-          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#186)
-        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#187)
-          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#188)
-          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#189)
-        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#190)
-          - [Section 1 : Croisement. (art. R414-1 à R414-3)](#191)
-          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#192)
-        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#193)
-        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#194)
-          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#195)
-          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#196)
-          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#197)
-        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#198)
-          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#199)
-          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#200)
-        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#201)
-      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-5)](#202)
-        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-10)](#203)
-        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-5)](#204)
-      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R436-1)](#205)
-        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#206)
-        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#207)
-          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#208)
-          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#209)
-          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#210)
-        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-20)](#211)
-          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#212)
-          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#213)
-          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#214)
-          - [Section 4 : Transports de bois ronds (art. R433-9 à R433-16)](#215)
-          - [Section 5 : Accompagnement des transports exceptionnels. (art. R433-17 à R433-20)](#216)
-        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#217)
-        - [Chapitre V : Autres véhicules (art. R435-1 à R436-1)](#218)
-          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1)](#219)
-          - [Section 2 : Ensembles forains (art. R436-1)](#220)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#221)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#222)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#223)
+      - [Titre 2 : Permis de conduire (art. L221-1 à L225-9)](#17)
+        - [Chapitre 1er : Vérification d'aptitude, délivrance et catégories. (art. L221-1 à L221-10)](#18)
+        - [Chapitre 3 : Permis à points. (art. L223-1 à L223-9)](#19)
+        - [Chapitre  4 : Interdiction de délivrance, rétention, suspension et annulation. (art. L224-1 à L224-18)](#20)
+        - [Chapitre  5 : Enregistrement et communication des informations relatives au permis de conduire. (art. L225-1 à L225-9)](#21)
+      - [Titre 3 : Comportement du conducteur (art. L231-1 à L235-5)](#22)
+        - [Chapitre 1er : Comportement en cas d'accident. (art. L231-1 à L231-3)](#23)
+        - [Chapitre 2 : Atteintes involontaires aux personnes. (art. L232-1 à L232-3)](#24)
+        - [Chapitre 3 : Comportement en cas de contrôle routier. (art. L233-1 à L233-2)](#25)
+        - [Chapitre 4 : Conduite sous l'influence de l'alcool. (art. L234-1 à L234-18)](#26)
+        - [Chapitre 5 : Conduite après usage de substances ou plantes classées comme stupéfiants (art. L235-1 à L235-5)](#27)
+      - [Titre 4 : Dispositions relatives à l'outre-mer (art. L241-1 à L245-2)](#28)
+        - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. L241-1)](#29)
+        - [Chapitre 2 : Dispositions applicables à Mayotte. (art. L242-1 à L242-2)](#30)
+        - [Chapitre 3 : Dispositions applicables à la Nouvelle-Calédonie. (art. L243-1 à L243-2)](#31)
+        - [Chapitre 4 : Dispositions applicables à la Polynésie française. (art. L244-1 à L244-2)](#32)
+        - [Chapitre 5 : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. L245-1 à L245-2)](#33)
+    - [Livre 3 : Le véhicule (art. L311-1 à L344-2)](#34)
+      - [Titre 1er : Dispositions techniques (art. L311-1 à L318-4)](#35)
+        - [Chapitre 1er : Dispositions générales et définitions. (art. L311-1)](#36)
+        - [Chapitre 2 : Poids et dimensions. (art. L312-1)](#37)
+        - [Chapitre 7 : Dispositifs et aménagements particuliers. (art. L317-1 à L317-9)](#38)
+        - [Chapitre 8 : Energie, émissions polluantes et nuisances. (art. L318-1 à L318-4)](#39)
+      - [Titre 2 : Dispositions administratives (art. L321-1 à L327-6)](#40)
+        - [Chapitre 1er : Réception et homologation. (art. L321-1 à L321-6)](#41)
+        - [Chapitre 2 : Immatriculation. (art. L322-1 à L322-3)](#42)
+        - [Chapitre 3 : Contrôle technique. (art. L323-1)](#43)
+        - [Chapitre 4 : Assurance. (art. L324-1 à L324-2)](#44)
+        - [Chapitre 5 : Immobilisation et mise en fourrière. (art. L325-1 à L325-13)](#45)
+        - [Chapitre 6 : Organisation de la profession d'expert en automobile. (art. L326-1 à L326-9)](#46)
+        - [Chapitre 7 : Véhicules endommagés. (art. L327-1 à L327-6)](#47)
+      - [Titre 3 : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. L330-1 à L330-8)](#48)
+      - [Titre 4 : Dispositions relatives à l'outre-mer (art. L341-1 à L344-2)](#49)
+        - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. L341-1)](#50)
+        - [Chapitre 2 : Dispositions applicables à Mayotte. (art. L342-1 à L342-3)](#51)
+        - [Chapitre 3 : Dispositions applicables à la Polynésie française. (art. L343-1)](#52)
+        - [Chapitre 4 : Dispositions applicables en Nouvelle-Calédonie. (art. L344-1 à L344-2)](#53)
+    - [Livre 4 : L'usage des voies (art. L411-1 à L444-1)](#54)
+      - [Titre 1er : Dispositions générales (art. L411-1 à L417-1)](#55)
+        - [Chapitre 1er : Pouvoirs de police de la circulation. (art. L411-1 à L411-7)](#56)
+        - [Chapitre 2 : Conduite des véhicules et circulation des piétons. (art. L412-1 à L412-2)](#57)
+        - [Chapitre 3 : Vitesse. (art. L413-1 à L413-5)](#58)
+        - [Chapitre 7 : Arrêt et stationnement. (art. L417-1)](#59)
+      - [Titre 3 : Dispositions complémentaires applicables à la circulation de certains véhicules (art. L431-1 à L433-1)](#60)
+        - [Chapitre 1er : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. L431-1)](#61)
+        - [Chapitre 3 : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque. (art. L433-1)](#62)
+      - [Titre 4 : Dispositions relatives à l'outre-mer (art. L441-1 à L444-1)](#63)
+        - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. L441-1 à L441-2)](#64)
+        - [Chapitre 2 : Dispositions applicables à Mayotte. (art. L442-1 à L442-2)](#65)
+        - [Chapitre 3 : Dispositions applicables à la Polynésie française. (art. L443-1)](#66)
+        - [Chapitre 4 : Dispositions applicables en Nouvelle-Calédonie. (art. L444-1)](#67)
+  - [Partie réglementaire (art. R110-1 à R442-7)](#68)
+    - [Livre Ier : Dispositions générales (art. R110-1 à R142-6)](#69)
+      - [Titre Ier : Définitions. (art. R110-1 à R110-3)](#70)
+      - [Titre II : Responsabilité. (art. R121-1 à R121-5)](#71)
+        - [Chapitre Ier : Responsabilité pénale. (art. R121-1 à R121-5)](#72)
+      - [Titre III : Recherche et constatation des infractions. (art. R130-1 à R130-10)](#73)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R141-1 à R142-6)](#74)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R141-1)](#75)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R142-1 à R142-6)](#76)
+    - [Livre II : Le conducteur. (art. R211-1 à R245-2)](#77)
+      - [Titre Ier : Enseignement de la conduite et de la sécurité routière. (art. R211-1 à D214-5)](#78)
+        - [Chapitre Ier : Formation à la conduite et à la sécurité routière (art. R211-1 à R211-6)](#79)
+          - [Section 1 : Attestations et brevet de sécurité routière. (art. R211-1 à R211-2)](#80)
+          - [Section 2 : Apprentissage de la conduite. (art. R211-3 à R211-6)](#81)
+        - [Chapitre II : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière. (art. R212-1 à R212-6)](#82)
+        - [Chapitre III : Etablissements d'enseignement et d'animation des stages de sensibilisation à la sécurité routière. (art. R213-1 à R213-9)](#83)
+          - [Section 1 : Etablissements d'enseignement à titre onéreux et d'animation des stages de sensibilisation à la sécurité routière. (art. R213-1 à R213-6)](#84)
+          - [Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle. (art. R213-7 à R213-9)](#85)
+        - [Chapitre IV  : Conseil supérieur de l'éducation routière (CSER) (art. D214-1 à D214-5)](#86)
+      - [Titre II : Permis de conduire. (art. D221-3 à R226-4)](#87)
+        - [Chapitre Ier : Délivrance et catégories. (art. D221-3 à R221-21)](#88)
+        - [Chapitre II : Reconnaissance et équivalences. (art. D222-8 à R222-7)](#89)
+        - [Chapitre III : Permis à points. (art. R223-1 à R223-13)](#90)
+          - [Section 1 : Principes généraux. (art. R223-1 à R223-4)](#91)
+          - [Section 2 : Des stages  de sensibilisation à la sécurité routière. (art. R223-5 à R223-13)](#92)
+        - [Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation (art. R224-1 à R224-24)](#93)
+          - [Section 1 : Rétention et suspension administratives après constatation d'une infraction. (art. R224-1 à R224-19)](#94)
+          - [Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation. (art. R224-20 à R224-24)](#95)
+        - [Chapitre V : Enregistrement et communication des informations relatives au permis de conduire. (art. R225-1 à R225-6)](#96)
+        - [Chapitre VI : Organisation du contrôle médical de l'aptitude à la conduite (art. R226-1 à R226-4)](#97)
+      - [Titre III : Comportement du conducteur. (art. R231-1 à R235-13)](#98)
+        - [Chapitre Ier : Comportement en cas d'accident. (art. R231-1)](#99)
+        - [Chapitre III : Comportement en cas de contrôle routier. (art. R233-1 à R233-3)](#100)
+        - [Chapitre IV : Conduite sous l'influence de l'alcool. (art. R234-1 à R234-7)](#101)
+        - [Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants (art. R235-1 à R235-13)](#102)
+          - [Section 1 : Dispositions générales (art. R235-1 à R235-2)](#103)
+          - [Section 2 : Epreuves de dépistage (art. R235-3 à R235-4)](#104)
+          - [Section 3 : Analyses et examens médicaux, cliniques et biologiques (art. R235-5 à R235-11)](#105)
+          - [Section 4 : Dispositions matérielles (art. R235-12 à R235-13)](#106)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R241-1 à R245-2)](#107)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R241-1 à R241-2)](#108)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R242-1 à R242-7)](#109)
+        - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie. (art. R243-1 à R243-2)](#110)
+        - [Chapitre IV : Dispositions applicables à la Polynésie française. (art. R244-1 à R244-2)](#111)
+        - [Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. R245-1 à R245-2)](#112)
+    - [Livre III : Le véhicule. (art. R311-1 à R344-4)](#113)
+      - [Titre Ier : Dispositions techniques. (art. R311-1 à R318-10)](#114)
+        - [Chapitre Ier : Dispositions générales et définitions. (art. R311-1 à R311-3)](#115)
+        - [Chapitre II : Poids et dimensions (art. R312-1 à R312-25)](#116)
+          - [Section 1 : Poids. (art. R312-1 à R312-9)](#117)
+          - [Section 2 : Dimensions des véhicules. (art. R312-10 à R312-18)](#118)
+          - [Section 3 : Dimensions et conditions du chargement. (art. R312-19 à R312-25)](#119)
+        - [Chapitre III : Eclairage et signalisations (art. R313-1 à R313-35)](#120)
+          - [Section 1 : Eclairage et signalisation des véhicules. (art. R313-1 à R313-32)](#121)
+          - [Section 2 : Signaux d'avertissement. (art. R313-33 à R313-35)](#122)
+        - [Chapitre IV : Pneumatiques. (art. R314-1 à R314-7)](#123)
+        - [Chapitre V : Freinage. (art. R315-1 à R315-6)](#124)
+        - [Chapitre VI : Organes de manoeuvre, de direction et de visibilité. (art. R316-1 à R316-10)](#125)
+        - [Chapitre VII : Dispositifs et aménagements particuliers (art. R317-1 à R317-28)](#126)
+          - [Section 1 : Appareils de contrôle et de limitation de la vitesse. (art. R317-1 à R317-7)](#127)
+          - [Section 2 : Plaques et inscriptions. (art. R317-8 à R317-14)](#128)
+          - [Section 3 : Dispositif antivol. (art. R317-15 à R317-17)](#129)
+          - [Section 4 : Attelage des remorques. (art. R317-18 à R317-20)](#130)
+          - [Section 5 : Remorquage des véhicules en panne ou accidentés. (art. R317-21 à R317-22)](#131)
+          - [Section 6 : Autres aménagements. (art. R317-23 à R317-28)](#132)
+        - [Chapitre VIII : Energie, émissions polluantes et nuisances. (art. R318-1 à R318-10)](#133)
+      - [Titre II : Dispositions administratives. (art. D321-5-1 à R327-6)](#134)
+        - [Chapitre Ier : Réception et homologation (art. D321-5-1 à R321-25)](#135)
+          - [Section 1 : Dispositions générales. (art. D321-5-1 à R321-5-3)](#136)
+          - [Section 2 : Réception communautaire ou réception CE. (art. R321-6 à R321-14-1)](#137)
+          - [Section 3 : Réception nationale par type ou à titre isolé et homologation. (art. R321-15 à R321-25)](#138)
+        - [Chapitre II : Immatriculation (art. R322-1 à R322-18)](#139)
+          - [Section 1 : Délivrance du certificat d'immatriculation. (art. R322-1 à R322-14)](#140)
+          - [Section 2 : Opposition au transfert du certificat d'immatriculation. (art. R322-15 à R322-18)](#141)
+        - [Chapitre III : Contrôle technique (art. R323-1 à R323-26)](#142)
+          - [Section 1 : Dispositions générales. (art. R323-1 à R323-5)](#143)
+          - [Section 2 : Agrément des contrôleurs, des installations et des réseaux (art. R323-6 à R323-21)](#144)
+          - [Section 3 : Dispositions applicables aux voitures particulières et aux camionnettes. (art. R323-22)](#145)
+          - [Section 4 : Dispositions applicables aux autres véhicules. (art. R323-23 à R323-26)](#146)
+        - [Chapitre V : Immobilisation et mise en fourrière (art. R325-1 à R325-52)](#147)
+          - [Section 1 : Dispositions générales. (art. R325-1 à R325-1-1)](#148)
+          - [Section 2 : Immobilisation. (art. R325-2 à R325-11)](#149)
+          - [Section 3 : Fourrière (art. R325-12 à R325-52)](#150)
+            - [Sous-section 1 : Dispositions générales. (art. R325-12 à R325-46)](#151)
+            - [Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique. (art. R325-47 à R325-52)](#152)
+        - [Chapitre VI : Organisation de la profession d'expert en automobile (art. R326-1 à R326-14)](#153)
+          - [Section 1 : Règles générales. (art. R326-1 à R326-4)](#154)
+          - [Section 2 : Conditions à remplir pour l'exercice de la profession d'expert en automobile et procédure disciplinaire. (art. D326-15 à R326-14)](#155)
+        - [Chapitre VII : Véhicules endommagés (art. R327-1 à R327-6)](#156)
+      - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules. (art. R330-1 à R330-11)](#157)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R341-1 à R344-4)](#158)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R341-1)](#159)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R342-1 à R342-5)](#160)
+        - [Chapitre III : Dispositions applicables à la Polynésie française (art. R343-1 à R343-4)](#161)
+          - [Section 1 : Dispositions générales. (art. R343-1 à R343-1-1)](#162)
+          - [Section 2 : Immobilisation. (art. R343-2 à R343-3)](#163)
+          - [Section 3 : Fourrière. (art. R343-4)](#164)
+        - [Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie (art. R344-1 à R344-4)](#165)
+          - [Section 1 : Dispositions générales. (art. R344-1 à R344-1-1)](#166)
+          - [Section 2 : Immobilisation. (art. R344-2 à R344-3)](#167)
+          - [Section 3 : Fourrière. (art. R344-4)](#168)
+    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#169)
+      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#170)
+        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#171)
+          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#172)
+          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#173)
+          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-17 à R411-24)](#174)
+          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#175)
+          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#176)
+        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#177)
+          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#178)
+          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#179)
+          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#180)
+          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28)](#181)
+          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#182)
+          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#183)
+          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#184)
+          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#185)
+        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#186)
+          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#187)
+          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#188)
+        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#189)
+          - [Section 1 : Croisement. (art. R414-1 à R414-3)](#190)
+          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#191)
+        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#192)
+        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#193)
+          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#194)
+          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#195)
+          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#196)
+        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#197)
+          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#198)
+          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#199)
+        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#200)
+      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-5)](#201)
+        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-10)](#202)
+        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-5)](#203)
+      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R436-1)](#204)
+        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#205)
+        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#206)
+          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#207)
+          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#208)
+          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#209)
+        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-20)](#210)
+          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#211)
+          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#212)
+          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#213)
+          - [Section 4 : Transports de bois ronds (art. R433-9 à R433-16)](#214)
+          - [Section 5 : Accompagnement des transports exceptionnels. (art. R433-17 à R433-20)](#215)
+        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#216)
+        - [Chapitre V : Autres véhicules (art. R435-1 à R436-1)](#217)
+          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1)](#218)
+          - [Section 2 : Ensembles forains (art. R436-1)](#219)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#220)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#221)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#222)
 # Partie législative<a id=1></a>
 
 ## Livre 1er : Dispositions générales<a id=2></a>
@@ -975,8 +974,8 @@ _Cite_:
 ###### Article L130-8
 
 Les agents de la concurrence, de la consommation et de la répression des fraudes sont habilités à rechercher et à constater
-les infractions prévues aux articles L. 317-5 et L. 413-2. A cet effet, ils disposent des pouvoirs prévus au livre II du code
-de la consommation.
+les infractions prévues aux articles L. 317-5, L. 318-3 et L. 413-2. A cet effet, ils disposent des pouvoirs prévus au livre
+II du code de la consommation.
 
 **Liens relatifs à cet article**
 
@@ -987,12 +986,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 94
+  - Loi n°2015-992 du 17 août 2015 - art. 58
 
 _Cite_:
 
   - Code de la route. - art. L317-5 (V)
-  - Code de la route. - art. L413-2 (V)
+  - Code de la route. - art. L318-3 (V)
+  - Code de la route. - art. L413-2
 
 _Cité par_:
 
@@ -2190,9 +2190,7 @@ _Cite_:
 
 ### Titre 2 : Permis de conduire<a id=17></a>
 
-#### Chapitre 1er : Délivrance et catégories.<a id=18></a>
-
-#### Chapitre 1er : Vérification d'aptitude, délivrance et catégories.<a id=19></a>
+#### Chapitre 1er : Vérification d'aptitude, délivrance et catégories.<a id=18></a>
 
 ###### Article L221-1
 
@@ -2513,7 +2511,7 @@ _Cite_:
   - Code de la route. - art. L221-4 (V)
 
 
-#### Chapitre 3 : Permis à points.<a id=20></a>
+#### Chapitre 3 : Permis à points.<a id=19></a>
 
 ###### Article L223-1
 
@@ -2956,7 +2954,7 @@ _Créé par_:
   - Loi n°2011-267 du 14 mars 2011 - art. 77
 
 
-#### Chapitre  4 : Interdiction de délivrance, rétention, suspension et annulation.<a id=21></a>
+#### Chapitre  4 : Interdiction de délivrance, rétention, suspension et annulation.<a id=20></a>
 
 ###### Article L224-1
 
@@ -3620,7 +3618,7 @@ _Cité par_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-#### Chapitre  5 : Enregistrement et communication des informations relatives au permis de conduire.<a id=22></a>
+#### Chapitre  5 : Enregistrement et communication des informations relatives au permis de conduire.<a id=21></a>
 
 ###### Article L225-1
 
@@ -3975,9 +3973,9 @@ _Cite_:
   - Code de la route. - art. L225-1 (V)
 
 
-### Titre 3 : Comportement du conducteur<a id=23></a>
+### Titre 3 : Comportement du conducteur<a id=22></a>
 
-#### Chapitre 1er : Comportement en cas d'accident.<a id=24></a>
+#### Chapitre 1er : Comportement en cas d'accident.<a id=23></a>
 
 ###### Article L231-1
 
@@ -4115,7 +4113,7 @@ _Cite_:
   - Code de la route. - art. L231-1 (V)
 
 
-#### Chapitre 2 : Atteintes involontaires aux personnes.<a id=25></a>
+#### Chapitre 2 : Atteintes involontaires aux personnes.<a id=24></a>
 
 ###### Article L232-1
 
@@ -4428,7 +4426,7 @@ _Anciens textes_:
   - Code de la route. - art. L232-1 (T)
 
 
-#### Chapitre 3 : Comportement en cas de contrôle routier.<a id=26></a>
+#### Chapitre 3 : Comportement en cas de contrôle routier.<a id=25></a>
 
 ###### Article L233-1
 
@@ -4614,7 +4612,7 @@ _Anciens textes_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-#### Chapitre 4 : Conduite sous l'influence de l'alcool.<a id=27></a>
+#### Chapitre 4 : Conduite sous l'influence de l'alcool.<a id=26></a>
 
 ###### Article L234-1
 
@@ -5332,7 +5330,7 @@ _Cite_:
   - Code de la route. - art. L234-5
 
 
-#### Chapitre 5 : Conduite après usage de substances ou plantes classées comme stupéfiants<a id=28></a>
+#### Chapitre 5 : Conduite après usage de substances ou plantes classées comme stupéfiants<a id=27></a>
 
 ###### Article L235-1
 
@@ -5631,9 +5629,9 @@ _Cite_:
   - Code de la route. - art. L235-2
 
 
-### Titre 4 : Dispositions relatives à l'outre-mer<a id=29></a>
+### Titre 4 : Dispositions relatives à l'outre-mer<a id=28></a>
 
-#### Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=30></a>
+#### Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=29></a>
 
 ###### Article L241-1
 
@@ -5648,7 +5646,7 @@ _Codifié par_:
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
 
-#### Chapitre 2 : Dispositions applicables à Mayotte.<a id=31></a>
+#### Chapitre 2 : Dispositions applicables à Mayotte.<a id=30></a>
 
 ###### Article L242-1
 
@@ -5696,7 +5694,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
 
 
-#### Chapitre 3 : Dispositions applicables à la Nouvelle-Calédonie.<a id=32></a>
+#### Chapitre 3 : Dispositions applicables à la Nouvelle-Calédonie.<a id=31></a>
 
 ###### Article L243-1
 
@@ -5833,7 +5831,7 @@ _Cite_:
   - Code de la route. - art. L235-4 (V)
 
 
-#### Chapitre 4 : Dispositions applicables à la Polynésie française.<a id=33></a>
+#### Chapitre 4 : Dispositions applicables à la Polynésie française.<a id=32></a>
 
 ###### Article L244-1
 
@@ -5968,7 +5966,7 @@ _Cite_:
   - Code de la route. - art. L235-4 (V)
 
 
-#### Chapitre 5 : Dispositions applicables au territoire des îles Wallis-et-Futuna.<a id=34></a>
+#### Chapitre 5 : Dispositions applicables au territoire des îles Wallis-et-Futuna.<a id=33></a>
 
 ###### Article L245-1
 
@@ -6102,11 +6100,11 @@ _Cite_:
   - Code de la route. - art. L235-4 (V)
 
 
-## Livre 3 : Le véhicule<a id=35></a>
+## Livre 3 : Le véhicule<a id=34></a>
 
-### Titre 1er : Dispositions techniques<a id=36></a>
+### Titre 1er : Dispositions techniques<a id=35></a>
 
-#### Chapitre 1er : Dispositions générales et définitions.<a id=37></a>
+#### Chapitre 1er : Dispositions générales et définitions.<a id=36></a>
 
 ###### Article L311-1
 
@@ -6146,7 +6144,7 @@ _Anciens textes_:
   - Code de la route L8A
 
 
-#### Chapitre 2 : Poids et dimensions.<a id=38></a>
+#### Chapitre 2 : Poids et dimensions.<a id=37></a>
 
 ###### Article L312-1
 
@@ -6161,7 +6159,7 @@ _Créé par_:
   - Loi n°2012-387 du 22 mars 2012 - art. 92
 
 
-#### Chapitre 7 : Dispositifs et aménagements particuliers.<a id=39></a>
+#### Chapitre 7 : Dispositifs et aménagements particuliers.<a id=38></a>
 
 ###### Article L317-1
 
@@ -6501,7 +6499,7 @@ _Créé par_:
   - Loi n°2015-990 du 6 août 2015 - art. 3
 
 
-#### Chapitre 8 : Energie, émissions polluantes et nuisances.<a id=40></a>
+#### Chapitre 8 : Energie, émissions polluantes et nuisances.<a id=39></a>
 
 ###### Article L318-1
 
@@ -6514,8 +6512,11 @@ La consommation énergétique des véhicules et ses méthodes de mesure doivent 
 leur location. 
 
 Les véhicules à moteur font l'objet d'une identification fondée sur leur contribution à la limitation de la pollution
-atmosphérique. Les véhicules ainsi identifiés peuvent notamment bénéficier de conditions de circulation et de stationnement
-privilégiées. 
+atmosphérique et sur leur sobriété énergétique. Dans des conditions fixées par l'autorité chargée de la police de la
+circulation et du stationnement, les véhicules à très faibles émissions, en référence à des critères déterminés par décret,
+peuvent notamment bénéficier de conditions de circulation et de stationnement privilégiées. 
+
+Cette identification est renouvelée lors du contrôle technique mentionné à l'article L. 323-1 du présent code. 
 
 Des décrets en Conseil d'Etat déterminent les conditions d'application du présent article.
 
@@ -6543,12 +6544,17 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
+
+_Modifié par_:
+
+  - Loi n°2015-992 du 17 août 2015 - art. 37 (V)
 
 _Cite_:
 
-  - Code de l'environnement - art. L220-2 (V)
+  - Code de l'environnement - art. L220-2
+  - Code de la route. - art. L323-1 (V)
 
 **Liens**:
 
@@ -6560,64 +6566,36 @@ _Anciens textes_:
   - Code de la route L8A
 
 
-###### Article L318-2
-
-Sous réserve des contraintes liées aux nécessités du service, l'Etat, les établissements publics, les entreprises nationales,
-pour leurs activités n'appartenant pas au secteur concurrentiel, ainsi que les collectivités territoriales et leurs
-groupements, lorsqu'ils gèrent directement ou indirectement une flotte de plus de vingt véhicules, acquièrent ou utilisent,
-lors du renouvellement de leur parc automobile, dans la proportion minimale de 20 %, des véhicules fonctionnant à l'énergie
-électrique, au gaz de pétrole liquéfié ou au gaz naturel. Cette mesure s'applique à l'ensemble des véhicules desdits parcs
-automobiles, à l'exception de ceux dont le poids total autorisé en charge excède 3,5 tonnes.
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 du 12 juin 2003
-
-_Abrogé par_:
-
-  - Loi n°2015-992 du 17 août 2015 - art. 37
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de l'environnement - art. L224-5 (V)
-
-_Anciens textes_:
-
-  - Code de la route - art. L8 B (Ab)
-  - Code de la route L8B
-
-_Cité par_:
-
-  - Code de la route. - art. R318-7 (Ab)
-  - Code de la route. - art. R318-8 (Ab)
-
-
 ###### Article L318-3
 
-Sous réserve des contraintes liées aux nécessités du service, l'Etat, les établissements publics, les entreprises nationales,
-pour leurs activités n'appartenant pas au secteur concurrentiel, ainsi que les collectivités territoriales et leurs
-groupements, lorsqu'ils gèrent directement ou indirectement une flotte de plus de vingt véhicules à usage de transport public
-en commun de voyageurs, utilisent des véhicules fonctionnant à l'aide de carburants dont le taux minimal d'oxygène a été
-relevé. Cette mesure s'applique dans les périmètres de transports urbains des agglomérations de plus de 100 000 habitants
-définies au deuxième alinéa de l'article L. 221-2 du code de l'environnement. 
+I.-Est puni d'une amende de 7 500 € le fait de réaliser sur un véhicule des transformations ayant pour effet de supprimer un
+dispositif de maîtrise de la pollution, d'en dégrader la performance ou de masquer son éventuel dysfonctionnement, ou de se
+livrer à la propagande ou à la publicité, quel qu'en soit le mode, en faveur de ces transformations. 
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+II.-Les personnes physiques coupables du délit mentionné au I du présent article encourent également la peine complémentaire
+d'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, d'exercer l'activité professionnelle ou
+sociale dans l'exercice ou à l'occasion de l'exercice de laquelle le délit a été commis, pour une durée maximale d'un an. 
+
+III.-Les personnes morales déclarées pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, du
+délit défini au I du présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 du code
+pénal, les peines prévues aux 4°, 5°, 8° et 9° de l'article 131-39 du même code.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
+
+_Modifié par_:
+
+  - Loi n°2015-992 du 17 août 2015 - art. 58
 
 _Cite_:
 
-  - Code de l'environnement - art. L221-2 (V)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
 
 **Liens**:
 
@@ -6626,7 +6604,6 @@ _Cite_:
 _Anciens textes_:
 
   - Code de la route - art. L8 C (Ab)
-  - Code de la route L8C
 
 _Cité par_:
 
@@ -6637,7 +6614,7 @@ _Cité par_:
 
 Les mesures prévues aux articles L. 121-4, 
 L. 325-1 à L. 325-3 et L. 325-6 à L. 325-9 sont applicables aux véhicules en infraction aux dispositions des articles L.
-311-1 et L. 318-1 à L. 318-3 ou aux textes pris pour leur application.
+311-1, L. 318-1 et L. 318-3 ou aux textes pris pour leur application.
 
 **Liens relatifs à cet article**
 
@@ -6647,8 +6624,18 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
+
+_Modifié par_:
+
+  - Loi n°2015-992 du 17 août 2015 - art. 58
+
+_Cite_:
+
+  - Code de la route. - art. L121-4
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. L325-6
 
 **Liens**:
 
@@ -6661,18 +6648,10 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. L325-8 (M)
   - SPEC_APPLI: Code de la route. - art. L325-9 (M)
 
-_Cite_:
 
-  - Code de la route. - art. L121-4 (V)
-  - Code de la route. - art. L311-1 (V)
-  - Code de la route. - art. L318-1 (V)
-  - Code de la route. - art. L325-1 (V)
-  - Code de la route. - art. L325-6 (V)
+### Titre 2 : Dispositions administratives<a id=40></a>
 
-
-### Titre 2 : Dispositions administratives<a id=41></a>
-
-#### Chapitre 1er : Réception et homologation.<a id=42></a>
+#### Chapitre 1er : Réception et homologation.<a id=41></a>
 
 ###### Article L321-1
 
@@ -6905,7 +6884,7 @@ _Cite_:
   - Code de la route. - art. L321-1-1
 
 
-#### Chapitre 2 : Immatriculation.<a id=43></a>
+#### Chapitre 2 : Immatriculation.<a id=42></a>
 
 ###### Article L322-1
 
@@ -6976,7 +6955,7 @@ _Créé par_:
   - Loi n°2011-1862 du 13 décembre 2011 - art. 31
 
 
-#### Chapitre 3 : Contrôle technique.<a id=44></a>
+#### Chapitre 3 : Contrôle technique.<a id=43></a>
 
 ###### Article L323-1
 
@@ -7042,7 +7021,7 @@ _Modifié par_:
   - Loi n°2009-179 du 17 février 2009 - art. 38
 
 
-#### Chapitre 4 : Assurance.<a id=45></a>
+#### Chapitre 4 : Assurance.<a id=44></a>
 
 ###### Article L324-1
 
@@ -7153,7 +7132,7 @@ _Cite_:
   - Code de la route. - art. L325-1 (V)
 
 
-#### Chapitre 5 : Immobilisation et mise en fourrière.<a id=46></a>
+#### Chapitre 5 : Immobilisation et mise en fourrière.<a id=45></a>
 
 ###### Article L325-1
 
@@ -7817,7 +7796,7 @@ _Modifié par_:
   - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
-#### Chapitre 6 : Organisation de la profession d'expert en automobile.<a id=47></a>
+#### Chapitre 6 : Organisation de la profession d'expert en automobile.<a id=46></a>
 
 ###### Article L326-1
 
@@ -8117,7 +8096,7 @@ _Cité par_:
   - Code de la route. - art. R327-12 (Ab)
 
 
-#### Chapitre 7 : Véhicules endommagés.<a id=48></a>
+#### Chapitre 7 : Véhicules endommagés.<a id=47></a>
 
 ###### Article L327-1
 
@@ -8168,10 +8147,12 @@ _Anciens textes_:
 ###### Article L327-2
 
 En cas d'accord du propriétaire de céder le véhicule à l'assureur, celui-ci transmet le certificat d'immatriculation du
-véhicule             à l'autorité administrative compétente.
+véhicule à l'autorité administrative compétente.
 
 L'assureur doit vendre le véhicule à un acheteur professionnel pour destruction, réparation ou récupération des pièces en vue
-de leur revente ou reconstruction. 
+de leur revente ou reconstruction. Lorsqu'il s'agit d'une voiture particulière ou d'une camionnette destinée à la destruction
+ou à la récupération des pièces en vue de leur revente ou reconstruction, l'assureur remet le véhicule à un centre de
+véhicules hors d'usage agréé.
 
 En cas de réparation du véhicule, celui-ci ne peut être remis en circulation et faire l'objet d'une réimmatriculation qu'au
 vu du rapport d'expertise certifiant que ledit véhicule a fait l'objet des réparations touchant à la sécurité prévues par le
@@ -8181,7 +8162,7 @@ premier rapport d'expertise et qu'il est en état de circuler dans des condition
 
 _Modifié par_:
 
-  - Décret n°2009-397 du 10 avril 2009 - art. 1
+  - Loi n°2015-992 du 17 août 2015 - art. 77
 
 _Cité par_:
 
@@ -8310,7 +8291,7 @@ _Cité par_:
   - Code de la route. - art. R326-5 (V)
 
 
-### Titre 3 : Enregistrement et communication des informations relatives à la circulation des véhicules.<a id=49></a>
+### Titre 3 : Enregistrement et communication des informations relatives à la circulation des véhicules.<a id=48></a>
 
 ###### Article L330-1
 
@@ -8378,8 +8359,8 @@ infractions ;
 
 6° Aux préfets, pour l'exercice de leurs compétences en matière de circulation des véhicules ; 
 
-7° Aux services du ministre de l'intérieur, du ministre de la défense, du ministre chargé de l'industrie et du ministre
-chargé des transports pour l'exercice de leurs compétences ; 
+7° Aux services du ministre de l'intérieur, du ministre de la défense, du ministre chargé de l'écologie, du ministre chargé
+de l'industrie et du ministre chargé des transports pour l'exercice de leurs compétences ; 
 
 8° Aux entreprises d'assurances garantissant les dommages subis par des tiers résultant d'atteintes aux personnes ou aux
 biens dans la réalisation desquels un véhicule à moteur, ainsi que ses remorques, est impliqué et aux organismes assimilés à
@@ -8390,9 +8371,8 @@ charge l'indemnisation d'une des victimes ;
 9° Aux autorités étrangères avec lesquelles existe un accord d'échange d'informations relatives à l'identification du
 titulaire du certificat d'immatriculation ; 
 
-9° bis Aux services compétents des Etats membres, pour l'application de la directive 2011/82/ UE du Parlement européen et du
-Conseil du 25 octobre 2011 facilitant l'échange transfrontalier d'informations concernant les infractions en matière de
-sécurité routière ; 
+9° bis Aux services compétents des Etats membres, pour l'application des instruments de l'Union européenne destinés à
+faciliter l'échange transfrontalier d'informations concernant les infractions en matière de sécurité routière ; 
 
 10° Aux services compétents en matière d'immatriculation des Etats membres de l'Union européenne et aux autres Etats parties
 à l'accord sur l'Espace économique européen, dans le cadre des dispositions prévoyant un échange d'informations relatives à
@@ -8421,7 +8401,13 @@ qu'aux articles L. 2241-1, L. 4321-3, L. 4272-1,
 L. 5243-1 et L. 5337-2 du code des transports habilités à dresser procès-verbal de contravention de grande voirie en
 application de ces mêmes codes et aux personnels de Voies navigables de France mentionnés à l'article L. 4272-2 du code des
 transports habilités à constater les infractions définies par les règlements de police de la navigation intérieure, aux
-seules fins d'identifier le titulaire du certificat d'immatriculation. 
+seules fins d'identifier le titulaire du certificat d'immatriculation ; 
+
+16° Au maire dans le cadre des attributions prévues aux articles L. 541-21-3 et L. 541-21-4 du code de l'environnement, aux
+seules fins d'identifier le titulaire du certificat d'immatriculation ; 
+
+17° Aux personnels habilités du prestataire autorisé par l'Etat aux seules fins d'établir et de délivrer le dispositif
+d'identification des véhicules prévu à l'article L. 318-1 du présent code. 
 
 II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la
 réalité du sinistre. 
@@ -8456,8 +8442,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (M)
-  - Loi n°2013-619 du 16 juillet 2013 - art. 35
+  - Loi n°2015-992 du 17 août 2015 - art. 37
+  - Loi n°2015-992 du 17 août 2015 - art. 77
 
 _Anciens textes_:
 
@@ -8466,9 +8452,11 @@ _Anciens textes_:
 
 _Cite_:
 
+  - Code général de la propriété des personnes publ... - art. L2132-23 (V)
   - Code général de la propriété des personnes publiques. - art. L2132-21
-  - Code général de la propriété des personnes publiques. - art. L2132-23
   - Code de procédure pénale - art. 14
+  - Code de l'environnement - art. L541-21-3 (V)
+  - Code de l'environnement - art. L541-21-4 (V)
   - Code de la route. - art. L130-4
   - Code de la route. - art. L130-7
   - Code des transports - art. L2241-1
@@ -8697,9 +8685,9 @@ _Cite_:
   - Code de la route. - art. L330-2
 
 
-### Titre 4 : Dispositions relatives à l'outre-mer<a id=50></a>
+### Titre 4 : Dispositions relatives à l'outre-mer<a id=49></a>
 
-#### Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=51></a>
+#### Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=50></a>
 
 ###### Article L341-1
 
@@ -8714,7 +8702,7 @@ _Codifié par_:
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
 
-#### Chapitre 2 : Dispositions applicables à Mayotte.<a id=52></a>
+#### Chapitre 2 : Dispositions applicables à Mayotte.<a id=51></a>
 
 ###### Article L342-1
 
@@ -8745,27 +8733,26 @@ _Codifié par_:
 
 ###### Article L342-2
 
-Les dispositions législatives du présent livre sont applicables à Mayotte, à l'exception des articles L. 318-1 à L. 318-3.
+Les dispositions législatives du présent livre sont applicables à Mayotte, à l'exception des articles L. 318-1 et L. 318-3.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Ordonnance 92-256 1992-03-04 art. 1
   - Ordonnance no 92-256 du 4 mars 1992 portant extens - art. 1 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+  - Loi n°2015-992 du 17 août 2015 - art. 37 (V)
 
 _Cite_:
 
-  - Code de la route. - art. L318-1 (V)
+  - Code de la route. - art. L318-1
 
 
 ###### Article L342-3
@@ -8797,7 +8784,7 @@ _Cite_:
   - Code des assurances - art. L214-1 (V)
 
 
-#### Chapitre 3 : Dispositions applicables à la Polynésie française.<a id=53></a>
+#### Chapitre 3 : Dispositions applicables à la Polynésie française.<a id=52></a>
 
 ###### Article L343-1
 
@@ -8937,7 +8924,7 @@ _Cité par_:
   - Code de la route. - art. R343-1-1 (V)
 
 
-#### Chapitre 4 : Dispositions applicables en Nouvelle-Calédonie.<a id=54></a>
+#### Chapitre 4 : Dispositions applicables en Nouvelle-Calédonie.<a id=53></a>
 
 ###### Article L344-1
 
@@ -9107,11 +9094,11 @@ _Cite_:
   - Code de procédure pénale - art. 530 (V)
 
 
-## Livre 4 : L'usage des voies<a id=55></a>
+## Livre 4 : L'usage des voies<a id=54></a>
 
-### Titre 1er : Dispositions générales<a id=56></a>
+### Titre 1er : Dispositions générales<a id=55></a>
 
-#### Chapitre 1er : Pouvoirs de police de la circulation.<a id=57></a>
+#### Chapitre 1er : Pouvoirs de police de la circulation.<a id=56></a>
 
 ###### Article L411-1
 
@@ -9476,7 +9463,7 @@ _Anciens textes_:
   - Code de la route L5
 
 
-#### Chapitre 2 : Conduite des véhicules et circulation des piétons.<a id=58></a>
+#### Chapitre 2 : Conduite des véhicules et circulation des piétons.<a id=57></a>
 
 ###### Article L412-1
 
@@ -9571,7 +9558,7 @@ _Cité par_:
   - Code de la route. - art. R212-4 (V)
 
 
-#### Chapitre 3 : Vitesse.<a id=59></a>
+#### Chapitre 3 : Vitesse.<a id=58></a>
 
 ###### Article L413-1
 
@@ -9729,7 +9716,7 @@ _Cite_:
   - Code de la route. - art. L413-2 (V)
 
 
-#### Chapitre 7 : Arrêt et stationnement.<a id=60></a>
+#### Chapitre 7 : Arrêt et stationnement.<a id=59></a>
 
 ###### Article L417-1
 
@@ -9762,9 +9749,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. L443-1 (V)
 
 
-### Titre 3 : Dispositions complémentaires applicables à la circulation de certains véhicules<a id=61></a>
+### Titre 3 : Dispositions complémentaires applicables à la circulation de certains véhicules<a id=60></a>
 
-#### Chapitre 1er : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=62></a>
+#### Chapitre 1er : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=61></a>
 
 ###### Article L431-1
 
@@ -9798,7 +9785,7 @@ _Cité par_:
   - Code de la route. - art. R431-1 (V)
 
 
-#### Chapitre 3 : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque.<a id=63></a>
+#### Chapitre 3 : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque.<a id=62></a>
 
 ###### Article L433-1
 
@@ -9818,9 +9805,9 @@ _Créé par_:
   - Loi n°2009-1503 du 8 décembre 2009 - art. 43
 
 
-### Titre 4 : Dispositions relatives à l'outre-mer<a id=64></a>
+### Titre 4 : Dispositions relatives à l'outre-mer<a id=63></a>
 
-#### Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=65></a>
+#### Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=64></a>
 
 ###### Article L441-1
 
@@ -9857,7 +9844,7 @@ _Codifié par_:
   - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
 
-#### Chapitre 2 : Dispositions applicables à Mayotte.<a id=66></a>
+#### Chapitre 2 : Dispositions applicables à Mayotte.<a id=65></a>
 
 ###### Article L442-1
 
@@ -9906,7 +9893,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
 
 
-#### Chapitre 3 : Dispositions applicables à la Polynésie française.<a id=67></a>
+#### Chapitre 3 : Dispositions applicables à la Polynésie française.<a id=66></a>
 
 ###### Article L443-1
 
@@ -9933,7 +9920,7 @@ _Cite_:
   - Code de la route. - art. L417-1 (V)
 
 
-#### Chapitre 4 : Dispositions applicables en Nouvelle-Calédonie.<a id=68></a>
+#### Chapitre 4 : Dispositions applicables en Nouvelle-Calédonie.<a id=67></a>
 
 ###### Article L444-1
 
@@ -9955,11 +9942,11 @@ _Cite_:
   - Code de la route. - art. L417-1 (V)
 
 
-# Partie réglementaire<a id=69></a>
+# Partie réglementaire<a id=68></a>
 
-## Livre Ier : Dispositions générales<a id=70></a>
+## Livre Ier : Dispositions générales<a id=69></a>
 
-### Titre Ier : Définitions.<a id=71></a>
+### Titre Ier : Définitions.<a id=70></a>
 
 ###### Article R110-1
 
@@ -10099,9 +10086,9 @@ _Modifié par_:
   - Décret n°2003-425 2003-05-07 art. 68 JORF 11 mai 2003
 
 
-### Titre II : Responsabilité.<a id=72></a>
+### Titre II : Responsabilité.<a id=71></a>
 
-#### Chapitre Ier : Responsabilité pénale.<a id=73></a>
+#### Chapitre Ier : Responsabilité pénale.<a id=72></a>
 
 ###### Article R121-1
 
@@ -10264,7 +10251,7 @@ _Cité par_:
   - Code de la route. - art. R142-4 (V)
 
 
-### Titre III : Recherche et constatation des infractions.<a id=74></a>
+### Titre III : Recherche et constatation des infractions.<a id=73></a>
 
 ###### Article R130-1
 
@@ -10763,9 +10750,9 @@ _Cité par_:
   - Code de la route. - art. R142-6 (M)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=75></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=74></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=76></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=75></a>
 
 ###### Article R141-1
 
@@ -10783,7 +10770,7 @@ _Cite_:
   - Code de la route. - art. R121-2 (V)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=77></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=76></a>
 
 ###### Article R142-1
 
@@ -10935,13 +10922,13 @@ _Modifié par_:
   - Décret n°2002-1256 du 15 octobre 2002 - art. 9 (V) JORF 16 octobre 2002
 
 
-## Livre II : Le conducteur.<a id=78></a>
+## Livre II : Le conducteur.<a id=77></a>
 
-### Titre Ier : Enseignement de la conduite et de la sécurité routière.<a id=79></a>
+### Titre Ier : Enseignement de la conduite et de la sécurité routière.<a id=78></a>
 
-#### Chapitre Ier : Formation à la conduite et à la sécurité routière<a id=80></a>
+#### Chapitre Ier : Formation à la conduite et à la sécurité routière<a id=79></a>
 
-##### Section 1 : Attestations et brevet de sécurité routière.<a id=81></a>
+##### Section 1 : Attestations et brevet de sécurité routière.<a id=80></a>
 
 ###### Article R211-1
 
@@ -11088,7 +11075,7 @@ _Cite_:
   - Code de la route. - art. L325-1
 
 
-##### Section 2 : Apprentissage de la conduite.<a id=82></a>
+##### Section 2 : Apprentissage de la conduite.<a id=81></a>
 
 ###### Article R211-3
 
@@ -11334,7 +11321,7 @@ _Anciens textes_:
   - Code de la route - art. R43-5 (Ab)
 
 
-#### Chapitre II : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière.<a id=83></a>
+#### Chapitre II : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière.<a id=82></a>
 
 ###### Article R212-1
 
@@ -12098,9 +12085,9 @@ _Cite_:
   - Code de la route. - art. R212-3
 
 
-#### Chapitre III : Etablissements d'enseignement et d'animation des stages de sensibilisation à la sécurité routière.<a id=84></a>
+#### Chapitre III : Etablissements d'enseignement et d'animation des stages de sensibilisation à la sécurité routière.<a id=83></a>
 
-##### Section 1 : Etablissements d'enseignement à titre onéreux et d'animation des stages de sensibilisation à la sécurité routière.<a id=85></a>
+##### Section 1 : Etablissements d'enseignement à titre onéreux et d'animation des stages de sensibilisation à la sécurité routière.<a id=84></a>
 
 ###### Article R213-1
 
@@ -12562,7 +12549,7 @@ _Cite_:
   - Code de la route. - art. R213-2
 
 
-##### Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle.<a id=86></a>
+##### Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle.<a id=85></a>
 
 ###### Article R213-7
 
@@ -12684,7 +12671,7 @@ _Cite_:
   - Code de la route. - art. R213-7
 
 
-#### Chapitre IV  : Conseil supérieur de l'éducation routière (CSER)<a id=87></a>
+#### Chapitre IV  : Conseil supérieur de l'éducation routière (CSER)<a id=86></a>
 
 ###### Article D214-1
 
@@ -12842,9 +12829,9 @@ _Créé par_:
   - Décret n°2009-1182 du 5 octobre 2009 - art. 1
 
 
-### Titre II : Permis de conduire.<a id=88></a>
+### Titre II : Permis de conduire.<a id=87></a>
 
-#### Chapitre Ier : Délivrance et catégories.<a id=89></a>
+#### Chapitre Ier : Délivrance et catégories.<a id=88></a>
 
 ###### Article D221-3
 
@@ -14017,7 +14004,7 @@ _Cité par_:
   - Code de la route. - art. R242-2 (V)
 
 
-#### Chapitre II : Reconnaissance et équivalences.<a id=90></a>
+#### Chapitre II : Reconnaissance et équivalences.<a id=89></a>
 
 ###### Article D222-8
 
@@ -14290,9 +14277,9 @@ _Cite_:
   - Code de la route. - art. D221-3 (VD)
 
 
-#### Chapitre III : Permis à points.<a id=91></a>
+#### Chapitre III : Permis à points.<a id=90></a>
 
-##### Section 1 : Principes généraux.<a id=92></a>
+##### Section 1 : Principes généraux.<a id=91></a>
 
 ###### Article R223-1
 
@@ -14463,7 +14450,7 @@ _Cite_:
   - Code de la route. - art. L223-6
 
 
-##### Section 2 : Des stages  de sensibilisation à la sécurité routière.<a id=93></a>
+##### Section 2 : Des stages  de sensibilisation à la sécurité routière.<a id=92></a>
 
 ###### Article R223-5
 
@@ -14634,9 +14621,9 @@ _Anciens textes_:
   - Code de la route - art. R246-1 (Ab)
 
 
-#### Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation<a id=94></a>
+#### Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation<a id=93></a>
 
-##### Section 1 : Rétention et suspension administratives après constatation d'une infraction.<a id=95></a>
+##### Section 1 : Rétention et suspension administratives après constatation d'une infraction.<a id=94></a>
 
 ###### Article R224-1
 
@@ -14995,7 +14982,7 @@ _Anciens textes_:
   - Code de la route R274-1
 
 
-##### Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation.<a id=96></a>
+##### Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation.<a id=95></a>
 
 ###### Article R224-20
 
@@ -15165,7 +15152,7 @@ _Anciens textes_:
   - Code de la route R186 (al. 3)
 
 
-#### Chapitre V : Enregistrement et communication des informations relatives au permis de conduire.<a id=97></a>
+#### Chapitre V : Enregistrement et communication des informations relatives au permis de conduire.<a id=96></a>
 
 ###### Article R225-1
 
@@ -15411,7 +15398,7 @@ _Cite_:
   - Code de la route. - art. R225-5 (V)
 
 
-#### Chapitre VI : Organisation du contrôle médical de l'aptitude à la conduite<a id=98></a>
+#### Chapitre VI : Organisation du contrôle médical de l'aptitude à la conduite<a id=97></a>
 
 ###### Article R226-1
 
@@ -15560,9 +15547,9 @@ _Cité par_:
   - Arrêté du 31 juillet 2012 - art. 10 (VD)
 
 
-### Titre III : Comportement du conducteur.<a id=99></a>
+### Titre III : Comportement du conducteur.<a id=98></a>
 
-#### Chapitre Ier : Comportement en cas d'accident.<a id=100></a>
+#### Chapitre Ier : Comportement en cas d'accident.<a id=99></a>
 
 ###### Article R231-1
 
@@ -15599,7 +15586,7 @@ _Anciens textes_:
   - Code de la route R53-3
 
 
-#### Chapitre III : Comportement en cas de contrôle routier.<a id=101></a>
+#### Chapitre III : Comportement en cas de contrôle routier.<a id=100></a>
 
 ###### Article R233-1
 
@@ -15781,7 +15768,7 @@ _Cite_:
   - Code de la route. - art. L211-1 (V)
 
 
-#### Chapitre IV : Conduite sous l'influence de l'alcool.<a id=102></a>
+#### Chapitre IV : Conduite sous l'influence de l'alcool.<a id=101></a>
 
 ###### Article R234-1
 
@@ -16061,9 +16048,9 @@ _Cité par_:
   - Code de la route. - art. R233-1 (V)
 
 
-#### Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants<a id=103></a>
+#### Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants<a id=102></a>
 
-##### Section 1 : Dispositions générales<a id=104></a>
+##### Section 1 : Dispositions générales<a id=103></a>
 
 ###### Article R235-1
 
@@ -16133,7 +16120,7 @@ _Cité par_:
   - Code de la route. - art. R245-2 (VD)
 
 
-##### Section 2 : Epreuves de dépistage<a id=105></a>
+##### Section 2 : Epreuves de dépistage<a id=104></a>
 
 ###### Article R235-3
 
@@ -16201,7 +16188,7 @@ _Modifié par_:
   - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 
-##### Section 3 : Analyses et examens médicaux, cliniques et biologiques<a id=106></a>
+##### Section 3 : Analyses et examens médicaux, cliniques et biologiques<a id=105></a>
 
 ###### Article R235-5
 
@@ -16462,7 +16449,7 @@ _Cité par_:
   - Code de la route. - art. R245-2 (VD)
 
 
-##### Section 4 : Dispositions matérielles<a id=107></a>
+##### Section 4 : Dispositions matérielles<a id=106></a>
 
 ###### Article R235-12
 
@@ -16535,9 +16522,9 @@ _Cité par_:
   - Code de la route. - art. R245-2 (VD)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=108></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=107></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=109></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=108></a>
 
 ###### Article R241-1
 
@@ -16596,7 +16583,7 @@ _Cite_:
   - Code de la route. - art. R226-1
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=110></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=109></a>
 
 ###### Article R242-1
 
@@ -16819,7 +16806,7 @@ _Cite_:
   - Code de la route. - art. R235-6 (M)
 
 
-#### Chapitre III : Dispositions applicables à la Nouvelle-Calédonie.<a id=111></a>
+#### Chapitre III : Dispositions applicables à la Nouvelle-Calédonie.<a id=110></a>
 
 ###### Article R243-1
 
@@ -17071,7 +17058,7 @@ _Nouveaux textes_:
   - Code de la route. - art. R212-4 (V)
 
 
-#### Chapitre IV : Dispositions applicables à la Polynésie française.<a id=112></a>
+#### Chapitre IV : Dispositions applicables à la Polynésie française.<a id=111></a>
 
 ###### Article R244-1
 
@@ -17296,7 +17283,7 @@ _Cite_:
   - Code de la route. - art. R235-1
 
 
-#### Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna.<a id=113></a>
+#### Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna.<a id=112></a>
 
 ###### Article R245-1
 
@@ -17558,11 +17545,11 @@ _Nouveaux textes_:
   - Code de la route. - art. R213-3 (V)
 
 
-## Livre III : Le véhicule.<a id=114></a>
+## Livre III : Le véhicule.<a id=113></a>
 
-### Titre Ier : Dispositions techniques.<a id=115></a>
+### Titre Ier : Dispositions techniques.<a id=114></a>
 
-#### Chapitre Ier : Dispositions générales et définitions.<a id=116></a>
+#### Chapitre Ier : Dispositions générales et définitions.<a id=115></a>
 
 ###### Article R311-1
 
@@ -18054,9 +18041,9 @@ _Cité par_:
   - Code de la route. - art. R130-6 (VD)
 
 
-#### Chapitre II : Poids et dimensions<a id=117></a>
+#### Chapitre II : Poids et dimensions<a id=116></a>
 
-##### Section 1 : Poids.<a id=118></a>
+##### Section 1 : Poids.<a id=117></a>
 
 ###### Article R312-1
 
@@ -18595,7 +18582,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R312-8 (V)
 
 
-##### Section 2 : Dimensions des véhicules.<a id=119></a>
+##### Section 2 : Dimensions des véhicules.<a id=118></a>
 
 ###### Article R312-10
 
@@ -19033,7 +19020,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R312-17 (V)
 
 
-##### Section 3 : Dimensions et conditions du chargement.<a id=120></a>
+##### Section 3 : Dimensions et conditions du chargement.<a id=119></a>
 
 ###### Article R312-19
 
@@ -19321,9 +19308,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R312-24 (V)
 
 
-#### Chapitre III : Eclairage et signalisations<a id=121></a>
+#### Chapitre III : Eclairage et signalisations<a id=120></a>
 
-##### Section 1 : Eclairage et signalisation des véhicules.<a id=122></a>
+##### Section 1 : Eclairage et signalisation des véhicules.<a id=121></a>
 
 ###### Article R313-1
 
@@ -20770,7 +20757,7 @@ _Anciens textes_:
   - Code de la route R92 (al. 6), R 168, R216 (al. 2), R231-1 III
 
 
-##### Section 2 : Signaux d'avertissement.<a id=123></a>
+##### Section 2 : Signaux d'avertissement.<a id=122></a>
 
 ###### Article R313-33
 
@@ -20866,7 +20853,7 @@ _Anciens textes_:
   - Code de la route R240 (al. 2)
 
 
-#### Chapitre IV : Pneumatiques.<a id=124></a>
+#### Chapitre IV : Pneumatiques.<a id=123></a>
 
 ###### Article R314-1
 
@@ -21128,7 +21115,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R314-6 (V)
 
 
-#### Chapitre V : Freinage.<a id=125></a>
+#### Chapitre V : Freinage.<a id=124></a>
 
 ###### Article R315-1
 
@@ -21337,7 +21324,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R315-5 (V)
 
 
-#### Chapitre VI : Organes de manoeuvre, de direction et de visibilité.<a id=126></a>
+#### Chapitre VI : Organes de manoeuvre, de direction et de visibilité.<a id=125></a>
 
 ###### Article R316-1
 
@@ -21647,9 +21634,9 @@ _Cité par_:
   - Code de la route. - art. R342-3 (V)
 
 
-#### Chapitre VII : Dispositifs et aménagements particuliers<a id=127></a>
+#### Chapitre VII : Dispositifs et aménagements particuliers<a id=126></a>
 
-##### Section 1 : Appareils de contrôle et de limitation de la vitesse.<a id=128></a>
+##### Section 1 : Appareils de contrôle et de limitation de la vitesse.<a id=127></a>
 
 ###### Article R317-1
 
@@ -21955,7 +21942,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-6 (M)
 
 
-##### Section 2 : Plaques et inscriptions.<a id=129></a>
+##### Section 2 : Plaques et inscriptions.<a id=128></a>
 
 ###### Article R317-8
 
@@ -22225,7 +22212,7 @@ _Anciens textes_:
   - Code de la route R168, R239
 
 
-##### Section 3 : Dispositif antivol.<a id=130></a>
+##### Section 3 : Dispositif antivol.<a id=129></a>
 
 ###### Article R317-15
 
@@ -22304,7 +22291,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-16 (V)
 
 
-##### Section 4 : Attelage des remorques.<a id=131></a>
+##### Section 4 : Attelage des remorques.<a id=130></a>
 
 ###### Article R317-18
 
@@ -22405,7 +22392,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-19 (V)
 
 
-##### Section 5 : Remorquage des véhicules en panne ou accidentés.<a id=132></a>
+##### Section 5 : Remorquage des véhicules en panne ou accidentés.<a id=131></a>
 
 ###### Article R317-21
 
@@ -22461,7 +22448,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-21 (V)
 
 
-##### Section 6 : Autres aménagements.<a id=133></a>
+##### Section 6 : Autres aménagements.<a id=132></a>
 
 ###### Article R317-23
 
@@ -22754,7 +22741,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R317-27 (V)
 
 
-#### Chapitre VIII : Energie, émissions polluantes et nuisances.<a id=134></a>
+#### Chapitre VIII : Energie, émissions polluantes et nuisances.<a id=133></a>
 
 ###### Article R318-1
 
@@ -23112,11 +23099,11 @@ _Cite_:
   - annexe I du règlement (CE) n°1272/2008
 
 
-### Titre II : Dispositions administratives.<a id=135></a>
+### Titre II : Dispositions administratives.<a id=134></a>
 
-#### Chapitre Ier : Réception et homologation<a id=136></a>
+#### Chapitre Ier : Réception et homologation<a id=135></a>
 
-##### Section 1 : Dispositions générales.<a id=137></a>
+##### Section 1 : Dispositions générales.<a id=136></a>
 
 ###### Article D321-5-1
 
@@ -23379,7 +23366,7 @@ _Créé par_:
   - Décret n°2009-497 du 30 avril 2009 - art. 8
 
 
-##### Section 2 : Réception communautaire ou réception CE.<a id=138></a>
+##### Section 2 : Réception communautaire ou réception CE.<a id=137></a>
 
 ###### Article R321-6
 
@@ -23716,7 +23703,7 @@ _Cité par_:
   - Code de la route. - art. R330-6 (V)
 
 
-##### Section 3 : Réception nationale par type ou à titre isolé et homologation.<a id=139></a>
+##### Section 3 : Réception nationale par type ou à titre isolé et homologation.<a id=138></a>
 
 ###### Article R321-15
 
@@ -24117,9 +24104,9 @@ _Cité par_:
   - Arrêté du 17 août 2016 - art. 23 (V)
 
 
-#### Chapitre II : Immatriculation<a id=140></a>
+#### Chapitre II : Immatriculation<a id=139></a>
 
-##### Section 1 : Délivrance du certificat d'immatriculation.<a id=141></a>
+##### Section 1 : Délivrance du certificat d'immatriculation.<a id=140></a>
 
 ###### Article R322-1
 
@@ -24755,7 +24742,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R322-9 (M)
 
 
-##### Section 2 : Opposition au transfert du certificat d'immatriculation.<a id=142></a>
+##### Section 2 : Opposition au transfert du certificat d'immatriculation.<a id=141></a>
 
 ###### Article R322-15
 
@@ -24858,9 +24845,9 @@ _Anciens textes_:
   - Code de la route - art. R301 (Ab)
 
 
-#### Chapitre III : Contrôle technique<a id=143></a>
+#### Chapitre III : Contrôle technique<a id=142></a>
 
-##### Section 1 : Dispositions générales.<a id=144></a>
+##### Section 1 : Dispositions générales.<a id=143></a>
 
 ###### Article R323-1
 
@@ -25037,7 +25024,7 @@ _Cité par_:
   - Code de la route. - art. R342-3 (V)
 
 
-##### Section 2 : Agrément des contrôleurs, des installations et des réseaux<a id=145></a>
+##### Section 2 : Agrément des contrôleurs, des installations et des réseaux<a id=144></a>
 
 ###### Article R323-6
 
@@ -25769,7 +25756,7 @@ _Cité par_:
   - Code de la route. - art. R323-13 (V)
 
 
-##### Section 3 : Dispositions applicables aux voitures particulières et aux camionnettes.<a id=146></a>
+##### Section 3 : Dispositions applicables aux voitures particulières et aux camionnettes.<a id=145></a>
 
 ###### Article R323-22
 
@@ -25826,7 +25813,7 @@ _Modifié par_:
   - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 
-##### Section 4 : Dispositions applicables aux autres véhicules.<a id=147></a>
+##### Section 4 : Dispositions applicables aux autres véhicules.<a id=146></a>
 
 ###### Article R323-23
 
@@ -25993,9 +25980,9 @@ _Cite_:
   - Code de la route. - art. R323-24
 
 
-#### Chapitre V : Immobilisation et mise en fourrière<a id=148></a>
+#### Chapitre V : Immobilisation et mise en fourrière<a id=147></a>
 
-##### Section 1 : Dispositions générales.<a id=149></a>
+##### Section 1 : Dispositions générales.<a id=148></a>
 
 ###### Article R325-1
 
@@ -26060,7 +26047,7 @@ _Cité par_:
   - Code de la route. - art. R344-1 (V)
 
 
-##### Section 2 : Immobilisation.<a id=150></a>
+##### Section 2 : Immobilisation.<a id=149></a>
 
 ###### Article R325-2
 
@@ -26472,9 +26459,9 @@ _Cite_:
   - Code de la route. - art. R325-9
 
 
-##### Section 3 : Fourrière<a id=151></a>
+##### Section 3 : Fourrière<a id=150></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=152></a>
+##### Sous-section 1 : Dispositions générales.<a id=151></a>
 
 ###### Article R325-12
 
@@ -27679,7 +27666,7 @@ _Anciens textes_:
   - Code de la route R275 (al. 4)
 
 
-##### Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique.<a id=153></a>
+##### Sous-section 2 : Véhicules laissés sans droit dans des lieux non ouverts à la circulation publique.<a id=152></a>
 
 ###### Article R325-47
 
@@ -27807,9 +27794,9 @@ _Cite_:
   - Code de la route. - art. R325-47 (V)
 
 
-#### Chapitre VI : Organisation de la profession d'expert en automobile<a id=154></a>
+#### Chapitre VI : Organisation de la profession d'expert en automobile<a id=153></a>
 
-##### Section 1 : Règles générales.<a id=155></a>
+##### Section 1 : Règles générales.<a id=154></a>
 
 ###### Article R326-1
 
@@ -27938,7 +27925,7 @@ _Anciens textes_:
   - Code de la route. - art. R327-4 (M)
 
 
-##### Section 2 : Conditions à remplir pour l'exercice de la profession d'expert en automobile et procédure disciplinaire.<a id=156></a>
+##### Section 2 : Conditions à remplir pour l'exercice de la profession d'expert en automobile et procédure disciplinaire.<a id=155></a>
 
 ###### Article D326-15
 
@@ -28398,7 +28385,7 @@ _Cite_:
   - Code de la route. - art. R326-11 (V)
 
 
-#### Chapitre VII : Véhicules endommagés<a id=157></a>
+#### Chapitre VII : Véhicules endommagés<a id=156></a>
 
 ###### Article R327-1
 
@@ -28634,7 +28621,7 @@ _Nouveaux textes_:
   - Code de la route. - art. R326-6 (V)
 
 
-### Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules.<a id=158></a>
+### Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules.<a id=157></a>
 
 ###### Article R330-1
 
@@ -28947,9 +28934,9 @@ _Modifié par_:
   - Décret n°2011-477 du 2 mai 2011 - art. 1
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=159></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=158></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=160></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=159></a>
 
 ###### Article R341-1
 
@@ -28971,7 +28958,7 @@ _Codifié par_:
   - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=161></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=160></a>
 
 ###### Article R342-1
 
@@ -29147,9 +29134,9 @@ _Cite_:
   - Code de la route. - art. R326-17 (Ab)
 
 
-#### Chapitre III : Dispositions applicables à la Polynésie française<a id=162></a>
+#### Chapitre III : Dispositions applicables à la Polynésie française<a id=161></a>
 
-##### Section 1 : Dispositions générales.<a id=163></a>
+##### Section 1 : Dispositions générales.<a id=162></a>
 
 ###### Article R343-1
 
@@ -29235,7 +29222,7 @@ _Cite_:
   - Code de la route. - art. R317-4 (V)
 
 
-##### Section 2 : Immobilisation.<a id=164></a>
+##### Section 2 : Immobilisation.<a id=163></a>
 
 ###### Article R343-2
 
@@ -29415,7 +29402,7 @@ _Cité par_:
   - Code de la route. - art. R343-2 (M)
 
 
-##### Section 3 : Fourrière.<a id=165></a>
+##### Section 3 : Fourrière.<a id=164></a>
 
 ###### Article R343-4
 
@@ -29831,9 +29818,9 @@ _Cite_:
   - Code de la route. - art. R325-45 (V)
 
 
-#### Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie<a id=166></a>
+#### Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie<a id=165></a>
 
-##### Section 1 : Dispositions générales.<a id=167></a>
+##### Section 1 : Dispositions générales.<a id=166></a>
 
 ###### Article R344-1
 
@@ -29918,7 +29905,7 @@ _Cite_:
   - Code de la route. - art. R317-4 (V)
 
 
-##### Section 2 : Immobilisation.<a id=168></a>
+##### Section 2 : Immobilisation.<a id=167></a>
 
 ###### Article R344-2
 
@@ -30096,7 +30083,7 @@ _Créé par_:
   - Décret n°2007-1626 du 16 novembre 2007 - art. 13 () JORF 18 novembre 2007
 
 
-##### Section 3 : Fourrière.<a id=169></a>
+##### Section 3 : Fourrière.<a id=168></a>
 
 ###### Article R344-4
 
@@ -30464,13 +30451,13 @@ _Créé par_:
   - Décret n°2007-1626 du 16 novembre 2007 - art. 14 () JORF 18 novembre 2007
 
 
-## Livre IV : L'usage des voies.<a id=170></a>
+## Livre IV : L'usage des voies.<a id=169></a>
 
-### Titre Ier : Dispositions générales.<a id=171></a>
+### Titre Ier : Dispositions générales.<a id=170></a>
 
-#### Chapitre Ier : Pouvoirs de police de la circulation<a id=172></a>
+#### Chapitre Ier : Pouvoirs de police de la circulation<a id=171></a>
 
-##### Section 1 : Pouvoirs généraux de police.<a id=173></a>
+##### Section 1 : Pouvoirs généraux de police.<a id=172></a>
 
 ###### Article R411-1
 
@@ -30815,7 +30802,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Commission départementale de la sécurité routière.<a id=174></a>
+##### Section 2 : Commission départementale de la sécurité routière.<a id=173></a>
 
 ###### Article R411-10
 
@@ -30935,7 +30922,7 @@ _Cite_:
   - Code de la route. - art. R411-11
 
 
-##### Section 3 : Interdictions et restrictions de circulation.<a id=175></a>
+##### Section 3 : Interdictions et restrictions de circulation.<a id=174></a>
 
 ###### Article R411-17
 
@@ -31392,7 +31379,7 @@ _Cité par_:
   - Code de la route. - art. R442-6 (V)
 
 
-##### Section 4 : Signalisation routière.<a id=176></a>
+##### Section 4 : Signalisation routière.<a id=175></a>
 
 ###### Article R411-25
 
@@ -31527,7 +31514,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 5 : Courses et épreuves sportives.<a id=177></a>
+##### Section 5 : Courses et épreuves sportives.<a id=176></a>
 
 ###### Article R411-29
 
@@ -31683,9 +31670,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=178></a>
+#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=177></a>
 
-##### Section 1 : Equipements des utilisateurs de véhicules.<a id=179></a>
+##### Section 1 : Equipements des utilisateurs de véhicules.<a id=178></a>
 
 ###### Article R412-1
 
@@ -31906,7 +31893,7 @@ _Cite_:
   - Code de la route. - art. R412-1 (V)
 
 
-##### Section 2 : Principes généraux de circulation.<a id=180></a>
+##### Section 2 : Principes généraux de circulation.<a id=179></a>
 
 ###### Article R412-6
 
@@ -32435,7 +32422,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Matérialisation des voies de circulation.<a id=181></a>
+##### Section 3 : Matérialisation des voies de circulation.<a id=180></a>
 
 ###### Article R412-18
 
@@ -32690,7 +32677,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 4 : Sens de circulation.<a id=182></a>
+##### Section 4 : Sens de circulation.<a id=181></a>
 
 ###### Article R412-26
 
@@ -32783,7 +32770,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 5 : Feux de signalisation lumineux.<a id=183></a>
+##### Section 5 : Feux de signalisation lumineux.<a id=182></a>
 
 ###### Article R412-29
 
@@ -32942,7 +32929,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 6 : Circulation des piétons.<a id=184></a>
+##### Section 6 : Circulation des piétons.<a id=183></a>
 
 ###### Article R412-34
 
@@ -33255,7 +33242,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=185></a>
+##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=184></a>
 
 ###### Article R412-44
 
@@ -33449,7 +33436,7 @@ _Anciens textes_:
   - Code de la route R223, R233 (al. 1 et 2)
 
 
-##### Section 8 : Troubles à la circulation.<a id=186></a>
+##### Section 8 : Troubles à la circulation.<a id=185></a>
 
 ###### Article R412-51
 
@@ -33517,9 +33504,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Vitesse<a id=187></a>
+#### Chapitre III : Vitesse<a id=186></a>
 
-##### Section 1 : Vitesses maximales autorisées.<a id=188></a>
+##### Section 1 : Vitesses maximales autorisées.<a id=187></a>
 
 ###### Article R413-1
 
@@ -34157,7 +34144,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Maîtrise de la vitesse.<a id=189></a>
+##### Section 2 : Maîtrise de la vitesse.<a id=188></a>
 
 ###### Article R413-17
 
@@ -34284,9 +34271,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre IV : Croisement et dépassement<a id=190></a>
+#### Chapitre IV : Croisement et dépassement<a id=189></a>
 
-##### Section 1 : Croisement.<a id=191></a>
+##### Section 1 : Croisement.<a id=190></a>
 
 ###### Article R414-1
 
@@ -34392,7 +34379,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Dépassement.<a id=192></a>
+##### Section 2 : Dépassement.<a id=191></a>
 
 ###### Article R414-4
 
@@ -34914,7 +34901,7 @@ _Cité par_:
   - Code de la route. - art. R442-2 (V)
 
 
-#### Chapitre V : Intersections et priorité de passage.<a id=193></a>
+#### Chapitre V : Intersections et priorité de passage.<a id=192></a>
 
 ###### Article R415-1
 
@@ -35435,9 +35422,9 @@ _Anciens textes_:
   - Code de la route - art. R28-1 (Ab)
 
 
-#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=194></a>
+#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=193></a>
 
-##### Section 1 : Emploi des avertisseurs.<a id=195></a>
+##### Section 1 : Emploi des avertisseurs.<a id=194></a>
 
 ###### Article R416-1
 
@@ -35521,7 +35508,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=196></a>
+##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=195></a>
 
 ###### Article R416-4
 
@@ -35944,7 +35931,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres dispositions.<a id=197></a>
+##### Section 3 : Autres dispositions.<a id=196></a>
 
 ###### Article R416-17
 
@@ -36100,9 +36087,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VII : Arrêt et stationnement<a id=198></a>
+#### Chapitre VII : Arrêt et stationnement<a id=197></a>
 
-##### Section 1 : Dispositions générales.<a id=199></a>
+##### Section 1 : Dispositions générales.<a id=198></a>
 
 ###### Article R417-1
 
@@ -36371,7 +36358,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=200></a>
+##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=199></a>
 
 ###### Article R417-9
 
@@ -36670,7 +36657,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=201></a>
+#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=200></a>
 
 ###### Article R418-1
 
@@ -36972,9 +36959,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=202></a>
+### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=201></a>
 
-#### Chapitre Ier : Autoroutes.<a id=203></a>
+#### Chapitre Ier : Autoroutes.<a id=202></a>
 
 ###### Article R421-1
 
@@ -37338,7 +37325,7 @@ _Créé par_:
   - Décret n°2012-953 du 1er août 2012 - art. 1
 
 
-#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=204></a>
+#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=203></a>
 
 ###### Article R422-1
 
@@ -37523,9 +37510,9 @@ _Créé par_:
   - Décret n°2012-953 du 1er août 2012 - art. 2
 
 
-### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=205></a>
+### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=204></a>
 
-#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=206></a>
+#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=205></a>
 
 ###### Article R431-1
 
@@ -37879,9 +37866,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Véhicules d'intérêt général<a id=207></a>
+#### Chapitre II : Véhicules d'intérêt général<a id=206></a>
 
-##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=208></a>
+##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=207></a>
 
 ###### Article R432-1
 
@@ -38132,7 +38119,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R442-7 (V)
 
 
-##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=209></a>
+##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=208></a>
 
 ###### Article R432-2
 
@@ -38460,7 +38447,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres véhicules d'intérêt général.<a id=210></a>
+##### Section 3 : Autres véhicules d'intérêt général.<a id=209></a>
 
 ###### Article R432-5
 
@@ -38567,9 +38554,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=211></a>
+#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=210></a>
 
-##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=212></a>
+##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=211></a>
 
 ###### Article R433-1
 
@@ -38901,7 +38888,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Transports exceptionnels de personnes.<a id=213></a>
+##### Section 2 : Transports exceptionnels de personnes.<a id=212></a>
 
 ###### Article R433-7
 
@@ -38973,7 +38960,7 @@ _Cité par_:
   - Code de la route. - art. R322-2 (V)
 
 
-##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=214></a>
+##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=213></a>
 
 ###### Article R433-8
 
@@ -39018,7 +39005,7 @@ _Cite_:
   - Code de la route. - art. L325-1
 
 
-##### Section 4 : Transports de bois ronds<a id=215></a>
+##### Section 4 : Transports de bois ronds<a id=214></a>
 
 ###### Article R433-9
 
@@ -39262,7 +39249,7 @@ _Cite_:
   - Code de la route. - art. L325-1
 
 
-##### Section 5 : Accompagnement des transports exceptionnels.<a id=216></a>
+##### Section 5 : Accompagnement des transports exceptionnels.<a id=215></a>
 
 ###### Article R433-17
 
@@ -39420,7 +39407,7 @@ _Cité par_:
   - Code de la route. - art. R130-6 (V)
 
 
-#### Chapitre IV : Convois et véhicules à traction animale.<a id=217></a>
+#### Chapitre IV : Convois et véhicules à traction animale.<a id=216></a>
 
 ###### Article R434-1
 
@@ -39553,9 +39540,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre V : Autres véhicules<a id=218></a>
+#### Chapitre V : Autres véhicules<a id=217></a>
 
-##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=219></a>
+##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=218></a>
 
 ###### Article R435-1
 
@@ -39597,7 +39584,7 @@ _Cite_:
   - Code de la route. - art. L325-3 (V)
 
 
-##### Section 2 : Ensembles forains<a id=220></a>
+##### Section 2 : Ensembles forains<a id=219></a>
 
 ###### Article R436-1
 
@@ -39644,9 +39631,9 @@ _Nouveaux textes_:
   - Code de la route. - art. R435-3 (V)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=221></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=220></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=222></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=221></a>
 
 ###### Article R441-1
 
@@ -39776,7 +39763,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=223></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=222></a>
 
 ###### Article R442-1
 
