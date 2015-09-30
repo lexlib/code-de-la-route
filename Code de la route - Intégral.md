@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-08-19
+Version Consolidée au 2015-10-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -8503,8 +8503,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 37
-  - Loi n°2015-992 du 17 août 2015 - art. 77
+  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (V)
+  - Loi n°2015-993 du 17 août 2015 - art. 35 (V)
 
 _Anciens textes_:
 
@@ -8513,11 +8513,10 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L2132-23 (V)
   - Code général de la propriété des personnes publiques. - art. L2132-21
+  - Code général de la propriété des personnes publiques. - art. L2132-23
   - Code de procédure pénale - art. 14
   - Code de l'environnement - art. L541-21-3 (V)
-  - Code de l'environnement - art. L541-21-4 (V)
   - Code de la route. - art. L130-4
   - Code de la route. - art. L130-7
   - Code des transports - art. L2241-1
