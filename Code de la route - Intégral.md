@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-10-01
+Version Consolidée au 2015-10-09
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -2691,18 +2691,19 @@ l'infraction est informé que le paiement de l'amende ou l'exécution de la comp
 points correspondant à l'infraction reprochée, dont la qualification est dûment portée à sa connaissance ; il est également
 informé de l'existence d'un traitement automatisé de ces points et de la possibilité pour lui d'exercer le droit d'accès. 
 
-Le retrait de points est porté à la connaissance de l'intéressé par lettre simple quand il est effectif.
+Quand il est effectif, le retrait de points est porté à la connaissance de l'intéressé par lettre simple ou, sur sa demande,
+par voie électronique. Un décret en Conseil d'Etat précise les conditions d'application du présent alinéa.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 14 () JORF 13 juin 2003
+  - ORDONNANCE n°2015-1241 du 7 octobre 2015 - art. 1
 
 _Anciens textes_:
 
@@ -2711,8 +2712,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L223-2 (V)
-  - Code de la route. - art. L225-1 (V)
+  - Code de la route. - art. L223-2
+  - Code de la route. - art. L225-1
 
 _Cité par_:
 
