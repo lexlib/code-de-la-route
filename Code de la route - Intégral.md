@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-10-09
+Version Consolidée au 2015-11-28
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -11144,12 +11144,7 @@ routière ;
 4° Etre, durant l'apprentissage, sous la surveillance constante et directe d'un enseignant, titulaire de l'autorisation
 d'enseigner la conduite des véhicules à moteur mentionnée aux articles L. 212-1 et R. 212-1 correspondant à la catégorie du
 véhicule utilisé, ou d'un accompagnateur titulaire, depuis au moins cinq ans sans interruption, du permis de conduire
-correspondant à la catégorie du véhicule utilisée. L'accompagnateur doit avoir suivi, dans les conditions définies par arrêté
-du ministre chargé de la sécurité routière, une formation spécifique le préparant à assurer cette fonction et à utiliser,
-dans de bonnes conditions, les dispositifs de double commande dont doit être équipé le véhicule conformément aux dispositions
-mentionnées à l'article R. 317-25. Toutefois, cette obligation de formation spécifique ne s'applique pas à l'accompagnateur
-exerçant cette fonction pendant les périodes dites d'apprentissage anticipé de la conduite, de conduite supervisée ou de
-conduite encadrée, mentionnées aux articles R. 211-5, R. 211-5-1 et R. 211-5-2 ; 
+correspondant à la catégorie du véhicule utilisée ; 
 
 5° Utiliser, durant l'apprentissage, un véhicule conforme aux dispositions de l'article R. 317-25.
 
@@ -11170,7 +11165,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1295 du 31 octobre 2014 - art. 3
+  - Décret n°2015-1537 du 25 novembre 2015 - art. 2
 
 _Anciens textes_:
 
@@ -11180,10 +11175,9 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L211-1
-  - Code de la route. - art. R211-5
-  - Code de la route. - art. R211-5-1
+  - Code de la route. - art. R211-5 (V)
   - Code de la route. - art. R212-1
-  - Code de la route. - art. R317-25
+  - Code de la route. - art. R317-25 (V)
 
 
 ###### Article R211-4
@@ -11279,11 +11273,8 @@ l'évaluation réalisée par l'enseignant de la conduite à la fin de cette pér
 La période d'apprentissage en conduite supervisée est accessible à partir de l'âge de dix-huit ans. Elle commence par un
 rendez-vous pédagogique préalable entre l'enseignant de la conduite, l'accompagnateur et l'élève conducteur. 
 
-Au cours de cette période, l'élève doit participer à au moins un autre rendez-vous pédagogique et parcourir une distance
-minimale pendant une durée minimale, précisées par arrêté du   ministre chargé de la sécurité routière. 
-
-Les conditions dans lesquelles les établissements d'enseignement de la conduite peuvent proposer et encadrer une phase de
-conduite supervisée sont fixées par arrêté du   ministre chargé de la sécurité routière.
+Les conditions dans lesquelles les établissements d'enseignement de la conduite proposent et encadrent une phase de conduite
+supervisée sont fixées par arrêté du ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
@@ -11296,7 +11287,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-688 du 7 mai 2012 - art. 2
+  - Décret n°2015-1537 du 25 novembre 2015 - art. 3
 
 _Cite_:
 
@@ -11742,8 +11733,8 @@ I.-Délits d'atteinte à la personne humaine prévus par le code pénal :
 
 - atteinte involontaire à la vie (art. 221-6-1) ;
 
-- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13,222-14 [3° et 4°], 222-19-1 et
-222-20-1,222-2 à 222-33) ;
+- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13, 222-14 [3° et 4°], 222-19-1 et 222-20-1,
+222-2 à 222-33) ;
 
 - mise en danger de la vie d'autrui (art. 223-1) ;
 
@@ -11781,8 +11772,8 @@ dangereux susceptible d'être vu ou perçu par un mineur (art. 227-24) ;
 - atteinte sexuelle sur mineur de plus de quinze ans par personne abusant de l'autorité que lui confèrent ses fonctions (art.
 227-27) ;
 
-- provocation à la commission à l'encontre d'un mineur de l'un des crimes ou délits visés aux articles 222-22 à 222-31,225-5
-à 225-11,227-22,227-23 et 227-25 à 227-28 (art. 227-28-3). 
+- provocation à la commission à l'encontre d'un mineur de l'un des crimes ou délits visés aux articles 222-22 à 222-31, 225-5
+à 225-11,227-22, 227-23 et 227-25 à 227-28 (art. 227-28-3).
 
 II.-Délits d'atteinte aux biens prévus par le code pénal :
 
@@ -11852,14 +11843,15 @@ transports ;
 conduite d'un véhicule malgré la rétention, l'invalidation, la suspension ou l'annulation du permis de conduire (art. L.
 221-2, L. 223-5 et L. 224-16) ;
 
-- enseignement de la conduite des véhicules terrestres à moteur sans autorisation ou en violation d'une mesure de suspension
-(art. L. 212-4) ;
+- enseignement de la conduite des véhicules terrestres à moteur ou animation d'un stage de sensibilisation à la sécurité
+routière sans autorisation ou en violation d'une mesure de suspension (art. L. 212-4) ;
 
 - exploitation d'un établissement d'enseignement de la conduite des véhicules terrestres à moteur et de la sécurité routière
-ou de formation des candidats pour l'exercice de la profession d'enseignant sans l'agrément ou en violation d'une mesure
-provisoire de suspension (art. L. 213-6) ;
+ou de formation des candidats pour l'exercice de la profession d'enseignant ou d'un établissement organisant des stages de
+sensibilisation à la sécurité routière sans l'agrément ou en violation d'une mesure provisoire de suspension (art. L.
+213-6) ;
 
-- emploi d'un enseignant non titulaire de l'autorisation d'enseigner (art. L. 213-6) ;
+- emploi d'un enseignant ou d'un animateur non titulaire de l'autorisation prévue à l'article L. 212-1 (art. L. 213-6) ;
 
 - usage du nom d'une personne pour enregistrement, au nom de cette personne, d'une condamnation judiciaire ou d'une décision
 administrative (art. L. 225-7 et L. 330-6) ;
@@ -11930,7 +11922,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1295 du 31 octobre 2014 - art. 5
+  - Décret n°2015-1537 du 25 novembre 2015 - art. 4
 
 _Cite_:
 
@@ -11939,6 +11931,7 @@ _Cite_:
   - Code pénal - art. 222-19-1
   - Code pénal - art. 222-2
   - Code pénal - art. 222-20-1
+  - Code pénal - art. 222-22 (V)
   - Code pénal - art. 222-36
   - Code pénal - art. 222-37
   - Code pénal - art. 222-9
@@ -11946,10 +11939,20 @@ _Cite_:
   - Code pénal - art. 223-5
   - Code pénal - art. 225-10
   - Code pénal - art. 225-11
-  - Code pénal - art. 225-5
+  - Code pénal - art. 225-5 (V)
+  - Code pénal - art. 227-18 (V)
+  - Code pénal - art. 227-18-1 (V)
+  - Code pénal - art. 227-19 (V)
+  - Code pénal - art. 227-21 (V)
+  - Code pénal - art. 227-22 (V)
+  - Code pénal - art. 227-22-1 (V)
+  - Code pénal - art. 227-23 (V)
+  - Code pénal - art. 227-24 (V)
+  - Code pénal - art. 227-24-1 (V)
   - Code pénal - art. 227-25
   - Code pénal - art. 227-26
   - Code pénal - art. 227-27
+  - Code pénal - art. 227-28-3 (V)
   - Code pénal - art. 311-13
   - Code pénal - art. 311-3
   - Code pénal - art. 312-1
@@ -12144,7 +12147,7 @@ _Cite_:
 ###### Article R213-1
 
 Les agréments visés à l'article L. 213-1 sont délivrés pour une durée de cinq ans par le préfet du lieu d'implantation de
-l'établissement, après avis de la commission départementale de la sécurité routière. 
+l'établissement. 
 
 Les agréments, ainsi que toutes les mesures affectant leur validité, sont inscrits dans un registre national qui est élaboré
 et tenu à jour dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et
@@ -12158,8 +12161,8 @@ qualification d'une autre personne, pendant une période maximale d'un an à com
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 (V)
-  - Code de la route. - art. L213-1 (M)
+  - Loi n°78-17 du 6 janvier 1978
+  - Code de la route. - art. L213-1 (V)
 
 _Cité par_:
 
@@ -12172,7 +12175,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 12
+  - Décret n°2015-1537 du 25 novembre 2015 - art. 5
 
 _Anciens textes_:
 
@@ -15661,13 +15664,9 @@ conducteur, est tenu de présenter à toute réquisition des agents de l'autorit
 provisoires, ou les photocopies des certificats d'immatriculation dans les cas et dans les conditions prévues par un arrêté
 du ministre de la justice et du ministre de l'intérieur ; 
 
-3° Pour l'accompagnateur d'un apprenti conducteur assujetti à une obligation de formation, le permis de conduire de la
-catégorie exigée pour la conduite du véhicule, obtenu depuis au moins cinq ans, accompagné d'une attestation certifiant qu'il
-a suivi la formation spécifique prévue au 4° de l'article R. 211-3. 
-
-Pour les titulaires d'une autorisation d'enseigner la conduite en cours de validité, les délégués et inspecteurs du permis de
-conduire et de la sécurité routière, en leur qualité d'accompagnateur à titre non onéreux, l'attestation délivrée dans les
-conditions fixées par arrêté du ministre chargé de la sécurité routière ; 
+3° Pour l'accompagnateur d'un apprenti conducteur, le permis de conduire exigé pour la conduite du véhicule obtenu depuis au
+moins cinq ans ou l'autorisation d'enseigner la conduite des véhicules à moteur mentionnée aux articles L. 212-1 et R. 212-1
+correspondant à la catégorie du véhicule utilisé ; 
 
 4° Dans les cas mentionnés aux II et III de l'article R. 221-8, une attestation de la formation pratique ou le document
 attestant d'une expérience de la conduite conforme aux conditions prévues par ces dispositions ; 
@@ -15715,12 +15714,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1295 du 31 octobre 2014 - art. 11
+  - Décret n°2015-1537 du 25 novembre 2015 - art. 7
 
 _Cite_:
 
   - Code de procédure pénale - art. 41-2
-  - Code de la route. - art. R211-3
+  - Code de la route. - art. L212-1
+  - Code de la route. - art. R212-1 (V)
   - Code de la route. - art. R221-8
   - Code de la route. - art. R234-7
   - Code de la route. - art. R323-23
@@ -30897,18 +30897,14 @@ _Anciens textes_:
 
 I. - La commission départementale de la sécurité routière est consultée préalablement à toute décision prise en matière :
 
-1° D'agrément d'exploitation d'un établissement d'enseignement de la conduite des véhicules à moteur ;
+1° (Abrogé)
 
-2° D'agrément d'exploitation d'un établissement destiné à la formation de moniteurs d'enseignement de la conduite des
-véhicules à moteur ;
+2° (Abrogé)
 
 3° D'autorisation d'organisation de manifestations sportives, dans les conditions prévues aux articles R. 331-11 et R. 331-26
 du code du sport ;
 
-4° D'agrément des gardiens et des installations de fourrière ;
-
-5° D'agrément des personnes et des organismes dispensant aux conducteurs responsables d'infractions la formation spécifique à
-la sécurité routière.
+4° D'agrément des gardiens et des installations de fourrière.
 
 II. - La commission peut également être consultée sur tout autre sujet relatif à la sécurité routière, tel que :
 
@@ -30928,7 +30924,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-312 du 5 mars 2012 - art. 5
+  - Décret n°2015-1537 du 25 novembre 2015 - art. 8
 
 _Cite_:
 
