@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-11-28
+Version Consolidée au 2015-12-04
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -12449,15 +12449,15 @@ _Anciens textes_:
 
 ###### Article R213-3-1
 
-Constituent des frais de transfert interdits en application de l'article L. 213-2, tous frais, quelles que soient leurs
-dénominations, ou toute majoration de prix des prestations appliquées spécifiquement par un établissement d'enseignement de
-la conduite et de la sécurité routière à un candidat précédemment inscrit dans un autre de ces établissements.
+Constituent les frais de transfert interdits en application de l'article L. 213-2, tous frais, quelles que soient leurs
+dénominations, ou toutes majorations de prix, appliqués  spécifiquement par un établissement d'enseignement de la conduite et
+de la sécurité routière à un candidat précédemment inscrit dans un autre de ces établissements.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-578 du 27 mai 2015 - art. 1
+  - Décret n°2015-1571 du 1er décembre 2015 - art. 1
 
 _Cite_:
 
@@ -12466,32 +12466,64 @@ _Cite_:
 
 ###### Article R213-3-2
 
-Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe : 
+Constituent les frais de présentation interdits en application de l'article L. 213-2 tous frais, quelles que soient leurs
+dénominations, ou toutes majorations de prix, appliqués spécifiquement par un établissement d'enseignement de la conduite et
+de la sécurité routière à un candidat au titre de sa présentation à l'une des épreuves du permis de conduire ou dont le
+paiement est une condition à cette présentation. 
 
-1° Le fait de ne pas remettre le contrat mentionné au premier alinéa de l'article L. 213-2 ; 
+Ne constituent des frais de présentation au titre du présent article ni les montants exigés pour la conclusion du contrat
+prévu à l'article L. 213-2, ni le coût de la formation initiale prévue aux articles L. 211-3 et L. 211-4.
 
-2° Le fait d'appliquer des frais en infraction aux premier et deuxième alinéas de l'article L. 213-2 ; 
+**Liens relatifs à cet article**
 
-3° Le fait de remettre un contrat ne comportant pas les mentions prévues à l'article R. 213-3. 
+_Modifié par_:
 
-La récidive des contraventions prévues au présent article est réprimée conformément aux articles 
-132-11 
-et 
-132-15 
-du code pénal.
+  - Décret n°2015-1571 du 1er décembre 2015 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. L211-3
+  - Code de la route. - art. L213-2
+
+
+###### Article R213-3-3
+
+I.-Constituent les frais d'accompagnement au sens de l'article L. 213-2 tous frais, quelles que soient leurs dénominations,
+ou toute majoration de prix, appliqués spécifiquement par un établissement d'enseignement de la conduite et de la sécurité
+routière aux candidats au titre de la présence d'un membre de son personnel lors de l'épreuve ou du transport du candidat sur
+le site de celle-ci. 
+
+II.-Les frais appliqués au titre de l'accompagnement du candidat à l'épreuve sont déterminés préalablement à cette
+prestation. 
+
+Pour la partie pratique, ils couvrent forfaitairement l'ensemble de la charge de l'accompagnement, tant à l'épreuve en
+circulation que, le cas échéant, à celle hors circulation. Ils ne peuvent excéder les prix appliqués par l'établissement pour
+les durées de formation suivantes :
+
+- pour le permis des catégories A1, A2, A et BE : une heure et demie ;
+
+- pour le permis des catégories B1 et B : une heure ;
+
+- pour les permis des catégories C1, C, D1 et D : deux heures ;
+
+- pour les permis des catégories C1E, CE, D1E et DE : deux heures et demie. 
+
+Ces prix sont calculés en référence au tarif horaire de la formation pratique correspondante.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2015-578 du 27 mai 2015 - art. 1
+  - Décret n°2015-1571 du 1er décembre 2015 - art. 1
+
+_Cité par_:
+
+  - Décret n°2017-273 du 2 mars 2017 - art. 1
+  - Code du travail - art. D6323-8-3 (VT)
 
 _Cite_:
 
-  - Code pénal - art. 132-11
-  - Code pénal - art. 132-15
   - Code de la route. - art. L213-2
-  - Code de la route. - art. R213-3 (V)
 
 
 ###### Article R213-4
