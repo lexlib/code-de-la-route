@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-12-04
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -181,7 +181,7 @@ Version Consolidée au 2015-12-04
           - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#178)
           - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#179)
           - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#180)
-          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28)](#181)
+          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28-1)](#181)
           - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#182)
           - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#183)
           - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#184)
@@ -1425,24 +1425,41 @@ I.-L'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'
 ainsi que l'animation de stages de sensibilisation à la sécurité routière mentionnés à l'article L. 223-6 sont subordonnés à
 la délivrance d'une autorisation administrative. 
 
-II.-Par dérogation au I, tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'Espace
-économique européen, légalement établi, pour l'exercice des activités mentionnées au I, dans un de ces Etats, peut exercer
-ces activités de façon temporaire et occasionnelle en France. 
+II. - Tout ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen y exerçant les activités mentionnées au I est réputé détenir l'autorisation administrative pour exercer en France
+ces activités de façon temporaire et occasionnelle, sous réserve d'être légalement établi dans l'un de ces Etats et, lorsque
+ni ces activités ni la formation y conduisant n'y sont réglementées, de les avoir exercées dans un ou plusieurs Etats membres
+pendant une année ou à temps partiel pendant une durée équivalente au cours des dix années qui précèdent la prestation.
 
-Toutefois, lorsque ces activités ou la formation y conduisant ne sont pas réglementées dans l'Etat d'établissement, le
-prestataire doit avoir exercé ces activités dans cet Etat pendant au moins deux ans au cours des dix années qui précèdent la
-prestation. 
+Lorsque le professionnel fournit pour la première fois une prestation en France, il en informe au préalable l'autorité
+administrative par une déclaration écrite dont le contenu et la procédure de dépôt sont précisés par décret. Cette
+déclaration donne lieu à une vérification des qualifications professionnelles du prestataire afin de permettre à l'autorité
+de s'assurer que la prestation ne portera pas atteinte à la sécurité ou à la santé du bénéficiaire du service du fait du
+manque de qualification professionnelle du prestataire. ;
 
-Lorsque le prestataire fournit pour la première fois une prestation en France, il en informe au préalable l'autorité
-compétente par une déclaration écrite qui donne lieu à une vérification de ses qualifications professionnelles. Les
-conditions d'application du présent alinéa sont fixées par décret en Conseil d'Etat.
+III. - Un accès partiel à la profession au sens de la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre
+2005 relative à la reconnaissance des qualifications professionnelles peut être accordé au cas par cas aux ressortissants de
+l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen lorsque les trois conditions
+suivantes sont remplies :
+
+1° Le professionnel est pleinement qualifié pour exercer, dans l'Etat d'origine membre de l'Union ou partie à l'accord sur
+l'Espace économique européen, l'activité professionnelle pour laquelle l'accès partiel est sollicité ;
+
+2° Les différences entre l'activité professionnelle légalement exercée dans l'Etat d'origine membre de l'Union ou partie à
+l'accord sur l'Espace économique européen et la profession réglementée correspondante en France sont si importantes que
+l'application de mesures de compensation reviendrait à imposer au demandeur de suivre le programme complet d'enseignement et
+de formation requis en France pour avoir pleinement accès à la profession réglementée ;
+
+3° L'activité professionnelle est distincte de la ou des autres activités relevant de la profession réglementée, notamment
+dans la mesure où elle est exercée de manière autonome dans l'Etat d'origine.
+
+L'accès partiel peut être refusé pour des raisons impérieuses d'intérêt général, si ce refus est proportionné à la protection
+de cet intérêt.
+
+Les demandes aux fins d'accès partiel sont examinées, selon le cas, comme des demandes à fin d'établissement ou de libre
+prestation de services temporaire et occasionnelle.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V)
-  - Ordonnance n°2008-507 du 30 mai 2008 - art. 9
 
 _Cité par_:
 
@@ -1458,6 +1475,10 @@ _Cité par_:
   - Code de la route. - art. R212-3-2 (V)
   - Code de la route. - art. R213-2 (V)
   - Code de la route. - art. R233-1 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 5
 
 _Anciens textes_:
 
@@ -1738,6 +1759,36 @@ _Cite_:
   - Code de la route. - art. L212-1
   - Code de la route. - art. L212-2
   - Code de la route. - art. L223-6
+
+
+###### Article L213-1-1
+
+Un accès partiel, au sens de la directive 2005/36/ CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la
+reconnaissance des qualifications professionnelles, à la profession mentionnée à l'article L. 213-1 peut être accordé au cas
+par cas aux ressortissants de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+lorsque les trois conditions suivantes sont remplies : 
+
+1° Le professionnel est pleinement qualifié pour exercer, dans l'Etat d'origine membre de l'Union ou partie à l'accord sur
+l'Espace économique européen, l'activité professionnelle pour laquelle l'accès partiel est sollicité ; 
+
+2° Les différences entre l'activité professionnelle légalement exercée dans l'Etat d'origine membre de l'Union ou partie à
+l'accord sur l'Espace économique européen et la profession réglementée correspondante en France sont si importantes que
+l'application de mesures de compensation reviendrait à imposer au demandeur de suivre le programme complet d'enseignement et
+de formation requis en France pour avoir pleinement accès à la profession réglementée ; 
+
+3° L'activité professionnelle est distincte de la ou des autres activités relevant de la profession réglementée, notamment
+dans la mesure où elle est exercée de manière autonome dans l'Etat d'origine. 
+
+L'accès partiel peut être refusé pour des raisons impérieuses d'intérêt général, si ce refus est proportionné à la protection
+de cet intérêt. 
+
+Les demandes aux fins d'accès partiel sont examinées comme des demandes à fin d'établissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 6
 
 
 ###### Article L213-2
@@ -3716,13 +3767,10 @@ _Cite_:
 ###### Article L225-3
 
 Le titulaire du permis de conduire a droit à la communication du relevé intégral des mentions le concernant. Cette
-communication s'exerce dans les conditions prévues par la loi n° 78-753 du 17 juillet 1978.
+communication s'exerce dans les conditions prévues par le livre III du code des relations entre le public et
+l'administration.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°78-753 du 17 juillet 1978 (V)
 
 _Cité par_:
 
@@ -3734,19 +3782,18 @@ _Cité par_:
   - Code de la route. - art. R225-6 (V)
   - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
 
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 _Modifié par_:
 
-  - Ordonnance n°2005-650 du 6 juin 2005 - art. 11 () JORF 7 juin 2005
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
 
 _Anciens textes_:
 
   - Code de la route - art. L33 (Ab)
   - Code de la route L33
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. L300-1 (V)
 
 
 ###### Article L225-4
@@ -7855,17 +7902,40 @@ détermination de l'origine, de la consistance, de la valeur de ces dommages et 
 
 2° Détermination de la valeur des véhicules mentionnés au 1° du I du présent article. 
 
-II.-Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'Espace économique européen,
-légalement établi, pour l'exercice de l'activité d'expert en automobile, dans un de ces Etats, peut exercer cette profession
-de façon temporaire et occasionnelle en France. Il est inscrit à titre temporaire sur la liste nationale des experts en
-automobile. 
+II.-Tout professionnel ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace économique
+européen y exerçant l'activité d'expert en automobile est réputé détenir la qualification professionnelle pour exercer en
+France tout ou partie de cette activité de façon temporaire et occasionnelle, sous réserve d'être légalement établi dans l'un
+de ces Etats et, lorsque ni cette activité ni la formation y conduisant n'y sont réglementées, de l'avoir exercée dans un ou
+plusieurs Etats membres pendant une année ou à temps partiel pendant une durée équivalente au cours des dix années qui
+précèdent la prestation. Il est inscrit à titre temporaire sur la liste nationale des experts en automobile. 
 
-Toutefois, lorsque la profession d'expert en automobile ou la formation y conduisant n'est pas réglementée dans l'Etat
-d'établissement, le prestataire doit avoir exercé cette profession dans cet Etat pendant au moins deux ans au cours des dix
-années qui précèdent la prestation. 
+Lorsque le professionnel fournit pour la première fois une prestation en France, il en informe au préalable l'autorité
+administrative par une déclaration écrite dont le contenu et la procédure de dépôt sont précisées par décret. Cette
+déclaration donne lieu à une vérification des qualifications professionnelles du prestataire afin de permettre à l'autorité
+de s'assurer que la prestation ne portera pas atteinte à la sécurité ou à la santé du bénéficiaire du service du fait du
+manque de qualification professionnelle du prestataire.  ; 
 
-Lorsque le prestataire fournit pour la première fois des services en France, il en informe au préalable l'autorité compétente
-par une déclaration écrite qui donne lieu à une vérification de ses qualifications professionnelles. 
+II bis.-Un accès partiel à la profession au sens de la directive 2005/36/ CE du Parlement européen et du Conseil du 7
+septembre 2005 relative à la reconnaissance des qualifications professionnelles peut être accordé au cas par cas aux
+ressortissants de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen lorsque les trois
+conditions suivantes sont remplies : 
+
+1° Le professionnel est pleinement qualifié pour exercer, dans l'Etat d'origine membre de l'Union ou partie à l'accord sur
+l'Espace économique européen, l'activité professionnelle pour laquelle l'accès partiel est sollicité ; 
+
+2° Les différences entre l'activité professionnelle légalement exercée dans l'Etat d'origine membre de l'Union ou partie à
+l'accord sur l'Espace économique européen et la profession réglementée correspondante en France sont si importantes que
+l'application de mesures de compensation reviendrait à imposer au demandeur de suivre le programme complet d'enseignement et
+de formation requis en France pour avoir pleinement accès à la profession réglementée ; 
+
+3° L'activité professionnelle est distincte de la ou des autres activités relevant de la profession réglementée, notamment
+dans la mesure où elle est exercée de manière autonome dans l'Etat d'origine. 
+
+L'accès partiel peut être refusé pour des raisons impérieuses d'intérêt général, si ce refus est proportionné à la protection
+de cet intérêt. 
+
+Les demandes aux fins d'accès partiel sont examinées, selon le cas, comme des demandes à fin d'établissement ou de libre
+prestation de services temporaire et occasionnelle.
 
 III.-Par dérogation aux I et II ci-dessus, les activités exercées dans le cadre d'une procédure judiciaire ou intéressant la
 sécurité de l'Etat ou la défense nationale relèvent des seules dispositions particulières qui les réglementent. 
@@ -7878,10 +7948,6 @@ _Anciens textes_:
 
   - Loi n°72-1097 du 11 décembre 1972 - art. 1 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2008-507 du 30 mai 2008 - art. 10
-
 _Cité par_:
 
   - Arrêté du 29 avril 2009 - art. 3 (V)
@@ -7889,7 +7955,7 @@ _Cité par_:
   - Arrêté du 23 février 2010 - art. 7 (Ab)
   - Code de l'environnement - art. L541-21-3 (V)
   - Code de la route. - art. L326-7 (V)
-  - Code de la route. - art. L326-8 (V)
+  - Code de la route. - art. L326-8 (VD)
   - Code de la route. - art. L326-9 (V)
   - Code de la route. - art. R326-10 (V)
   - Code de la route. - art. R326-10-1 (Ab)
@@ -7897,6 +7963,10 @@ _Cité par_:
   - Code de la route. - art. R326-5 (V)
   - Code de la route. - art. R326-6 (V)
   - Code de la route. - art. R326-8 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 7
 
 _Cite_:
 
@@ -8008,8 +8078,8 @@ _Cité par_:
 ###### Article L326-8
 
 L'usage, sans droit, de la qualité d'expert en automobile ou le fait de s'en réclamer ainsi que l'exercice temporaire et
-occasionnel de cette activité sans respecter les conditions fixées au II de l'article L. 326-4 sont punis des peines prévues
-aux articles 433-17 et 433-22 du code pénal.
+occasionnel, même partiel, de cette activité sans respecter les conditions fixées au II et au II bis de l'article L. 326-4
+sont punis des peines prévues aux articles 433-17 et 433-22 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -8019,13 +8089,13 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-507 du 30 mai 2008 - art. 10
+  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 7
 
 _Cite_:
 
   - Code pénal - art. 433-17
   - Code pénal - art. 433-22
-  - Code de la route. - art. L326-4
+  - Code de la route. - art. L326-4 (VD)
 
 
 ###### Article L326-9
@@ -8520,9 +8590,8 @@ exigées pour la circulation des véhicules ne peuvent être communiquées qu'au
 à L. 330-4. 
 
 Ces informations nominatives sont également communicables à des tiers préalablement agréés par l'autorité administrative afin
-d'être réutilisées dans les conditions prévues au chapitre II du titre Ier de la loi n° 78-753 du 17 juillet 1978 portant
-diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre
-administratif, social et fiscal :
+d'être réutilisées dans les conditions prévues aux articles L. 321-1 à L. 327-1 du code des relations entre le public et
+l'administration :
 
 - à des fins statistiques, ou à des fins de recherche scientifique ou historique, sans qu'il soit nécessaire de recueillir
 l'accord préalable des personnes concernées mais sous réserve que les études réalisées ne fassent apparaître aucune
@@ -8544,9 +8613,9 @@ pour des motifs d'intérêt général liés à la protection des personnes et de
 _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978 - art. 38
-  - Loi n°78-753 du 17 juillet 1978
   - Loi n°95-73 du 21 janvier 1995 - art. 17-1
   - Code de la route. - art. L330-2
+  - Code des relations entre le public et l'adminis... - art. L321-1 (V)
 
 _Cité par_:
 
@@ -8559,7 +8628,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 47
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
 
 _Anciens textes_:
 
@@ -10544,11 +10613,11 @@ R. 311-3, R. 312-2 à R. 312-6, R. 312-10 à R. 312-14, R. 312-19 à R. 312-23, 
 313-12, R. 313-14, R. 313-17 à R. 313-20, R. 313-21, R. 313-24, R. 313-25, R. 313-26, R. 313-33, R. 314-1, R. 314-3, R.
 315-1, R. 315-2, R. 316-1, R. 316-3, R. 316-4, R. 316-6, R. 316-7, R. 316-8, R. 317-1, R. 317-3, R. 317-4, R. 317-5, R. 317-8
 à R. 317-14, R. 317-18, R. 317-20, R. 317-23, R. 317-24, R. 317-24-1, R. 317-26, R. 317-28, R. 318-1, R. 318-3, R. 318-4, R.
-322-1, R. 323-1, R. 323-2, R. 323-6, R. 323-22, R. 323-23 à R. 323-26, R. 325-2, R. 325-8, R. 411-17, R. 411-18, R. 411-21,
-R. 411-21-1, R. 411-23, R. 411-23-1, R. 411-23-2, R. 412-1, R. 412-13, R. 412-16, R. 433-1 à R. 433-8, R. 433-11, R. 433-12,
-R. 433-14 à R. 433-16, R. 433-20, R. 435-1 et R. 436-1 ainsi que, lorsqu'elles sont commises par le conducteur d'un véhicule
-qui doit être équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux dispositions relatives aux
-vitesses maximales autorisées par le présent code ;
+322-1, R. 323-1, R. 323-2, R. 323-6, R. 323-22, R. 323-23 à R. 323-26, R. 325-2, R. 325-8, R. 411-17, R. 411-18, R. 411-19,
+R. 411-21, R. 411-21-1, R. 411-23, R. 411-23-1, R. 411-23-2, R. 412-1, R. 412-13, R. 412-16, R. 433-1 à R. 433-8, R. 433-11,
+R. 433-12, R. 433-14 à R. 433-16, R. 433-20, R. 435-1 et R. 436-1 ainsi que, lorsqu'elles sont commises par le conducteur
+d'un véhicule qui doit être équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux dispositions
+relatives aux vitesses maximales autorisées par le présent code ;
 
 2° Toutes les autres contraventions prévues aux 1° et 2° de l'article R. 130-1 lorsqu'elles sont connexes à des infractions
 aux dispositions législatives relatives à l'accès aux professions du transport ferroviaire ou guidé et du transport routier
@@ -10569,11 +10638,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-784 du 8 juillet 2014 - art. 7
+  - Décret n°2015-1693 du 17 décembre 2015 - art. 6
 
 _Cité par_:
 
   - Décret n°2017-198 du 16 février 2017 (V)
+
+_Cite_:
+
+  - Code des assurances - art. R*211-14
 
 _Anciens textes_:
 
@@ -15574,7 +15647,11 @@ b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de pr
 
 6° Un éthylotest dans les conditions prévues à l'article R. 234-7 ; 
 
-7° Le procès-verbal de contrôle technique périodique pour les véhicules mentionnés aux articles R. 323-23 et R. 323-25. 
+7° Le procès-verbal de contrôle technique périodique pour les véhicules mentionnés aux articles R. 323-23 et R. 323-25 ;
+
+8° Le triangle de présignalisation prévu au I de l'article R. 416-19 ; 
+
+9° Le gilet de haute visibilité prévu au II de l'article R. 416-19. 
 
 II.-En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
 vol tient lieu de titre pendant un délai de deux mois au plus. 
@@ -15586,9 +15663,9 @@ IV.-Le fait, pour toute personne invitée à justifier dans un délai de cinq jo
 routière, de ne pas présenter ce document avant l'expiration de ce délai est puni de l'amende prévue pour les contraventions
 de la deuxième classe. 
 
-V.-Hors le cas prévu au 6° du I, le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la
-possession des autorisations et pièces exigées par le présent article, de ne pas présenter ces documents avant l'expiration
-de ce délai est puni de l'amende prévue pour les contraventions de la quatrième classe.
+V.-Hors les cas prévus aux 6°, 8° et 9° du I, le fait, pour toute personne invitée à justifier dans un délai de cinq jours de
+la possession des autorisations et pièces exigées par le présent article, de ne pas présenter ces documents avant
+l'expiration de ce délai est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
@@ -15607,13 +15684,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1537 du 25 novembre 2015 - art. 7
+  - Décret n°2015-514 du 7 mai 2015 - art. 1
 
 _Cite_:
 
   - Code de procédure pénale - art. 41-2
-  - Code de la route. - art. L212-1
-  - Code de la route. - art. R212-1 (V)
+  - Code de la route. - art. R211-3
   - Code de la route. - art. R221-8
   - Code de la route. - art. R234-7
   - Code de la route. - art. R323-23
@@ -25072,9 +25148,9 @@ _Modifié par_:
 Les réseaux de contrôle sont les personnes morales de droit privé soumises à l'agrément du ministre chargé des transports.
 
 Pour être agréé, un réseau doit comporter des centres de contrôle de véhicules légers répartis dans au moins quatre-vingt-dix
-départements. Pour être agréé pour le contrôle technique des véhicules lourds, un réseau doit comporter au moins trente
-centres de contrôle répartis dans au moins vingt régions et exploiter lui-même les centres de contrôle qui lui sont
-rattachés.
+départements. Un réseau ne peut être agréé pour le contrôle technique des véhicules lourds que s'il exploite lui-même les
+centres de contrôle qui lui sont rattachés et s'il en compte au moins trente situés dans au moins treize collectivités parmi
+les régions de métropole, la Corse, la Guadeloupe, la Guyane, la Martinique et La Réunion. 
 
 Un réseau de contrôle ne peut exercer aucune autre activité que celle de contrôle technique.
 
@@ -25089,20 +25165,15 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Décret n°91-370 1991-04-15 art. 2
   - Décret n°91-370 du 15 avril 1991 - art. 2 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-568 2004-06-11 art. 5 : champ d'application
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2004-568 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
+  - Décret n°2015-1794 du 28 décembre 2015 - art. 1
 
 
 ###### Article R323-9
@@ -31213,37 +31284,47 @@ _Cité par_:
 
 ###### Article R411-23-1
 
-I.-Sans préjudice des dispositions de l'article R. 411-23-2, les autobus et autocars qui assurent un service public de
-transport peuvent circuler avec des passagers debout : 
+I.-Sans préjudice des dispositions de l'article R. 411-23-2, les autobus et les autocars dont l'aménagement le prévoit
+peuvent circuler avec des passagers debout à l'intérieur des agglomérations. 
 
-1° A l'intérieur des agglomérations ; 
+Toutefois les véhicules effectuant des services occasionnels de transport public ou les services privés peuvent être soumis à
+des conditions d'aménagement fixées par arrêté du ministre chargé des transports. 
 
-2° Dans les limites des périmètres de transports urbains, tels que définis aux articles L. 1231-3 et suivants du code des
-transports, et en Ile-de-France, de la zone de compétence de l'autorité organisatrice des transports de voyageurs. 
+II.-Lorsque ces véhicules sont affectés à des services publics de transport, ils sont également autorisés à circuler dans les
+limites du ressort territorial d'une autorité organisatrice de la mobilité définie à l'article L. 1231-1 du code des
+transports ou du Syndicat des transports d'Ile-de-France. 
 
 En dehors des agglomérations, l'autorité organisatrice de transports compétente définit les itinéraires empruntés sans
 préjudice du pouvoir de l'autorité de police compétente. Les conditions relatives au prolongement de ces itinéraires au-delà
-des agglomérations ou des périmètres de transports urbains sont fixées par arrêté du ministre chargé des transports. 
+des agglomérations ou du ressort territorial d'une autorité organisatrice sont fixées par arrêté du ministre chargé des
+transports. 
 
-En cas d'urgence le justifiant, le préfet peut autoriser de façon limitée tout service en ayant recours à tout véhicule
-destiné au transport de personnes. 
+III.-En dehors des agglomérations, dans les limites du ressort territorial d'une autorité organisatrice de la mobilité
+définie à l'article L. 1231-1 du code des transports ou du Syndicat des transports d'Ile-de-France, le préfet peut à titre
+dérogatoire autoriser pour une durée déterminée des services privés à circuler avec des passagers debout au moyen des
+véhicules mentionnés au I, sur une distance maximale de 5 kilomètres. Cette autorisation fixe les conditions et limites de
+circulation, notamment l'itinéraire emprunté et la vitesse maximale à laquelle les véhicules sont autorisés à circuler. La
+demande d'autorisation adressée au préfet comporte tous les éléments nécessaires à son instruction. 
 
-II.-Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
+IV.-En cas d'urgence, le préfet peut autoriser de façon limitée tout service ayant recours à tout véhicule destiné au
+transport de personnes. 
+
+V.-Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
 prévue pour les contraventions de la quatrième classe. 
 
-III.-L'immobilisation du véhicule de transport en commun de personnes peut être prescrite dans les conditions prévues aux
+VI.-L'immobilisation du véhicule de transport en commun de personnes peut être prescrite dans les conditions prévues aux
 articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code des transports - art. L1231-3 (V)
-  - Code de la route. - art. L325-1 (V)
+  - Code des transports - art. L1231-1
+  - Code de la route. - art. L325-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-784 du 8 juillet 2014 - art. 7
+  - Décret n°2015-1693 du 17 décembre 2015 - art. 6
 
 _Cité par_:
 
@@ -32693,6 +32774,18 @@ _Anciens textes_:
 
   - SPEC_APPLI: Code de la route. - art. R432-1 (V)
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+
+###### Article R412-28-1
+
+Lorsque la vitesse maximale autorisée est inférieure ou égale à 30 km/ h, les chaussées sont à double sens pour les cyclistes
+sauf décision contraire de l'autorité investie du pouvoir de police.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-808 du 2 juillet 2015 - art. 5
 
 
 ##### Section 5 : Feux de signalisation lumineux.<a id=182></a>
@@ -34857,27 +34950,34 @@ _Anciens textes_:
 Tout conducteur ne doit s'engager dans une intersection que si son véhicule ne risque pas d'y être immobilisé et d'empêcher
 le passage des véhicules circulant sur les autres voies. 
 
-Le conducteur d'un véhicule autre qu'un cycle ou un cyclomoteur ne doit pas s'engager dans l'espace compris entre les deux
-lignes d'arrêt définies à l'article R. 415-15 lorsque son véhicule risque d'y être immobilisé. 
+Le conducteur d'un véhicule autre qu'un cycle ne doit pas s'engager dans l'espace compris entre les deux lignes d'arrêt
+définies à l'article R. 415-15 lorsque son véhicule risque d'y être immobilisé. 
+
+L'autorité investie du pouvoir de police de la circulation peut autoriser les conducteurs de cyclomoteurs à s'engager dans
+l'espace et dans les conditions prévues à l'alinéa précédent. 
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du premier alinéa est puni de l'amende prévue pour les
 contraventions de la quatrième classe. 
 
-Le fait, pour tout conducteur d'un véhicule autre qu'un cycle ou un cyclomoteur, de contrevenir aux dispositions du second
-alinéa est puni de l'amende prévue pour les contraventions de la deuxième classe.
+Le fait, pour tout conducteur d'un véhicule autre qu'un cycle ou, en cas de bénéfice des dispositions du troisième alinéa, un
+cyclomoteur, de contrevenir aux dispositions du second alinéa est puni de l'amende prévue pour les contraventions de la
+deuxième classe.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2015-808 du 2 juillet 2015 - art. 8
 
 _Anciens textes_:
 
   - Code de la route - art. R232 (Ab)
   - Code de la route - art. R233 (Ab)
   - Code de la route - art. R4-2 (Ab)
-  - Code de la route R4-2, R232 (al. 1 et 7), R233 (al. 1 et 2)
 
 _Cité par_:
 
@@ -34887,11 +34987,6 @@ _Cité par_:
 _Cite_:
 
   - Code de la route. - art. R415-15 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R415-3
@@ -35928,13 +36023,14 @@ assurer la présignalisation de l'obstacle en faisant usage de ses feux de détr
 
 En circulation, le conducteur doit disposer de ce triangle. 
 
-II. - Le conducteur doit revêtir un gilet de haute visibilité conforme à la réglementation lorsqu'il est amené à sortir d'un
+II. - Le conducteur doit revêtir un gilet de haute visibilité conforme à la réglementation lorsqu'il est amené à quitter un
 véhicule immobilisé sur la chaussée ou ses abords à la suite d'un arrêt d'urgence. 
 
-En circulation, le conducteur doit disposer de ce gilet à portée de main. 
+En circulation, le conducteur doit disposer de ce gilet à portée de main. Lorsqu'il conduit un véhicule à deux ou trois roues
+à moteur ou un quadricycle à moteur non carrossé, il doit disposer de ce gilet sur lui ou dans un rangement du véhicule.
 
-III. - Les dispositions des I et II du présent article ne s'appliquent pas aux conducteurs de véhicules à deux ou trois roues
-et quadricycles à moteur non carrossés. 
+III. - Les dispositions du I du présent article ne s'appliquent pas aux conducteurs de véhicules à deux ou trois roues à
+moteur et quadricycles à moteur non carrossés.
 
 Les dispositions du I ne s'appliquent pas aux conducteurs de véhicules d'intérêt général prioritaires faisant usage de leurs
 avertisseurs spéciaux. 
@@ -35943,17 +36039,16 @@ Les dispositions du II ne s'appliquent pas aux conducteurs de véhicules agricol
 général prioritaires, dès lors que les conducteurs de ces derniers disposent d'une tenue de haute visibilité conforme aux
 dispositions du code du travail relatives aux équipements de protection individuelle. 
 
-IV. - Un arrêté du ministre chargé des transports fixe les caractéristiques de ces dispositifs et les conditions
+IV. - Un arrêté du ministre chargé de la sécurité routière fixe les caractéristiques de ces dispositifs et les conditions
 d'application des I et II du présent article.
 
-V. - Le fait, pour tout conducteur, de contrevenir à une ou plusieurs des dispositions du présent article ou à celles prises
-pour son application est puni de l'amende prévue pour les contraventions de la 4e classe.
+V. - Le fait, pour tout conducteur, de contrevenir aux dispositions du premier alinéa du I et du premier alinéa du II ou à
+celles prises pour leur application est puni de l'amende prévue pour les contraventions de la 4e classe. 
+
+Le fait, pour tout conducteur, de contrevenir aux dispositions du deuxième alinéa du II ou à celles prises pour leur
+application est puni de l'amende prévue pour les contraventions de la 1re classe.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2008-754 du 30 juillet 2008 - art. 19
 
 _Cité par_:
 
@@ -35966,6 +36061,10 @@ _Cité par_:
   - Code de la route. - art. R233-1 (V)
   - Code du sport. - art. A331-39 (V)
   - Code du sport. - art. A331-40 (V)
+
+_Modifié par_:
+
+  - Décret n°2015-514 du 7 mai 2015 - art. 1
 
 _Anciens textes_:
 
@@ -37493,35 +37592,6 @@ _Cité par_:
   - Arrêté du 29 septembre 2008 - art. 3 (VD)
 
 
-###### Article R431-1-2
-
-Lorsqu'ils circulent ou lorsqu'ils sont amenés à descendre de leur véhicule immobilisé sur la chaussée ou ses abords à la
-suite d'un arrêt d'urgence, tous conducteurs et passagers d'une motocyclette d'une cylindrée supérieure à 125 cm³ ou d'un
-véhicule de la catégorie L5e d'une puissance supérieure à 15 kW/h doivent porter un vêtement muni d'un équipement
-rétroréfléchissant dont les caractéristiques sont fixées par arrêté du ministre chargé de la sécurité routière.
-
-Le fait pour tout conducteur ou passager d'une motocyclette ou tricycle visé au premier alinéa de contrevenir aux
-dispositions du présent article est puni de l'amende prévue pour les contraventions de la troisième classe.
-
-Cette contravention, lorsqu'elle est commise par le conducteur, donne lieu de plein droit à la réduction de deux points du
-permis de conduire.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2012-3 du 3 janvier 2012 - art. 23
-
-_Abrogé par_:
-
-  - Décret n°2015-514 du 7 mai 2015 - art. 1
-
-_Cité par_:
-
-  - Arrêté du 19 septembre 2016 (V)
-  - Arrêté du 19 septembre 2016 - art. 1 (V)
-
-
 ###### Article R431-3
 
 Des arrêtés du ministre chargé des transports et du ministre de l'intérieur fixent les conditions d'application des articles
@@ -37675,8 +37745,9 @@ police.
 Lorsque la chaussée est bordée de chaque côté par une piste cyclable, les utilisateurs de cette piste doivent emprunter celle
 ouverte à droite de la route, dans le sens de la circulation. 
 
-Les conducteurs de cycles peuvent circuler sur les aires piétonnes, sauf dispositions différentes prises par l'autorité
-investie du pouvoir de police, à la condition de conserver l'allure du pas et de ne pas occasionner de gêne aux piétons. 
+Les conducteurs de cycles peuvent circuler sur les aires piétonnes dans les deux sens, sauf dispositions différentes prises
+par l'autorité investie du pouvoir de police, à la condition de conserver l'allure du pas et de ne pas occasionner de gêne
+aux piétons. 
 
 Les conducteurs de cycles peuvent circuler sur les accotements équipés d'un revêtement routier. 
 
@@ -37684,10 +37755,6 @@ Le fait, pour tout conducteur, de contrevenir aux dispositions du présent artic
 puni de l'amende prévue pour les contraventions de la deuxième classe.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
