@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-01-25
+Version Consolidée au 2016-01-28
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -4777,8 +4777,8 @@ présent code de la peine complémentaire de suspension du permis de conduire ou
 conducteur impliqué dans un accident de la circulation ayant occasionné un dommage corporel. 
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur ou tout accompagnateur d'élève conducteur impliqué dans un accident
-quelconque de la circulation ou auteur présumé de l'une des infractions aux prescriptions du présent code relatives à la
-vitesse des véhicules et au port de la ceinture de sécurité ou du casque.
+quelconque de la circulation ou auteur présumé de l'une des infractions aux prescriptions du présent code
+autres que celles mentionnées au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -4789,7 +4789,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 93
+  - Loi n°2016-41 du 26 janvier 2016 - art. 45
 
 _Anciens textes_:
 
@@ -5325,9 +5325,9 @@ _Cite_:
 
 ###### Article L235-1
 
-I.-Toute personne qui conduit un véhicule ou qui accompagne un élève conducteur alors qu'il résulte d'une analyse sanguine
-qu'elle a fait usage de substances ou plantes classées comme stupéfiants est punie de deux ans d'emprisonnement et de 4 500
-euros d'amende. 
+I.-Toute personne qui conduit un véhicule ou qui accompagne un élève conducteur alors qu'il résulte d'une analyse sanguine ou
+salivaire qu'elle a fait usage de substances ou plantes classées comme stupéfiants est punie de deux ans d'emprisonnement et
+de 4 500 euros d'amende. 
 
 Si la personne se trouvait également sous l'empire d'un état alcoolique caractérisé par une concentration d'alcool dans le
 sang ou dans l'air expiré égale ou supérieure aux taux fixés par les dispositions législatives ou réglementaires du présent
@@ -5364,11 +5364,10 @@ points du permis de conduire.
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
-  - Code pénal - art. 131-25 (V)
-  - Code pénal - art. 131-5 (V)
-  - Code pénal - art. 131-8 (V)
-  - Code de la route. - art. L325-1 (V)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-25
+  - Code pénal - art. 131-5
+  - Code de la route. - art. L325-1
 
 _Cité par_:
 
@@ -5395,12 +5394,12 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
+  - Loi n°2016-41 du 26 janvier 2016 - art. 45
 
 _Anciens textes_:
 
@@ -5432,6 +5431,13 @@ d'établir si cette personne conduisait en ayant fait usage de substances ou pla
 réquisitions prévues au présent alinéa peuvent être adressées par tout moyen. Si elles sont adressées oralement, il en est
 fait mention dans le procès-verbal dressé par l'officier ou l'agent de police judiciaire.
 
+Les officiers de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents à leur initiative
+et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et les agents de police judiciaire
+adjoints, peuvent également, même en l'absence d'accident de la circulation, d'infraction ou de raisons plausibles de
+soupçonner un usage de stupéfiants, procéder ou faire procéder, sur tout conducteur ou tout accompagnateur d'élève
+conducteur, à des épreuves de dépistage en vue d'établir si cette personne conduisait en ayant fait usage de substances ou
+plantes classées comme stupéfiants. 
+
 Si les épreuves de dépistage se révèlent positives ou lorsque le conducteur refuse ou est dans l'impossibilité de les subir,
 les officiers ou agents de police judiciaire font procéder à des vérifications consistant en des analyses ou examens
 médicaux, cliniques et biologiques, en vue d'établir si la personne conduisait en ayant fait usage de substances ou plantes
@@ -5441,7 +5447,7 @@ Lorsque la constatation est faite par un agent de police judiciaire adjoint ment
 l'article 21 du code de procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un usage de
 substances ou plantes classées comme stupéfiants ou du refus du conducteur ou de l'accompagnateur de l'élève conducteur de
 subir les épreuves de dépistage à tout officier de police judiciaire de la police nationale ou de la gendarmerie nationale
-territorialement compétent, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ la personne concernée. 
+territorialement compétent, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ la personne concernée.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
@@ -5451,10 +5457,6 @@ _Codifié par_:
 
   - Ordonnance n°2000-930 du 22 septembre 2000
   - Loi n°2003-495 du 12 juin 2003
-
-_Modifié par_:
-
-  - Loi n°2011-267 du 14 mars 2011 - art. 83
 
 _Cité par_:
 
@@ -5476,6 +5478,10 @@ _Cité par_:
   - Code de la sécurité intérieure - art. Annexe 1 (V)
   - Code de la sécurité intérieure - art. Annexe 2 (V)
   - Code de la sécurité intérieure - art. R546-2 (VD)
+
+_Modifié par_:
+
+  - Loi n°2016-41 du 26 janvier 2016 - art. 45
 
 _Cite_:
 
