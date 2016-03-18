@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-01-28
+Version Consolidée au 2016-03-19
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -29011,46 +29011,40 @@ _Anciens textes_:
 ###### Article R330-7
 
 Les personnes souhaitant bénéficier des dispositions des trois derniers alinéas de l'article L. 330-5 demandent au ministre
-de l'intérieur la délivrance d'une licence dans les conditions prévues à l'article 16 de la loi n° 78-753 du 17 juillet 1978
-portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre
-administratif, social et fiscal. La licence vaut agrément au sens de l'article L. 330-5. 
+de l'intérieur la délivrance d'une licence dans les conditions prévues aux articles L. 323-1 et L. 323-2 du code des
+relations entre le public et l'administration. La licence vaut agrément au sens de l'article L. 330-5. 
 
 La licence est dite statistique si elle est demandée aux fins prévues au troisième alinéa de l'article L. 330-5. Elle est
 dite commerciale si elle est demandée aux fins prévues à son quatrième alinéa.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°78-753 du 17 juillet 1978 - art. 16
-  - Code de la route. - art. L330-5
-
-_Créé par_:
-
-  - Décret n°2010-682 du 22 juin 2010 - art. 1
-
 _Cité par_:
 
   - Arrêté du 11 avril 2011 - art. 3 (V)
   - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
 
+_Modifié par_:
 
-###### Article R330-8
-
-La demande de licence de réutilisation est présentée et instruite conformément à l'article 37 du décret n° 2005-1755 du 30
-décembre 2005 relatif à la liberté d'accès aux documents administratifs et à la réutilisation des informations publiques,
-pris pour l'application de la loi n° 78-753 du 17 juillet 1978.
-
-**Liens relatifs à cet article**
+  - Ordonnance n°2016-307 du 17 mars 2016 - art. 4 (V)
 
 _Cite_:
 
-  - Loi n°78-753 du 17 juillet 1978
-  - Décret n°2005-1755 du 30 décembre 2005 - art. 37
+  - Code de la route. - art. L330-5 (V)
+  - Code des relations entre le public et l'adminis... - art. L323-1 (V)
+  - Code des relations entre le public et l'adminis... - art. L323-2 (V)
 
-_Créé par_:
 
-  - Décret n°2010-682 du 22 juin 2010 - art. 1
+###### Article R330-8
+
+La demande de licence de réutilisation est présentée et instruite conformément
+aux articles R. 323-4 à R. 323-7 du code des relations entre le public et l'administration.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2016-308 du 17 mars 2016 - art. 3
 
 
 ###### Article R330-9
