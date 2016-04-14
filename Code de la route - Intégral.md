@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-04-01
+Version Consolidée au 2016-04-15
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -17985,7 +17985,8 @@ supérieur à 12 tonnes ;
 
 2. 4. Camionnette : véhicule de catégorie N1 ne répondant pas à la définition du véhicule de catégorie L6e ou L7e. 
 
-3. Véhicules de catégorie O : véhicules remorqués : 
+3. Véhicules de catégorie O : véhicules remorqués conçus et construits pour le transport de marchandises ou de personnes
+ainsi que l'hébergement de personnes.
 
 3. 1. Véhicule de catégorie O1 : véhicule remorqué ayant un poids maximal inférieur ou égal à 0, 75 tonne ; 
 
@@ -18004,92 +18005,191 @@ véhicule tracteur.
 
 4. Véhicules de catégorie L : véhicules à moteur à deux ou trois roues et quadricycles à moteur : 
 
-4. 1. Véhicule de catégorie L1e : véhicule à deux roues dont la vitesse maximale par construction est égale ou supérieure à 6
-km / h et ne dépasse pas 45 km / h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm ³ s'il est à combustion
-interne ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur ; 
+4.1. Véhicule de catégorie L1e : véhicule à deux roues dont la vitesse maximale par construction est égale ou supérieure à 6
+km/h et ne dépasse pas 45 km/h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm³ s'il est à combustion interne à
+allumage commandé et d'une puissance maximale nette n'excédant pas 4 kilowatts ;
 
-4. 2. Véhicule de catégorie L2e : véhicule à trois roues (L2e) dont la vitesse maximale par construction est égale ou
-supérieure à 6 km / h et ne dépasse pas 45 km / h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm ³ s'il est à
-allumage commandé ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur ; 
+4.1.1. Véhicule de sous-catégorie L1e-A : véhicule de la catégorie L1e muni de pédales dont le mode de propulsion auxiliaire
+d'aide au pédalage d'une puissance maximale est inférieure à 1 kW et s'interrompt dès que le véhicule atteint une vitesse
+égale ou supérieure à 25 km/h. Ce véhicule peut être équipé de trois ou quatre roues ;
 
-4. 3. Véhicule de catégorie L3e : véhicule à deux roues sans side-car, équipé d'un moteur d'une cylindrée supérieure à 50 cm
-³ s'il est à combustion interne et / ou dont la vitesse maximale par construction est supérieure à 45 km / h ; 
+4.1.2. Véhicule de la sous-catégorie L1e-B : véhicule de la catégorie L1e autre que L1e-A ;
 
-4. 4. Véhicule de catégorie L4e : véhicule à deux roues avec side-car, équipé d'un moteur d'une cylindrée supérieure à 50 cm
-³ s'il est à combustion interne et / ou dont la vitesse maximale par construction est supérieure à 45 km / h ; 
+4.2. Véhicule de catégorie L2e : véhicule à trois roues (L2e) dont la vitesse maximale par construction est égale ou
+supérieure à 6 km/h et ne dépasse pas 45 km/h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm3 s'il est à
+combustion interne à allumage commandé ou d'une cylindrée ne dépassant pas 500 cm³ s'il est à combustion interne à allumage
+par compression et d'une puissance maximale nette n'excédant pas 4 kilowatts ;
 
-4. 5. Véhicule de catégorie L5e : véhicule à trois roues symétriques, équipé d'un moteur d'une cylindrée supérieure à 50 cm ³
-s'il est à combustion interne et / ou dont la vitesse maximale par construction est supérieure à 45 km / h ; 
+4.2.1. Véhicule de sous-catégorie L2e-P : véhicule de la catégorie L2e destiné au transport de personnes ;
 
-4. 6. Véhicule de catégorie L6e : véhicule à moteur à quatre roues dont le poids à vide n'excède pas 350 kilogrammes, la
-vitesse maximale par construction est égale ou supérieure à 6 km / h et ne dépasse pas 45 km / h et la cylindrée n'excède pas
-50 cm ³ pour les moteurs à allumage commandé ou dont la puissance maximale nette n'excède pas 4 kilowatts pour les autres
-types de moteur ; 
+4.2.2. Véhicule de sous-catégorie L2e-U : véhicule de la catégorie L2e conçu à des fins utilitaires ;
 
-4. 7. Véhicule de catégorie L7e : véhicule à moteur à quatre roues dont la puissance maximale nette du moteur est inférieure
-ou égale à 15 kilowatts, le poids à vide n'excède pas 550 kilogrammes pour les quadricycles affectés au transport de
-marchandises et 400 kilogrammes pour les quadricycles destinés au transport de personnes, et qui n'est pas de catégorie
-L6e ; 
+4.3. Véhicule de catégorie L3e : véhicule à deux roues sans side-car autre que L1 ;
+
+4.3.1. Véhicule de la sous-catégorie L3e-A1 : véhicule de la catégorie L3e équipé d'un moteur d'une cylindrée ne dépassant
+pas 125 cm³ et d'une puissance maximale ne dépassant pas 11 kW et d'un ratio puissance/poids à vide ne dépassant pas 0,1 kW/
+kg ;
+
+4.3.2. Véhicule de la sous-catégorie L3e-A2 : véhicule de la catégorie L3e, autre que L3e-A1, équipé d'un moteur d'une
+puissance maximale ne dépassant pas 35 kW et d'un ratio puissance/poids à vide ne dépassant pas 0,2 kW/kg et non dérivé d'un
+véhicule équipé d'un moteur de plus du double de sa puissance ;
+
+4.3.3. Véhicule de la sous-catégorie L3e-A3 : véhicule de la catégorie L3e, autre que L3e-A1 et L3e-A2 ;
+
+4.3.4. Véhicule des sous-sous-catégories L3e-A1E, L3e-A2E, L3e-A3E : motocyclette d'enduro ;
+
+4.3.5. Véhicule des sous-sous-catégories L3e-A1T, L3e-A2T, L3e-A3T : motocyclette de trial ;
+
+4.4. Véhicule de catégorie L4e : véhicule de la catégorie et sous-catégorie L3e équipé d'un side-car pouvant transporter au
+plus quatre personnes y compris le conducteur dont deux au plus dans le side-car ;
+
+4.5. Véhicule de catégorie L5e : véhicule à trois roues autre que L2e et dont la masse en ordre de marche ne dépasse pas 1
+000 kg ;
+
+4.5.1. Véhicule de la sous-catégorie L5e-A : véhicule de la catégorie L5e destiné au transport de personnes dans la limite de
+cinq places assises y compris le conducteur ;
+
+4.5.2. Véhicule de la sous-catégorie L5e-B : véhicule de la catégorie L5e conçu à des fins utilitaires et comportant au plus
+deux places assises y compris le conducteur ; 
+
+4.6. Véhicule de catégorie L6e : véhicule à moteur à quatre roues dont le poids à vide n'excède pas 425 kilogrammes, la
+vitesse maximale par construction est égale ou supérieure à 6 km/h et ne dépasse pas 45 km/h et la cylindrée n'excède pas 50
+cm³ pour les moteurs à combustion interne à allumage commandé, 500 cm³ pour les moteurs à combustion interne à allumage par
+compression et conçu pour transporter au plus deux personnes y compris le conducteur ; 
+
+4.6.1. Véhicule de la sous-catégorie L6e-A : véhicule de la catégorie L6e autre que L6e-B et équipé d'un moteur d'une
+puissance maximale ne dépassant pas 4 kW ;
+
+4.6.2. Véhicule de la sous-catégorie L6e-B : véhicule de la catégorie L6e muni d'un habitacle fermé accessible par trois
+côtés au maximum et équipé d'un moteur d'une puissance maximale ne dépassant pas 6 kW ;
+
+4.6.2.1. Véhicule de la sous-sous-catégorie L6e-BP : véhicule de la sous-catégorie L6e-B destiné au transport de personnes ;
+
+4.6.2.2. Véhicule de la sous-sous-catégorie L6e-BU : véhicule de la sous-catégorie L6e-B conçu pour le transport de
+marchandises ;
+
+4.7. Véhicule de catégorie L7e : véhicule à moteur à quatre roues n'appartenant pas à la catégorie L6e dont le poids à vide
+n'excède pas 600 kilogrammes pour les quadricycles affectés au transport de marchandises et 450 kilogrammes pour les
+quadricycles destinés au transport de personnes ;
+
+4.7.1. Véhicule de la sous-catégorie L7e-A : véhicule de la catégorie L7e n'appartenant pas aux sous-catégories L7e-B et L7e-
+C, conçu uniquement pour le transport de personnes et équipé d'un moteur d'une puissance maximale n'excédant pas 15 kW ;
+
+4.7.1.1. Véhicule de la sous-sous-catégorie L7e-A1 : véhicule de la sous-catégorie L7e-A équipé d'un guidon de direction et
+pouvant transporter au plus deux personnes assises à califourchon ;
+
+4.7.1.2. Véhicule de la sous-sous-catégorie L7e-A2 : véhicule de la sous-catégorie L7e-A n'appartenant pas à la sous-sous-
+catégorie L7e-A1 et pouvant transporter au plus deux personnes assises ;
+
+4.7.2. Véhicule de la sous-catégorie L7e-B : véhicule de la catégorie L7e n'appartenant pas à la sous-catégorie L7e-C conçu
+pour le hors route ;
+
+4.7.2.1. Véhicule de la sous-sous-catégorie L7e-B1 : véhicule de la sous-catégorie L7e-B équipé d'un guidon de direction et
+pouvant transporter au plus deux personnes assises à califourchon à une vitesse maximale de 90 km/h ;
+
+4.7.2.2. Véhicule de la sous-sous-catégorie L7e-B2 : véhicule de la sous-catégorie L7e-B, n'appartenant pas à la sous-sous-
+catégorie L7e-B1, pouvant transporter trois personnes assises dont deux sont côte à côte et équipé d'un moteur d'une
+puissance maximale n'excédant pas 15 kW ;
+
+4.7.3. Véhicule de la sous-catégorie L7e-C : véhicule de la catégorie L7e n'appartenant pas à la sous-catégorie L7e-B, muni
+d'un habitacle fermé accessible par trois côtés au maximum, équipé d'un moteur d'une puissance maximale ne dépassant pas 15
+kW et dont la vitesse maximale ne dépasse pas 90 km/h ;
+
+4.7.3.1. Véhicule de la sous-sous-catégorie L7e-CP : véhicule de la sous-catégorie L7e-C conçu pour le transport d'au plus
+quatre personnes assises y compris le conducteur ;
+
+4.7.3.2. Véhicule de la sous-sous-catégorie L7e-CU : véhicule de la sous-catégorie L7e-C conçu pour le transport de
+marchandises et comportant au plus deux places assises y compris le conducteur ; 
 
 4. 8. Cyclomoteur : véhicule de catégorie L1e ou L2e ; 
 
-4. 9. Motocyclette : véhicule de catégorie L3e ou L4e et dont la puissance n'excède pas 73, 6 kilowatts (100 ch) ;
-l'adjonction d'un side-car à une motocyclette ne modifie pas le classement de celle-ci ; 
+4.9. Motocyclette : véhicule de catégorie L3e ou L4e ; l'adjonction d'un side-car à une motocyclette ne modifie pas le
+classement de celle-ci ;
 
-4. 10. Motocyclette légère : motocyclette dont la cylindrée n'excède pas 125 cm ³ et dont la puissance n'excède pas 11
-kilowatts ; les motocyclettes qui, avant le 5 juillet 1996, étaient considérées comme motocyclettes légères ou qui avaient
-été réceptionnées comme telles restent classées dans ces catégories après cette date, à l'exception des véhicules à deux
-roues à moteur dont la cylindrée n'excède pas 50 cm ³ et dont la vitesse n'excède pas 45 km / h munis d'un embrayage ou d'une
-boîte de vitesses non automatique qui sont des cyclomoteurs ; les véhicules à deux roues à moteur d'une cylindrée n'excédant
-pas 125 cm ³ mis en circulation sous le genre " vélomoteur " avant le 1er mars 1980 sont considérés comme des motocyclettes
-légères ; l'adjonction d'un side-car à une motocyclette légère ne modifie pas le classement de celle-ci ; 
+4.9.1. Motocyclette légère : véhicule de la sous-catégorie L3e-A1 ; les motocyclettes qui, avant le 5 juillet 1996, étaient
+considérées comme motocyclettes légères ou qui avaient été réceptionnées comme telles restent classées dans ces catégories
+après cette date, à l'exception des véhicules à deux roues à moteur dont la cylindrée n'excède pas 50 cm³ et dont la vitesse
+n'excède pas 45 km/h munis d'un embrayage ou d'une boîte de vitesses non automatique qui sont des cyclomoteurs ; les
+véhicules à deux roues à moteur d'une cylindrée n'excédant pas 125 cm³ mis en circulation sous le genre "vélomoteur" avant le
+1er mars 1980 sont considérés comme des motocyclettes légères ; l'adjonction d'un side-car à une motocyclette légère ne
+modifie pas le classement de celle-ci ;
 
-4. 11. Tricycle à moteur : véhicule de catégorie L5e, dont le poids à vide n'excède pas 1 000 kilogrammes, la charge utile
-n'excède pas 1 500 kilogrammes pour les tricycles destinés au transport de marchandises et 300 kilogrammes pour les tricycles
-destinés au transport de personnes ; 
+4.9.2. Motocyclette d'enduro : véhicule de la sous-sous-catégorie L3e-A1E ou L3e-A2E ou L3e-A3E ;
 
-4. 12. Quadricycle léger à moteur : véhicule de catégorie L6e, dont la charge utile n'excède pas 200 kilogrammes ; 
+4.9.3. Motocyclette de trial : véhicule de la sous-sous-catégorie L3e-A1T ou L3e-A2T ou L3e-A3T ; 
 
-4. 13. Quadricycle lourd à moteur : véhicule de catégorie L7e, dont la charge utile n'excède pas 1 000 kilogrammes s'ils sont
-destinés au transport de marchandises et 200 kilogrammes s'ils sont destinés au transport de personnes. 
+4.10. Tricycle à moteur : véhicule de catégorie L5e dont le poids à vide n'excède pas 1 000 kilogrammes et la charge utile
+n'excède pas 1 000 kilogrammes pour les tricycles destinés au transport de marchandises ou la valeur du poids à vide du
+véhicule pour les tricycles destinés au transport de personnes ;
+
+4.11. Quadricycle léger à moteur : véhicule de la sous-catégorie L6eB dont la charge utile n'excède pas 250 kilogrammes s'il
+est destiné au transport de personnes et 300 kilogrammes s'il est conçu pour le transport de marchandises ;
+
+4.12. Quadricycle lourd à moteur : véhicule de catégorie L7e dont la charge utile n'excède pas 1 000 kilogrammes s'il est
+destiné au transport de marchandises ou la valeur du poids à vide du véhicule s'il est destiné au transport de personnes ;
+
+4.13. Quad routier léger à moteur : quadricycle léger de la sous-catégorie L6e-A ;
+
+4.14. Quad routier lourd à moteur : quadricycle lourd de la sous-catégorie L7e-A ;
+
+4.15. Quad tout terrain lourd à moteur : quadricycle lourd de la sous-catégorie L7e-B ; 
 
 5. Véhicules agricoles ou forestiers : un véhicule destiné à l'exploitation forestière est assimilé à la catégorie
 correspondante du véhicule agricole ; 
 
-5. 1. Véhicules de catégorie T (à roues) ou C (à chenilles) : véhicules agricoles à moteur : 
+5.1. Véhicules de catégorie T (à roues) ou C (à chenilles) : véhicules agricoles à moteur conçus pour une vitesse n'excédant
+pas 40 km/h (indice "a") ou excédant 40 km/h (indice "b") ; 
 
-5. 1. 1. Tracteur agricole : véhicule à moteur, à roues ou à chenilles, ayant au moins deux essieux et une vitesse maximale
-par construction égale ou supérieure à 6 km / h, dont la fonction réside essentiellement dans sa puissance de traction et qui
-est spécialement conçu pour tirer, pousser, porter ou actionner certains équipements interchangeables destinés à des usages
-agricoles ou tracter des véhicules remorqués agricoles ; 
+5.1.1. Tracteur agricole : véhicule à moteur, à roues ou à chenilles, ayant au moins deux essieux et une vitesse maximale par
+construction égale ou supérieure à 6 km/h, dont la fonction réside essentiellement dans sa puissance de traction et qui est
+spécialement conçu pour tirer, pousser, porter ou actionner certains équipements interchangeables destinés à des usages
+agricoles ou tracter des véhicules remorqués agricoles ; il peut être aménagé pour transporter une charge dans un contexte
+agricole ou forestier et/ou peut être équipé d'un ou de plusieurs sièges passagers ;
 
-5. 1. 2. Véhicule de catégorie T1 ou C1 : tracteur agricole dont la vitesse maximale par construction n'est pas supérieure à
-40 km / h, dont la voie minimale de l'essieu le plus proche du conducteur est égale ou supérieure à 1 150 mm, la masse à vide
-en ordre de marche supérieure à 600 kilogrammes et la garde au sol inférieure ou égale à 1 000 mm ; 
+5.1.2. Véhicule de catégorie T1 ou C1, a ou b : tracteur agricole dont la voie minimale de l'essieu le plus proche du
+conducteur est égale ou supérieure à 1 150 mm, la masse à vide en ordre de marche supérieure à 600 kilogrammes et la garde au
+sol inférieure ou égale à 1 000 mm ;
 
-5. 1. 3. Véhicule de catégorie T2 ou C2 : tracteur agricole dont la vitesse maximale par construction n'est pas supérieure à
-40 km / h, dont la voie minimale est inférieure à 1 150 mm, la masse à vide en ordre de marche supérieure à 600 kilogrammes
-et la garde au sol inférieure ou égale à 600 mm ; 
+5.1.3. Véhicule de catégorie T2 ou C2, a ou b : tracteur agricole dont la voie minimale est inférieure à 1 150 mm, la masse à
+vide en ordre de marche supérieure à 600 kilogrammes et la garde au sol inférieure ou égale à 600 mm et dont la vitesse
+maximale par construction est limitée à 30 km/h si la hauteur du centre de gravité du tracteur (mesurée par rapport au sol),
+divisée par la moyenne des voies minimales de chaque essieu est supérieure à 0,90 ;
 
-5. 1. 4. Véhicule de catégorie T3 ou C3 : tracteur agricole dont la vitesse maximale par construction n'est pas supérieure à
-40 km / h d'une masse à vide en ordre de marche inférieure ou égale à 600 kilogrammes ; 
+5.1.4. Véhicule de catégorie T3 ou C3, a ou b : tracteur agricole d'une masse à vide en ordre de marche inférieure ou égale à
+600 kilogrammes ;
 
-5. 1. 5. Véhicule de catégorie T4 ou C4 : tracteur agricole spécial dont la vitesse maximale par construction n'est pas
-supérieure à 40 km / h ; 
+5.1.5. Véhicule de catégorie T4 ou C4, a ou b : tracteur agricole spécial ;
 
-5. 1. 6. Véhicule de catégorie T5 ou C5 : tracteur agricole à vitesse maximale par construction supérieure à 40 km / h ; 
+5.1.5.1. Véhicule de "catégorie T4.1" (tracteur enjambeur) : tracteur conçu pour les cultures hautes en ligne, telles que la
+vigne. Il est caractérisé par un châssis entièrement ou partiellement surélevé de telle sorte qu'il peut circuler
+parallèlement aux lignes de culture avec les roues droites et gauches de part et d'autre d'une ou plusieurs lignes. Il est
+conçu pour porter ou actionner des outils qui peuvent être fixés à l'avant, entre les essieux, à l'arrière ou sur une plate-
+forme. Lorsque le tracteur est en position de travail, la garde au sol mesurée dans le plan vertical des lignes de cultures
+est supérieure à 1 000 mm. Lorsque la hauteur du centre de gravité du tracteur mesurée par rapport au sol et en utilisant des
+pneumatiques de monte normale, divisée par la moyenne des voies minimales de l'ensemble des essieux, est supérieure à 0,90,
+la vitesse maximale par construction ne doit pas dépasser 30 km/h ;
+
+5.1.5.2. Véhicule de la "catégorie T4.2" (tracteur de grande largeur) : tracteur se caractérisant par ses dimensions
+importantes plus spécialement destiné aux grandes surfaces agricoles ;
+
+5.1.5.3. Véhicule de la "catégorie T4.3" (tracteur à basse garde au sol) : tracteur à quatre roues motrices, dont les engins
+interchangeables sont destinés à l'usage agricole ou forestier, se caractérisant par un châssis porteur équipé d'une ou
+plusieurs prises de force et dont la masse techniquement admissible n'est pas supérieure à 10 tonnes, le rapport entre cette
+masse et la masse maximale à vide en ordre de marche est inférieur à 2,5 et le centre de gravité mesuré par rapport au sol en
+utilisant des pneumatiques de monte normale est inférieur à 850 mm ;
+
+5. 1. 6. (Abrogé) ; 
 
 5. 2. Véhicules de catégorie R : véhicules agricoles remorqués : 
 
-5. 2. 1. Remorque agricole : véhicule remorqué destiné au transport et conçu pour être attelé à un tracteur agricole ou à une
-machine agricole automotrice ; 
+5.2.1. Remorque agricole : tout véhicule essentiellement conçu pour être tiré par un tracteur ou une machine agricole
+automotrice et principalement destiné au transport de charges ou au traitement de matières et dont le rapport entre la masse
+maximale en charge techniquement admissible et la masse à vide est égal ou supérieur à 3 ; 
 
 5. 2. 2. Semi-remorque agricole : remorque agricole dont une partie de son poids et du poids de son chargement repose en
 partie sur le véhicule tracteur ; 
 
-5. 2. 3. Est assimilé à un véhicule agricole remorqué tout véhicule remorqué comportant un outil à demeure si le rapport
-entre le poids total en charge et le poids à vide du véhicule est supérieur ou égal à la valeur 3 et si le véhicule n'est pas
-conçu pour le traitement de matières ; 
+5. 2. 3. (Abrogé) ;
 
 5. 2. 4. Véhicule de catégorie R1a : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
 inférieur ou égal à 1 500 kilogrammes et conçue pour une vitesse inférieure ou égale à 40 km / h ; 
@@ -18119,13 +18219,14 @@ supérieur à 21 000 kilogrammes et conçue pour une vitesse supérieure à 40 k
 
 5. 3. Véhicules de catégorie S : machines ou instruments agricoles remorqués : 
 
-5. 3. 1. Machine ou instrument agricole remorqué : véhicule remorqué non destiné principalement au transport et conçu pour
-être attelé à un tracteur agricole ou à une machine agricole automotrice et qui modifie la fonction du véhicule tracteur ou
-lui apporte une fonction nouvelle ; 
+5.3.1. Machine ou instrument agricole remorqué : tout véhicule conçu pour être tiré par un tracteur ou par une machine
+agricole automotrice et qui modifie la fonction de ce dernier ou lui apporte une fonction nouvelle, qui comporte un outil à
+demeure ou est conçu pour le traitement de matières, qui peut comporter un plateau de chargement conçu et réalisé pour
+recevoir les outils et dispositifs nécessaires pour l'exécution des tâches et le stockage temporaire des matières produites
+ou nécessaires pendant le travail, si le rapport entre la masse maximale en charge techniquement admissible et la masse à
+vide de ce véhicule est inférieur à 3 ;
 
-5. 3. 2. Est assimilé à une machine ou instrument agricole remorqué tout véhicule comportant un outil à demeure ou conçu pour
-le traitement des matières, si le rapport entre le poids total en charge et le poids à vide du véhicule est inférieur à la
-valeur 3. 
+5. 3. 2. (Abrogé) ; 
 
 5. 3. 3. Véhicule de catégorie S1a : machine ou instrument agricole remorqué ayant un poids maximal sur l'ensemble de ses
 essieux inférieur ou égal à 3, 5 tonnes et conçu pour une vitesse inférieure ou égale à 40 km / h ; 
@@ -18169,11 +18270,11 @@ exclusivement à l'intervention de ces unités et du ministère de la justice af
 rétablissement de l'ordre dans les établissements pénitentiaires ; 
 
 6. 6. Véhicule d'intérêt général bénéficiant de facilités de passage : ambulance de transport sanitaire, véhicule
-d'intervention d'Electricité de France et de Gaz de France, du service de la surveillance de la Société nationale des chemins
-de fer français, de transports de fonds de la Banque de France, des associations médicales concourant à la permanence des
-soins, des médecins lorsqu'ils participent à la garde départementale, de transports de produits sanguins et d'organes
-humains, engin de service hivernal et, sur autoroutes ou routes à deux chaussées séparées, véhicule d'intervention des
-services gestionnaires de ces voies ; 
+d'intervention de sécurité des sociétés gestionnaires d'infrastructures électriques et gazières, du service de la
+surveillance de la Société nationale des chemins de fer français, de transports de fonds de la Banque de France, des
+associations médicales concourant à la permanence des soins, des médecins lorsqu'ils participent à la garde départementale,
+de transports de produits sanguins et d'organes humains, engin de service hivernal et, sur autoroutes ou routes à deux
+chaussées séparées, véhicule d'intervention des services gestionnaires de ces voies ; 
 
 6. 7. Véhicule spécialisé : véhicule de catégorie M, N, O, T ou C prévu pour une fonction qui requiert un aménagement ou un
 équipement spécifique ; 
@@ -18407,7 +18508,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-784 du 8 juillet 2014 - art. 7
+  - Décret n°2016-448 du 13 avril 2016 - art. 2
 
 
 ###### Article R311-2
@@ -18501,17 +18602,17 @@ _Anciens textes_:
 ###### Article R312-2
 
 Il est interdit de faire circuler un véhicule ou un élément de véhicule dont le poids réel excède le poids total autorisé en
-charge fixé par la direction régionale de l'industrie, de la recherche et de l'environnement ou par l'autorité compétente
-d'un Etat membre de la Communauté européenne et inscrit sur le certificat d'immatriculation de chaque véhicule ou élément de
-véhicule. 
+charge fixé par               le service en charge des réceptions désigné par arrêté par le ministre chargé des transports ou
+par l'autorité compétente d'un Etat membre de la Communauté européenne et inscrit sur le certificat d'immatriculation de
+chaque véhicule ou élément de véhicule. 
 
 Il est interdit de faire circuler un véhicule ou un élément de véhicule dont un essieu supporte une charge réelle qui excède
 le poids maximal autorisé pour cet essieu. 
 
 Il est interdit de faire circuler un ensemble de véhicules, un véhicule articulé ou un train double dont le poids total
-roulant réel dépasse le poids total roulant autorisé fixé par la direction régionale de l'industrie, de la recherche et de
-l'environnement ou par l'autorité compétente d'un Etat membre de la Communauté européenne et inscrit sur le certificat
-d'immatriculation du véhicule tracteur. 
+roulant réel dépasse le poids total roulant autorisé fixé par               le service en charge des réceptions désigné par
+arrêté par le ministre chargé des transports ou par l'autorité compétente d'un Etat membre de la Communauté européenne et
+inscrit sur le certificat d'immatriculation du véhicule tracteur. 
 
 Les conditions de circulation du véhicule tracteur d'un véhicule articulé même non attelé d'une semi-remorque sont
 déterminées par son poids total roulant autorisé. 
@@ -18578,7 +18679,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-368 du 4 avril 2011 - art. 2
+  - Décret n°2016-448 du 13 avril 2016 - art. 3
 
 _Anciens textes_:
 
@@ -18593,7 +18694,7 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L325-1
-  - Code de la route. - art. R312-4
+  - Code de la route. - art. R312-4 (V)
   - Code de la route. - art. R312-5
 
 
@@ -18689,10 +18790,11 @@ fixe la liste des itinéraires autorisés à la circulation des véhicules menti
 à plus de 40 tonnes, après avis des autorités gestionnaires des voies empruntées. Cet arrêté précise, le cas échéant, les
 restrictions à la circulation destinées à répondre à ces exigences. 
 
-IV.-Les véhicules à gazogène, gaz comprimé et accumulateurs électriques bénéficient, dans la limite maximale d'une tonne, de
-dérogations correspondant au poids en ordre de marche soit du gazogène et de ses accessoires, soit des accumulateurs et de
-leurs accessoires. Il en est de même, dans la limite maximale d'une tonne, pour les ensembles routiers comportant au moins
-six essieux, et dans la limite maximale de 0,5 tonne, pour les poids des ralentisseurs des véhicules qui en sont munis. 
+IV.-Les véhicules à gazogène, gaz comprimé et accumulateurs électriques ou systèmes de propulsion alternatifs  bénéficient,
+dans la limite maximale d'une tonne, de dérogations correspondant au poids en ordre de marche soit du gazogène et de ses
+accessoires, soit des accumulateurs et de leurs accessoires, soit des stockages d'énergie mécaniques et de leurs accessoires.
+Il en est de même, dans la limite maximale d'une tonne, pour les ensembles routiers comportant au moins six essieux, et dans
+la limite maximale de 0,5 tonne, pour les poids des ralentisseurs des véhicules qui en sont munis. 
 
 V.-Le poids à vide des cyclomoteurs à trois roues ne peut excéder 270 kilogrammes et leur charge utile ne peut excéder 300
 kilogrammes. 
@@ -18749,7 +18851,7 @@ _Cité par_:
   - Arrêté du 17 juin 2019 (V)
   - Code de l'énergie - art. D251-1 (M)
   - Code de la route. - art. R121-5 (VD)
-  - Code de la route. - art. R312-2 (M)
+  - Code de la route. - art. R312-2 (V)
   - Code de la route. - art. R433-1 (VD)
   - Code de la route. - art. R433-12 (V)
   - Code de la route. - art. R433-7 (V)
@@ -18757,7 +18859,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-784 du 8 juillet 2014 - art. 7
+  - Décret n°2016-448 du 13 avril 2016 - art. 4
 
 _Anciens textes_:
 
@@ -18772,7 +18874,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R312-5
@@ -19028,9 +19130,12 @@ dirigée ;
 
 3° 2,95 mètres pour les véhicules à traction animale dont la carrosserie ou les garde-boue ne surplombent pas les roues ; 
 
-4° 2 mètres pour les motocyclettes, les tricycles et quadricycles à moteur et les cyclomoteurs à trois roues ; 
+4° 2 mètres pour les motocyclettes, les tricycles, les cyclomoteurs à trois roues et quadricycles à moteur autres que les
+quadricycles légers de la sous-catégorie L6e-B et les quadricycles lourds de la sous-catégorie L7e-C ;
 
-5° 1 mètre pour les cyclomoteurs à deux roues. 
+5° 1 mètre pour les cyclomoteurs à deux roues ;
+
+6° 1,5 mètre pour les quadricycles légers de la sous-catégorie L6e-B et les quadricycles lourds de la sous-catégorie L7e-C.  
 
 II.-Le ministre chargé des transports détermine par arrêté les modalités d'application du présent article, les conditions
 dérogatoires applicables à certains matériels de travaux publics et fixe la largeur maximale des engins de service hivernal. 
@@ -19050,7 +19155,11 @@ prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 5
 
 _Cité par_:
 
@@ -19059,8 +19168,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 132-11 (M)
-  - Code de la route. - art. L325-1 (V)
+  - Code pénal - art. 132-11
+  - Code de la route. - art. L325-1
 
 _Anciens textes_:
 
@@ -19076,10 +19185,6 @@ _Anciens textes_:
   - Code de la route - art. R61 (Ab)
   - Code de la route R61 (al. 1 à 4 et 18), R143, R144 (al. 1 et 5), R171-2, R188 (al. 2 et 3), R188-2, R211, R231-1 III, R238 (al. 4), R278 4°
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R312-18 (V)
-
 
 ###### Article R312-11
 
@@ -19088,7 +19193,12 @@ cargaison normalisées telles que les conteneurs et caisses mobiles, et toutes s
 longitudinale quelconque, ne doit pas dépasser les valeurs suivantes, sauf dans les cas et conditions où des saillies
 excédant ce gabarit sont explicitement autorisées par arrêté du ministre chargé des transports : 
 
-1° Motocyclette, tricycle à moteur, quadricycle à moteur et cyclomoteur : 4 mètres ; 
+1° Cyclomoteur, motocyclette, tricycle à moteur et quadricycle à moteur autre que le quadricycle léger de la sous-catégorie
+L6e-B et le quadricycle lourd de la sous-catégorie L7e-C : 4 mètres ; 
+
+1° bis Quadricycle léger de la sous-catégorie L6e-B : 3 mètres ;
+
+1° ter Quadricycle lourd de la sous-catégorie L7e-C : 3,7 mètres. 
 
 2° Véhicule à moteur : 12 mètres. Toutefois, la longueur des autobus ou autocars à deux essieux peut atteindre 13,50 mètres
 et celle des autobus ou autocars à plus de deux essieux peut atteindre 15 mètres ; 
@@ -19139,19 +19249,15 @@ Pour l'application du présent article, la longueur d'un autobus ou d'un autocar
 d'un ensemble formé d'un autobus ou d'un autocar et de sa remorque est mesurée non compris les perches et dispositifs
 enrouleurs de cordes s'il s'agit d'un trolleybus et en incluant tout accessoire démontable tel qu'un coffre à skis.
 
-**Nota:**
-
-Décret 2003-468 art. 4 : Dispositions applicables à Mayotte.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2003-468 du 28 mai 2003 - art. 1 () JORF 31 mai 2003
+  - Décret n°2016-448 du 13 avril 2016 - art. 6
 
 _Cité par_:
 
@@ -19160,8 +19266,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 132-11 (M)
-  - Code de la route. - art. L325-1 (V)
+  - Code pénal - art. 132-11
+  - Code de la route. - art. L325-1
 
 _Anciens textes_:
 
@@ -19176,10 +19282,6 @@ _Anciens textes_:
   - Code de la route - art. R61 (Ab)
   - Code de la route - art. R62 (Ab)
   - Code de la route R61 (al. 5 à 11, 17 et 18), R62 (al. 1 à 3), R143, R144 (al. 2 à 5), R171-2, R188-2, R211, R231-1 III, R238 (al. 4), R278 4°
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R312-18 (V)
 
 
 ###### Article R312-12
@@ -19893,21 +19995,22 @@ _Cite_:
 
 ###### Article R313-3-1
 
-Feux d'angle.
+Feux d'angle. 
 
-Tout véhicule à moteur, à l'exception des cyclomoteurs, motocyclettes, quadricycles, tricycles et véhicules et matériels
-agricoles ou forestiers, peut être muni à l'avant de deux feux d'angle émettant latéralement une lumière blanche afin de
-compléter l'éclairage de la route située du côté vers lequel le véhicule va tourner.
+Tout véhicule à moteur, peut être muni à l'avant de deux feux d'angle émettant latéralement une lumière blanche afin de
+compléter l'éclairage de la route située du côté vers lequel le véhicule va tourner. 
+
+Les véhicules agricoles à moteur peuvent être munis de deux feux supplémentaires.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-499 du 3 mai 2006 - art. 1 () JORF 4 mai 2006
+  - Décret n°2016-448 du 13 avril 2016 - art. 7
 
 _Cité par_:
 
@@ -19927,16 +20030,16 @@ croisement et, le cas échéant, des feux de route. Son fonctionnement est autom
 véhicule. 
 
 Le système d'éclairage avant adaptatif est constitué du fonctionnement simultané ou non, symétrique ou non, des feux définis
-aux articles R. 313-2, R. 313-3, R. 313-4 et R. 313-8. 
+aux articles R. 313-2,     R. 313-3, R. 313-3-1, R. 313-4 et R. 313-8. 
 
-Si le système d'éclairage avant adaptatif est neutralisé, les feux visés aux articles R. 313-2, R. 313-3, R. 313-4 e R. 313-8
-doivent remplir chacun leur fonction de base.
+Si le système d'éclairage avant adaptatif est neutralisé, les feux visés aux articles R. 313-2,     R. 313-3, R. 313-3-1, R.
+313-4 e R. 313-8 doivent remplir chacun leur fonction de base.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1095 du 28 octobre 2008 - art. 3
+  - Décret n°2016-448 du 13 avril 2016 - art. 8
 
 _Cité par_:
 
@@ -19946,13 +20049,41 @@ _Cité par_:
   - Code de la route. - art. R313-8 (V)
 
 
+###### Article R313-3-3
+
+Feux de courtoisie extérieurs. 
+
+Tout véhicule à moteur peut être muni de feux servant à fournir un  éclairage supplémentaire pour aider le conducteur et les
+passagers à  monter dans le véhicule, à en descendre ou à faciliter les opérations de  chargement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 9
+
+
+###### Article R313-3-4
+
+Feux de manœuvre. 
+
+Tout véhicule à moteur peut être muni de feux fournissant un éclairage  supplémentaire sur le côté du véhicule pour faciliter
+les manœuvres à  vitesse réduite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 9
+
+
 ###### Article R313-4
 
 Feux de position avant.
 
 I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur doit être muni à l'avant de deux feux de
-position émettant vers l'avant une lumière blanche ou jaune, visible la nuit, par temps clair, à une distance de 150 mètres,
-sans être éblouissante pour les autres conducteurs. 
+position émettant vers l'avant une lumière blanche, orange  ou jaune, visible la nuit, par temps clair, à une distance de 150
+mètres, sans être éblouissante pour les autres conducteurs. 
 
 Lorsque le véhicule est équipé d'un système d'éclairage avant adaptatif tel que défini à l'article R. 313-3-2, en mode
 d'éclairage en virage, le feu de position avant peut être orienté en même temps que le feu auquel il est incorporé. 
@@ -19968,8 +20099,8 @@ IV.-Tout side-car équipant une motocyclette doit être muni d'un feu de positio
 V.-Les dispositions du I ci-dessus ne sont pas applicables aux cyclomoteurs à deux roues qui, toutefois, peuvent être munis
 d'un ou de deux feux de position avant. 
 
-VI.-Tout véhicule et matériel agricole ou de travaux publics, automoteur, peut être muni de deux feux de position avant
-supplémentaires. 
+VI.-Tout véhicule et matériel agricole ou de travaux publics, automoteur, tout véhicule, machine ou instrument agricole
+remorqué, peut être muni de deux feux de position avant supplémentaires. 
 
 VII.-Toute remorque peut être munie à l'avant de deux feux de position émettant vers l'avant une lumière blanche non
 éblouissante. 
@@ -19977,8 +20108,7 @@ VII.-Toute remorque peut être munie à l'avant de deux feux de position émetta
 VIII.-La présence des feux de position visés au VII ci-dessus est obligatoire lorsque la largeur hors tout de la remorque
 dépasse 1, 60 mètre. 
 
-IX.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et appareils agricoles ou de travaux publics
-remorqués.
+IX.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules de travaux publics remorqués.
 
 X.-La nuit, ou le jour lorsque la visibilité est insuffisante, tout cycle doit être muni d'un feu de position émettant vers
 l'avant une lumière non éblouissante, jaune ou blanche. 
@@ -19994,14 +20124,14 @@ pour les contraventions de la première classe.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2009-497 du 30 avril 2009 - art. 3
-
 _Cité par_:
 
   - Arrêté du 14 mars 2012 - art. 3 (V)
   - Arrêté du 24 juin 2020 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 10
 
 _Anciens textes_:
 
@@ -20022,21 +20152,22 @@ _Cite_:
 
 ###### Article R313-4-1
 
-Feux de circulation diurne.
+Feux de circulation diurne. 
 
-Tout véhicule à moteur, à l'exception des cyclomoteurs, motocyclettes, quadricycles, tricycles et véhicules et matériels
-agricoles ou forestiers, peut être muni à l'avant de deux feux de circulation diurne émettant vers l'avant une lumière
-blanche permettant de rendre le véhicule plus visible de jour.
+Tout véhicule à moteur peut être muni à l'avant de deux feux de circulation diurne émettant vers l'avant une lumière blanche
+permettant de rendre le véhicule plus visible de jour. 
+
+Tout side-car équipant une motocyclette peut être muni à l'avant d'un feu de circulation diurne.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-499 du 3 mai 2006 - art. 2 () JORF 4 mai 2006
+  - Décret n°2016-448 du 13 avril 2016 - art. 11
 
 
 ###### Article R313-5
@@ -20114,8 +20245,8 @@ Feux de position latéraux.
 I. - Tout véhicule à moteur ou toute remorque, dont la longueur est supérieure à 6 mètres, à l'exception des châssis-cabines
 et des véhicules agricoles ou forestiers, doit être muni de feux de position latéraux.
 
-II. - Tout véhicule à moteur ou toute remorque, d'une longueur inférieure ou égale à 6 mètres, tout autobus peut être muni de
-ces feux.
+II. - Tout véhicule à moteur ou toute remorque, d'une longueur inférieure ou égale à 6 mètres, tout véhicule agricole ou
+forestier peut être muni de ces feux.
 
 III. - Le fait, pour tout conducteur, de contrevenir aux dispositions du I ci-dessus est puni de l'amende prévue pour les
 contraventions de la troisième classe.
@@ -20124,7 +20255,11 @@ contraventions de la troisième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 12
 
 _Cité par_:
 
@@ -20147,8 +20282,8 @@ l'article R. 313-17-1.
 III.-Leur intensité lumineuse doit être notablement supérieure à celle des feux de position arrière tout en demeurant non
 éblouissante. 
 
-IV.-Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur doit être muni à l'arrière d'un
-ou de deux feux stop.
+IV. - Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur doit être muni à l'arrière
+d'un, deux ou trois feux stop.
 
 V.-Tout side-car équipant une motocyclette doit être muni à l'arrière d'un feu stop. 
 
@@ -20156,7 +20291,8 @@ VI.-Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d'
 mètre, il doit être muni à l'arrière de deux feux stop. 
 
 VII.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et matériels agricoles ou de travaux publics qui,
-toutefois, peuvent être munis à l'arrière de deux feux stop répondant aux caractéristiques prévues par le présent article. 
+toutefois, peuvent être munis à l'arrière de deux ou trois  feux stop répondant aux caractéristiques prévues par le présent
+article. 
 
 VIII.-Lorsqu'une remorque d'un poids total autorisé en charge inférieur ou égal à 0, 5 tonne ou son chargement masque le ou
 les feux stop du véhicule tracteur, la remorque doit être munie du ou des dispositifs correspondants, dont le nombre est fixé
@@ -20170,14 +20306,14 @@ feux stop, l'immobilisation peut être prescrite dans les conditions prévues au
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2008-1095 du 28 octobre 2008 - art. 5
-
 _Cité par_:
 
   - Arrêté du 14 mars 2012 - art. 3 (V)
   - Code de la route. - art. R313-17-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 13
 
 _Anciens textes_:
 
@@ -20280,7 +20416,8 @@ Feux d'encombrement.
 
 I.-Tout véhicule à moteur ou toute remorque, dont la largeur, chargement compris, excède 2,10 mètres doit être muni de deux
 feux visibles de l'avant et de deux feux visibles de l'arrière situés le plus près possible de l'extrémité de la largeur hors
-tout. Ces feux doivent émettre une lumière non éblouissante de couleur blanche vers l'avant et rouge vers l'arrière. 
+tout. Ces feux doivent émettre une lumière non éblouissante de couleur blanche vers l'avant et rouge vers l'arrière. Deux
+feux supplémentaires visibles de l'avant et deux feux supplémentaires visibles de l'arrière peuvent être installés. 
 
 II.-Les feux d'encombrement arrière sont facultatifs sur les châssis-cabines. 
 
@@ -20291,9 +20428,10 @@ IV.-L'obligation prévue au I ci-dessus n'est pas applicable aux véhicules et a
 automoteurs, qui, toutefois, peuvent être munis des feux qu'il prévoit. 
 
 V.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et matériels agricoles ou de travaux publics
-remorqués. 
+remorqués à l'exception des véhicules, machines ou instruments agricoles remorqués d'une largeur supérieure à 1,8 m qui
+peuvent être munis des feux qu'il prévoit.  
 
-VI.-Le fait, pour tout conducteur, de contrevenir aux dispositions des I et II ci-dessus est puni de l'amende prévue pour les
+VI.-Le fait, pour tout conducteur, de contrevenir aux dispositions du I ci-dessus est puni de l'amende prévue pour les
 contraventions de la troisième classe. 
 
 VII.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
@@ -20303,7 +20441,11 @@ feux d'encombrement, l'immobilisation peut être prescrite dans les conditions p
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 14
 
 _Anciens textes_:
 
@@ -20315,23 +20457,27 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R313-11
 
-Feux de stationnement.
+Feux de stationnement. 
 
-Tout véhicule à moteur, à l'exception des véhicules à deux ou trois roues et des véhicules ou appareils agricoles ou de
-travaux publics, peut être muni de feux de stationnement. Ces feux, situés sur les côtés du véhicule, doivent émettre soit
-vers l'avant et vers l'arrière une lumière orangée, soit vers l'avant la même lumière que les feux de position et vers
-l'arrière une lumière rouge.
+Tout véhicule à moteur, à l'exception des véhicules à deux ou trois roues et des véhicules    de travaux publics, peut être
+muni de feux de stationnement. Ces feux, situés sur les côtés du véhicule, doivent émettre soit vers l'avant et vers
+l'arrière une lumière orangée, soit vers l'avant la même lumière que les feux de position et vers l'arrière une lumière
+rouge.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 15
 
 _Anciens textes_:
 
@@ -20350,8 +20496,7 @@ plaque d'exploitation.
 
 II. - Pour les véhicules agricoles remorqués, ce dispositif peut être fixé sur un support amovible.
 
-III. - Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs ni aux quadricycles légers à moteur, qui,
-toutefois, peuvent être munis d'un dispositif d'éclairage de la plaque d'immatriculation.
+III. - (Supprimé)
 
 IV. - Les dispositions du présent article ne sont applicables aux véhicules et matériels spéciaux des services de secours et
 de lutte contre l'incendie que si elles sont compatibles avec leurs caractéristiques techniques de fabrication ou d'emploi.
@@ -20363,22 +20508,16 @@ contraventions de la troisième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-1362 2001-12-28 art. 7 : application à Mayotte
-  - TXT_SOURCE: Directive 2000-73 CE 2000-11-22
-  - TXT_SOURCE: Directive 93-92 CEE 1993-10-29
-
-_Modifié par_:
-
-  - Décret n°2001-1362 du 28 décembre 2001 - art. 4 () JORF 30 décembre 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
   - Arrêté du 9 février 2009 (V)
   - Arrêté du 9 février 2009 - art. 3 (VD)
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 16
 
 _Anciens textes_:
 
@@ -20452,8 +20591,8 @@ non éblouissante orangée vers l'avant et vers l'arrière.
 Ces feux peuvent également s'activer dans les conditions du signal de détresse ou du freinage d'urgence telles que définies
 aux articles R. 313-17 et R. 313-17-1. 
 
-II.-Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs ni aux quadricycles légers à moteur, sans
-carrosserie fermée, qui, toutefois, peuvent être munis de feux indicateurs de direction. 
+II.-Les dispositions du I ci-dessus ne sont pas applicables aux cyclomoteurs qui, toutefois, peuvent être munis de feux
+indicateurs de direction. 
 
 III.-Lorsqu'une remorque d'un poids total autorisé en charge inférieur ou égal à 0, 5 tonne ou un appareil agricole ou de
 travaux publics remorqué, ou son chargement masque les feux indicateurs de direction du véhicule tracteur, la remorque ou
@@ -20471,14 +20610,14 @@ feux indicateurs de direction, l'immobilisation peut être prescrite dans les co
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2008-1095 du 28 octobre 2008 - art. 7
-
 _Cité par_:
 
   - Arrêté du 14 mars 2012 - art. 3 (V)
   - Code de la route. - art. R313-17-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 17
 
 _Anciens textes_:
 
@@ -20496,7 +20635,7 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L325-1
-  - Code de la route. - art. R313-17
+  - Code de la route. - art. R313-17 (V)
 
 
 ###### Article R313-15
@@ -20535,7 +20674,7 @@ _Anciens textes_:
 Feux orientables.
 
 I. - Tout véhicule à moteur peut, dans les conditions prévues par le ministre chargé des transports, être muni de feux
-orientables, émettant une lumière jaune sélective ou orangée.
+orientables, émettant une lumière  blanche, jaune sélective ou orangée.
 
 II. - Les dispositions du I ci-dessus ne sont applicables ni aux motocyclettes, ni aux tricycles et quadricycles à moteur, ni
 aux cyclomoteurs.
@@ -20544,7 +20683,11 @@ aux cyclomoteurs.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 18
 
 _Anciens textes_:
 
@@ -20563,12 +20706,11 @@ simultané des indicateurs de direction.
 Le signal de détresse se déclenche automatiquement en cas de collision si le véhicule est équipé d'un dispositif le
 permettant. 
 
-II. - Les dispositions du I ci-dessus ne sont applicables ni aux motocyclettes, ni aux cyclomoteurs à trois roues, ni aux
-quadricycles légers à moteur, ni aux véhicules et appareils agricoles ou de travaux publics automoteurs qui, toutefois,
-peuvent être munis d'un signal de détresse.
+II. - Les dispositions du I ci-dessus ne sont applicables ni aux motocyclettes, ni aux cyclomoteurs à deux ou  trois roues,
+ni aux quadricycles légers à moteur, ni aux appareils agricoles ou de travaux publics automoteurs qui, toutefois, peuvent
+être munis d'un signal de détresse.
 
-III. - Les dispositions du I ci-dessus ne sont pas applicables aux cyclomoteurs à deux roues, aux véhicules et matériels de
-travaux publics remorqués.
+III. - Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et matériels de travaux publics remorqués.
 
 IV. - Le fait, pour tout conducteur, de contrevenir aux dispositions du I ci-dessus est puni de l'amende prévue pour les
 contraventions de la troisième classe.
@@ -20577,7 +20719,7 @@ contraventions de la troisième classe.
 
 _Modifié par_:
 
-  - Décret n°2008-1095 du 28 octobre 2008 - art. 8
+  - Décret n°2016-448 du 13 avril 2016 - art. 19
 
 _Anciens textes_:
 
@@ -20630,13 +20772,14 @@ remorques.
 Toutefois, les remorques peuvent également être munies de deux catadioptres arrière rouges, de forme non triangulaire, à
 condition qu'ils soient groupés avec les dispositifs arrière de signalisation lumineuse. 
 
-II. - Toute motocyclette, tout cyclomoteur à deux roues doit être muni à l'arrière d'un catadioptre.
+II. - Toute motocyclette, tout cyclomoteur à deux roues, tout side-car équipant une motocyclette  doit être muni à l'arrière
+d'un catadioptre.
 
 III. - Tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues doit être muni d'un ou de deux
 catadioptres arrière.
 
-IV. - Tout cyclomoteur à trois roues ou quadricycle à moteur dont la largeur dépasse 1 mètre doit être muni de deux
-catadioptres arrière.
+IV. - Tout cyclomoteur à trois roues ou tricycle  ou quadricycle à moteur dont la largeur dépasse 1 mètre doit être muni de
+deux catadioptres arrière.
 
 V. - Tout cycle doit être muni d'un ou plusieurs catadioptres arrière.
 
@@ -20668,7 +20811,7 @@ prévue pour les contraventions de la première classe.
 
 _Modifié par_:
 
-  - Décret n°2009-497 du 30 avril 2009 - art. 4
+  - Décret n°2016-448 du 13 avril 2016 - art. 20
 
 _Cité par_:
 
@@ -20693,8 +20836,12 @@ _Anciens textes_:
 
 Catadioptres latéraux.
 
-I. - Tout véhicule à moteur dont la longueur dépasse 6 mètres, toute remorque, tout cyclomoteur à deux roues doit être muni
-d'un ou de deux catadioptres latéraux, non triangulaires, de couleur orangée.
+I. - Tout véhicule à moteur dont la longueur dépasse 6 mètres, toute remorque, tout cyclomoteur à deux roues ou trois roues,
+tout tricycle, tout quadricycle doit être muni d'au moins un ou de deux catadioptres latéraux, non triangulaires, de couleur
+orangée.
+
+I bis. - Les catadioptres latéraux placés dans la partie arrière des véhicules de la catégorie L1e peuvent être de couleur
+rouge. 
 
 II. - Tout autre véhicule à moteur peut être muni d'un ou de deux catadioptres latéraux, non triangulaires, de couleur
 orangée.
@@ -20711,7 +20858,11 @@ pour les contraventions de la première classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 21
 
 _Cité par_:
 
@@ -20736,11 +20887,11 @@ I. - Toute remorque d'un véhicule à moteur à quatre roues, à l'exception de 
 et appareils agricoles ou de travaux publics, doit être munie à l'avant de deux catadioptres non triangulaires de couleur
 blanche.
 
-II. - Tout véhicule à moteur, à l'exception des véhicules et appareils agricoles ou de travaux publics automoteurs, peut être
-muni à l'avant de tels catadioptres.
+II. - Tout véhicule à moteur, à l'exception des véhicules de travaux publics automoteurs, peut être muni à l'avant de tels
+catadioptres.
 
-III. - Les pédales de tout cycle, cyclomoteur ou quadricycle léger à moteur doivent comporter des catadioptres, sauf dans le
-cas des cyclomoteurs à deux roues à pédales rétractables.
+III. - Les pédales de tout cycle, cyclomoteur ou quadricycle léger à moteur doivent comporter des catadioptres de couleur
+orangée, sauf dans le cas des cyclomoteurs à deux roues à pédales rétractables.
 
 IV. - Tout cycle doit être muni d'un catadioptre blanc visible de l'avant.
 
@@ -20773,7 +20924,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-1095 du 28 octobre 2008 - art. 10
+  - Décret n°2016-448 du 13 avril 2016 - art. 22
 
 _Cité par_:
 
@@ -20910,60 +21061,18 @@ _Cité par_:
 
 ###### Article R313-24
 
-I.-Les connexions électriques des véhicules à moteur à quatre roues et de leurs remorques, à l'exception des véhicules et
-appareils agricoles ou forestiers, doivent être telles que les feux de position avant, les feux de position arrière, les feux
-d'encombrement lorsqu'ils existent, les feux de position latéraux lorsqu'ils existent et le dispositif d'éclairage de la
-plaque d'immatriculation arrière ou d'exploitation ne puissent être allumés et éteints que simultanément. 
+I. - Le ministre chargé des transports fixe par arrêté les conditions dans lesquelles sont assurées les connexions
+électriques des véhicules à moteur et de leurs remorques permettant le fonctionnement des dispositifs d'éclairage et de
+signalisation. 
 
-Cette condition ne s'applique pas lorsqu'on utilise les feux de position avant et arrière, ainsi que des feux de position
-latéraux combinés ou incorporés mutuellement auxdits feux, comme feux de stationnement. 
+II. - (Abrogé)
 
-Pour les mêmes véhicules, les connexions électriques doivent être telles que les feux de route, les feux de croisement et les
-feux de brouillard avant ne puissent être allumés que si les feux de position avant et arrière, les feux d'encombrement
-lorsqu'ils existent, les feux de position latéraux lorsqu'ils existent et le dispositif d'éclairage de la plaque
-d'immatriculation arrière ou d'exploitation le sont également. Cependant, cette condition n'est pas imposée pour les feux de
-route ou les feux de croisement lorsque leurs avertissements lumineux consistent en l'allumage intermittent des feux de route
-ou en l'allumage alterné à de courts intervalles des feux de croisement et des feux de route. 
+III. - (Abrogé)
 
-Pour les mêmes véhicules, à l'exception des quadricycles à moteur, les feux d'angle doivent être branchés de telle manière
-qu'ils ne puissent s'allumer que si les feux de route ou les feux de croisement sont eux-mêmes allumés. Seul l'allumage des
-feux indicateurs de direction ou la rotation du volant à partir de sa position correspondant à un déplacement en ligne droite
-doit entraîner l'allumage automatique du feu d'angle situé du côté correspondant du véhicule. Les feux d'angle doivent
-s'éteindre automatiquement lorsque le feu indicateur de direction s'éteint ou lorsque le volant de direction est revenu à la
-position de marche en ligne droite. Ils ne doivent pas s'allumer lorsque la vitesse du véhicule dépasse 40 km/ h. 
+IV. - Le fait de contrevenir aux dispositions prises en application du I du présent article est puni de l'amende prévue pour
+les contraventions de la troisième classe. 
 
-Pour les mêmes véhicules, à l'exception des quadricycles à moteur, les feux de circulation diurne doivent s'allumer
-automatiquement lorsque le dispositif qui commande le démarrage du moteur se trouve dans une position qui permet au moteur de
-fonctionner. Cet automatisme doit pouvoir être déconnecté à tout moment par le conducteur. Les feux de circulation diurne
-doivent s'éteindre automatiquement lorsque les feux de route ou les feux de croisement s'allument, sauf si ces derniers sont
-utilisés pour donner des avertissements lumineux intermittents à de courts intervalles. 
-
-II.-Les connexions électriques des véhicules à moteur à deux ou trois roues doivent être telles que le feu de position avant
-ou, en l'absence d'un feu de position avant, le feu de croisement, le feu de position arrière et le dispositif d'éclairage de
-la plaque d'immatriculation arrière ne puissent être allumés et éteints que simultanément. 
-
-Pour ces mêmes véhicules, les connexions électriques doivent être telles que le feu de route, le feu de croisement et le feu
-de brouillard ne puissent être allumés que si le feu de position avant ou, en l'absence d'un feu de position avant, le feu de
-croisement, le feu de position arrière et le dispositif d'éclairage de la plaque d'immatriculation le sont également.
-Cependant, cette condition n'est pas imposée pour le feu de route ou le feu de croisement lorsqu'ils sont utilisés pour des
-signaux lumineux produits par allumage intermittent à court intervalle du feu de croisement ou par allumage intermittent du
-feu de route ou par allumage alterné à court intervalle du feu de croisement et du feu de route. 
-
-III.-Les connexions électriques des tracteurs agricoles et forestiers doivent être telles que les feux de position avant, les
-feux d'encombrement, lorsqu'ils existent, et le dispositif d'éclairage de la plaque d'immatriculation arrière ne puissent
-être allumés que simultanément. 
-
-Pour ces mêmes véhicules, les connexions électriques doivent être telles que les feux de route, les feux de croisement et les
-feux de brouillard avant et arrière ne puissent être allumés que si les feux de position avant, les feux d'encombrement
-lorsqu'ils existent et le dispositif d'éclairage de la plaque d'immatriculation arrière le sont également. Cependant, cette
-condition n'est pas imposée pour les feux de route ou les feux de croisement lorsque leurs avertissements lumineux consistent
-en l'allumage intermittent à de courts intervalles des feux de croisement ou en l'allumage intermittent des feux de route ou
-en l'allumage alterné à de courts intervalles des feux de croisement et des feux de route. 
-
-IV.-Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
-troisième classe. 
-
-V.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas de non-conformité ou de défectuosité des équipements
+V. - La nuit, ou le jour lorsque la visibilité est insuffisante, en cas de non-conformité ou de défectuosité des équipements
 exigés par le présent article, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L.
 325-3.
 
@@ -20971,11 +21080,11 @@ exigés par le présent article, l'immobilisation peut être prescrite dans les 
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-499 du 3 mai 2006 - art. 3 () JORF 4 mai 2006
+  - Décret n°2016-448 du 13 avril 2016 - art. 23
 
 _Anciens textes_:
 
@@ -20994,7 +21103,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R313-25
@@ -21002,9 +21111,10 @@ _Cite_:
 Sauf dispositions contraires prises par arrêté du ministre chargé des transports, deux feux ou dispositifs de même
 signification et susceptibles d'être employés en même temps doivent être placés symétriquement par rapport au plan
 longitudinal de symétrie du véhicule ; ils doivent émettre ou réfléchir des faisceaux lumineux de même couleur et de même
-intensité.
+intensité. 
 
-Les feux et signaux ne peuvent être à intensité variable, sauf ceux des indicateurs de direction et du signal de détresse.
+Les feux et signaux ne peuvent être à intensité variable, sauf    ceux des indicateurs de direction, des feux de position
+arrière, des feux stop, des feux de brouillard arrière et du signal de détresse. 
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la troisième classe.
@@ -21013,7 +21123,11 @@ contraventions de la troisième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 24
 
 _Anciens textes_:
 
@@ -21802,11 +21916,11 @@ _Anciens textes_:
 
 ###### Article R316-1
 
-Tout véhicule à moteur, à l'exception des véhicules et matériels agricoles ou de travaux publics, doit être construit ou
-équipé de telle manière que le champ de visibilité du conducteur, vers l'avant, vers la droite et vers la gauche soit
-suffisant pour que celui-ci puisse conduire avec sûreté.
+Tout véhicule à moteur, à l'exception des véhicules  et matériels agricoles dont la vitesse maximale n'excède pas 40 km/h ou
+de travaux publics, doit être construit ou équipé de telle manière que le champ de visibilité du conducteur, vers l'avant,
+vers la droite et vers la gauche soit suffisant pour que celui-ci puisse conduire avec sûreté. 
 
-Le ministre chargé des transports fixe par arrêté les modalités d'application du présent article.
+Le ministre chargé des transports fixe par arrêté les modalités d'application du présent article. 
 
 Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
 prévue pour les contraventions de la troisième classe.
@@ -21815,12 +21929,16 @@ prévue pour les contraventions de la troisième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
   - Arrêté du 13 mai 2008 (V)
   - Code de la route. - art. R130-6 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 25
 
 _Anciens textes_:
 
@@ -21831,16 +21949,12 @@ _Anciens textes_:
   - Code de la route - art. R72 (Ab)
   - Code de la route R72, R148 (al. 1), R173 (al. 1 et 3), R188-2, R239
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R316-9 (V)
-
 
 ###### Article R316-2
 
-Si le champ de visibilité du conducteur d'un véhicule ou matériel agricole ou de travaux publics n'est pas suffisant en
-toutes directions pour que le conducteur puisse conduire avec sûreté, celui-ci doit être guidé par un convoyeur précédant le
-véhicule.
+Si le champ de visibilité du conducteur d'un véhicule  ou matériel agricole dont la vitesse maximale n'excède pas 40 km/h ou
+de travaux publics n'est pas suffisant en toutes directions pour que le conducteur puisse conduire avec sûreté, celui-ci doit
+être guidé par un convoyeur précédant le véhicule. 
 
 Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
 troisième classe.
@@ -21849,17 +21963,17 @@ troisième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 26
 
 _Anciens textes_:
 
   - Code de la route - art. R148 (Ab)
   - Code de la route - art. R239 (Ab)
   - Code de la route R148 (al. 1), R239
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R316-9 (V)
 
 
 ###### Article R316-3
@@ -21943,18 +22057,20 @@ _Anciens textes_:
 
 ###### Article R316-5
 
-A l'exception des quadricycles, des véhicules à deux ou trois roues et des véhicules ou matériels agricoles ou de travaux
-publics autres que les tracteurs agricoles, tout véhicule à moteur dont le poids à vide excède 350 kilogrammes doit être muni
-de dispositifs de marche arrière.
-
-Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
-troisième classe.
+A l'exception des quadricycles non équipés de carrosserie, des véhicules à deux ou trois roues non équipés de carrosserie et
+des véhicules ou matériels agricoles ou de travaux publics autres que les tracteurs agricoles, tout véhicule à moteur dont le
+poids à vide excède 350 kilogrammes doit être muni de dispositifs de marche arrière. Le fait de contrevenir aux dispositions
+du présent article est puni de l'amende prévue pour les contraventions de la troisième classe.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 29
 
 _Anciens textes_:
 
@@ -21963,21 +22079,17 @@ _Anciens textes_:
   - Code de la route - art. R75 (Ab)
   - Code de la route R75, R148 (al. 4), R239
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R316-9 (V)
-
 
 ###### Article R316-6
 
 Tout véhicule à moteur, à l'exception des véhicules et appareils agricoles n'ayant pas de cabine fermée, doit être muni d'un
-ou de plusieurs miroirs rétroviseurs de dimensions suffisantes, disposés de façon à permettre au conducteur de surveiller de
-son siège la route vers l'arrière du véhicule quel que soit le chargement normal de celui-ci et dont le champ de visibilité
-ne comporte pas d'angle mort notable susceptible de masquer un véhicule s'apprêtant à dépasser.
+ou de plusieurs    systèmes de vision indirecte, disposés de façon à permettre au conducteur de surveiller de son siège la
+route vers l'arrière du véhicule quel que soit le chargement normal de celui-ci et dont le champ de visibilité ne comporte
+pas d'angle mort notable susceptible de masquer un véhicule s'apprêtant à dépasser. 
 
-Le ministre chargé des transports fixe les conditions d'application du présent article.
+Le ministre chargé des transports fixe les conditions d'application du présent article. 
 
-Le fait de contrevenir aux dispositions du présent article  ou à celles prises pour son application est puni de l'amende
+Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
 prévue pour les contraventions de la troisième classe.
 
 **Liens relatifs à cet article**
@@ -21989,7 +22101,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1590 du 18 décembre 2009 - art. 8
+  - Décret n°2016-448 du 13 avril 2016 - art. 30
 
 _Anciens textes_:
 
@@ -22005,20 +22117,21 @@ _Anciens textes_:
 
 ###### Article R316-7
 
-I. - Les organes de direction doivent présenter des garanties suffisantes de solidité.
+I.-Les organes de direction doivent présenter des garanties suffisantes de solidité. 
 
-II. - Dans le cas où le fonctionnement des organes de direction fait appel à un système hydraulique ou électrique, ceux-ci
+II.-Dans le cas où le fonctionnement des organes de direction fait appel à un système hydraulique ou électrique, ceux-ci
 doivent être conçus de telle sorte que le conducteur puisse garder le contrôle de son véhicule en cas de défaillance du
-système. Les véhicules et matériels agricoles et de travaux publics ne sont pas soumis à cette obligation.
+système. Les véhicules et matériels agricoles dont la vitesse maximale n'excède pas 40 km/h et de travaux publics ne sont pas
+soumis à cette obligation. 
 
-III. - Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
+III.-Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
 troisième classe.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-497 du 30 avril 2009 - art. 6
+  - Décret n°2016-448 du 13 avril 2016 - art. 31
 
 _Anciens textes_:
 
@@ -22118,8 +22231,10 @@ _Cité par_:
 
 Indicateur de vitesse.
 
-I. - Tout véhicule à moteur, à l'exception des véhicules et matériels agricoles ou de travaux publics, doit être muni d'un
-indicateur de vitesse placé bien en vue du conducteur et maintenu constamment en bon état de fonctionnement.
+I. - Tout véhicule à moteur, à l'exception des véhicules agricoles, hors les tracteurs enjambeurs dont la vitesse maximale
+par construction n'excède pas 30 km/ h et matériels agricoles ou de travaux publics, des cyclomoteurs, tricycles ou
+quadricycles dont la vitesse maximale par construction n'excède pas 25 km/ h, doit être muni d'un indicateur de vitesse placé
+bien en vue du conducteur et maintenu constamment en bon état de fonctionnement.
 
 II. - Le ministre chargé des transports détermine les spécifications auxquelles doivent répondre les indicateurs de vitesse
 ainsi que les conditions de leur mise en place et de leur contrôle.
@@ -22134,7 +22249,11 @@ prévue pour les contraventions de la troisième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 32
 
 _Anciens textes_:
 
@@ -22148,10 +22267,6 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de la route. - art. R130-6 (VD)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R317-7 (V)
 
 
 ###### Article R317-2
@@ -22290,25 +22405,30 @@ _Cité par_:
 
 ###### Article R317-5
 
-Compteur kilométrique.
+Compteur kilométrique. 
 
-I. - Tout véhicule à moteur, à l'exception des véhicules et matériels agricoles ou de travaux publics, doit être muni d'un
-dispositif qui enregistre de façon cumulative la distance parcourue.
+I.-Tout véhicule à moteur, à l'exception des véhicules et matériels agricoles    ou de travaux publics, des cyclomoteurs,
+tricycles, ou quadricycles dont la vitesse maximale par construction n'excède pas 25 km/h doit être muni d'un dispositif qui
+enregistre de façon cumulative la distance parcourue. 
 
-II. - Le ministre chargé des transports fixe par arrêté les spécifications auxquelles doit répondre ce dispositif et les
-conditions d'application du présent article aux cyclomoteurs.
+II.-Le ministre chargé des transports fixe par arrêté les spécifications auxquelles doit répondre ce dispositif et les
+conditions d'application du présent article aux cyclomoteurs. 
 
-III. - Les dispositions du présent article ne sont applicables aux véhicules et aux matériels spéciaux des armées que si
-elles sont compatibles avec leurs caractéristiques techniques de fabrication et d'emploi.
+III.-Les dispositions du présent article ne sont applicables aux véhicules et aux matériels spéciaux des armées que si elles
+sont compatibles avec leurs caractéristiques techniques de fabrication et d'emploi. 
 
-IV. - Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
+IV.-Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
 prévue pour les contraventions de la troisième classe.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 33
 
 _Anciens textes_:
 
@@ -22322,10 +22442,6 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de la route. - art. R130-6 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R317-7 (V)
 
 
 ###### Article R317-6
@@ -22506,42 +22622,42 @@ _Cite_:
 
 ###### Article R317-9
 
-I. - Sauf dispositions différentes prévues au présent article, tout véhicule à moteur, toute semi-remorque agricole, toute
+I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur, toute semi-remorque agricole, toute
 remorque, à l'exception des véhicules ou matériels agricoles remorqués montés sur bandages non pneumatiques ou dont le poids
 total autorisé en charge est inférieur ou égal à 1,5 tonne, doit être muni d'une plaque du constructeur portant de manière
 apparente le nom de celui-ci ou sa marque ou le symbole qui l'identifie, le type, le numéro d'identification, ou, pour les
-véhicules ou matériels agricoles, le numéro d'ordre dans la série du type et les caractéristiques de poids du véhicule.
+véhicules ou matériels agricoles, le numéro d'ordre dans la série du type et les caractéristiques de poids du véhicule. 
 
-II. - La plaque du constructeur de tout véhicule ou matériel agricole monté sur pneumatiques et dont le poids total autorisé
-en charge est supérieur à 1,5 tonne et de tout matériel de travaux publics doit en outre comporter l'adresse du constructeur.
+II.-La plaque du constructeur                         de tout matériel de travaux publics doit en outre comporter l'adresse
+du constructeur. 
 
-III. - La plaque du constructeur de toute motocyclette, tout tricycle, tout quadricycle à moteur ou tout cyclomoteur doit
+III.-La plaque du constructeur de toute motocyclette, tout tricycle, tout quadricycle à moteur ou tout cyclomoteur doit
 comporter le nom du constructeur, la marque de réception, le numéro d'identification, le niveau sonore à l'arrêt et le régime
-moteur correspondant.
+moteur correspondant. 
 
-IV. - Sur tout véhicule à moteur de transport de marchandises d'un poids total autorisé en charge supérieur à 12 tonnes et
-sur toute remorque d'un poids total autorisé en charge supérieur à 10 tonnes, dont la date de première mise en circulation
-est postérieure au 1er octobre 1990, à l'exception de tout véhicule ou matériel agricole ou de tout matériel de travaux
-publics, doit être fixée une plaque dite plaque relative aux dimensions portant le nom du constructeur ou sa marque, ou le
-symbole qui l'identifie, le type, le numéro d'identification et les caractéristiques de dimension du véhicule.
+IV.-Sur tout véhicule à moteur de transport de marchandises d'un poids total autorisé en charge supérieur à 12 tonnes et sur
+toute remorque d'un poids total autorisé en charge supérieur à 10 tonnes, dont la date de première mise en circulation est
+postérieure au 1er octobre 1990, à l'exception de tout véhicule ou matériel agricole ou de tout matériel de travaux publics,
+doit être fixée une plaque dite plaque relative aux dimensions portant le nom du constructeur ou sa marque, ou le symbole qui
+l'identifie, le type, le numéro d'identification et les caractéristiques de dimension du véhicule. 
 
-V. - Dans tous les cas, 
+V.-Dans tous les cas, 
 
 1° Les indications mentionnées sur la plaque du constructeur et sur la plaque relative aux dimensions peuvent être réunies
-sur une plaque unique ;
+sur une plaque unique ; 
 
 2° L'indication du type et le numéro d'ordre dans la série du type ou le numéro d'identification du véhicule doivent être
 frappés à froid, dans la moitié droite du véhicule, de façon à être facilement lisibles à un endroit accessible sur le
 châssis ou sur un élément essentiel et indémontable du véhicule. Pour toute motocyclette, tout tricycle, tout quadricycle à
 moteur ou tout cyclomoteur, le numéro d'identification doit être frappé à froid de façon à être facilement lisible à un
-endroit accessible du châssis ou du cadre, sur la partie droite du véhicule.
+endroit accessible du châssis ou du cadre, sur la partie droite du véhicule. 
 
-Pour les véhicules ou matériels agricoles, ces diverses inscriptions sont faites sous la responsabilité du constructeur.
+Pour les véhicules ou matériels agricoles, ces diverses inscriptions sont faites sous la responsabilité du constructeur. 
 
-VI. - Le ministre chargé des transports fixe par arrêté les modalités d'application du présent article.
+VI.-Le ministre chargé des transports fixe par arrêté les modalités d'application du présent article. 
 
-VII. - Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de
-l'amende prévue pour les contraventions de la quatrième classe.
+VII.-Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
@@ -22555,7 +22671,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 34
 
 _Anciens textes_:
 
@@ -22569,11 +22689,11 @@ _Anciens textes_:
 
 ###### Article R317-10
 
-Tout véhicule ou matériel agricole, à l'exception des tracteurs agricoles, ou de travaux publics soumis à réception doit
-porter, sur une plaque spéciale, l'indication du lieu et de la date de sa réception par la direction régionale de
-l'industrie, de la recherche et de l'environnement ou par l'autorité compétente d'un Etat membre de la Communauté européenne.
+Tout véhicule ou matériel agricole, à l'exception de celui disposant d'une réception au titre de l'article R. 321-6 du
+présent code, ou de travaux publics soumis à réception doit porter, sur une plaque spéciale, l'indication du lieu et de la
+date de sa réception par le service en charge des réceptions désigné par le ministre chargé des transports. 
 
-Ces diverses inscriptions sont faites sous la responsabilité du constructeur.
+Ces diverses inscriptions sont faites sous la responsabilité du constructeur. 
 
 Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
 quatrième classe.
@@ -22582,11 +22702,11 @@ quatrième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2003-536 du 20 juin 2003 - art. 10 () JORF 22 juin 2003
+  - Décret n°2016-448 du 13 avril 2016 - art. 35
 
 _Anciens textes_:
 
@@ -22594,30 +22714,38 @@ _Anciens textes_:
   - Code de la route - art. R240 (Ab)
   - Code de la route R156 (al. 4 et 5), R240 (al. 1)
 
+_Cite_:
+
+  - Code de la route. - art. R321-6
+
 
 ###### Article R317-11
 
-I. - Sauf dispositions différentes prévues au présent article, tout véhicule à moteur ou toute remorque, dont le poids total
-autorisé en charge excède 3,5 tonnes, ainsi que tout véhicule destiné à transporter des marchandises, à l'exception des
-véhicules ou matériels agricoles automoteurs, des véhicules ou matériels de travaux publics, des motocyclettes, des tricycles
-ou quadricycles à moteur et des cyclomoteurs, doivent porter, en évidence, pour un observateur placé à droite, l'indication :
+I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur ou toute remorque, dont le poids total
+autorisé en charge excède 3,5 tonnes,          à l'exception des véhicules ou matériels agricoles automoteurs, des véhicules
+ou matériels de travaux publics, des motocyclettes, des tricycles ou quadricycles à moteur et des cyclomoteurs, doivent
+porter, en évidence, pour un observateur placé à droite, l'indication : 
 
-1° De son poids à vide, de son poids total autorisé en charge et de son poids total roulant autorisé ;
+1° De son poids à vide, de son poids total autorisé en charge et de son poids total roulant autorisé ; 
 
-2° De sa longueur, de sa largeur et de sa surface maximales.
+2° De sa longueur, de sa largeur et de sa surface maximales. 
 
-II. - Les remorques agricoles ne doivent porter que l'indication du poids à vide et du poids total autorisé en charge.
+II.-Les remorques agricoles ne doivent porter que l'indication du poids à vide et du poids total autorisé en charge. 
 
-III. - Le ministre chargé des transports fixe par arrêté les conditions d'application du présent article.
+III.-Le ministre chargé des transports fixe par arrêté les conditions d'application du présent article. 
 
-IV. - Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
+IV.-Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
 prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 36
 
 _Anciens textes_:
 
@@ -22696,11 +22824,11 @@ _Anciens textes_:
 
 ###### Article R317-15
 
-Tout véhicule à moteur, à l'exception des cyclomoteurs, des quadricycles légers à moteur, des véhicules et matériels
-agricoles ou de travaux publics, doit être muni d'un dispositif antivol.
+Tout véhicule à moteur, à l'exception         des véhicules et matériels agricoles ou de travaux publics, doit être muni d'un
+dispositif antivol. 
 
 Un arrêté du ministre de l'intérieur et du ministre chargé des transports détermine les conditions d'application du présent
-article.
+article. 
 
 Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
 prévue pour les contraventions de la troisième classe.
@@ -22709,7 +22837,11 @@ prévue pour les contraventions de la troisième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 37
 
 _Anciens textes_:
 
@@ -22718,10 +22850,6 @@ _Anciens textes_:
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R77 (Ab)
   - Code de la route R77, R173 (al. 1 et 3), R188-2, R239
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R317-16 (V)
 
 
 ###### Article R317-16
@@ -22932,12 +23060,12 @@ _Anciens textes_:
 
 ###### Article R317-23
 
-Tout véhicule à moteur, toute remorque, à l'exception des véhicules ou matériels agricoles ou de travaux publics, doit être
-aménagé de manière à réduire autant que possible, en cas de collision, les risques d'accidents corporels, aussi bien pour les
-occupants du véhicule que pour les autres usagers de la route.
+Tout véhicule à moteur, toute remorque, à l'exception des  matériels agricoles ou de travaux publics, doit être aménagé de
+manière à réduire autant que possible, en cas de collision, les risques d'accidents corporels, aussi bien pour les occupants
+du véhicule que pour les autres usagers de la route. 
 
 Le ministre chargé des transports fixe les règles auxquelles sont soumis la construction et l'équipement des véhicules
-mentionnés au présent article.
+mentionnés au présent article. 
 
 Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
 prévue pour les contraventions de la troisième classe.
@@ -22946,12 +23074,16 @@ prévue pour les contraventions de la troisième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
   - Arrêté du 4 mai 2009 (V)
   - Arrêté du 8 mars 2017 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 38
 
 _Anciens textes_:
 
@@ -22960,10 +23092,6 @@ _Anciens textes_:
   - Code de la route - art. R188-2 (Ab)
   - Code de la route - art. R239 (Ab)
   - Code de la route R104, R171-1 (al. 2), R188-2, R239
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R317-27 (V)
 
 
 ###### Article R317-23-1
@@ -23131,9 +23259,7 @@ _Cite_:
 
 ###### Article R317-26
 
-Tout véhicule de transports de marchandises dont le poids total autorisé en charge est supérieur à 7,5 tonnes, ainsi que
-toute remorque dont le poids total autorisé en charge est supérieur à 3,5 tonnes, doit être équipé de dispositifs
-antiprojections homologués.
+Tout véhicule des catégories N et O doit être équipé de dispositifs antiprojections homologués. 
 
 Un arrêté du ministre chargé des transports fixe les conditions d'application du présent article.
 
@@ -23144,7 +23270,11 @@ prévue pour les contraventions de la troisième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 39
 
 _Anciens textes_:
 
@@ -23152,15 +23282,11 @@ _Anciens textes_:
   - Code de la route - art. R239 (Ab)
   - Code de la route R104-1, R239
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R317-27 (V)
-
 
 ###### Article R317-26-1
 
-Les tracteurs agricoles et machines agricoles automotrices peuvent être équipés de sièges de convoyeurs. Ils peuvent
-également être aménagés pour transporter une charge à des fins agricoles ou forestières.
+Les   machines agricoles automotrices peuvent être équipés de sièges de convoyeurs. Ils peuvent également être aménagés pour
+transporter une charge à des fins agricoles ou forestières. 
 
 Un arrêté du ministre des transports, pris après avis du ministre de l'agriculture, fixe les modalités d'application du
 présent article.
@@ -23169,7 +23295,11 @@ présent article.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 40
 
 
 ###### Article R317-27
@@ -23806,9 +23936,9 @@ _Cité par_:
 ###### Article R321-4-1
 
 La vente, l'offre de vente ou la mise en service des pièces ou équipements susceptibles de présenter un risque important pour
-le bon fonctionnement de systèmes essentiels pour la sécurité ou la performance environnementale d'un véhicule de catégorie
-M, N ou O n'est permise que si lesdites pièces ou équipements sont autorisés par l'autorité compétente en matière de
-réception. 
+le bon fonctionnement de systèmes essentiels pour la sécurité ou la performance environnementale d'un véhicule      de
+catégorie M, N, O, L, T, C, R ou S n'est permise que si lesdites pièces ou équipements sont autorisés par l'autorité
+compétente en matière de réception. 
 
 Chaque pièce ou partie d'équipement autorisée en vertu du présent article doit recevoir un marquage approprié. 
 
@@ -23817,13 +23947,9 @@ des pièces et équipements concernés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-497 du 30 avril 2009 - art. 7
-
-**Liens**:
-
-  - RECTIFICATION: Décret  n°2009-497  du 30 avril 2009, v. init.
+  - Décret n°2016-448 du 13 avril 2016 - art. 41
 
 
 ###### Article R321-5
@@ -23944,24 +24070,14 @@ _Anciens textes_:
 
 ###### Article R321-8
 
-Les réceptions CE sont prononcées par délégation du ministre chargé des transports, par les directions régionales des
-entreprises, de la concurrence, de la consommation, du travail et de l'emploi désignées par arrêté conjoint du ministre
-chargé des transports et du ministre chargé de l'industrie.
-
-**Nota:**
-
-Décret n° 2009-1377 du 10 novembre 2009 article 7 I : Les dispositions du présent décret prennent effet, dans chaque région,
-à la date de nomination du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de
-l'emploi (Les arrêtés de nomination de ces directeurs ont été publiés par arrêtés des 30 décembre 2009 et 9 février 2010,
-parus respectivement au Journal officiel des 5 janvier et 14 février 2010). 
-
-Conformément à l'article 15 du même décret elles ne s'appliquent ni à la région Ile-de-France ni aux régions d'outre-mer.
+Les réceptions CE sont prononcées par délégation du ministre chargé des transports par le service en charge des réceptions
+désigné par arrêté par le même ministre.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1377 du 10 novembre 2009 - art. 11 (V)
+  - Décret n°2016-448 du 13 avril 2016 - art. 42
 
 _Anciens textes_:
 
@@ -24167,10 +24283,10 @@ _Anciens textes_:
 
 ###### Article R321-14-1
 
-Un constructeur auquel a été octroyée une réception CE par type de véhicule de catégorie M, N ou O doit rappeler les
-véhicules déjà vendus, immatriculés ou mis en service lorsqu'un ou plusieurs systèmes, composants ou entités techniques
-installés sur ces véhicules, qu'ils aient ou non été dûment réceptionnés, risquent de compromettre gravement la sécurité
-routière, la santé publique ou la protection de l'environnement. Il en informe immédiatement le ministre chargé des
+Un constructeur auquel a été octroyée une réception CE par type de véhicule      de catégorie M, N, O, L, T, C, R ou S doit
+rappeler les véhicules déjà vendus, immatriculés ou mis en service lorsqu'un ou plusieurs systèmes, composants ou entités
+techniques installés sur ces véhicules, qu'ils aient ou non été dûment réceptionnés, risquent de compromettre gravement la
+sécurité routière, la santé publique ou la protection de l'environnement. Il en informe immédiatement le ministre chargé des
 transports pour les réceptions CE par type de véhicule que ce dernier a accordées et lui propose un ensemble de solutions
 appropriées en vue de neutraliser le risque. Le ministre chargé des transports communique aux autorités compétentes en
 matière de réception des autres Etats membres les mesures proposées par le constructeur. Il veille à la mise en œuvre
@@ -24192,10 +24308,6 @@ Le ministre chargé des transports fixe par arrêté les modalités d'applicatio
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2009-497 du 30 avril 2009 - art. 13
-
 _Cité par_:
 
   - Arrêté du 4 mai 2009 - art. 28 (V)
@@ -24205,15 +24317,18 @@ _Cité par_:
   - Code de la route. - art. R330-3 (V)
   - Code de la route. - art. R330-6 (V)
 
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 41
+
 
 ##### Section 3 : Réception nationale par type ou à titre isolé et homologation.<a id=138></a>
 
 ###### Article R321-15
 
 Avant sa mise en circulation et en l'absence de réception CE, tout véhicule à moteur, toute remorque ou tout élément de
-véhicule dont le poids total autorisé en charge est supérieur à 500 kilogrammes, toute semi-remorque doit faire l'objet d'une
-réception nationale effectuée soit par type à la demande du constructeur, soit à titre isolé à la demande du propriétaire ou
-de son représentant. 
+véhicule, toute semi-remorque doit faire l'objet d'une réception nationale effectuée soit par type à la demande du
+constructeur, soit à titre isolé à la demande du propriétaire ou de son représentant. 
 
 Toutefois, en ce qui concerne les véhicules ou éléments de véhicules qui ne sont pas fabriqués ou assemblés sur le territoire
 d'un Etat membre de l'Union européenne, la réception par type n'est admise que si le constructeur possède en France un
@@ -24269,7 +24384,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-357 du 19 mars 2014 - art. 1
+  - Décret n°2016-448 du 13 avril 2016 - art. 43
 
 _Anciens textes_:
 
@@ -24321,9 +24436,9 @@ _Anciens textes_:
 
 Tout véhicule à moteur ou toute remorque, dont les dimensions ou les poids excèdent les limites réglementaires et dont le
 déplacement est subordonné à l'autorisation exigée pour les transports exceptionnels de marchandises, d'engins ou de
-véhicules, doit, avant sa mise en circulation, faire l'objet d'une réception par la direction régionale de l'industrie, de la
-recherche et de l'environnement, sous l'autorité du ministre chargé des transports qui fixe, par arrêté, les conditions
-d'application du présent article.
+véhicules, doit, avant sa mise en circulation, faire l'objet d'une réception par               le service en charge des
+réceptions désigné par arrêté par le ministre chargé des transports, sous l'autorité du ministre chargé des transports qui
+fixe, par arrêté, les conditions d'application du présent article. 
 
 Tout matériel de travaux publics dont les dimensions ou les poids excèdent les limites réglementaires, appelé à circuler
 occasionnellement sur les routes et dont le déplacement est subordonné à l'autorisation exigée pour les transports
@@ -24333,7 +24448,7 @@ exceptionnels, doit répondre aux prescriptions fixées par arrêté du ministre
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 **Liens**:
 
@@ -24346,7 +24461,6 @@ _Codifié par_:
   - TXT_SOURCE: Arrêté du 2 avril 2003 - art. 6 (V)
   - TXT_SOURCE: Arrêté du 2 avril 2003 - art. 7 (V)
   - TXT_SOURCE: Arrêté du 2 avril 2003 - art. 8 (V)
-  - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 _Cité par_:
 
@@ -24355,6 +24469,10 @@ _Cité par_:
   - Arrêté du 2 février 2011 - art. 1 (V)
   - Arrêté du 2 février 2011 - art. 2 (V)
   - Code de la route. - art. R433-12 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 3
 
 _Anciens textes_:
 
@@ -24366,36 +24484,41 @@ _Anciens textes_:
 ###### Article R321-18
 
 Le ministre chargé des transports détermine les catégories de véhicules qui, lorsque leur carrosserie est montée sur un
-châssis déjà réceptionné, ne peuvent être mis en circulation qu'après une nouvelle réception faite par la direction régionale
-de l'industrie, de la recherche et de l'environnement.
+châssis déjà réceptionné, ne peuvent être mis en circulation qu'après une nouvelle réception faite par               le
+service en charge des réceptions désigné par arrêté par le ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 3
 
 _Anciens textes_:
 
   - Code de la route - art. R106 (Ab)
   - Code de la route R106 (al. 6)
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R321-2 (V)
-
 
 ###### Article R321-19
 
 La demande de réception doit être accompagnée d'une notice descriptive dans les conditions fixées par le ministre chargé des
 transports et donnant les caractéristiques du véhicule ou de l'élément de véhicule ou du type de véhicule ou de l'élément de
-véhicule nécessaires aux vérifications de la direction régionale de l'industrie, de la recherche et de l'environnement.
+véhicule nécessaires aux vérifications du service en charge des réceptions désigné par arrêté par le ministre chargé des
+transports.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 3
 
 _Cité par_:
 
@@ -24406,29 +24529,26 @@ _Anciens textes_:
   - Code de la route - art. R106 (Ab)
   - Code de la route R106 (al. 5)
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R321-2 (V)
-
 
 ###### Article R321-20
 
 Au moment de la réception d'un véhicule ou d'un élément de véhicule, le constructeur doit déclarer le poids maximal
 admissible pour lequel le véhicule est construit ainsi que le poids maximal admissible sur chaque essieu. Il doit également
 déclarer, s'il s'agit d'un véhicule à moteur, le poids total roulant admissible de l'ensemble de véhicules ou du véhicule
-articulé que l'on peut former à partir de ce véhicule à moteur.
+articulé que l'on peut former à partir de ce véhicule à moteur. 
 
 Le poids maximal autorisé d'un véhicule ou d'un élément de véhicule et le poids maximal autorisé pour chaque essieu sont
-fixés par la direction régionale de l'industrie, de la recherche et de l'environnement lors de la réception de ce véhicule,
-dans la limite des poids maximaux admissibles déclarés par le constructeur. Un ou plusieurs poids totaux autorisés en charge
-sont alors fixés par la direction régionale de l'industrie, de la recherche et de l'environnement dans la limite du poids
-maximal autorisé.
+fixés par               le service en charge des réceptions désigné par arrêté par le ministre chargé des transports lors de
+la réception de ce véhicule, dans la limite des poids maximaux admissibles déclarés par le constructeur. Un ou plusieurs
+poids totaux autorisés en charge sont alors fixés par               le service en charge des réceptions désigné par arrêté
+par le ministre chargé des transports dans la limite du poids maximal autorisé. 
 
 Le poids maximal roulant autorisé des ensembles de véhicules ou des véhicules articulés que l'on peut former à partir d'un
-véhicule à moteur est fixé par la direction régionale de l'industrie, de la recherche et de l'environnement lors de la
-réception de ce véhicule dans la limite du poids total roulant admissible déclaré par le constructeur. Un ou plusieurs poids
-totaux roulants autorisés sont alors fixés pour ce véhicule par la direction régionale de l'industrie, de la recherche et de
-l'environnement, dans la limite du poids maximal roulant autorisé.
+véhicule à moteur est fixé par               le service en charge des réceptions désigné par arrêté par le ministre chargé
+des transports lors de la réception de ce véhicule dans la limite du poids total roulant admissible déclaré par le
+constructeur. Un ou plusieurs poids totaux roulants autorisés sont alors fixés pour ce véhicule par               le service
+en charge des réceptions désigné par arrêté par le ministre chargé des transports, dans la limite du poids maximal roulant
+autorisé. 
 
 Le ministre chargé des transports fixe par arrêté les modalités d'application du présent article.
 
@@ -24443,7 +24563,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 3
 
 _Anciens textes_:
 
@@ -24451,31 +24575,27 @@ _Anciens textes_:
   - Code de la route - art. R54 (Ab)
   - Code de la route R54B, R139
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R321-2 (V)
-
 
 ###### Article R321-21
 
-Lorsque le véhicule présenté satisfait aux prescriptions réglementaires, la direction régionale de l'industrie, de la
-recherche et de l'environnement dresse de ces opérations un procès-verbal de réception dont une expédition est remise au
-demandeur. Le modèle de ce procès-verbal est fixé par le ministre chargé des transports.
+Lorsque le véhicule présenté satisfait aux prescriptions réglementaires,               le service en charge des réceptions
+désigné par arrêté par le ministre chargé des transports dresse de ces opérations un procès-verbal de réception dont une
+expédition est remise au demandeur. Le modèle de ce procès-verbal est fixé par le ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 3
 
 _Anciens textes_:
 
   - Code de la route - art. R107 (Ab)
   - Code de la route R107
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 
 ###### Article R321-22
@@ -24507,10 +24627,10 @@ _Anciens textes_:
 
 ###### Article R321-23
 
-Les fonctionnaires de la direction régionale de l'industrie, de la recherche et de l'environnement peuvent prélever
-gratuitement des véhicules ou éléments de véhicules, dont le type a fait l'objet d'une réception, chez les constructeurs,
-importateurs ou revendeurs en vue de contrôler la conformité de ces véhicules aux notices descriptives des prototypes
-réceptionnés.
+Les fonctionnaires du service en charge des réceptions désigné par arrêté par le ministre chargé des transports peuvent
+prélever gratuitement des véhicules ou éléments de véhicules, dont le type a fait l'objet d'une réception, chez les
+constructeurs, importateurs ou revendeurs en vue de contrôler la conformité de ces véhicules aux notices descriptives des
+prototypes réceptionnés. 
 
 Après contrôle, les véhicules sont restitués. S'il apparaît que les véhicules contrôlés ne sont pas conformes à la notice
 descriptive du prototype réceptionné, le procès-verbal de réception peut être annulé par décision du ministre chargé des
@@ -24520,16 +24640,16 @@ transports.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 3
 
 _Anciens textes_:
 
   - Code de la route - art. R109-1 (Ab)
   - Code de la route R109-1
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 
 ###### Article R321-24
@@ -24586,12 +24706,12 @@ _Anciens textes_:
 
 ###### Article R321-25
 
-Un constructeur auquel a été octroyée une réception nationale par type de véhicule de catégorie M, N ou O doit rappeler les
-véhicules déjà vendus, immatriculés ou mis en service lorsqu'un ou plusieurs systèmes, composants ou entités techniques
-installés sur ces véhicules, qu'ils aient ou non été dûment réceptionnés, risquent de compromettre gravement la sécurité
-routière, la santé publique ou la protection de l'environnement. Il en informe immédiatement le ministre chargé des
-transports et lui propose un ensemble de solutions appropriées en vue de neutraliser le risque. Le ministre chargé des
-transports veille à la mise en œuvre efficace de ces mesures. 
+Un constructeur auquel a été octroyée une réception nationale par type de véhicule      de catégorie M, N, O, L, T, C, R ou S
+doit rappeler les véhicules déjà vendus, immatriculés ou mis en service lorsqu'un ou plusieurs systèmes, composants ou
+entités techniques installés sur ces véhicules, qu'ils aient ou non été dûment réceptionnés, risquent de compromettre
+gravement la sécurité routière, la santé publique ou la protection de l'environnement. Il en informe immédiatement le
+ministre chargé des transports et lui propose un ensemble de solutions appropriées en vue de neutraliser le risque. Le
+ministre chargé des transports veille à la mise en œuvre efficace de ces mesures. 
 
 Si le ministre chargé des transports juge insuffisantes les mesures communiquées par le constructeur ou si ces mesures n'ont
 pas été mises en œuvre dans un délai assez court, il en informe le constructeur et prend toutes les mesures de protection qui
@@ -24604,9 +24724,9 @@ Le ministre chargé des transports fixe par arrêté les modalités d'applicatio
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-497 du 30 avril 2009 - art. 14
+  - Décret n°2016-448 du 13 avril 2016 - art. 41
 
 _Cité par_:
 
@@ -24684,30 +24804,30 @@ _Modifié par_:
 
 ###### Article R322-2
 
-I. - Le certificat d'immatriculation est établi dans les conditions fixées par le ministre chargé des transports, après avis
-du ministre de l'intérieur, et expédié à l'adresse du demandeur. Ce certificat comporte un numéro d'immatriculation attribué
-à titre définitif au véhicule par un système informatique centralisé. Le certificat d'immatriculation peut comporter un
-coupon détachable. 
+I.-Le certificat d'immatriculation est établi dans les conditions fixées par le ministre chargé des transports, après avis du
+ministre de l'intérieur, et expédié à l'adresse du demandeur. Ce certificat comporte un numéro d'immatriculation attribué à
+titre définitif au véhicule par un système informatique centralisé. Le certificat d'immatriculation peut comporter un coupon
+détachable. 
 
-II. - Dans le cas de véhicules de transport exceptionnel dont les dimensions ou le poids excèdent les limites réglementaires,
+II.-Dans le cas de véhicules de transport exceptionnel dont les dimensions ou le poids excèdent les limites réglementaires,
 le certificat d'immatriculation doit porter un signe distinctif ou une mention spéciale pour indiquer que le véhicule a fait
-l'objet d'une réception spéciale par la direction régionale de l'industrie, de la recherche et de l'environnement et qu'il ne
-peut circuler que sous couvert d'une autorisation du préfet. Toutefois, pour les véhicules dont seul le poids total autorisé
-en charge ou le poids total roulant autorisé excède les limites réglementaires, le certificat d'immatriculation peut porter
-une mention spéciale complémentaire permettant, sans autorisation du préfet, la circulation du véhicule, dans les limites de
-poids fixées au présent livre.
+l'objet d'une réception spéciale par               le service en charge des réceptions désigné par arrêté par le ministre
+chargé des transports et qu'il ne peut circuler que sous couvert d'une autorisation du préfet. Toutefois, pour les véhicules
+dont seul le poids total autorisé en charge ou le poids total roulant autorisé excède les limites réglementaires, le
+certificat d'immatriculation peut porter une mention spéciale complémentaire permettant, sans autorisation du préfet, la
+circulation du véhicule, dans les limites de poids fixées au présent livre. 
 
-III. - Le signe distinctif, la mention spéciale et la mention spéciale complémentaire prévus ci-dessus sont fixés par arrêté
-du ministre de l'intérieur et du ministre chargé des transports.
+III.-Le signe distinctif, la mention spéciale et la mention spéciale complémentaire prévus ci-dessus sont fixés par arrêté du
+ministre de l'intérieur et du ministre chargé des transports. 
 
-IV. - Des mentions relatives à des usages ou à des caractéristiques techniques particulières du véhicule peuvent être
-indiquées sur le certificat d'immatriculation dans des conditions fixées par arrêté du ministre chargé des transports après
-avis du ministre de l'intérieur. 
+IV.-Des mentions relatives à des usages ou à des caractéristiques techniques particulières du véhicule peuvent être indiquées
+sur le certificat d'immatriculation dans des conditions fixées par arrêté du ministre chargé des transports après avis du
+ministre de l'intérieur. 
 
-V. - Dans le cas de véhicules appartenant à des personnes de statut diplomatique ou assimilé, le numéro d'immatriculation est
-complété par un numéro d'immatriculation spécifique lié à ce statut.
+V.-Dans le cas de véhicules appartenant à des personnes de statut diplomatique ou assimilé, le numéro d'immatriculation est
+complété par un numéro d'immatriculation spécifique lié à ce statut. 
 
-VI. - Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions
+VI.-Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions
 d'application du présent article.
 
 **Nota:**
@@ -24754,7 +24874,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 6
+  - Décret n°2016-448 du 13 avril 2016 - art. 3
 
 _Anciens textes_:
 
@@ -36576,7 +36696,8 @@ _Anciens textes_:
 
 ###### Article R416-17
 
-De jour, les motocyclettes et les cyclomoteurs doivent circuler avec le ou leurs feux de croisement allumés.
+De jour, les motocyclettes et les cyclomoteurs doivent circuler avec le ou leurs feux de croisement ou de circulation diurne
+allumés.
 
 Le ministre chargé des transports fixe les conditions d'application du présent article et peut prévoir des dérogations pour
 les véhicules dont les caractéristiques interdisent l'utilisation permanente des feux de croisement.
@@ -36593,22 +36714,17 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2007-271 du 27 février 2007 - art. 1 () JORF 1er mars 2007
+  - Décret n°2016-448 du 13 avril 2016 - art. 45
 
 _Anciens textes_:
 
   - Code de la route - art. R233 (Ab)
   - Code de la route - art. R40-2 (Ab)
   - Code de la route R40-2, R233 (al. 6)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R416-18
