@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-04-15
+Version Consolidée au 2016-04-16
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -3824,7 +3824,9 @@ Les autorités judiciaires, les magistrats de l'ordre administratif dans le cadr
 retrait de point du permis de conduire, les officiers de police judiciaire chargés de l'exécution d'une ordonnance
 juridictionnelle ou agissant dans le cadre d'une enquête de flagrance, le représentant de l'Etat dans le département dans
 l'exercice de ses compétences en matière de permis de conduire, les militaires de la gendarmerie et les fonctionnaires de la
-police nationale habilités à effectuer des contrôles routiers en application du présent code sont autorisés à accéder aux
+police nationale habilités à effectuer des contrôles routiers en application du présent code ainsi que les fonctionnaires ou
+agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre chargé des transports pour
+l'exercice des compétences en matière de contrôle du transport routier prévues au présent code, sont autorisés à accéder aux
 informations enregistrées en application de l'article L. 225-1.
 
 **Liens relatifs à cet article**
@@ -3844,7 +3846,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-339 du 22 mars 2016 - art. 7
+  - Ordonnance n°2016-460 du 14 avril 2016 - art. 1
 
 _Anciens textes_:
 
