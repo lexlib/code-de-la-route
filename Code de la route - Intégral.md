@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-04-16
+Version Consolidée au 2016-04-17
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -15462,12 +15462,21 @@ Les autorités judiciaires, les juridictions administratives dans le cadre des r
 retrait de points du permis de conduire, les officiers de police judiciaire chargés de l'exécution d'une ordonnance
 juridictionnelle ou agissant dans le cadre d'une enquête de flagrance, les préfets dans l'exercice de leurs compétences en
 matière de permis de conduire, les militaires de la gendarmerie et les fonctionnaires de la police nationale habilités à
-effectuer des contrôles routiers en application des dispositions du présent code sont autorisés, dans les conditions fixées
-aux articles L. 225-4 et L. 225-5, à accéder directement aux informations prévues par ces articles. 
+effectuer des contrôles routiers en application des dispositions du présent code ainsi que les fonctionnaires ou agents de
+l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre chargé des transports pour l'exercice
+des compétences en matière de contrôle du transport routier prévues au présent code, sont autorisés, dans les conditions
+fixées aux articles L. 225-4 et L. 225-5, à accéder directement aux informations prévues par ces articles. 
 
-Un arrêté conjoint du ministre de l'intérieur et du ministre de la justice, ou un arrêté du ministre de l'intérieur définit
-les modalités techniques et financières de l'accès à ces informations ouvert par voie téléinformatique aux autorités
-judiciaires, aux juridictions administratives mentionnées à l'alinéa précédent et aux militaires de la gendarmerie. 
+Les modalités techniques et financières de l'accès à ces informations ouvert par voie électronique sont définies : 
+
+1° Par un arrêté du ministre de l'intérieur pour les agents de la police nationale et les militaires de la gendarmerie ; 
+
+2° Par un arrêté conjoint du ministre de l'intérieur et du ministre de la justice pour les autorités judiciaires et les
+juridictions administratives mentionnées au premier alinéa du présent article ; 
+
+3° Par un arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports pour les fonctionnaires ou agents
+de l'Etat chargés du contrôle des transports terrestres pour l'exercice de leurs compétences en matière de contrôle du
+transport routier prévues au présent code. 
 
 Peuvent également accéder aux données mentionnées à l'article L. 225-4 du présent code dans les conditions fixées par
 l'article L. 222-1 du code de la sécurité intérieure :
@@ -15492,7 +15501,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 3
+  - Décret n°2016-467 du 15 avril 2016 - art. 1
 
 _Anciens textes_:
 
@@ -15501,9 +15510,9 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L225-4 (V)
-  - Code de la sécurité intérieure - art. L222-1 (V)
-  - Code de la sécurité intérieure - art. R222-1 (V)
+  - Code de la route. - art. L225-4
+  - Code de la sécurité intérieure - art. L222-1
+  - Code de la sécurité intérieure - art. R222-1
 
 
 ###### Article R225-5
