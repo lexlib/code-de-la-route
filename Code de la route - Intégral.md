@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-04-29
+Version Consolidée au 2016-05-20
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -11380,35 +11380,43 @@ routière, ou les deux, pour la première fois sur le territoire national, accom
 
 1° Une preuve de la nationalité du professionnel ; 
 
-2° Une attestation certifiant qu'il est légalement établi dans un autre Etat membre de la Communauté européenne ou dans un
-autre Etat partie à l'accord sur l'Espace économique européen pour y exercer, selon le cas, soit l'activité d'enseignement de
-la conduite, soit l'activité d'animation de stages de sensibilisation à la sécurité routière, soit les deux, et qu'il
-n'encourt, lorsque l'attestation est délivrée, aucune interdiction, même temporaire, d'exercer ; 
+2° Une attestation certifiant qu'il est légalement établi dans un autre Etat membre de l'Union européenne ou dans un autre
+Etat partie à l'accord sur l'Espace économique européen pour y exercer, selon le cas, soit l'activité d'enseignement de la
+conduite, soit l'activité d'animation de stages de sensibilisation à la sécurité routière, soit les deux, et qu'il n'encourt
+au moment de la délivrance de l'attestation, aucune interdiction temporaire ou définitive d'exercer la profession, ni aucune
+condamnation pénale prévue à l'article R. 212-4 du code de la route ; 
 
 3° Une preuve de ses qualifications professionnelles ; 
 
-4° La preuve par tout moyen qu'il a exercé la ou les activités concernées pendant au moins deux ans consécutifs ou non au
-cours des dix années précédentes ou pendant une durée équivalente à temps partiel lorsque l'activité ou la formation y
-conduisant n'est pas réglementée dans l'Etat d'établissement ; 
+4° Le cas échéant, la preuve par tout moyen qu'il a exercé l'activité mentionnée au premier alinéa ci-dessus pendant la durée
+prévue au premier alinéa du II de l'article L. 212-1 dans un ou plusieurs Etats membres, lorsque l'activité ou la formation y
+conduisant n'est pas réglementée dans l'Etat du lieu d'établissement.
 
 La déclaration et les documents joints peuvent être transmis par tout moyen, accompagnés, le cas échéant, de leur traduction
 en langue française. 
 
-III. - Au vu de la déclaration mentionnée au II de l'article L. 212-1, le préfet procède à une vérification des
-qualifications professionnelles du prestataire. 
+III. - Au vu de la déclaration mentionnée au deuxième alinéa du II de l'article L. 212-1, le préfet procède à la vérification
+des qualifications professionnelles du prestataire prévue à cet article.
 
-Dans un délai maximal d'un mois à compter de la réception de la déclaration et des documents joints, le préfet informe le
-prestataire du résultat de ce contrôle ou, le cas échéant, procède à une demande d'informations complémentaires. 
+Dans un délai maximal d'un mois à compter de la réception de la déclaration et des documents prévus au II, le préfet informe
+le prestataire de sa décision consistant soit à autoriser la prestation de service sans vérification des qualifications
+professionnelles, soit après vérification, d'autoriser la prestation de service ou d'imposer à l'intéressé une épreuve
+d'aptitude dans les conditions prévues ci-après.
 
-Dans ce dernier cas, le prestataire est informé avant la fin du premier mois que la décision sera prise avant la fin du
-deuxième mois à compter de la réception du complément d'informations. 
+La prestation de service consiste en l'exercice de tout ou partie des activités autorisées.
 
-En cas de différence substantielle entre les qualifications professionnelles du prestataire et la formation exigée en France
-pour l'enseignement de la conduite ou l'animation de stages de sensibilisation à la sécurité routière, dans la mesure où
-cette différence est de nature à nuire à la sécurité des bénéficiaires du service, le prestataire se voit offrir la
-possibilité de démontrer qu'il a acquis les connaissances et compétences manquantes par une épreuve d'aptitude. Celle-ci est
-organisée et les résultats lui en sont communiqués dans un délai maximal de trente jours à compter de la décision mentionnée
-à l'alinéa précédent. 
+En cas de demande d'informations complémentaires ou de difficulté susceptible de provoquer un retard dans sa décision, le
+préfet informe le prestataire dans ce même délai des causes de ce retard. La difficulté est résolue dans le mois qui suit
+cette information. La décision du préfet est prise dans les deux mois qui suivent la levée des difficultés ou de la réponse à
+la demande d'information.
+
+En cas de différence substantielle existant entre les qualifications professionnelles du prestataire et la formation exigée
+en France pour l'enseignement de la conduite ou l'animation de stages de sensibilisation à la sécurité routière, qui ne peut
+être considérée comme étant compensée par l'expérience professionnelle du prestataire ou par les connaissances, aptitudes et
+compétences acquises et qui est de nature à nuire à la sécurité des bénéficiaires du service, le prestataire se voit offrir
+la possibilité de démontrer qu'il a acquis les connaissances et compétences manquantes en passant une épreuve d'aptitude.
+Cette épreuve d'aptitude est organisée et les résultats lui en sont communiqués dans un délai maximal de trente jours à
+compter de la décision mentionnée au deuxième alinéa ci-dessus. 
 
 En l'absence de décision du préfet, ou, le cas échéant, de l'organisation de l'épreuve d'aptitude, dans les délais prévus ci-
 dessus, la prestation de services peut être effectuée. 
@@ -11443,13 +11451,13 @@ _Cité par_:
   - Arrêté du 13 avril 2016 - art. 1 (V)
   - Arrêté du 20 avril 2016 - art. 6 (V)
   - Arrêté du 4 septembre 2017 (V)
-  - Code de la route. - art. R211-3 (V)
+  - Code de la route. - art. R211-3 (M)
   - Code de la route. - art. R212-3 (V)
   - Code de la route. - art. R233-1 (V)
 
 _Modifié par_:
 
-  - Décret n°2016-381 du 30 mars 2016 - art. 3
+  - Décret n°2016-613 du 17 mai 2016 - art. 1
 
 _Anciens textes_:
 
@@ -11625,9 +11633,9 @@ _Cite_:
 
 ###### Article R212-3-1
 
-Les personnes ayant acquis leurs qualifications dans un autre Etat membre de la Communauté européenne ou dans un autre Etat
-partie à l'accord sur l'Espace économique européen sont réputées satisfaire aux conditions de qualification professionnelle
-énoncées au 1° du I ou au II de l'article R. 212-2 dans les conditions suivantes : 
+Les personnes ayant acquis leurs qualifications dans un autre Etat membre l'Union européenne ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen sont réputées satisfaire aux conditions de qualification professionnelle énoncées
+au 1° du I ou au II de l'article R. 212-2 dans les conditions suivantes : 
 
 1° Conditions générales de la reconnaissance : 
 
@@ -11635,12 +11643,9 @@ a) Lorsque l'Etat dans lequel ont été acquises les qualifications réglemente 
 l'attestation de compétences ou le titre de formation prescrit pour exercer la profession dans cet Etat ; 
 
 b) Lorsque l'Etat dans lequel ont été acquises les qualifications ne réglemente pas la profession, le demandeur doit avoir
-exercé la profession au cours des dix années précédentes dans cet Etat, soit à temps plein pendant deux années continues ou
-non, soit à temps partiel pendant une durée totale équivalente aux deux années requises sur la base d'un temps plein, et
-posséder au moins une attestation de compétences ou un titre de formation attestant la préparation à l'exercice de cette
-profession. La condition relative à l'expérience professionnelle n'est toutefois pas exigée quand le candidat possède un
-titre sanctionnant une formation réglementée, spécifiquement orientée sur l'exercice de la profession, correspondant au
-minimum à un cycle d'études secondaires ; 
+exercé la profession au cours des dix années précédentes dans un ou plusieurs Etats membres, un an, consécutif ou non, à
+temps plein ou pendant une durée totale équivalente, à temps partiel, et posséder au moins une attestation de compétences ou
+un titre de formation attestant la préparation à l'exercice de cette profession ; 
 
 2° Conditions de validité des titres : 
 
@@ -11650,11 +11655,11 @@ autorité compétente de l'Etat dans lequel ont été acquises les qualification
 Est assimilé au titre de formation mentionné aux a et b du 1° tout titre de formation ou ensemble de titres de formation
 qui :
 
-- a été délivré par une autorité compétente d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à
+- a été délivré par une autorité compétente d'un autre Etat membre de la l'Union européenne ou d'un autre Etat partie à
 l'accord sur l'Espace économique européen ;
 
-- sanctionne une formation acquise dans la Communauté européenne ou dans l'Espace économique européen et reconnue par l'Etat
-de délivrance du titre comme étant de niveau équivalent ;
+- sanctionne une formation acquise dans l'Union européenne ou dans l'Espace économique européen et reconnue par l'Etat de
+délivrance du titre comme étant de niveau équivalent ;
 
 - et confère les mêmes droits d'accès ou d'exercice de la profession, ou prépare à l'exercice de cette profession. 
 
@@ -11664,8 +11669,8 @@ qualifications pour l'accès à la profession ou son exercice, confère à son t
 dispositions. 
 
 Peuvent également justifier de leur capacité à exercer la profession les personnes qui possèdent un titre permettant son
-exercice, acquis dans un pays tiers et admis en équivalence dans un Etat membre de la Communauté européenne ou dans un Etat
-partie à l'accord sur l'Espace économique européen si cet Etat réglemente l'exercice de la profession. Elles doivent en outre
+exercice, acquis dans un pays tiers et admis en équivalence dans un Etat membre de l'Union européenne ou dans un Etat partie
+à l'accord sur l'Espace économique européen si cet Etat réglemente l'exercice de la profession. Elles doivent en outre
 justifier avoir exercé la profession pendant trois ans dans l'Etat qui a admis l'équivalence de leur titre ; 
 
 3° Mesures de compensation : 
@@ -11683,20 +11688,39 @@ profession correspondante dans l'Etat ayant délivré l'attestation de compéten
 matières substantiellement différentes de celles couvertes par l'attestation de compétences ou le titre de formation. 
 
 Le contenu du stage d'adaptation ou de l'épreuve d'aptitude tient compte des connaissances acquises par le candidat au cours
-de son expérience professionnelle. 
+de son expérience professionnelle ou lors de son apprentissage tout au long de la vie. 
+
+Par dérogation au deuxième alinéa ci-dessus, le préfet de département peut imposer au demandeur, par une décision motivée,
+soit le stage d'adaptation soit l'épreuve d'aptitude mentionnés ci-dessus, lesquels doivent intervenir dans les six mois à
+compter de cette décision.
+
+Le préfet prend sa décision après avoir vérifié les connaissances, les aptitudes et les compétences que le demandeur a
+acquises au cours de son expérience professionnelle à temps plein ou à temps partiel ou par la voie de l'apprentissage tout
+au long de la vie, et ayant fait l'objet à cette fin d'une validation en bonne et due forme par un organisme compétent, dans
+un Etat membre ou dans un pays tiers.
+
+Les conditions dans lesquelles cette décision du préfet peut intervenir sont précisées par un arrêté du ministre chargé de la
+sécurité routière.
 
 Le candidat est dispensé du stage d'adaptation ou de l'épreuve d'aptitude si les connaissances qu'il a acquises au cours de
 son expérience professionnelle couvrent l'intégralité de la différence substantielle constatée entre la formation qu'il a
 reçue et la formation dispensée sur le territoire français et requise pour l'enseignement de la conduite ou l'animation de
 stages de sensibilisation à la sécurité routière. 
 
-Les dispositions fixées au présent article sont précisées par arrêté du   ministre chargé de la sécurité routière.
+4° Peuvent s'établir en France, pour y exercer tout ou partie des activités placées sous le régime du III de l'article L.
+212-1, les personnes, ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'Espace économique
+européen :
+
+a) Lorsqu'elles sont titulaires d'une attestation de compétences ou d'un titre de formation requis par l'autorité compétente
+d'un de ces Etats pour accéder à ces activités sur son territoire ou les y exercer ;
+
+b) Ou, dans le cas où l'Etat dont elles sont le ressortissant ne réglemente pas l'exercice des activités en cause,
+lorsqu'elles peuvent justifier de l'exercice de ces activités à temps plein pendant une durée d'un an ou à temps partiel
+pendant une durée totale équivalente au cours des dix années précédentes.
+
+Les dispositions fixées au présent article sont précisées par arrêté du ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2012-688 du 7 mai 2012 - art. 2
 
 _Cité par_:
 
@@ -11704,6 +11728,10 @@ _Cité par_:
   - Arrêté du 13 septembre 2017 - art. 1 (V)
   - Arrêté du 13 septembre 2017 - art. 2 (V)
   - Code de la route. - art. R212-3 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-613 du 17 mai 2016 - art. 1
 
 _Cite_:
 
@@ -11713,19 +11741,25 @@ _Cite_:
 ###### Article R212-3-2
 
 Les personnes ayant obtenu la reconnaissance de leurs qualifications professionnelles acquises dans d'autres Etats ou
-souhaitant exercer une prestation temporaire et occasionnelle dans les conditions du II de l'article L. 212-1 doivent avoir
-les connaissances linguistiques nécessaires à l'exercice de l'activité d'enseignant de la conduite ou d'animateur de stages
-de sensibilisation à la sécurité routière en France.
+souhaitant exercer une prestation temporaire et occasionnelle dans les conditions du II de l'article L. 212-1 doivent avoirun
+niveau de connaissance du français suffisant pour l'exercice de l'activité d'enseignant de la conduite ou d'animateur de
+stages de sensibilisation à la sécurité routière en France.
+
+Le préfet peut contrôler le respect par les professionnels de cette obligation lorsqu'il existe un doute sérieux et concret
+sur leur niveau de connaissance du français au regard des activités qu'ils entendent exercer.
+
+Ce contrôle est limité à la connaissance du français et est réalisé après la reconnaissance de la qualification
+professionnelle de l'intéressé.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 6
+  - Décret n°2016-613 du 17 mai 2016 - art. 1
 
 _Cite_:
 
-  - Code de la route. - art. L212-1 (V)
+  - Code de la route. - art. L212-1
 
 
 ###### Article R212-4
@@ -12088,7 +12122,7 @@ _Cite_:
 
 ###### Article R212-5-1
 
-A la demande d'une autorité compétente d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
+A la demande d'une autorité compétente d'un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace
 économique européen sur le territoire duquel un enseignant de la conduite ou un animateur de stages de sensibilisation à la
 sécurité routière exécute ou déclare vouloir exécuter une prestation de services, le préfet du département du lieu de
 résidence de l'enseignant ou de l'animateur communique à cette autorité toutes les informations pertinentes sur la légalité
@@ -12097,9 +12131,9 @@ d'une suspension ou d'un retrait d'autorisation, mention en est faite.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1678 du 29 décembre 2009 - art. 10
+  - Décret n°2016-613 du 17 mai 2016 - art. 1
 
 
 ###### Article R212-6
@@ -12295,8 +12329,8 @@ _Cite_:
 ###### Article R213-2-1
 
 Pour satisfaire aux conditions de qualifications professionnelles énoncées au 2° du I et au 2° du II de l'article R. 213-2,
-les personnes ayant acquis leurs qualifications dans un autre Etat membre de la Communauté européenne ou dans un autre Etat
-partie à l'accord sur l'Espace économique européen doivent satisfaire aux conditions suivantes : 
+les personnes ayant acquis leurs qualifications dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie
+à l'accord sur l'Espace économique européen doivent satisfaire aux conditions suivantes : 
 
 1° Conditions générales de la reconnaissance : 
 
@@ -12304,12 +12338,11 @@ a) Lorsque l'Etat dans lequel ont été acquises les qualifications réglemente 
 l'attestation de compétences ou le titre de formation prescrit pour exercer la profession dans cet Etat ; 
 
 b) Lorsque l'Etat dans lequel ont été acquises les qualifications ne réglemente pas la profession, le demandeur doit avoir
-exercé la profession au cours des dix années précédentes dans cet Etat, soit à temps plein pendant deux années continues ou
-non, soit à temps partiel pendant une durée totale équivalente aux deux années requises sur la base d'un temps plein, et
-posséder au moins une attestation de compétences ou un titre de formation attestant la préparation à l'exercice de cette
-profession. La condition relative à l'expérience professionnelle n'est toutefois pas exigée quand le candidat possède un
-titre sanctionnant une formation réglementée, spécifiquement orientée sur l'exercice de la profession, correspondant au
-minimum à un cycle d'études secondaires. 
+exercé la profession au cours des dix années précédentes dans un ou plusieurs Etats membres, un an, consécutif ou non, à
+temps plein ou pendant une durée totale équivalente, à temps partiel, et posséder au moins une attestation de compétences ou
+un titre de formation attestant la préparation à l'exercice de cette profession. La condition relative à l'expérience
+professionnelle n'est toutefois pas exigée quand le candidat possède un titre sanctionnant une formation réglementée,
+spécifiquement orientée sur l'exercice de la profession, correspondant au minimum à un cycle d'études secondaires. 
 
 2° Conditions de validité des titres : 
 
@@ -12319,11 +12352,11 @@ autorité compétente de l'Etat dans lequel ont été acquises les qualification
 Est assimilé au titre de formation mentionné aux a et b du 1° tout titre de formation ou ensemble de titres de formation
 qui :
 
-- a été délivré par une autorité compétente d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à
-l'accord sur l'Espace économique européen ;
+- a été délivré par une autorité compétente d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord
+sur l'Espace économique européen ;
 
-- sanctionne une formation acquise dans la Communauté européenne ou dans l'Espace économique européen et reconnue par l'Etat
-de délivrance du titre comme étant de niveau équivalent ;
+- sanctionne une formation acquise dans l'Union européenne ou dans l'Espace économique européen et reconnue par l'Etat de
+délivrance du titre comme étant de niveau équivalent ;
 
 - et confère les mêmes droits d'accès ou d'exercice de la profession, ou prépare à l'exercice de cette profession. 
 
@@ -12333,8 +12366,8 @@ qualifications pour l'accès à la profession ou son exercice, confère à son t
 dispositions. 
 
 Peuvent également justifier de leur capacité à exercer la profession les personnes qui possèdent un titre permettant son
-exercice, acquis dans un pays tiers et admis en équivalence dans un Etat membre de la Communauté européenne ou dans un Etat
-partie à l'accord sur l'Espace économique européen si cet Etat réglemente l'exercice de la profession. Elles doivent en outre
+exercice, acquis dans un pays tiers et admis en équivalence dans un Etat membre de l'Union européenne ou dans un Etat partie
+à l'accord sur l'Espace économique européen si cet Etat réglemente l'exercice de la profession. Elles doivent en outre
 justifier avoir exercé la profession pendant trois ans dans l'Etat qui a admis l'équivalence de leur titre ; 
 
 3° Mesures de compensation : 
@@ -12352,26 +12385,67 @@ profession correspondante dans l'Etat ayant délivré l'attestation de compéten
 matières substantiellement différentes de celles couvertes par l'attestation de compétences ou le titre de formation. 
 
 Le contenu du stage d'adaptation ou de l'épreuve d'aptitude tient compte des connaissances acquises par le candidat au cours
-de son expérience professionnelle. 
+de son expérience professionnelle ou lors de son apprentissage tout au long de la vie. 
+
+Par dérogation au deuxième alinéa ci-dessus, le préfet de département peut imposer au demandeur, par une décision motivée,
+soit le stage d'adaptation soit l'épreuve d'aptitude mentionnés ci-dessus, lesquels doivent intervenir dans les six mois à
+compter de cette décision.
+
+Le préfet prend sa décision après avoir vérifié les connaissances, les aptitudes et les compétences que le demandeur a
+acquises au cours de son expérience professionnelle à temps plein ou à temps partiel ou par la voie de l'apprentissage tout
+au long de la vie, et ayant fait l'objet à cette fin d'une validation en bonne et due forme par un organisme compétent, dans
+un Etat membre ou dans un pays tiers.
+
+Les conditions dans lesquelles cette décision du préfet peut intervenir sont précisées par un arrêté du ministre chargé de la
+sécurité routière.
 
 Le candidat est dispensé du stage d'adaptation ou de l'épreuve d'aptitude si les connaissances qu'il a acquises au cours de
 son expérience professionnelle couvrent l'intégralité de la différence substantielle constatée entre la formation qu'il a
 reçue et la formation dispensée sur le territoire français et requise pour l'enseignement de la conduite ou l'animation de
 stages de sensibilisation à la sécurité routière. 
 
-Les dispositions fixées au présent article sont précisées par arrêté du   ministre chargé de la sécurité routière.
+4° Peuvent s'établir en France, pour y exercer tout ou partie des activités placées sous le régime de l'article L. 213-1-1,
+les personnes, ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'Espace économique européen :
+
+a) Lorsqu'elles sont titulaires d'une attestation de compétences ou d'un titre de formation requis par l'autorité compétente
+d'un de ces Etats pour accéder à ces activités sur son territoire ou les y exercer ;
+
+b) Ou, dans le cas où l'Etat dont elles sont le ressortissant ne réglemente pas l'exercice des activités en cause,
+lorsqu'elles peuvent justifier de l'exercice de ces activités à temps plein pendant une durée d'un an ou à temps partiel
+pendant une durée totale équivalente au cours des dix années précédentes. 
+
+Les dispositions fixées au présent article sont précisées par arrêté du ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-688 du 7 mai 2012 - art. 2
+  - Décret n°2016-613 du 17 mai 2016 - art. 1
 
 _Cité par_:
 
   - Arrêté du 13 septembre 2017 - art. 1 (V)
   - Arrêté du 13 septembre 2017 - art. 2 (V)
   - Code de la route. - art. R213-2 (V)
+
+
+###### Article R213-2-2
+
+Les personnes ayant obtenu la reconnaissance de leurs qualifications professionnelles acquises dans un autre Etat membre de
+l'Union européenne ou dans un Etat partie à l'Espace économique européen doivent avoir un niveau de connaissance du français
+suffisant pour l'exercice de l'activité mentionnée au présent chapitre.
+
+Le préfet peut contrôler le respect par les intéressés de cette obligation lorsqu'il existe un doute sérieux et concret sur
+leur niveau de connaissance du français au regard des activités qu'ils entendent exercer.
+
+Ce contrôle est limité à la connaissance du français et est réalisé après la reconnaissance de la qualification
+professionnelle de l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-613 du 17 mai 2016 - art. 1
 
 
 ###### Article R213-3
@@ -28665,8 +28739,8 @@ qu'il n'encourt, lorsque l'attestation est délivrée, aucune interdiction même
 3° Une preuve de ses qualifications professionnelles ; 
 
 4° Lorsque la profession d'expert en automobile ou la formation y conduisant n'est pas réglementée dans l'Etat
-d'établissement, la preuve par tout moyen que le prestataire a exercé cette profession pendant au moins deux années au cours
-des dix années précédentes ; 
+d'établissement, la preuve par tout moyen que le prestataire a exercé cette profession pendant         au moins une année à
+temps plein ou à temps partiel pendant une durée équivalente au cours des dix années qui précèdent ; 
 
 5° Une preuve que le prestataire est couvert par un contrat d'assurance garantissant la responsabilité civile qu'il peut
 encourir en raison des activités mentionnées à l'article L. 326-4 ; 
@@ -28682,7 +28756,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-760 du 28 juin 2011 - art. 1
+  - Décret n°2016-613 du 17 mai 2016 - art. 1
 
 _Cité par_:
 
@@ -28706,8 +28780,12 @@ _Nouveaux textes_:
 
 ###### Article R326-7
 
-Le ministre chargé des transports peut demander, le cas échéant, au prestataire de justifier qu'il possède les connaissances
-linguistiques nécessaires à l'exercice des fonctions d'expert en automobile en France.
+Le ministre chargé des transports peut demander, le cas échéant, au prestataire de justifier qu'il possède un niveau de
+connaissance du français suffisant pour l'exercice des fonctions d'expert en automobile en France.
+
+Un contrôle de ces connaissances peut être imposé par le même ministre s'il existe un doute sérieux et concret sur le niveau
+de connaissance du français du prestataire. Ce contrôle ne peut être réalisé qu'après la reconnaissance de la qualification
+professionnelle de l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -28717,7 +28795,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-760 du 28 juin 2011 - art. 1
+  - Décret n°2016-613 du 17 mai 2016 - art. 1
 
 _Anciens textes_:
 
@@ -28743,7 +28821,7 @@ A l'issue du délai mentionné à l'alinéa précédent, en l'absence de demande
 résultat de la vérification des qualifications, l'expert est réputé être inscrit sur la liste. 
 
 Un arrêté du ministre chargé des transports fixe les modalités d'application du présent article, et notamment les conditions
-dans lesquelles le prestataire peut être soumis à un entretien professionnel, si l'examen des documents prévus à l'article R.
+dans lesquelles le prestataire peut être soumis à  une épreuve d'aptitude, si l'examen des documents prévus à l'article R.
 326-6 fait apparaître une différence substantielle entre les qualifications professionnelles du prestataire et celles
 requises pour exercer l'activité en France, et dans la mesure où cette différence est de nature à nuire à la sécurité des
 personnes. 
@@ -28756,7 +28834,7 @@ pour une durée d'un an. Cette demande de renouvellement est accompagnée du doc
 
 _Modifié par_:
 
-  - Décret n°2011-760 du 28 juin 2011 - art. 1
+  - Décret n°2016-613 du 17 mai 2016 - art. 1
 
 _Anciens textes_:
 
@@ -28766,11 +28844,29 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L326-4
-  - Code de la route. - art. R326-6 (V)
+  - Code de la route. - art. R326-6
 
 _Nouveaux textes_:
 
   - Code de la route. - art. R327-8 (V)
+
+
+###### Article R326-8-1
+
+Un arrêté du ministre des transports précise :
+
+1° Les conditions dans lesquelles il peut être exigé d'un ressortissant d'un Etat membre de l'Union européenne ou partie à
+l'accord sur l'Espace économique européen qui remplit les conditions fixées par l'article R. 326-5 que, selon son choix, il
+accomplisse un stage d'adaptation ou qu'il se soumette à une épreuve d'aptitude ;
+
+2° Les modalités de reconnaissance des stages professionnels effectués dans un autre Etat membre de l'Union européenne ou de
+l'Espace économique européen.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-613 du 17 mai 2016 - art. 1
 
 
 ###### Article R326-9
