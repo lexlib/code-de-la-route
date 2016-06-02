@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-06-01
+Version Consolidée au 2016-06-03
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -13042,8 +13042,8 @@ _Créé par_:
 Les examens du permis de conduire susvisés comportent une épreuve théorique et une épreuve pratique qui se déroulent dans les
 conditions et selon les modalités fixées par arrêté du ministre chargé de la sécurité routière. 
 
-Par exception aux dispositions de ce premier alinéa : l'épreuve pratique de la catégorie A peut être remplacée par le suivi
-d'une formation dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L. 213-7 pour les
+Par exception aux dispositions de ce premier alinéa : l'épreuve pratique de la catégorie A est  remplacée par le suivi d'une
+formation dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L. 213-7 pour les
 titulaires de la catégorie A2 depuis deux ans au moins. 
 
 Les examens organisés en vue de l'obtention du permis de conduire comprennent notamment une interrogation sur les effets de
@@ -13079,15 +13079,16 @@ _Cité par_:
   - Décret n°2016-723 du 31 mai 2016 - art. 2 (V)
   - Arrêté du 20 février 2017 (V)
   - Arrêté du 18 juin 2018 (V)
+  - Code de la route. - art. R221-6 (V)
   - Code de la route. - art. R222-2 (V)
   - Code de la route. - art. R222-3 (V)
   - Code de la route. - art. R222-4 (V)
   - Code de la route. - art. R222-7 (VD)
   - Code de la route. - art. R224-20 (VD)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
+  - Décret n°2016-723 du 31 mai 2016 - art. 1
 
 _Cite_:
 
@@ -13872,8 +13873,6 @@ Les conditions minimales requises pour l'obtention du permis de conduire sont le
 
 - de dix-huit ans révolus pour les catégories A2, B, C1, BE et C1E ;
 
-- de vingt-quatre ans révolus pour la catégorie A, sauf pour les titulaires du permis A2 depuis au moins deux ans ;
-
 - de vingt et un ans révolus pour le conducteur d'un tricycle à moteur d'une puissance supérieure à 15 kilowatts ;
 
 - de vingt et un ans révolus pour les catégories C, CE, D1 et D1E, sans préjudice des dispositions relatives à l'âge
@@ -13895,6 +13894,8 @@ a) Pour la première obtention du permis de conduire, s'agissant des personnes n
 l'attestation scolaire de sécurité routière de second niveau ou de l'attestation de sécurité routière ; 
 
 b) En outre :
+
+- pour l'obtention de la catégorie A, de la catégorie A2 du permis de conduire depuis deux ans au moins ; 
 
 - pour l'obtention des catégories C1, C, D1, D, BE, de la catégorie B du permis de conduire ;
 
@@ -13935,12 +13936,15 @@ _Codifié par_:
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 6 (Ab)
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe I (Ab)
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe II (Ab)
-  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 _Cite_:
 
   - Décret n°2007-1340 du 11 septembre 2007
   - Code de la route. - art. R222-1
+
+_Modifié par_:
+
+  - Décret n°2016-723 du 31 mai 2016 - art. 1
 
 _Anciens textes_:
 
@@ -13949,18 +13953,22 @@ _Anciens textes_:
 
 ###### Article R221-6
 
-Le permis de conduire de la catégorie A est délivré aux titulaires de permis de la catégorie A2 depuis deux ans au moins qui
-justifient avoir suivi une formation dont les modalités sont fixées par arrêté du ministre chargé de la sécurité routière.
+Les modalités de la formation prévues au deuxième alinéa de l'article D. 221-3 sont fixées par arrêté du ministre chargé de
+la sécurité routière.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
+  - Décret n°2016-723 du 31 mai 2016 - art. 1
 
 _Anciens textes_:
 
   - Code de la route - art. R124-2 (Ab)
+
+_Cite_:
+
+  - Code de la route. - art. D221-3 (V)
 
 _Cité par_:
 
@@ -14152,12 +14160,12 @@ _Anciens textes_:
 
 ###### Article R221-10
 
-I.-Les catégories A1, A2, A, B1 et B du permis de conduire sont délivrées sans visite médicale préalable sauf dans les cas où
-cette visite est rendue obligatoire par arrêté du ministre chargé de la sécurité routière pris en application de l'article R.
-226-1. 
+I.-Les catégories A1, A2, A, B1, B et BE  du permis de conduire sont délivrées sans visite médicale préalable sauf dans les
+cas où cette visite est rendue obligatoire par arrêté du ministre chargé de la sécurité routière pris en application de
+l'article R. 226-1. 
 
 II.-Les catégories A1, A2, A, B1 et B délivrées pour la conduite des véhicules spécialement aménagés pour tenir compte du
-handicap du conducteur et les catégories C1, C1E, C, CE, D1, D1E, D, DE et BE ne peuvent être obtenues ou renouvelées qu'à la
+handicap du conducteur et les catégories C1, C1E, C, CE, D1, D1E, D et DE  ne peuvent être obtenues ou renouvelées qu'à la
 suite d'un avis médical favorable. 
 
 III.-La catégorie B du permis de conduire ne permet la conduite : 
@@ -14193,16 +14201,16 @@ _Cité par_:
   - Arrêté du 16 février 2018 - art. 5 (V)
   - Code de la route. - art. R130-3 (M)
   - Code de la route. - art. R221-1 (T)
-  - Code de la route. - art. R221-11 (V)
+  - Code de la route. - art. R221-11 (M)
   - Code de la route. - art. R225-2 (V)
   - Code de la santé publique - art. R6312-45 (VD)
   - Code de la santé publique - art. R6312-7 (V)
   - Code des transports - art. D3120-5 (V)
   - Code du tourisme. - art. D231-8 (VT)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
+  - Décret n°2016-723 du 31 mai 2016 - art. 1
 
 _Anciens textes_:
 
