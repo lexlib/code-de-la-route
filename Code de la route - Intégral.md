@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-06-03
+Version Consolidée au 2016-06-05
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -4394,16 +4394,16 @@ invalidé, suspendu ou retenu ;
 Les peines sont portées à cinq ans d'emprisonnement et 75 000 euros d'amende lorsque l'atteinte involontaire à l'intégrité de
 la personne a été commise avec deux ou plus des circonstances mentionnées aux 1° et suivants du présent article.
 
-Art. 222-44-Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines
-complémentaires suivantes :
+Art. 222-44- I.-Les personnes physiques coupables des infractions prévues aux sections 1 à 4 du présent chapitre encourent
+également les peines complémentaires suivantes :
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
-soit, pour les infractions prévues par les articles 222-1 à 222-6, 222-7, 222-8, 222-10, les 1° et 2° de l'article 222-14,
-les 1° à 3° de l'article 222-14-1, les articles 222-15, 222-23 à 222-26, 222-34, 222-35, 222-36, 222-37, 222-38 et 222-39,
-d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
-quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
-industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ;
+soit, pour les infractions prévues par les articles 222-1 à 222-6,222-7,222-8,222-10, les 1° et 2° de l'article 222-14, les
+1° à 3° de l'article 222-14-1, les articles 222-15,222-23 à 222-26,222-34,222-35,222-36,222-37,222-38 et 222-39, d'exercer
+une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque,
+directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle
+ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ;
 
 2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
 
@@ -4428,16 +4428,19 @@ moteur, y compris ceux pour la conduite desquels le permis de conduire n'est pas
 9° Dans les cas prévus par les articles 222-19-1 et 222-20-1, l'obligation d'accomplir, à leurs frais, un stage de
 sensibilisation à la sécurité routière ;
 
+9° bis L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les
+modalités fixées à l'article 131-35-1 ;
+
 10° Dans les cas prévus par les articles 222-19-1 et 222-20-1, l'immobilisation, pendant une durée d'un an au plus, du
 véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ;
 
 11° La confiscation de l'animal ayant été utilisé pour commettre l'infraction ;
 
-12° L'interdiction, à titre définitif ou temporaire, de détenir un animal.
+12° L'interdiction, à titre définitif ou temporaire, de détenir un animal ;
 
 13° Dans les cas prévus par les articles 222-19-1 et 222-20-1, la confiscation du véhicule dont le condamné s'est servi pour
 commettre l'infraction, s'il en est le propriétaire. La confiscation du véhicule est obligatoire dans les cas prévus par les
-4° et dernier alinéa de ces articles ainsi que, dans les cas prévus par les 2°,3° et 5° des mêmes articles, en cas de
+4° et dernier alinéa de ces articles ainsi que, dans les cas prévus par les 2°, 3° et 5° des mêmes articles, en cas de
 récidive ou si la personne a déjà été définitivement condamnée pour un des délits prévus par les articles L. 221-2, L.
 224-16, L. 234-1, L. 234-8, L. 235-1, L. 235-3, L. 413-1 du code de la route ou pour la contravention mentionnée à ce même
 article L. 413-1. La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée ;
@@ -4447,12 +4450,15 @@ pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas
 construction d'un dispositif d'anti-démarrage par éthylotest électronique, homologué dans les conditions prévues à l'article
 L. 234-17 du code de la route. Lorsque cette interdiction est prononcée en même temps que la peine d'annulation ou de
 suspension du permis de conduire, elle s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette
-peine.
+peine ;
+
+15° La réalisation, à leurs frais, d'un stage de responsabilisation pour la prévention et la lutte contre les violences au
+sein du couple et sexistes.
 
 Toute condamnation pour les délits prévus par les 1° à 6° et le dernier alinéa de l'article 222-19-1 donne lieu de plein
 droit à l'annulation du permis de conduire avec interdiction de solliciter un nouveau permis pendant dix ans au plus.
 
-II. - En cas de condamnation pour les crimes ou pour les délits commis avec une arme prévus aux sections 1, 3, 3 ter et 4 du
+II.-En cas de condamnation pour les crimes ou pour les délits commis avec une arme prévus aux sections 1,3,3 ter et 4 du
 présent chapitre, le prononcé des peines complémentaires prévues aux 2° et 6° du I est obligatoire. La durée de la peine
 prévue au 2° du I est portée à quinze ans au plus.
 
@@ -4464,7 +4470,7 @@ la personnalité de son auteur.
 
 _Modifié par_:
 
-  - Loi n°2016-41 du 26 janvier 2016 - art. 45
+  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 **Liens**:
 
@@ -5391,13 +5397,13 @@ _Cité par_:
 Lorsqu'il a été procédé aux épreuves de dépistage et aux vérifications prévues par les articles L. 234-3 et L. 234-5, le
 placement en garde à vue de la personne, si les conditions de cette mesure prévues par le code de procédure pénale sont
 réunies, n'est pas obligatoire dès lors qu'elle n'est pas tenue sous la contrainte de demeurer à la disposition des
-enquêteurs et qu'elle a été informée qu'elle peut à tout moment quitter les locaux de police ou de gendarmerie.
+enquêteurs et qu'elle a été informée des droits mentionnés à l'article 61-1 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-392 du 14 avril 2011 - art. 15
+  - Loi n°2016-731 du 3 juin 2016 - art. 83
 
 _Cité par_:
 
@@ -5405,6 +5411,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de procédure pénale - art. 61-1 (V)
   - Code de la route. - art. L234-3
   - Code de la route. - art. L234-5
 
@@ -5691,7 +5698,7 @@ _Cité par_:
 Lorsqu'il a été procédé aux épreuves de dépistage et aux vérifications prévues par l'article L. 235-2, le placement en garde
 à vue de la personne, si les conditions de cette mesure prévues par le code de procédure pénale sont réunies, n'est pas
 obligatoire dès lors qu'elle n'est pas tenue sous la contrainte de demeurer à la disposition des enquêteurs et qu'elle a été
-informée qu'elle peut à tout moment quitter les locaux de police ou de gendarmerie.
+informée des droits mentionnés à l'article 61-1 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -5707,10 +5714,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-392 du 14 avril 2011 - art. 15
+  - Loi n°2016-731 du 3 juin 2016 - art. 83
 
 _Cite_:
 
+  - Code de procédure pénale - art. 61-1 (V)
   - Code de la route. - art. L235-2
 
 
