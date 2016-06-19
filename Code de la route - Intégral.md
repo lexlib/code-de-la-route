@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-06-05
+Version Consolidée au 2016-06-20
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -12938,6 +12938,9 @@ Le Conseil supérieur de l'éducation routière est placé auprès du ministre c
 de toute question relative à l'éducation routière, notamment l'apprentissage de la conduite, le permis de conduire et
 l'organisation des professions. 
 
+Le Conseil supérieur de l'éducation routière assure le suivi, l'observation et l'évaluation statistique des conditions
+d'accès au permis de conduire sur l'ensemble du territoire national. Il élabore un rapport public annuel. 
+
 Le Conseil supérieur de l'éducation routière peut présenter toutes propositions dans le domaine de l'éducation routière.
 
 **Nota:**
@@ -12950,81 +12953,63 @@ une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2011-570 du 24 mai 2011 - art. 1
-
 _Cité par_:
 
   - Décret n°2014-597 du 6 juin 2014 - art. (V)
   - Décret n°2015-628 du 5 juin 2015 - art. (V)
 
+_Modifié par_:
+
+  - Décret n°2016-815 du 17 juin 2016 - art. 2
+
 
 ###### Article D214-2
 
-Le Conseil supérieur de l'éducation routière est composé de cinq collèges. Il comprend vingt-huit membres : 
+Le Conseil supérieur de l'éducation routière comprend :
 
-1° Cinq représentants de l'Etat : 
+1° Deux parlementaires :
 
-- le délégué à la sécurité et à la circulation routières et le directeur de la modernisation et de l'action territoriale ou
-leurs représentants, pour le ministre de l'intérieur ; 
+- un sénateur et un député désignés par leurs assemblées respectives ;
 
-- le vice-président du Conseil général de l'environnement et du développement durable ou son représentant, pour le ministre
-chargé des transports ; 
+2° Cinq représentants de l'Etat :
 
-- le directeur général de l'enseignement scolaire ou son représentant, pour le ministre chargé de l'éducation nationale ; 
+- le délégué à la sécurité et à la circulation routières ou son représentant. Il préside ce conseil ;
 
-- le directeur général du travail ou son représentant, pour le ministre chargé du travail ;
+- le vice-président du Conseil général de l'environnement et du développement durable ou son représentant ;
 
-2° Trois représentants des collectivités territoriales : 
+- le directeur général de l'enseignement scolaire ou son représentant ;
 
-- un représentant désigné par l'Association des régions de France ; 
+- le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-- un représentant désigné par l'Assemblée des départements de France ; 
+- le directeur général du travail ou son représentant ;
 
-- un représentant désigné par l'Association des maires de France ; 
+3° Un représentant de chacune des organisations syndicales d'employeurs et de salariés du secteur de l'enseignement de la
+conduite et de la sécurité routière, représentatives au niveau de la branche professionnelle au sens des articles L. 2122-5
+et L. 2152-1 du code du travail ;
 
-3° Douze représentants élus des professionnels exerçant dans le champ de la formation à la sécurité routière, dont six
-représentants des responsables d'établissements et six représentants des salariés ; 
+4° Un représentant de chacune des organisations syndicales représentatives des inspecteurs du permis de conduire et de la
+sécurité routière et des délégués au permis de conduire et à la sécurité routière ;
 
-4° Trois représentants de la société civile : 
+5° Deux représentants des consommateurs désignés sur proposition des organisations de consommateurs et après avis du ministre
+chargé de la consommation ;
 
-- un représentant des consommateurs désigné sur proposition des organisations de consommateurs et après avis du ministre
-chargé de la consommation ; 
+6° Un représentant des jeunes désigné sur proposition du ministre chargé de la jeunesse ;
 
-- un représentant des associations œuvrant pour la sécurité routière désigné par le ministre chargé de la sécurité
-routière  ; 
+7° Un représentant des associations œuvrant pour la sécurité routière désigné par le ministre chargé de la sécurité
+routière ;
 
-- un membre du Conseil national de la jeunesse désigné par celui-ci ; 
+8° Un représentant des assureurs désigné sur proposition du ministre chargé de l'économie ;
 
-5° Cinq personnalités qualifiées choisies en raison de leurs activités professionnelles ou de leurs travaux en matière
-d'éducation routière désignées par le ministre chargé de la sécurité routière. 
+9° Un représentant des éditeurs pédagogiques spécialisés dans l'éducation routière désigné par le ministre chargé de la
+sécurité routière ;
 
-Les membres du Conseil supérieur mentionnés aux 2°, 3°, 4° et 5° sont nommés par arrêté du ministre chargé de la sécurité
-routière pour une durée de cinq ans. 
+10° Un représentant des concepteurs de simulateurs de conduite désigné par le ministre chargé de la sécurité routière ;
 
-Un arrêté du ministre chargé de la sécurité routière fixe les modalités d'organisation des élections des membres du conseil
-supérieur mentionnés au 3°.
+11° Quatre personnalités qualifiées choisies en raison de leurs activités professionnelles ou de leurs travaux en matière
+d'éducation routière désignées par le ministre chargé de la sécurité routière.
 
-**Nota:**
-
-Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, le Conseil supérieur de l'éducation routière est renouvelé
-pour une durée d'un an à compter de l'entrée en vigueur du présent décret (8 juin 2015). 
-
-Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, le Conseil supérieur de l'éducation routière est renouvelé pour
-une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2011-570 du 24 mai 2011 - art. 2
-
-
-###### Article D214-3
-
-Le président du Conseil supérieur de l'éducation routière est nommé par arrêté du   ministre chargé de la sécurité routière,
-parmi les membres du conseil.
+Les membres du Conseil supérieur mentionnés aux 3°, 4°, 5°, 6°, 7°, 8°, 9°, 10° et 11° sont nommés par arrêté du ministre
+chargé de la sécurité routière pour une durée de cinq ans.
 
 **Nota:**
 
@@ -13032,17 +13017,24 @@ Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, le Conseil 
 pour une durée d'un an à compter de l'entrée en vigueur du présent décret (8 juin 2015). 
 
 Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, le Conseil supérieur de l'éducation routière est renouvelé pour
-une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020). 
+
+Conformément à l'article 5 du décret n° 2016-815 du 17 juin 2016, jusqu'au 31 décembre 2017, les représentants des
+professionnels mentionnés au 3° sont désignés à titre transitoire par le ministre chargé de la sécurité routière en prenant
+en compte les résultats des élections organisées par l'arrêté du 31 mai 2010 relatif aux élections pour la désignation des
+représentants de la profession de l'enseignement de la conduite et de la sécurité routière au Conseil supérieur de
+l'éducation routière.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-570 du 24 mai 2011 - art. 3
+  - Décret n°2016-815 du 17 juin 2016 - art. 3
 
-_Abrogé par_:
+_Cite_:
 
-  - Décret n°2016-815 du 17 juin 2016 - art. 4
+  - Code du travail - art. L2122-5
+  - Code du travail - art. L2152-1
 
 
 ###### Article D214-4
