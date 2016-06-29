@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-06-20
+Version Consolidée au 2016-06-30
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -31928,27 +31928,47 @@ _Cite_:
 
 ###### Article R411-19-1
 
-1° Le fait, pour le conducteur d'un véhicule de catégorie M2, M3, N2 ou N3 définie à l'article R. 311-1, de contrevenir aux
-mesures d'interdiction ou de restriction de la circulation mentionnées par le décret instituant une zone d'actions
-prioritaires pour l'air est puni de l'amende prévue pour les contraventions de la quatrième classe ; 
+Le fait, pour un conducteur, de circuler en violation des restrictions d'une zone à circulation restreinte, instituée en
+application de l'
+article L. 2213-4-1 du code général des collectivités territoriales
+, est puni de l'amende prévue pour les contraventions : 
 
-2° Le fait, pour le conducteur d'un véhicule de catégorie M1, N1 ou L définie à l'article R. 311-1, de contrevenir aux
-mesures d'interdiction ou de restriction de la circulation mentionnées par le décret instituant une zone d'actions
-prioritaires pour l'air est puni de l'amende prévue pour les contraventions de la troisième classe. 
+1° De la quatrième classe, lorsque le véhicule relève des catégories M2, M3, N2 ou N3 définies à l'article R. 311-1 ; 
 
-Les infractions prévues aux 1° et 2° peuvent entraîner l'immobilisation du véhicule dans les conditions prévues à l'article
-L. 325-1.
+2° De la troisième classe, lorsque le véhicule relève des catégories M1, N1 ou L. 
+
+Sans préjudice de l'article L. 121-2, est puni de l'amende prévue pour les contraventions de la quatrième classe, pour les
+véhicules des catégories M2, M3, N2 ou N3, ou de l'amende prévue pour les contraventions de troisième classe, pour les
+véhicules des catégories M1, N1 ou L, le fait de stationner dans le périmètre de la zone à circulation restreinte instituée
+en application de l'
+article L. 2213-4-1 du code général des collectivités territoriales 
+: 
+
+1° Lorsque le véhicule n'est pas identifié conformément aux dispositions de l'article L. 318-1 et des textes pris pour son
+application ; ou 
+
+2° Lorsque l'accès de ce véhicule à la zone de circulation restreinte est interdit en permanence. 
+
+Les infractions prévues au présent article peuvent entraîner l'immobilisation du véhicule dans les conditions prévues à
+l'article L. 325-1.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-237 du 20 février 2012 - art. 1
+  - Décret n°2016-847 du 28 juin 2016 - art. 2
 
 _Cite_:
 
-  - Code de la route. - art. L325-1
-  - Code de la route. - art. R311-1
+  - Code général des collectivités territoriales - art. L2213-4-1 (V)
+  - Code de la route. - art. L121-2 (V)
+  - Code de la route. - art. L318-1 (V)
+  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. R311-1 (VT)
+
+_Cité par_:
+
+  - Code de l'environnement - art. R226-17 (Ab)
 
 
 ###### Article R411-20
