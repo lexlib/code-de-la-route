@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-06-30
+Version Consolidée au 2016-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -87,9 +87,9 @@ Version Consolidée au 2016-06-30
           - [Section 1 : Etablissements d'enseignement à titre onéreux et d'animation des stages de sensibilisation à la sécurité routière. (art. R213-1 à R213-6)](#84)
           - [Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle. (art. R213-7 à R213-9)](#85)
         - [Chapitre IV  : Conseil supérieur de l'éducation routière (CSER) (art. D214-1 à D214-5)](#86)
-      - [Titre II : Permis de conduire. (art. D221-3 à R226-4)](#87)
-        - [Chapitre Ier : Vérification d'aptitude, délivrance et catégories (art. D221-3 à R221-21)](#88)
-          - [Section 1 : Dispositions générales (art. D221-3 à R221-1)](#89)
+      - [Titre II : Permis de conduire. (art. R221-1 à R226-4)](#87)
+        - [Chapitre Ier : Vérification d'aptitude, délivrance et catégories (art. R221-1 à R221-21)](#88)
+          - [Section 1 : Dispositions générales (art. D221-3 à R221-1-1)](#89)
           - [Section 2 : Organisation des épreuves par l'autorité administrative (art. R221-3-1 à R221-3-3)](#90)
           - [Section 3 : Organisation des épreuves par les organismes agréés (art. D221-3-6 à R221-3-17)](#91)
           - [Section 4 : Catégories de permis (art. R221-4 à R221-8)](#92)
@@ -986,8 +986,8 @@ _Cite_:
 ###### Article L130-8
 
 Les agents de la concurrence, de la consommation et de la répression des fraudes sont habilités à rechercher et à constater
-les infractions prévues aux articles L. 317-5, L. 318-3 et L. 413-2. A cet effet, ils disposent des pouvoirs prévus au livre
-II du code de la consommation.
+les infractions prévues aux articles L. 317-5, L. 318-3 et L. 413-2. A cet effet, ils disposent des pouvoirs prévus au I de
+l'article L. 511-22 du code de la consommation.
 
 **Liens relatifs à cet article**
 
@@ -998,12 +998,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 58
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 15
 
 _Cite_:
 
-  - Code de la route. - art. L317-5 (V)
-  - Code de la route. - art. L318-3 (V)
+  - Code de la route. - art. L317-5
+  - Code de la route. - art. L318-3
   - Code de la route. - art. L413-2
 
 _Cité par_:
@@ -1872,21 +1872,22 @@ _Anciens textes_:
 ###### Article L213-2-1
 
 Sont passibles d'une amende administrative, dont le montant ne peut excéder 3 000 € pour une personne physique et 15 000 €
-pour une personne morale, les manquements aux trois premiers alinéas de l'article L. 213-2 du présent code. 
+pour une personne morale, les manquements aux trois premiers alinéas de l'article L. 213-2 du présent code. Ces manquements
+sont recherchés et constatés par les agents mentionnés aux articles L. 511-3 et L. 511-21 du code de la consommation, dans
+les conditions prévues à l'article L. 511-7 du même code.  
 
 L'autorité administrative chargée de la concurrence et de la consommation est l'autorité compétente pour prononcer, dans les
-conditions prévues à l'article L. 141-1-2 du code de la consommation, ces amendes administratives.
+conditions prévues au chapitre II du titre II du livre V du code de la consommation, ces amendes administratives.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 29
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 15
 
 _Cite_:
 
-  - Code de la consommation - art. L141-1-2
-  - Code de la route. - art. L213-2 (V)
+  - Code de la route. - art. L213-2
 
 
 ###### Article L213-3
@@ -12320,17 +12321,16 @@ est délivré aux personnes remplissant les conditions suivantes :
 1° Ne pas avoir fait l'objet d'une condamnation prononcée par une juridiction française ou par une juridiction étrangère à
 une peine criminelle ou à une peine correctionnelle pour l'une des infractions prévues à l'article R. 212-4 ; 
 
-2° Justifier de la capacité à gérer un établissement d'enseignement de la conduite :
+2° Justifier de la capacité à gérer un tel établissement en étant titulaire :
 
-- soit en étant titulaire d'un diplôme d'Etat ou d'un titre ou diplôme visé ou homologué de l'enseignement supérieur ou
-technologique d'un niveau égal ou supérieur au niveau III sanctionnant une formation juridique, économique, comptable ou
-commerciale ou d'un diplôme étranger d'un niveau comparable ;
+- soit d'un diplôme d'Etat ou d'un titre ou diplôme visé ou homologué de l'enseignement supérieur ou technologique d'un
+niveau égal ou supérieur au niveau III sanctionnant une formation juridique, économique, comptable ou commerciale ou d'un
+diplôme étranger d'un niveau comparable ;
 
-- soit en justifiant d'une formation agréée, portant sur la gestion et l'exploitation des établissements d'enseignement de la
-conduite. 
+- soit du certificat de qualification professionnelle de la branche professionnelle des services de l'automobile reconnu par
+arrêté du ministre chargé de la sécurité routière ;
 
-Un arrêté du   ministre chargé de la sécurité routière précise le programme, la durée minimale ainsi que les conditions
-d'agrément de cette formation ; 
+- soit d'une qualification professionnelle satisfaisant aux conditions définies à l'article R. 213-2-1 ; 
 
 3° Etre âgé d'au moins vingt-trois ans ; 
 
@@ -12346,7 +12346,7 @@ d'enseigner mentionnée à l'article L. 212-1 pour assurer les prestations d'ens
 
 - pour les établissements de formation des candidats à l'un des titres ou diplômes exigés pour l'exercice de la profession
 d'enseignant de la conduite des véhicules à moteur et de la sécurité routière, les personnels enseignants doivent satisfaire
-à des conditions particulières fixées par un arrêté du   ministre chargé de la sécurité routière. Dans chacun de ces
+à des conditions particulières fixées par un arrêté du ministre chargé de la sécurité routière. Dans chacun de ces
 établissements un directeur pédagogique est désigné. Il organise et encadre effectivement la formation. Ce directeur doit
 être titulaire du brevet d'aptitude à la formation des moniteurs (BAFM). Nul ne peut être directeur pédagogique dans plus
 d'un établissement. 
@@ -12372,7 +12372,7 @@ locaux, les moyens matériels, les modalités d'organisation de la formation et,
 6° Justifier de la qualification des personnels animateurs qui doivent être titulaires de l'autorisation mentionnée au II de
 l'article R. 212-2. 
 
-Les conditions fixées au présent article sont précisées par arrêté du   ministre chargé de la sécurité routière.
+Les conditions fixées au présent article sont précisées par arrêté du ministre chargé de la sécurité routière.
 
 **Liens relatifs à cet article**
 
@@ -12403,7 +12403,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-688 du 7 mai 2012 - art. 2
+  - Décret n°2015-1537 du 25 novembre 2015 - art. 6
 
 _Anciens textes_:
 
@@ -13084,6 +13084,77 @@ _Créé par_:
 
 #### Chapitre Ier : Vérification d'aptitude, délivrance et catégories<a id=88></a>
 
+###### Article R221-1
+
+I.-Le permis de conduire un véhicule terrestre à moteur s'obtient soit après réussite à l'examen du permis de conduire, soit
+après conversion d'un brevet militaire de conduite français, soit après échange d'un permis de conduire étranger, soit après
+réussite à une formation dispensée à cette fin ou validation d'un diplôme ou d'un titre professionnel délivrés à cette fin en
+France. 
+
+Les titres mentionnés à l'article L. 221-1 qui sont assimilés au permis de conduire lorsque celui-ci n'est pas exigé pour la
+conduite d'un véhicule à moteur, comprennent notamment le certificat d'examen du permis de conduire, l'attestation de suivi
+de la formation requise pour la conduite des véhicules de types L5e et L6e pour les personnes nées après le 31 décembre 1987
+et le récépissé de déclaration de perte ou de vol d'un permis de conduire. 
+
+II.-Toute personne sollicitant un permis de conduire, national ou international, doit justifier de sa résidence normale ainsi
+que, le cas échéant, de son droit au séjour en France ou, pour les élèves et étudiants étrangers titulaires d'un titre de
+séjour ou d'un visa long séjour valant titre de séjour validé par l'office français de l'immigration et de l'intégration
+correspondant à leur statut, de la poursuite de leurs études en France depuis au moins six mois en France à la date de leur
+demande de permis de conduire. 
+
+III.-On entend par résidence normale le lieu où une personne demeure habituellement, c'est-à-dire pendant au moins 185 jours
+par année civile, en raison d'attaches personnelles et professionnelles, ou, dans le cas d'une personne sans attaches
+professionnelles, en raison d'attaches personnelles révélant des liens étroits entre elle-même et l'endroit où elle demeure. 
+
+Toutefois, la résidence normale d'une personne dont les attaches personnelles sont situées en France mais qui est établie à
+l'étranger pour y poursuivre ses études, une formation, un stage ou pour l'exécution d'une mission d'une durée déterminée, se
+situe en France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 du 22 mars 2001
+
+_Cité par_:
+
+  - Arrêté du 12 janvier 2012 - art. 1 (V)
+  - Arrêté du 20 avril 2012 - art. 8 (V)
+  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+  - Arrêté du 19 décembre 2017 - art. 2
+  - Arrêté du 19 décembre 2017 - art. 3
+  - Arrêté du 19 décembre 2017 - art. 5
+  - Arrêté du 19 décembre 2017 - art. 6
+  - Arrêté du 19 décembre 2017 - art. 4
+  - Code de la route. - art. R130-3 (M)
+  - Code de la route. - art. R222-4 (VD)
+  - Code de la route. - art. R225-2 (VD)
+  - Code du sport. - art. Annexe II-1 (art. A212-1) (M)
+  - Code pénal - art. R131-4 (M)
+
+_Modifié par_:
+
+  - Décret n°2016-347 du 22 mars 2016 - art. 2
+
+_Anciens textes_:
+
+  - Code de la route - art. R167-2 (Ab)
+  - Code de la route - art. R241-2 (Ab)
+  - Code de la route - art. R278 (Ab)
+  - Code de la route R123 (al. 1 et 5), R167-2, R241-2 (al. 1 et 2), R278 2°
+
+_Cite_:
+
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R110-1
+  - Code de la route. - art. R221-10
+  - Code de la route. - art. R221-16
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R221-1-1 (V)
+
+
 ##### Section 1 : Dispositions générales<a id=89></a>
 
 ###### Article D221-3
@@ -13162,7 +13233,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 
-###### Article R221-1
+###### Article R221-1-1
 
 I.-Nul ne peut conduire un véhicule ou un ensemble de véhicules, pour la conduite duquel le permis de conduire est exigé par
 le présent code, s'il n'est titulaire de la catégorie correspondante du permis de conduire en état de validité et s'il ne
@@ -13208,47 +13279,23 @@ VI.-La contravention prévue au III donne lieu de plein droit à la réduction d
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-251 du 22 mars 2001
-
 _Cité par_:
 
-  - Arrêté du 12 janvier 2012 - art. 1 (V)
-  - Arrêté du 20 avril 2012 - art. 8 (V)
-  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
-  - Arrêté du 19 décembre 2017 - art. 2
-  - Arrêté du 19 décembre 2017 - art. 3
-  - Arrêté du 19 décembre 2017 - art. 5
-  - Arrêté du 19 décembre 2017 - art. 6
-  - Arrêté du 19 décembre 2017 - art. 4
+  - Décret n°97-1017 du 30 octobre 1997 - art. 3 (V)
   - Code de la route. - art. R130-3 (M)
-  - Code de la route. - art. R222-4 (VD)
-  - Code de la route. - art. R225-2 (VD)
-  - Code du sport. - art. Annexe II-1 (art. A212-1) (M)
-  - Code pénal - art. R131-4 (M)
+  - Code de la route. - art. R130-6 (VD)
+  - Code de la route. - art. R222-4 (V)
+  - Code de la route. - art. R224-6 (V)
+  - Code de la route. - art. R233-1 (V)
+  - Code pénal - art. R131-4 (V)
 
-**Liens**:
+_Créé par_:
 
-  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
+  - Décret n°2016-347 du 22 mars 2016 - art. 2
 
 _Anciens textes_:
 
-  - Code de la route - art. R167-2 (Ab)
-  - Code de la route - art. R241-2 (Ab)
-  - Code de la route - art. R278 (Ab)
-  - Code de la route R123 (al. 1 et 5), R167-2, R241-2 (al. 1 et 2), R278 2°
-
-_Cite_:
-
-  - Code de la route. - art. L325-1
-  - Code de la route. - art. R110-1
-  - Code de la route. - art. R221-10
-  - Code de la route. - art. R221-16
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R221-1-1 (V)
+  - Code de la route. - art. R221-1 (T)
 
 
 ##### Section 2 : Organisation des épreuves par l'autorité administrative<a id=90></a>
@@ -14759,29 +14806,22 @@ _Cité par_:
 
 ###### Article R222-1
 
-Tout permis de conduire national délivré à une personne ayant sa résidence normale en France par un Etat membre de la
-Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, en cours de validité dans cet
-Etat, est reconnu en France sous réserve que son titulaire satisfasse aux conditions définies par arrêté du ministre chargé
-des transports, après avis du ministre de l'intérieur et du ministre chargé des affaires étrangères. Ces conditions sont
-relatives à la durée de validité, au contrôle médical, aux mentions indispensables à la gestion du permis de conduire ainsi
-qu'aux mesures restrictives qui affectent ce permis.
+Tout permis de conduire national régulièrement délivré par un Etat membre de l'Union européenne ou partie à l'accord sur
+l'Espace économique européen, est reconnu en France sous réserve d'être en cours de validité. 
 
-Dans le cas où ce permis a été délivré en échange d'un permis de conduire d'un Etat n'appartenant pas à la Communauté
-européenne ou à l'Espace économique européen et avec lequel la France n'a pas conclu d'accord de réciprocité en ce domaine,
-il n'est reconnu que pendant un délai d'un an après l'acquisition de la résidence normale en France de son titulaire.
+Dans le cas où ce permis a été délivré en échange d'un permis de conduire d'un Etat n'appartenant pas à l'Union européenne ou
+à l'Espace économique européen et avec lequel la France n'a pas conclu d'accord de réciprocité en ce domaine, il n'est
+reconnu que pendant un délai d'un an après l'acquisition de la résidence normale en France de son titulaire.
 
 Tout titulaire d'un des permis de conduire considérés aux deux alinéas précédents, qui établit sa résidence normale en
 France, peut le faire enregistrer par le préfet du département de sa résidence selon les modalités définies par arrêté du
 ministre chargé des transports, après avis du ministre de l'intérieur et du ministre chargé des affaires étrangères.
 
-On entend par "résidence normale" le lieu où une personne demeure habituellement, c'est-à-dire pendant au moins 185 jours par
-année civile, en raison d'attaches personnelles ou d'attaches professionnelles.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -14795,6 +14835,10 @@ _Cité par_:
   - Arrêté du 19 décembre 2017 - art. 2
   - Code de la route. - art. R221-5 (V)
   - Code de la route. - art. R222-4 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-347 du 22 mars 2016 - art. 3
 
 _Anciens textes_:
 
@@ -15785,18 +15829,13 @@ incompatible avec la délivrance du permis de conduire.
 Dans l'affirmative, le candidat est soumis à un examen psychotechnique, qui porte sur les tests prescrits par le médecin
 agréé consultant hors commission médicale ou la commission médicale. 
 
-Les résultats de cet examen, qui se déroule dans un centre agréé par le préfet, sont communiqués au médecin agréé ou à la
-commission susmentionnée.
+Les résultats de cet examen sont communiqués au médecin agréé ou à la commission susmentionnée.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°60-848 du 6 août 1960 - art. 2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -15925,7 +15964,7 @@ _Nouveaux textes_:
 
 ###### Article R225-2
 
-Le préfet du département dans lequel est domicilié le demandeur ou le titulaire du permis de conduire fait procéder à
+I.-Le préfet de département dans lequel est domicilié le demandeur ou le titulaire du permis de conduire fait procéder à
 l'enregistrement : 
 
 1° Des demandes de permis de conduire, d'extension de permis de conduire et de duplicata de titres de conduite ; 
@@ -15962,11 +16001,23 @@ alinéa de l'article L. 223-6 ;
 
 11° Des décisions rapportant les mesures précédentes.
 
+II.-Les préfets font procéder à l'enregistrement des demandes de renouvellement ou de duplicata des permis de conduire
+perdus, volés ou détériorés ainsi qu'aux décisions de délivrance correspondantes formulées par les personnes établies à
+l'étranger définies au deuxième alinéa du III de l'article R. 221-1, avec le concours de l'autorité diplomatique ou
+consulaire territorialement compétente. 
+
+Le cas échéant, ils assurent l'enregistrement des demandes de rétablissement de leurs droits à conduire et les décisions
+correspondantes lorsque le permis perdu, volé ou détérioré est un permis de conduire étranger obtenu en échange d'un permis
+de conduire français. 
+
+Les conditions et modalités de mise en œuvre des dispositions figurant aux deux alinéas précédents, sont fixées par un arrêté
+du ministre chargé de la sécurité routière pris après avis du ministre des affaires étrangères.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-886 du 17 juillet 2012 - art. 3
+  - Décret n°2016-347 du 22 mars 2016 - art. 4
 
 _Anciens textes_:
 
@@ -16074,11 +16125,21 @@ _Cite_:
 
 ###### Article R225-5
 
-La communication des mentions et informations prévues aux articles L. 225-4 et L. 225-5 aux demandeurs énumérés à ces
-articles autres que ceux désignés à l'article R. 225-4 est assurée par le préfet du département dans lequel ces demandeurs
-ont leur domicile ou leur siège, ou, s'ils résident à l'étranger, par l'agent diplomatique ou le consul compétent.
+La communication au titulaire du permis de conduire du relevé intégral des mentions le concernant mentionné à l'article L.
+225-3 est assurée par le préfet du département dans lequel il a établi son domicile, ou s'il réside à l'étranger, par l'agent
+diplomatique ou le consul compétent. 
 
-Les modalités d'application du présent article sont fixées par arrêté du ministre de l'intérieur.
+Le titulaire du permis de conduire, s'il réside à l'étranger, peut demander au préfet ayant délivré son titre de conduite
+qu'il communique les informations prévues à l'article L. 225-5 le concernant à l'autorité étrangère auprès de laquelle il a
+sollicité l'échange de son permis de conduire français. Le préfet assure cette communication par voie dématérialisée et en
+informe l'auteur de la demande. 
+
+L'autorité étrangère peut également demander par voie dématérialisée la communication de ces informations auprès du préfet
+ayant délivré le titre présenté à l'appui de la demande d'échange. S'il a été directement saisi par l'autorité étrangère, il
+lui communique ces informations par voie dématérialisée. 
+
+Les modalités d'application du présent article sont fixées par arrêté conjoint du ministre chargé de la sécurité routière et
+du ministre des affaires étrangères.
 
 **Liens relatifs à cet article**
 
@@ -16091,7 +16152,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-347 du 22 mars 2016 - art. 5
 
 _Anciens textes_:
 
@@ -16100,9 +16165,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L225-4 (V)
-  - Code de la route. - art. L225-5 (M)
-  - Code de la route. - art. R225-4 (M)
+  - Code de la route. - art. L225-3
+  - Code de la route. - art. L225-5
 
 
 ###### Article R225-6
@@ -16185,8 +16249,8 @@ département. A défaut de praticiens en nombre suffisant, elle peut être inter
 Un médecin agréé ne peut effectuer le contrôle médical d'une personne dont il est le médecin traitant. 
 
 Si le contrôle médical de l'aptitude à la conduite intervient à la suite d'une invalidation, annulation ou suspension du
-permis     d'une durée de six mois ou plus, il est complété par un examen psychotechnique réalisé dans les conditions prévues
-à l'article R. 224-22. 
+permis d'une durée de six mois ou plus, il est complété par un examen psychotechnique réalisé dans les conditions prévues à
+l'article R. 224-22. 
 
 Lors de ce contrôle médical, le médecin agréé ou la commission médicale peut prescrire tout examen complémentaire. Il peut
 également solliciter, dans le respect du secret médical, l'avis de professionnels de santé qualifiés dans des domaines
@@ -16201,8 +16265,8 @@ examinée. Cet avis est transmis au préfet par leurs soins.
 
 Le contrôle médical de l'aptitude à la conduite n'est pas pris en charge par l'assurance maladie. 
 
-Les modalités d'organisation de ce contrôle médical sont fixées par arrêté conjoint des ministres chargés de la sécurité
-routière et de la santé.
+Les modalités d'organisation de ce contrôle médical et des tests psychotechniques sont fixées par arrêté conjoint des
+ministres chargés de la sécurité routière et de la santé.
 
 **Liens relatifs à cet article**
 
@@ -23656,22 +23720,32 @@ _Cite_:
 
 ###### Article R318-2
 
-Le classement des véhicules à moteur en fonction de leur contribution à la limitation de la pollution atmosphérique au sens
-des dispositions de l'article L. 318-1 est établi à partir de leur niveau d'émission de polluants atmosphériques. 
+I.-Les véhicules à moteur des catégories M, N et L définies à l'article R. 311-1 peuvent, lorsque les conditions de leur
+utilisation le nécessitent, être identifiés au moyen d'une vignette sécurisée appelée " certificat qualité de l'air ". 
 
-Les ministres chargés des transports, de l'environnement, de l'intérieur et des collectivités territoriales établissent par
-arrêté la nomenclature des véhicules mentionnés au premier alinéa en tenant compte de leur date de première immatriculation,
-de la norme Euro qui leur est applicable ou de leur motorisation.
+Le certificat qualité de l'air atteste de la conformité des véhicules à différentes classes établies en tenant compte du
+niveau d'émission de polluants atmosphériques et de leur sobriété énergétique. Le classement des véhicules tient compte
+notamment de leur catégorie au sens de l'article R. 311-1, de leur motorisation, des normes techniques applicables à la date
+de réception des véhicules ou de leur date de première immatriculation ainsi que des éventuels dispositifs de traitement des
+émissions polluantes installés postérieurement à la première mise en circulation des véhicules. 
+
+L'organisme chargé de la délivrance des certificats peut percevoir à titre de rémunération une redevance versée par les
+demandeurs, destinée à couvrir les coûts de développement, de maintenance et d'exploitation du service, ainsi que les coûts
+d'élaboration, de fabrication, d'acheminement et de suivi des demandes de certificats. Un arrêté du ministre chargé de
+l'environnement fixe le montant de cette redevance. 
+
+II.-Un arrêté des ministres chargés de l'environnement, des transports et de l'intérieur précise les critères de classement
+des véhicules et fixe les modalités d'application du présent article. 
+
+III.-Le fait, pour tout propriétaire ou locataire dans le cadre d'un contrat d'une durée supérieure ou égale à deux ans ou
+dans le cadre d'un crédit-bail, d'apposer sur son véhicule un certificat qualité de l'air ne correspondant pas aux
+caractéristiques de ce véhicule est puni de l'amende prévue pour les contraventions de la 4e classe.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-251 du 22 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2012-237 du 20 février 2012 - art. 1
 
 _Cité par_:
 
@@ -23691,6 +23765,10 @@ _Cité par_:
   - Code de la route. - art. R342-3 (V)
   - Code de la santé publique - art. R6312-9 (V)
 
+_Modifié par_:
+
+  - Décret n°2016-858 du 29 juin 2016 - art. 1
+
 _Anciens textes_:
 
   - Code de la route - art. R131 (Ab)
@@ -23699,7 +23777,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L318-1 (V)
+  - Code de la route. - art. L318-1
 
 
 ###### Article R318-3
@@ -29524,13 +29602,12 @@ _Cite_:
 Les préfets, pour l'exercice de leur compétence en matière de circulation des véhicules, les services du ministre chargé des
 transports et du ministre chargé de l'industrie, pour l'exercice de leurs compétences, les militaires de la gendarmerie et
 les fonctionnaires de la police nationale habilités à effectuer des contrôles routiers en application des dispositions du
-présent code sont autorisés, dans les conditions fixées aux articles L. 330-2 et L. 330-3, à accéder directement aux
-informations visées par ces articles. 
+présent code, les personnes chargées de la délivrance de l'identification prévue à l'article L. 318-1 sont autorisés, dans
+les conditions fixées aux articles L. 330-2 et L. 330-3, à accéder directement aux informations visées par ces articles. 
 
-Des arrêtés conjoints, selon le cas, soit du ministre chargé des transports et du ministre de l'intérieur, soit du ministre
-de la défense et du ministre de l'intérieur, soit du ministre chargé de l'industrie et du ministre de l'intérieur définissent
-les modalités de l'accès à ces informations ouvert par voie téléinformatique aux services du ministre chargé des transports
-et du ministre chargé de l'industrie et aux militaires de la gendarmerie. 
+Des arrêtés conjoints du ministre de l'intérieur et, selon le cas, des ministres chargés des transports, de la défense, de
+l'industrie ou de l'environnement définissent les modalités de l'accès à ces informations aux personnes mentionnées au
+premier alinéa.
 
 Peuvent également accéder aux données mentionnées à l'article L. 330-2 du présent code dans les conditions fixées par
 l'article L. 222-1 du code de la sécurité intérieure :
@@ -29554,7 +29631,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 3
+  - Décret n°2016-858 du 29 juin 2016 - art. 2
 
 _Anciens textes_:
 
@@ -29564,8 +29641,8 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L330-2
-  - Code de la sécurité intérieure - art. L222-1 (V)
-  - Code de la sécurité intérieure - art. R222-1 (V)
+  - Code de la sécurité intérieure - art. L222-1
+  - Code de la sécurité intérieure - art. R222-1
 
 
 ###### Article R330-3
