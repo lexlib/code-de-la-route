@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-08-27
+Version Consolidée au 2016-09-21
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -38348,17 +38348,12 @@ _Cite_:
 ###### Article R431-1-1
 
 Lorsqu'ils circulent la nuit, ou le jour lorsque la visibilité est insuffisante, tout conducteur et passager d'un cycle
-doivent porter hors agglomération un gilet de haute visibilité conforme à la réglementation et dont les caractéristiques sont
-prévues par un arrêté du ministre chargé des transports. 
+doivent porter hors agglomération un gilet de haute visibilité conforme à la réglementation. 
 
 Le fait pour tout conducteur ou passager d'un cycle de contrevenir aux dispositions du présent article est puni de l'amende
 prévue pour les contraventions de la 2e classe.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-754 du 30 juillet 2008 - art. 20
 
 _Cité par_:
 
@@ -38366,34 +38361,33 @@ _Cité par_:
   - Arrêté du 29 septembre 2008 - art. 2 (V)
   - Arrêté du 29 septembre 2008 - art. 3 (VD)
 
+_Modifié par_:
+
+  - Décret n°2016-1232 du 19 septembre 2016 - art. 2
+
 
 ###### Article R431-3
 
-Des arrêtés du ministre chargé des transports et du ministre de l'intérieur fixent les conditions d'application des articles
-R. 431-1 et R. 431-2. 
-
-Des arrêtés du ministre chargé des transports fixent les conditions d'homologation des casques.
+Des arrêtés des ministres chargés des transports et de la sécurité routière fixent les conditions d'application des articles
+R. 431-1, R. 431-1-1 et R. 431-1-2.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-1232 du 19 septembre 2016 - art. 2
 
 _Anciens textes_:
 
   - Code de la route - art. R53-1-4 (Ab)
-  - Code de la route R53-1-4
 
 _Cite_:
 
-  - Code de la route. - art. R431-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-  - SPEC_APPLI: Code de la route. - art. R433-6 (V)
+  - Code de la route. - art. R431-1
 
 
 ###### Article R431-5
