@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-09-21
+Version Consolidée au 2016-10-31
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -15023,7 +15023,7 @@ affecté au permis de conduire de l'auteur de cette infraction.
 Si le retrait de points lié à cette infraction n'aboutit pas à un nombre nul de points affectés au permis de conduire de
 l'auteur de l'infraction, celui-ci est informé par le ministre de l'intérieur par lettre simple du nombre de points retirés.
 Le ministre de l'intérieur constate et notifie à l'intéressé, dans les mêmes conditions, les reconstitutions de points
-obtenues en application des alinéas 1,2 et 4 de l'article L. 223-6. 
+obtenues en application               des premier, deuxième, troisième et cinquième alinéas de l'article L. 223-6. 
 
 Si le retrait de points aboutit à un nombre nul de points affectés au permis de conduire, l'auteur de l'infraction est
 informé par le ministre de l'intérieur par lettre recommandée avec demande d'avis de réception du nombre de points retirés.
@@ -15041,11 +15041,12 @@ application des mêmes dispositions est remis par le greffe au préfet.
 _Cité par_:
 
   - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
+  - Code de la route. - art. R223-3-1 (VD)
   - Code de la route. - art. R223-4 (M)
 
 _Modifié par_:
 
-  - Décret n°2011-1048 du 5 septembre 2011 - art. 3
+  - Décret n°2015-1892 du 29 décembre 2015 - art. 2
 
 _Cite_:
 
@@ -15063,12 +15064,59 @@ _Anciens textes_:
   - Code de la route - art. R258 (Ab)
 
 
+###### Article R223-3-1
+
+I-Le titulaire du permis de conduire peut demander sur un site internet dédié et sécurisé que les informations relatives aux
+retraits et reconstitutions de points mentionnés au deuxième alinéa du III de l'article R. 223-3 ne lui soient plus
+communiquées par courrier simple, mais mises à sa disposition sous une forme dématérialisée sur un compte personnel
+accessible à partir de ce site. 
+
+Ce compte personnel lui est attribué sous réserve qu'il ait : 
+
+1° Communiqué une adresse électronique, qu'il lui revient de tenir à jour ; 
+
+2° Souscrit aux conditions générales de fonctionnement du site informatique ; 
+
+3° Attesté avoir pris connaissance des modalités de computation du délai de recours contre les décisions dématérialisées. 
+
+A tout moment, le titulaire du permis de conduire peut, dans les mêmes formes que celles de son ouverture, obtenir la
+fermeture de son compte qui ne prend effet qu'au terme du délai fixé par l'arrêté mentionné au IV. Celle-ci met fin à
+l'ensemble des prestations qui lui étaient proposées, ses éventuels retraits et reconstitutions de points postérieurs à la
+fermeture du compte lui étant communiqués selon les modalités prévues au deuxième alinéa du III de l'article R. 223-3. 
+
+II.-Lorsqu'une décision dématérialisée de retrait ou de reconstitution de points est déposée sur son compte personnel,
+l'intéressé en est alerté par un courrier électronique envoyé à l'adresse qu'il a déclarée au moment de l'enregistrement de
+sa demande et le cas échéant mise à jour. 
+
+III.-Les retraits et les reconstitutions de points dématérialisés sont réputés avoir été portés à la connaissance du
+titulaire du permis de conduire à la date à laquelle il les a consultés pour la première fois sur le compte personnel prévu
+au I, ou à défaut de consultation dans un délai de quinze jours à compter de la date de leur mise à disposition sur celui-ci,
+à l'issue de ce délai. 
+
+La date de notification de ces décisions dématérialisées est certifiée par le dispositif d'horodatage du site. 
+
+IV.-Un arrêté du ministre de l'intérieur précise les modalités selon lesquelles le titulaire du permis de conduire demande à
+bénéficier de cette procédure d'information dématérialisée et peut clôturer son compte personnel. Il fixe les
+caractéristiques et exigences techniques devant être respectées par les utilisateurs de l'application, ainsi que les
+modalités de la certification par horodatage et la durée de conservation des décisions dématérialisées sur le site.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1892 du 29 décembre 2015 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. R223-3 (VD)
+
+
 ###### Article R223-4
 
 I.-Lorsque le conducteur titulaire du permis de conduire a commis, pendant le délai probatoire défini à l'article L. 223-1,
 une infraction ayant donné lieu au retrait d'au moins trois points, la notification du retrait de points lui est adressée par
 lettre recommandée avec demande d'avis de réception. Cette lettre l'informe de l'obligation de se soumettre à la formation
-spécifique mentionnée au troisième alinéa de l'article L. 223-6 dans un délai de quatre mois. 
+spécifique mentionnée au quatrième  alinéa de l'article L. 223-6 dans un délai de quatre mois. 
 
 II.-Le fait de ne pas se soumettre à la formation spécifique mentionnée au I dans le délai de quatre mois est puni de
 l'amende prévue pour les contraventions de la 4e classe. 
@@ -15087,7 +15135,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 22
+  - Décret n°2015-1892 du 29 décembre 2015 - art. 3
 
 _Anciens textes_:
 
