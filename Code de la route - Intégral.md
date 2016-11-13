@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-10-31
+Version Consolidée au 2016-11-14
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -210,7 +210,7 @@ Version Consolidée au 2016-10-31
       - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-5)](#207)
         - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-10)](#208)
         - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-5)](#209)
-      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R436-1)](#210)
+      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R437-2)](#210)
         - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#211)
         - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#212)
           - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#213)
@@ -223,12 +223,13 @@ Version Consolidée au 2016-10-31
           - [Section 4 : Transports de bois ronds (art. R433-9 à R433-16)](#220)
           - [Section 5 : Accompagnement des transports exceptionnels. (art. R433-17 à R433-20)](#221)
         - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#222)
-        - [Chapitre V : Autres véhicules (art. R435-1 à R436-1)](#223)
-          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1)](#224)
+        - [Chapitre V : Autres véhicules (art. R435-1 à R437-2)](#223)
+          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1 à R435-2)](#224)
           - [Section 2 : Ensembles forains (art. R436-1)](#225)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#226)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#227)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#228)
+          - [Section 3 : Véhicules automoteurs spéciaux (art. R437-1 à R437-2)](#226)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#227)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#228)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#229)
 # Partie législative<a id=1></a>
 
 ## Livre 1er : Dispositions générales<a id=2></a>
@@ -39616,7 +39617,9 @@ de 4,50 mètres ;
 
 5° Véhicule ou engin spécial ; 
 
-6° Véhicule ou matériel de travaux publics. 
+6° Véhicule ou matériel de travaux publics ; 
+
+7° Véhicules qui dépassent les limites fixées aux articles R. 435-2, R. 437-1 et R. 437-2. 
 
 II.-Au sens du présent article on entend par charge indivisible une charge qui ne peut, aux fins de transport par route, être
 divisée en plusieurs chargements sans frais ou risque de dommages importants et qui ne peut, du fait de ses dimensions ou
@@ -39653,6 +39656,12 @@ V.-La récidive de la contravention prévue aux 3° et 4° du III est réprimée
 VI.-Lorsque le conducteur ne peut présenter l'autorisation préfectorale ou n'en respecte pas les dispositions,
 l'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
+**Nota:**
+
+Décret n° 2017-16 du 6 janvier 2017, article 14 : Les autorisations délivrées sur le fondement du I de l'article R. 433-1 du
+code de la route dans sa rédaction applicable avant l'entrée en vigueur du décret n° 2017-16 du 6 janvier 2017 demeurent
+valables jusqu'à leur terme.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -39687,7 +39696,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-368 du 4 avril 2011 - art. 14
+  - Décret n°2016-1521 du 10 novembre 2016 - art. 3
 
 _Cite_:
 
@@ -39695,6 +39704,8 @@ _Cite_:
   - Code de la route. - art. L325-1
   - Code de la route. - art. R312-4
   - Code de la route. - art. R312-6
+  - Code de la route. - art. R435-2
+  - Code de la route. - art. R437-1 (VT)
 
 _Anciens textes_:
 
@@ -40624,6 +40635,45 @@ _Cite_:
   - Code de la route. - art. L325-3 (V)
 
 
+###### Article R435-2
+
+I.-La circulation des machines agricoles ou forestières automotrices définies au 5.4 de l'article R. 311-1 à deux essieux,
+ainsi que des machines et instruments agricoles ou forestiers remorqués définis au 5.3 de l'article R. 311-1 à deux essieux,
+et dont les poids dépassent les limites réglementaires définies au chapitre II du livre III du présent code sans excéder ni
+un poids total autorisé en charge de 26 tonnes, ni une charge à l'essieu de 14 tonnes, est soumise à des règles particulières
+fixées par arrêté conjoint du ministre chargé des transports et du ministre de l'intérieur. 
+
+Cet arrêté précise notamment : 
+
+1° Les périodes et les itinéraires d'interdiction de circulation ; 
+
+2° Les dispositifs spécifiques de signalisation ; 
+
+3° Les conditions et modalités d'accompagnement ; 
+
+4° Les équipements spécifiques liés aux conditions de leur exploitation. 
+
+II.-Le fait de contrevenir aux dispositions du présent article et à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
+
+III.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1521 du 10 novembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R311-1
+
+_Cité par_:
+
+  - Code de la route. - art. R433-1 (VD)
+
+
 ##### Section 2 : Ensembles forains<a id=225></a>
 
 ###### Article R436-1
@@ -40671,9 +40721,95 @@ _Nouveaux textes_:
   - Code de la route. - art. R435-3 (V)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=226></a>
+##### Section 3 : Véhicules automoteurs spéciaux<a id=226></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=227></a>
+###### Article R437-1
+
+I.-La circulation des dépanneuses définies au 6.8 de l'article R. 311-1 à quatre essieux et dont les poids dépassent les
+limites réglementaires définies au chapitre II du livre III du présent code sans excéder ni une charge à l'essieu de 14
+tonnes, ni un poids total autorisé en charge de 48 tonnes, ni un poids total roulant autorisé de 60 tonnes, est soumise à des
+règles particulières fixées par arrêté conjoint du ministre chargé des transports et du ministre de l'intérieur. 
+
+Cet arrêté précise notamment : 
+
+1° Les périodes et les itinéraires d'interdiction de circulation ; 
+
+2° Les dispositifs spécifiques de signalisation ; 
+
+3° Les équipements spécifiques liés aux conditions de leur exploitation. 
+
+II.-Le fait de contrevenir aux dispositions du présent article et à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
+
+III.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1521 du 10 novembre 2016 - art. 2
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-15 du 6 janvier 2017 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R311-1
+
+_Cité par_:
+
+  - Code de la route. - art. R433-1 (VD)
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R435-4 (V)
+
+
+###### Article R437-2
+
+I.-La circulation, dans le cadre de leur mission, des véhicules d'intérêt général prioritaire de lutte contre l'incendie
+définis au 6.5 de l'article R. 311-1 à trois ou quatre essieux et dont les poids et dimensions dépassent les limites
+réglementaires définies au chapitre II du livre III du présent code, sans excéder ni une charge à l'essieu de 14 tonnes, ni
+un poids total autorisé en charge de 42 tonnes pour les véhicules à trois essieux ou de 56 tonnes pour les véhicules à quatre
+essieux, ni une largeur de 3 mètres, est soumise à des règles particulières fixées par arrêté conjoint du ministre chargé des
+transports et du ministre de l'intérieur. 
+
+Cet arrêté précise notamment : 
+
+1° Les dispositifs spécifiques de signalisation ; 
+
+2° Les équipements spécifiques liés aux conditions de leur exploitation. 
+
+II.-Le fait de contrevenir aux dispositions du présent article et à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
+
+III.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1521 du 10 novembre 2016 - art. 2
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-15 du 6 janvier 2017 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R311-1
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R435-5 (V)
+
+
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=227></a>
+
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=228></a>
 
 ###### Article R441-1
 
@@ -40803,7 +40939,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=228></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=229></a>
 
 ###### Article R442-1
 
