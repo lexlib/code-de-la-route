@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-11-14
+Version Consolidée au 2016-11-20
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -11,7 +11,7 @@ Version Consolidée au 2016-11-14
       - [Titre 4 : Dispositions relatives à l'outre-mer (art. L141-1 à L143-1)](#8)
         - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. L141-1 à L141-2)](#9)
         - [Chapitre 2 : Dispositions applicables à Mayotte. (art. L142-1 à L142-4-1)](#10)
-        - [Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie (art. L143-1)](#11)
+        - [Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna (art. L143-1)](#11)
     - [Livre 2 : Le conducteur (art. L211-1 à L245-2)](#12)
       - [Titre 1er : Enseignement de la conduite et de la sécurité routière (art. L211-1 à L213-9)](#13)
         - [Chapitre 1er : Formation à la conduite et à la sécurité routière. (art. L211-1 à L211-7)](#14)
@@ -36,7 +36,7 @@ Version Consolidée au 2016-11-14
         - [Chapitre 5 : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. L245-1 à L245-2)](#33)
     - [Livre 3 : Le véhicule (art. L311-1 à L344-2)](#34)
       - [Titre 1er : Dispositions techniques (art. L311-1 à L318-4)](#35)
-        - [Chapitre 1er : Dispositions générales et définitions. (art. L311-1)](#36)
+        - [Chapitre 1er : Dispositions générales et définitions. (art. L311-1 à L311-2)](#36)
         - [Chapitre 2 : Poids et dimensions. (art. L312-1)](#37)
         - [Chapitre 7 : Dispositifs et aménagements particuliers. (art. L317-1 à L317-9)](#38)
         - [Chapitre 8 : Energie, émissions polluantes et nuisances. (art. L318-1 à L318-4)](#39)
@@ -585,7 +585,7 @@ _Cite_:
 
 ###### Article L121-4-1
 
-Lorsqu'un avis d'amende forfaitaire majorée concernant une contravention mentionnée à l'article L. 121-3 a été adressé par
+Lorsqu'un avis d'amende forfaitaire majorée concernant une infraction mentionnée à l'article L. 121-3 a été adressé par
 lettre recommandée au titulaire du certificat d'immatriculation ne pouvant justifier d'un domicile sur le territoire français
 et qu'il n'a pas été procédé, dans le délai de quatre mois à compter de sa date d'envoi, au paiement de l'amende ou à la
 réclamation prévue par l'article 530 du code de procédure pénale, le véhicule ayant servi à commettre l'infraction peut, en
@@ -606,18 +606,18 @@ l'identité figure sur un document équivalent délivré par les autorités étr
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 21 () JORF 7 mars 2007
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de procédure pénale - art. 530 (V)
-  - Code de la route. - art. L121-3 (VT)
-  - Code de la route. - art. L121-4 (V)
+  - Code de procédure pénale - art. 530
+  - Code de la route. - art. L121-3
+  - Code de la route. - art. L121-4
 
 _Cité par_:
 
@@ -1235,22 +1235,23 @@ _Cite_:
   - Code de la route. - art. L130-4 (M)
 
 
-#### Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie<a id=11></a>
+#### Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna<a id=11></a>
 
 ###### Article L143-1
 
-L'article L. 130-9 est applicable en Nouvelle-Calédonie et pour son application les mots : " lorsqu'il a récupéré le nombre
-de points ayant été retirés de son permis de conduire ou " sont supprimés.
+Les articles L. 121-6 et L. 130-9 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et
+Futuna. Pour l'application de l'article L. 130-9, les mots : " lorsqu'il a récupéré le nombre de points ayant été retirés de
+son permis de conduire ou " sont supprimés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-537 du 14 mai 2009 - art. 9
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la route. - art. L130-9 (V)
+  - Code de la route. - art. L130-9
 
 
 ## Livre 2 : Le conducteur<a id=12></a>
@@ -2319,8 +2320,7 @@ prévues au même alinéa est puni de l'amende prévue pour les contraventions d
 II.-Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
 suivantes : 
 
-1° La confiscation obligatoire du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le
-propriétaire. La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée. 
+1° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ;
 
 2° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
@@ -2334,6 +2334,10 @@ conduire n'est pas exigé, pour une durée de cinq ans au plus ;
 5° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière. 
 
 III.-L'immobilisation peut être prescrite, dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+IV.-Dans les conditions prévues aux articles 495-17 et suivants du code de procédure pénale, l'action publique peut être
+éteinte par le versement d'une amende forfaitaire d'un montant de 800 €. Le montant de l'amende forfaitaire minorée est de
+640 € et le montant de l'amende forfaitaire majorée de 1 600 €.
 
 **Liens relatifs à cet article**
 
@@ -2377,7 +2381,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 27
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 36
 
 _Anciens textes_:
 
@@ -2386,6 +2390,49 @@ _Anciens textes_:
   - Code de la route - art. L12 (Ab)
   - Code de la route - art. R278 (Ab)
   - Code de la route L1-1 (al. 2), L1-2, L12 (al. 1), R278 2°
+
+
+###### Article L221-2-1
+
+I.-Le fait de conduire un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule
+considéré tout en faisant usage d'un permis de conduire faux ou falsifié est puni de cinq ans d'emprisonnement et de 75 000 €
+d'amende. 
+
+II.-Toute personne coupable de l'infraction prévue au présent article encourt également, à titre de peine complémentaire : 
+
+1° La confiscation obligatoire du véhicule dont elle s'est servie pour commettre l'infraction, si elle en est le
+propriétaire. La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée ; 
+
+2° La peine de travail d'intérêt général, selon des modalités prévues à l'article 131-8 du code pénal et dans les conditions
+prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
+l'enfance délinquante ; 
+
+3° La peine de jours-amende, dans les conditions prévues aux articles 131-5 et 131-25 du code pénal ; 
+
+4° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
+
+5° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière. 
+
+Sont également encourues les peines complémentaires prévues en matière de faux aux articles 441-10 et 441-11 du code pénal. 
+
+III.-L'immobilisation du véhicule peut être prescrite, dans les conditions prévues aux articles L. 325-1 à L. 325-3 du
+présent code.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (M)
+  - Code pénal - art. 131-25 (M)
+  - Code pénal - art. 131-5 (M)
+  - Code pénal - art. 131-8 (V)
+  - Code pénal - art. 441-10 (M)
+  - Code pénal - art. 441-11 (V)
+
+_Créé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
 
 
 ###### Article L221-3
@@ -6211,6 +6258,30 @@ _Anciens textes_:
   - Code de la route L8A
 
 
+###### Article L311-2
+
+A l'occasion des contrôles des véhicules et de leurs conducteurs effectués dans les conditions prévues au code de procédure
+pénale ou au présent code, les agents compétents pour effectuer ces contrôles, dont la liste est fixée par voie
+réglementaire, sont autorisés à procéder aux opérations leur permettant d'accéder aux informations et aux données physiques
+et numériques embarquées relatives à l'identification et à la conformité du véhicule et de ses composants, afin de vérifier
+le respect des prescriptions fixées au présent livre III et de vérifier si ce véhicule ou tout ou partie de ses équipements
+n'ont pas été volés ou recelés. 
+
+Les informations et données embarquées du véhicule autres que celles mentionnées au premier alinéa ne peuvent être utilisées
+comme preuve de la commission d'autres infractions prévues par le présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 37 (V)
+
+_Cité par_:
+
+  - Décret n°2017-589 du 20 avril 2017 (V)
+  - Code de la route. - art. D311-4 (V)
+
+
 #### Chapitre 2 : Poids et dimensions.<a id=37></a>
 
 ###### Article L312-1
@@ -6987,6 +7058,32 @@ _Anciens textes_:
   - Code de la route - art. L27-4 (Ab)
 
 
+###### Article L322-1-1
+
+Lorsque qu'une personne physique propriétaire d'un véhicule effectue une demande de certificat d'immatriculation, ce
+certificat est établi à son nom si cette personne est titulaire d'un permis de conduire correspondant à la catégorie du
+véhicule considéré. 
+
+Si la personne physique propriétaire du véhicule n'est pas titulaire d'un permis de conduire correspondant à la catégorie du
+véhicule considéré, le certificat d'immatriculation est établi au nom d'une personne titulaire du permis de conduire requis,
+désignée par le propriétaire ou, si celui-ci est mineur, par son représentant légal. Dans ce cas, la personne désignée est
+inscrite en tant que titulaire du certificat d'immatriculation au sens des articles L. 121-2 et L. 121-3. Le propriétaire est
+également inscrit sur le certificat d'immatriculation. 
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 37 (V)
+
+_Cité par_:
+
+  - Code de la route. - art. R322-1 (V)
+  - Code de la route. - art. R322-5 (V)
+
+
 ###### Article L322-2
 
 Préalablement à la vente d'un véhicule d'occasion, le propriétaire est tenu de remettre à l'acquéreur un certificat établi
@@ -7163,21 +7260,16 @@ conduire n'est pas exigé, pour une durée de cinq ans au plus ;
 
 III.-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
+IV.-Dans les conditions prévues aux articles 495-17 et suivants du code de procédure pénale, l'action publique peut être
+éteinte par le versement d'une amende forfaitaire d'un montant de 500 €. Le montant de l'amende forfaitaire minorée est de
+400 € et le montant de l'amende forfaitaire majorée de 1 000 €.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-204 2004-03-09 art. 59 III
-  - PILOTE_SUIVEUR: Code des assurances - art. L211-26 (V)
-
-_Créé par_:
-
-  - Loi n°2004-204 du 9 mars 2004 - art. 59 (V) JORF 10 mars 2004
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Cité par_:
 
@@ -7193,14 +7285,22 @@ _Cité par_:
   - Code de procédure pénale - art. D45-3 (VD)
   - Code de procédure pénale - art. D45-5 (VD)
 
+_Modifié par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 36
+
 _Cite_:
 
-  - Code pénal - art. 131-22 (V)
-  - Code pénal - art. 131-25 (V)
-  - Code pénal - art. 131-5 (V)
-  - Code pénal - art. 131-8 (V)
-  - Code des assurances - art. L211-1 (V)
-  - Code de la route. - art. L325-1 (V)
+  - Code pénal - art. 131-22
+  - Code pénal - art. 131-25
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
+  - Code des assurances - art. L211-1
+  - Code de la route. - art. L325-1
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code des assurances - art. L211-26 (V)
 
 
 #### Chapitre 5 : Immobilisation et mise en fourrière.<a id=45></a>
@@ -7416,10 +7516,11 @@ _Cité par_:
 
 ###### Article L325-1-2
 
-Dès lors qu'est constatée une infraction pour laquelle une peine de confiscation obligatoire du véhicule est encourue, le
-représentant de l'Etat dans le département où cette infraction a été commise peut faire procéder à titre provisoire à
-l'immobilisation et à la mise en fourrière du véhicule dont l'auteur s'est servi pour commettre l'infraction. Il en informe
-immédiatement, par tout moyen, le procureur de la République. 
+Dès lors qu'est constatée une infraction pour laquelle une peine de confiscation obligatoire du véhicule est encourue ou une
+infraction de dépassement de 50 kilomètres à l'heure ou plus de la vitesse maximale autorisée, le représentant de l'Etat dans
+le département où cette infraction a été commise peut faire procéder à titre provisoire à l'immobilisation et à la mise en
+fourrière du véhicule dont l'auteur s'est servi pour commettre l'infraction. Il en informe immédiatement, par tout moyen, le
+procureur de la République. 
 
 Lorsque l'immobilisation ou la mise en fourrière prévue à l'article L. 325-1-1 n'est pas autorisée par le procureur de la
 République dans un délai de sept jours suivant la décision du représentant de l'Etat prise en application du premier alinéa,
@@ -7438,9 +7539,9 @@ application du présent article ne constituent pas des frais de justice relevant
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 84
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
 
 _Cite_:
 
@@ -38572,6 +38673,33 @@ _Cité par_:
 _Modifié par_:
 
   - Décret n°2016-1232 du 19 septembre 2016 - art. 2
+
+
+###### Article R431-1-2
+
+En circulation, tout conducteur ou passager d'une motocyclette, d'un tricycle à moteur, d'un quadricycle à moteur ou d'un
+cyclomoteur doit porter des gants conformes à la réglementation relative aux équipements de protection individuelle. 
+
+Le fait, pour tout conducteur ou passager, de contrevenir aux dispositions du présent article est puni de l'amende prévue
+pour les contraventions de la troisième classe. 
+
+Lorsque cette contravention est commise par un conducteur tenu de détenir un permis de conduire à points pour conduire ce
+véhicule, elle donne lieu de plein droit à la réduction d'un point du permis de conduire. 
+
+Les dispositions du présent article ne sont pas applicables aux conducteurs ou passagers des motocyclettes, des tricycles à
+moteur, des quadricycles à moteur ou des cyclomoteurs, équipés de portières et portant la ceinture de sécurité lorsque le
+véhicule a été réceptionné avec ce dispositif.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 19 septembre 2016 (V)
+  - Arrêté du 19 septembre 2016 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-1232 du 19 septembre 2016 - art. 1
 
 
 ###### Article R431-3
