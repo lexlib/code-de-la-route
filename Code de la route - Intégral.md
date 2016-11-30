@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-11-20
+Version Consolidée au 2016-12-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -16372,9 +16372,12 @@ construction d'un tel dispositif ; ou
 
 b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de procédure pénale ; 
 
+c) Fait l'objet d'une décision de restriction d'usage du permis de conduire par l'autorité administrative compétente en
+application des articles R. 221-1-1 et R. 226-1 ; 
+
 6° Un éthylotest dans les conditions prévues à l'article R. 234-7 ; 
 
-7° Le procès-verbal de contrôle technique périodique pour les véhicules mentionnés aux articles R. 323-23 et R. 323-25 ;
+7° Le procès-verbal de contrôle technique périodique pour les véhicules mentionnés aux articles R. 323-23 et R. 323-25 ; 
 
 8° Le triangle de présignalisation prévu au I de l'article R. 416-19 ; 
 
@@ -16411,15 +16414,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-514 du 7 mai 2015 - art. 1
+  - Décret n°2016-1289 du 30 septembre 2016 - art. 1
 
 _Cite_:
 
   - Code de procédure pénale - art. 41-2
-  - Code de la route. - art. R211-3
+  - Code de la route. - art. R212-1
+  - Code de la route. - art. R221-1-1
   - Code de la route. - art. R221-8
+  - Code de la route. - art. R226-1
   - Code de la route. - art. R234-7
   - Code de la route. - art. R323-23
+  - Code de la route. - art. R416-19
 
 _Anciens textes_:
 
@@ -28000,6 +28006,10 @@ contre-expertise conformément aux articles R. 325-35 et R. 325-36 ;
 
 3° Autorité qualifiée pour donner mainlevée de la mise en fourrière ; 
 
+3° bis Présentation par le propriétaire ou le conducteur, afin d'obtenir la décision de mainlevée, de l'attestation
+d'assurance prévue à l'article R. 211-14 du code des assurances couvrant le véhicule et du permis de conduire en cours de
+validité correspondant à la catégorie du véhicule concerné ; 
+
 4° Injonction au propriétaire du véhicule, s'il est soumis à immatriculation, de remettre immédiatement, sous peine
 d'encourir l'amende prévue pour les contraventions de la quatrième classe, le certificat d'immatriculation à l'autorité
 qualifiée pour donner mainlevée de la mise en fourrière. 
@@ -28014,8 +28024,8 @@ b) De trente jours dans les autres cas,
 ces délais commençant à courir un jour franc après la date de notification ; 
 
 6° Avertissement au propriétaire que son absence de réponse dans les délais impartis vaudra abandon de son véhicule et que
-ledit véhicule sera, dans les conditions prévues par décret, soit remis   à l'administration chargée des domaines en vue de
-son aliénation, soit livré à la destruction ; 
+ledit véhicule sera, dans les conditions prévues par décret, soit remis à l'administration chargée des domaines en vue de son
+aliénation, soit livré à la destruction ; 
 
 7° Nature et montant des frais qu'il sera tenu de rembourser ; 
 
@@ -28024,20 +28034,21 @@ son aliénation, soit livré à la destruction ;
 III.-Si le traitement automatisé mis en œuvre pour l'immatriculation des véhicule révèle l'inscription d'un gage, copie de la
 notification de mise en fourrière est adressée par l'auteur de la prescription de mise en fourrière au créancier-gagiste, par
 lettre recommandée avec demande d'accusé de réception, qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5,6
-et 7) fixant les conditions de remise   à l'administration chargée des domaines des véhicules non retirés de fourrière par
+et 7) fixant les conditions de remise à l'administration chargée des domaines des véhicules non retirés de fourrière par
 leurs propriétaires.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°72-823 du 6 septembre 1972 - art. 5 (V)
+  - Décret n°72-823 du 6 septembre 1972 - art. 5
+  - Code des assurances - art. R*211-14
   - Code de la route. - art. R325-30
   - Code de la route. - art. R325-35
 
 _Modifié par_:
 
-  - Décret n°2014-551 du 27 mai 2014 - art. 25
+  - Décret n°2016-1289 du 30 septembre 2016 - art. 1
 
 _Anciens textes_:
 
@@ -28195,13 +28206,23 @@ I.-Chaque prescription de mise en fourrière prend fin par une décision de main
 II.-Cette décision émane de l'autorité qui a prescrit la mise en fourrière ou de l'officier de police judiciaire chargé
 d'exécuter cette mesure. 
 
+II bis.-La décision de mainlevée ne peut être prononcée qu'après la présentation par le propriétaire ou le conducteur de
+l'attestation d'assurance prévue par l'article R. 211-14 du code des assurances couvrant le véhicule et du permis de conduire
+en cours de validité correspondant à la catégorie du véhicule concerné. 
+
+Lorsque le propriétaire décide de faire appel à un professionnel qualifié pour la prise en remorque de son véhicule vers un
+lieu de son choix, la décision de mainlevée est prononcée après la présentation de la seule attestation d'assurance. Cette
+décision mentionne que l'enlèvement est effectué par un professionnel qualifié.
+
 III.-Lorsque l'autorité qualifiée pour prononcer la mainlevée est saisie en ce sens par le procureur de la République ou le
-préfet, comme il est prévu à l'article R. 325-27, elle est tenue de donner immédiatement mainlevée. 
+préfet, comme il est prévu à l'article R. 325-27, elle est tenue de donner immédiatement mainlevée, sous réserve des
+dispositions du II bis. 
 
-IV.-L'autorité qualifiée pour prononcer la mainlevée est tenue de le faire, de restituer le certificat d'immatriculation du
-véhicule s'il a été retiré et de délivrer une autorisation définitive de sortie de fourrière : 
+IV.-Sous réserve des dispositions du II bis, l'autorité qualifiée pour prononcer la mainlevée est tenue de le faire, de
+restituer le certificat d'immatriculation du véhicule s'il a été retiré et de délivrer une autorisation définitive de sortie
+de fourrière : 
 
-1° Sur simple demande du propriétaire ou du conducteur si elle concerne un véhicule classé dans la première catégorie visée à
+1° Sur demande du propriétaire ou du conducteur si elle concerne un véhicule classé dans la première catégorie visée à
 l'article R. 325-30 ; 
 
 2° S'il s'agit d'un véhicule classé dans la deuxième ou la troisième catégorie, sur demande du propriétaire ou du conducteur,
@@ -28219,40 +28240,45 @@ mainlevée ne peut être prononcée qu'après accord préalable exprès des serv
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2005-1148 du 6 septembre 2005 - art. 16 () JORF 13 septembre 2005
+  - Décret n°2016-1289 du 30 septembre 2016 - art. 1
 
 _Anciens textes_:
 
   - Code de la route - art. R293 (Ab)
   - Code de la route - art. R293-1 (Ab)
-  - Code de la route R293, R293-1
 
 _Cité par_:
 
   - Code de la route. - art. R325-17 (V)
   - Code de la route. - art. R325-39 (VD)
   - Code de la route. - art. R325-40 (VD)
+  - Code de la route. - art. R325-41 (VD)
 
 _Cite_:
 
-  - Code de la route. - art. R325-27 (V)
-  - Code de la route. - art. R325-30 (V)
+  - Code de la route. - art. R325-27
+  - Code de la route. - art. R325-30
 
 
 ###### Article R325-39
 
-L'autorité qualifiée qui a prononcé la mainlevée en informe sans délai le préfet du département ou, à Paris, le préfet de
-police, en précisant la date d'effet de cette mesure.
+L'autorité qualifiée qui a prononcé la mainlevée ou qui a refusé de la prononcer pour défaut de présentation des documents
+mentionnés au II bis de l'article R. 325-38 en informe sans délai le préfet du département ou, à Paris, le préfet de police,
+en précisant la date d'effet de cette mesure.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-1289 du 30 septembre 2016 - art. 1
 
 _Cité par_:
 
@@ -28261,13 +28287,17 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de la route - art. R293-2 (Ab)
-  - Code de la route R293-2
+
+_Cite_:
+
+  - Code de la route. - art. R325-38
 
 
 ###### Article R325-40
 
 La mainlevée prend effet au jour de la délivrance de l'autorisation définitive de sortie du véhicule dans les cas prévus au
-IV de l'article R. 325-38. 
+IV de l'article R. 325-38. L'autorisation définitive de sortie du véhicule mentionne la décision de procéder à l'enlèvement
+du véhicule par un professionnel qualifié dans le cas prévu au deuxième alinéa du II bis de l'article R. 325-38.
 
 La mainlevée prend effet à compter de la remise du véhicule à l'administration chargée des domaines s'il est destiné à être
 aliéné, ou de sa remise à l'entreprise spécialisée s'il est destiné à être détruit.
@@ -28280,7 +28310,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-551 du 27 mai 2014 - art. 25
+  - Décret n°2016-1289 du 30 septembre 2016 - art. 1
 
 _Anciens textes_:
 
@@ -28288,7 +28318,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R325-38 (V)
+  - Code de la route. - art. R325-38
 
 _Cité par_:
 
@@ -28301,18 +28331,28 @@ _Cité par_:
 Le gardien de la fourrière restitue le véhicule à son propriétaire ou à son conducteur dès que ce dernier produit
 l'autorisation définitive de sortie de fourrière et s'est acquitté des frais de mise en fourrière, d'enlèvement, de garde et
 d'expertise, dans le cas où ces derniers sont à la charge du propriétaire. Ces frais sont arrêtés à la date de reprise du
-véhicule.
+véhicule. 
+
+Dans le cas prévu au deuxième alinéa du II bis de l'article R. 325-38, le véhicule n'est restitué qu'après présentation d'un
+document justifiant l'intervention du professionnel qualifié figurant sur l'autorisation définitive de sortie du véhicule.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-1289 du 30 septembre 2016 - art. 1
 
 _Anciens textes_:
 
   - Code de la route - art. R293-4 (Ab)
-  - Code de la route R293-4
+
+_Cite_:
+
+  - Code de la route. - art. R325-38 (VD)
 
 
 ###### Article R325-42
