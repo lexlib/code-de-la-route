@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-12-01
+Version Consolidée au 2016-12-24
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -7096,13 +7096,13 @@ Les frais de contrôle sont à la charge du propriétaire du véhicule.
 Un décret en Conseil d'Etat fixe les modalités de fonctionnement du système de contrôle et en particulier les conditions
 d'agrément des contrôleurs, des installations nécessaires au contrôle et des réseaux mentionnés au deuxième alinéa. 
 
-II.-Par dérogation au I, tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'Espace
+II.-Par dérogation au I, tout ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace
 économique européen, légalement établi, pour l'exercice de la profession de contrôleur technique de véhicules, dans un de ces
 Etats, peut exercer cette activité de façon temporaire et occasionnelle en France. 
 
 Toutefois, lorsque cette activité ou la formation y conduisant n'est pas réglementée dans l'Etat d'établissement, le
-prestataire doit avoir exercé cette activité dans cet Etat pendant au moins deux ans au cours des dix années qui précèdent la
-prestation. 
+prestataire doit avoir exercé cette activité dans un ou plusieurs Etats membres pendant une année, à temps plein ou à temps
+partiel pendant une durée totale équivalente, au cours des dix années qui précèdent la prestation. 
 
 Lorsque le prestataire fournit pour la première fois des services en France, il en informe au préalable l'autorité compétente
 par une déclaration écrite, dans les conditions fixées par décret en Conseil d'Etat.
@@ -7140,7 +7140,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-179 du 17 février 2009 - art. 38
+  - Ordonnance n°2016-1809 du 22 décembre 2016 - art. 14
 
 
 #### Chapitre 4 : Assurance.<a id=44></a>
