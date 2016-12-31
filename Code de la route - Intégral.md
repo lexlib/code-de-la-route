@@ -1,11 +1,11 @@
 # Code de la route  
-Version Consolidée au 2016-12-31
+Version Consolidée au 2017-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
       - [Titre 1er : Définitions. (art. L110-1 à L110-3)](#3)
       - [Titre 2 : Responsabilité (art. L121-1 à L122-1)](#4)
-        - [Chapitre 1er : Responsabilité pénale. (art. L121-1 à L121-5)](#5)
+        - [Chapitre 1er : Responsabilité pénale. (art. L121-1 à L121-6)](#5)
         - [Chapitre 2 : Indemnisation des victimes d'accidents de la circulation. (art. L122-1)](#6)
       - [Titre 3 : Recherche et constatation des infractions. (art. L130-1 à L130-9)](#7)
       - [Titre 4 : Dispositions relatives à l'outre-mer (art. L141-1 à L143-1)](#8)
@@ -232,6 +232,12 @@ Version Consolidée au 2016-12-31
       - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#229)
         - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#230)
         - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#231)
+  - [Partie arrêtés (art. A121-1 à A143-1)](#232)
+    - [Livre 1er : Dispositions générales (art. A121-1 à A143-1)](#233)
+      - [Titre 2 : Responsabilité (art. A121-1 à A121-3)](#234)
+        - [Chapitre 1er : Responsabilité pénale (art. A121-1 à A121-3)](#235)
+      - [Titre 4 : Dispositions relatives à l'outre-mer (art. A143-1)](#236)
+        - [Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna (art. A143-1)](#237)
 # Partie législative<a id=1></a>
 
 ## Livre 1er : Dispositions générales<a id=2></a>
@@ -654,6 +660,36 @@ _Modifié par_:
 _Cite_:
 
   - Code de procédure pénale - art. 529-7 (V)
+
+
+###### Article L121-6
+
+Lorsqu'une infraction constatée selon les modalités prévues à l'article L. 130-9 a été commise avec un véhicule dont le
+titulaire du certificat d'immatriculation est une personne morale ou qui est détenu par une personne morale, le représentant
+légal de cette personne morale doit indiquer, par lettre recommandée avec demande d'avis de réception ou de façon
+dématérialisée, selon des modalités précisées par arrêté, dans un délai de quarante-cinq jours à compter de l'envoi ou de la
+remise de l'avis de contravention, à l'autorité mentionnée sur cet avis, l'identité et l'adresse de la personne physique qui
+conduisait ce véhicule, à moins qu'il n'établisse l'existence d'un vol, d'une usurpation de plaque d'immatriculation ou de
+tout autre événement de force majeure. 
+
+Le fait de contrevenir au présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+**Nota:**
+
+Conformément au A du IV de l'article 34 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur le
+1er janvier 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
+
+_Cité par_:
+
+  - Arrêté du 15 décembre 2016 (V)
+  - Code de la route. - art. A121-1 (VD)
+  - Code de la route. - art. A121-3 (VD)
 
 
 #### Chapitre 2 : Indemnisation des victimes d'accidents de la circulation.<a id=6></a>
@@ -7310,11 +7346,11 @@ Les véhicules dont la circulation ou le stationnement en infraction aux disposi
 police ou à la réglementation relative à l'assurance obligatoire des véhicules à moteur ou à la réglementation du transport
 des marchandises dangereuses par route compromettent la sécurité ou le droit à réparation des usagers de la route, la
 tranquillité ou l'hygiène publique, l'esthétique des sites et des paysages classés, la conservation ou l'utilisation normale
-des voies ouvertes à la circulation publique et de leurs dépendances, notamment par les véhicules de transport en commun,
-ainsi que les véhicules en infraction aux dispositions des articles 269 à 283 ter du code des douanes, peuvent à la demande
-et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement compétent, même sans l'accord du
-propriétaire du véhicule, dans les cas et conditions précisés par le décret prévu aux articles L. 325-3 et L. 325-11, être
-immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la destruction. 
+des voies ouvertes à la circulation publique et de leurs dépendances, notamment par les véhicules de transport en commun
+peuvent à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement compétent,
+même sans l'accord du propriétaire du véhicule, dans les cas et conditions précisés par le décret prévu aux articles L. 325-3
+et L. 325-11, être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la
+destruction. 
 
 Peuvent également, à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement
 compétent, même sans l'accord du propriétaire du véhicule, être immobilisés, mis en fourrière, retirés de la circulation et,
@@ -7449,7 +7485,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-431 du 28 mai 2013 - art. 12 (M)
+  - Loi n°2013-431 du 28 mai 2013 - art. 12 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
 
 _Cite_:
 
@@ -10294,25 +10331,20 @@ Le fait, pour tout employeur auquel s'applique la réglementation relative au tr
 marchandises, de donner, directement ou indirectement, à un de ses salariés chargé de la conduite d'un véhicule de transport
 routier de personnes ou de marchandises des instructions incompatibles avec le respect des dispositions : 
 
-1° de l'article 6 du règlement (CE) n° 561 / 2006 du Parlement européen et du Conseil du 15 mars 2006, relatives aux durées
+1° de l'article 6 du règlement (CE) n° 561/2006 du Parlement européen et du Conseil du 15 mars 2006, relatives aux durées
 maximales de conduite ; 
 
-2° de l'article 8 du règlement (CE) n° 561 / 2006 du Parlement européen et du Conseil du 15 mars 2006, relatives à la durée
+2° de l'article 8 du règlement (CE) n° 561/2006 du Parlement européen et du Conseil du 15 mars 2006, relatives à la durée
 minimale du repos journalier ainsi qu'à la durée minimale du repos hebdomadaire ; 
 
-3° De l'article 7 du décret n° 83-40 du 26 janvier 1983 relatives à la durée quotidienne du travail dans les entreprises de
-transport routier ; 
+3° des articles R. 3312-51 à R. 3312-64 du code des transports, relatives à la durée quotidienne du travail dans les
+entreprises de transport routier ; 
 
-4° De l'article L. 212-7 du code du travail relatives à la durée hebdomadaire du travail, 
+4° Des articles L. 3121-20 à L. 3121-26 du code du travail relatives à la durée hebdomadaire du travail, 
 
 est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°83-40 du 26 janvier 1983 - art. 7
-  - Code du travail - art. L212-7
 
 _Anciens textes_:
 
@@ -10320,7 +10352,14 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-269 du 18 mars 2008 - art. 2
+  - Décret n°2016-1550 du 17 novembre 2016 - art. 3 (VD)
+  - Décret n°2016-1551 du 18 novembre 2016 - art. 6
+
+_Cite_:
+
+  - Code du travail - art. L3121-20
+  - Code du travail - art. L3121-26
+  - Code des transports - art. R3312-51 (VD)
 
 _Cité par_:
 
@@ -10383,28 +10422,19 @@ incompatibles avec le respect des dispositions :
 1° de l'article 6 du règlement (CE) n° 561/2006 du Parlement européen et du Conseil du 15 mars 2006, relatives aux durées
 maximales de conduite journalière ; 
 
-2° Du second paragraphe de l'article 7 du décret n° 83-40 du 26 janvier 1983 relatif à la durée du travail dans les
-entreprises de transport routier ; 
+2° de l'article R. 3312-51 du code des transports, ; 
 
-3° Relatives aux vitesses maximales autorisées par le présent code ; 
+3° relatives aux vitesses maximales autorisées par le présent code ; 
 
-4° Des articles R. 312-2, 
+4° des articles R. 312-2, 
 R. 312-3 et R. 312-4, relatives aux limites de poids des véhicules ; 
 
-5° Des articles R. 433-1 à R. 433-3 relatives aux transports exceptionnels de marchandises, d'engins ou de véhicules
+5° des articles R. 433-1 à R. 433-3 relatives aux transports exceptionnels de marchandises, d'engins ou de véhicules
 concernant le poids du véhicule et les dimensions du chargement, 
 
 est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°83-40 du 26 janvier 1983 - art. 7
-  - Code de la route. - art. R312-2
-  - Code de la route. - art. R312-3
-  - Code de la route. - art. R312-4
-  - Code de la route. - art. R433-1 (V)
 
 _Anciens textes_:
 
@@ -10412,12 +10442,20 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-269 du 18 mars 2008 - art. 2
+  - Décret n°2016-1550 du 17 novembre 2016 - art. 3 (VD)
 
 _Cité par_:
 
   - Code de la route. - art. R130-6 (VT)
   - Code de la route. - art. R142-4 (V)
+
+_Cite_:
+
+  - Code de la route. - art. R312-2
+  - Code de la route. - art. R312-3
+  - Code de la route. - art. R312-4
+  - Code de la route. - art. R433-1 (V)
+  - Code des transports - art. R3312-51 (VD)
 
 
 ###### Article R121-6
@@ -14170,14 +14208,10 @@ Les conditions minimales requises pour l'obtention du permis de conduire sont le
 - de vingt et un ans révolus pour le conducteur d'un tricycle à moteur d'une puissance supérieure à 15 kilowatts ;
 
 - de vingt et un ans révolus pour les catégories C, CE, D1 et D1E, sans préjudice des dispositions relatives à l'âge
-autorisant la conduite de ces véhicules figurant dans le décret n° 2007-1340 du 11 septembre 2007 modifié relatif à la
-qualification initiale et à la formation continue des conducteurs de certains véhicules affectés aux transports routiers de
-marchandises et de voyageurs.
+autorisant la conduite de ces véhicules figurant aux articles R. 3314-4 et R. 3314-6 du code des transports.
 
 - de vingt-quatre ans révolus pour les catégories D et DE, sans préjudice des dispositions relatives à l'âge autorisant la
-conduite de ces véhicules figurant dans le décret n° 2007-1340 du 11 septembre 2007 modifié relatif à la qualification
-initiale et à la formation continue des conducteurs de certains véhicules affectés aux transports routiers de marchandises et
-de voyageurs. 
+conduite de ces véhicules figurant aux articles R. 3314-4 et R. 3314-6 précités. 
 
 La reconnaissance des permis de conduire prévue aux articles R. 222-1 à D. 222-8 est également subordonnée au respect de ces
 conditions d'âge ; 
@@ -14189,7 +14223,7 @@ l'attestation scolaire de sécurité routière de second niveau ou de l'attestat
 
 b) En outre :
 
-- pour l'obtention de la catégorie A, de la catégorie A2 du permis de conduire depuis deux ans au moins ; 
+- pour l'obtention de la catégorie A, de la catégorie A2 du permis de conduire depuis deux ans au moins ;
 
 - pour l'obtention des catégories C1, C, D1, D, BE, de la catégorie B du permis de conduire ;
 
@@ -14215,10 +14249,6 @@ _Cité par_:
   - Arrêté du 30 janvier 2018 (V)
   - Arrêté du 30 janvier 2018 - art. 1
 
-_Codifié par_:
-
-  - Décret n°2001-251 du 22 mars 2001
-
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 17 décembre 2003
@@ -14231,18 +14261,19 @@ _Codifié par_:
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe I (Ab)
   - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe II (Ab)
 
-_Cite_:
-
-  - Décret n°2007-1340 du 11 septembre 2007
-  - Code de la route. - art. R222-1
-
 _Modifié par_:
 
-  - Décret n°2016-723 du 31 mai 2016 - art. 1
+  - Décret n°2016-1550 du 17 novembre 2016 - art. 3 (VD)
 
 _Anciens textes_:
 
   - Code de la route - art. R124-1 (Ab)
+
+_Cite_:
+
+  - Code de la route. - art. R222-1
+  - Code des transports - art. R3314-4 (VD)
+  - Code des transports - art. R3314-6 (VD)
 
 
 ###### Article R221-6
@@ -22527,21 +22558,31 @@ réduit dans toute la mesure du possible. Elles doivent être suffisamment rési
 circulation normale et aux facteurs atmosphériques et thermiques, aux agents chimiques et à l'abrasion. Elles doivent
 également présenter une faible vitesse de combustion.
 
-Les vitres du pare-brise doivent en outre avoir une transparence suffisante, ne provoquer aucune déformation notable des
-objets vus par transparence ni aucune modification notable de leurs couleurs. En cas de bris elles doivent permettre au
-conducteur de continuer à voir distinctement la route.
+Les vitres du pare-brise et les vitres latérales avant côté conducteur et côté passager doivent en outre avoir une
+transparence suffisante, tant de l'intérieur que de l'extérieur du véhicule, et ne provoquer aucune déformation notable des
+objets vus par transparence ni aucune modification notable de leurs couleurs. La transparence de ces vitres est considérée
+comme suffisante si le facteur de transmission régulière de la lumière est d'au moins 70 %. En cas de bris, elles doivent
+permettre au conducteur de continuer à voir distinctement la route.
+
+Toute opération susceptible de réduire les caractéristiques de sécurité ou les conditions de transparence des vitres prévues
+aux alinéas précédents est interdite.
 
 Le ministre chargé des transports fixe par arrêté les modalités d'application du présent article. Il détermine notamment les
-conditions d'homologation des différentes catégories de vitres équipant les véhicules.
+conditions d'homologation, y compris de transparence, des différentes catégories de vitres équipant les véhicules et, le cas
+échéant, les dérogations que justifieraient des raisons médicales ou des conditions d'aménagement de véhicules blindés.
 
-Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
-prévue pour les contraventions de la troisième classe.
+Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application, à l'exception de celles
+relatives aux conditions de transparence, est puni de l'amende prévue pour les contraventions de la troisième classe.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 27
 
 _Cité par_:
 
@@ -22558,11 +22599,27 @@ _Anciens textes_:
   - Code de la route - art. R188-2 (Ab)
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R73 (Ab)
-  - Code de la route R73, R148 (al. 2), R173 (al. 1 et 3), R188-2, R239
 
-**Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R316-9 (V)
+###### Article R316-3-1
+
+Le fait, pour tout conducteur, de circuler avec un véhicule ne respectant pas les dispositions de l'article R. 316-3
+relatives aux conditions de transparence des vitres fixées à cet article ou à celles prises pour son application est puni de
+l'amende prévue pour les contraventions de la quatrième classe. Cette contravention donne lieu de plein droit à la réduction
+de trois points du permis de conduire. 
+
+L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 28
+
+_Cite_:
+
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R316-3
 
 
 ###### Article R316-4
@@ -27313,6 +27370,28 @@ _Anciens textes_:
 
   - Code de la route - art. R280 (Ab)
   - Code de la route R280
+
+
+###### Article R325-5-1
+
+Lorsque le véhicule circule en infraction aux prescriptions de l'article R. 316-3 relatives aux conditions de transparence
+des vitres ou à celles prises pour son application, la décision d'immobilisation doit prescrire la mise en conformité du
+véhicule. 
+
+Dans ce cas, une fiche de circulation provisoire, dont la durée de validité ne peut excéder sept jours, peut être établie
+conformément aux prescriptions du II de l'article R. 325-9 et à celles de l'article R. 325-36.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-448 du 13 avril 2016 - art. 44
+
+_Cite_:
+
+  - Code de la route. - art. R316-3
+  - Code de la route. - art. R325-36
+  - Code de la route. - art. R325-9
 
 
 ###### Article R325-6
@@ -37695,8 +37774,10 @@ taxis ou des véhicules d'intérêt général prioritaires ;
 2° D'un véhicule ou d'un ensemble de véhicules de plus de 20 mètres carrés de surface maximale dans les zones touristiques
 délimitée par l'autorité investie du pouvoir de police ; 
 
-3° D'un véhicule sur les emplacements réservés aux véhicules portant une carte de stationnement pour personnes handicapées
-prévue à l'article L. 241-3-2 du code de l'action sociale et des familles ; 
+3° D'un véhicule sur les emplacements réservés aux véhicules portant une carte mobilité inclusion comportant la mention “
+stationnement pour personnes handicapées ” prévue à l'article L. 241-3 du code de l'action sociale et des familles ou une
+carte de stationnement pour personnes handicapées prévues à l'article L. 241-3 du même code dans sa rédaction antérieure au
+1er janvier 2017 ; 
 
 4° D'un véhicule sur les emplacements réservés aux véhicules de transport de fonds ou de métaux précieux ; 
 
@@ -37741,11 +37822,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-808 du 2 juillet 2015 - art. 12
+  - Décret n°2016-1849 du 23 décembre 2016 - art. 4
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L241-3-2
+  - Code de l'action sociale et des familles - art. L241-3
   - Code de la route. - art. L325-1
 
 _Anciens textes_:
@@ -40519,31 +40600,30 @@ _Cite_:
 
 ###### Article R433-19
 
-I. - Le programme, la durée et les modalités de mise en œuvre des formations prévues à l'article R. 433-18 sont fixés par
-arrêté du ministre chargé des transports.
+I.-Le programme, la durée et les modalités de mise en œuvre des formations prévues à l'article R. 433-18 sont fixés par
+arrêté du ministre chargé des transports. 
 
-II. - Les formations mentionnées à l'article R. 433-18 sont dispensées dans le cadre des établissements agréés mentionnés à
-l'article 15 du décret n° 2007-1340 du 11 septembre 2007 relatif à la qualification initiale et à la formation continue des
-conducteurs de certains véhicules affectés aux transports routiers de marchandises ou de voyageurs.
+II.-Les formations mentionnées à l'article R. 433-18 sont dispensées dans le cadre des établissements agréés mentionnés aux
+articles R. 3314-19 à R. 3314-24 du code des transports. 
 
-III. - L'organisme de formation délivre au conducteur ayant satisfait aux obligations de formation initiale ou continue
+III.-L'organisme de formation délivre au conducteur ayant satisfait aux obligations de formation initiale ou continue
 mentionnées à l'article R. 433-18 une attestation dont le contenu est défini par arrêté du ministre chargé des transports.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2007-1340 du 11 septembre 2007 - art. 15
-  - Code de la route. - art. R433-18
-
-_Créé par_:
-
-  - Décret n°2011-335 du 28 mars 2011 - art. 3
 
 _Cité par_:
 
   - Arrêté du 2 mai 2011 - art. 2 (V)
   - Code de la route. - art. R433-20 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-1550 du 17 novembre 2016 - art. 3 (VD)
+
+_Cite_:
+
+  - Code de la route. - art. R433-18
+  - Code des transports - art. R3314-19 (VD)
 
 
 ###### Article R433-20
@@ -41266,5 +41346,158 @@ _Cite_:
   - Code de la route. - art. R433-1 (V)
   - Code de la route. - art. R433-4 (V)
   - Code de la route. - art. R433-5 (V)
+
+
+# Partie arrêtés<a id=232></a>
+
+## Livre 1er : Dispositions générales<a id=233></a>
+
+### Titre 2 : Responsabilité<a id=234></a>
+
+#### Chapitre 1er : Responsabilité pénale<a id=235></a>
+
+###### Article A121-1
+
+Les informations que le représentant légal d'une personne morale propriétaire ou détentrice d'un véhicule, pour lequel une
+infraction a été constatée selon les modalités prévues à l'article L. 130-9, est tenu d'adresser, en application de l'article
+L. 121-6, dans un délai de quarante-cinq jours à compter de l'envoi ou de la remise de l'avis de contravention, doivent
+préciser : 
+
+1° Soit l'identité et l'adresse de la personne physique qui conduisait ce véhicule ; 
+
+2° Soit les éléments permettant d'établir l'existence d'un vol, d'une usurpation de plaque d'immatriculation ou de tout autre
+évènement de force majeure.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 15 décembre 2016 - art. 1
+
+_Cité par_:
+
+  - Code de la route. - art. A121-2 (VD)
+  - Code de la route. - art. A121-3 (VD)
+  - Code de la route. - art. A143-1 (VD)
+
+_Cite_:
+
+  - Code de la route. - art. L121-6
+  - Code de la route. - art. L130-9
+
+
+###### Article A121-2
+
+Lorsque ces informations sont adressées par lettre recommandée avec demande d'avis de réception, il est utilisé le formulaire
+prévu à cette fin qui est joint à l'avis de contravention adressée au représentant légal de la personne morale. 
+
+Ce formulaire mentionne que toute fausse déclaration expose le représentant de la personne morale ainsi que la personne
+morale à des poursuites pénales. 
+
+Dans le cas prévu au 1° de l'article A. 121-1, le représentant de la personne morale doit également préciser la référence du
+permis de conduire de la personne qui était présumée conduire le véhicule lorsque l'infraction a été constatée. 
+
+Dans le cas prévu au 2° de l'article A. 121-1, il doit joindre à l'envoi, selon les cas, la copie du récépissé du dépôt de
+plainte pour vol ou destruction du véhicule ou pour le délit d'usurpation de plaque d'immatriculation prévu par l'article L.
+317-4-1, la copie de la déclaration de destruction de véhicule établie conformément aux dispositions du présent code, ou les
+copies de la déclaration de cession du véhicule et de son accusé d'enregistrement dans le système d'immatriculation des
+véhicules, ou une déclaration motivée expliquant tout autre évènement de force majeure, accompagné le cas échéant de
+documents justificatifs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 15 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. A121-1
+  - Code de la route. - art. L317-4-1
+
+_Cité par_:
+
+  - Code de la route. - art. A143-1 (VD)
+
+
+###### Article A121-3
+
+Lorsque ces informations sont adressées de façon dématérialisée, l'envoi est fait sur le site “ www. antai. fr ”, en
+utilisant les informations figurant sur l'avis de contravention, à l'aide du formulaire en ligne figurant sur ce site. 
+
+Cet envoi produit les mêmes effets que l'envoi de la lettre recommandée avec demande d'avis de réception prévu par l'article
+L. 121-6. 
+
+Dans le cas prévu au 1° de l'article A. 121-1, le représentant de la personne morale doit également préciser la référence du
+permis de conduire de la personne qui était présumée conduire le véhicule lorsque l'infraction a été constatée ; il est
+informé que toute fausse déclaration l'expose à des poursuites pénales. 
+
+Dans le cas prévu au 2° de l'article A. 121-1, le représentant de la personne morale :
+
+- soit transmet de façon numérisée, selon les formats indiqués sur le site “ www. antai. fr ” la copie du récépissé du dépôt
+de plainte pour vol ou de destruction du véhicule ou pour le délit d'usurpation de plaque d'immatriculation prévu par
+l'article L. 317-4-1, la copie de la déclaration de destruction de véhicule établie conformément aux dispositions du présent
+code, ou les copies de la déclaration de cession du véhicule et de son accusé d'enregistrement dans le système
+d'immatriculation des véhicules ;
+
+- soit mentionne dans le formulaire en ligne les éléments justifiant la survenance de tout autre évènement de force majeure ;
+ces informations peuvent également figurer sur un document numérisé, selon les formats indiqués sur le site “ www. antai. fr
+”, le cas échéant avec les documents justificatifs également numérisés. 
+
+Dans tous les cas, un accusé d'enregistrement de la transmission est présenté automatiquement à la personne lorsque celle-ci
+a validé et envoyé les informations demandées. Ce document peut être téléchargé ou imprimé par la personne.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 15 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. A121-1
+  - Code de la route. - art. L121-6
+  - Code de la route. - art. L317-4-1
+
+_Cité par_:
+
+  - Code de la route. - art. A143-1 (VD)
+
+
+### Titre 4 : Dispositions relatives à l'outre-mer<a id=236></a>
+
+#### Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna<a id=237></a>
+
+###### Article A143-1
+
+Sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, les dispositions des
+articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du
+même tableau : 
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DISPOSITIONS APPLICABLES ┃ DANS LEUR RÉDACTION                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ A. 121-1                 ┃ Résultant de l'arrêté du 15 décembre 2016 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ A. 121-2                 ┃ Résultant de l'arrêté du 15 décembre 2016 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ A. 121-3                 ┃ Résultant de l'arrêté du 15 décembre 2016 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 15 décembre 2016
+  - Code de la route. - art. A121-1
+  - Code de la route. - art. A121-2
+  - Code de la route. - art. A121-3
+
+_Créé par_:
+
+  - Arrêté du 15 décembre 2016 - art. 1
 
 
