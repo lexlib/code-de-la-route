@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-01-13
+Version Consolidée au 2017-02-05
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -27222,8 +27222,8 @@ et qu'il n'encourt, à la date de l'attestation, aucune interdiction, même temp
 3° Une preuve de ses qualifications professionnelles ; 
 
 4° Lorsque la profession de contrôleur technique ou la formation y conduisant n'est pas réglementée dans l'Etat
-d'établissement, la preuve par tout moyen que le prestataire a exercé cette profession pendant au moins deux années au cours
-des dix années précédant la prestation ; 
+d'établissement, la preuve par tout moyen que le prestataire a exercé cette profession pendant la durée mentionnée au
+deuxième alinéa du II de l'article L. 323-1 ; 
 
 5° Une copie du contrat de travail ou une lettre d'engagement du centre de contrôle employeur. 
 
@@ -27240,7 +27240,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-2046 du 29 décembre 2011 - art. 2
+  - Décret n°2017-127 du 2 février 2017  - art. 1
 
 _Cite_:
 
