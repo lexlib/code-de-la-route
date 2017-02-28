@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-02-24
+Version Consolidée au 2017-03-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-1)](#2)
@@ -212,7 +212,7 @@ Version Consolidée au 2017-02-24
       - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-5)](#209)
         - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-10)](#210)
         - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-5)](#211)
-      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R437-2)](#212)
+      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R435-6)](#212)
         - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#213)
         - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#214)
           - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#215)
@@ -225,10 +225,10 @@ Version Consolidée au 2017-02-24
           - [Section 4 : Transports de bois ronds (art. R433-9 à R433-16)](#222)
           - [Section 5 : Accompagnement des transports exceptionnels. (art. R433-17 à R433-20)](#223)
         - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#224)
-        - [Chapitre V : Autres véhicules (art. R435-1 à R437-2)](#225)
+        - [Chapitre V : Autres véhicules (art. R435-1 à R435-6)](#225)
           - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1 à R435-2)](#226)
-          - [Section 2 : Ensembles forains (art. R436-1)](#227)
-          - [Section 3 : Véhicules automoteurs spéciaux (art. R437-1 à R437-2)](#228)
+          - [Section 2 : Ensembles forains (art. R435-3)](#227)
+          - [Section 3 : Véhicules automoteurs spéciaux (art. R435-4 à R435-6)](#228)
       - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#229)
         - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#230)
         - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#231)
@@ -10992,7 +10992,7 @@ R. 311-3, R. 312-2 à R. 312-6, R. 312-10 à R. 312-14, R. 312-19 à R. 312-23, 
 à R. 317-14, R. 317-18, R. 317-20, R. 317-23, R. 317-24, R. 317-24-1, R. 317-26, R. 317-28, R. 318-1, R. 318-3, R. 318-4, R.
 322-1, R. 323-1, R. 323-2, R. 323-6, R. 323-22, R. 323-23 à R. 323-26, R. 325-2, R. 325-8, R. 411-17, R. 411-18, R. 411-19,
 R. 411-21, R. 411-21-1, R. 411-23, R. 411-23-1, R. 411-23-2, R. 412-1, R. 412-13, R. 412-16, R. 433-1 à R. 433-8, R. 433-11,
-R. 433-12, R. 433-14 à R. 433-16, R. 433-20, R. 435-1 et R. 436-1 ainsi que, lorsqu'elles sont commises par le conducteur
+R. 433-12, R. 433-14 à R. 433-16, R. 433-20, R. 435-1 et R. 435-3 ainsi que, lorsqu'elles sont commises par le conducteur
 d'un véhicule qui doit être équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux dispositions
 relatives aux vitesses maximales autorisées par le présent code ; 
 
@@ -11013,18 +11013,44 @@ _Codifié par_:
 
   - Décret n°2001-251 du 22 mars 2001
 
+_Modifié par_:
+
+  - Décret n°2017-15 du 6 janvier 2017 - art. 1
+
 _Cité par_:
 
   - Décret n°2017-198 du 16 février 2017 (V)
 
-_Modifié par_:
-
-  - Décret n°2017-198 du 16 février 2017 - art. 1
-
 _Cite_:
 
   - Code des assurances - art. R*211-14
-  - Code de la route. - art. R121-5 (V)
+  - Code de la route. - art. R121-1 (V)
+  - Code de la route. - art. R130-1 (V)
+  - Code de la route. - art. R221-1-1 (V)
+  - Code de la route. - art. R221-20 (V)
+  - Code de la route. - art. R233-1 (V)
+  - Code de la route. - art. R234-6 (V)
+  - Code de la route. - art. R311-3 (V)
+  - Code de la route. - art. R312-2 (V)
+  - Code de la route. - art. R313-1 (V)
+  - Code de la route. - art. R314-1 (V)
+  - Code de la route. - art. R315-1 (V)
+  - Code de la route. - art. R316-1 (V)
+  - Code de la route. - art. R317-1 (V)
+  - Code de la route. - art. R318-1 (V)
+  - Code de la route. - art. R322-1 (V)
+  - Code de la route. - art. R323-1 (V)
+  - Code de la route. - art. R323-22 (V)
+  - Code de la route. - art. R325-2 (V)
+  - Code de la route. - art. R325-8 (V)
+  - Code de la route. - art. R411-17 (V)
+  - Code de la route. - art. R411-23 (V)
+  - Code de la route. - art. R412-1 (V)
+  - Code de la route. - art. R412-13 (V)
+  - Code de la route. - art. R412-16 (V)
+  - Code de la route. - art. R433-1 (VT)
+  - Code de la route. - art. R435-1 (V)
+  - Code de la route. - art. R435-3
 
 _Anciens textes_:
 
@@ -17770,8 +17796,8 @@ _Cité par_:
 ###### Article R235-12
 
 Les honoraires et indemnités de déplacement afférents aux épreuves de dépistage, aux prélèvements et aux examens biologiques
-prévus aux articles R. 235-4 et R. 235-6 sont calculés par référence aux articles R. 110, R. 111 et R. 117 (1°, c et e) du
-code de procédure pénale. 
+prévus aux articles R. 235-4 et R. 235-6 sont calculés par référence aux articles R. 110, R. 111 et R. 117 du code de
+procédure pénale. 
 
 Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique, tant en application des dispositions de l'article
 R. 235-6 que des dispositions des articles R. 3354-7 à R. 3354-11 du code de la santé publique, il n'est dû qu'une seule
@@ -17788,13 +17814,12 @@ arrêté conjoint du ministre de la justice et du ministre chargé du budget.
 
 _Modifié par_:
 
-  - Décret n°2016-1152 du 24 août 2016 - art. 1
+  - Décret n°2017-248 du 27 février 2017 - art. 6
 
 _Cite_:
 
   - Code de procédure pénale - art. R110
   - Code de procédure pénale - art. R111
-  - Code de procédure pénale - art. R117
   - Code de procédure pénale - art. R118
   - Code de la santé publique - art. R3354-7
   - Code de la route. - art. R235-10
@@ -18328,8 +18353,7 @@ La consignation et la transmission de ces résultats sont effectuées dans les c
 
 "Art. R. 235-12. - Les honoraires et indemnités de déplacement afférents aux épreuves de dépistage et aux examens cliniques,
 médicaux et biologiques prévus aux articles R. 235-4 et R. 235-6 sont calculés par référence aux articles R. 110, R. 111 et
-R. 117 (1°, c et e) du code de procédure pénale, dans leurs versions applicables localement tirées des articles R. 317 et R.
-321 de ce même code.
+R. 117 du code de procédure pénale.
 
 Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique en application des dispositions de l'article R.
 235-6, il n'est dû qu'une seule indemnité de déplacement et les honoraires pour un seul acte.
@@ -18370,16 +18394,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-9 du 3 janvier 2013 - art. 2
-
-_Cite_:
-
-  - Code de la route.
-  - Code de la route. - art. L235-2
-  - Code de la route. - art. R235-3
-  - Code de la route. - art. R235-5
-  - Code de la route. - art. R235-6
-  - Code de la route. - art. R235-7
+  - Décret n°2017-248 du 27 février 2017 - art. 8 (V)
 
 _Nouveaux textes_:
 
@@ -18507,7 +18522,7 @@ conformément aux méthodes et dans les conditions prescrites par un arrêté du
 directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, qui tient compte des
 particularités locales et qui précise notamment les critères de choix des réactifs et le modèle des fiches présentant les
 résultats. Lorsqu'il s'agit d'un recueil salivaire, cet arrêté est également pris par le ministre de la justice et par le
-ministre de l'intérieur et par le ministre chargé de l'outre-mer.  
+ministre de l'intérieur et par le ministre chargé de l'outre-mer. 
 
 Ces fiches sont remises à l'officier, ou à l'agent de police judiciaire, ou à l'agent de police judiciaire adjoint, ou
 complétées par ces derniers lorsqu'il s'agit d'un recueil salivaire. 
@@ -18575,8 +18590,7 @@ La consignation et la transmission de ces résultats sont effectuées dans les c
 
 " Art. R. 235-12.-Les honoraires et indemnités de déplacement afférents aux épreuves de dépistage et aux examens cliniques,
 médicaux et biologiques prévus aux articles R. 235-4 et R. 235-6 sont calculés par référence aux articles R. 110, R. 111 et
-R. 117 (1°, c et e) du code de procédure pénale, dans leurs versions applicables localement tirées des articles R. 317 et R.
-321 de ce même code. 
+R. 117 du code de procédure pénale. 
 
 Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique en application des dispositions de l'article R.
 235-6, il n'est dû qu'une seule indemnité de déplacement et les honoraires pour un seul acte. 
@@ -18607,7 +18621,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-9 du 3 janvier 2013 - art. 3
+  - Décret n°2017-248 du 27 février 2017 - art. 8 (V)
 
 _Cite_:
 
@@ -18818,8 +18832,7 @@ en application de l'article R. 235-10.
 
 " Art. R. 235-12-Les honoraires et indemnités de déplacement afférents aux épreuves de dépistage et aux examens cliniques,
 médicaux et biologiques prévus aux articles R. 235-4 et R. 235-6 sont calculés par référence aux articles R. 110, R. 111 et
-R. 117 (1°, c et e) du code de procédure pénale, dans leurs versions applicables localement tirées des articles R. 317 et R.
-321 de ce même code. 
+R. 117 du code de procédure pénale. 
 
 " Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique en application des dispositions de l'article R.
 235-6, il n'est dû qu'une seule indemnité de déplacement et les honoraires pour un seul acte. 
@@ -18851,30 +18864,29 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-9 du 3 janvier 2013 - art. 4
+  - Décret n°2017-248 du 27 février 2017 - art. 8 (V)
 
 _Cite_:
 
-  - Code de procédure pénale - art. 156 (M)
-  - Code de procédure pénale - art. 60 (M)
-  - Code de procédure pénale - art. 77-1 (M)
-  - Code de procédure pénale - art. R110 (V)
-  - Code de procédure pénale - art. R111 (V)
-  - Code de procédure pénale - art. R117 (V)
-  - Code de procédure pénale - art. R118 (M)
-  - Code de la route. - art. R235-1 (V)
-  - Code de la route. - art. R235-10 (V)
-  - Code de la route. - art. R235-11 (V)
-  - Code de la route. - art. R235-12 (V)
-  - Code de la route. - art. R235-13 (V)
-  - Code de la route. - art. R235-2 (V)
-  - Code de la route. - art. R235-3 (V)
-  - Code de la route. - art. R235-4 (V)
-  - Code de la route. - art. R235-5 (V)
-  - Code de la route. - art. R235-6 (V)
-  - Code de la route. - art. R235-7 (V)
-  - Code de la route. - art. R235-8 (V)
-  - Code de la route. - art. R235-9 (V)
+  - Code de procédure pénale - art. 156
+  - Code de procédure pénale - art. 60
+  - Code de procédure pénale - art. 77-1
+  - Code de procédure pénale - art. R110
+  - Code de procédure pénale - art. R111
+  - Code de procédure pénale - art. R118
+  - Code de la route. - art. R235-1
+  - Code de la route. - art. R235-10
+  - Code de la route. - art. R235-11
+  - Code de la route. - art. R235-12
+  - Code de la route. - art. R235-13
+  - Code de la route. - art. R235-2
+  - Code de la route. - art. R235-3
+  - Code de la route. - art. R235-4
+  - Code de la route. - art. R235-5
+  - Code de la route. - art. R235-6
+  - Code de la route. - art. R235-7
+  - Code de la route. - art. R235-8
+  - Code de la route. - art. R235-9
 
 _Nouveaux textes_:
 
@@ -18961,18 +18973,18 @@ véhicule tracteur.
 4. Véhicules de catégorie L : véhicules à moteur à deux ou trois roues et quadricycles à moteur : 
 
 4.1. Véhicule de catégorie L1e : véhicule à deux roues dont la vitesse maximale par construction est égale ou supérieure à 6
-km/h et ne dépasse pas 45 km/h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm³ s'il est à combustion interne à
-allumage commandé et d'une puissance maximale nette n'excédant pas 4 kilowatts ; 
+km/ h et ne dépasse pas 45 km/ h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm ³ s'il est à combustion interne
+à allumage commandé et d'une puissance maximale nette n'excédant pas 4 kilowatts ; 
 
 4.1.1. Véhicule de sous-catégorie L1e-A : véhicule de la catégorie L1e muni de pédales dont le mode de propulsion auxiliaire
 d'aide au pédalage d'une puissance maximale est inférieure à 1 kW et s'interrompt dès que le véhicule atteint une vitesse
-égale ou supérieure à 25 km/h. Ce véhicule peut être équipé de trois ou quatre roues ; 
+égale ou supérieure à 25 km/ h. Ce véhicule peut être équipé de trois ou quatre roues ; 
 
 4.1.2. Véhicule de la sous-catégorie L1e-B : véhicule de la catégorie L1e autre que L1e-A ; 
 
 4.2. Véhicule de catégorie L2e : véhicule à trois roues (L2e) dont la vitesse maximale par construction est égale ou
-supérieure à 6 km/h et ne dépasse pas 45 km/h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm³ s'il est à
-combustion interne à allumage commandé ou d'une cylindrée ne dépassant pas 500 cm³ s'il est à combustion interne à allumage
+supérieure à 6 km/ h et ne dépasse pas 45 km/ h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm3 s'il est à
+combustion interne à allumage commandé ou d'une cylindrée ne dépassant pas 500 cm ³ s'il est à combustion interne à allumage
 par compression et d'une puissance maximale nette n'excédant pas 4 kilowatts ; 
 
 4.2.1. Véhicule de sous-catégorie L2e-P : véhicule de la catégorie L2e destiné au transport de personnes ; 
@@ -18982,12 +18994,12 @@ par compression et d'une puissance maximale nette n'excédant pas 4 kilowatts ;
 4.3. Véhicule de catégorie L3e : véhicule à deux roues sans side-car autre que L1 ; 
 
 4.3.1. Véhicule de la sous-catégorie L3e-A1 : véhicule de la catégorie L3e équipé d'un moteur d'une cylindrée ne dépassant
-pas 125 cm³ et d'une puissance maximale ne dépassant pas 11 kW et d'un ratio puissance/ poids à vide ne dépassant pas 0,1 kW/
-kg ; 
+pas 125 cm ³ et d'une puissance maximale ne dépassant pas 11 kW et d'un ratio puissance/ poids à vide ne dépassant pas 0,1
+kW/ kg ; 
 
 4.3.2. Véhicule de la sous-catégorie L3e-A2 : véhicule de la catégorie L3e, autre que L3e-A1, équipé d'un moteur d'une
-puissance maximale ne dépassant pas 35 kW et d'un ratio puissance/poids à vide ne dépassant pas 0,2 kW/kg et non dérivé d'un
-véhicule équipé d'un moteur de plus du double de sa puissance ; 
+puissance maximale ne dépassant pas 35 kW et d'un ratio puissance/ poids à vide ne dépassant pas 0,2 kW/ kg et non dérivé
+d'un véhicule équipé d'un moteur de plus du double de sa puissance ; 
 
 4.3.3. Véhicule de la sous-catégorie L3e-A3 : véhicule de la catégorie L3e, autre que L3e-A1 et L3e-A2 ; 
 
@@ -19008,9 +19020,9 @@ cinq places assises y compris le conducteur ;
 deux places assises y compris le conducteur ; 
 
 4.6. Véhicule de catégorie L6e : véhicule à moteur à quatre roues dont le poids à vide n'excède pas 425 kilogrammes, la
-vitesse maximale par construction est égale ou supérieure à 6 km/h et ne dépasse pas 45 km/ h et la cylindrée n'excède pas 50
-cm³ pour les moteurs à combustion interne à allumage commandé, 500 cm³ pour les moteurs à combustion interne à allumage par
-compression et conçu pour transporter au plus deux personnes y compris le conducteur ; 
+vitesse maximale par construction est égale ou supérieure à 6 km/ h et ne dépasse pas 45 km/ h et la cylindrée n'excède pas
+50 cm ³ pour les moteurs à combustion interne à allumage commandé, 500 cm ³ pour les moteurs à combustion interne à allumage
+par compression et conçu pour transporter au plus deux personnes y compris le conducteur ; 
 
 4.6.1. Véhicule de la sous-catégorie L6e-A : véhicule de la catégorie L6e autre que L6e-B et équipé d'un moteur d'une
 puissance maximale ne dépassant pas 4 kW ; 
@@ -19040,7 +19052,7 @@ catégorie L7e-A1 et pouvant transporter au plus deux personnes assises ;
 pour le hors route ; 
 
 4.7.2.1. Véhicule de la sous-sous-catégorie L7e-B1 : véhicule de la sous-catégorie L7e-B équipé d'un guidon de direction et
-pouvant transporter au plus deux personnes assises à califourchon à une vitesse maximale de 90 km/h ; 
+pouvant transporter au plus deux personnes assises à califourchon à une vitesse maximale de 90 km/ h ; 
 
 4.7.2.2. Véhicule de la sous-sous-catégorie L7e-B2 : véhicule de la sous-catégorie L7e-B, n'appartenant pas à la sous-sous-
 catégorie L7e-B1, pouvant transporter trois personnes assises dont deux sont côte à côte et équipé d'un moteur d'une
@@ -19048,7 +19060,7 @@ puissance maximale n'excédant pas 15 kW ;
 
 4.7.3. Véhicule de la sous-catégorie L7e-C : véhicule de la catégorie L7e n'appartenant pas à la sous-catégorie L7e-B, muni
 d'un habitacle fermé accessible par trois côtés au maximum, équipé d'un moteur d'une puissance maximale ne dépassant pas 15
-kW et dont la vitesse maximale ne dépasse pas 90 km/h ; 
+kW et dont la vitesse maximale ne dépasse pas 90 km/ h ; 
 
 4.7.3.1. Véhicule de la sous-sous-catégorie L7e-CP : véhicule de la sous-catégorie L7e-C conçu pour le transport d'au plus
 quatre personnes assises y compris le conducteur ; 
@@ -19063,9 +19075,9 @@ classement de celle-ci ;
 
 4.9.1. Motocyclette légère : véhicule de la sous-catégorie L3e-A1 ; les motocyclettes qui, avant le 5 juillet 1996, étaient
 considérées comme motocyclettes légères ou qui avaient été réceptionnées comme telles restent classées dans ces catégories
-après cette date, à l'exception des véhicules à deux roues à moteur dont la cylindrée n'excède pas 50 cm³ et dont la vitesse
-n'excède pas 45 km/h munis d'un embrayage ou d'une boîte de vitesses non automatique qui sont des cyclomoteurs ; les
-véhicules à deux roues à moteur d'une cylindrée n'excédant pas 125 cm ³ mis en circulation sous le genre "vélomoteur" avant
+après cette date, à l'exception des véhicules à deux roues à moteur dont la cylindrée n'excède pas 50 cm ³ et dont la vitesse
+n'excède pas 45 km/ h munis d'un embrayage ou d'une boîte de vitesses non automatique qui sont des cyclomoteurs ; les
+véhicules à deux roues à moteur d'une cylindrée n'excédant pas 125 cm ³ mis en circulation sous le genre " vélomoteur " avant
 le 1er mars 1980 sont considérés comme des motocyclettes légères ; l'adjonction d'un side-car à une motocyclette légère ne
 modifie pas le classement de celle-ci ; 
 
@@ -19093,7 +19105,7 @@ destiné au transport de marchandises ou la valeur du poids à vide du véhicule
 correspondante du véhicule agricole ; 
 
 5.1. Véhicules de catégorie T (à roues) ou C (à chenilles) : véhicules agricoles à moteur conçus pour une vitesse n'excédant
-pas 40 km/h (indice "a") ou excédant 40 km/h (indice "b") ; 
+pas 40 km/ h (indice " a ") ou excédant 40 km/ h (indice " b ") ; 
 
 5.1.1. Tracteur agricole : véhicule à moteur, à roues ou à chenilles, ayant au moins deux essieux et une vitesse maximale par
 construction égale ou supérieure à 6 km/ h, dont la fonction réside essentiellement dans sa puissance de traction et qui est
@@ -19107,7 +19119,7 @@ sol inférieure ou égale à 1 000 mm ;
 
 5.1.3. Véhicule de catégorie T2 ou C2, a ou b : tracteur agricole dont la voie minimale est inférieure à 1 150 mm, la masse à
 vide en ordre de marche supérieure à 600 kilogrammes et la garde au sol inférieure ou égale à 600 mm et dont la vitesse
-maximale par construction est limitée à 30 km/h si la hauteur du centre de gravité du tracteur (mesurée par rapport au sol),
+maximale par construction est limitée à 30 km/ h si la hauteur du centre de gravité du tracteur (mesurée par rapport au sol),
 divisée par la moyenne des voies minimales de chaque essieu est supérieure à 0,90 ; 
 
 5.1.4. Véhicule de catégorie T3 ou C3, a ou b : tracteur agricole d'une masse à vide en ordre de marche inférieure ou égale à
@@ -19115,19 +19127,19 @@ divisée par la moyenne des voies minimales de chaque essieu est supérieure à 
 
 5.1.5. Véhicule de catégorie T4 ou C4, a ou b : tracteur agricole spécial ; 
 
-5.1.5.1. Véhicule de "catégorie T4. 1" (tracteur enjambeur) : tracteur conçu pour les cultures hautes en ligne, telles que la
-vigne. Il est caractérisé par un châssis entièrement ou partiellement surélevé de telle sorte qu'il peut circuler
+5.1.5.1. Véhicule de " catégorie T4. 1 " (tracteur enjambeur) : tracteur conçu pour les cultures hautes en ligne, telles que
+la vigne. Il est caractérisé par un châssis entièrement ou partiellement surélevé de telle sorte qu'il peut circuler
 parallèlement aux lignes de culture avec les roues droites et gauches de part et d'autre d'une ou plusieurs lignes. Il est
 conçu pour porter ou actionner des outils qui peuvent être fixés à l'avant, entre les essieux, à l'arrière ou sur une plate-
 forme. Lorsque le tracteur est en position de travail, la garde au sol mesurée dans le plan vertical des lignes de cultures
 est supérieure à 1 000 mm. Lorsque la hauteur du centre de gravité du tracteur mesurée par rapport au sol et en utilisant des
 pneumatiques de monte normale, divisée par la moyenne des voies minimales de l'ensemble des essieux, est supérieure à 0,90,
-la vitesse maximale par construction ne doit pas dépasser 30 km/h ; 
+la vitesse maximale par construction ne doit pas dépasser 30 km/ h ; 
 
-5.1.5.2. Véhicule de la "catégorie T4. 2" (tracteur de grande largeur) : tracteur se caractérisant par ses dimensions
+5.1.5.2. Véhicule de la " catégorie T4. 2 " (tracteur de grande largeur) : tracteur se caractérisant par ses dimensions
 importantes plus spécialement destiné aux grandes surfaces agricoles ; 
 
-5.1.5.3. Véhicule de la "catégorie T4. 3 " (tracteur à basse garde au sol) : tracteur à quatre roues motrices, dont les
+5.1.5.3. Véhicule de la " catégorie T4. 3 " (tracteur à basse garde au sol) : tracteur à quatre roues motrices, dont les
 engins interchangeables sont destinés à l'usage agricole ou forestier, se caractérisant par un châssis porteur équipé d'une
 ou plusieurs prises de force et dont la masse techniquement admissible n'est pas supérieure à 10 tonnes, le rapport entre
 cette masse et la masse maximale à vide en ordre de marche est inférieur à 2,5 et le centre de gravité mesuré par rapport au
@@ -19147,30 +19159,30 @@ sur le véhicule tracteur ;
 5.2.3. (Abrogé) ; 
 
 5.2.4. Véhicule de catégorie R1a : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
-inférieur ou égal à 1 500 kilogrammes et conçue pour une vitesse inférieure ou égale à 40 km/h ; 
+inférieur ou égal à 1 500 kilogrammes et conçue pour une vitesse inférieure ou égale à 40 km/ h ; 
 
 5.2.5. Véhicule de catégorie R1b : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
-inférieur ou égal à 1 500 kilogrammes et conçue pour une vitesse supérieure à 40 km/h ; 
+inférieur ou égal à 1 500 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ; 
 
 5.2.6. Véhicule de catégorie R2a : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
 supérieur à 1 500 kilogrammes et inférieur ou égal à 3 500 kilogrammes et conçue pour une vitesse inférieure ou égale à 40
-km/h ; 
+km/ h ; 
 
 5.2.7. Véhicule de catégorie R2b : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
-supérieur à 1 500 kilogrammes et inférieur ou égal à 3 500 kilogrammes et conçue pour une vitesse supérieure à 40 km/h ; 
+supérieur à 1 500 kilogrammes et inférieur ou égal à 3 500 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ; 
 
 5.2.8. Véhicule de catégorie R3a : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
 supérieur à 3 500 kilogrammes et inférieur ou égal à 21 000 kilogrammes et conçue pour une vitesse inférieure ou égale à 40
-km/h ; 
+km/ h ; 
 
 5.2.9. Véhicule de catégorie R3b : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
-supérieur à 3 500 kilogrammes et inférieur ou égal à 21 000 kilogrammes et conçue pour une vitesse supérieure à 40 km/h ; 
+supérieur à 3 500 kilogrammes et inférieur ou égal à 21 000 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ; 
 
 5.2.10. Véhicule de catégorie R4a : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
-supérieur à 21 000 kilogrammes et conçue pour une vitesse inférieure ou égale à 40 km/h ; 
+supérieur à 21 000 kilogrammes et conçue pour une vitesse inférieure ou égale à 40 km/ h ; 
 
 5.2.11. Véhicule de catégorie R4b : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
-supérieur à 21 000 kilogrammes et conçue pour une vitesse supérieure à 40 km/h ; 
+supérieur à 21 000 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ; 
 
 5.3. Véhicules de catégorie S : machines ou instruments agricoles remorqués : 
 
@@ -19184,16 +19196,16 @@ vide de ce véhicule est inférieur à 3 ;
 5.3.2. (Abrogé) ; 
 
 5.3.3. Véhicule de catégorie S1a : machine ou instrument agricole remorqué ayant un poids maximal sur l'ensemble de ses
-essieux inférieur ou égal à 3,5 tonnes et conçu pour une vitesse inférieure ou égale à 40 km/h ; 
+essieux inférieur ou égal à 3,5 tonnes et conçu pour une vitesse inférieure ou égale à 40 km/ h ; 
 
 5.3.4. Véhicule de catégorie S1b : machine ou instrument agricole remorqué ayant un poids maximal sur l'ensemble de ses
-essieux inférieur ou égal à 3,5 tonnes et conçu pour une vitesse supérieure à 40 km/h ; 
+essieux inférieur ou égal à 3,5 tonnes et conçu pour une vitesse supérieure à 40 km/ h ; 
 
 5.3.5. Véhicule de catégorie S2a : machine ou instrument agricole remorqué ayant un poids maximal sur l'ensemble de ses
-essieux supérieur à 3,5 tonnes et conçu pour une vitesse inférieure ou égale à 40 km/h ; 
+essieux supérieur à 3,5 tonnes et conçu pour une vitesse inférieure ou égale à 40 km/ h ; 
 
 5.3.6. Véhicule de catégorie S2b : machine ou instrument agricole remorqué ayant un poids maximal sur l'ensemble de ses
-essieux supérieur à 3,5 tonnes et conçu pour une vitesse supérieure à 40 km/h ; 
+essieux supérieur à 3,5 tonnes et conçu pour une vitesse supérieure à 40 km/ h ; 
 
 5.4. Machine agricole automotrice : appareil pouvant évoluer par ses propres moyens, normalement destiné à l'exploitation
 agricole et dont la vitesse de marche par construction ne peut excéder 25 km/ h en palier ; cette vitesse est portée à 40 km/
@@ -19212,7 +19224,7 @@ ces outils ;
 
 6.2. Engin spécial : engin automoteur ou remorqué servant à l'élévation, au gerbage ou au transport de produits de toute
 nature, à l'exclusion du transport de personnes autres que le conducteur et éventuellement un convoyeur, et dont la vitesse
-ne peut excéder par construction 25 km/h ; 
+ne peut excéder par construction 25 km/ h ; 
 
 6.3. Véhicule présentant un intérêt historique (véhicule dit de collection) : véhicule qui remplit l'ensemble des conditions
 suivantes : 
@@ -19256,7 +19268,11 @@ sur ce véhicule, notamment à l'aide de pédales ou de manivelles ;
 
 6.11. Cycle à pédalage assisté : cycle équipé d'un moteur auxiliaire électrique d'une puissance nominale continue maximale de
 0,25 kilowatt, dont l'alimentation est réduite progressivement et finalement interrompue lorsque le véhicule atteint une
-vitesse de 25 km/h, ou plus tôt si le cycliste arrête de pédaler. 
+vitesse de 25 km/ h, ou plus tôt si le cycliste arrête de pédaler ;
+
+6.12. Bateau amphibie : bateau normalement destiné à des activités de loisirs ou de sauvetage, équipé de roues ou de
+chenilles, à caractère routier non prédominant, pouvant transporter au plus trois personnes autres que le conducteur et dont
+la vitesse maximale par construction ne peut excéder 25 km/ h. 
 
 7. Ensembles de véhicules : 
 
@@ -19458,6 +19474,7 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Décret n°2017-15 du 6 janvier 2017 - art. 1
   - Décret n°2017-208 du 20 février 2017 - art. 1
 
 
@@ -20084,7 +20101,7 @@ quadricycles légers de la sous-catégorie L6e-B et les quadricycles lourds de l
 
 5° 1 mètre pour les cyclomoteurs à deux roues ;
 
-6° 1,5 mètre pour les quadricycles légers de la sous-catégorie L6e-B et les quadricycles lourds de la sous-catégorie L7e-C.  
+6° 1,5 mètre pour les quadricycles légers de la sous-catégorie L6e-B et les quadricycles lourds de la sous-catégorie L7e-C. 
 
 II.-Le ministre chargé des transports détermine par arrêté les modalités d'application du présent article, les conditions
 dérogatoires applicables à certains matériels de travaux publics et fixe la largeur maximale des engins de service hivernal. 
@@ -20097,8 +20114,7 @@ prévue pour les contraventions de la cinquième classe.
 
 V.-Dans ce cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal. 
 
-VI.-En l'absence d'autorisation ou de réglementation préfectorale de transport exceptionnel, l'immobilisation peut être
-prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+VI.-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
@@ -20108,7 +20124,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 5
+  - Décret n°2017-16 du 6 janvier 2017 - art. 2
 
 _Cité par_:
 
@@ -20145,7 +20161,7 @@ excédant ce gabarit sont explicitement autorisées par arrêté du ministre cha
 1° Cyclomoteur, motocyclette, tricycle à moteur et quadricycle à moteur autre que le quadricycle léger de la sous-catégorie
 L6e-B et le quadricycle lourd de la sous-catégorie L7e-C : 4 mètres ; 
 
-1° bis Quadricycle léger de la sous-catégorie L6e-B : 3 mètres ;
+1° bis Quadricycle léger de la sous-catégorie L6e-B : 3 mètres ; 
 
 1° ter Quadricycle lourd de la sous-catégorie L7e-C : 3,7 mètres. 
 
@@ -20191,8 +20207,7 @@ prévue pour les contraventions de la cinquième classe.
 
 VI.-Dans ce cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal. 
 
-VII.-En l'absence d'autorisation ou de réglementation préfectorale de transport exceptionnel, l'immobilisation peut être
-prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
+VII.- L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
 
 Pour l'application du présent article, la longueur d'un autobus ou d'un autocar ou d'un autobus ou d'un autocar articulé ou
 d'un ensemble formé d'un autobus ou d'un autocar et de sa remorque est mesurée non compris les perches et dispositifs
@@ -20206,7 +20221,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 6
+  - Décret n°2017-16 du 6 janvier 2017 - art. 2
 
 _Cité par_:
 
@@ -25270,14 +25285,15 @@ _Anciens textes_:
 ###### Article R321-17
 
 Tout véhicule à moteur ou toute remorque, dont les dimensions ou les poids excèdent les limites réglementaires et dont le
-déplacement est subordonné à l'autorisation exigée pour les transports exceptionnels de marchandises, d'engins ou de
-véhicules, doit, avant sa mise en circulation, faire l'objet d'une réception par               le service en charge des
-réceptions désigné par arrêté par le ministre chargé des transports, sous l'autorité du ministre chargé des transports qui
-fixe, par arrêté, les conditions d'application du présent article. 
+déplacement est subordonné à  l'autorisation ou à la déclaration préalable exigée exigée pour les transports exceptionnels de
+marchandises, d'engins ou de véhicules, doit, avant sa mise en circulation, faire l'objet d'une réception par le service en
+charge des réceptions désigné par arrêté par le ministre chargé des transports, sous l'autorité du ministre chargé des
+transports qui fixe, par arrêté, les conditions d'application du présent article. 
 
 Tout matériel de travaux publics dont les dimensions ou les poids excèdent les limites réglementaires, appelé à circuler
-occasionnellement sur les routes et dont le déplacement est subordonné à l'autorisation exigée pour les transports
-exceptionnels, doit répondre aux prescriptions fixées par arrêté du ministre chargé des transports.
+occasionnellement sur les routes et dont le déplacement est subordonné à  l'autorisation ou à la déclaration préalable exigée
+exigée pour les transports exceptionnels, doit répondre aux prescriptions fixées par arrêté du ministre chargé des
+transports.
 
 **Liens relatifs à cet article**
 
@@ -25307,7 +25323,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 3
+  - Décret n°2017-16 du 6 janvier 2017 - art. 3
 
 _Anciens textes_:
 
@@ -30896,8 +30912,8 @@ réglementaire en ce qui concerne les freins ou l'éclairage, ou son chargement,
 usagers ou constituent une menace pour l'intégrité de la chaussée. Toutefois, peuvent seuls être retenus les dépassements du
 poids total autorisé ou des charges par essieu prévues par la réglementation en vigueur dans le territoire excédant 5 % ;
 
-4° Lorsque le conducteur ne peut présenter une autorisation pour un transport exceptionnel prévu par la réglementation en
-vigueur dans le territoire ;
+4° Lorsque le conducteur d'un transport exceptionnel ne peut présenter le document prévu par la réglementation en vigueur
+dans le territoire permettant la circulation de ce transport ;
 
 5° Lorsque le véhicule ou son chargement provoque des détériorations à la route ou à ses dépendances ;
 
@@ -30933,12 +30949,16 @@ stationnement irrégulier malgré l'injonction des agents.
 
 _Anciens textes_:
 
-  - Décret n°97-1222 du 26 décembre 1997 - art. 4 (Ab)
   - Décret n°97-1222 du 26 décembre 1997 - art. 3 (Ab)
+  - Décret n°97-1222 du 26 décembre 1997 - art. 4 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2017-16 du 6 janvier 2017 - art. 4
 
 _Cité par_:
 
@@ -31581,8 +31601,8 @@ réglementaire en ce qui concerne les freins ou l'éclairage, ou son chargement,
 usagers ou constituent une menace pour l'intégrité de la chaussée. Toutefois, peuvent seuls être retenus les dépassements du
 poids total autorisé ou des charges par essieu prévues par la réglementation en vigueur sur le territoire excédant 5 % ;
 
-4° Lorsque le conducteur ne peut présenter une autorisation pour un transport exceptionnel prévu par la réglementation en
-vigueur sur le territoire ;
+4° Lorsque le conducteur d'un transport exceptionnel ne peut présenter le document prévu par la réglementation en vigueur
+dans le territoire permettant la circulation de ce transport ;
 
 5° Lorsque le véhicule ou son chargement provoque des détériorations à la route ou à ses dépendances ;
 
@@ -31618,12 +31638,11 @@ irrégulier malgré l'injonction des agents.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-1626 du 16 novembre 2007 - art. 10 () JORF 18 novembre 2007
-  - Décret n°2007-1626 du 16 novembre 2007 - art. 13 () JORF 18 novembre 2007
+  - Décret n°2017-16 du 6 janvier 2017 - art. 4
 
 
 ##### Section 3 : Fourrière.<a id=176></a>
@@ -34383,6 +34402,11 @@ L'arrêt se fait en respectant la limite d'une ligne perpendiculaire à l'axe de
 d'arrêt n'est pas matérialisée sur la chaussée, elle se situe à l'aplomb du feu de signalisation ou avant le passage piéton
 lorsqu'il en existe un. 
 
+Sous réserve des articles R. 415-11 et R. 422-3, les dispositions du premier alinéa ne s'appliquent pas aux transports
+exceptionnels mentionnés à l'article R. 433-1 et à leurs véhicules d'accompagnement mentionnés à l'article R. 433-17
+régulièrement engagés dans une intersection équipée de feux de signalisation affichant la couleur verte au moment du
+franchissement de ces feux par le premier véhicule d'accompagnement. 
+
 Lorsqu'une piste cyclable ou une trajectoire matérialisée pour les cycles, signalisée en application des dispositions de
 l'article R. 411-25, traversant la chaussée est parallèle et contiguë à un passage réservé aux piétons dont le franchissement
 est réglé par des feux de signalisation lumineux, tout conducteur empruntant cette piste ou cette trajectoire matérialisée
@@ -34413,7 +34437,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-808 du 2 juillet 2015 - art. 6
+  - Décret n°2017-16 du 6 janvier 2017 - art. 10
 
 _Anciens textes_:
 
@@ -34426,6 +34450,10 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. R411-25
+  - Code de la route. - art. R415-11 (V)
+  - Code de la route. - art. R422-3 (V)
+  - Code de la route. - art. R433-1 (V)
+  - Code de la route. - art. R433-17 (V)
 
 
 ###### Article R412-31
@@ -34492,13 +34520,14 @@ _Codifié par_:
 
 Les feux de signalisation verts autorisent le passage des véhicules, sous réserve, dans les intersections, que le conducteur
 ne s'engage que si son véhicule ne risque pas d'être immobilisé et d'empêcher le passage des autres véhicules circulant sur
-les voies transversales.
+les voies transversales et qu'un transport exceptionnel mentionné à l'article R. 433-1 ou un de ses véhicules
+d'accompagnement mentionnés à l'article R. 433-17 ne soit pas engagé sur ces voies. Dans ce dernier cas, la priorité de
+passage appartient au transport exceptionnel et à ses véhicules d'accompagnement.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Arrêté 1967-11-24 art. 7 (al. 5)
   - Arrêté du 24 novembre 1967 - art. 7 (M)
 
 _Cité par_:
@@ -34507,12 +34536,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Décret n°2017-16 du 6 janvier 2017 - art. 11
+
+_Cite_:
+
+  - Code de la route. - art. R433-1 (V)
+  - Code de la route. - art. R433-17 (V)
 
 
 ##### Section 6 : Circulation des piétons.<a id=191></a>
@@ -35392,16 +35425,16 @@ _Cite_:
 ###### Article R413-9
 
 La vitesse des véhicules transportant des matières dangereuses, dont le poids total autorisé en charge ou le poids total
-roulant autorisé est supérieur à 12 tonnes, ainsi que celle des véhicules circulant sous couvert d'une autorisation de
-transport exceptionnel, est limitée à :
+roulant autorisé est supérieur à 12 tonnes, ainsi que celle des transports exceptionnels mentionnés à l'article R. 433-1, est
+limitée à : 
 
-1° 80 km/h sur les autoroutes ;
+1° 80 km/ h sur les autoroutes ; 
 
-2° 60 km/h sur les autres routes. Toutefois, cette vitesse maximale est relevée à 70 km/h sur les routes à caractère
+2° 60 km/ h sur les autres routes. Toutefois, cette vitesse maximale est relevée à 70 km/ h sur les routes à caractère
 prioritaire et signalées comme telles, pour les véhicules possédant des caractéristiques particulières définies par arrêté du
-ministre chargé des transports ;
+ministre chargé des transports ; 
 
-3° 50 km/h en agglomération. Toutefois cette vitesse maximale est relevée à 70 km/h sur le boulevard périphérique de Paris.
+3° 50 km/ h en agglomération. Toutefois cette vitesse maximale est relevée à 70 km/ h sur le boulevard périphérique de Paris.
 
 **Liens relatifs à cet article**
 
@@ -35416,11 +35449,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-3 du 3 janvier 2014 - art. 1
+  - Décret n°2017-16 du 6 janvier 2017 - art. 5
 
 _Anciens textes_:
 
   - Code de la route - art. R10-2 (Ab)
+
+_Cite_:
+
+  - Code de la route. - art. R433-1 (V)
 
 
 ###### Article R413-10
@@ -35904,19 +35941,24 @@ Dans tous les cas où l'insuffisance de la largeur libre de la chaussée, son pr
 croisement avec facilité et en toute sécurité, les conducteurs de véhicules dont le gabarit ou dont le chargement dépasse 2
 mètres de largeur ou 7 mètres de longueur, remorque comprise, à l'exception des véhicules de transport en commun en
 agglomération, doivent réduire leur vitesse et, au besoin, s'arrêter ou se garer pour laisser le passage aux véhicules de
-dimensions inférieures.
+dimensions inférieures. 
 
 Dans les mêmes cas, tous les usagers doivent réduire leur vitesse et, au besoin, s'arrêter ou se garer pour faciliter le
-passage d'un véhicule d'intérêt général faisant usage des avertisseurs spéciaux autorisés pour sa catégorie.
+passage d'un véhicule d'intérêt général faisant usage des avertisseurs spéciaux autorisés pour sa catégorie ou d'un transport
+exceptionnel mentionné à l'article R. 433-1 et de ses véhicules d'accompagnement mentionnés à l'article R. 433-17.
+
+Dans les cas prévus au premier alinéa, le transport exceptionnel et ses véhicules d'accompagnement doivent réduire leur
+vitesse et, au besoin, s'arrêter ou se garer pour laisser le passage à un véhicule d'intérêt général faisant usage des
+avertisseurs spéciaux autorisés pour sa catégorie. 
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2017-16 du 6 janvier 2017 - art. 12
 
 _Anciens textes_:
 
@@ -35924,10 +35966,10 @@ _Anciens textes_:
   - Code de la route - art. R232 (Ab)
   - Code de la route R21, R232 (al. 1 et 6)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Code de la route. - art. R433-1 (V)
+  - Code de la route. - art. R433-17 (V)
 
 
 ###### Article R414-3
@@ -36524,7 +36566,9 @@ _Anciens textes_:
 ###### Article R415-2
 
 Tout conducteur ne doit s'engager dans une intersection que si son véhicule ne risque pas d'y être immobilisé et d'empêcher
-le passage des véhicules circulant sur les autres voies. 
+le passage des véhicules circulant sur les autres voies. En particulier, un conducteur ne doit pas s'engager dans une
+intersection de routes en cas de signalement, par le conducteur d'un des véhicules d'accompagnement mentionnés à l'article R.
+433-17, du franchissement imminent de cette intersection par un transport exceptionnel mentionné à l'article R. 433-1. 
 
 Le conducteur d'un véhicule autre qu'un cycle ne doit pas s'engager dans l'espace compris entre les deux lignes d'arrêt
 définies à l'article R. 415-15 lorsque son véhicule risque d'y être immobilisé. 
@@ -36547,7 +36591,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-808 du 2 juillet 2015 - art. 8
+  - Décret n°2017-16 du 6 janvier 2017 - art. 13
 
 _Anciens textes_:
 
@@ -36563,7 +36607,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la route. - art. R415-15 (V)
+  - Code de la route. - art. R415-15
+  - Code de la route. - art. R433-1 (V)
+  - Code de la route. - art. R433-17 (V)
 
 
 ###### Article R415-3
@@ -40168,17 +40214,23 @@ de 4,50 mètres ;
 
 6° Véhicule ou matériel de travaux publics ; 
 
-7° Véhicules qui dépassent les limites fixées aux articles R. 435-2, R. 437-1 et R. 437-2. 
+7° Véhicules qui dépassent les limites fixées aux articles R. 435-2, R. 435-4 et R. 435-5. 
+
+I bis.-Par dérogation aux dispositions du I, la circulation de certains véhicules à moteur ou remorques fait l'objet d'une
+déclaration préalable. Un récépissé attestant de son dépôt est délivré par l'autorité compétente mentionnée au II de
+l'article R. 433-2. L'arrêté prévu à l'article R. 433-5 précise les conditions et modalités d'application du présent I bis,
+notamment les caractéristiques des véhicules ou remorques concernés. 
 
 II.-Au sens du présent article on entend par charge indivisible une charge qui ne peut, aux fins de transport par route, être
 divisée en plusieurs chargements sans frais ou risque de dommages importants et qui ne peut, du fait de ses dimensions ou
 masse, être transportée par un véhicule dont les dimensions ou la masse respectent elles-mêmes les limites réglementaires. 
 
-III. Le fait de faire circuler un véhicule visé au présent article sans autorisation préfectorale est puni de l'amende prévue
-pour les contraventions de la cinquième classe. 
+III.-Le fait de faire circuler un véhicule mentionné au I sans autorisation préfectorale ou un véhicule mentionné au I bis
+sans avoir procédé à une déclaration préalable est puni de l'amende prévue pour les contraventions de la cinquième classe. 
 
-Le fait de faire circuler un véhicule visé au présent article sans respecter les prescriptions de l'autorisation préfectorale
-est puni conformément aux dispositions suivantes : 
+Le fait de faire circuler un véhicule mentionné au I sans respecter les prescriptions de l'autorisation préfectorale ou un
+véhicule mentionné au I bis sans respecter les dispositions de l'arrêté prévu à l'article R. 433-5 mentionnées au 8° de cet
+article est puni conformément aux dispositions suivantes : 
 
 1° Pour le dépassement du poids du véhicule : il est fait application des dispositions du VII de l'article R. 312-4 prévoyant
 une ou plusieurs contraventions de la quatrième classe ; 
@@ -40192,18 +40244,21 @@ cinquième classe ;
 4° Pour le non-respect d'une prescription liée à la traversée d'un passage à niveau : l'infraction est punie de l'amende
 prévue pour les contraventions de la cinquième classe ; 
 
-5° Pour le non-respect d'une autre prescription de l'autorisation préfectorale : l'infraction est punie de l'amende prévue
-pour les contraventions de la quatrième classe. 
+5° Pour le non-respect d'une autre prescription : l'infraction est punie de l'amende prévue pour les contraventions de la
+quatrième classe. 
 
 Toutefois, pour les dimensions du chargement, l'infraction est punie de l'amende prévue pour les contraventions de la
 cinquième classe lorsque le dépassement excède les limites de l'autorisation de plus de 20 %. 
 
-IV. (Supprimé) 
+IV.-(Supprimé) 
 
 V.-La récidive de la contravention prévue aux 3° et 4° du III est réprimée conformément à l'article 132-11 du code pénal. 
 
-VI.-Lorsque le conducteur ne peut présenter l'autorisation préfectorale ou n'en respecte pas les dispositions,
-l'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+VI.-Lorsque le conducteur ne peut présenter l'arrêté d'autorisation préfectorale ou n'en respecte pas les dispositions,
+l'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
+
+Il en est de même lorsque le conducteur ne peut présenter le récépissé attestant du dépôt d'une déclaration préalable ou ne
+respecte pas les dispositions de l'arrêté prévu à l'article R. 433-5 mentionnées au 8° de cet article.
 
 **Nota:**
 
@@ -40246,7 +40301,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1521 du 10 novembre 2016 - art. 3
+  - Décret n°2017-15 du 6 janvier 2017 - art. 1
+  - Décret n°2017-16 du 6 janvier 2017 - art. 6 (VD)
 
 _Cite_:
 
@@ -40254,8 +40310,10 @@ _Cite_:
   - Code de la route. - art. L325-1
   - Code de la route. - art. R312-4
   - Code de la route. - art. R312-6
+  - Code de la route. - art. R433-5 (V)
   - Code de la route. - art. R435-2
-  - Code de la route. - art. R437-1 (VT)
+  - Code de la route. - art. R435-4 (V)
+  - Code de la route. - art. R437-1
 
 _Anciens textes_:
 
@@ -40267,22 +40325,38 @@ _Anciens textes_:
 
 ###### Article R433-2
 
-L'autorisation prévue à l'article R. 433-1 est délivrée par arrêté du préfet du département du lieu de départ. Pour les
-transports exceptionnels en provenance de l'étranger, l'autorisation est délivrée par le préfet du département d'entrée en
-France. Lorsque le trajet couvre plusieurs départements, l'autorisation est délivrée après accord des préfets des
-départements traversés. 
+I.-L'autorisation prévue au I de l'article R. 433-1 est délivrée par arrêté du préfet du département du lieu de départ. Elle
+est valable sur des itinéraires précis ou sur l'ensemble des itinéraires situés sur un réseau routier, départemental ou
+national, défini dans les conditions prévues à l'article R. 433-2-1. 
+
+Pour les transports exceptionnels en provenance de l'étranger, l'autorisation est délivrée par le préfet du département
+d'entrée en France. 
+
+Lorsque le trajet couvre plusieurs départements, l'autorisation est délivrée après accord des préfets des départements
+traversés. Toutefois, lorsque l'autorisation est délivrée sur un réseau routier défini dans les conditions prévues à
+l'article R. 433-2-1, l'accord des préfets des départements traversés est présumé donné. 
 
 Le préfet peut délivrer des autorisations valables pour plusieurs voyages. Il peut également délivrer des autorisations
-individuelles permanentes valables pour une durée déterminée qui ne peut excéder cinq ans.
+individuelles permanentes valables pour une durée déterminée qui ne peut excéder trois ans. 
 
 L'arrêté du préfet portant autorisation de transport exceptionnel mentionne les mesures à prendre pour faciliter la
 circulation publique, préserver la sécurité et empêcher tout dommage aux routes, aux ouvrages d'art et aux dépendances du
 domaine public et, le cas échéant, l'itinéraire à suivre. S'il y a lieu, il est communiqué par le préfet du lieu de départ
 aux préfets des départements traversés afin de permettre à ces derniers de prendre toutes mesures de police nécessaires. 
 
-Le fait pour tout usager de contrevenir aux indications des conducteurs de véhicules de guidage mentionnés à l'article R.
-433-17 et mettant en œuvre les mesures de circulation précisées par l'arrêté du préfet autorisant le transport exceptionnel
-est puni de l'amende prévue pour les contraventions de la quatrième classe.
+II.-La déclaration préalable prévue au I bis de l'article R. 433-1 est effectuée auprès du préfet du département du lieu de
+départ. Elle est valable sur l'ensemble des itinéraires situés sur un réseau routier, départemental ou national, défini dans
+les conditions prévues à l'article R. 433-2-1 ainsi que sur d'éventuels raccordements à ce réseau n'excédant pas vingt
+kilomètres. 
+
+Pour les transports exceptionnels en provenance de l'étranger, la déclaration est effectuée auprès du préfet du département
+d'entrée en France. 
+
+La déclaration permet de circuler pendant une durée qui ne peut excéder trois ans. 
+
+III.-Le fait pour tout usager de contrevenir aux indications des conducteurs de véhicules de guidage mentionnés à l'article
+R. 433-17 et mettant en œuvre les mesures de circulation précisées par l'arrêté du préfet autorisant le transport
+exceptionnel est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
@@ -40301,7 +40375,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-335 du 28 mars 2011 - art. 2
+  - Décret n°2017-16 du 6 janvier 2017 - art. 7
 
 _Anciens textes_:
 
@@ -40311,6 +40385,61 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. R433-17
+  - Code de la route. - art. R433-2-1 (V)
+
+
+###### Article R433-2-1
+
+Les réseaux routiers départementaux sont définis par arrêté des préfets de département concernés, après avis des autorités
+gestionnaires des voies empruntées. Cet arrêté précise les éventuelles restrictions à la circulation. 
+
+Les réseaux routiers nationaux sont définis par arrêté du ministre chargé de la sécurité routière et du ministre chargé des
+transports en agrégeant les réseaux routiers départementaux définis à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 4 mai 2006 - art. 9 bis (V)
+  - Arrêté du 28 février 2017 - art. 16
+  - Arrêté du 7 juin 2019 - art. 18
+  - Code de la route. - art. R433-2 (V)
+  - Code de la route. - art. R433-5 (V)
+
+_Créé par_:
+
+  - Décret n°2017-16 du 6 janvier 2017 - art. 8
+
+
+###### Article R433-2-2
+
+La circulation des transports exceptionnels est préalablement signalée aux autorités chargées des services des voiries
+concernées selon les modalités définies par l'arrêté prévu à l'article R. 433-5. 
+
+Le conducteur d'un transport exceptionnel doit justifier avoir procédé au signalement de son passage prévu au premier alinéa
+en cas de réquisition des agents de l'autorité compétente. 
+
+Le fait de contrevenir aux dispositions du deuxième alinéa est puni de l'amende prévue pour les contraventions de la
+quatrième classe. 
+
+L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 4 mai 2006 - art. 11 bis (V)
+  - Arrêté du 28 février 2017 - art. 19
+  - Arrêté du 7 juin 2019 - art. 5
+
+_Créé par_:
+
+  - Décret n°2017-16 du 6 janvier 2017 - art. 8
+
+_Cite_:
+
+  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. R433-5 (V)
 
 
 ###### Article R433-3
@@ -40421,8 +40550,8 @@ _Cite_:
 
 ###### Article R433-5
 
-Un arrêté conjoint des ministres chargés de l'intérieur, de l'équipement et des transports fixe les conditions d'application
-de la présente section, et notamment : 
+Un arrêté conjoint des ministres chargés de la sécurité routière et des transports fixe les conditions d'application de la
+présente section, et notamment : 
 
 1° Les règles particulières de circulation des convois exceptionnels ; 
 
@@ -40437,7 +40566,15 @@ peut les compléter ;
 
 6° Les dispositifs de signalisation et d'équipement des véhicules d'accompagnement ; 
 
-7° Les arrêtés types préfectoraux mentionnés à l'article R. 433-3.
+7° Les arrêtés types préfectoraux mentionnés à l'article R. 433-3 ; 
+
+8° Les dimensions et les masses maximales des transports exceptionnels soumis à la déclaration préalable ainsi que les
+modalités de la procédure de déclaration préalable ; 
+
+9° Les conditions et les modalités du signalement préalable du passage d'un transport exceptionnel aux autorités chargées des
+services des voiries concernées ; 
+
+10° Les modalités de définition des réseaux routiers départementaux et nationaux mentionnés à l'article R. 433-2-1.
 
 **Liens relatifs à cet article**
 
@@ -40456,12 +40593,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-516 du 18 avril 2012 - art. 4
+  - Décret n°2017-16 du 6 janvier 2017 - art. 9
 
 _Anciens textes_:
 
   - Code de la route - art. R51 (Ab)
   - Code de la route R51
+
+_Cite_:
+
+  - Code de la route. - art. R433-2-1 (V)
 
 
 ###### Article R433-6
@@ -41228,7 +41369,7 @@ _Cité par_:
 
 ##### Section 2 : Ensembles forains<a id=227></a>
 
-###### Article R436-1
+###### Article R435-3
 
 I.-La circulation des ensembles forains transportant des équipements ou animaux destinés à la présentation d'une attraction
 foraine, dont la longueur dépasse les limites réglementaires définies au chapitre II du livre III du présent code sans
@@ -41250,32 +41391,26 @@ III.-L'immobilisation du véhicule peut être prescrite dans les conditions pré
 
 **Liens relatifs à cet article**
 
-_Cité par_:
+_Créé par_:
 
-  - Arrêté du 4 mai 2006 - art. 1 (V)
-  - Arrêté du 4 mai 2006 - art. 17-5 (V)
-
-_Modifié par_:
-
-  - Décret n°2010-774 du 8 juillet 2010 - art. 2
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2017-15 du 6 janvier 2017 - art. 1
+  - Décret n°2017-15 du 6 janvier 2017 - art. 1
 
 _Cite_:
 
-  - Code de la route. - art. L325-1
-  - Code de la route. - art. L325-3
+  - Code de la route. - art. L325-1 (V)
 
-_Nouveaux textes_:
+_Cité par_:
 
-  - Code de la route. - art. R435-3 (V)
+  - Code de la route. - art. R130-6 (VD)
+
+_Anciens textes_:
+
+  - Code de la route. - art. R436-1 (T)
 
 
 ##### Section 3 : Véhicules automoteurs spéciaux<a id=228></a>
 
-###### Article R437-1
+###### Article R435-4
 
 I.-La circulation des dépanneuses définies au 6.8 de l'article R. 311-1 à quatre essieux et dont les poids dépassent les
 limites réglementaires définies au chapitre II du livre III du présent code sans excéder ni une charge à l'essieu de 14
@@ -41299,27 +41434,23 @@ III.-L'immobilisation du véhicule peut être prescrite dans les conditions pré
 
 _Créé par_:
 
-  - Décret n°2016-1521 du 10 novembre 2016 - art. 2
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2017-15 du 6 janvier 2017 - art. 1
+  - Décret n°2017-15 du 6 janvier 2017 - art. 1
 
 _Cite_:
 
-  - Code de la route. - art. L325-1
-  - Code de la route. - art. R311-1
+  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. R311-1 (V)
 
 _Cité par_:
 
-  - Code de la route. - art. R433-1 (VD)
+  - Code de la route. - art. R433-1 (V)
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de la route. - art. R435-4 (V)
+  - Code de la route. - art. R437-1 (T)
 
 
-###### Article R437-2
+###### Article R435-5
 
 I.-La circulation, dans le cadre de leur mission, des véhicules d'intérêt général prioritaire de lutte contre l'incendie
 définis au 6.5 de l'article R. 311-1 à trois ou quatre essieux et dont les poids et dimensions dépassent les limites
@@ -41343,20 +41474,59 @@ III.-L'immobilisation du véhicule peut être prescrite dans les conditions pré
 
 _Créé par_:
 
-  - Décret n°2016-1521 du 10 novembre 2016 - art. 2
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2017-15 du 6 janvier 2017 - art. 1
+  - Décret n°2017-15 du 6 janvier 2017 - art. 1
 
 _Cite_:
 
-  - Code de la route. - art. L325-1
-  - Code de la route. - art. R311-1
+  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. R311-1 (V)
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de la route. - art. R435-5 (V)
+  - Code de la route. - art. R437-2 (T)
+
+
+###### Article R435-6
+
+I.-La circulation d'un bateau amphibie défini au 6.12 de l'article R. 311-1 est soumise à une déclaration préalable auprès du
+préfet de département du point d'entrée sur le domaine public routier. 
+
+Un arrêté conjoint du ministre chargé des transports et du ministre chargé de la sécurité routière fixe les conditions
+d'application du présent I, notamment : 
+
+1° Le contenu et les modalités de la déclaration préalable et de délivrance du récépissé de déclaration ; 
+
+2° Les règles particulières de circulation des bateaux amphibies ; 
+
+3° Les dispositifs de signalisation et d'équipement de ces bateaux. 
+
+II.-Le fait de faire circuler un bateau amphibie sans avoir procédé à la déclaration préalable et obtenu un récépissé de
+déclaration est puni de l'amende prévue pour les contraventions de la cinquième classe. 
+
+Le fait de faire circuler un bateau amphibie sans respecter les prescriptions du récépissé de déclaration préalable ou les
+dispositions de l'arrêté prévu au deuxième alinéa du I est puni de l'amende prévue pour les contraventions de la quatrième
+classe. 
+
+Le fait de ne pas présenter le récépissé de déclaration préalable immédiatement aux agents de l'autorité compétente est puni
+de l'amende prévue pour les contraventions de la première classe. 
+
+III.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-15 du 6 janvier 2017 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 10 mars 2017 - art. (V)
+  - Arrêté du 10 mars 2017 - art. 1 (V)
+
+_Cite_:
+
+  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. R311-1 (V)
 
 
 ### Titre IV : Dispositions relatives à l'outre-mer.<a id=229></a>
