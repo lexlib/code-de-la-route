@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-03-23
+Version Consolidée au 2017-04-08
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -6025,8 +6025,8 @@ d'entraîner une suspension du permis de conduire, ou le conducteur impliqué da
 occasionné un dommage corporel. 
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
-présumé de l'une des infractions aux prescriptions applicables localement relatives à la vitesse des véhicules et au port de
-la ceinture de sécurité ou du casque. 
+présumé de l'une des infractions aux prescriptions applicables localement                autres que celles mentionnées au
+premier alinéa. 
 
 Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
@@ -6091,7 +6091,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2017-256 du 28 février 2017 - art. 95
+  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
 
 _Cite_:
 
@@ -6104,7 +6104,10 @@ _Cite_:
 Les 2°, 3° et 6° de l'article L. 231-2, le I et les 2°, 3° et 5° du II de l'article L. 233-1, le I et les 4° et 5° du II de
 l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les articles L. 234-16 et L. 234-17, le I, les 3° et
 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de
-l'article L. 235-4 sont applicables en Nouvelle-Calédonie.
+l'article L. 235-4 sont applicables en Nouvelle-Calédonie. 
+
+Le I de l'article L. 235-1 et l'article L. 235-2 sont applicables dans leur rédaction résultant de la loi n° 2016-41 du 26
+janvier 2016 de modernisation de notre système de santé.
 
 **Liens relatifs à cet article**
 
@@ -6113,21 +6116,22 @@ _Codifié par_:
   - Ordonnance n°2000-930 du 22 septembre 2000
   - Loi n°2003-495 du 12 juin 2003
 
-_Modifié par_:
-
-  - Loi n°2017-258 du 28 février 2017 - art. 40
-
 _Cite_:
 
-  - Code de la route. - art. L231-2 (V)
-  - Code de la route. - art. L233-1 (V)
-  - Code de la route. - art. L233-1-1 (V)
-  - Code de la route. - art. L233-2 (V)
+  - Loi n°2016-41 du 26 janvier 2016
+  - Code de la route. - art. L231-2
+  - Code de la route. - art. L233-1
+  - Code de la route. - art. L233-1-1
+  - Code de la route. - art. L233-2
   - Code de la route. - art. L234-16
   - Code de la route. - art. L235-1
   - Code de la route. - art. L235-2
   - Code de la route. - art. L235-3
   - Code de la route. - art. L235-4
+
+_Modifié par_:
+
+  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
 
 
 #### Chapitre 4 : Dispositions applicables à la Polynésie française.<a id=32></a>
@@ -6166,8 +6170,8 @@ susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur
 ayant occasionné un dommage corporel. 
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
-présumé de l'une des infractions aux prescriptions applicables localement relatives à la vitesse des véhicules et au port de
-la ceinture de sécurité ou du casque. " 
+présumé de l'une des infractions aux prescriptions applicables localement                autres que celles mentionnées au
+premier alinéa. " 
 
 " Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
@@ -6220,11 +6224,11 @@ L. 234-5. "
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
-  - Code pénal - art. 131-22 (V)
-  - Code pénal - art. 131-25 (V)
-  - Code pénal - art. 131-5 (V)
-  - Code pénal - art. 131-8 (V)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-22
+  - Code pénal - art. 131-25
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
   - Code de la route. - art. L225-4
 
 _Anciens textes_:
@@ -6236,7 +6240,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 137
+  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
 
 
 ###### Article L244-2
@@ -6245,7 +6249,10 @@ Les 2°, 3° et 6° de l'article L. 231-2, le I et les 2°, 3° et 5° du II de 
 l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les articles L. 234-16 et L. 234-17, le I, les 3° et
 4° du II et le III de l'article L. 235-1, 
 l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de l'article L. 235-4 sont applicables en
-Polynésie française.
+Polynésie française. 
+
+Le I de l'article L. 235-1 et l'article L. 235-2 sont applicables dans leur rédaction résultant de la loi n° 2016-41 du 26
+janvier 2016 de modernisation de notre système de santé.
 
 **Liens relatifs à cet article**
 
@@ -6254,21 +6261,22 @@ _Codifié par_:
   - Ordonnance n°2000-930 du 22 septembre 2000
   - Loi n°2003-495 du 12 juin 2003
 
-_Modifié par_:
-
-  - Loi n°2017-258 du 28 février 2017 - art. 40
-
 _Cite_:
 
-  - Code de la route. - art. L231-2 (V)
-  - Code de la route. - art. L233-1 (V)
-  - Code de la route. - art. L233-1-1 (V)
-  - Code de la route. - art. L233-2 (V)
+  - Loi n°2016-41 du 26 janvier 2016
+  - Code de la route. - art. L231-2
+  - Code de la route. - art. L233-1
+  - Code de la route. - art. L233-1-1
+  - Code de la route. - art. L233-2
   - Code de la route. - art. L234-16
   - Code de la route. - art. L235-1
   - Code de la route. - art. L235-2
   - Code de la route. - art. L235-3
   - Code de la route. - art. L235-4
+
+_Modifié par_:
+
+  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
 
 
 #### Chapitre 5 : Dispositions applicables au territoire des îles Wallis-et-Futuna.<a id=33></a>
@@ -6307,8 +6315,8 @@ susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur
 ayant occasionné un dommage corporel. 
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
-présumé de l'une des infractions aux prescriptions applicables localement relatives à la vitesse des véhicules et au port de
-la ceinture de sécurité ou du casque. " 
+présumé de l'une des infractions aux prescriptions applicables localement                autres que celles mentionnées au
+premier alinéa. " 
 
 " Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
@@ -6361,11 +6369,11 @@ au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les con
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
-  - Code pénal - art. 131-22 (V)
-  - Code pénal - art. 131-25 (V)
-  - Code pénal - art. 131-5 (V)
-  - Code pénal - art. 131-8 (V)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-22
+  - Code pénal - art. 131-25
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
   - Code de la route. - art. L225-4
 
 _Anciens textes_:
@@ -6377,7 +6385,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 137
+  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
 
 
 ###### Article L245-2
@@ -6385,7 +6393,10 @@ _Modifié par_:
 Les 2°, 3° et 6° de l'article L. 231-2, le I et les 2°, 3° et 5° du II de l'article L. 233-1, le I et les 4° et 5° du II de
 l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les articles L. 234-16 et L. 234-17, le I, les 3° et
 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de
-l'article L. 235-4 sont applicables dans les îles Wallis et Futuna.
+l'article L. 235-4 sont applicables dans les îles Wallis et Futuna. 
+
+Le I de l'article L. 235-1 et l'article L. 235-2 sont applicables dans leur rédaction résultant de la loi n° 2016-41 du 26
+janvier 2016 de modernisation de notre système de santé.
 
 **Liens relatifs à cet article**
 
@@ -6394,21 +6405,22 @@ _Codifié par_:
   - Ordonnance n°2000-930 du 22 septembre 2000
   - Loi n°2003-495 du 12 juin 2003
 
-_Modifié par_:
-
-  - Loi n°2017-258 du 28 février 2017 - art. 40
-
 _Cite_:
 
-  - Code de la route. - art. L231-2 (V)
-  - Code de la route. - art. L233-1 (V)
-  - Code de la route. - art. L233-1-1 (V)
-  - Code de la route. - art. L233-2 (V)
+  - Loi n°2016-41 du 26 janvier 2016
+  - Code de la route. - art. L231-2
+  - Code de la route. - art. L233-1
+  - Code de la route. - art. L233-1-1
+  - Code de la route. - art. L233-2
   - Code de la route. - art. L234-16
   - Code de la route. - art. L235-1
   - Code de la route. - art. L235-2
   - Code de la route. - art. L235-3
   - Code de la route. - art. L235-4
+
+_Modifié par_:
+
+  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
 
 
 ## Livre 3 : Le véhicule<a id=34></a>
