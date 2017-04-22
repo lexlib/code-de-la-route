@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-04-08
+Version Consolidée au 2017-04-23
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -121,9 +121,9 @@ Version Consolidée au 2017-04-08
         - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie. (art. R243-1 à R243-2)](#118)
         - [Chapitre IV : Dispositions applicables à la Polynésie française. (art. R244-1 à R244-2)](#119)
         - [Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. R245-1 à R245-2)](#120)
-    - [Livre III : Le véhicule. (art. R311-1 à R344-4)](#121)
-      - [Titre Ier : Dispositions techniques. (art. R311-1 à R318-10)](#122)
-        - [Chapitre Ier : Dispositions générales et définitions. (art. R311-1 à R311-3)](#123)
+    - [Livre III : Le véhicule. (art. D311-4 à R344-4)](#121)
+      - [Titre Ier : Dispositions techniques. (art. D311-4 à R318-10)](#122)
+        - [Chapitre Ier : Dispositions générales et définitions. (art. D311-4 à R311-3)](#123)
         - [Chapitre II : Poids et dimensions (art. R312-1 à R312-25)](#124)
           - [Section 1 : Poids. (art. R312-1 à R312-9)](#125)
           - [Section 2 : Dimensions des véhicules. (art. R312-10 à R312-18)](#126)
@@ -18964,6 +18964,30 @@ _Nouveaux textes_:
 ### Titre Ier : Dispositions techniques.<a id=122></a>
 
 #### Chapitre Ier : Dispositions générales et définitions.<a id=123></a>
+
+###### Article D311-4
+
+A l'occasion des contrôles des véhicules et de leurs conducteurs, sont seuls compétents pour procéder, en application de
+l'article L. 311-2, aux opérations permettant d'accéder aux informations et aux données numériques embarquées relatives à
+l'identification et à la conformité du véhicule et de ses composants les officiers ou agents de police judiciaire de la
+gendarmerie ou de la police nationales territorialement compétents ainsi que les fonctionnaires ou agents de l'Etat chargés
+du contrôle des transports terrestres placés sous l'autorité du ministre chargé des transports et détenteurs d'un dispositif
+technique permettant la lecture de ces informations et données. 
+
+Lorsqu'elles sont de nature physique, les informations et données relatives à l'identification et à la conformité du véhicule
+et de ses composants peuvent être relevées par l'ensemble des agents habilités à procéder à ces contrôles conformément aux
+dispositions du code de procédure pénale ou du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-589 du 20 avril 2017 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. L311-2
+
 
 ###### Article R311-1
 
