@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-04-23
+Version Consolidée au 2017-04-30
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -13585,8 +13585,7 @@ _Modifié par_:
 
 ###### Article D214-5
 
-Le secrétariat du Conseil supérieur de l'éducation routière est assuré par la délégation à la sécurité et à la circulation
-routières.
+Le secrétariat du Conseil supérieur de l'éducation routière est assuré par la        délégation à la sécurité routière.
 
 **Nota:**
 
@@ -13598,9 +13597,9 @@ une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1182 du 5 octobre 2009 - art. 1
+  - Décret n°2017-667 du 27 avril 2017 - art. 9
 
 
 ### Titre II : Permis de conduire.<a id=89></a>
