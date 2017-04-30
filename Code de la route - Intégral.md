@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-04-30
+Version Consolidée au 2017-05-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -25981,34 +25981,34 @@ destruction remet le certificat d'immatriculation à un centre VHU agréé, au s
 sur le certificat d'immatriculation, d'une manière très lisible et inaltérable, la mention " vendu le.../.../... " ou " cédé
 le.../.../... " (date de la cession) " pour destruction ", suivie de sa signature, et découpe la partie supérieure droite de
 ce document. Lorsque ce document comporte un coupon détachable, le propriétaire le découpe et l'adresse dûment rempli au
-préfet du département de son choix dans un délai de quinze jours. 
+préfet du département de son choix dans un délai de quinze jours.
 
-Si le propriétaire du véhicule ne dispose pas du certificat d'immatriculation, il remet au centre VHU, agréé soit un document
-officiel prouvant que le certificat d'immatriculation ne peut être fourni, soit un justificatif de propriété dans le cas d'un
-véhicule de plus de trente ans. 
+Si le propriétaire du véhicule ne dispose pas du certificat d'immatriculation, il remet au centre de véhicules hors d'usage
+agréé soit un document officiel prouvant que le certificat d'immatriculation ne peut être fourni, soit la justification de
+propriété du véhicule.
 
 II.-Au moment de l'achat pour destruction du véhicule hors d'usage, le centre VHU agréé délivre un certificat de destruction
 au propriétaire du véhicule. Concomitamment, le centre VHU agréé adresse au préfet du département de son choix le double du
 certificat de destruction et une déclaration l'informant de l'achat pour destruction du véhicule. Cette déclaration
 s'effectue dans les conditions prévues à l'article R. 322-4. Si le centre VHU agréé est habilité par le ministre de
 l'intérieur, il peut également effectuer ces démarches par voie électronique. Le ministre de l'intérieur procède alors à
-l'annulation de l'immatriculation du véhicule. 
+l'annulation de l'immatriculation du véhicule.
 
 III.-Le centre VHU agréé qui a déclaré l'achat d'un véhicule et qui souhaite ultérieurement le faire détruire émet à ce
 moment un certificat de destruction du véhicule. Concomitamment, le centre VHU agréé adresse au préfet du département de son
 choix le double du certificat de destruction et une déclaration l'informant de son intention de détruire ce véhicule.S'il est
 habilité par le ministre de l'intérieur, il peut également effectuer ces démarches par voie électronique. Le ministre de
-l'intérieur procède alors à l'annulation de l'immatriculation du véhicule. 
+l'intérieur procède alors à l'annulation de l'immatriculation du véhicule.
 
 IV.-Les dispositions du présent article s'appliquent également à la destruction des véhicules autres que ceux visés au I.
 Leur propriétaire n'est toutefois pas tenu de s'adresser à un centre VHU agréé.
 
 V.-Le fait, pour tout propriétaire, de ne pas effectuer les déclarations ou de ne pas observer le délai prévu au I est puni
-de l'amende prévue pour les contraventions de la quatrième classe. 
+de l'amende prévue pour les contraventions de la quatrième classe.
 
 VI.-Le fait, pour tout centre VHU agréé, de ne pas délivrer un certificat de destruction au moment du transfert du véhicule
 hors d'usage, de ne pas adresser au préfet du département de son choix le double du certificat de destruction ou de ne pas
-effectuer les déclarations prévues aux II et III est puni de l'amende prévue pour les contraventions de la quatrième classe. 
+effectuer les déclarations prévues aux II et III est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 VII.-Un arrêté conjoint des ministres chargés des transports, de l'intérieur, de l'industrie et de l'écologie fixe les
 conditions d'application du présent article.
@@ -26033,7 +26033,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-153 du 4 février 2011 - art. 2 (V)
+  - Décret n°2017-675 du 28 avril 2017 - art. 2
 
 _Cite_:
 
@@ -29926,6 +29926,26 @@ _Cite_:
   - Code de la route. - art. R321-16 (V)
   - Code de la route. - art. R322-4 (V)
   - Code de la route. - art. R326-17 (Ab)
+
+
+###### Article R327-1-1
+
+Pour l'application du deuxième alinéa de l'article L. 327-2, l'assureur ne doit vendre un véhicule à un acheteur
+professionnel pour réparation que si ce véhicule est techniquement réparable. L'assureur est tenu de présenter, en cas de
+contrôle par les agents mentionnés à l'article L. 541-44 du code de l'environnement, le rapport d'expertise prévu à l'article
+L. 327-1 attestant du caractère réparable de ce véhicule.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-675 du 28 avril 2017 - art. 2
+
+_Cite_:
+
+  - Code de l'environnement - art. L541-44 (V)
+  - Code de la route. - art. L327-1 (V)
+  - Code de la route. - art. L327-2 (V)
 
 
 ###### Article R327-2
