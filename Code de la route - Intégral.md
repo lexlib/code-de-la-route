@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-05-01
+Version Consolidée au 2017-05-11
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -26239,31 +26239,33 @@ _Anciens textes_:
 
 ###### Article R322-10
 
-En cas de perte, de vol ou de détérioration d'un certificat d'immatriculation, le titulaire peut en obtenir un duplicata en
-adressant une demande au préfet du département de son choix.
+En cas de perte, de vol ou de détérioration d'un certificat d'immatriculation, le propriétaire du véhicule peut en obtenir un
+duplicata en adressant une demande au ministre de l'intérieur par voie électronique.
 
 L'accomplissement des formalités prévues au présent article est subordonné à la justification, par le propriétaire, de son
-identité et, selon le cas, de son domicile, de l'adresse de son siège social ou de l'adresse de l'établissement d'affectation
-ou de mise à disposition, ou de celle du locataire.
+identité dans les conditions fixées par l'article R. 112-9-1 du code des relations entre le public et l'administration.
+
+A défaut de pouvoir faire lui-même sa demande de duplicata par voie électronique, le propriétaire peut bénéficier d'un accès
+à un dispositif connecté au site de demande de duplicata et d'une assistance numérique, mis en place par l'administration.
 
 Pour tout véhicule soumis à contrôle technique, la délivrance du duplicata est subordonnée à la preuve que ce véhicule répond
 aux conditions requises pour être maintenu en circulation conformément aux dispositions du chapitre III du présent titre.
 
 Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions d'application
-des deux précédents alinéas.
+des trois précédents alinéas.
 
 La déclaration de perte ou de vol permet la circulation du véhicule pendant un délai d'un mois à compter de la date de ladite
 déclaration.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2009-136 du 9 février 2009 - art. 6
-
 _Cité par_:
 
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+
+_Modifié par_:
+
+  - Décret n°2017-911 du 9 mai 2017 - art. 1
 
 _Anciens textes_:
 
@@ -26274,6 +26276,10 @@ _Anciens textes_:
   - Code de la route - art. R165 (Ab)
   - Code de la route - art. R185 (Ab)
   - Code de la route - art. R200-2 (Ab)
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. R112-9-1 (V)
 
 
 ###### Article R322-13
