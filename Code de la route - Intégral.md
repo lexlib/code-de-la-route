@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2017-08-14
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -121,7 +121,7 @@ Version Consolidée au 2017-07-01
         - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie. (art. R243-1 à R243-2)](#118)
         - [Chapitre IV : Dispositions applicables à la Polynésie française. (art. R244-1 à R244-2)](#119)
         - [Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna. (art. R245-1 à R245-2)](#120)
-    - [Livre III : Le véhicule. (art. D311-4 à R344-4)](#121)
+    - [Livre III : Le véhicule. (art. D311-4 à R350-3)](#121)
       - [Titre Ier : Dispositions techniques. (art. D311-4 à R318-10)](#122)
         - [Chapitre Ier : Dispositions générales et définitions. (art. D311-4 à R311-3)](#123)
         - [Chapitre II : Poids et dimensions (art. R312-1 à R312-25)](#124)
@@ -177,67 +177,68 @@ Version Consolidée au 2017-07-01
           - [Section 1 : Dispositions générales. (art. R344-1 à R344-1-1)](#174)
           - [Section 2 : Immobilisation. (art. R344-2 à R344-3)](#175)
           - [Section 3 : Fourrière. (art. R344-4)](#176)
-    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#177)
-      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#178)
-        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#179)
-          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#180)
-          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#181)
-          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-17 à R411-24)](#182)
-          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#183)
-          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#184)
-        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#185)
-          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#186)
-          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#187)
-          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#188)
-          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28-1)](#189)
-          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#190)
-          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#191)
-          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#192)
-          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#193)
-        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#194)
-          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#195)
-          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#196)
-        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#197)
-          - [Section 1 : Croisement. (art. R414-1 à R414-3)](#198)
-          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#199)
-        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#200)
-        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#201)
-          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#202)
-          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#203)
-          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#204)
-        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#205)
-          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#206)
-          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#207)
-        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#208)
-      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-5)](#209)
-        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-10)](#210)
-        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-5)](#211)
-      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R435-6)](#212)
-        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#213)
-        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#214)
-          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#215)
-          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#216)
-          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#217)
-        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-20)](#218)
-          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#219)
-          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#220)
-          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#221)
-          - [Section 4 : Transports de bois ronds (art. R433-9 à R433-16)](#222)
-          - [Section 5 : Accompagnement des transports exceptionnels. (art. R433-17 à R433-20)](#223)
-        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#224)
-        - [Chapitre V : Autres véhicules (art. R435-1 à R435-6)](#225)
-          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1 à R435-2)](#226)
-          - [Section 2 : Ensembles forains (art. R435-3)](#227)
-          - [Section 3 : Véhicules automoteurs spéciaux (art. R435-4 à R435-6)](#228)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#229)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#230)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#231)
-  - [Partie arrêtés (art. A121-1 à A143-1)](#232)
-    - [Livre 1er : Dispositions générales (art. A121-1 à A143-1)](#233)
-      - [Titre 2 : Responsabilité (art. A121-1 à A121-3)](#234)
-        - [Chapitre 1er : Responsabilité pénale (art. A121-1 à A121-3)](#235)
-      - [Titre 4 : Dispositions relatives à l'outre-mer (art. A143-1)](#236)
-        - [Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna (art. A143-1)](#237)
+      - [Titre V :  Dispositions relatives aux démarches effectuées par voie électronique (art. R350-1 à R350-3)](#177)
+    - [Livre IV : L'usage des voies. (art. R411-1 à R442-7)](#178)
+      - [Titre Ier : Dispositions générales. (art. R411-1 à R418-9)](#179)
+        - [Chapitre Ier : Pouvoirs de police de la circulation (art. R411-1 à R411-32)](#180)
+          - [Section 1 : Pouvoirs généraux de police. (art. R411-1 à R411-9)](#181)
+          - [Section 2 : Commission départementale de la sécurité routière. (art. R411-10 à R411-12)](#182)
+          - [Section 3 : Interdictions et restrictions de circulation. (art. R411-17 à R411-24)](#183)
+          - [Section 4 : Signalisation routière. (art. R411-25 à R411-28)](#184)
+          - [Section 5 : Courses et épreuves sportives. (art. R411-29 à R411-32)](#185)
+        - [Chapitre II : Conduite des véhicules et circulation des piétons (art. R412-1 à R412-52)](#186)
+          - [Section 1 : Equipements des utilisateurs de véhicules. (art. R412-1 à R412-5)](#187)
+          - [Section 2 : Principes généraux de circulation. (art. R412-6 à R412-17)](#188)
+          - [Section 3 : Matérialisation des voies de circulation. (art. R412-18 à R412-25)](#189)
+          - [Section 4 : Sens de circulation. (art. R412-26 à R412-28-1)](#190)
+          - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#191)
+          - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#192)
+          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#193)
+          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#194)
+        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#195)
+          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#196)
+          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#197)
+        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#198)
+          - [Section 1 : Croisement. (art. R414-1 à R414-3-1)](#199)
+          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#200)
+        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#201)
+        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#202)
+          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#203)
+          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#204)
+          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#205)
+        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#206)
+          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#207)
+          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#208)
+        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#209)
+      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-5)](#210)
+        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-10)](#211)
+        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-5)](#212)
+      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R435-6)](#213)
+        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#214)
+        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#215)
+          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#216)
+          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#217)
+          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#218)
+        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-20)](#219)
+          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#220)
+          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#221)
+          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#222)
+          - [Section 4 : Transports de bois ronds (art. R433-9 à R433-16)](#223)
+          - [Section 5 : Accompagnement des transports exceptionnels. (art. R433-17 à R433-20)](#224)
+        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#225)
+        - [Chapitre V : Autres véhicules (art. R435-1 à R435-6)](#226)
+          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1 à R435-2)](#227)
+          - [Section 2 : Ensembles forains (art. R435-3)](#228)
+          - [Section 3 : Véhicules automoteurs spéciaux (art. R435-4 à R435-6)](#229)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#230)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#231)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#232)
+  - [Partie arrêtés (art. A121-1 à A143-1)](#233)
+    - [Livre 1er : Dispositions générales (art. A121-1 à A143-1)](#234)
+      - [Titre 2 : Responsabilité (art. A121-1 à A121-3)](#235)
+        - [Chapitre 1er : Responsabilité pénale (art. A121-1 à A121-3)](#236)
+      - [Titre 4 : Dispositions relatives à l'outre-mer (art. A143-1)](#237)
+        - [Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna (art. A143-1)](#238)
 # Partie législative<a id=1></a>
 
 ## Livre 1er : Dispositions générales<a id=2></a>
@@ -25802,28 +25803,45 @@ _Cité par_:
 
 ###### Article R322-1
 
-I. - Tout propriétaire d'un véhicule à moteur, d'une remorque dont le poids total autorisé en charge est supérieur à 500
+I. – Tout propriétaire d'un véhicule à moteur, d'une remorque dont le poids total autorisé en charge est supérieur à 500
 kilogrammes ou d'une semi-remorque et qui souhaite le mettre en circulation pour la première fois doit faire une demande de
-certificat d'immatriculation en justifiant de son identité et de son domicile. Cette demande de certificat d'immatriculation
-est adressée au ministre de l'intérieur soit par l'intermédiaire du préfet d'un département choisi par le propriétaire du
-véhicule, soit par l'intermédiaire d'un professionnel de l'automobile habilité par le ministre de l'intérieur. 
+certificat d'immatriculation en justifiant de son identité. Le propriétaire doit également pouvoir justifier, à la demande du
+ministre de l'intérieur :
 
-II. - Lorsque le propriétaire est une personne morale ou une entreprise individuelle, celui-ci justifie de son identité et de
-l'adresse de son siège social ou de celle de l'établissement d'affectation du véhicule. 
+1° De la souscription, pour le véhicule considéré, d'une assurance conforme aux dispositions de l'article L. 211-1 du code
+des assurances ;
 
-III. - Pour un véhicule de location, le propriétaire justifie de son identité et de l'adresse de son siège social ou de celle
-de l'établissement de mise à disposition du véhicule. 
+2° Lorsque le propriétaire est une personne physique, d'un permis de conduire, le cas échéant celui de la personne physique
+désignée pour être titulaire du certificat d'immatriculation, correspondant à la catégorie du véhicule considéré conformément
+aux dispositions de l'article L. 322-1-1 ;
 
-IV. - Pour un véhicule faisant l'objet soit d'un contrat de crédit-bail, soit d'un contrat de location de deux ans ou plus,
-le propriétaire justifie de son identité et de l'adresse du domicile du locataire. 
+3° De son domicile, siège social ou établissement d'affectation ou de mise à disposition du véhicule ;
 
-V. - Les dispositions du présent article ne sont pas applicables aux véhicules ou appareils agricoles remorqués dont le poids
-total en charge est inférieur à 1, 5 tonne. 
+4° Sauf pour les véhicules définis au 6.3 de l'article R. 311-1, soit de la conformité de son véhicule à un type CE
+réceptionné ou à un type national réceptionné, soit que son véhicule a fait l'objet d'une réception à titre isolé ou d'une
+réception individuelle au sens des articles R. 321-6 et R. 321-15.
 
-VI. - Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions
+Cette demande de certificat d'immatriculation est adressée au ministre de l'intérieur par le propriétaire, soit directement
+par voie électronique, soit par l'intermédiaire d'un professionnel de l'automobile habilité par le ministre de l'intérieur.
+
+II. – Lorsque le propriétaire est une personne morale ou une entreprise individuelle, celui-ci doit pouvoir justifier, à la
+demande du ministre de l'intérieur, de son identité et de l'adresse de son siège social ou de celle de l'établissement
+d'affectation du véhicule.
+
+III. – Pour un véhicule de location, le propriétaire doit pouvoir justifier, à la demande du ministre de l'intérieur, de son
+identité et de l'adresse de son siège social ou de celle de l'établissement de mise à disposition du véhicule.
+
+IV. – Pour un véhicule faisant l'objet soit d'un contrat de crédit-bail, soit d'un contrat de location de deux ans ou plus,
+le propriétaire doit pouvoir justifier, à la demande du ministre de l'intérieur, de son identité et de l'adresse du domicile
+du locataire.
+
+V. – Les dispositions du présent article ne sont pas applicables aux véhicules ou appareils agricoles remorqués dont le poids
+total en charge est inférieur à 1,5 tonne.
+
+VI. – Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions
 d'application du présent article.
 
-VII. - Le fait, pour tout propriétaire, de mettre en circulation un véhicule sans avoir obtenu un certificat
+VII. – Le fait, pour tout propriétaire, de mettre en circulation un véhicule sans avoir obtenu un certificat
 d'immatriculation est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
@@ -25862,7 +25880,15 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 6
+  - Décret n°2017-1278 du 9 août 2017 - art. 2
+
+_Cite_:
+
+  - Code des assurances - art. L211-1 (M)
+  - Code de la route. - art. L322-1-1 (V)
+  - Code de la route. - art. R311-1 (V)
+  - Code de la route. - art. R321-15 (V)
+  - Code de la route. - art. R321-6 (V)
 
 
 ###### Article R322-2
@@ -26001,37 +26027,36 @@ _Cite_:
 
 ###### Article R322-4
 
-I. - En cas de changement de propriétaire d'un véhicule soumis à immatriculation et déjà immatriculé, l'ancien propriétaire
-doit effectuer, dans les quinze jours suivant la cession, une déclaration informant de cette cession et indiquant l'identité
-et le domicile déclarés par le nouveau propriétaire. Avant de remettre le certificat d'immatriculation à ce dernier, l'ancien
-propriétaire doit y porter d'une manière très lisible et inaltérable la mention : " vendu le... /... /... " ou " cédé
-le... /.. /.... " (date de la cession), suivie de sa signature, et remplir le coupon détachable ou, à défaut, découper la
-partie supérieure droite de ce document lorsqu'il comporte l'indication du coin à découper.
+I. – En cas de changement de propriétaire d'un véhicule soumis à immatriculation et déjà immatriculé, l'ancien propriétaire
+doit effectuer, dans les quinze jours suivant la cession, une déclaration au ministre de l'intérieur l'informant de cette
+cession et indiquant l'identité et le domicile déclarés par le nouveau propriétaire. Avant de remettre le certificat
+d'immatriculation à ce dernier, l'ancien propriétaire doit le barrer et y porter d'une manière très lisible et inaltérable la
+mention : " vendu le... /... /... " ou " cédé le... /.. /.... " (date de la cession), suivie de sa signature, et, sauf en cas
+de vente ou de cession à un professionnel de l'automobile, remplir le coupon ou, à défaut, découper la partie supérieure
+droite de ce document lorsqu'il comporte l'indication du coin à découper.
 
-II. - L'ancien propriétaire effectue cette déclaration au ministre de l'intérieur soit par l'intermédiaire du préfet d'un
-département de son choix, soit par voie électronique. 
+II. – L'ancien propriétaire effectue la déclaration mentionnée au I soit directement par voie électronique, soit par
+l'intermédiaire d'un professionnel de l'automobile habilité par le ministre de l'intérieur.
 
-III. - En cas de vente à un professionnel n'agissant qu'en tant qu'intermédiaire, le coupon détachable ne doit pas être
-rempli et le certificat d'immatriculation doit être remis par ce dernier, dans les quinze jours suivant la transaction, au
-préfet du département de son choix, accompagné de la déclaration d'achat du véhicule d'occasion. Cette déclaration d'achat,
-après visa du préfet, est retournée à ce professionnel en même temps que le certificat d'immatriculation du véhicule. Si le
-professionnel est habilité par le ministre de l'intérieur, il peut adresser directement la déclaration de cession ou la
-déclaration d'achat du véhicule par voie électronique. 
+III. – En cas de cession à un professionnel de l'automobile, ce dernier effectue une déclaration d'achat dans les quinze
+jours suivants la transaction, soit directement par voie électronique, soit par l'intermédiaire d'un professionnel de
+l'automobile habilité par le ministre de l'intérieur.
 
-IV. - Lors de la revente du véhicule, le dernier négociant propriétaire du véhicule doit remettre à l'acquéreur le certificat
-d'immatriculation sur lequel il aura porté la mention Revendu le ... à M. ..., accompagné de la déclaration d'achat en sa
-possession et remplir, s'il existe, le coupon détachable de ce certificat d'immatriculation.
+IV. – Lorsqu'un professionnel de l'automobile propriétaire d'un véhicule déjà immatriculé le revend à un non professionnel de
+l'automobile, il remet à l'acquéreur le certificat d'immatriculation sur lequel sont portées les mentions prévues au I,
+accompagné du récépissé de la déclaration d'achat en sa possession et remplit, s'il existe, le coupon de ce certificat
+d'immatriculation.
 
-V. - Dans chacun des cas définis aux alinéas précédents, la remise du certificat d'immatriculation doit être accompagnée d'un
-certificat, établi depuis moins de quinze jours par le ministre de l'intérieur, attestant à sa date d'édition de
-l'inscription ou de la non-inscription de gage et qu'il n'est pas fait opposition au transfert du certificat
-d'immatriculation du véhicule.
+V. – Dans chacun des cas définis aux alinéas précédents, la remise du certificat d'immatriculation doit être accompagnée d'un
+certificat, établi depuis moins de quinze jours par le ministre de l'intérieur, attestant à sa date d'édition de la situation
+administrative du véhicule. Celle-ci précise l'existence ou non d'un gage ainsi que toute opposition au transfert du
+certificat d'immatriculation du véhicule ou au transfert de la propriété du véhicule.
 
-VI. - Le ministre chargé des transports définit par arrêté pris après avis du ministre de l'intérieur les conditions
-d'application du présent article, notamment en ce qui concerne les véhicules tombés dans une succession, vendus aux enchères
-publiques ou à la suite d'une décision judiciaire, et les véhicules de location.
+VI. – Le ministre chargé des transports définit par arrêté pris après avis du ministre de l'intérieur les conditions
+d'application du présent article, notamment en ce qui concerne la situation administrative du véhicule, les véhicules tombés
+dans une succession, vendus aux enchères publiques ou à la suite d'une décision judiciaire, et les véhicules de location.
 
-VII. - Le fait de ne pas effectuer les déclarations ou de ne pas respecter les délais prévus au présent article est puni de
+VII. – Le fait de ne pas effectuer les déclarations ou de ne pas respecter les délais prévus au présent article est puni de
 l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
@@ -26048,7 +26073,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 6
+  - Décret n°2017-1278 du 9 août 2017 - art. 3
 
 _Anciens textes_:
 
@@ -26063,28 +26088,42 @@ _Anciens textes_:
 
 ###### Article R322-5
 
-I.-Le nouveau propriétaire d'un véhicule déjà immatriculé doit, s'il veut le maintenir en circulation, faire établir, dans un
-délai d'un mois à compter de la date de la cession, un certificat d'immatriculation à son nom dans les conditions prévues à
-l'article R. 322-1. Cette demande doit être accompagnée : 
+I. – Le nouveau propriétaire d'un véhicule déjà immatriculé doit, s'il veut le maintenir en circulation, faire établir, dans
+un délai d'un mois à compter de la date de la cession, un certificat d'immatriculation à son nom dans les conditions prévues
+à l'article R. 322-1.
 
-1° Du certificat d'immatriculation qui lui a été remis par l'ancien propriétaire ; 
+Cette demande est adressée au ministre de l'intérieur soit directement par voie électronique, soit par l'intermédiaire d'un
+professionnel de l'automobile habilité par le ministre de l'intérieur.
 
-2° De la déclaration certifiant la cession et indiquant que le véhicule n'a pas subi, de transformation susceptible de
-modifier les indications du précédent certificat d'immatriculation ; 
+Le nouveau propriétaire doit pouvoir justifier, à la demande du ministre de l'intérieur :
 
-3° De la preuve, pour tout véhicule soumis à visite technique, que celui-ci répond aux conditions requises pour être maintenu
-en circulation conformément aux dispositions du chapitre III du présent titre ; 
+1° De la souscription, pour le véhicule considéré, d'une assurance conforme aux dispositions de l'article L. 211-1 du code
+des assurances ;
 
-4° D'une déclaration d'achat en cas de vente du véhicule par un professionnel. 
+2° De la déclaration certifiant la cession et indiquant que le véhicule n'a pas subi de transformation susceptible de
+modifier les indications du précédent certificat d'immatriculation ;
 
-II.-Le nouveau propriétaire peut circuler à titre provisoire et pendant une période d'un mois à compter de la date de la
-cession sous couvert soit du coupon détachable, soit d'un certificat provisoire d'immatriculation. 
+3° Lorsque le nouveau propriétaire est une personne physique, d'un permis de conduire, le cas échéant celui de la personne
+physique désignée pour être titulaire du certificat d'immatriculation, correspondant à la catégorie du véhicule considéré
+conformément aux dispositions de l'article L. 322-1-1 ;
 
-III.-Le ministre chargé des transports définit par arrêté pris après avis du ministre de l'intérieur les conditions
+4° De son domicile, siège social ou établissement d'affectation ou de mise à disposition du véhicule ;
+
+5° D'être en possession de l'ancien certificat d'immatriculation du véhicule barré et signé, portant la mention “ vendu le …/
+…/ … ” ou “ cédé le …/ …/ … ” ;
+
+6° Pour tout véhicule soumis à visite technique, que celui-ci répond aux conditions requises pour être maintenu en
+circulation conformément aux dispositions du chapitre III du présent titre.
+
+II. – Le nouveau propriétaire peut circuler à titre provisoire et pendant une période d'un mois à compter de la date de la
+cession sous couvert soit du coupon rempli du certificat d'immatriculation s'il existe, soit d'un certificat provisoire
+d'immatriculation.
+
+III. – Le ministre chargé des transports définit par arrêté pris après avis du ministre de l'intérieur les conditions
 d'application du présent article, notamment en ce qui concerne les véhicules vendus par les domaines, aux enchères publiques
-ou à la suite d'une décision judiciaire, les véhicules de collection et ceux démunis de certificat d'immatriculation. 
+ou à la suite d'une décision judiciaire, les véhicules de collection et ceux démunis de certificat d'immatriculation.
 
-IV.-Le fait, pour tout propriétaire, de maintenir en circulation un véhicule sans avoir obtenu un certificat
+IV. – Le fait, pour tout propriétaire, de maintenir en circulation un véhicule sans avoir obtenu un certificat
 d'immatriculation dans les conditions fixées au présent article est puni de l'amende prévue pour les contraventions de la
 quatrième classe.
 
@@ -26121,43 +26160,41 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 6
+  - Décret n°2017-1278 du 9 août 2017 - art. 4
 
 _Cite_:
 
-  - Code de la route. - art. L325-1
-  - Code de la route. - art. R322-1
+  - Code des assurances - art. L211-1 (M)
+  - Code de la route. - art. L322-1-1 (V)
+  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. R322-1 (V)
 
 
 ###### Article R322-6
 
-I. - Si le propriétaire d'un véhicule déjà immatriculé ne désire pas le maintenir en circulation, il doit adresser au préfet
-du département de son choix le certificat d'immatriculation accompagné d'une déclaration l'informant de son retrait de la
-circulation. 
+I.-Si le propriétaire d'un véhicule déjà immatriculé ne désire pas le maintenir en circulation, il doit adresser au
+ministre de l'intérieur par voie électronique le certificat d'immatriculation accompagné d'une déclaration l'informant de son
+retrait de la circulation. 
 
-Si cette déclaration fait suite à une cession du véhicule, elle doit être adressée par le nouvel acquéreur au préfet du
-département de son choix dans un délai d'un mois à compter de la date de la cession portée sur le certificat
+Si cette déclaration fait suite à une cession du véhicule, elle doit être adressée par le nouvel acquéreur au     ministre de
+l'intérieur par voie électronique dans un délai d'un mois à compter de la date de la cession portée sur le certificat
 d'immatriculation du véhicule. 
 
 Le propriétaire n'est plus autorisé à circuler avec ce véhicule sur les voies ouvertes à la circulation publique et la
 validité du certificat d'immatriculation du véhicule est alors suspendue par le ministre de l'intérieur. 
 
-II. - Lorsque le propriétaire du véhicule souhaite le remettre en circulation, il en fait la déclaration au préfet du
-département de son choix, la suspension de l'autorisation de circuler est alors levée et un nouveau certificat
+II.-Lorsque le propriétaire du véhicule souhaite le remettre en circulation, il en fait la déclaration au     ministre de
+l'intérieur par voie électronique, la suspension de l'autorisation de circuler est alors levée et un nouveau certificat
 d'immatriculation est délivré au propriétaire du véhicule. Dans l'attente de ce nouveau certificat d'immatriculation, le
 propriétaire peut circuler pendant un mois sous couvert d'un certificat provisoire d'immatriculation. 
 
-III. - Le ministre chargé des transports détermine, par arrêté pris après avis du ministre de l'intérieur, les conditions
-d'application du présent article.
+III.-Le ministre chargé des transports détermine, par arrêté pris après avis du ministre de l'intérieur, les conditions
+d'application du présent article. 
 
-IV. - Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas observer les délais prévus au présent
+IV.-Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas observer les délais prévus au présent
 article est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-136 du 9 février 2009 - art. 6
 
 _Cité par_:
 
@@ -26165,6 +26202,10 @@ _Cité par_:
   - Arrêté du 5 novembre 1984 - art. 21 (VD)
   - Code de la route. - art. D321-5-1 (V)
   - Code de la route. - art. R350-3 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-1278 du 9 août 2017 - art. 5
 
 _Anciens textes_:
 
@@ -26179,44 +26220,46 @@ _Anciens textes_:
 
 ###### Article R322-7
 
-I. - Tout propriétaire d'un véhicule soumis à immatriculation doit adresser, dans le mois qui suit le changement de domicile,
-de siège social ou d'établissement d'affectation ou de mise à disposition du véhicule, une déclaration au préfet du
-département de son choix l'informant de ce changement. 
+I. – Tout propriétaire d'un véhicule soumis à immatriculation doit, dans le mois qui suit le changement de domicile, de siège
+social ou d'établissement d'affectation ou de mise à disposition du véhicule, adresser par voie électronique une déclaration
+au ministre de l'intérieur l'informant de ce changement. Le propriétaire doit pouvoir justifier, à la demande du ministre de
+l'intérieur, de son nouveau domicile, siège social ou établissement d'affectation ou de mise à disposition du véhicule.
 
-II. - Lorsqu'il s'agit d'un véhicule faisant l'objet soit d'un crédit-bail, soit d'un contrat de location de deux ans ou
-plus, la déclaration doit être adressée par le locataire au préfet du département de son choix.
+II. – Lorsqu'il s'agit d'un véhicule faisant l'objet soit d'un crédit-bail, soit d'un contrat de location de deux ans ou
+plus, le locataire du véhicule déclare, dans un délai maximum d'un mois, tout changement mentionné au I au propriétaire qui
+le déclare par voie électronique au ministre de l'intérieur dans un délai maximum de dix jours à compter de la réception de
+la déclaration du locataire.
 
-III. - Le propriétaire peut également adresser directement sa déclaration de changement de domicile au ministre de
-l'intérieur par voie électronique. 
+III. – (Abrogé)
 
-IV. - Pour l'accomplissement des formalités prévues au présent article, le propriétaire doit justifier de son identité et, de
-son domicile, de l'adresse de son siège social ou de l'établissement d'affectation ou de mise à disposition du véhicule ou de
-celle du locataire.
+IV. – (Abrogé)
 
-V. - Lorsque le ministre de l'intérieur est informé de la réimmatriculation du véhicule dans un pays de la Communauté
-européenne ou de l'Espace économique européen, la validité du certificat d'immatriculation est suspendue en France. 
+V. – Lorsque le ministre de l'intérieur est informé de la réimmatriculation du véhicule dans un pays de l'Union européenne ou
+de l'Espace économique européen, la validité du certificat d'immatriculation est suspendue en France.
 
-VI. - Lorsque ce véhicule est remis en circulation en France, son propriétaire en fait la déclaration au préfet du
-département de son choix. La suspension de l'autorisation de circuler du véhicule est levée par le ministre de l'intérieur et
-un nouveau certificat d'immatriculation est délivré au propriétaire du véhicule. Dans l'attente de ce nouveau certificat
-d'immatriculation, le propriétaire peut circuler pendant un mois sous couvert d'un certificat provisoire d'immatriculation. 
+VI. – Lorsque ce véhicule est remis en circulation en France, son propriétaire en fait la déclaration au ministre de
+l'intérieur par voie électronique. La suspension de l'autorisation de circuler du véhicule est levée par le ministre de
+l'intérieur et un nouveau certificat d'immatriculation est délivré au propriétaire du véhicule. Dans l'attente de ce nouveau
+certificat d'immatriculation, le propriétaire peut circuler pendant un mois sous couvert d'un certificat provisoire
+d'immatriculation.
 
-VII. - Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions
+VII. – Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions
 d'application du présent article.
 
-VIII. - Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas respecter le délai prévu au présent
-article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+VIII. – Le fait, pour tout propriétaire d'un véhicule ou pour tout locataire d'un véhicule faisant l'objet soit d'un crédit-
+bail, soit d'un contrat de location de deux ans ou plus, de ne pas effectuer les déclarations ou de ne pas respecter les
+délais prévus au présent article, est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-136 du 9 février 2009 - art. 6
 
 _Cité par_:
 
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
   - Code de la route. - art. R322-18 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-1278 du 9 août 2017 - art. 6
 
 _Anciens textes_:
 
@@ -26231,16 +26274,17 @@ _Anciens textes_:
 
 ###### Article R322-8
 
-I. - Toute transformation apportée à un véhicule soumis à immatriculation et déjà immatriculé, qu'il s'agisse d'une
+I. – Toute transformation apportée à un véhicule soumis à immatriculation et déjà immatriculé, qu'il s'agisse d'une
 transformation notable ou de toute autre transformation susceptible de modifier les caractéristiques indiquées sur le
-certificat d'immatriculation, nécessite la modification de celui-ci. A cet effet, le propriétaire doit adresser au préfet du
-département de son choix une déclaration accompagnée du certificat d'immatriculation du véhicule dans le mois qui suit la
-transformation du véhicule. Le propriétaire conserve, s'il existe, le coupon détachable dûment rempli.
+certificat d'immatriculation, nécessite la modification de celui-ci. Pour maintenir la validité du certificat
+d'immatriculation, le propriétaire doit adresser au ministre de l'intérieur par voie électronique une déclaration dans le
+mois qui suit la transformation du véhicule. Le propriétaire peut circuler à titre provisoire, pendant une période d'un mois
+à compter de la date de la déclaration, sous couvert d'un certificat provisoire d'immatriculation.
 
-II. - Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions
-d'application du présent article. 
+II. – Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions
+d'application du présent article.
 
-III. - Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas observer le délai, prévus au présent
+III. – Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas observer le délai, prévus au présent
 article, est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
@@ -26254,7 +26298,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 6
+  - Décret n°2017-1278 du 9 août 2017 - art. 7
 
 _Anciens textes_:
 
@@ -26269,43 +26313,45 @@ _Anciens textes_:
 
 ###### Article R322-9
 
-I.-Tout propriétaire d'une voiture particulière, d'une camionnette ou d'un cyclomoteur à trois roues qui le cède pour
+I. – Tout propriétaire d'une voiture particulière, d'une camionnette ou d'un cyclomoteur à trois roues qui le cède pour
 destruction remet le certificat d'immatriculation à un centre VHU agréé, au sens des dispositions du 3° de l'article R.
-543-155 du code de l'environnement, en application de l'article R. 543-162 du code de l'environnement.A cet effet, il appose
+543-155 du code de l'environnement, en application de l'article R. 543-162 du code de l'environnement. A cet effet, il appose
 sur le certificat d'immatriculation, d'une manière très lisible et inaltérable, la mention " vendu le.../.../... " ou " cédé
-le.../.../... " (date de la cession) " pour destruction ", suivie de sa signature, et découpe la partie supérieure droite de
-ce document. Lorsque ce document comporte un coupon détachable, le propriétaire le découpe et l'adresse dûment rempli au
-préfet du département de son choix dans un délai de quinze jours.
+le.../.../... " (date de la cession) " pour destruction ", suivie de sa signature. Lorsque ce document comporte un coupon, il
+le complète, le découpe et le conserve dans les conditions fixées à l'article R. 353. Lorsqu'il comporte, dans la partie
+supérieure droite, l'indication du coin à découper, il le découpe et le détruit. 
 
 Si le propriétaire du véhicule ne dispose pas du certificat d'immatriculation, il remet au centre de véhicules hors d'usage
 agréé soit un document officiel prouvant que le certificat d'immatriculation ne peut être fourni, soit la justification de
-propriété du véhicule.
+propriété du véhicule. 
 
-II.-Au moment de l'achat pour destruction du véhicule hors d'usage, le centre VHU agréé délivre un certificat de destruction
-au propriétaire du véhicule. Concomitamment, le centre VHU agréé adresse au préfet du département de son choix le double du
-certificat de destruction et une déclaration l'informant de l'achat pour destruction du véhicule. Cette déclaration
-s'effectue dans les conditions prévues à l'article R. 322-4. Si le centre VHU agréé est habilité par le ministre de
-l'intérieur, il peut également effectuer ces démarches par voie électronique. Le ministre de l'intérieur procède alors à
-l'annulation de l'immatriculation du véhicule.
+II. – Au moment de l'achat pour destruction du véhicule hors d'usage, le centre VHU agréé délivre un certificat de
+destruction au propriétaire du véhicule. Concomitamment, le centre VHU agréé adresse au ministre de l'intérieur par voie
+électronique une déclaration l'informant de l'achat pour destruction du véhicule. Cette déclaration s'effectue dans les
+conditions prévues à l'article R. 322-4. Le ministre de l'intérieur procède alors à l'annulation de l'immatriculation du
+véhicule. 
 
-III.-Le centre VHU agréé qui a déclaré l'achat d'un véhicule et qui souhaite ultérieurement le faire détruire émet à ce
-moment un certificat de destruction du véhicule. Concomitamment, le centre VHU agréé adresse au préfet du département de son
-choix le double du certificat de destruction et une déclaration l'informant de son intention de détruire ce véhicule.S'il est
-habilité par le ministre de l'intérieur, il peut également effectuer ces démarches par voie électronique. Le ministre de
-l'intérieur procède alors à l'annulation de l'immatriculation du véhicule.
+III. – Le centre VHU agréé qui a déclaré l'achat d'un véhicule et qui souhaite ultérieurement le faire détruire émet à ce
+moment un certificat de destruction du véhicule. Concomitamment, le centre VHU agréé adresse au ministre de l'intérieur par
+voie électronique une déclaration l'informant de son intention de détruire ce véhicule. Le ministre de l'intérieur procède
+alors à l'annulation de l'immatriculation du véhicule. 
 
-IV.-Les dispositions du présent article s'appliquent également à la destruction des véhicules autres que ceux visés au I.
-Leur propriétaire n'est toutefois pas tenu de s'adresser à un centre VHU agréé.
+IV. – Les dispositions du présent article s'appliquent également à la destruction des véhicules autres que ceux visés au I.
+Leur propriétaire n'est toutefois pas tenu de s'adresser à un centre VHU agréé. 
 
-V.-Le fait, pour tout propriétaire, de ne pas effectuer les déclarations ou de ne pas observer le délai prévu au I est puni
-de l'amende prévue pour les contraventions de la quatrième classe.
+V. – Le fait, pour tout propriétaire, de ne pas effectuer les déclarations ou de ne pas observer le délai prévu au I est puni
+de l'amende prévue pour les contraventions de la quatrième classe. 
 
-VI.-Le fait, pour tout centre VHU agréé, de ne pas délivrer un certificat de destruction au moment du transfert du véhicule
-hors d'usage, de ne pas adresser au préfet du département de son choix le double du certificat de destruction ou de ne pas
-effectuer les déclarations prévues aux II et III est puni de l'amende prévue pour les contraventions de la quatrième classe.
+VI. – Le fait, pour tout centre VHU agréé, de ne pas délivrer un certificat de destruction au moment du transfert du véhicule
+hors d'usage ou de ne pas effectuer les déclarations prévues aux II et III est puni de l'amende prévue pour les
+contraventions de la quatrième classe. 
 
-VII.-Un arrêté conjoint des ministres chargés des transports, de l'intérieur, de l'industrie et de l'écologie fixe les
+VII. – Un arrêté conjoint des ministres chargés des transports, de l'intérieur, de l'industrie et de l'écologie fixe les
 conditions d'application du présent article.
+
+**Nota:**
+
+Au lieu de " R. 353 ", il faut lire " R. 350-3 ".
 
 **Liens relatifs à cet article**
 
@@ -26328,13 +26374,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-675 du 28 avril 2017 - art. 2
+  - Décret n°2017-1278 du 9 août 2017 - art. 8
 
 _Cite_:
 
   - Code de l'environnement - art. R543-155
   - Code de l'environnement - art. R543-162
   - Code de la route. - art. R322-4
+  - Code de la route. - art. R350-3 (V)
 
 _Anciens textes_:
 
@@ -26352,17 +26399,11 @@ _Anciens textes_:
 En cas de perte, de vol ou de détérioration d'un certificat d'immatriculation, le propriétaire du véhicule peut en obtenir un
 duplicata en adressant une demande au ministre de l'intérieur par voie électronique.
 
-L'accomplissement des formalités prévues au présent article est subordonné à la justification, par le propriétaire, de son
-identité dans les conditions fixées par l'article R. 112-9-1 du code des relations entre le public et l'administration.
-
-A défaut de pouvoir faire lui-même sa demande de duplicata par voie électronique, le propriétaire peut bénéficier d'un accès
-à un dispositif connecté au site de demande de duplicata et d'une assistance numérique, mis en place par l'administration.
-
 Pour tout véhicule soumis à contrôle technique, la délivrance du duplicata est subordonnée à la preuve que ce véhicule répond
 aux conditions requises pour être maintenu en circulation conformément aux dispositions du chapitre III du présent titre.
 
 Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions d'application
-des trois précédents alinéas.
+des deux précédents alinéas.
 
 La déclaration de perte ou de vol permet la circulation du véhicule pendant un délai d'un mois à compter de la date de ladite
 déclaration.
@@ -26375,7 +26416,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-911 du 9 mai 2017 - art. 1
+  - Décret n°2017-1278 du 9 août 2017 - art. 9
 
 _Anciens textes_:
 
@@ -26387,10 +26428,6 @@ _Anciens textes_:
   - Code de la route - art. R185 (Ab)
   - Code de la route - art. R200-2 (Ab)
   - Code de la route R113-2, R114-1, R117, R159, R165, R185, R200-2
-
-_Cite_:
-
-  - Code des relations entre le public et l'adminis... - art. R112-9-1 (V)
 
 
 ###### Article R322-13
@@ -26455,14 +26492,14 @@ _Anciens textes_:
 
 Le ministre de l'intérieur délivre, à la demande du titulaire du certificat d'immatriculation du véhicule, le certificat
 mentionné à l'article L. 322-2 attestant de l'absence d'une opposition au transfert du certificat d'immatriculation. Le
-titulaire du certificat d'immatriculation du véhicule doit adresser sa demande au préfet du département de son choix ou
-directement par voie électronique.
+titulaire du certificat d'immatriculation du véhicule doit adresser sa demande au ministre de l'intérieur par voie
+électronique.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 7
+  - Décret n°2017-1278 du 9 août 2017 - art. 10
 
 _Anciens textes_:
 
@@ -26471,7 +26508,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L322-2 (V)
+  - Code de la route. - art. L322-2
 
 
 ###### Article R322-16
@@ -30247,22 +30284,19 @@ _Cite_:
 ###### Article R327-1
 
 I.-Dans le cas prévu à l'article L. 327-2 où le propriétaire a donné son accord pour céder son véhicule à l'assureur, celui-
-ci transmet le certificat d'immatriculation au préfet du département de son choix et il déclare l'achat au ministre de
-l'intérieur dans les conditions fixées à l'article R. 322-4. 
+ci déclare l'achat au ministre de l'intérieur dans les conditions fixées à l'article R. 322-4. 
 
 II.-Dans le cas prévu à l'article L. 327-3 où le propriétaire a refusé de céder son véhicule à l'assureur, ce dernier en
-informe le ministre de l'intérieur dans un délai de quinze jours à compter du refus soit par l'intermédiaire du préfet du
-département de son choix, soit par voie électronique s'il est habilité par le ministre de l'intérieur. Le ministre de
-l'intérieur procède à l'inscription d'une opposition au transfert du certificat d'immatriculation. 
+informe le ministre de l'intérieur par voie électronique dans un délai de quinze jours à compter du refus. Le ministre de
+l'intérieur procède à l'inscription d'une opposition au transfert du certificat d'immatriculation.
 
 III.-Les rapports d'expertise mentionnés aux articles L. 327-1 à L. 327-3 sont établis par un expert en automobile justifiant
-de la qualification prévue à l'article R. 326-17. 
+de la qualification prévue à l'article R. 326-17.
 
 Le rapport visé à l'article L. 327-1 comporte la liste des réparations à effectuer si le véhicule est techniquement
-réparable. 
+réparable.
 
-Les rapports visés aux L. 327-2 et L. 327-3 sont adressés au ministre de l'intérieur soit par l'intermédiaire du préfet du
-département de son choix, soit par voie électronique si l'expert en automobile est habilité par le ministre de l'intérieur. 
+Les rapports visés aux L. 327-2 et L. 327-3 sont adressés au ministre de l'intérieur par voie électronique.
 
 Ils attestent également que le véhicule n'a pas subi de transformation notable au sens de l'article R. 321-16, ni de
 transformation susceptible de modifier les caractéristiques indiquées sur le certificat d'immatriculation.
@@ -30274,10 +30308,6 @@ _Anciens textes_:
   - Décret n°91-1315 du 27 décembre 1991 - art. 1 (Ab)
   - Code de la route. - art. R326-1 (M)
 
-_Modifié par_:
-
-  - Décret n°2009-397 du 10 avril 2009 - art. 4
-
 _Cité par_:
 
   - Arrêté du 29 avril 2009 - art. 5 (V)
@@ -30287,14 +30317,18 @@ _Cité par_:
   - Code de la route. - art. R327-5 (V)
   - Code de la route. - art. R350-3 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-1278 du 9 août 2017 - art. 11
+
 _Cite_:
 
-  - Code de la route. - art. L327-1 (V)
-  - Code de la route. - art. L327-2 (V)
-  - Code de la route. - art. L327-3 (V)
-  - Code de la route. - art. R321-16 (V)
-  - Code de la route. - art. R322-4 (V)
-  - Code de la route. - art. R326-17 (Ab)
+  - Code de la route. - art. L327-1
+  - Code de la route. - art. L327-2
+  - Code de la route. - art. L327-3
+  - Code de la route. - art. R321-16
+  - Code de la route. - art. R322-4
+  - Code de la route. - art. R326-17
 
 
 ###### Article R327-1-1
@@ -30321,33 +30355,31 @@ _Cite_:
 
 I.-Lorsqu'un véhicule a été immobilisé en application des articles L. 325-1 à L. 325-3 en raison de la gravité des dommages
 qu'il a subis, l'officier ou l'agent de police judiciaire qui procède aux constatations en informe le ministre de l'intérieur
-soit par l'intermédiaire du préfet du département de son choix, soit par voie électronique. Le ministre de l'intérieur
-informe le titulaire que son véhicule n'est plus autorisé à circuler sur les voies ouvertes à la circulation publique. 
+par voie électronique. Le ministre de l'intérieur informe le titulaire que son véhicule n'est plus autorisé à circuler sur
+les voies ouvertes à la circulation publique.
 
 Lorsque le titulaire du certificat d'immatriculation ne remet pas son titre à l'officier ou l'agent de police judiciaire qui
 a procédé aux constatations en application de l'article L. 327-4, le ministre de l'intérieur informe le titulaire que son
 véhicule n'est plus autorisé à circuler sur les voies ouvertes à la circulation publique et procède à l'inscription d'une
-opposition au transfert du certificat d'immatriculation. 
+opposition au transfert du certificat d'immatriculation.
 
 II.-Lorsque le véhicule est examiné par un expert en automobile justifiant de la qualification prévue à l'article R. 326-17,
 afin de confirmer ou d'infirmer la présomption de dangerosité du véhicule, celui-ci établit un rapport qu'il adresse au
-ministre de l'intérieur soit par l'intermédiaire du préfet du département de son choix, soit par voie électronique s'il y est
-habilité par le ministre de l'intérieur. 
+ministre de l'intérieur par voie électronique.
 
 III.-Dans le cas où l'expert infirme la présomption de dangerosité, le certificat d'immatriculation est restitué à son
-titulaire et l'interdiction de circuler et l'opposition au transfert du certificat d'immatriculation sont levées. 
+titulaire et l'interdiction de circuler et l'opposition au transfert du certificat d'immatriculation sont levées.
 
 Dans le cas où l'expert confirme la présomption de dangerosité, son rapport comporte la liste des réparations à effectuer si
-le véhicule est techniquement réparable. 
+le véhicule est techniquement réparable.
 
 IV.-Lorsque l'expert justifiant de la qualification prévue à l'article R. 326-17, missionné par le propriétaire, atteste que
 les réparations touchant à la sécurité prévues par le premier rapport ont été effectuées et que le véhicule est en état de
-circuler dans des conditions normales de sécurité, il adresse un rapport au ministre de l'intérieur soit par l'intermédiaire
-du préfet du département de son choix, soit par voie électronique s'il est habilité par le ministre de l'intérieur. 
+circuler dans des conditions normales de sécurité, il adresse un rapport au ministre de l'intérieur par voie électronique.
 
 Ce rapport d'expertise mentionné au troisième alinéa de l'article L. 327-4 atteste également que le véhicule n'a pas subi de
 transformation notable au sens de l'article R. 321-16, ni de transformation susceptible de modifier les caractéristiques
-indiquées sur le certificat d'immatriculation. 
+indiquées sur le certificat d'immatriculation.
 
 Le certificat d'immatriculation est restitué à son titulaire et l'interdiction de circuler et l'opposition au transfert du
 certificat d'immatriculation sont levées.
@@ -30361,14 +30393,14 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-397 du 10 avril 2009 - art. 4
+  - Décret n°2017-1278 du 9 août 2017 - art. 12
 
 _Cite_:
 
-  - Code de la route. - art. L327-1 (V)
-  - Code de la route. - art. L327-4 (V)
-  - Code de la route. - art. R321-16 (V)
-  - Code de la route. - art. R326-17 (Ab)
+  - Code de la route. - art. L327-1
+  - Code de la route. - art. L327-4
+  - Code de la route. - art. R321-16
+  - Code de la route. - art. R326-17
 
 _Cité par_:
 
@@ -30378,22 +30410,20 @@ _Cité par_:
 
 ###### Article R327-3
 
-I.-L'information prévue par l'article L. 327-5 est adressée au ministre de l'intérieur soit par l'intermédiaire du préfet de
-département de son choix, soit par voie électronique si l'expert est habilité par le ministre de l'intérieur. 
+I.-L'information prévue par l'article L. 327-5 est adressée au ministre de l'intérieur par voie électronique.
 
 Le ministre de l'intérieur informe le titulaire que son véhicule n'est plus autorisé à circuler sur les voies ouvertes à la
-circulation publique et procède à l'inscription d'une opposition au transfert du certificat d'immatriculation. 
+circulation publique et procède à l'inscription d'une opposition au transfert du certificat d'immatriculation.
 
-II.-Si le véhicule est techniquement réparable, l'expert précise la liste des réparations à effectuer. 
+II.-Si le véhicule est techniquement réparable, l'expert précise la liste des réparations à effectuer.
 
 III.-Lorsque l'expert justifiant de la qualification prévue à l'article R. 326-17, missionné par le propriétaire, atteste que
 les réparations touchant à la sécurité prévues par le premier rapport ont été effectuées et que le véhicule est en état de
-circuler dans des conditions normales de sécurité, il adresse un rapport au ministre de l'intérieur soit par l'intermédiaire
-du préfet du département de son choix, soit par voie électronique s'il est habilité par le ministre de l'intérieur. 
+circuler dans des conditions normales de sécurité, il adresse un rapport au ministre de l'intérieur par voie électronique.
 
 Ce rapport d'expertise mentionné au deuxième alinéa de l'article L. 327-5 atteste également que le véhicule n'a pas subi de
 transformation notable au sens de l'article R. 321-16, ni de transformation susceptible de modifier les caractéristiques
-indiquées sur le certificat d'immatriculation. 
+indiquées sur le certificat d'immatriculation.
 
 IV.-Au vu du rapport visé au III du présent article, l'interdiction de circuler du véhicule et l'opposition au transfert du
 certificat d'immatriculation sont levées.
@@ -30407,20 +30437,19 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-397 du 10 avril 2009 - art. 4
+  - Décret n°2017-1278 du 9 août 2017 - art. 13
 
 _Cite_:
 
-  - Code de la route. - art. L327-5 (V)
-  - Code de la route. - art. R321-16 (V)
-  - Code de la route. - art. R326-17 (Ab)
+  - Code de la route. - art. L327-5
+  - Code de la route. - art. R321-16
+  - Code de la route. - art. R326-17
 
 
 ###### Article R327-4
 
 Dans le cadre des dispositions des articles L. 327-1 à L. 327-5, un professionnel ayant acquis un véhicule endommagé doit,
-dans les quinze jours, adresser une déclaration d'achat au ministre de l'intérieur soit par l'intermédiaire du préfet du
-département de son choix, soit par voie électronique s'il est habilité par le ministre de l'intérieur.
+dans les quinze jours, adresser une déclaration d'achat au ministre de l'intérieur par voie électronique.
 
 **Liens relatifs à cet article**
 
@@ -30430,11 +30459,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-397 du 10 avril 2009 - art. 4
+  - Décret n°2017-1278 du 9 août 2017 - art. 14
 
 _Cite_:
 
-  - Code de la route. - art. L327-1 (V)
+  - Code de la route. - art. L327-1
 
 _Nouveaux textes_:
 
@@ -30505,19 +30534,22 @@ _Nouveaux textes_:
 
 ###### Article R330-1
 
-Le préfet du département dans lequel ont été délivrées les pièces administratives exigées pour la circulation d'un véhicule
-fait procéder à l'enregistrement des informations prévues à l'article L. 330-1.
+Le ministre de l'intérieur fait procéder à l'enregistrement des informations prévues à l'article L. 330-1.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
   - Décret n°2004-794 du 29 juillet 2004 - art. 4 (V)
   - Arrêté du 10 février 2009 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-1278 du 9 août 2017 - art. 15
 
 _Anciens textes_:
 
@@ -30526,7 +30558,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L330-1 (V)
+  - Code de la route. - art. L330-1
 
 
 ###### Article R330-2
@@ -30602,8 +30634,8 @@ _Cite_:
 ###### Article R330-4
 
 La communication des informations visées aux articles L. 330-2 à L. 330-4 aux demandeurs autorisés par ces articles à les
-solliciter et non mentionnés aux articles R. 330-2 et R. 330-3 est effectuée par le préfet du département dans lequel le
-véhicule a été immatriculé. 
+solliciter et non mentionnés aux articles R. 330-2 et R. 330-3 est effectuée par le          ministre de l'intérieur par voie
+électronique. 
 
 Les entreprises d'assurances ou organismes assimilés à ces entreprises doivent notamment fournir à l'appui de leur demande le
 numéro et la date de la police d'assurance ainsi que le numéro d'inscription de la déclaration du sinistre. 
@@ -30621,7 +30653,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-10 du 3 janvier 2013 - art. 2
+  - Décret n°2017-1278 du 9 août 2017 - art. 16
 
 _Anciens textes_:
 
@@ -30631,20 +30663,28 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L330-2
-  - Code de la route. - art. R330-2 (V)
+  - Code de la route. - art. R330-2
 
 
 ###### Article R330-5
 
 La communication des informations prévues aux articles L. 330-2 à L. 330-4 aux demandeurs qui disposent d'un droit d'accès en
-vertu d'une disposition législative particulière est assurée par le préfet du département dans lequel le véhicule a été
-immatriculé ou par les services de la police nationale ou de la gendarmerie territorialement compétents.
+vertu d'une disposition législative particulière est assurée par le         ministre de l'intérieur par voie électronique ou
+par les services de la police nationale ou de la gendarmerie territorialement compétents.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2017-1278 du 9 août 2017 - art. 17
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2018-387 du 24 mai 2018 - art. 3
 
 _Anciens textes_:
 
@@ -30653,7 +30693,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L330-2 (V)
+  - Code de la route. - art. L330-2
 
 _Nouveaux textes_:
 
@@ -30694,12 +30734,13 @@ _Anciens textes_:
 
 ###### Article R330-7
 
-Les personnes souhaitant bénéficier des dispositions des trois derniers alinéas de l'article L. 330-5 demandent au ministre
-de l'intérieur la délivrance d'une licence dans les conditions prévues aux articles L. 323-1 et L. 323-2 du code des
-relations entre le public et l'administration. La licence vaut agrément au sens de l'article L. 330-5. 
+Les personnes souhaitant bénéficier des dispositions des cinq derniers alinéas de l'article L. 330-5 demandent au ministre de
+l'intérieur la délivrance d'une licence dans les conditions prévues aux articles L. 323-1 et L. 323-2 du code des relations
+entre le public et l'administration. La licence vaut agrément au sens de l'article L. 330-5.
 
 La licence est dite statistique si elle est demandée aux fins prévues au troisième alinéa de l'article L. 330-5. Elle est
-dite commerciale si elle est demandée aux fins prévues à son quatrième alinéa.
+dite commerciale si elle est demandée aux fins prévues à son quatrième alinéa. Elle est dite technique si elle est demandée
+aux fins prévues à son cinquième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -30710,13 +30751,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art. 4 (V)
+  - Décret n°2017-1278 du 9 août 2017 - art. 18
 
 _Cite_:
 
-  - Code de la route. - art. L330-5 (V)
-  - Code des relations entre le public et l'adminis... - art. L323-1 (V)
-  - Code des relations entre le public et l'adminis... - art. L323-2 (V)
+  - Code de la route. - art. L330-5
+  - Code des relations entre le public et l'administration - art. L323-1
+  - Code des relations entre le public et l'administration - art. L323-2
 
 
 ###### Article R330-8
@@ -30786,9 +30827,9 @@ droits qu'elle tient de l'article 38 de la loi n° 78-17 du 6 janvier 1978 relat
 libertés, et mise en mesure de les exercer. 
 
 II. ― Lorsque les informations mentionnées à l'article L. 330-1 sont déjà enregistrées, toute personne physique peut
-s'opposer, auprès       du préfet du département de son choix, à la communication à des tiers des données à caractère
-personnel la concernant, en vue de leur réutilisation à des fins d'enquêtes et de prospections commerciales. Cette opposition
-est notifiée sans délai aux détenteurs d'une licence commerciale.
+s'opposer, auprès du     ministre de l'intérieur par voie électronique, à la communication à des tiers des données à
+caractère personnel la concernant, en vue de leur réutilisation à des fins d'enquêtes et de prospections commerciales. Cette
+opposition est notifiée sans délai aux détenteurs d'une licence commerciale.
 
 **Liens relatifs à cet article**
 
@@ -30804,7 +30845,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-477 du 2 mai 2011 - art. 1
+  - Décret n°2017-1278 du 9 août 2017 - art. 19
 
 
 ### Titre IV : Dispositions relatives à l'outre-mer.<a id=166></a>
@@ -32328,13 +32369,83 @@ _Créé par_:
   - Décret n°2007-1626 du 16 novembre 2007 - art. 14 () JORF 18 novembre 2007
 
 
-## Livre IV : L'usage des voies.<a id=177></a>
+### Titre V :  Dispositions relatives aux démarches effectuées par voie électronique<a id=177></a>
 
-### Titre Ier : Dispositions générales.<a id=178></a>
+###### Article R350-1
 
-#### Chapitre Ier : Pouvoirs de police de la circulation<a id=179></a>
+L'accomplissement des démarches par voie électronique prévues aux chapitres II et VII du titre II ainsi qu'au titre III est
+subordonné à la justification, par l'usager, de son identité dans les conditions fixées par l'article R. 112-9-1 du code des
+relations entre le public et l'administration.
 
-##### Section 1 : Pouvoirs généraux de police.<a id=180></a>
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1278 du 9 août 2017 - art. 20
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. R112-9-1 (V)
+
+
+###### Article R350-2
+
+A défaut de pouvoir faire lui-même une démarche par voie électronique, l'usager peut bénéficier d'un accès à un dispositif
+connecté au site de la démarche considérée et d'une assistance numérique, mis en place par l'administration.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2008-1455 du 30 décembre 2008 - art. 2 (VD)
+  - Décret n°2018-795 du 17 septembre 2018 - art. 21 (V)
+
+_Créé par_:
+
+  - Décret n°2017-1278 du 9 août 2017 - art. 20
+
+
+###### Article R350-3
+
+A l'occasion des démarches par voie électronique prévues au I de l'article R. 322-5, au I de l'article R. 322-6, au I de
+l'article R. 322-8 et au I de l'article R. 327-1, le certificat d'immatriculation du véhicule et, s'il existe, le coupon,
+sont conservés pendant cinq ans par le propriétaire qui les tient à la disposition du ministre de l'intérieur. Le fait,
+pendant la période de cinq ans, de ne pas être en mesure de présenter au ministre de l'intérieur le certificat
+d'immatriculation du véhicule, et, s'il existe, le coupon, est puni de l'amende prévue pour les contraventions de la
+quatrième classe.
+
+A l'issue de la période de cinq ans, le certificat d'immatriculation du véhicule, et, s'il existe, le coupon, sont détruits
+par le propriétaire.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 9 février 2009 - art. 13 (VD)
+  - Arrêté du 9 février 2009 - art. 3 (VD)
+  - Arrêté du 13 octobre 2017 - art. 10
+  - Arrêté du 13 octobre 2017 - art. 4
+  - Code de la route. - art. R322-9 (V)
+
+_Créé par_:
+
+  - Décret n°2017-1278 du 9 août 2017 - art. 20
+
+_Cite_:
+
+  - Code de la route. - art. R322-5 (V)
+  - Code de la route. - art. R322-6 (V)
+  - Code de la route. - art. R322-8 (V)
+  - Code de la route. - art. R327-1 (V)
+
+
+## Livre IV : L'usage des voies.<a id=178></a>
+
+### Titre Ier : Dispositions générales.<a id=179></a>
+
+#### Chapitre Ier : Pouvoirs de police de la circulation<a id=180></a>
+
+##### Section 1 : Pouvoirs généraux de police.<a id=181></a>
 
 ###### Article R411-1
 
@@ -32685,26 +32796,29 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Commission départementale de la sécurité routière.<a id=181></a>
+##### Section 2 : Commission départementale de la sécurité routière.<a id=182></a>
 
 ###### Article R411-10
 
-I. - La commission départementale de la sécurité routière est consultée préalablement à toute décision prise en matière :
+I.-La commission départementale de la sécurité routière est consultée préalablement à toute décision prise en matière : 
 
-1° (Abrogé)
+1° (Abrogé) 
 
-2° (Abrogé)
+2° (Abrogé) 
 
-3° D'autorisation d'organisation de manifestations sportives, dans les conditions prévues aux articles R. 331-11 et R. 331-26
-du code du sport ;
+3° D'autorisation d'organisation de manifestations sportives, dans les conditions prévues à l'article R. 331-26 du code du
+sport ; 
 
-4° D'agrément des gardiens et des installations de fourrière.
+4° D'agrément des gardiens et des installations de fourrière. 
 
-II. - La commission peut également être consultée sur tout autre sujet relatif à la sécurité routière, tel que :
+II.-La commission peut également être consultée sur tout autre sujet relatif à la sécurité routière, tel que :
 
 - la mise en place d'itinéraires de déviation pour les poids lourds ;
 
-- l'harmonisation des limitations de vitesse des véhicules sur les voies ouvertes à la circulation publique.
+- l'harmonisation des limitations de vitesse des véhicules sur les voies ouvertes à la circulation publique ;
+
+- les déclarations d'épreuves, courses ou manifestations sportives devant se disputer en totalité ou en partie sur les voies
+ouvertes à la circulation publique.
 
 **Liens relatifs à cet article**
 
@@ -32718,11 +32832,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1537 du 25 novembre 2015 - art. 8
+  - Décret n°2017-1279 du 9 août 2017 - art. 27
 
 _Cite_:
 
-  - Code du sport. - art. R331-11
   - Code du sport. - art. R331-26
 
 _Cité par_:
@@ -32776,7 +32889,10 @@ Des formations spécialisées peuvent être constituées par le président de la
 au sein de cette commission pour exercer chacune des attributions qui lui sont dévolues par le I de l'article R. 411-10. 
 
 Elles comprennent au moins un représentant des catégories visées aux 1°, 2°, 3° et 5° de l'article R. 411-11 et au moins
-trois représentants de la catégorie visée au 4° du même article. 
+trois représentants de la catégorie visée au 4° du même article. Lorsque l'avis de la commission porte sur une autorisation
+de manifestation sportive motorisée ou sur une homologation de circuit, dans les conditions prévues respectivement aux
+articles R. 331-26 et R. 331-37du code du sport, la formation spécialisée comprend au moins un représentant de la fédération
+sportive délégataire concernée. 
 
 Pour l'exercice des compétences consultatives mentionnées au II de l'article R. 411-10, le président de la commission peut
 associer à ses travaux des représentants des gestionnaires des voies concernées.
@@ -32793,15 +32909,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-537 du 20 avril 2012 - art. 2
+  - Décret n°2017-1279 du 9 août 2017 - art. 28
 
 _Cite_:
 
+  - Code du sport. - art. R331-26 (V)
+  - Code du sport. - art. R331-37 (V)
   - Code de la route. - art. R411-10
   - Code de la route. - art. R411-11
 
 
-##### Section 3 : Interdictions et restrictions de circulation.<a id=182></a>
+##### Section 3 : Interdictions et restrictions de circulation.<a id=183></a>
 
 ###### Article R411-17
 
@@ -33299,7 +33417,7 @@ _Cité par_:
   - Code de la route. - art. R442-6 (V)
 
 
-##### Section 4 : Signalisation routière.<a id=183></a>
+##### Section 4 : Signalisation routière.<a id=184></a>
 
 ###### Article R411-25
 
@@ -33434,18 +33552,19 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 5 : Courses et épreuves sportives.<a id=184></a>
+##### Section 5 : Courses et épreuves sportives.<a id=185></a>
 
 ###### Article R411-29
 
 L'organisation des épreuves, courses ou compétitions sportives devant se disputer en totalité ou en partie sur les voies
-ouvertes à la circulation publique est soumise à autorisation administrative délivrée dans les conditions prévues à la
-section 4 du chapitre 1er du titre III du livre III du code du sport. 
+ouvertes à la circulation publique est soumise aux dispositions prévues à la section 4 du chapitre Ier du titre III du livre
+III du code du sport. 
 
 Par dérogation aux dispositions de l'article R. 322-1, la circulation sur la voie publique ou ouverte à la circulation
-publique d'un véhicule à moteur destiné à participer à une manifestation sportive entrant dans le cadre de l'article R.
-331-18 du code du sport, non réceptionné ou qui n'est plus conforme à sa réception d'origine telle que prévue aux articles R.
-321-1 et suivants, est autorisée sur un parcours de liaison tel que défini à l'article R. 331-21 (4°) du code du sport. 
+publique d'un véhicule à moteur destiné à participer à une manifestation sportive entrant dans le cadre des articles R.
+331-18 et R. 331-20 du code du sport, non réceptionné ou qui n'est plus conforme à sa réception d'origine telle que prévue
+aux articles R. 321-1 et suivants, est autorisée sur un parcours de liaison tel que défini à l'article R. 331-21 (4°) du code
+du sport. 
 
 Cette autorisation est valide sous réserve d'une inscription à une manifestation sportive organisée conformément à l'article
 R. 331-26 du code du sport. 
@@ -33467,11 +33586,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-312 du 5 mars 2012 - art. 5
+  - Décret n°2017-1279 du 9 août 2017 - art. 29
 
 _Cite_:
 
   - Code du sport. - art. R331-18
+  - Code du sport. - art. R331-20
   - Code du sport. - art. R331-21
   - Code du sport. - art. R331-26
   - Code de la route. - art. R322-1
@@ -33491,8 +33611,9 @@ _Cité par_:
 
 L'autorité administrative compétente pour exercer le pouvoir de police en matière de circulation routière peut réglementer la
 circulation, l'interdire temporairement en cas de nécessité et prévoir que l'épreuve, la course ou la compétition sportive
-bénéficie d'une priorité de passage portée à la connaissance des usagers par une signalisation appropriée, définie par arrêté
-du ministre de l'intérieur, du ministre chargé des transports et du ministre chargé des sports.
+bénéficie d'une priorité de passage ou d'un usage exclusif temporaire de la chaussée portée à la connaissance des usagers par
+une signalisation appropriée, définie par arrêté du ministre de l'intérieur, du ministre chargé des transports et du ministre
+chargé des sports.
 
 Le fait de contrevenir aux restrictions de circulation édictées en vertu du présent article à l'occasion des épreuves,
 courses ou compétitions sportives est puni de l'amende prévue pour les contraventions de la quatrième classe.
@@ -33501,7 +33622,7 @@ courses ou compétitions sportives est puni de l'amende prévue pour les contrav
 
 _Modifié par_:
 
-  - Décret n°2010-773 du 8 juillet 2010 - art. 4
+  - Décret n°2017-1279 du 9 août 2017 - art. 30
 
 _Cité par_:
 
@@ -33524,12 +33645,12 @@ _Anciens textes_:
 
 ###### Article R411-31
 
-L'autorisation peut être subordonnée à l'agrément par l'autorité administrative de représentants de la fédération sportive ou
-de la personne physique ou morale qui organise l'épreuve, la course ou la compétition sportive. Les représentants qui doivent
-être majeurs et titulaires du permis de conduire sont chargés, sur l'itinéraire emprunté, de signaler l'épreuve, la course ou
-la compétition sportive aux usagers de la route. Ils portent des signes vestimentaires permettant de les identifier. Dans
-l'accomplissement de leur mission, ils sont tenus de se conformer aux instructions des membres des forces de police ou de
-gendarmerie territorialement compétents. Ils leur rendent compte des incidents qui peuvent survenir. 
+L'autorité administrative peut agréer des représentants de la fédération ou de la personne physique ou morale qui organise
+l'épreuve, la course ou la compétition sportive. Les représentants qui doivent être majeurs et titulaires du permis de
+conduire sont chargés, sur l'itinéraire emprunté, de signaler l'épreuve, la course ou la compétition sportive aux usagers de
+la route. Ils portent des signes vestimentaires permettant de les identifier. Dans l'accomplissement de leur mission, ils
+sont tenus de se conformer aux instructions des membres des forces de police ou de gendarmerie territorialement compétents.
+Ils leur rendent compte des incidents qui peuvent survenir.
 
 Le fait pour tout usager de contrevenir aux indications des représentants mentionnés à l'alinéa précédent et mettant en œuvre
 les mesures de circulation édictées en vertu de l'article R. 411-30 à l'occasion des épreuves, courses ou compétitions
@@ -33543,7 +33664,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-312 du 5 mars 2012 - art. 5
+  - Décret n°2017-1279 du 9 août 2017 - art. 31
 
 _Cité par_:
 
@@ -33591,9 +33712,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=185></a>
+#### Chapitre II : Conduite des véhicules et circulation des piétons<a id=186></a>
 
-##### Section 1 : Equipements des utilisateurs de véhicules.<a id=186></a>
+##### Section 1 : Equipements des utilisateurs de véhicules.<a id=187></a>
 
 ###### Article R412-1
 
@@ -33814,7 +33935,7 @@ _Cite_:
   - Code de la route. - art. R412-1 (V)
 
 
-##### Section 2 : Principes généraux de circulation.<a id=187></a>
+##### Section 2 : Principes généraux de circulation.<a id=188></a>
 
 ###### Article R412-6
 
@@ -34010,13 +34131,13 @@ _Anciens textes_:
 ###### Article R412-9
 
 En marche normale, tout conducteur doit maintenir son véhicule près du bord droit de la chaussée, autant que le lui permet
-l'état ou le profil de celle-ci.
+l'état ou le profil de celle-ci. 
 
 Toutefois, un conducteur qui pénètre sur un carrefour à sens giratoire comportant plusieurs voies de circulation en vue
-d'emprunter une sortie située sur sa gauche par rapport à son axe d'entrée peut serrer à gauche.
+d'emprunter une sortie située sur sa gauche par rapport à son axe d'entrée peut serrer à gauche. 
 
 Chaque manoeuvre de changement de voie à l'intérieur du carrefour à sens giratoire reste soumise aux règles de la priorité et
-doit être signalée aux autres conducteurs.
+doit être signalée aux autres conducteurs. 
 
 Un conducteur de cycle peut s'éloigner du bord droit de la chaussée lorsqu'une trajectoire matérialisée pour les cycles,
 signalisée en application des dispositions de l'article R. 411-25, le permet. 
@@ -34026,16 +34147,19 @@ stationnement sur le bord droit de la chaussée, d'une distance nécessaire à s
 
 Sous réserve des dispositions des quatrième et cinquième alinéas du présent article, le fait, pour tout conducteur, de ne pas
 maintenir, en marche normale, son véhicule près du bord droit de la chaussée est puni de l'amende prévue pour les
-contraventions de la deuxième classe.
+contraventions de la deuxième classe. 
 
 Le fait, pour tout conducteur, de circuler, en marche normale, sur la partie gauche d'une chaussée à double sens de
-circulation est puni de l'amende prévue pour les contraventions de la quatrième classe.
+circulation est puni de l'amende prévue pour les contraventions de la quatrième classe. 
 
 Tout conducteur coupable de cette dernière infraction encourt également la peine complémentaire de suspension du permis de
 conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle.
+professionnelle. 
 
-Cette dernière contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+Cette dernière contravention donne lieu de plein droit à la réduction de trois points du permis de conduire. 
+
+Les dispositions du présent article ne s'appliquent pas aux représentants mentionnés à l'article R. 411-31 dans les cas
+prévus à l'article R. 414-3-1.
 
 **Liens relatifs à cet article**
 
@@ -34051,7 +34175,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-808 du 2 juillet 2015 - art. 3
+  - Décret n°2017-1279 du 9 août 2017 - art. 32
 
 _Anciens textes_:
 
@@ -34061,6 +34185,12 @@ _Anciens textes_:
   - Code de la route - art. R28-2 (Ab)
   - Code de la route - art. R4 (Ab)
   - Code de la route R4, R28-2, R232 (al. 1 et 2), R233 (al. 1 et 2), R256 3°
+
+_Cite_:
+
+  - Code de la route. - art. R411-25
+  - Code de la route. - art. R411-31
+  - Code de la route. - art. R414-3-1 (V)
 
 
 ###### Article R412-10
@@ -34344,7 +34474,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Matérialisation des voies de circulation.<a id=188></a>
+##### Section 3 : Matérialisation des voies de circulation.<a id=189></a>
 
 ###### Article R412-18
 
@@ -34599,7 +34729,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 4 : Sens de circulation.<a id=189></a>
+##### Section 4 : Sens de circulation.<a id=190></a>
 
 ###### Article R412-26
 
@@ -34704,7 +34834,7 @@ _Créé par_:
   - Décret n°2015-808 du 2 juillet 2015 - art. 5
 
 
-##### Section 5 : Feux de signalisation lumineux.<a id=190></a>
+##### Section 5 : Feux de signalisation lumineux.<a id=191></a>
 
 ###### Article R412-29
 
@@ -34878,7 +35008,7 @@ _Cite_:
   - Code de la route. - art. R433-17 (V)
 
 
-##### Section 6 : Circulation des piétons.<a id=191></a>
+##### Section 6 : Circulation des piétons.<a id=192></a>
 
 ###### Article R412-34
 
@@ -35197,7 +35327,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=192></a>
+##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=193></a>
 
 ###### Article R412-44
 
@@ -35391,7 +35521,7 @@ _Anciens textes_:
   - Code de la route R223, R233 (al. 1 et 2)
 
 
-##### Section 8 : Troubles à la circulation.<a id=193></a>
+##### Section 8 : Troubles à la circulation.<a id=194></a>
 
 ###### Article R412-51
 
@@ -35459,9 +35589,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Vitesse<a id=194></a>
+#### Chapitre III : Vitesse<a id=195></a>
 
-##### Section 1 : Vitesses maximales autorisées.<a id=195></a>
+##### Section 1 : Vitesses maximales autorisées.<a id=196></a>
 
 ###### Article R413-1
 
@@ -36110,7 +36240,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Maîtrise de la vitesse.<a id=196></a>
+##### Section 2 : Maîtrise de la vitesse.<a id=197></a>
 
 ###### Article R413-17
 
@@ -36238,9 +36368,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre IV : Croisement et dépassement<a id=197></a>
+#### Chapitre IV : Croisement et dépassement<a id=198></a>
 
-##### Section 1 : Croisement.<a id=198></a>
+##### Section 1 : Croisement.<a id=199></a>
 
 ###### Article R414-1
 
@@ -36351,7 +36481,39 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Dépassement.<a id=199></a>
+###### Article R414-3-1
+
+Lorsqu'une épreuve, une course ou une compétition sportive bénéficie de l'usage exclusif temporaire de la chaussée, prévu au
+premier alinéa de l'article R. 411-30, tout conducteur d'un véhicule ou d'un engin qui circule sur la chaussée doit laisser
+le passage, s'arrêter ou se garer. 
+
+La personne physique ou morale qui organise l'épreuve, la course ou la compétition sportive doit signaler, par un dispositif
+approprié et adapté au déroulement de l'épreuve, le passage de la manifestation sportive aux autres usagers de la chaussée,
+par l'intermédiaire des représentants mentionnés à l'article R. 411-31. 
+
+Les conducteurs visés au premier alinéa ne peuvent reprendre leur marche qu'au signalement des représentants mentionnés au
+deuxième alinéa ou après le passage du véhicule signalant la fin de la manifestation. 
+
+Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
+contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 33
+
+_Cite_:
+
+  - Code de la route. - art. R411-30
+  - Code de la route. - art. R411-31
+
+_Cité par_:
+
+  - Code de la route. - art. R412-9 (V)
+
+
+##### Section 2 : Dépassement.<a id=200></a>
 
 ###### Article R414-4
 
@@ -36873,7 +37035,7 @@ _Cité par_:
   - Code de la route. - art. R442-2 (V)
 
 
-#### Chapitre V : Intersections et priorité de passage.<a id=200></a>
+#### Chapitre V : Intersections et priorité de passage.<a id=201></a>
 
 ###### Article R415-1
 
@@ -37406,9 +37568,9 @@ _Anciens textes_:
   - Code de la route R28-1 (al. 3 à 6)
 
 
-#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=201></a>
+#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=202></a>
 
-##### Section 1 : Emploi des avertisseurs.<a id=202></a>
+##### Section 1 : Emploi des avertisseurs.<a id=203></a>
 
 ###### Article R416-1
 
@@ -37492,7 +37654,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=203></a>
+##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=204></a>
 
 ###### Article R416-4
 
@@ -37915,7 +38077,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres dispositions.<a id=204></a>
+##### Section 3 : Autres dispositions.<a id=205></a>
 
 ###### Article R416-17
 
@@ -38072,9 +38234,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VII : Arrêt et stationnement<a id=205></a>
+#### Chapitre VII : Arrêt et stationnement<a id=206></a>
 
-##### Section 1 : Dispositions générales.<a id=206></a>
+##### Section 1 : Dispositions générales.<a id=207></a>
 
 ###### Article R417-1
 
@@ -38343,7 +38505,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=207></a>
+##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=208></a>
 
 ###### Article R417-9
 
@@ -38646,7 +38808,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=208></a>
+#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=209></a>
 
 ###### Article R418-1
 
@@ -38948,9 +39110,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=209></a>
+### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=210></a>
 
-#### Chapitre Ier : Autoroutes.<a id=210></a>
+#### Chapitre Ier : Autoroutes.<a id=211></a>
 
 ###### Article R421-1
 
@@ -39314,7 +39476,7 @@ _Créé par_:
   - Décret n°2012-953 du 1er août 2012 - art. 1
 
 
-#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=211></a>
+#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=212></a>
 
 ###### Article R422-1
 
@@ -39501,9 +39663,9 @@ _Créé par_:
   - Décret n°2012-953 du 1er août 2012 - art. 2
 
 
-### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=212></a>
+### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=213></a>
 
-#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=213></a>
+#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=214></a>
 
 ###### Article R431-1
 
@@ -39884,9 +40046,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Véhicules d'intérêt général<a id=214></a>
+#### Chapitre II : Véhicules d'intérêt général<a id=215></a>
 
-##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=215></a>
+##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=216></a>
 
 ###### Article R432-1
 
@@ -40137,7 +40299,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R442-7 (V)
 
 
-##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=216></a>
+##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=217></a>
 
 ###### Article R432-2
 
@@ -40465,7 +40627,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres véhicules d'intérêt général.<a id=217></a>
+##### Section 3 : Autres véhicules d'intérêt général.<a id=218></a>
 
 ###### Article R432-5
 
@@ -40574,9 +40736,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=218></a>
+#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=219></a>
 
-##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=219></a>
+##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=220></a>
 
 ###### Article R433-1
 
@@ -41017,7 +41179,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Transports exceptionnels de personnes.<a id=220></a>
+##### Section 2 : Transports exceptionnels de personnes.<a id=221></a>
 
 ###### Article R433-7
 
@@ -41090,7 +41252,7 @@ _Cité par_:
   - Code de la route. - art. R322-2 (V)
 
 
-##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=221></a>
+##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=222></a>
 
 ###### Article R433-8
 
@@ -41136,7 +41298,7 @@ _Cite_:
   - Code de la route. - art. L325-1
 
 
-##### Section 4 : Transports de bois ronds<a id=222></a>
+##### Section 4 : Transports de bois ronds<a id=223></a>
 
 ###### Article R433-9
 
@@ -41380,7 +41542,7 @@ _Cite_:
   - Code de la route. - art. L325-1
 
 
-##### Section 5 : Accompagnement des transports exceptionnels.<a id=223></a>
+##### Section 5 : Accompagnement des transports exceptionnels.<a id=224></a>
 
 ###### Article R433-17
 
@@ -41537,7 +41699,7 @@ _Cité par_:
   - Code de la route. - art. R130-6 (V)
 
 
-#### Chapitre IV : Convois et véhicules à traction animale.<a id=224></a>
+#### Chapitre IV : Convois et véhicules à traction animale.<a id=225></a>
 
 ###### Article R434-1
 
@@ -41670,9 +41832,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre V : Autres véhicules<a id=225></a>
+#### Chapitre V : Autres véhicules<a id=226></a>
 
-##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=226></a>
+##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=227></a>
 
 ###### Article R435-1
 
@@ -41753,7 +41915,7 @@ _Cité par_:
   - Code de la route. - art. R433-1 (VD)
 
 
-##### Section 2 : Ensembles forains<a id=227></a>
+##### Section 2 : Ensembles forains<a id=228></a>
 
 ###### Article R435-3
 
@@ -41794,7 +41956,7 @@ _Anciens textes_:
   - Code de la route. - art. R436-1 (T)
 
 
-##### Section 3 : Véhicules automoteurs spéciaux<a id=228></a>
+##### Section 3 : Véhicules automoteurs spéciaux<a id=229></a>
 
 ###### Article R435-4
 
@@ -41915,9 +42077,9 @@ _Cite_:
   - Code de la route. - art. R311-1 (V)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=229></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=230></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=230></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=231></a>
 
 ###### Article R441-1
 
@@ -42047,7 +42209,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=231></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=232></a>
 
 ###### Article R442-1
 
@@ -42260,13 +42422,13 @@ _Cite_:
   - Code de la route. - art. R433-5 (V)
 
 
-# Partie arrêtés<a id=232></a>
+# Partie arrêtés<a id=233></a>
 
-## Livre 1er : Dispositions générales<a id=233></a>
+## Livre 1er : Dispositions générales<a id=234></a>
 
-### Titre 2 : Responsabilité<a id=234></a>
+### Titre 2 : Responsabilité<a id=235></a>
 
-#### Chapitre 1er : Responsabilité pénale<a id=235></a>
+#### Chapitre 1er : Responsabilité pénale<a id=236></a>
 
 ###### Article A121-1
 
@@ -42376,9 +42538,9 @@ _Cité par_:
   - Code de la route. - art. A143-1 (VD)
 
 
-### Titre 4 : Dispositions relatives à l'outre-mer<a id=236></a>
+### Titre 4 : Dispositions relatives à l'outre-mer<a id=237></a>
 
-#### Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna<a id=237></a>
+#### Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna<a id=238></a>
 
 ###### Article A143-1
 
