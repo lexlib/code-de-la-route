@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-11-04
+Version Consolidée au 2017-11-05
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -10757,31 +10757,31 @@ _Cité par_:
 Les agents de police judiciaire adjoints mentionnés au 1° quater de l'article 21 du code de procédure pénale peuvent
 constater par procès-verbal, lorsqu'elles sont commises à l'intérieur du territoire de la ville de Paris, les contraventions
 aux dispositions du présent code, à l'exception de celles prévues aux articles R. 121-1 à R. 121-5, R. 221-18, R. 222-2, R.
-222-3, R. 234-1, R. 314-2, R. 321-4 (alinéas 1 à 4), R. 411-32, R. 412-17, R. 412-51, R. 412-52 et R. 413-15.
+234-1, R. 314-2, R. 321-4 (alinéas 1 à 4), R. 411-32, 
+R. 412-17, R. 412-51, R. 412-52 et R. 413-15.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2005-320 du 30 mars 2005 - art. 1 () JORF 6 avril 2005
+  - Décret n°2017-1523 du 3 novembre 2017 - art. 2
 
 _Cite_:
 
-  - Code de procédure pénale - art. 21 (V)
-  - Code de la route. - art. R121-1 (V)
-  - Code de la route. - art. R221-18 (V)
-  - Code de la route. - art. R222-3 (VT)
-  - Code de la route. - art. R234-1 (V)
-  - Code de la route. - art. R314-2 (V)
-  - Code de la route. - art. R321-4 (V)
-  - Code de la route. - art. R411-32 (V)
+  - Code de procédure pénale - art. 21
+  - Code de la route. - art. R121-1
+  - Code de la route. - art. R221-18
+  - Code de la route. - art. R234-1
+  - Code de la route. - art. R314-2
+  - Code de la route. - art. R321-4
+  - Code de la route. - art. R411-32
   - Code de la route. - art. R412-17 (V)
-  - Code de la route. - art. R412-51 (V)
-  - Code de la route. - art. R413-15 (V)
+  - Code de la route. - art. R412-51
+  - Code de la route. - art. R413-15
 
 _Cité par_:
 
@@ -10795,13 +10795,13 @@ Les agents de police judiciaire adjoints mentionnés au 2° de l'article 21 du c
 procès-verbal, lorsqu'elles sont commises à l'intérieur du territoire communal sur les voies autres que les autoroutes, les
 contraventions aux articles R. 644-2 et R. 653-1 du code pénal commises à l'occasion de la conduite d'un véhicule, les
 contraventions aux dispositions du présent code à l'exception de celles prévues aux articles R. 121-1 à R. 121-5, 
-R. 221-18, R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 411-32, R. 412-17, R. 412-51, R. 412-52, R. 413-15.
+R. 221-18, R. 222-2, R. 234-1, R. 314-2, R. 411-32, R. 412-17, R. 412-51, R. 412-52, R. 413-15.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 21
+  - Décret n°2017-1523 du 3 novembre 2017 - art. 2
 
 _Cite_:
 
@@ -10809,7 +10809,7 @@ _Cite_:
   - Code pénal - art. R653-1
   - Code de la route. - art. R121-1
   - Code de la route. - art. R221-18
-  - Code de la route. - art. R222-2
+  - Code de la route. - art. R222-2 (V)
   - Code de la route. - art. R234-1
   - Code de la route. - art. R314-2
   - Code de la route. - art. R411-32
@@ -10835,17 +10835,8 @@ des voies autres que les autoroutes :
 a) Les contraventions de police prévues aux articles R. 644-2 et R. 653-1 du code pénal lorsqu'il s'agit de contraventions se
 rapportant à la circulation routière ; 
 
-b) Les contraventions aux dispositions du présent code mentionnées aux articles R. 211-2, R. 221-1-1, R. 233-1, R. 313-13, R.
-313-22, R. 313-23, R. 317-8, R. 321-4 (5e alinéa), R. 322-1, R. 322-3 à R. 322-9, R. 323-1, R. 325-2, R. 326-1, R. 411-18, R.
-411-22, R. 411-23, R. 411-28, R. 411-30, R. 412-1 à R. 412-3, R. 412-7, R. 412-9 (5e alinéa), R. 412-19, R. 412-27, R.
-412-28, R. 412-30, R. 412-48, R. 412-49, R. 413-5, R. 413-14, R. 413-17, R. 413-18, R. 415-6, R. 416-5 à R. 416-9, R. 416-11
-à R. 416-14, R. 416-17, R. 416-19, R. 416-20, R. 416-20, R. 417-1 à R. 417-13, R. 422-3 (VI), R. 431-1, R. 431-2 et R.
-431-10 ; 
-
-c) Les contraventions au présent code mentionnées à l'article R. 413-15 en ce qui concerne la détention, l'usage ou le
-transport ; 
-
-d) Les contraventions prévues par l'article R. 211-21-5 du code des assurances.
+b) Les contraventions aux dispositions du présent code à l'exception de celles prévues aux articles R. 121-1 à R. 121-5, R.
+221-18, R. 222-2, R. 234-1, R. 314-2, R. 411-32, R. 412-17, R. 412-51 et R. 412-52.
 
 **Liens relatifs à cet article**
 
@@ -10861,41 +10852,20 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-198 du 16 février 2017 - art. 1
+  - Décret n°2017-1523 du 3 novembre 2017 - art. 2
 
 _Cite_:
 
   - Code pénal - art. R644-2 (V)
   - Code pénal - art. R653-1 (V)
-  - Code des assurances - art. R211-21-5 (V)
-  - Code de la route. - art. R211-2 (V)
-  - Code de la route. - art. R221-1-1 (V)
-  - Code de la route. - art. R233-1 (V)
-  - Code de la route. - art. R313-13 (V)
-  - Code de la route. - art. R313-22 (V)
-  - Code de la route. - art. R317-8 (V)
-  - Code de la route. - art. R321-4 (V)
-  - Code de la route. - art. R322-1 (V)
-  - Code de la route. - art. R323-1 (V)
-  - Code de la route. - art. R325-2 (V)
-  - Code de la route. - art. R326-1 (V)
-  - Code de la route. - art. R411-18 (V)
-  - Code de la route. - art. R411-22 (V)
-  - Code de la route. - art. R411-28 (V)
-  - Code de la route. - art. R412-1 (V)
-  - Code de la route. - art. R412-19 (V)
-  - Code de la route. - art. R412-27 (V)
-  - Code de la route. - art. R412-48 (V)
-  - Code de la route. - art. R412-7 (V)
-  - Code de la route. - art. R413-14 (V)
-  - Code de la route. - art. R413-15 (V)
-  - Code de la route. - art. R413-5 (V)
-  - Code de la route. - art. R415-6 (V)
-  - Code de la route. - art. R416-5 (V)
-  - Code de la route. - art. R417-1 (VT)
-  - Code de la route. - art. R422-3 (V)
-  - Code de la route. - art. R431-1 (V)
-  - Code de la route. - art. R431-10 (V)
+  - Code de la route. - art. R121-1 (V)
+  - Code de la route. - art. R221-18 (V)
+  - Code de la route. - art. R222-2 (V)
+  - Code de la route. - art. R234-1 (V)
+  - Code de la route. - art. R314-2 (V)
+  - Code de la route. - art. R411-32 (V)
+  - Code de la route. - art. R412-17 (V)
+  - Code de la route. - art. R412-51 (V)
 
 _Anciens textes_:
 
@@ -14861,20 +14831,15 @@ _Anciens textes_:
 
 ###### Article R221-13
 
-I. - Le préfet soumet à des analyses ou à des examens médicaux, cliniques et biologiques, notamment salivaires et
-capillaires : 
+Le préfet soumet au contrôle médical de l'aptitude à la conduite : 
 
 1° Tout conducteur ou accompagnateur d'un élève conducteur auquel est imputable l'une des infractions prévues par les
-articles L. 234-1, L. 234-8, 
-L. 235-1 et L. 235-3 ; 
+articles L. 234-1, L. 234-8, L. 235-1 et L. 235-3 ; 
 
-2° Tout conducteur qui a fait l'objet d'une mesure portant restriction ou suspension du droit de conduire d'une durée
-supérieure à un mois pour l'une des infractions prévues au présent code, autres que celles visées au 1° ci-dessus. 
+2° Tout conducteur qui a fait l'objet d'une mesure portant restriction du droit de conduire ; 
 
-II. - Lorsque le titulaire du permis de conduire néglige ou refuse de se soumettre, dans les délais qui lui sont prescrits, à
-l'une des analyses ou des examens médicaux prévus au présent article, le préfet peut prononcer ou maintenir la suspension du
-permis de conduire jusqu'à ce qu'un avis médical d'aptitude soit émis, à la demande de l'intéressé, par le médecin agréé
-consultant hors commission médicale, ou par la commission médicale.
+3° Tout conducteur qui fait l'objet d'une mesure portant suspension du droit de conduire d'une durée supérieure à un mois
+pour l'une des infractions prévues au présent code, autres que celles mentionnées au 1° ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -14888,9 +14853,9 @@ _Cité par_:
   - Code de la route. - art. R221-14-1 (V)
   - Code de la route. - art. R224-12 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
+  - Décret n°2017-1523 du 3 novembre 2017 - art. 3
 
 _Anciens textes_:
 
@@ -14899,17 +14864,19 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L234-1
-  - Code de la route. - art. L235-1
+  - Code de la route. - art. L234-8 (V)
+  - Code de la route. - art. L235-1 (V)
+  - Code de la route. - art. L235-3 (V)
 
 
 ##### Section 6 : Dérogations à l'obligation d'être titulaire du permis de conduire et conditions de délivrance<a id=96></a>
 
 ###### Article R221-14
 
-I. - Postérieurement à la délivrance du permis, le préfet peut enjoindre à un conducteur de se soumettre à un contrôle
-médical :
+I.-Postérieurement à la délivrance du permis, le préfet peut enjoindre à un conducteur de se soumettre à un contrôle médical
+de l'aptitude à la conduite : 
 
-1° Dans le cas où les informations en sa possession lui permettent d'estimer que l'état physique du titulaire du permis peut
+1° Dans le cas où les informations en sa possession lui permettent d'estimer que l'état de santé du titulaire du permis peut
 être incompatible avec le maintien de ce permis de conduire. Cet examen médical est réalisé par un médecin agréé consultant
 hors commission médicale ; au vu de l'avis médical émis, le préfet prononce, s'il y a lieu, soit la restriction de validité,
 la suspension ou l'annulation du permis de conduire, soit le changement de catégorie de ce titre ; 
@@ -14918,14 +14885,11 @@ la suspension ou l'annulation du permis de conduire, soit le changement de caté
 
 3° Avant la restitution de son permis, à tout conducteur ou accompagnateur d'un élève conducteur à l'encontre duquel il a
 prononcé une mesure restrictive ou suspensive du droit de conduire pour l'une des infractions prévues par les articles L.
-234-1 et L. 234-8, afin de déterminer si l'intéressé dispose des aptitudes physiques nécessaires à la conduite du véhicule.
-Cette mesure est prononcée, selon le cas, par le préfet du département de résidence du conducteur ou de l'accompagnateur de
-l'élève conducteur. 
+234-1, L. 234-8, L. 235-1 et L. 235-3, afin de déterminer si l'intéressé dispose de l'aptitude médicale à la conduite du
+véhicule. Cette mesure est prononcée, selon le cas, par le préfet du département de résidence du conducteur ou de
+l'accompagnateur de l'élève conducteur. 
 
-II. - Lorsque le titulaire du permis de conduire néglige ou refuse de se soumettre, dans les délais qui lui sont prescrits,
-au contrôle médical dans les conditions du présent article, le préfet peut prononcer ou maintenir la suspension du permis de
-conduire jusqu'à ce qu'un avis médical soit émis par le médecin agréé consultant hors commission médicale, ou par la
-commission médicale.
+II.-(Abrogé).
 
 **Liens relatifs à cet article**
 
@@ -14939,9 +14903,9 @@ _Codifié par_:
 
   - Décret n°2001-251 du 22 mars 2001
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
+  - Décret n°2017-1523 du 3 novembre 2017 - art. 3
 
 _Anciens textes_:
 
@@ -14950,7 +14914,36 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L234-1
+  - Code de la route. - art. L234-1 (V)
+  - Code de la route. - art. L234-8 (V)
+  - Code de la route. - art. L235-1 (V)
+  - Code de la route. - art. L235-3 (V)
+
+
+###### Article R221-14-1
+
+La mesure portant suspension du droit de conduire est maintenue lorsque le titulaire du permis de conduire néglige ou refuse
+de se soumettre, avant la fin de la durée de cette suspension, au contrôle médical de l'aptitude à la conduite qu'il doit
+effectuer en application des articles R. 221-13 et R. 221-14. 
+
+Le permis de conduire est suspendu lorsque son titulaire, qui ne fait pas l'objet d'une mesure portant suspension du droit de
+conduire, néglige ou refuse de se soumettre au contrôle médical de l'aptitude à la conduite, en application des articles R.
+221-13 et R. 221-14, à l'issue du délai prescrit par le préfet. 
+
+Dans les cas prévus aux alinéas précédents, la suspension du permis de conduire prend fin lorsqu'une décision d'aptitude est
+rendue par le préfet, après avis médical émis, à la demande de l'intéressé, par le médecin agréé consultant hors commission
+médicale, ou par la commission médicale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1523 du 3 novembre 2017 - art. 4
+
+_Cite_:
+
+  - Code de la route. - art. R221-13
+  - Code de la route. - art. R221-14 (V)
 
 
 ###### Article R221-15
@@ -15251,7 +15244,7 @@ _Cité par_:
 ###### Article R222-1
 
 Tout permis de conduire national régulièrement délivré par un Etat membre de l'Union européenne ou partie à l'accord sur
-l'Espace économique européen, est reconnu en France sous réserve d'être en cours de validité. 
+l'Espace économique européen, est reconnu en France sous réserve d'être en cours de validité.
 
 Dans le cas où ce permis a été délivré en échange d'un permis de conduire d'un Etat n'appartenant pas à l'Union européenne ou
 à l'Espace économique européen et avec lequel la France n'a pas conclu d'accord de réciprocité en ce domaine, il n'est
@@ -15259,7 +15252,7 @@ reconnu que pendant un délai d'un an après l'acquisition de la résidence norm
 
 Tout titulaire d'un des permis de conduire considérés aux deux alinéas précédents, qui établit sa résidence normale en
 France, peut le faire enregistrer par le préfet du département de sa résidence selon les modalités définies par arrêté du
-ministre chargé des transports, après avis du ministre de l'intérieur et du ministre chargé des affaires étrangères.
+ministre chargé de la sécurité routière, après avis du ministre chargé des affaires étrangères.
 
 **Liens relatifs à cet article**
 
@@ -15282,7 +15275,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-347 du 22 mars 2016 - art. 3
+  - Décret n°2017-1523 du 3 novembre 2017 - art. 5
 
 _Anciens textes_:
 
@@ -15293,15 +15286,15 @@ _Anciens textes_:
 ###### Article R222-2
 
 Toute personne ayant sa résidence normale en France, titulaire d'un permis de conduire national délivré par un Etat membre de
-la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, en cours de validité dans cet
-Etat, peut, sans qu'elle soit tenue de subir les examens prévus au premier alinéa de l'article D. 221-3, l'échanger contre le
-permis de conduire français selon les modalités définies par arrêté du ministre chargé des transports, pris après avis du
-ministre de la justice, du ministre de l'intérieur et du ministre chargé des affaires étrangères. 
+l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, en cours de validité dans cet Etat,
+peut, sans qu'elle soit tenue de subir les examens prévus au premier alinéa de l'article D. 221-3, l'échanger contre le
+permis de conduire français selon les modalités définies par arrêté du ministre chargé de la sécurité routière, après avis du
+ministre de la justice et du ministre chargé des affaires étrangères.
 
 L'échange d'un tel permis de conduire contre le permis français est obligatoire lorsque son titulaire a commis, sur le
 territoire français, une infraction au présent code ayant entraîné une mesure de restriction, de suspension, de retrait du
 droit de conduire ou de retrait de points. Cet échange doit être effectué selon les modalités définies par l'arrêté prévu à
-l'alinéa précédent, aux fins d'appliquer les mesures précitées. 
+l'alinéa précédent, aux fins d'appliquer les mesures précitées.
 
 Le fait de ne pas effectuer l'échange de son permis de conduire dans le cas prévu à l'alinéa précédent est puni de l'amende
 prévue pour les contraventions de la quatrième classe.
@@ -15318,7 +15311,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
+  - Décret n°2017-1523 du 3 novembre 2017 - art. 6
 
 _Anciens textes_:
 
@@ -15327,18 +15320,18 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. D221-3 (VD)
+  - Code de la route. - art. D221-3
 
 
 ###### Article R222-3
 
-Tout permis de conduire national, en cours de validité, délivré par un Etat ni membre de la Communauté européenne, ni partie
-à l'accord sur l'Espace économique européen, peut être reconnu en France jusqu'à l'expiration d'un délai d'un an après
+Tout permis de conduire national, en cours de validité, délivré par un Etat ni membre de l'Union européenne, ni partie à
+l'accord sur l'Espace économique européen, peut être reconnu en France jusqu'à l'expiration d'un délai d'un an après
 l'acquisition de la résidence normale de son titulaire. Pendant ce délai, il peut être échangé contre le permis français,
 sans que son titulaire soit tenu de subir les examens prévus au premier alinéa de l'article D. 221-3 Les conditions de cette
-reconnaissance et de cet échange sont définies par arrêté du ministre chargé des transports, après avis du ministre de la
-justice, du ministre de l'intérieur et du ministre chargé des affaires étrangères. Au terme de ce délai, ce permis n'est plus
-reconnu et son titulaire perd tout droit de conduire un véhicule pour la conduite duquel le permis de conduire est exigé.
+reconnaissance et de cet échange sont définies par arrêté du ministre chargé de la sécurité routière, après avis du ministre
+de la justice et du ministre chargé des affaires étrangères. Au terme de ce délai, ce permis n'est plus reconnu et son
+titulaire perd tout droit de conduire un véhicule pour la conduite duquel le permis de conduire est exigé.
 
 **Liens relatifs à cet article**
 
@@ -15353,7 +15346,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
+  - Décret n°2017-1523 du 3 novembre 2017 - art. 7
 
 _Anciens textes_:
 
@@ -15362,7 +15355,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. D221-3 (VD)
+  - Code de la route. - art. D221-3
 
 
 ###### Article R222-4
@@ -16032,8 +16025,8 @@ _Anciens textes_:
 
 ###### Article R224-12
 
-L'examen médical prévu au I de l'article R. 221-13 est effectué avant l'expiration de la décision administrative de
-suspension du permis de conduire.
+L'examen médical prévu à l'article R. 221-13 est effectué avant l'expiration de la décision administrative de suspension du
+permis de conduire. 
 
 Dans le cas où, à la suite d'un examen médical, le préfet est appelé à prononcer la restriction de la validité, la suspension
 ou l'annulation du permis de conduire ou le changement de catégorie du titre, cette mesure est prononcée en application des
@@ -16044,21 +16037,20 @@ décision judiciaire n'est pas encore intervenue, l'arrêté du préfet est comm
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
+  - Décret n°2017-1523 du 3 novembre 2017 - art. 8
 
 _Anciens textes_:
 
   - Code de la route - art. R268-6 (Ab)
-  - Code de la route R268-6
 
 _Cite_:
 
-  - Code de la route R221-13, R221-12 à R221-14
-  - Code de la route. - art. R221-13 (M)
+  - Code de la route. - art. R221-12 (V)
+  - Code de la route. - art. R221-13 (V)
 
 _Cité par_:
 
