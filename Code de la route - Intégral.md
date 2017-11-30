@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-11-18
+Version Consolidée au 2017-12-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -14526,7 +14526,7 @@ _Anciens textes_:
 
 ###### Article R221-5
 
-Les conditions minimales requises pour l'obtention du permis de conduire sont les suivantes : 
+Les conditions minimales requises pour l'obtention du permis de conduire sont les suivantes :
 
 1° Etre âgé (e) :
 
@@ -14540,19 +14540,23 @@ Les conditions minimales requises pour l'obtention du permis de conduire sont le
 autorisant la conduite de ces véhicules figurant aux articles R. 3314-4 et R. 3314-6 du code des transports.
 
 - de vingt-quatre ans révolus pour les catégories D et DE, sans préjudice des dispositions relatives à l'âge autorisant la
-conduite de ces véhicules figurant aux articles R. 3314-4 et R. 3314-6 précités. 
+conduite de ces véhicules figurant aux articles R. 3314-4 et R. 3314-6 précités.
 
 La reconnaissance des permis de conduire prévue aux articles R. 222-1 à D. 222-8 est également subordonnée au respect de ces
-conditions d'âge ; 
+conditions d'âge ;
 
-2° Etre titulaire : 
+2° Etre titulaire :
 
 a) Pour la première obtention du permis de conduire, s'agissant des personnes nées à compter du 1er janvier 1988, de
-l'attestation scolaire de sécurité routière de second niveau ou de l'attestation de sécurité routière ; 
+l'attestation scolaire de sécurité routière de second niveau ou de l'attestation de sécurité routière ;
 
 b) En outre :
 
-- pour l'obtention de la catégorie A, de la catégorie A2 du permis de conduire depuis deux ans au moins ;
+- pour l'obtention de la catégorie A, de la catégorie A2 du permis de conduire depuis deux ans au moins sauf, s'ils sont âgés
+de vingt-quatre ans révolus, pour les militaires de la gendarmerie nationale, titulaires du brevet militaire de conduite
+motocycliste lorsqu'ils en sollicitent la conversion en permis de conduire ainsi que pour les fonctionnaires de la police
+nationale lorsque le permis de conduire leur est délivré après réussite à l'épreuve théorique et à l'épreuve pratique dans le
+cadre de leur formation professionnelle;
 
 - pour l'obtention des catégories C1, C, D1, D, BE, de la catégorie B du permis de conduire ;
 
@@ -14594,7 +14598,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1550 du 17 novembre 2016 - art. 3 (VD)
+  - Décret n°2017-1578 du 16 novembre 2017 - art. 1
 
 _Anciens textes_:
 
@@ -14604,8 +14608,8 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. R222-1
-  - Code des transports - art. R3314-4 (VD)
-  - Code des transports - art. R3314-6 (VD)
+  - Code des transports - art. R3314-4
+  - Code des transports - art. R3314-6
 
 
 ###### Article R221-6
