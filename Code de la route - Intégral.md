@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-12-01
+Version Consolidée au 2017-12-28
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -882,11 +882,14 @@ stationnement dans l'emprise de l'aérodrome ;
 11° Les agents de police judiciaire adjoints ; 
 
 12° Les fonctionnaires ou agents de l'Etat, chargés des réceptions des véhicules ou éléments de véhicules, placés sous
-l'autorité des ministres chargés de l'industrie et des transports ;
+l'autorité des ministres chargés de l'industrie et des transports ; 
 
 13° Les agents des exploitants de parcs publics de stationnement situés sur le domaine public ferroviaire, assermentés et
 agréés par le représentant de l'Etat dans le département, pour les seules contraventions aux règles concernant la
-circulation, l'arrêt et le stationnement des véhicules dans l'emprise du parc public. 
+circulation, l'arrêt et le stationnement des véhicules dans l'emprise du parc public ; 
+
+14° Les agents de l'établissement public Paris La Défense, dans les conditions prévues à l'article L. 328-4 du code de
+l'urbanisme. 
 
 La liste des contraventions que chaque catégorie d'agents mentionnée ci-dessus est habilitée à constater est fixée par décret
 en Conseil d'Etat.
@@ -904,7 +907,7 @@ _Cité par_:
   - Code de la route. - art. L121-4 (V)
   - Code de la route. - art. L130-7 (V)
   - Code de la route. - art. L142-4 (V)
-  - Code de la route. - art. L142-4-1 (V)
+  - Code de la route. - art. L142-4-1 (M)
   - Code de la route. - art. L142-5 (Ab)
   - Code de la route. - art. L330-2 (VT)
   - Code de la route. - art. R130-4 (M)
@@ -920,7 +923,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 20
+  - Loi n°2017-1754 du 25 décembre 2017 - art. 2
 
 _Cite_:
 
