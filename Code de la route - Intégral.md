@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-12-30
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -7307,21 +7307,34 @@ _Cite_:
 
 ###### Article L322-1
 
-Lorsqu'une amende forfaitaire majorée a été émise, le comptable public compétent peut faire opposition auprès de l'autorité
-administrative compétente à tout transfert du certificat d'immatriculation. Il en informe le procureur de la République. 
+I.-Lorsqu'une amende forfaitaire majorée a été émise, le comptable public compétent peut faire opposition auprès de
+l'autorité administrative compétente à tout transfert du certificat d'immatriculation. Il en informe le procureur de la
+République. 
 
 Cette opposition suspend la prescription de la peine. 
 
 Elle est levée par le paiement de l'amende forfaitaire majorée. En outre, lorsque l'intéressé a formé une réclamation, selon
 les modalités et dans les délais prévus par les articles 529-10 et 530 du code de procédure pénale à peine d'irrecevabilité
 et qu'il justifie avoir déclaré sa nouvelle adresse à l'autorité administrative compétente, le procureur de la République
-lève l'opposition.
+lève l'opposition. 
+
+II.-L'opposition au transfert du certificat d'immatriculation prévue par le premier alinéa du I est également applicable en
+cas d'émission du titre exécutoire prévu à l'article L. 2333-87 du code général des collectivités territoriales, dans les
+conditions prévues par arrêté du ministre chargé du budget. Cette opposition suspend la prescription de l'action en
+recouvrement. Elle est levée par paiement du titre exécutoire.
+
+**Nota:**
+
+Conformément au V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014, modifié par l'article 77 de la loi n° 2015-991 du
+7 août 2015 et par l'article 45 de la loi n° 2015-1785 du 29 décembre 2015, ces dispositions entrent en vigueur à compter du
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 116
+  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (V)
+  - ORDONNANCE n°2015-401 du 9 avril 2015 - art. 6
 
 _Cité par_:
 
@@ -7330,6 +7343,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code général des collectivités territoriales - art. L2333-87
   - Code de procédure pénale - art. 529-10
   - Code de procédure pénale - art. 530
 
@@ -9578,71 +9592,13 @@ _Cite_:
 
 Les règles relatives aux pouvoirs de police de la circulation routière dévolus au maire dans la commune, à l'exception pour
 les communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin de celles visées à l'article L. 2213-6, sont fixées
-par les articles L. 2213-1 à L. 2213-6 du code général des collectivités territoriales ci-après reproduits : 
+par les articles L. 2213-1 à L. 2213-6 du code général des collectivités territoriales.
 
-" Art. L. 2213-1-Le maire exerce la police de la circulation sur les routes nationales, les routes départementales et les
-voies de communication à l'intérieur des agglomérations, sous réserve des pouvoirs dévolus au représentant de l'Etat dans le
-département sur les routes à grande circulation. 
+**Nota:**
 
-Les conditions dans lesquelles le maire exerce la police de la circulation sur les routes à grande circulation sont fixées
-par décret en Conseil d'Etat. 
-
-Par dérogation aux dispositions des deux alinéas précédents et à celles des articles L. 2213-2 et L. 2213-3, des décrets
-peuvent transférer, dans les attributions du représentant de l'Etat dans le département, la police de la circulation sur
-certaines sections des routes à grande circulation. " 
-
-" Art. L. 2213-2-Le maire peut, par arrêté motivé, eu égard aux nécessités de la circulation et de la protection de
-l'environnement : 
-
-1° Interdire à certaines heures l'accès de certaines voies de l'agglomération ou de certaines portions de voie ou réserver
-cet accès, à certaines heures, à diverses catégories d'usagers ou de véhicules ; 
-
-2° Réglementer l'arrêt et le stationnement des véhicules ou de certaines catégories d'entre eux, ainsi que la desserte des
-immeubles riverains ; 
-
-3° Réserver sur la voie publique ou dans tout autre lieu de stationnement ouvert au public des emplacements de stationnement
-aménagés aux véhicules utilisés par les personnes titulaires de la carte de stationnement prévue à l'article L. 241-3-2 du
-code de l'action sociale et des familles et aux véhicules bénéficiant du label " autopartage " tel que défini par décret. " 
-
-" Art. L. 2213-3-Le maire peut, par arrêté motivé : 
-
-1° Instituer, à titre permanent ou provisoire, pour les véhicules affectés à un service public et pour les besoins exclusifs
-de ce service et, dans le cadre de leurs missions, pour les véhicules de transport de fonds, de bijoux ou de métaux précieux,
-des stationnements réservés sur les voies publiques de l'agglomération ; 
-
-2° Réserver des emplacements sur ces mêmes voies pour faciliter la circulation et le stationnement des transports publics de
-voyageurs et des taxis ainsi que des véhicules de transport de fonds, de bijoux ou de métaux précieux, dans le cadre de leurs
-missions et l'arrêt des véhicules effectuant un chargement ou un déchargement de marchandises. 
-
-" Art. L. 2213-3-1-Lorsqu'une commune est membre d'une métropole, d'une communauté urbaine ou d'une communauté
-d'agglomération compétente en matière de voirie dont le territoire est couvert par un plan de déplacements urbains, ou d'une
-communauté de communes compétente en matière de voirie dont le territoire est couvert par un plan de déplacements urbains, le
-stationnement des véhicules à moteur est soit interdit, soit réservé à des catégories particulières de véhicules, ou limité
-dans le temps, ou soumis à paiement, sur les voies publiques supportant la circulation de véhicules assurant un service
-régulier de transport public et sur les trottoirs adjacents à ces voies lorsque ces mesures sont nécessaires pour faciliter
-la circulation de ces véhicules ou l'accès des usagers au service. 
-
-" Art. L. 2213-4-Le maire peut, par arrêté motivé, interdire l'accès de certaines voies ou de certaines portions de voies ou
-de certains secteurs de la commune aux véhicules dont la circulation sur ces voies ou dans ces secteurs est de nature à
-compromettre soit la tranquillité publique, soit la qualité de l'air, soit la protection des espèces animales ou végétales,
-soit la protection des espaces naturels, des paysages ou des sites ou leur mise en valeur à des fins esthétiques,
-écologiques, agricoles, forestières ou touristiques. 
-
-Dans ces secteurs, le maire peut, en outre, par arrêté motivé, soumettre à des prescriptions particulières relatives aux
-conditions d'horaires et d'accès à certains lieux et aux niveaux sonores admissibles les activités s'exerçant sur la voie
-publique, à l'exception de celles qui relèvent d'une mission de service public. 
-
-Ces dispositions ne s'appliquent pas aux véhicules utilisés pour assurer une mission de service public et ne peuvent
-s'appliquer d'une façon permanente aux véhicules utilisés à des fins professionnelles de recherche, d'exploitation ou
-d'entretien des espaces naturels. " 
-
-" Art. L. 2213-5-Le maire peut, par arrêté motivé, interdire l'accès de certaines voies ou de certaines portions de voies aux
-véhicules de transport de matières dangereuses visées par la directive 82/501 du Conseil du 24 juin 1982 concernant les
-risques d'accidents majeurs de certaines activités industrielles et de nature à compromettre la sécurité publique. " 
-
-" Art. L. 2213-6-Le maire peut, moyennant le paiement de droits fixés par un tarif dûment établi, donner des permis de
-stationnement ou de dépôt temporaire sur la voie publique et autres lieux publics, sous réserve que cette autorisation
-n'entraîne aucune gêne pour la circulation, la navigation et la liberté du commerce. "
+Conformément au V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014, modifié par l'article 77 de la loi n° 2015-991 du
+7 août 2015 et par l'article 45 de la loi n° 2015-1785 du 29 décembre 2015, ces dispositions entrent en vigueur à compter du
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -9656,17 +9612,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1563 du 16 décembre 2010 - art. 17
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-1 (V)
-  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-2 (V)
-  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-3 (V)
-  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-3-1 (V)
-  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-4 (V)
-  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-5 (V)
-  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2213-6 (V)
+  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (V)
 
 
 ###### Article L411-2
@@ -28310,9 +28256,9 @@ _Cité par_:
 
 Si la mise en fourrière est effectuée dans un lieu public ou relevant d'une autorité publique, la fourrière relève de
 l'autorité respectivement du préfet, du président du conseil départemental, du président du conseil exécutif de Corse, du
-président de l'organisme de coopération intercommunale ou du maire, selon que l'Etat, le département, la collectivité
-territoriale de Corse, l'organisme de coopération intercommunale ou la commune est propriétaire, ou dispose de l'immeuble où
-se trouve la fourrière.
+président de l'organisme de coopération intercommunale ou du maire, selon que l'Etat, le département, la   collectivité de
+Corse, l'organisme de coopération intercommunale ou la commune est propriétaire, ou dispose de l'immeuble où se trouve la
+fourrière.
 
 **Nota:**
 
@@ -28334,7 +28280,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+  - Décret n°2017-1777 du 27 décembre 2017 - art. 1 (V)
 
 _Anciens textes_:
 
@@ -30318,12 +30264,14 @@ _Cite_:
 Les préfets, pour l'exercice de leur compétence en matière de circulation des véhicules, les services du ministre chargé des
 transports et du ministre chargé de l'industrie, pour l'exercice de leurs compétences, les militaires de la gendarmerie et
 les fonctionnaires de la police nationale habilités à effectuer des contrôles routiers en application des dispositions du
-présent code, les personnes chargées de la délivrance de l'identification prévue à l'article L. 318-1 sont autorisés, dans
-les conditions fixées aux articles L. 330-2 et L. 330-3, à accéder directement aux informations visées par ces articles. 
+présent code, les personnes chargées de la délivrance de l'identification prévue à l'article L. 318-1, les agents habilités
+par le directeur de l'Agence nationale de traitement automatisé des infractions pour l'exercice de leurs compétences sont
+autorisés, dans les conditions fixées aux articles L. 330-2 et L. 330-3, à accéder directement aux informations visées par
+ces articles. 
 
 Des arrêtés conjoints du ministre de l'intérieur et, selon le cas, des ministres chargés des transports, de la défense, de
 l'industrie ou de l'environnement définissent les modalités de l'accès à ces informations aux personnes mentionnées au
-premier alinéa.
+premier alinéa. 
 
 Peuvent également accéder aux données mentionnées à l'article L. 330-2 du présent code dans les conditions fixées par
 l'article L. 222-1 du code de la sécurité intérieure :
@@ -30336,6 +30284,16 @@ individuellement désignés et spécialement habilités par le directeur génér
 individuellement désignés et spécialement habilités par le directeur dont ils relèvent, pour les seuls besoins de la
 prévention des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme.
 
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2015-557 du 20 mai 2015, ces dispositions entrent en vigueur à la date prévue au V de
+l'article 63 de la loi n° 2014-58 du 27 janvier 2014. Conformément audit article 63, modifié par l'article 45 de la loi n°
+2015-1785 du 29 décembre 2015 et l'article 77 de la loi n° 2015-991 du 7 août 2015, ces dispositions entrent en vigueur le
+1er janvier 2018. 
+
+Se reporter aux nouvelles dispositions de l'article 63 dans sa rédaction résultant de l'article 45 de la loi n° 2015-1785 du
+29 décembre 2015.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -30347,7 +30305,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-858 du 29 juin 2016 - art. 2
+  - Décret n°2015-557 du 20 mai 2015 - art. 4
 
 _Anciens textes_:
 
@@ -32590,20 +32548,22 @@ _Cité par_:
 
 ###### Article R411-11
 
-La commission départementale de la sécurité routière est présidée par le préfet. Elle comprend : 
+La commission départementale de la sécurité routière est présidée par le préfet. Elle comprend :
 
-1° Des représentants des services de l'Etat ; 
+1° Des représentants des services de l'Etat ;
 
 2° Des élus départementaux désignés par le conseil départemental et des élus désignés par le conseil de la métropole de
-Lyon ; 
+Lyon ;
 
-3° Des élus communaux désignés par l'association des maires du département ou, à défaut, par le préfet ; 
+3° Des élus communaux désignés par l'association des maires du département ou, à défaut, par le préfet ;
 
-4° Des représentants des organisations professionnelles et des fédérations sportives ; 
+4° Des représentants des organisations professionnelles et des fédérations sportives ;
 
-5° Des représentants des associations d'usagers. 
+5° Des représentants des associations d'usagers.
 
 A Paris, les élus visés aux 2° et 3° sont désignés par le conseil de Paris.
+
+En Corse, les élus mentionnés au 2° sont désignés par l'Assemblée de Corse.
 
 **Nota:**
 
@@ -32621,7 +32581,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-694 du 18 juin 2015 - art. 1
+  - Décret n°2017-1777 du 27 décembre 2017 - art. 6
 
 _Cité par_:
 
@@ -37970,13 +37930,23 @@ investie du pouvoir de police ;
 investie du pouvoir de police.
 
 II. - Tout arrêt ou stationnement contraire aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la première classe.
+contraventions de la deuxième classe.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2015-808 du 2 juillet 2015, ces dispositions entrent en vigueur à la date prévue au
+V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014. Conformément audit article 63, modifié par l'article 45 de la loi
+n° 2015-1785 du 29 décembre 2015 et l'article 77 de la loi n° 2015-991 du 7 août 2015, ces dispositions entrent en vigueur le
+1er janvier 2018. 
+
+Se reporter aux nouvelles dispositions de l'article 63 dans sa rédaction résultant de l'article 45 de la loi n° 2015-1785 du
+29 décembre 2015.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -37985,52 +37955,58 @@ _Cité par_:
   - Code de procédure pénale - art. A37-6 (VD)
   - Code de procédure pénale - art. R49 (VD)
 
+_Modifié par_:
+
+  - Décret n°2015-808 du 2 juillet 2015 - art. 10
+
 _Anciens textes_:
 
   - Code de la route - art. R233-1 (Ab)
   - Code de la route - art. R36 (Ab)
-  - Code de la route R36, R233-1 (al. 7)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R417-2
 
-I. - Lorsque le maire décide d'instituer à titre permanent, pour tout ou partie de l'année, sur une ou plusieurs voies de
+I.-Lorsque le maire décide d'instituer à titre permanent, pour tout ou partie de l'année, sur une ou plusieurs voies de
 circulation de l'agglomération, le stationnement unilatéral alterné des véhicules, la périodicité de celui-ci doit être semi-
-mensuelle.
+mensuelle. 
 
-II. - Ce stationnement s'effectue alors dans les conditions suivantes :
+II.-Ce stationnement s'effectue alors dans les conditions suivantes : 
 
-1° Du 1er au 15 de chaque mois, le stationnement est autorisé du côté des numéros impairs des immeubles bordant la rue ;
+1° Du 1er au 15 de chaque mois, le stationnement est autorisé du côté des numéros impairs des immeubles bordant la rue ; 
 
-2° Du 16 au dernier jour du mois, le stationnement est autorisé du côté des numéros pairs.
+2° Du 16 au dernier jour du mois, le stationnement est autorisé du côté des numéros pairs. 
 
-III. - Sauf dispositions différentes prises par l'autorité investie du pouvoir de police, le changement de côté s'opère le
-dernier jour de chacune de ces deux périodes entre 20 h 30 et 21 heures.
+III.-Sauf dispositions différentes prises par l'autorité investie du pouvoir de police, le changement de côté s'opère le
+dernier jour de chacune de ces deux périodes entre 20 h 30 et 21 heures. 
 
-IV. - Tout stationnement contraire aux dispositions du présent article est puni de l'amende prévue pour les contraventions de
-la première classe.
+IV.-Tout stationnement contraire aux dispositions du présent article est puni de l'amende prévue pour les contraventions de
+la deuxième classe.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2015-808 du 2 juillet 2015, ces dispositions entrent en vigueur à la date prévue au
+V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014. Conformément audit article 63, modifié par l'article 45 de la loi
+n° 2015-1785 du 29 décembre 2015 et l'article 77 de la loi n° 2015-991 du 7 août 2015, ces dispositions entrent en vigueur le
+1er janvier 2018. 
+
+Se reporter aux nouvelles dispositions de l'article 63 dans sa rédaction résultant de l'article 45 de la loi n° 2015-1785 du
+29 décembre 2015.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2015-808 du 2 juillet 2015 - art. 10
 
 _Anciens textes_:
 
   - Code de la route - art. R233-1 (Ab)
   - Code de la route - art. R37-3 (Ab)
-  - Code de la route R37-3, R233-1 (al. 7)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R417-3
@@ -38049,13 +38025,22 @@ immédiate du pare-brise, si celui-ci en est muni, de manière à pouvoir être,
 le personnel affecté à la surveillance de la voie publique ait à s'engager sur la chaussée.
 
 V. - Tout stationnement contraire aux dispositions du présent article est puni de l'amende prévue pour les contraventions de
-la première classe.
+la deuxième classe.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2015-808 du 2 juillet 2015, ces dispositions entrent en vigueur à la date prévue au
+V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014. Conformément audit article 63, modifié par l'article 45 de la loi
+n° 2015-1785 du 29 décembre 2015 et l'article 77 de la loi n° 2015-991 du 7 août 2015, ces dispositions entrent en vigueur le
+1er janvier 2018. 
+
+Se reporter aux nouvelles dispositions de l'article 63 dans sa rédaction résultant de l'article 45 de la loi n° 2015-1785 du
+29 décembre 2015.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°60-226 1960-02-29 art. 1, 2, 3, 4, 5, 6 (al. 1)
   - Décret n°60-226 du 29 février 1960 - art. 1 (Ab)
   - Décret n°60-226 du 29 février 1960 - art. 2 (Ab)
   - Décret n°60-226 du 29 février 1960 - art. 3 (Ab)
@@ -38063,7 +38048,6 @@ _Anciens textes_:
   - Décret n°60-226 du 29 février 1960 - art. 5 (Ab)
   - Décret n°60-226 du 29 février 1960 - art. 6 (Ab)
   - Code de la route - art. R233-1 (Ab)
-  - Code de la route R233-1 (al. 7)
 
 _Cité par_:
 
@@ -38073,87 +38057,145 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2007-1503 du 19 octobre 2007 - art. 1 () JORF 21 octobre 2007
+  - Décret n°2015-808 du 2 juillet 2015 - art. 10
 
-**Liens**:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+###### Article R417-3-1
+
+Lorsque le stationnement sur la voie publique est soumis au paiement d'une redevance en application de l'article L. 2333-87
+du code général des collectivités territoriales, le justificatif du paiement est :
+
+1° Soit placé à l'avant du véhicule, bien lisible de l'extérieur ;
+
+2° Soit transmis par voie dématérialisée selon les modalités fixées par l'autorité compétente.
+
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2015-557 du 20 mai 2015, ces dispositions entrent en vigueur à la date prévue au V de
+l'article 63 de la loi n° 2014-58 du 27 janvier 2014. Conformément audit article 63, modifié par l'article 45 de la loi n°
+2015-1785 du 29 décembre 2015 et l'article 77 de la loi n° 2015-991 du 7 août 2015, ces dispositions entrent en vigueur le
+1er janvier 2018. 
+
+Se reporter aux nouvelles dispositions de l'article 63 dans sa rédaction résultant de l'article 45 de la loi n° 2015-1785 du
+29 décembre 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-557 du 20 mai 2015 - art. 4
+
+_Cité par_:
+
+  - Code général des collectivités territoriales - art. R2333-120-4 (VD)
+  - Code général des collectivités territoriales - art. R2333-120-5 (VD)
+  - Code général des collectivités territoriales - art. R2333-120-6 (VD)
 
 
 ###### Article R417-4
 
-I. - Hors agglomération, tout véhicule à l'arrêt ou en stationnement doit être placé autant que possible hors de la chaussée.
+I.-Hors agglomération, tout véhicule à l'arrêt ou en stationnement doit être placé autant que possible hors de la chaussée. 
 
-II. - Lorsqu'il ne peut être placé que sur la chaussée, il doit l'être par rapport au sens de la circulation selon les règles
-suivantes :
+II.-Lorsqu'il ne peut être placé que sur la chaussée, il doit l'être par rapport au sens de la circulation selon les règles
+suivantes : 
 
 1° Pour les chaussées à double sens, sur le côté droit de celles-ci, sauf dispositions différentes prises par l'autorité
-investie du pouvoir de police ;
+investie du pouvoir de police ; 
 
 2° Pour les chaussées à sens unique, sur le côté droit ou gauche, sauf dispositions différentes prises par l'autorité
-investie du pouvoir de police.
+investie du pouvoir de police. 
 
-III. - Tout stationnement contraire aux dispositions du présent article est puni de l'amende prévue pour les contraventions
-de la première classe.
+III.-Tout stationnement contraire aux dispositions du présent article est puni de l'amende prévue pour les contraventions de
+la deuxième classe.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2015-808 du 2 juillet 2015, ces dispositions entrent en vigueur à la date prévue au
+V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014. Conformément audit article 63, modifié par l'article 45 de la loi
+n° 2015-1785 du 29 décembre 2015 et l'article 77 de la loi n° 2015-991 du 7 août 2015, ces dispositions entrent en vigueur le
+1er janvier 2018. 
+
+Se reporter aux nouvelles dispositions de l'article 63 dans sa rédaction résultant de l'article 45 de la loi n° 2015-1785 du
+29 décembre 2015.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2015-808 du 2 juillet 2015 - art. 10
 
 _Anciens textes_:
 
   - Code de la route - art. R233-1 (Ab)
   - Code de la route - art. R36 (Ab)
-  - Code de la route R36, R233-1 (al. 7)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R417-5
 
-L'arrêt ou le stationnement d'un véhicule empiétant sur un passage prévu à l'intention des piétons est interdit.
+L'arrêt ou le stationnement d'un véhicule empiétant sur un passage prévu à l'intention des piétons est interdit. 
 
-Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la première
+Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la deuxième
 classe.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2015-808 du 2 juillet 2015, ces dispositions entrent en vigueur à la date prévue au
+V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014. Conformément audit article 63, modifié par l'article 45 de la loi
+n° 2015-1785 du 29 décembre 2015 et l'article 77 de la loi n° 2015-991 du 7 août 2015, ces dispositions entrent en vigueur le
+1er janvier 2018. 
+
+Se reporter aux nouvelles dispositions de l'article 63 dans sa rédaction résultant de l'article 45 de la loi n° 2015-1785 du
+29 décembre 2015.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2015-808 du 2 juillet 2015 - art. 10
 
 _Anciens textes_:
 
   - Code de la route - art. R220-2 (Ab)
   - Code de la route - art. R233-1 (Ab)
-  - Code de la route R220-2, R233-1 (al. 7)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R417-6
 
-Tout arrêt ou stationnement gratuit ou payant contraire à une disposition réglementaire autre que celles prévues au présent
-chapitre est puni de l'amende prévue pour les contraventions de la première classe.
+Tout arrêt ou stationnement gratuit contraire à une disposition réglementaire autre que celles prévues au présent chapitre
+est puni de l'amende prévue pour les contraventions de la deuxième classe.
+
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2015-557 du 20 mai 2015, ces dispositions entrent en vigueur à la date prévue au V de
+l'article 63 de la loi n° 2014-58 du 27 janvier 2014. Conformément audit article 63, modifié par l'article 45 de la loi n°
+2015-1785 du 29 décembre 2015 et l'article 77 de la loi n° 2015-991 du 7 août 2015, ces dispositions entrent en vigueur le
+1er janvier 2018. 
+
+Les dispositions de l'article R. 417-6 du code de la route dans leur rédaction antérieure à l'entrée en vigueur du présent
+décret demeurent toutefois applicables aux infractions liées à l'absence ou à l'insuffisance de paiement d'une redevance de
+stationnement constatées avant cette date d'entrée en vigueur.
+
+Se reporter aux nouvelles dispositions de l'article 63 dans sa rédaction résultant de l'article 45 de la loi n° 2015-1785 du
+29 décembre 2015.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2015-557 du 20 mai 2015 - art. 4
+  - Décret n°2015-808 du 2 juillet 2015 - art. 10
 
 _Cité par_:
 
@@ -38162,12 +38204,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de la route - art. R233-1 (Ab)
-  - Code de la route R233-1 (al. 7)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R417-7
