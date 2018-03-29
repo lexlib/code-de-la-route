@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-03-30
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -2729,13 +2729,16 @@ _Cite_:
 ###### Article L223-1
 
 Le permis de conduire est affecté d'un nombre de points. Celui-ci est réduit de plein droit si le titulaire du permis a
-commis une infraction pour laquelle cette réduction est prévue.
+commis une infraction pour laquelle cette réduction est prévue. 
 
 A la date d'obtention du permis de conduire, celui-ci est affecté de la moitié du nombre maximal de points. Il est fixé un
 délai probatoire de trois ans. Au terme de chaque année de ce délai probatoire, le permis est majoré d'un sixième du nombre
 maximal de points si aucune infraction ayant donné lieu à un retrait de points n'a été commise depuis le début de la période
-probatoire. Lorsque le titulaire du permis de conduire a suivi  l'apprentissage anticipé de la conduite défini à l'article L.
-211-3, ce délai probatoire est réduit à deux ans et cette majoration est portée au quart du nombre maximal de points. 
+probatoire. Lorsque le titulaire du permis de conduire a suivi l'apprentissage anticipé de la conduite défini à l'article L.
+211-3, ce délai probatoire est réduit à deux ans et cette majoration est portée au quart du nombre maximal de points. Le
+délai probatoire est en outre réduit pour le titulaire d'un premier permis de conduire qui se soumet à une formation
+complémentaire et ne commet durant ce délai aucune infraction ayant donné lieu à retrait de points ou ayant entraîné une
+mesure de restriction ou de suspension du droit de conduire. 
 
 Lorsque le nombre de points est nul, le permis perd sa validité. 
 
@@ -2796,13 +2799,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 28
+  - Ordonnance n°2018-207 du 28 mars 2018 - art. 1
 
 _Anciens textes_:
 
   - Code de la route - art. L11 (Ab)
   - Code de la route - art. L11-1 (Ab)
   - Code de la route L11, L11-1 (al. 5 et 6)
+
+_Cite_:
+
+  - Code de la route. - art. L211-3
 
 
 ###### Article L223-2
