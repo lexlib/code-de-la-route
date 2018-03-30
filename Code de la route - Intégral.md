@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2018-03-30
+Version Consolidée au 2018-03-31
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -25548,12 +25548,18 @@ _Anciens textes_:
 ###### Article R322-3
 
 I.-Par dérogation aux dispositions des articles R. 322-1 et R. 322-2, la circulation d'un véhicule est autorisée sous couvert
-d'un certificat provisoire d'immatriculation, d'un coupon détachable dûment rempli, d'un certificat W garage ou d'un
-certificat de transit ou d'un document équivalent délivré par les autorités compétentes d'un Etat membre de la Communauté
-européenne. 
+d'un certificat provisoire d'immatriculation, d'un coupon détachable dûment rempli, d'un certificat W garage, d'un certificat
+provisoire d'immatriculation permettant la circulation à titre expérimental d'un véhicule à délégation partielle ou totale de
+conduite, dit certificat WW DPTC, ou d'un certificat de transit ou d'un document équivalent délivré par les autorités
+compétentes d'un Etat membre de l'Union européenne.
 
-II.-Les conditions d'attribution et de durée d'utilisation de ces titres provisoires de circulation sont définies par arrêté
-du ministre chargé des transports pris après avis du ministre de l'intérieur. 
+II.-Les conditions d'attribution et de durée d'utilisation du certificat provisoire d'immatriculation, du coupon détachable
+dûment rempli, du certificat W garage ou d'un certificat de transit ou d'un document équivalent délivré par les autorités
+compétentes d'un Etat membre de l'Union européenne sont définies par arrêté du ministre chargé des transports pris après avis
+du ministre de l'intérieur.
+
+Les conditions d'attribution et de durée d'utilisation du certificat WW DPTC sont définies par arrêté conjoint du ministre
+chargé des transports et du ministre de l'intérieur.
 
 III.-Le fait pour toute personne d'utiliser l'un de ces titres provisoires de circulation sans respecter les dispositions du
 présent article ou celles prises pour son application est puni de l'amende prévue pour les contraventions de la quatrième
@@ -25563,10 +25569,6 @@ L'immobilisation du véhicule peut être prescrite dans les conditions prévues 
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2009-136 du 9 février 2009 - art. 6
-
 _Cité par_:
 
   - Décret n°2013-559 du 26 juin 2013 - art. 11 (V)
@@ -25575,6 +25577,10 @@ _Cité par_:
   - Arrêté du 5 novembre 1984 - art. 65-10 (VD)
   - Code de la route. - art. R*322-12-2 (VT)
   - Code de la route. - art. R342-3 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-211 du 28 mars 2018 - art. 8
 
 _Anciens textes_:
 
