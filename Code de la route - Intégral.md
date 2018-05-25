@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2018-03-31
+Version Consolidée au 2018-05-26
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -16483,7 +16483,10 @@ aux autorités françaises conformément aux accords internationaux en vigueur ;
 3° Des informations relatives aux échanges de titres français par les Etats appartenant à l'Union européenne ou à l'Espace
 économique européen ; 
 
-4° Des retraits de points du permis de conduire en application des articles L. 223-1 et L. 223-2 ;
+4° Des retraits de points du permis de conduire en application des articles L. 223-1, L. 223-2 et L. 223-10 ; 
+
+4° bis Des décisions administratives dûment notifiées portant interdiction de conduire sur le territoire national, en
+application du troisième alinéa du II de l'article L. 223-10 ; 
 
 5° Des décisions de création, de rectification et de radiation de dossiers à la suite d'enquêtes administratives ; 
 
@@ -16499,7 +16502,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2018-387 du 24 mai 2018 - art. 1
 
 _Anciens textes_:
 
@@ -16509,6 +16516,8 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L223-1 (V)
+  - Code de la route. - art. L223-10 (V)
+  - Code de la route. - art. L223-2 (V)
 
 _Nouveaux textes_:
 
@@ -16619,36 +16628,56 @@ _Cite_:
 
 ###### Article R225-4
 
-Les autorités judiciaires, les juridictions administratives dans le cadre des recours formulés contre les décisions de
-retrait de points du permis de conduire, les officiers de police judiciaire chargés de l'exécution d'une ordonnance
-juridictionnelle ou agissant dans le cadre d'une enquête de flagrance, les préfets dans l'exercice de leurs compétences en
-matière de permis de conduire, les militaires de la gendarmerie et les fonctionnaires de la police nationale habilités à
-effectuer des contrôles routiers en application des dispositions du présent code ainsi que les fonctionnaires ou agents de
-l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre chargé des transports pour l'exercice
-des compétences en matière de contrôle du transport routier prévues au présent code, sont autorisés, dans les conditions
-fixées aux articles L. 225-4 et L. 225-5, à accéder directement aux informations prévues par ces articles. 
+I.-Sont autorisés à accéder directement aux informations mentionnées à l'article L. 225-1, à raison de leurs attributions et
+dans la limite du besoin d'en connaître : 
 
-Les modalités techniques et financières de l'accès à ces informations ouvert par voie électronique sont définies : 
+1° Les agents habilités des services centraux placés sous l'autorité du ministre de l'intérieur chargés de l'application des
+dispositions de l'article L. 225-1 et les membres de l'inspection générale de l'administration chargés du contrôle de leur
+mise en œuvre ; 
 
-1° Par un arrêté du ministre de l'intérieur pour les agents de la police nationale et les militaires de la gendarmerie ; 
+2° Pour l'application de l'article L. 225-4 : 
 
-2° Par un arrêté conjoint du ministre de l'intérieur et du ministre de la justice pour les autorités judiciaires et les
-juridictions administratives mentionnées au premier alinéa du présent article ; 
+a) Les autorités judiciaires ; 
 
-3° Par un arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports pour les fonctionnaires ou agents
-de l'Etat chargés du contrôle des transports terrestres pour l'exercice de leurs compétences en matière de contrôle du
-transport routier prévues au présent code. 
+b) Les magistrats de l'ordre administratif dans le cadre des recours formulés contre les décisions de retrait de points du
+permis de conduire ; 
 
-Peuvent également accéder aux données mentionnées à l'article L. 225-4 du présent code dans les conditions fixées par
-l'article L. 222-1 du code de la sécurité intérieure :
+c) Les officiers de police judiciaire des services de police ou des unités de la gendarmerie nationales chargés de
+l'exécution d'une ordonnance juridictionnelle ou agissant dans le cadre d'une enquête de flagrance ; 
 
-- les agents des services de la police nationale et les militaires des unités de la gendarmerie nationale chargés des
-missions de prévention et de répression des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme,
-individuellement désignés et spécialement habilités par le directeur général dont ils relèvent ;
+d) Le préfet dans l'exercice de ses compétences en matière de permis de conduire, ainsi que les agents des directions
+départementales interministérielles, placés sous son autorité et chargés de l'inscription au permis de conduire et les agents
+des préfectures et des sous-préfectures chargés de l'application de la réglementation relative aux permis de conduire ; 
 
-- les agents des services spécialisés du renseignement mentionnés à l'article R. 222-1 du code de la sécurité intérieure,
-individuellement désignés et spécialement habilités par le directeur dont ils relèvent, pour les seuls besoins de la
-prévention des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme.
+e) Les militaires de la gendarmerie nationale et les fonctionnaires de la police nationale habilités à effectuer des
+contrôles routiers en application du présent code ; 
+
+f) Les agents spécialement habilités des observatoires et des établissements publics chargés de réaliser des études
+statistiques sur les accidents de la route pour le compte du ministre chargé de la sécurité routière ; 
+
+g) Les fonctionnaires et agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre
+chargé des transports pour l'exercice des compétences en matière de contrôle du transport routier prévues au présent code ; 
+
+3° Dans les conditions prévues par l'acte créant le traitement des données énumérées à l'article L. 225-1, les personnels de
+l'Agence nationale des titres sécurisés individuellement désignés et spécialement habilités. 
+
+II.-Sont également autorisés à accéder directement aux informations mentionnées à l'article L. 225-1, dans les conditions
+fixées à l'article L. 222-1 du code de la sécurité intérieure : 
+
+1° Les agents des services de la police nationale et les militaires des unités de la gendarmerie nationale chargés des
+missions de prévention et de répression des atteintes aux intérêts fondamentaux de la Nation et des actes de terrorisme ; 
+
+2° Les agents des services spécialisés du renseignement mentionnés à l'article R. 222-1 du code de la sécurité intérieure,
+pour les seuls besoins de la prévention des atteintes aux intérêts fondamentaux de la Nation et des actes de terrorisme. 
+
+III.-Les modalités techniques et financières de l'accès à ces données et informations sont définies : 
+
+1° Par un arrêté conjoint du ministre de l'intérieur et du ministre de la justice pour les autorités judiciaires et les
+juridictions administratives mentionnées au I du présent article ; 
+
+2° Par un arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports pour les agents de l'Etat chargés
+du contrôle des transports terrestres pour l'exercice de leurs compétences en matière de contrôle du transport routier
+prévues au présent code.
 
 **Liens relatifs à cet article**
 
@@ -16662,7 +16691,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-467 du 15 avril 2016 - art. 1
+  - Décret n°2018-387 du 24 mai 2018 - art. 2
 
 _Anciens textes_:
 
@@ -16671,6 +16700,7 @@ _Anciens textes_:
 
 _Cite_:
 
+  - Code de la route. - art. L225-1 (V)
   - Code de la route. - art. L225-4
   - Code de la sécurité intérieure - art. L222-1
   - Code de la sécurité intérieure - art. R222-1
@@ -16678,21 +16708,60 @@ _Cite_:
 
 ###### Article R225-5
 
-La communication au titulaire du permis de conduire du relevé intégral des mentions le concernant mentionné à l'article L.
-225-3 est assurée par le préfet du département dans lequel il a établi son domicile, ou s'il réside à l'étranger, par l'agent
-diplomatique ou le consul compétent. 
+I.-Parmi les autorités et personnes énumérées à l'article L. 225-5, reçoivent communication des informations mentionnées à
+cet article, à raison de leurs attributions et dans la limite du besoin d'en connaître, au moyen d'un accès direct : 
 
-Le titulaire du permis de conduire, s'il réside à l'étranger, peut demander au préfet ayant délivré son titre de conduite
-qu'il communique les informations prévues à l'article L. 225-5 le concernant à l'autorité étrangère auprès de laquelle il a
-sollicité l'échange de son permis de conduire français. Le préfet assure cette communication par voie dématérialisée et en
-informe l'auteur de la demande. 
+1° Les officiers ou agents de police judiciaire, des services de police ou des unités de la gendarmerie nationales agissant
+dans le cadre d'une enquête préliminaire ; 
 
-L'autorité étrangère peut également demander par voie dématérialisée la communication de ces informations auprès du préfet
-ayant délivré le titre présenté à l'appui de la demande d'échange. S'il a été directement saisi par l'autorité étrangère, il
-lui communique ces informations par voie dématérialisée. 
+2° Les agents de police judiciaire adjoints et les gardes champêtres, individuellement désignés et habilités par le préfet,
+sur proposition du maire de la commune, aux seules fins d'identifier les auteurs des infractions au présent code qu'ils sont
+habilités à constater ; 
 
-Les modalités d'application du présent article sont fixées par arrêté conjoint du ministre chargé de la sécurité routière et
-du ministre des affaires étrangères.
+3° Les agents individuellement désignés et habilités des organismes chargés de la délivrance et de la gestion des cartes de
+conducteur associées au chronotachygraphe électronique pour le contrôle des transports routiers, ou des cartes de
+qualification de conducteur destinées à prouver la qualification initiale et la formation continue des conducteurs de
+certains véhicules routiers affectés aux transports de marchandises ou de voyageurs ; 
+
+4° Les personnels individuellement désignés et habilités des entreprises exerçant une activité de transport public routier de
+voyageurs ou de marchandises pour les personnes qu'elles emploient comme conducteur de véhicule à moteur ; 
+
+5° Les autorités des Etats membres de l'Union Européenne, aux fins d'authentification du permis de conduire, conformément aux
+accords internationaux en vigueur. 
+
+II.-Reçoivent, à leur demande, communication des données et informations mentionnées à l'article L. 225-5, à raison de leurs
+attributions et dans la limite du besoin d'en connaître, les autres personnes et autorités énumérées par cet article : 
+
+1° Par l'intermédiaire du responsable du traitement : 
+
+a) Les autorités compétentes de Saint-Barthélemy, de Saint-Martin, de Wallis-et-Futuna, de la Nouvelle-Calédonie et de la
+Polynésie française, aux fins d'authentification du permis de conduire ; 
+
+b) Les autorités étrangères compétentes, aux fins d'authentification du permis de conduire, conformément aux accords
+internationaux en vigueur ; 
+
+2° Par l'intermédiaire du préfet : 
+
+a) Les autorités administratives civiles ou militaires pour les personnes employées ou susceptibles d'être employées comme
+conducteur de véhicule à moteur ; 
+
+b) Les entreprises d'assurances pour les personnes dont elles garantissent ou sont appelées à garantir la responsabilité
+encourue du fait des dommages causés par des véhicules à moteur ; 
+
+3° Par l'intermédiaire des services de la police ou de la gendarmerie nationales territorialement compétents : 
+
+a) Les militaires de la gendarmerie nationale et les fonctionnaires de la police nationale habilités à effectuer des
+contrôles routiers en application du présent code, autres que ceux bénéficiant d'un accès direct en application du e du 2° du
+I de l'article R. 225-4 ; 
+
+b) Les fonctionnaires et agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre
+chargé des transports pour l'exercice des compétences en matière de contrôle du transport routier prévues au présent code,
+autres que ceux bénéficiant d'un accès direct en application du g du 2° du I de l'article R. 225-4 ; 
+
+c) Les agents de police judiciaire adjoints et les gardes champêtres autres que ceux mentionnés au 2° du I du présent
+article, aux seules fins d'identifier les auteurs des infractions au présent code qu'ils sont habilités à constater. 
+
+III.-Les modalités d'application du présent article sont fixées par arrêté du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
@@ -16709,7 +16778,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-347 du 22 mars 2016 - art. 5
+  - Décret n°2018-387 du 24 mai 2018 - art. 2
 
 _Anciens textes_:
 
@@ -16718,15 +16787,35 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L225-3
-  - Code de la route. - art. L225-5
+  - Code de la route. - art. L225-5 (V)
+  - Code de la route. - art. R225-4 (V)
 
 
 ###### Article R225-6
 
-Nonobstant les dispositions de l'article R. 225-5, le titulaire du permis de conduire peut consulter directement le solde des
-points affectés à son permis de conduire au moyen d'un site internet dédié et sécurisé. Les modalités d'application du
-présent article sont fixées par arrêté du ministre de l'intérieur.
+I.-La communication au titulaire du permis de conduire, ou au conducteur mentionné au I de l'article L. 223-10, du relevé
+intégral des mentions le concernant mentionné à l'article L. 225-3 est assurée par le préfet du département dans lequel il a
+établi son domicile, ou s'il réside à l'étranger, par l'agent diplomatique ou le consul compétent. 
+
+II.-Le titulaire du permis de conduire ou le conducteur mentionné au I de l'article L. 223-10, son avocat ou son mandataire
+reçoit, à sa demande, communication des informations mentionnées à l'article L. 225-5 par l'intermédiaire du préfet. 
+
+Le titulaire du permis de conduire, s'il réside à l'étranger, peut demander au préfet ayant délivré son titre de conduite
+qu'il communique les informations le concernant à l'autorité étrangère auprès de laquelle il a sollicité l'échange de son
+permis de conduire français. Le préfet assure cette communication par voie dématérialisée et en informe l'auteur de la
+demande. 
+
+L'autorité étrangère peut également demander par voie dématérialisée la communication de ces informations auprès du préfet
+ayant délivré le titre présenté à l'appui de la demande d'échange. S'il a été directement saisi par l'autorité étrangère, il
+lui communique ces informations par voie dématérialisée. 
+
+Les modalités d'application du présent II sont fixées par arrêté conjoint du ministre de l'intérieur et du ministre des
+affaires étrangères. 
+
+III.-Nonobstant les dispositions du I et du II, le titulaire du permis de conduire peut consulter directement le solde des
+points affectés à son permis de conduire au moyen d'un site internet dédié et sécurisé. 
+
+Les modalités d'application du présent III sont fixées par arrêté du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
@@ -16737,15 +16826,17 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-753 du 9 mai 2007 - art. 4 () JORF 10 mai 2007 en vigueur le 1er juillet 2007
+  - Décret n°2018-387 du 24 mai 2018 - art. 2
 
 _Cite_:
 
-  - Code de la route. - art. R225-5 (V)
+  - Code de la route. - art. L223-10 (V)
+  - Code de la route. - art. L225-3 (V)
+  - Code de la route. - art. L225-5 (V)
 
 
 #### Chapitre VI : Organisation du contrôle médical de l'aptitude à la conduite<a id=106></a>
@@ -30311,38 +30402,76 @@ _Cite_:
 
 ###### Article R330-2
 
-Les préfets, pour l'exercice de leur compétence en matière de circulation des véhicules, les services du ministre chargé des
-transports et du ministre chargé de l'industrie, pour l'exercice de leurs compétences, les militaires de la gendarmerie et
-les fonctionnaires de la police nationale habilités à effectuer des contrôles routiers en application des dispositions du
-présent code, les personnes chargées de la délivrance de l'identification prévue à l'article L. 318-1, les agents habilités
-par le directeur de l'Agence nationale de traitement automatisé des infractions pour l'exercice de leurs compétences sont
-autorisés, dans les conditions fixées aux articles L. 330-2 et L. 330-3, à accéder directement aux informations visées par
-ces articles. 
+I.-Parmi les autorités et personnes énumérées à l'article L. 330-2, reçoivent communication, à raison de leurs attributions
+et dans la limite du besoin d'en connaître, des informations mentionnées à cet article, au moyen d'un accès direct : 
 
-Des arrêtés conjoints du ministre de l'intérieur et, selon le cas, des ministres chargés des transports, de la défense, de
-l'industrie ou de l'environnement définissent les modalités de l'accès à ces informations aux personnes mentionnées au
-premier alinéa. 
+1° Les autorités judiciaires ; 
 
-Peuvent également accéder aux données mentionnées à l'article L. 330-2 du présent code dans les conditions fixées par
-l'article L. 222-1 du code de la sécurité intérieure :
+2° Les officiers ou agents de police judiciaire des services de police ou des unités de la gendarmerie nationales, dans
+l'exercice des missions définies à l'article 14 du code de procédure pénale ; 
 
-- les agents des services de la police nationale et les militaires des unités de la gendarmerie nationale chargés des
-missions de prévention et de répression des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme,
-individuellement désignés et spécialement habilités par le directeur général dont ils relèvent ;
+3° Les militaires de la gendarmerie nationale et les fonctionnaires de la police nationale habilités à effectuer des
+contrôles routiers en application des dispositions du présent code ; 
 
-- les agents des services spécialisés du renseignement mentionnés à l'article R. 222-1 du code de la sécurité intérieure,
-individuellement désignés et spécialement habilités par le directeur dont ils relèvent, pour les seuls besoins de la
-prévention des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme.
+4° Les agents de police judiciaire adjoints et les gardes champêtres individuellement désignés et habilités par le préfet,
+sur proposition du maire de la commune, aux seules fins d'identifier les auteurs des infractions au présent code qu'ils sont
+habilités à constater ; 
+
+5° Parmi les fonctionnaires de l'Etat mentionnés au 5° du I de l'article L. 330-2, et aux seules fins d'identifier les
+auteurs d'infractions au présent code, les fonctionnaires habilités à constater ces infractions en vertu des 7° et 12° de
+l'article L. 130-4 ou des articles L. 130-6 et L. 130-8 ; 
+
+6° Les personnels de l'Agence nationale de traitement automatisé des infractions, chargés des opérations nécessaires à la
+délivrance par voie postale de l'avis de paiement mentionné à l'article L. 2333-87 du code général des collectivités
+territoriales ou à l'émission du titre exécutoire prévu au même article ; 
+
+7° Les préfets pour l'exercice de leur compétence en matière de circulation des véhicules, ainsi que les agents des
+préfectures et des sous-préfectures chargés de la délivrance du certificat d'immatriculation et les agents des observatoires
+départementaux et régionaux de la sécurité routière chargés de réaliser des études statistiques sur les accidents de la
+route ; 
+
+8° Parmi les agents des services mentionnés au 7° du I de l'article L. 330-2 : 
+
+a) Les agents de l'observatoire national interministériel de la sécurité routière chargés de réaliser des études statistiques
+sur les accidents de la route ; 
+
+b) Les agents des services centraux du ministère de l'intérieur chargés de l'application de la réglementation relative à la
+délivrance du certificat d'immatriculation du véhicule ainsi que les membres de l'inspection générale de l'administration du
+ministère de l'intérieur chargés de leur contrôle ; 
+
+c) Les agents des services centraux des ministres chargés de l'écologie et des transports, chargés du contrôle technique de
+l'immatriculation et de la sécurité des véhicules ; 
+
+9° Les agents habilités de l'administration des finances publiques pour l'exercice de leurs compétences ; 
+
+10° Le maire dans le cadre des attributions prévues aux articles L. 541-21-3 et L. 541-21-4 du code de l'environnement, aux
+seules fins d'identifier le titulaire du certificat d'immatriculation ; 
+
+11° Les personnels habilités du fonds de garantie des assurances obligatoires de dommages mentionné à l'article L. 421-1 du
+code des assurances en vue de mener les missions fixées au V du même article ; (1) 
+
+12° Les agents habilités du prestataire autorisé par l'Etat aux seules fins d'établir et de délivrer le dispositif
+d'identification des véhicules prévu à l'article L. 318-1 ; 
+
+13° Dans les conditions prévues par l'acte créant le traitement des données énumérées à l'article L. 330-2, les personnels de
+l'Agence nationale des titres sécurisés individuellement désignés et spécialement habilités. 
+
+II.-Sont également autorisés à accéder directement aux informations mentionnées à l'article L. 330-2, dans les conditions
+fixées par l'article L. 222-1 du code de la sécurité intérieure : 
+
+1° Les agents des services de la police nationale et les militaires des unités de la gendarmerie nationale chargés des
+missions de prévention et de répression des atteintes aux intérêts fondamentaux de la Nation et des actes de terrorisme ; 
+
+2° Les agents des services spécialisés du renseignement mentionnés à l'article R. 222-1 du code de la sécurité intérieure,
+pour les seuls besoins de la prévention des atteintes aux intérêts fondamentaux de la Nation et des actes de terrorisme. 
+
+III.-Les modalités d'application du présent article sont fixées par arrêté du ministre de l'intérieur.
 
 **Nota:**
 
-Conformément à l'article 6 du décret n° 2015-557 du 20 mai 2015, ces dispositions entrent en vigueur à la date prévue au V de
-l'article 63 de la loi n° 2014-58 du 27 janvier 2014. Conformément audit article 63, modifié par l'article 45 de la loi n°
-2015-1785 du 29 décembre 2015 et l'article 77 de la loi n° 2015-991 du 7 août 2015, ces dispositions entrent en vigueur le
-1er janvier 2018. 
-
-Se reporter aux nouvelles dispositions de l'article 63 dans sa rédaction résultant de l'article 45 de la loi n° 2015-1785 du
-29 décembre 2015.
+(1) Conformément à l'article 4 du décret n° 2018-387 du 24 mai 2018, les dispositions du 11° du I de l'article R. 330-2
+entrent en vigueur à la même date que les dispositions issues du 2° du I de l'article 35 de la loi n° 2016-1547 du 18
+novembre 2016 de modernisation de la justice du xxie siècle et au plus tard le 31 décembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -30355,114 +30484,88 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-557 du 20 mai 2015 - art. 4
+  - Décret n°2018-387 du 24 mai 2018 - art. 3
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2333-87
+  - Code de procédure pénale - art. 14
+  - Code des assurances - art. L421-1
+  - Code de l'environnement - art. L541-21-3
+  - Code de l'environnement - art. L541-21-4
+  - Code de la route. - art. L130-4 (V)
+  - Code de la route. - art. L130-6 (V)
+  - Code de la route. - art. L130-8 (V)
+  - Code de la route. - art. L318-1 (V)
+  - Code de la route. - art. L330-2 (V)
+  - Code de la sécurité intérieure - art. L222-1
+  - Code de la sécurité intérieure - art. R222-1
 
 _Anciens textes_:
 
   - Code de la route - art. R247-7 (Ab)
   - Code de la route R247-7
 
-_Cite_:
-
-  - Code de la route. - art. L330-2
-  - Code de la sécurité intérieure - art. L222-1
-  - Code de la sécurité intérieure - art. R222-1
-
 
 ###### Article R330-3
 
-La communication des informations visées à l'article L. 330-2 aux fonctionnaires habilités à constater des infractions aux
-dispositions du présent code, autres que ceux déjà cités à l'article R. 330-2, est effectuée par les services de la police
-nationale ou de la gendarmerie territorialement compétents.
+I.-Parmi les autorités et personnes énumérées à l'article L. 330-2, reçoivent, à leur demande, à raison de leurs attributions
+et dans la limite du besoin d'en connaître, communication des informations mentionnées à cet article : 
 
-**Liens relatifs à cet article**
+1° Par l'intermédiaire des services de la police ou de la gendarmerie nationales territorialement compétents : 
 
-_Codifié par_:
+a) Les agents de police judiciaire adjoints et les gardes champêtres autres que ceux mentionnés au 4° du I de l'article R.
+330-2, aux seules fins d'identifier les auteurs des infractions au présent code qu'ils sont habilités à constater ; 
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+b) Aux seules fins d'identifier les auteurs des infractions au présent code, les fonctionnaires habilités à constater ces
+infractions en application des 1°, 3°, 4°, 5° et 9° de l'article L. 130-4 ; 
 
-_Anciens textes_:
+2° Par l'intermédiaire du ministre de l'intérieur, par voie électronique : 
 
-  - Code de la route - art. R247-8 (Ab)
-  - Code de la route R247-8
+a) La personne physique ou morale titulaire des pièces administratives, son avocat ou son mandataire ; 
 
-_Cite_:
+b) Les entreprises d'assurances garantissant les dommages subis par des tiers résultant d'atteintes aux personnes ou aux
+biens dans la réalisation desquels un véhicule à moteur, ainsi que ses remorques, est impliqué et les organismes assimilés à
+ces entreprises, dès lors que ces informations ont pour seul but d'identifier les biens et les personnes impliqués dans un
+accident de la circulation, à condition qu'au moins un des véhicules soit assuré par le demandeur ou que ce dernier ait en
+charge l'indemnisation d'une des victimes ; ces entreprises d'assurances ou organismes assimilés doivent notamment fournir à
+l'appui de leur demande le numéro et la date de la police d'assurance ainsi que le numéro d'inscription de la déclaration du
+sinistre ; 
 
-  - Code de la route. - art. L330-2 (V)
+c) Les autorités étrangères avec lesquelles existe un accord d'échange d'informations relatives à l'identification du
+titulaire du certificat d'immatriculation ; 
 
+d) Les services compétents des Etats membres, pour l'application des instruments de l'Union européenne destinés à faciliter
+l'échange transfrontalier d'informations concernant les infractions en matière de sécurité routière ; 
 
-###### Article R330-4
+e) Les services compétents en matière d'immatriculation des Etats membres de l'Union européenne et des autres Etats parties à
+l'accord sur l'Espace économique européen, dans le cadre des dispositions prévoyant un échange d'informations relatives à
+l'immatriculation d'un véhicule précédemment immatriculé dans un autre de ces Etats, ou au titre de la répression de la
+criminalité visant les véhicules et ayant des incidences transfrontalières ; 
 
-La communication des informations visées aux articles L. 330-2 à L. 330-4 aux demandeurs autorisés par ces articles à les
-solliciter et non mentionnés aux articles R. 330-2 et R. 330-3 est effectuée par le          ministre de l'intérieur par voie
-électronique. 
+f) Les agents mentionnés aux articles L. 2132-21 et L. 2132-23 du code général de la propriété des personnes publiques ainsi
+qu'aux articles L. 2241-1, L. 4321-3, L. 4272-1, L. 5243-1 et L. 5337-2 du code des transports habilités à dresser procès-
+verbal de contravention de grande voirie en application de ces mêmes codes et les personnels de Voies navigables de France
+mentionnés à l'article L. 4272-2 du code des transports habilités à constater les infractions définies par les règlements de
+police de la navigation intérieure, aux seules fins d'identifier le titulaire du certificat d'immatriculation ; 
 
-Les entreprises d'assurances ou organismes assimilés à ces entreprises doivent notamment fournir à l'appui de leur demande le
-numéro et la date de la police d'assurance ainsi que le numéro d'inscription de la déclaration du sinistre. 
+3° Par l'intermédiaire des services de la police ou de la gendarmerie nationales territorialement compétents, ou du ministre
+de l'intérieur par voie électronique : 
 
-Les éléments mentionnés au III de l'article L. 330-2 sont la date et l'heure de la contravention de non-paiement du péage, le
-numéro d'immatriculation du véhicule ainsi que le numéro identifiant de la demande de l'agent assermenté. 
+a) Les agents habilités des services mentionnés au 7° du I de l'article L. 330-2, autres que ceux bénéficiant d'un accès
+direct en application du 8° du I de l'article R. 330-2 ; 
 
-Les modalités d'application du présent article sont fixées par arrêté du ministre de l'intérieur.
+b) Les agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage,
+assermentés dans les conditions prévues à l'article L. 130-7, aux seules fins d'identifier les auteurs des contraventions au
+présent code qu'ils sont habilités à constater conformément au 8° de l'article L. 130-4, sous réserve qu'ils produisent, à
+l'appui de leur demande de communication, la date et l'heure de la contravention de non-paiement du péage, le numéro
+d'immatriculation du véhicule ainsi que le numéro identifiant de la demande de l'agent assermenté. 
 
-**Liens relatifs à cet article**
+II.-La communication aux constructeurs de véhicules ou à leurs mandataires mentionnés au 13° du I de l'article L. 330-2 des
+informations mentionnées à cet article est effectuée à titre gratuit par le ministre de l'intérieur, selon des modalités
+fixées par voie conventionnelle. 
 
-_Codifié par_:
-
-  - Décret n°2001-251 du 22 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2017-1278 du 9 août 2017 - art. 16
-
-_Anciens textes_:
-
-  - Code de la route - art. R247-9 (Ab)
-  - Code de la route R247-9
-
-_Cite_:
-
-  - Code de la route. - art. L330-2
-  - Code de la route. - art. R330-2
-
-
-###### Article R330-5
-
-La communication des informations prévues aux articles L. 330-2 à L. 330-4 aux demandeurs qui disposent d'un droit d'accès en
-vertu d'une disposition législative particulière est assurée par le         ministre de l'intérieur par voie électronique ou
-par les services de la police nationale ou de la gendarmerie territorialement compétents.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 du 22 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2017-1278 du 9 août 2017 - art. 17
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-387 du 24 mai 2018 - art. 3
-
-_Anciens textes_:
-
-  - Code de la route - art. R247-10 (Ab)
-  - Code de la route R247-10
-
-_Cite_:
-
-  - Code de la route. - art. L330-2
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R330-6 (V)
-
-
-###### Article R330-6
-
-I. ― Pour l'application des dispositions du 13° du I de l'article L. 330-2 : 
+Pour l'application de ces dispositions : 
 
 1° Les rappels de sécurité s'entendent des rappels de véhicules effectués auprès des titulaires des certificats
 d'immatriculation en application des dispositions de l'article R. 321-14-1 ; 
@@ -30471,16 +30574,125 @@ d'immatriculation en application des dispositions de l'article R. 321-14-1 ;
 d'immatriculation pour prévenir ou corriger, à titre gratuit et à des fins non commerciales, des défauts techniques qui ne
 sont pas de nature à compromettre gravement la sécurité routière, la santé publique ou la protection de l'environnement. 
 
-II. ― Les constructeurs de véhicules adressent au ministre de l'intérieur leur demande de communication. Ils peuvent désigner
-au ministre tout mandataire de leur choix. 
-
-La communication est effectuée à titre gratuit. Ses modalités sont fixées par voie conventionnelle.
+III.-Les modalités d'application du I du présent article sont fixées par arrêté du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Décret n°2010-682 du 22 juin 2010 - art. 1
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2018-387 du 24 mai 2018 - art. 3
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L2132-21
+  - Code général de la propriété des personnes publiques. - art. L2132-23
+  - Code de la route. - art. L130-4 (V)
+  - Code de la route. - art. L130-7 (V)
+  - Code de la route. - art. L330-2 (V)
+  - Code de la route. - art. R321-14-1 (V)
+  - Code des transports - art. L2241-1
+  - Code des transports - art. L4272-1
+  - Code des transports - art. L4272-2
+  - Code des transports - art. L4321-3
+  - Code des transports - art. L5243-1
+  - Code des transports - art. L5337-2
+
+_Anciens textes_:
+
+  - Code de la route - art. R247-8 (Ab)
+  - Code de la route R247-8
+
+
+###### Article R330-4
+
+I.-Parmi les autorités et personnes mentionnées à l'article L. 330-3, bénéficient de la communication des informations
+mentionnées à cet article, à raison de leurs attributions et dans la limite du besoin d'en connaître, au moyen d'un accès
+direct : 
+
+1° Les autorités judiciaires ; 
+
+2° Les officiers ou agents de police judiciaire des services de police ou des unités de la gendarmerie nationales, dans
+l'exercice des missions définies à l'article 14 du code de procédure pénale ; 
+
+3° Les préfets pour l'exercice de leur compétence en matière de circulation des véhicules, ainsi que les agents des
+préfectures et sous-préfectures chargés de la délivrance du certificat d'immatriculation. 
+
+II.-Reçoivent, à leur demande, communication des informations mentionnées à l'article L. 330-3, par l'intermédiaire du
+ministre de l'intérieur par voie électronique ou des services de la police ou de la gendarmerie nationales territorialement
+compétents : 
+
+1° La personne physique ou morale titulaire des pièces administratives exigées pour la circulation routière, son avocat ou
+son mandataire ; 
+
+2° Les autorités compétentes de Saint-Barthélemy, de Saint-Martin, de Wallis-et-Futuna, de la Nouvelle-Calédonie et de la
+Polynésie française, pour l'exercice de leurs attributions en matière de circulation des véhicules.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2018-387 du 24 mai 2018 - art. 3
+
+_Cite_:
+
+  - Code de procédure pénale - art. 14
+  - Code de la route. - art. L330-3
+
+_Anciens textes_:
+
+  - Code de la route - art. R247-9 (Ab)
+  - Code de la route R247-9
+
+
+###### Article R330-5
+
+Les personnes énumérées à l'article L. 330-4 reçoivent, à leur demande, communication des informations mentionnées à cet
+article par l'intermédiaire du ministre de l'intérieur par voie électronique ou des services de la police ou de la
+gendarmerie nationales territorialement compétents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2018-387 du 24 mai 2018 - art. 3
+
+_Anciens textes_:
+
+  - Code de la route - art. R247-10 (Ab)
+  - Code de la route R247-10
+
+_Cite_:
+
+  - Code de la route. - art. L330-4
+
+_Nouveaux textes_:
+
+  - Code de la route. - art. R330-6 (V)
+
+
+###### Article R330-6
+
+La communication des informations prévues aux articles L. 330-2 à L. 330-4 aux demandeurs qui disposent d'un droit d'accès en
+vertu d'une disposition législative particulière est assurée par le         ministre de l'intérieur par voie électronique ou
+par les services de la police nationale ou de la gendarmerie territorialement compétents.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2018-387 du 24 mai 2018 - art. 3
 
 _Cite_:
 
