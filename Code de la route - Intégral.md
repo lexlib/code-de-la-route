@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2018-05-26
+Version Consolidée au 2018-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -35534,7 +35534,9 @@ I. - Hors agglomération, la vitesse des véhicules est limitée à :
 
 2° 110 km/h sur les routes à deux chaussées séparées par un terre-plein central ;
 
-3° 90 km/h sur les autres routes.
+3° 80 km/ h sur les autres routes. Toutefois, sur les sections de ces routes comportant au moins deux voies affectées à un
+même sens de circulation, la vitesse maximale est relevée à 90 km/ h sur ces seules voies. Ces sections font l'objet d'une
+signalisation routière dans les conditions prévues par l'article R. 411-25.
 
 II. - En cas de pluie ou d'autres précipitations, ces vitesses maximales sont abaissées à :
 
@@ -35543,22 +35545,25 @@ II. - En cas de pluie ou d'autres précipitations, ces vitesses maximales sont a
 2° 100 km/h sur les sections d'autoroutes où cette limite est plus basse ainsi que sur les routes à deux chaussées séparées
 par un terre-plein central ;
 
-3° 80 km/h sur les autres routes.
+3° 80 km/ h sur les sections des autres routes mentionnées au 3° du I.
+
+III. - Les autorités détentrices du pouvoir de police de la circulation compétentes communiquent au ministre chargé de la
+sécurité routière la liste des sections de routes relevant de leur compétence qui comportent au moins deux voies affectées à
+un même sens de circulation et sur lesquelles la vitesse maximale est relevée à 90 km/ h en application du 3° du I.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2018-487 du 15 juin 2018 - art. 1
 
 _Anciens textes_:
 
   - Code de la route R10 (al. 2 à 5 et 8 à 11)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R413-3
@@ -35839,15 +35844,16 @@ _Cite_:
 
 ###### Article R413-10
 
-I. - Hors agglomération, la vitesse des véhicules de transport en commun est limitée à 90 km / h. 
+I. - Hors agglomération et à l'exception des voies sur lesquelles la vitesse des véhicules est limitée à 80 km/h en
+application du 3° du I de l'article R. 413-2, la vitesse des véhicules de transport en commun est limitée à 90 km/h.
 
-II.- Toutefois, cette vitesse maximale est relevée à 100 km / h : 
+II.- Toutefois, cette vitesse maximale est relevée à 100 km/h :
 
 1° Sur les autoroutes pour les véhicules dont le poids total est supérieur à 10 tonnes et possédant des caractéristiques
-techniques particulières définies par arrêté du ministre chargé des transports ; 
+techniques particulières définies par arrêté du ministre chargé des transports ;
 
 2° Sur les autoroutes et les routes à chaussées séparées par un terre-plein central pour les véhicules dont le poids est
-inférieur ou égal à 10 tonnes. 
+inférieur ou égal à 10 tonnes.
 
 III.- En exploitation, ces vitesses maximales sont abaissées à 70 km / h pour les autobus et les autocars avec passagers
 debout.
@@ -35861,7 +35867,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 18
+  - Décret n°2018-487 du 15 juin 2018 - art. 1
 
 _Anciens textes_:
 
@@ -35947,10 +35953,10 @@ _Créé par_:
 
 ###### Article R413-13
 
-Les véhicules dont la vitesse est réglementée    en raison de leur poids ou de leur mode d'exploitation doivent porter,
-visible à l'arrière, l'indication de la ou des vitesses maximales qu'ils sont tenus de ne pas dépasser. 
+Les véhicules dont la vitesse est réglementée en raison de leur poids ou de leur mode d'exploitation doivent porter, visible
+à l'arrière, l'indication de la ou des vitesses maximales qu'ils sont tenus de ne pas dépasser.
 
-Le ministre chargé des transports fixe par arrêté les conditions d'application du présent article. 
+Le ministre chargé de la sécurité routière fixe par arrêté les conditions d'application du présent article.
 
 Le fait, pour tout conducteur, de ne pas respecter l'obligation de signalisation imposée par le présent article et les
 dispositions prises pour son application est puni de l'amende prévue pour les contraventions de la deuxième classe.
@@ -35965,7 +35971,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 18
+  - Décret n°2018-487 du 15 juin 2018 - art. 1
 
 _Anciens textes_:
 
