@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2018-08-06
+Version Consolidée au 2018-09-19
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -10906,9 +10906,11 @@ de l'amende encourue pour des infractions aux règles sur :
 1° Le port d'une ceinture de sécurité homologuée dès lors que le siège qu'il occupe en est équipé prévu à l'article R.
 412-1 ; 
 
-2° L'usage du téléphone tenu en main prévu aux premier, quatrième et cinquième alinéas de l'article R. 412-6-1 ; 
+2° L'usage du téléphone tenu en main ou le port à l'oreille de tout dispositif susceptible d'émettre du son prévus à
+l'article R. 412-6-1 ; 
 
-3° L'usage de voies et chaussées réservées à certaines catégories de véhicules prévu aux II et III de l'article R. 412-7 ; 
+3° L'usage de voies et chaussées réservées à certaines catégories de véhicules, de voies vertes et d'aires piétonnes prévu au
+II de l'article R. 412-7 ; 
 
 4° L'arrêt, le stationnement ou la circulation sur les bandes d'arrêt d'urgence prévus à l'article R. 412-8, au 9° du II de
 l'article R. 417-10 et à l'article R. 421-7 ; 
@@ -10917,20 +10919,25 @@ l'article R. 417-10 et à l'article R. 421-7 ;
 
 6° Le franchissement et le chevauchement des lignes continues prévus aux articles R. 412-19 et R. 412-22 ; 
 
+6° bis Le sens de la circulation ou les manœuvres interdites prévus aux articles R. 412-28 et R. 421-6 ; 
+
 7° Les signalisations imposant l'arrêt des véhicules prévues aux articles R. 412-30, R. 412-31 et R. 415-6 ; 
 
 8° Les vitesses maximales autorisées prévues aux articles R. 413-14, R. 413-14-1 et R. 413-17 ; 
 
 9° Le dépassement prévu aux articles R. 414-4, R. 414-6 et R. 414-16 ; 
 
-10° L'engagement dans l'espace compris entre les deux lignes d'arrêt prévu aux deuxième et quatrième alinéas de l'article R.
-415-2 ; 
+10° L'engagement dans une intersection ou dans l'espace compris entre les deux lignes d'arrêt prévu à l'article R. 415-2 ; 
+
+10° bis La priorité de passage à l'égard du piéton prévue à l'article R. 415-11 ; 
 
 11° L'obligation du port d'un casque homologué d'une motocyclette, d'un tricycle à moteur, d'un quadricycle à moteur ou d'un
 cyclomoteur prévue à l'article R. 431-1 ; 
 
 12° L'obligation, pour faire circuler un véhicule terrestre à moteur, d'être couvert par une assurance garantissant la
-responsabilité civile, prévue aux articles L. 211-1 et L. 211-2 du code des assurances et à l'article L. 324-2.
+responsabilité civile, prévue aux articles L. 211-1 et L. 211-2 du code des assurances et à l'article L. 324-2 ; 
+
+13° Le port de plaques d'immatriculation dans les conditions prévues à l'article R. 317-8.
 
 **Nota:**
 
@@ -10939,38 +10946,42 @@ dans leur rédaction issue du 1° de l'article 1er dudit décret, entrent en vig
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2016-1955 du 28 décembre 2016 - art. 1
-
 _Cité par_:
 
   - Décret n°2016-1955 du 28 décembre 2016 - art. 2 (V)
 
+_Modifié par_:
+
+  - Décret n°2018-795 du 17 septembre 2018 - art. 2
+
 _Cite_:
 
-  - Code des assurances - art. L211-1 (V)
-  - Code de la route. - art. L121-3 (V)
-  - Code de la route. - art. L324-2 (V)
+  - Code des assurances - art. L211-1
+  - Code de la route. - art. L121-3
+  - Code de la route. - art. L324-2
+  - Code de la route. - art. R317-8
   - Code de la route. - art. R412-1 (V)
-  - Code de la route. - art. R412-12 (V)
-  - Code de la route. - art. R412-19 (V)
-  - Code de la route. - art. R412-22 (V)
-  - Code de la route. - art. R412-30 (VT)
-  - Code de la route. - art. R412-31 (V)
-  - Code de la route. - art. R412-6-1 (V)
-  - Code de la route. - art. R412-7 (V)
-  - Code de la route. - art. R412-8 (V)
-  - Code de la route. - art. R413-14 (V)
+  - Code de la route. - art. R412-12
+  - Code de la route. - art. R412-19
+  - Code de la route. - art. R412-22
+  - Code de la route. - art. R412-28
+  - Code de la route. - art. R412-30
+  - Code de la route. - art. R412-31
+  - Code de la route. - art. R412-6-1
+  - Code de la route. - art. R412-7
+  - Code de la route. - art. R412-8
+  - Code de la route. - art. R413-14
   - Code de la route. - art. R413-17 (V)
-  - Code de la route. - art. R414-16 (V)
-  - Code de la route. - art. R414-4 (V)
-  - Code de la route. - art. R414-6 (V)
-  - Code de la route. - art. R415-2 (VT)
-  - Code de la route. - art. R415-6 (V)
-  - Code de la route. - art. R417-10 (V)
-  - Code de la route. - art. R421-7 (V)
-  - Code de la route. - art. R431-1 (V)
+  - Code de la route. - art. R414-16
+  - Code de la route. - art. R414-4
+  - Code de la route. - art. R414-6
+  - Code de la route. - art. R415-11 (V)
+  - Code de la route. - art. R415-2
+  - Code de la route. - art. R415-6
+  - Code de la route. - art. R417-10
+  - Code de la route. - art. R421-6
+  - Code de la route. - art. R421-7
+  - Code de la route. - art. R431-1
 
 
 ### Titre III : Recherche et constatation des infractions.<a id=77></a>
@@ -11479,14 +11490,15 @@ ayant fait l'objet d'une homologation, relatives aux infractions sur :
 
 6° Le franchissement et le chevauchement des lignes continues prévus à l'article R. 412-19 ; 
 
+6° bis Le sens de la circulation prévu aux articles R. 412-28 et R. 421-6 ; 
+
 7° Les signalisations imposant l'arrêt des véhicules prévues aux articles R. 412-30 et R. 415-6 ; 
 
 8° Les vitesses maximales autorisées prévues aux articles R. 413-14 et R. 413-14-1 ; 
 
 9° Le dépassement prévu aux II et IV de l'article R. 414-4 et aux articles R. 414-6 et R. 414-16 ; 
 
-10° L'engagement dans l'espace compris entre les deux lignes d'arrêt prévu aux deuxième et quatrième alinéas de l'article R.
-415-2 ; 
+10° L'engagement dans une intersection ou dans l'espace compris entre les deux lignes d'arrêt prévu à l'article R. 415-2 ; 
 
 11° L'obligation du port d'un casque homologué d'une motocyclette, d'un tricycle à moteur, d'un quadricycle à moteur ou d'un
 cyclomoteur prévue à l'article R. 431-1 ; 
@@ -11507,28 +11519,30 @@ _Cité par_:
   - Décret n°2016-1955 du 28 décembre 2016 - art. 2 (V)
   - Arrêté du 15 octobre 2018 - art. 1
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1955 du 28 décembre 2016 - art. 1
+  - Décret n°2018-795 du 17 septembre 2018 - art. 3
 
 _Cite_:
 
-  - Code des assurances - art. L211-1 (V)
-  - Code de la route. - art. L324-2 (V)
-  - Code de la route. - art. R412-1 (V)
-  - Code de la route. - art. R412-12 (V)
-  - Code de la route. - art. R412-19 (V)
-  - Code de la route. - art. R412-30 (VT)
-  - Code de la route. - art. R412-6-1 (V)
-  - Code de la route. - art. R412-7 (V)
-  - Code de la route. - art. R412-8 (V)
-  - Code de la route. - art. R413-14 (V)
-  - Code de la route. - art. R414-16 (V)
-  - Code de la route. - art. R414-4 (V)
-  - Code de la route. - art. R414-6 (V)
-  - Code de la route. - art. R415-2 (VT)
-  - Code de la route. - art. R415-6 (V)
-  - Code de la route. - art. R431-1 (V)
+  - Code des assurances - art. L211-1
+  - Code de la route. - art. L324-2
+  - Code de la route. - art. R412-1
+  - Code de la route. - art. R412-12
+  - Code de la route. - art. R412-19
+  - Code de la route. - art. R412-28
+  - Code de la route. - art. R412-30
+  - Code de la route. - art. R412-6-1
+  - Code de la route. - art. R412-7
+  - Code de la route. - art. R412-8
+  - Code de la route. - art. R413-14
+  - Code de la route. - art. R414-16
+  - Code de la route. - art. R414-4
+  - Code de la route. - art. R414-6
+  - Code de la route. - art. R415-2
+  - Code de la route. - art. R415-6
+  - Code de la route. - art. R421-6
+  - Code de la route. - art. R431-1
 
 
 ### Titre IV : Dispositions relatives à l'outre-mer.<a id=78></a>
@@ -11715,44 +11729,40 @@ _Modifié par_:
 
 ###### Article R143-1
 
-Sont  applicables en Nouvelle-Calédonie, en Polynésie française et dans les  îles Wallis et Futuna, les dispositions des
-articles mentionnés dans la  colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans  la colonne de droite
-du même tableau : 
+Sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, les dispositions des
+articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du
+même tableau :
 
 <table border="1">
-      <tbody>
-        <tr>
-          <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-</th>
-          <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
 
-DANS LEUR RÉDACTION 
+R. 130-11</td>
+      <td align="justify">
 
-</th>
-        </tr>
-        <tr>
-          <td align="justify" valign="middle">
-
-R. 130-11 
-
-</td>
-          <td align="justify" valign="middle">
-
-Résultant du décret n° 2016-1955 du 28 décembre 2016.
-
-</td>
-        </tr>
-      </tbody>
-    </table>
+Résultant du décret n° 2018-795 du 17  septembre 2018 .</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2016-1955 du 28 décembre 2016 - art. 1
+  - Décret n°2018-795 du 17 septembre 2018
+
+_Modifié par_:
+
+  - Décret n°2018-795 du 17 septembre 2018 - art. 4
 
 
 ## Livre II : Le conducteur.<a id=82></a>
@@ -12578,7 +12588,7 @@ _Cite_:
 
 Les autorisations mentionnées à l'article R. 212-2 ne peuvent être délivrées aux personnes qui ont fait l'objet d'une
 condamnation prononcée par une juridiction française ou par une juridiction étrangère, à une peine criminelle, ou à une peine
-correctionnelle pour l'une des infractions suivantes : 
+correctionnelle pour l'une des infractions suivantes :
 
 I. - Délits d'atteinte à la personne humaine prévus par le code pénal :
 
@@ -12642,13 +12652,15 @@ II. - Délits d'atteinte aux biens prévus par le code pénal :
 
 - recel (art. 321-1 et 321-2) ;
 
-- détérioration de biens et tentative (art. 322-1 à 322-4). 
+- détérioration de biens et tentative (art. 322-1 à 322-4).
 
 III. - Délits d'atteinte à l'autorité de l'Etat et à la confiance publique prévus par le code pénal :
 
 - corruption active et trafic d'influence (art. 433-1 et 433-2) ;
 
-- outrage et rébellion envers une personne dépositaire de l'autorité publique (art. 433-5,433-7 et 433-8) ;
+- outrage et rébellion envers une personne dépositaire de l'autorité publique ou chargée d'une mission de service public
+telle que définie aux articles R. 213-4 et D. 221-3, dans l'exercice ou à l'occasion de l'exercice de sa mission (art.
+433-5,433-7 et 433-8) ;
 
 - témoignage mensonger et subornation de témoin (art. 434-13 à 434-15) ;
 
@@ -12657,9 +12669,9 @@ de conduire ou refus de restituer celui-ci ou destruction ou détournement d'un 
 
 - faux, usage de faux en écriture et détention de faux documents administratifs (art. 441-1 à 441-3) ;
 
-- établissement d'attestation ou de certificat inexact, après avoir sollicité des offres, dons ou avantages (art. 441-8). 
+- établissement d'attestation ou de certificat inexact, après avoir sollicité des offres, dons ou avantages (art. 441-8).
 
-IV. - Délit prévu par la loi du 23 décembre 1901 modifiée réprimant les fraudes dans les examens et concours publics. 
+IV. - Délit prévu par la loi du 23 décembre 1901 modifiée réprimant les fraudes dans les examens et concours publics.
 
 V. - Délits prévus par le code du travail :
 
@@ -12671,7 +12683,7 @@ V. - Délits prévus par le code du travail :
 
 - travail dissimulé (art. L. 8221-1, L. 8221-3 à L. 8221-5, L. 8224-1) ;
 
-- emploi d'étranger en situation irrégulière (art. L. 8251-1, L. 8256-1, L. 8256-2). 
+- emploi d'étranger en situation irrégulière (art. L. 8251-1, L. 8256-1, L. 8256-2).
 
 VI. - Délits prévus par le code de la route :
 
@@ -12727,7 +12739,7 @@ d'un quadricycle à moteur soumis à réception et non réceptionné ou qui n'es
 - grand excès de vitesse en récidive (art. L. 413-1) ;
 
 - délits liés à l'offre ou à la commercialisation de dispositifs destinés à déceler la présence ou à perturber le
-fonctionnement des systèmes de constatation des infractions à la circulation routière (art. L. 413-2 à L. 413-5). 
+fonctionnement des systèmes de constatation des infractions à la circulation routière (art. L. 413-2 à L. 413-5).
 
 VII. - Délit prévu par le code de la santé publique :
 
@@ -12773,7 +12785,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-381 du 30 mars 2016 - art. 6
+  - Décret n°2018-795 du 17 septembre 2018 - art. 14
 
 _Cite_:
 
@@ -14728,8 +14740,8 @@ conditions d'âge ;
 
 2° Etre titulaire :
 
-a) Pour la première obtention du permis de conduire, s'agissant des personnes nées à compter du 1er janvier 1988, de
-l'attestation scolaire de sécurité routière de second niveau ou de l'attestation de sécurité routière ;
+a) Pour la première obtention du permis de conduire, s'agissant des personnes âgées de moins de 21 ans, de l'attestation
+scolaire de sécurité routière de second niveau ou de l'attestation de sécurité routière ;
 
 b) En outre :
 
@@ -14779,7 +14791,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1578 du 16 novembre 2017 - art. 1
+  - Décret n°2018-795 du 17 septembre 2018 - art. 15
 
 _Anciens textes_:
 
@@ -15771,8 +15783,8 @@ _Modifié par_:
 
 Tout titulaire d'un brevet militaire de conduite, validé par l'autorité militaire, peut, sans être tenu de subir les examens
 prévus au premier alinéa de l'article D. 221-3 obtenir la délivrance de la ou des catégories du permis de conduire
-correspondantes selon les modalités définies par arrêté du ministre chargé des transports, après avis du ministre de
-l'intérieur et du ministre de la défense.
+correspondantes selon les modalités définies par arrêté du ministre chargé de la sécurité routière, après avis du ministre de
+la défense.
 
 **Liens relatifs à cet article**
 
@@ -15794,10 +15806,6 @@ _Anciens textes_:
   - TXT_SOURCE: Arrêté du 1 juin 1999 - art. 7 (V)
   - TXT_SOURCE: Arrêté du 1 juin 1999 - art. 8 (V)
 
-_Modifié par_:
-
-  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
-
 _Cité par_:
 
   - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
@@ -15805,9 +15813,13 @@ _Cité par_:
   - Arrêté du 27 juin 2017 (V)
   - Code de la route. - art. R222-4 (V)
 
+_Modifié par_:
+
+  - Décret n°2018-795 du 17 septembre 2018 - art. 16
+
 _Cite_:
 
-  - Code de la route. - art. D221-3 (VD)
+  - Code de la route. - art. D221-3
 
 
 #### Chapitre III : Permis à points.<a id=101></a>
@@ -16355,6 +16367,91 @@ _Anciens textes_:
   - Code de la route R267-4
 
 
+###### Article R224-6
+
+I. – Dans les cas prévus aux articles L. 224-2 et L. 224-7, le préfet peut restreindre le droit de conduire d'un conducteur
+ayant commis l'une des infractions prévues par les articles L. 234-1, L. 234-8 et R. 234-1, par arrêté, pour une durée qui ne
+peut excéder six mois, aux seuls véhicules équipés d'un dispositif homologué d'anti-démarrage par éthylotest électronique,
+installé par un professionnel agréé ou par construction, conformément aux dispositions de l'article L. 234-17, en état de
+fonctionnement et après avoir utilisé lui-même ce dispositif sans en avoir altéré le fonctionnement. 
+
+Pendant cette durée, le permis de conduire de l'intéressé est conservé par l'administration et l'arrêté du préfet vaut permis
+de conduire au sens des articles R. 221-1-1 à D. 221-3 et titre justifiant de son autorisation de conduire au sens du I de
+l'article R. 233-1. 
+
+L'arrêté du préfet est notifié à l'intéressé soit directement s'il se présente au service indiqué dans l'avis de rétention du
+permis de conduire, soit par lettre recommandée avec demande d'avis de réception. 
+
+II. – Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne ayant fait l'objet
+de l'arrêté mentionné au I : 
+
+1° De conduire un véhicule non équipé du dispositif mentionné au I ; 
+
+2° De conduire un véhicule équipé d'un tel dispositif soit après que celui-ci a été utilisé par un tiers pour permettre le
+démarrage, soit après l'avoir neutralisé ou détérioré ou l'avoir utilisé dans des conditions empêchant la mesure exacte de
+son état d'imprégnation alcoolique. 
+
+III. – Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
+contravention prévue au II est puni de la même peine. 
+
+IV. – Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
+suivantes : 
+
+1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
+conduite en dehors de l'activité professionnelle, ni être assortie du sursis, même partiellement ; 
+
+2° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de trois ans au plus ; 
+
+3° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
+
+4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. 
+
+V. – La récidive des contraventions prévues au présent article est réprimée conformément à l' article 132-11 du code pénal . 
+
+VI. – Ces contraventions donnent lieu de plein droit à la réduction de six points du permis de conduire. 
+
+VII. – L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 du 22 mars 2001
+
+_Cité par_:
+
+  - Arrêté du 20 avril 2012 - art. Annexe I (V)
+  - Arrêté du 9 novembre 2018 (V)
+  - Arrêté du 9 novembre 2018 - art. 1
+  - Code de la route. - art. D226-3-1 (V)
+  - Code de la route. - art. R225-2 (VD)
+
+_Modifié par_:
+
+  - Décret n°2018-795 du 17 septembre 2018 - art. 5
+
+_Cite_:
+
+  - Code pénal - art. 132-11
+  - Code de la route. - art. D221-3
+  - Code de la route. - art. L224-2
+  - Code de la route. - art. L224-7
+  - Code de la route. - art. L234-1
+  - Code de la route. - art. L234-17
+  - Code de la route. - art. L234-8
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. L325-3
+  - Code de la route. - art. R221-1-1
+  - Code de la route. - art. R233-1 (V)
+  - Code de la route. - art. R234-1 (M)
+
+_Anciens textes_:
+
+  - Code de la route - art. R268 (Ab)
+  - Code de la route R268
+
+
 ###### Article R224-12
 
 L'examen médical prévu à l'article R. 221-13 est effectué avant l'expiration de la décision administrative de suspension du
@@ -16642,12 +16739,13 @@ _Cité par_:
 
 En vue d'établir l'avis mentionné à l'article R. 224-21, le médecin agréé consultant hors commission médicale ou la
 commission médicale procède à l'examen médical du candidat pour s'assurer que celui-ci est indemne de toute affection
-incompatible avec la délivrance du permis de conduire. 
+incompatible avec la délivrance du permis de conduire.
 
 Dans l'affirmative, le candidat est soumis à un examen psychotechnique, qui porte sur les tests prescrits par le médecin
-agréé consultant hors commission médicale ou la commission médicale. 
+agréé consultant hors commission médicale ou la commission médicale.
 
-Les résultats de cet examen sont communiqués au médecin agréé ou à la commission susmentionnée.
+Les résultats de cet examen sont communiqués au médecin agréé ou à la commission susmentionnée qui en prend connaissance
+avant de rendre son avis.
 
 **Liens relatifs à cet article**
 
@@ -16665,41 +16763,6 @@ _Cité par_:
   - Code de la route. - art. R226-2 (V)
 
 _Modifié par_:
-
-  - Décret n°2016-39 du 22 janvier 2016 - art. 3
-
-_Cite_:
-
-  - Code de la route. - art. R224-21
-
-
-###### Article R224-23
-
-Si le résultat de l'examen médical et de l'examen psychotechnique est favorable, le médecin agréé consultant hors commission
-médicale ou la commission médicale délivre le certificat prévu à l'article R. 224-21.
-
-Si le résultat est défavorable, le médecin agréé consultant hors commission médicale ou la commission médicale établit un
-certificat concluant à l'inaptitude du candidat.
-
-**Nota:**
-
-Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°60-848 du 6 août 1960 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2001-251 du 22 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2012-886 du 17 juillet 2012 - art. 3
-
-_Abrogé par_:
 
   - Décret n°2018-795 du 17 septembre 2018 - art. 17
 
@@ -17151,29 +17214,29 @@ _Cite_:
 ###### Article R226-2
 
 Ce contrôle est effectué par un médecin agréé par le préfet, consultant hors commission médicale, ou des médecins siégeant
-dans une commission médicale primaire départementale ou interdépartementale, mentionnés à l'article R. 221-11. 
+dans une commission médicale primaire départementale ou interdépartementale, mentionnés à l'article R. 221-11.
 
 Une commission médicale d'appel, composée de médecins généralistes et de spécialistes agréés, est créée dans chaque
-département. A défaut de praticiens en nombre suffisant, elle peut être interdépartementale. 
+département. A défaut de praticiens en nombre suffisant, elle peut être interdépartementale.
 
-Un médecin agréé ne peut effectuer le contrôle médical d'une personne dont il est le médecin traitant. 
+Un médecin agréé ne peut effectuer le contrôle médical d'une personne dont il est le médecin traitant.
 
 Si le contrôle médical de l'aptitude à la conduite intervient à la suite d'une invalidation, annulation ou suspension du
 permis d'une durée de six mois ou plus, il est complété par un examen psychotechnique réalisé dans les conditions prévues à
-l'article R. 224-22. 
+l'article R. 224-22.
 
 Lors de ce contrôle médical, le médecin agréé ou la commission médicale peut prescrire tout examen complémentaire. Il peut
 également solliciter, dans le respect du secret médical, l'avis de professionnels de santé qualifiés dans des domaines
-particuliers. 
+particuliers.
 
 S'il l'estime médicalement nécessaire, le médecin agréé peut demander au préfet de convoquer la personne examinée devant la
-commission médicale primaire dont la compétence est alors substituée à la sienne. 
+commission médicale primaire dont la compétence est alors substituée à la sienne.
 
 Le médecin agréé consultant hors commission médicale ou la commission médicale émet un avis médical sur l'aptitude,
 l'aptitude temporaire, l'aptitude avec restrictions d'utilisation du permis ou sur l'inaptitude à la conduite de la personne
-examinée. Cet avis est transmis au préfet par leurs soins. 
+examinée. Lorsque cet avis est rendu par la commission médicale, il est transmis au préfet par ses soins.
 
-Le contrôle médical de l'aptitude à la conduite n'est pas pris en charge par l'assurance maladie. 
+Le contrôle médical de l'aptitude à la conduite n'est pas pris en charge par l'assurance maladie.
 
 Les modalités d'organisation de ce contrôle médical et des tests psychotechniques sont fixées par arrêté conjoint des
 ministres chargés de la sécurité routière et de la santé.
@@ -17192,7 +17255,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-39 du 22 janvier 2016 - art. 4
+  - Décret n°2018-795 du 17 septembre 2018 - art. 18
 
 _Cite_:
 
@@ -17299,55 +17362,59 @@ _Anciens textes_:
 
 ###### Article R233-1
 
-I.-Lorsque les dispositions du présent code l'exigent, tout conducteur ou, le cas échéant, tout accompagnateur d'un apprenti
-conducteur, est tenu de présenter à toute réquisition des agents de l'autorité compétente : 
+I. – Lorsque les dispositions du présent code l'exigent, tout conducteur ou, le cas échéant, tout accompagnateur d'un
+apprenti conducteur, est tenu de présenter à toute réquisition des agents de l'autorité compétente :
 
-1° Tout titre justifiant de son autorisation de conduire ; 
+1° Tout titre justifiant de son autorisation de conduire ;
 
 2° Le certificat d'immatriculation du véhicule et, le cas échéant, celui de la remorque si le poids total autorisé en charge
 (PTAC) de cette dernière excède 500 kilogrammes, ou de la semi-remorque s'il s'agit d'un véhicule articulé, ou les récépissés
 provisoires, ou les photocopies des certificats d'immatriculation dans les cas et dans les conditions prévues par un arrêté
-du ministre de la justice et du ministre de l'intérieur ; 
+du ministre de la justice et du ministre de l'intérieur ;
 
 3° Pour l'accompagnateur d'un apprenti conducteur, le permis de conduire exigé pour la conduite du véhicule obtenu depuis au
 moins cinq ans ou l'autorisation d'enseigner la conduite des véhicules à moteur mentionnée aux articles L. 212-1 et R. 212-1
-correspondant à la catégorie du véhicule utilisé ; 
+correspondant à la catégorie du véhicule utilisé ;
 
 4° Dans les cas mentionnés aux II et III de l'article R. 221-8, une attestation de la formation pratique ou le document
-attestant d'une expérience de la conduite conforme aux conditions prévues par ces dispositions ; 
+attestant d'une expérience de la conduite conforme aux conditions prévues par ces dispositions ;
 
 5° Les documents attestant de l'équipement du véhicule d'un dispositif homologué d'antidémarrage par éthylotest électronique
-et de la vérification de son fonctionnement, lorsque le conducteur : 
+et de la vérification de son fonctionnement, lorsque le conducteur :
 
 a) A été condamné à une peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou par
-construction d'un tel dispositif ; ou 
+construction d'un tel dispositif ; ou
 
 b) Est soumis à l'obligation prévue au 7° de l'article 132-45 du code pénal, au 4° bis de l'article 41-2 ou au 8° de
-l'article 138 du code de procédure pénale ; 
+l'article 138 du code de procédure pénale ;
 
 c) Fait l'objet d'une décision de restriction d'usage du permis de conduire par l'autorité administrative compétente en
-application des articles R. 221-1-1 et R. 226-1 ; 
+application des articles R. 221-1-1 et R. 226-1 ;
 
-6° Un éthylotest dans les conditions prévues à l'article R. 234-7 ; 
+d) Fait l'objet d'une décision du préfet restreignant le droit de conduire, pendant une durée déterminée, aux seuls véhicules
+équipés par un professionnel agréé ou par construction, conformément aux dispositions de l'article L. 234-17, d'un dispositif
+homologué d'anti-démarrage par éthylotest électronique ;
 
-7° Le procès-verbal de contrôle technique périodique pour les véhicules mentionnés aux articles R. 323-23 et R. 323-25 ; 
+6° Un éthylotest dans les conditions prévues à l'article R. 234-7 ;
 
-8° Le triangle de présignalisation prévu au I de l'article R. 416-19 ; 
+7° Le procès-verbal de contrôle technique périodique pour les véhicules mentionnés aux articles R. 323-23 et R. 323-25 ;
 
-9° Le gilet de haute visibilité prévu au II de l'article R. 416-19. 
+8° Le triangle de présignalisation prévu au I de l'article R. 416-19 ;
 
-II.-En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
-vol tient lieu de titre pendant un délai de deux mois au plus. 
+9° Le gilet de haute visibilité prévu au II de l'article R. 416-19.
 
-III.-Hors le cas prévu au 6° du I, le fait de ne pas présenter immédiatement aux agents de l'autorité compétente les éléments
-exigés par le présent article est puni de l'amende prévue pour les contraventions de la première classe. 
+II. – En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
+vol tient lieu de titre pendant un délai de deux mois au plus.
 
-IV.-Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession de son brevet de sécurité
+III. – Hors le cas prévu au 6° du I, le fait de ne pas présenter immédiatement aux agents de l'autorité compétente les
+éléments exigés par le présent article est puni de l'amende prévue pour les contraventions de la première classe.
+
+IV. – Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession de son brevet de sécurité
 routière, de ne pas présenter ce document avant l'expiration de ce délai est puni de l'amende prévue pour les contraventions
-de la deuxième classe. 
+de la deuxième classe.
 
-V.-Hors les cas prévus aux 6°, 8° et 9° du I, le fait, pour toute personne invitée à justifier dans un délai de cinq jours de
-la possession des autorisations et pièces exigées par le présent article, de ne pas présenter ces documents avant
+V. – Hors les cas prévus aux 6°, 8° et 9° du I, le fait, pour toute personne invitée à justifier dans un délai de cinq jours
+de la possession des autorisations et pièces exigées par le présent article, de ne pas présenter ces documents avant
 l'expiration de ce délai est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
@@ -17363,18 +17430,19 @@ _Cité par_:
   - Code de la route - art. R249-1 (Ab)
   - Code de la route. - art. R130-3 (M)
   - Code de la route. - art. R130-6 (VD)
+  - Code de la route. - art. R224-6 (V)
   - Code pénal - art. R131-4-1 (V)
 
 _Modifié par_:
 
-  - Décret n°2017-198 du 16 février 2017 - art. 1
+  - Décret n°2018-795 du 17 septembre 2018 - art. 6
 
 _Cite_:
 
-  - Code pénal - art. 132-45 (V)
-  - Code de procédure pénale - art. 138 (V)
-  - Code de procédure pénale - art. 41-2 (VT)
-  - Code de la route. - art. L212-1 (V)
+  - Code pénal - art. 132-45
+  - Code de procédure pénale - art. 138
+  - Code de procédure pénale - art. 41-2
+  - Code de la route. - art. L212-1
   - Code de la route. - art. R212-1
   - Code de la route. - art. R221-1-1
   - Code de la route. - art. R221-8
@@ -17491,7 +17559,7 @@ _Cite_:
 
 ###### Article R234-1
 
-I.-Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les contraventions de la quatrième
+I. – Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les contraventions de la quatrième
 classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par : 
 
 1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par litre ou par une concentration d'alcool dans
@@ -17503,15 +17571,22 @@ délai probatoire défini à l'article L. 223-1 ou en situation d'apprentissage 
 l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, chez les
 autres conducteurs. 
 
-II.-L'immobilisation peut être prescrite dans les conditions prévue aux articles L. 325-1 à L. 325-3. 
+II. – L'immobilisation peut être prescrite dans les conditions prévue aux articles L. 325-1 à L. 325-3. 
 
-III.-Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
-suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
-dehors de l'activité professionnelle. 
+III. – Toute personne coupable de l'une des infractions mentionnées au I encourt également les peines complémentaires
+suivantes : 
 
-IV.-Cette contravention donne lieu de plein droit à la réduction de six points du permis de conduire. 
+1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la
+conduite en dehors de l'activité professionnelle ; 
 
-V.-Les dispositions du présent article sont applicables à l'accompagnateur d'un élève conducteur.
+2° L'interdiction, pendant une durée de trois ans au plus, de conduire un véhicule qui ne soit pas équipé d'un dispositif
+homologué d'anti-démarrage par éthylotest électronique par un professionnel agréé ou par construction, conformément aux
+dispositions de l'article L. 234-17, en état de fonctionnement et après avoir utilisé elle-même ce dispositif sans en avoir
+altéré le fonctionnement. 
+
+IV. – Cette contravention donne lieu de plein droit à la réduction de six points du permis de conduire. 
+
+V. – Les dispositions du présent article sont applicables à l'accompagnateur d'un élève conducteur.
 
 **Liens relatifs à cet article**
 
@@ -17533,13 +17608,14 @@ _Cité par_:
   - Code de la route. - art. R130-1-2 (V)
   - Code de la route. - art. R130-2 (V)
   - Code de la route. - art. R130-3 (V)
+  - Code de la route. - art. R224-6 (V)
   - Code de la route. - art. R243-1 (V)
   - Code de la route. - art. R244-1 (V)
   - Code de la route. - art. R245-1 (V)
 
 _Modifié par_:
 
-  - Décret n°2015-743 du 24 juin 2015 - art. 1
+  - Décret n°2018-795 du 17 septembre 2018 - art. 7
 
 _Anciens textes_:
 
@@ -17552,6 +17628,7 @@ _Cite_:
 
   - Code de la route. - art. L223-1
   - Code de la route. - art. L234-1
+  - Code de la route. - art. L234-17
   - Code de la route. - art. L325-1
   - Code de la route. - art. R211-3
 
@@ -33866,22 +33943,22 @@ _Cité par_:
 
 L'organisation des épreuves, courses ou compétitions sportives devant se disputer en totalité ou en partie sur les voies
 ouvertes à la circulation publique est soumise aux dispositions prévues à la section 4 du chapitre Ier du titre III du livre
-III du code du sport. 
+III du code du sport.
 
 Par dérogation aux dispositions de l'article R. 322-1, la circulation sur la voie publique ou ouverte à la circulation
 publique d'un véhicule à moteur destiné à participer à une manifestation sportive entrant dans le cadre des articles R.
 331-18 et R. 331-20 du code du sport, non réceptionné ou qui n'est plus conforme à sa réception d'origine telle que prévue
-aux articles R. 321-1 et suivants, est autorisée sur un parcours de liaison tel que défini à l'article R. 331-21 (4°) du code
-du sport. 
+aux articles R. 321-1 et suivants, est autorisée sur un parcours de liaison tel que défini au 10° de l'article R. 331-18 du
+code du sport.
 
 Cette autorisation est valide sous réserve d'une inscription à une manifestation sportive organisée conformément à l'article
-R. 331-26 du code du sport. 
+R. 331-26 du code du sport.
 
 Cette dérogation est strictement limitée à la date et à l'itinéraire prévus dans l'arrêté d'autorisation de la manifestation
-sportive. 
+sportive.
 
 Les modalités d'application relatives à l'identification des conducteurs sont fixées par arrêté conjoint du ministre de
-l'intérieur et du ministre chargé des sports. 
+l'intérieur et du ministre chargé des sports.
 
 Un arrêté du ministre chargé des transports fixe, pour chaque type de véhicule, les dispositifs techniques et de sécurité
 minimaux dont ils doivent disposer pour l'application de cet article.
@@ -33894,13 +33971,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1279 du 9 août 2017 - art. 29
+  - Décret n°2018-795 du 17 septembre 2018 - art. 19
 
 _Cite_:
 
   - Code du sport. - art. R331-18
   - Code du sport. - art. R331-20
-  - Code du sport. - art. R331-21
   - Code du sport. - art. R331-26
   - Code de la route. - art. R322-1
 
@@ -34028,14 +34104,12 @@ _Cité par_:
 I. - En circulation, tout conducteur ou passager d'un véhicule à moteur doit porter une ceinture de sécurité homologuée dès
 lors que le siège qu'il occupe en est équipé en application des dispositions du livre III.
 
-Chaque siège équipé d'une ceinture de sécurité ne peut être occupé que par une seule personne.
-
 II. - Toutefois, le port de la ceinture de sécurité n'est pas obligatoire :
 
 1° Pour toute personne dont la morphologie est manifestement inadaptée au port de celle-ci ;
 
 2° Pour toute personne munie d'un certificat médical d'exemption, délivré par un médecin agréé consultant hors commission
-médicale chargé  d'apprécier l'aptitude physique des candidats au permis de conduire et des conducteurs ou par les autorités
+médicale chargé d'apprécier l'aptitude physique des candidats au permis de conduire et des conducteurs ou par les autorités
 compétentes d'un Etat membre de la Communauté européenne ou de l'Espace économique européen. Ce certificat médical doit
 mentionner sa durée de validité et comporter le symbole prévu à l'article 5 de la directive 91/671/CEE du Conseil du 16
 décembre 1991 ;
@@ -34062,14 +34136,10 @@ _Codifié par_:
 
   - Décret n°2001-251 du 22 mars 2001
 
-_Modifié par_:
-
-  - Décret n°2012-886 du 17 juillet 2012 - art. 3
-
 _Cité par_:
 
   - Arrêté du 31 juillet 2012 - art. 1 (VT)
-  - Code de la route. - art. R121-6 (M)
+  - Code de la route. - art. R121-6 (V)
   - Code de la route. - art. R130-11 (V)
   - Code de la route. - art. R130-3 (M)
   - Code de la route. - art. R130-6 (VD)
@@ -34078,12 +34148,35 @@ _Cité par_:
   - Code de la route. - art. R412-5 (V)
   - Code de la route. - art. R431-2 (Ab)
 
+_Modifié par_:
+
+  - Décret n°2018-795 du 17 septembre 2018 - art. 9
+
 _Anciens textes_:
 
   - Code de la route - art. R233 (Ab)
   - Code de la route - art. R256 (Ab)
   - Code de la route - art. R53-1 (Ab)
   - Code de la route R53-1, R233 (al. 6), R256 5°
+
+
+###### Article R412-1-1
+
+Sauf dispositions contraires, les passagers d'un véhicule à moteur sont transportés sur des sièges dans la limite du nombre
+de places assises mentionné sur le certificat d'immatriculation du véhicule. Chaque siège ne peut être occupé que par une
+seule personne.
+
+Le fait, pour tout conducteur ou passager, de contrevenir aux dispositions du présent article est puni de l'amende prévue
+pour les contraventions de la quatrième classe.
+
+Lorsque cette contravention est commise par le conducteur, elle donne lieu de plein droit à la réduction de trois points du
+permis de conduire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-795 du 17 septembre 2018 - art. 9
 
 
 ###### Article R412-2
@@ -34438,35 +34531,35 @@ _Anciens textes_:
 ###### Article R412-9
 
 En marche normale, tout conducteur doit maintenir son véhicule près du bord droit de la chaussée, autant que le lui permet
-l'état ou le profil de celle-ci. 
+l'état ou le profil de celle-ci.
 
 Toutefois, un conducteur qui pénètre sur un carrefour à sens giratoire comportant plusieurs voies de circulation en vue
-d'emprunter une sortie située sur sa gauche par rapport à son axe d'entrée peut serrer à gauche. 
+d'emprunter une sortie située sur sa gauche par rapport à son axe d'entrée peut serrer à gauche.
 
 Chaque manoeuvre de changement de voie à l'intérieur du carrefour à sens giratoire reste soumise aux règles de la priorité et
-doit être signalée aux autres conducteurs. 
+doit être signalée aux autres conducteurs.
 
 Un conducteur de cycle peut s'éloigner du bord droit de la chaussée lorsqu'une trajectoire matérialisée pour les cycles,
-signalisée en application des dispositions de l'article R. 411-25, le permet. 
+signalisée en application des dispositions de l'article R. 411-25, le permet.
 
 Sur les voies où la vitesse maximale autorisée n'excède pas 50 km/ h, un conducteur de cycle peut s'écarter des véhicules en
-stationnement sur le bord droit de la chaussée, d'une distance nécessaire à sa sécurité. 
+stationnement sur le bord droit de la chaussée, d'une distance nécessaire à sa sécurité.
 
 Sous réserve des dispositions des quatrième et cinquième alinéas du présent article, le fait, pour tout conducteur, de ne pas
 maintenir, en marche normale, son véhicule près du bord droit de la chaussée est puni de l'amende prévue pour les
-contraventions de la deuxième classe. 
+contraventions de la deuxième classe.
 
 Le fait, pour tout conducteur, de circuler, en marche normale, sur la partie gauche d'une chaussée à double sens de
-circulation est puni de l'amende prévue pour les contraventions de la quatrième classe. 
+circulation est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 Tout conducteur coupable de cette dernière infraction encourt également la peine complémentaire de suspension du permis de
 conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle. 
+professionnelle.
 
-Cette dernière contravention donne lieu de plein droit à la réduction de trois points du permis de conduire. 
+Cette dernière contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
 
-Les dispositions du présent article ne s'appliquent pas aux représentants mentionnés à l'article R. 411-31 dans les cas
-prévus à l'article R. 414-3-1.
+Les dispositions du présent article ne s'appliquent pas aux représentants mentionnés à l' article R. 411-31 dans les cas
+prévus à l'article R. 414-3-1 et aux conducteurs dans les cas prévus à l'article R. 412-11-1.
 
 **Liens relatifs à cet article**
 
@@ -34482,7 +34575,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1279 du 9 août 2017 - art. 32
+  - Décret n°2018-795 du 17 septembre 2018 - art. 10
 
 _Anciens textes_:
 
@@ -34497,7 +34590,7 @@ _Cite_:
 
   - Code de la route. - art. R411-25
   - Code de la route. - art. R411-31
-  - Code de la route. - art. R414-3-1 (V)
+  - Code de la route. - art. R414-3-1
 
 
 ###### Article R412-10
@@ -34565,6 +34658,49 @@ _Anciens textes_:
 
   - SPEC_APPLI: Code de la route. - art. R432-1 (V)
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+
+###### Article R412-11-1
+
+Lorsqu'un véhicule équipé des feux spéciaux mentionnés aux articles R. 313-27 et R. 313-28 ou tout autre véhicule dont le
+conducteur fait usage de ses feux de détresse dans les conditions prévues au premier alinéa de l'article R. 416-18 est
+immobilisé ou circule à faible allure sur un accotement ou une bande d'arrêt d'urgence, tout conducteur circulant sur le bord
+droit de la chaussée doit à son approche réduire sa vitesse conformément à l'article R. 413-17 et changer de voie de
+circulation après s'être assuré qu'il peut le faire sans danger. Si le changement de voie n'est pas réalisable, le conducteur
+doit s'éloigner le plus possible du véhicule en demeurant dans sa voie. 
+
+Lorsque ce même véhicule est immobilisé ou circule à faible allure sur une chaussée, tout conducteur circulant sur la même
+voie de circulation doit à son approche réduire sa vitesse conformément à l'article R. 413-17, au besoin s'arrêter, et
+dépasser le véhicule en exécutant les manœuvres prévues à l'article R. 414-4. 
+
+Lorsque ce même véhicule est immobilisé ou circule à faible allure sur une voie de circulation adjacente, tout conducteur
+doit à son approche réduire sa vitesse conformément à l'article R. 413-17 et s'en éloigner le plus possible en demeurant dans
+la même voie. 
+
+Les manœuvres prévues au présent article se réalisent dans le respect de la signalisation routière ou, le cas échant, des
+indications données par l'un des agents mentionnés à l'article R. 411-28. 
+
+Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
+contraventions de la quatrième classe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-795 du 17 septembre 2018 - art. 11
+
+_Cite_:
+
+  - Code de la route. - art. R313-27
+  - Code de la route. - art. R313-28
+  - Code de la route. - art. R411-28
+  - Code de la route. - art. R413-17
+  - Code de la route. - art. R414-4
+  - Code de la route. - art. R416-18
+
+_Cité par_:
+
+  - Code de la route. - art. R412-9 (V)
 
 
 ###### Article R412-12
@@ -36547,39 +36683,44 @@ _Cité par_:
 
 ###### Article R413-17
 
-I. - Les vitesses maximales autorisées par les dispositions du présent code, ainsi que celles plus réduites éventuellement
+I.-Les vitesses maximales autorisées par les dispositions du présent code, ainsi que celles plus réduites éventuellement
 prescrites par les autorités investies du pouvoir de police de la circulation, ne s'entendent que dans des conditions
-optimales de circulation : bonnes conditions atmosphériques, trafic fluide, véhicule en bon état.
+optimales de circulation : bonnes conditions atmosphériques, trafic fluide, véhicule en bon état. 
 
-II. - Elles ne dispensent en aucun cas le conducteur de rester constamment maître de sa vitesse et de régler cette dernière
-en fonction de l'état de la chaussée, des difficultés de la circulation et des obstacles prévisibles.
+II.-Elles ne dispensent en aucun cas le conducteur de rester constamment maître de sa vitesse et de régler cette dernière en
+fonction de l'état de la chaussée, des difficultés de la circulation et des obstacles prévisibles. 
 
-III. - Sa vitesse doit être réduite :
+III.-Sa vitesse doit être réduite : 
 
-1° Lors du croisement ou du dépassement de piétons ou de cyclistes isolés ou en groupe ;
+1° Lors du croisement ou du dépassement de piétons y compris ceux ayant quitté un véhicule ou de cyclistes isolés ou en
+groupe ; 
 
-2° Lors du dépassement de convois à l'arrêt ;
+1° bis Lors du croisement ou du dépassement de tout véhicule, immobilisé ou circulant à faible allure sur un accotement, une
+bande d'arrêt d'urgence ou une chaussée, équipé des feux spéciaux mentionnés aux articles R. 313-27 et R. 313-28 ou dont le
+conducteur fait usage de ses feux de détresse dans les conditions prévues au premier alinéa de l'article R. 416-18 ; 
+
+2° Lors du dépassement de convois à l'arrêt ; 
 
 3° Lors du croisement ou du dépassement de véhicules de transport en commun ou de véhicules affectés au transport d'enfants
-et faisant l'objet d'une signalisation spéciale, au moment de la descente et de la montée des voyageurs ;
+et faisant l'objet d'une signalisation spéciale, au moment de la descente et de la montée des voyageurs ; 
 
-4° Dans tous les cas où la route ne lui apparaît pas entièrement dégagée, ou risque d'être glissante ;
+4° Dans tous les cas où la route ne lui apparaît pas entièrement dégagée, ou risque d'être glissante ; 
 
-5° Lorsque les conditions de visibilité sont insuffisantes (temps de pluie et autres précipitations, brouillard...) ;
+5° Lorsque les conditions de visibilité sont insuffisantes (temps de pluie et autres précipitations, brouillard...) ; 
 
-6° Dans les virages ;
+6° Dans les virages ; 
 
-7° Dans les descentes rapides ;
+7° Dans les descentes rapides ; 
 
-8° Dans les sections de routes étroites ou encombrées ou bordées d'habitations ;
+8° Dans les sections de routes étroites ou encombrées ou bordées d'habitations ; 
 
-9° A l'approche des sommets de côtes et des intersections où la visibilité n'est pas assurée ;
+9° A l'approche des sommets de côtes et des intersections où la visibilité n'est pas assurée ; 
 
-10° Lorsqu'il fait usage de dispositifs spéciaux d'éclairage et en particulier de ses feux de croisement ;
+10° Lorsqu'il fait usage de dispositifs spéciaux d'éclairage et en particulier de ses feux de croisement ; 
 
-11° Lors du croisement ou du dépassement d'animaux.
+11° Lors du croisement ou du dépassement d'animaux. 
 
-IV. - Le fait, pour tout conducteur, de ne pas rester maître de sa vitesse ou de ne pas la réduire dans les cas prévus au
+IV.-Le fait, pour tout conducteur, de ne pas rester maître de sa vitesse ou de ne pas la réduire dans les cas prévus au
 présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
@@ -36587,7 +36728,7 @@ présent article est puni de l'amende prévue pour les contraventions de la quat
 _Cité par_:
 
   - Arrêté du 24 novembre 1967 - art. 5 (V)
-  - Code de la route. - art. R121-6 (M)
+  - Code de la route. - art. R121-6 (V)
   - Code de la route. - art. R130-3 (M)
   - Code de la route. - art. R412-11-1 (V)
   - Code de procédure pénale - art. A37-11 (VD)
@@ -36595,7 +36736,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2018-795 du 17 septembre 2018 - art. 12
 
 _Anciens textes_:
 
@@ -36603,10 +36748,11 @@ _Anciens textes_:
   - Code de la route - art. R232 (Ab)
   - Code de la route R11-1, R232 (al. 1 et 3 à 5)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+  - Code de la route. - art. R313-27
+  - Code de la route. - art. R313-28
+  - Code de la route. - art. R416-18
 
 
 ###### Article R413-18
@@ -37727,22 +37873,22 @@ _Anciens textes_:
 
 Tout conducteur est tenu de céder le passage, au besoin en s'arrêtant, au piéton s'engageant régulièrement dans la traversée
 d'une chaussée ou manifestant clairement l'intention de le faire ou circulant dans une aire piétonne ou une zone de
-rencontre. 
+rencontre.
 
 Le fait, pour tout conducteur, de ne pas respecter les règles de priorité fixées au présent article est puni de l'amende
-prévue pour les contraventions de la quatrième classe. 
+prévue pour les contraventions de la quatrième classe.
 
 Tout conducteur coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de trois
 ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle. 
+professionnelle.
 
-Cette contravention donne lieu de plein droit à la réduction de quatre points du permis de conduire.
+Cette contravention donne lieu de plein droit à la réduction de six points du permis de conduire.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1390 du 12 novembre 2010 - art. 17
+  - Décret n°2018-795 du 17 septembre 2018 - art. 13
 
 _Anciens textes_:
 
@@ -37755,6 +37901,7 @@ _Anciens textes_:
 
 _Cité par_:
 
+  - Code de la route. - art. R121-6 (V)
   - Code de la route. - art. R412-30 (V)
 
 
