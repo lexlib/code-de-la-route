@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2018-09-19
+Version Consolidée au 2018-11-07
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -11568,72 +11568,6 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
 
 
-###### Article R142-3
-
-Pour son application à Mayotte, l'article R. 121-2 est rédigé comme suit :
-
-"Art. R. 121-2. - Le fait, pour tout employeur auquel s'applique la réglementation relative au transport routier de personnes
-ou de marchandises, de donner, directement ou indirectement, à un de ses salariés chargé de la conduite d'un véhicule de
-transport routier de personnes ou de marchandises des instructions incompatibles avec le respect des dispositions du code du
-travail, applicable localement, relatives au temps de travail, est puni de l'amende prévue pour les contraventions de la
-cinquième classe".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 du 22 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
-
-_Abrogé par_:
-
-  - Décret n°2018-953 du 31 octobre 2018 - art. 20
-
-_Cite_:
-
-  - Code de la route. - art. R121-2
-
-
-###### Article R142-4
-
-Pour son application à Mayotte, l'article R. 121-5 est rédigé comme suit :
-
-"Art. R. 121-5. - Le fait, pour tout expéditeur, commissionnaire, affréteur, mandataire, destinataire ou tout autre donneur
-d'ordres, en connaissance de cause, de donner à tout transporteur routier de marchandises, ou à tout préposé de celui-ci, des
-instructions incompatibles avec le respect des dispositions :
-
-1° Du code du travail applicable localement, relatives au temps de travail ;
-
-2° Relatives aux vitesses maximales autorisées par le présent code ;
-
-3° Relatives aux limites de poids des véhicules prévues aux articles R. 312-2 et R. 312-3, 
-
-est puni de l'amende prévue pour les contraventions de la cinquième classe."
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 du 22 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
-
-_Abrogé par_:
-
-  - Décret n°2018-953 du 31 octobre 2018 - art. 20
-
-_Cite_:
-
-  - Code de la route. - art. R121-5
-  - Code de la route. - art. R312-2
-  - Code de la route. - art. R312-3
-
-
 ###### Article R142-5
 
 Pour l'application de l'article R. 130-5, les mots "à l'article L. 116-2 du code de la voirie routière" sont remplacés par
@@ -18464,51 +18398,6 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code de la route. - art. R321-4 (V)
-
-
-###### Article R242-4
-
-Pour leur application à Mayotte, les V et VII de l'article R. 212-4 sont ainsi rédigés :
-
-"V. - Délits prévus par le code du travail applicable dans la collectivité territoriale de Mayotte :
-
-- atteinte à l'égalité professionnelle entre les hommes et les femmes (art. L. 123-1) ;
-
-- fourniture illégale de main-d'oeuvre (art. L. 124-1) ;
-
-- prêt de main-d'oeuvre (art. L. 124-3) ;
-
-- travail dissimulé (art. L. 312-1, L. 312-2, L. 341-1, L. 342-1 et L. 342-2) ;
-
-- emploi d'étranger en situation irrégulière (art. L. 330-1 et L. 330-2)."
-
-"VII. - Délit prévu par le code de la santé publique :
-
-- usage de manière illicite de l'une des substances ou plantes classées comme stupéfiants (art. L. 3815-1)."
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 du 22 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2018-953 du 31 octobre 2018 - art. 20
-
-_Cite_:
-
-  - Code de la santé publique - art. L3815-1
-  - Code de la route. - art. R212-4
-
-_Cité par_:
-
-  - Code de la route - art. R249-1 (Ab)
-  - Code de la route - art. R266 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la route. - art. R413-15 (V)
 
 
 ###### Article R242-6
