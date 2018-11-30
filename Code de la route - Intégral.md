@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2018-11-07
+Version Consolidée au 2018-12-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -19396,177 +19396,177 @@ _Cite_:
 
 ###### Article R311-1
 
-Pour l'application du présent code, les termes ci-après ont le sens qui leur est donné dans le présent article : 
+Pour l'application du présent code, les termes ci-après ont le sens qui leur est donné dans le présent article :
 
 1. Véhicules de catégorie M : véhicules à moteur conçus et construits pour le transport de personnes et ayant au moins quatre
-roues : 
+roues :
 
 1.1. Véhicule de catégorie M1 : véhicule conçu et construit pour le transport de personnes et comportant, outre le siège du
-conducteur, huit places assises au maximum ; 
+conducteur, huit places assises au maximum ;
 
 1.2. Véhicule de catégorie M2 : véhicule conçu et construit pour le transport de personnes, comportant, outre le siège du
-conducteur, plus de huit places assises et ayant un poids maximal inférieur ou égal à 5 tonnes ; 
+conducteur, plus de huit places assises et ayant un poids maximal inférieur ou égal à 5 tonnes ;
 
 1.3. Véhicule de catégorie M3 : véhicule conçu et construit pour le transport de personnes, comportant, outre le siège du
-conducteur, plus de huit places assises et ayant un poids maximal supérieur à 5 tonnes ; 
+conducteur, plus de huit places assises et ayant un poids maximal supérieur à 5 tonnes ;
 
 1.4. Voiture particulière : véhicule de catégorie M1 ne répondant pas à la définition du véhicule de la catégorie L6e ou L7e
-et ayant un poids total autorisé en charge inférieur ou égal à 3,5 tonnes ; 
+et ayant un poids total autorisé en charge inférieur ou égal à 3,5 tonnes ;
 
-1.5. Véhicule de transport en commun : véhicule de catégorie M2 ou M3 ; 
+1.5. Véhicule de transport en commun : véhicule de catégorie M2 ou M3 ;
 
 1.6. Autobus : véhicule de transport en commun qui, par sa construction et son aménagement, est affecté au transport en
-commun de personnes et de leurs bagages ; 
+commun de personnes et de leurs bagages ;
 
 1.7. Autocar : autobus, répondant à des caractéristiques définies par arrêté du ministre chargé des transports, affecté au
 transport de personnes sur de longues distances et permettant le transport des occupants du véhicule principalement en places
-assises ; 
+assises ;
 
 1.8. Autobus articulé ou autocar articulé : autobus ou autocar composé d'au moins deux tronçons rigides reliés entre eux par
 des sections articulées, lesquelles permettent la libre circulation des voyageurs ; les sections rigides sont reliées de
-façon permanente et ne peuvent être disjointes que par une opération nécessitant des installations spécifiques ; 
+façon permanente et ne peuvent être disjointes que par une opération nécessitant des installations spécifiques ;
 
 1.9. Véhicule de transport en commun d'enfants : véhicule de catégorie M2 ou M3 affecté à titre principal au transport de
-personnes de moins de dix-huit ans, quel que soit le motif du déplacement. 
+personnes de moins de dix-huit ans, quel que soit le motif du déplacement.
 
 1.10. Véhicule affecté au transport d'enfants : véhicule comportant, outre le siège du conducteur, huit places assises au
 maximum défini aux points 1.4 et 6.7 du présent article assurant un transport organisé à titre principal pour des personnes
-de moins de dix-huit ans, quel que soit le motif du déplacement. 
+de moins de dix-huit ans, quel que soit le motif du déplacement.
 
 2. Véhicules de catégorie N : véhicules à moteur conçus et construits pour le transport de marchandises et ayant au moins
-quatre roues : 
+quatre roues :
 
 2.1. Véhicule de catégorie N1 : véhicule conçu et construit pour le transport de marchandises ayant un poids maximal
-inférieur ou égal à 3,5 tonnes ; 
+inférieur ou égal à 3,5 tonnes ;
 
 2.2. Véhicule de catégorie N2 : véhicule conçu et construit pour le transport de marchandises ayant un poids maximal
-supérieur à 3,5 tonnes et inférieur ou égal à 12 tonnes ; 
+supérieur à 3,5 tonnes et inférieur ou égal à 12 tonnes ;
 
 2.3. Véhicule de catégorie N3 : véhicule conçu et construit pour le transport de marchandises ayant un poids maximal
-supérieur à 12 tonnes ; 
+supérieur à 12 tonnes ;
 
-2.4. Camionnette : véhicule de catégorie N1 ne répondant pas à la définition du véhicule de catégorie L6e ou L7e. 
+2.4. Camionnette : véhicule de catégorie N1 ne répondant pas à la définition du véhicule de catégorie L6e ou L7e.
 
 3. Véhicules de catégorie O : véhicules remorqués conçus et construits pour le transport de marchandises ou de personnes
-ainsi que l'hébergement de personnes. 
+ainsi que l'hébergement de personnes.
 
-3.1. Véhicule de catégorie O1 : véhicule remorqué ayant un poids maximal inférieur ou égal à 0,75 tonne ; 
+3.1. Véhicule de catégorie O1 : véhicule remorqué ayant un poids maximal inférieur ou égal à 0,75 tonne ;
 
 3.2. Véhicule de catégorie O2 : véhicule remorqué ayant un poids maximal supérieur à 0,75 tonne et inférieur ou égal à 3,5
-tonnes ; 
+tonnes ;
 
 3.3. Véhicule de catégorie O3 : véhicule remorqué ayant un poids maximal supérieur à 3,5 tonnes et inférieur ou égal à 10
-tonnes ; 
+tonnes ;
 
-3.4. Véhicule de catégorie O4 : véhicule remorqué ayant un poids maximal supérieur à 10 tonnes ; 
+3.4. Véhicule de catégorie O4 : véhicule remorqué ayant un poids maximal supérieur à 10 tonnes ;
 
-3.5. Remorque : véhicule non automoteur sur roues, destiné à être tracté par un autre véhicule ; 
+3.5. Remorque : véhicule non automoteur sur roues, destiné à être tracté par un autre véhicule ;
 
 3.6. Semi-remorque : remorque dont une partie appréciable de son poids et du poids de son chargement est supportée par le
-véhicule tracteur. 
+véhicule tracteur.
 
-4. Véhicules de catégorie L : véhicules à moteur à deux ou trois roues et quadricycles à moteur : 
+4. Véhicules de catégorie L : véhicules à moteur à deux ou trois roues et quadricycles à moteur :
 
 4.1. Véhicule de catégorie L1e : véhicule à deux roues dont la vitesse maximale par construction est égale ou supérieure à 6
 km/ h et ne dépasse pas 45 km/ h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm ³ s'il est à combustion interne
-à allumage commandé et d'une puissance maximale nette n'excédant pas 4 kilowatts ; 
+à allumage commandé et d'une puissance maximale nette n'excédant pas 4 kilowatts ;
 
 4.1.1. Véhicule de sous-catégorie L1e-A : véhicule de la catégorie L1e muni de pédales dont le mode de propulsion auxiliaire
 d'aide au pédalage d'une puissance maximale est inférieure à 1 kW et s'interrompt dès que le véhicule atteint une vitesse
-égale ou supérieure à 25 km/ h. Ce véhicule peut être équipé de trois ou quatre roues ; 
+égale ou supérieure à 25 km/ h. Ce véhicule peut être équipé de trois ou quatre roues ;
 
-4.1.2. Véhicule de la sous-catégorie L1e-B : véhicule de la catégorie L1e autre que L1e-A ; 
+4.1.2. Véhicule de la sous-catégorie L1e-B : véhicule de la catégorie L1e autre que L1e-A ;
 
 4.2. Véhicule de catégorie L2e : véhicule à trois roues (L2e) dont la vitesse maximale par construction est égale ou
 supérieure à 6 km/ h et ne dépasse pas 45 km/ h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm3 s'il est à
 combustion interne à allumage commandé ou d'une cylindrée ne dépassant pas 500 cm ³ s'il est à combustion interne à allumage
-par compression et d'une puissance maximale nette n'excédant pas 4 kilowatts ; 
+par compression et d'une puissance maximale nette n'excédant pas 4 kilowatts ;
 
-4.2.1. Véhicule de sous-catégorie L2e-P : véhicule de la catégorie L2e destiné au transport de personnes ; 
+4.2.1. Véhicule de sous-catégorie L2e-P : véhicule de la catégorie L2e destiné au transport de personnes ;
 
-4.2.2. Véhicule de sous-catégorie L2e-U : véhicule de la catégorie L2e conçu à des fins utilitaires ; 
+4.2.2. Véhicule de sous-catégorie L2e-U : véhicule de la catégorie L2e conçu à des fins utilitaires ;
 
-4.3. Véhicule de catégorie L3e : véhicule à deux roues sans side-car autre que L1 ; 
+4.3. Véhicule de catégorie L3e : véhicule à deux roues sans side-car autre que L1 ;
 
 4.3.1. Véhicule de la sous-catégorie L3e-A1 : véhicule de la catégorie L3e équipé d'un moteur d'une cylindrée ne dépassant
 pas 125 cm ³ et d'une puissance maximale ne dépassant pas 11 kW et d'un ratio puissance/ poids à vide ne dépassant pas 0,1
-kW/ kg ; 
+kW/ kg ;
 
 4.3.2. Véhicule de la sous-catégorie L3e-A2 : véhicule de la catégorie L3e, autre que L3e-A1, équipé d'un moteur d'une
 puissance maximale ne dépassant pas 35 kW et d'un ratio puissance/ poids à vide ne dépassant pas 0,2 kW/ kg et non dérivé
-d'un véhicule équipé d'un moteur de plus du double de sa puissance ; 
+d'un véhicule équipé d'un moteur de plus du double de sa puissance ;
 
-4.3.3. Véhicule de la sous-catégorie L3e-A3 : véhicule de la catégorie L3e, autre que L3e-A1 et L3e-A2 ; 
+4.3.3. Véhicule de la sous-catégorie L3e-A3 : véhicule de la catégorie L3e, autre que L3e-A1 et L3e-A2 ;
 
-4.3.4. Véhicule des sous-sous-catégories L3e-A1E, L3e-A2E, L3e-A3E : motocyclette d'enduro ; 
+4.3.4. Véhicule des sous-sous-catégories L3e-A1E, L3e-A2E, L3e-A3E : motocyclette d'enduro ;
 
-4.3.5. Véhicule des sous-sous-catégories L3e-A1T, L3e-A2T, L3e-A3T : motocyclette de trial ; 
+4.3.5. Véhicule des sous-sous-catégories L3e-A1T, L3e-A2T, L3e-A3T : motocyclette de trial ;
 
 4.4. Véhicule de catégorie L4e : véhicule de la catégorie et sous-catégorie L3e équipé d'un side-car pouvant transporter au
-plus quatre personnes y compris le conducteur dont deux au plus dans le side-car ; 
+plus quatre personnes y compris le conducteur dont deux au plus dans le side-car ;
 
 4.5. Véhicule de catégorie L5e : véhicule à trois roues autre que L2e et dont la masse en ordre de marche ne dépasse pas 1
-000 kg ; 
+000 kg ;
 
 4.5.1. Véhicule de la sous-catégorie L5e-A : véhicule de la catégorie L5e destiné au transport de personnes dans la limite de
-cinq places assises y compris le conducteur ; 
+cinq places assises y compris le conducteur ;
 
 4.5.2. Véhicule de la sous-catégorie L5e-B : véhicule de la catégorie L5e conçu à des fins utilitaires et comportant au plus
-deux places assises y compris le conducteur ; 
+deux places assises y compris le conducteur ;
 
 4.6. Véhicule de catégorie L6e : véhicule à moteur à quatre roues dont le poids à vide n'excède pas 425 kilogrammes, la
 vitesse maximale par construction est égale ou supérieure à 6 km/ h et ne dépasse pas 45 km/ h et la cylindrée n'excède pas
 50 cm ³ pour les moteurs à combustion interne à allumage commandé, 500 cm ³ pour les moteurs à combustion interne à allumage
-par compression et conçu pour transporter au plus deux personnes y compris le conducteur ; 
+par compression et conçu pour transporter au plus deux personnes y compris le conducteur ;
 
 4.6.1. Véhicule de la sous-catégorie L6e-A : véhicule de la catégorie L6e autre que L6e-B et équipé d'un moteur d'une
-puissance maximale ne dépassant pas 4 kW ; 
+puissance maximale ne dépassant pas 4 kW ;
 
 4.6.2. Véhicule de la sous-catégorie L6e-B : véhicule de la catégorie L6e muni d'un habitacle fermé accessible par trois
-côtés au maximum et équipé d'un moteur d'une puissance maximale ne dépassant pas 6 kW ; 
+côtés au maximum et équipé d'un moteur d'une puissance maximale ne dépassant pas 6 kW ;
 
-4.6.2.1. Véhicule de la sous-sous-catégorie L6e-BP : véhicule de la sous-catégorie L6e-B destiné au transport de personnes ; 
+4.6.2.1. Véhicule de la sous-sous-catégorie L6e-BP : véhicule de la sous-catégorie L6e-B destiné au transport de personnes ;
 
 4.6.2.2. Véhicule de la sous-sous-catégorie L6e-BU : véhicule de la sous-catégorie L6e-B conçu pour le transport de
-marchandises ; 
+marchandises ;
 
 4.7. Véhicule de catégorie L7e : véhicule à moteur à quatre roues n'appartenant pas à la catégorie L6e dont le poids à vide
 n'excède pas 600 kilogrammes pour les quadricycles affectés au transport de marchandises et 450 kilogrammes pour les
-quadricycles destinés au transport de personnes ; 
+quadricycles destinés au transport de personnes ;
 
 4.7.1. Véhicule de la sous-catégorie L7e-A : véhicule de la catégorie L7e n'appartenant pas aux sous-catégories L7e-B et L7e-
-C, conçu uniquement pour le transport de personnes et équipé d'un moteur d'une puissance maximale n'excédant pas 15 kW ; 
+C, conçu uniquement pour le transport de personnes et équipé d'un moteur d'une puissance maximale n'excédant pas 15 kW ;
 
 4.7.1.1. Véhicule de la sous-sous-catégorie L7e-A1 : véhicule de la sous-catégorie L7e-A équipé d'un guidon de direction et
-pouvant transporter au plus deux personnes assises à califourchon ; 
+pouvant transporter au plus deux personnes assises à califourchon ;
 
 4.7.1.2. Véhicule de la sous-sous-catégorie L7e-A2 : véhicule de la sous-catégorie L7e-A n'appartenant pas à la sous-sous-
-catégorie L7e-A1 et pouvant transporter au plus deux personnes assises ; 
+catégorie L7e-A1 et pouvant transporter au plus deux personnes assises ;
 
 4.7.2. Véhicule de la sous-catégorie L7e-B : véhicule de la catégorie L7e n'appartenant pas à la sous-catégorie L7e-C conçu
-pour le hors route ; 
+pour le hors route ;
 
 4.7.2.1. Véhicule de la sous-sous-catégorie L7e-B1 : véhicule de la sous-catégorie L7e-B équipé d'un guidon de direction et
-pouvant transporter au plus deux personnes assises à califourchon à une vitesse maximale de 90 km/ h ; 
+pouvant transporter au plus deux personnes assises à califourchon à une vitesse maximale de 90 km/ h ;
 
 4.7.2.2. Véhicule de la sous-sous-catégorie L7e-B2 : véhicule de la sous-catégorie L7e-B, n'appartenant pas à la sous-sous-
 catégorie L7e-B1, pouvant transporter trois personnes assises dont deux sont côte à côte et équipé d'un moteur d'une
-puissance maximale n'excédant pas 15 kW ; 
+puissance maximale n'excédant pas 15 kW ;
 
 4.7.3. Véhicule de la sous-catégorie L7e-C : véhicule de la catégorie L7e n'appartenant pas à la sous-catégorie L7e-B, muni
 d'un habitacle fermé accessible par trois côtés au maximum, équipé d'un moteur d'une puissance maximale ne dépassant pas 15
-kW et dont la vitesse maximale ne dépasse pas 90 km/ h ; 
+kW et dont la vitesse maximale ne dépasse pas 90 km/ h ;
 
 4.7.3.1. Véhicule de la sous-sous-catégorie L7e-CP : véhicule de la sous-catégorie L7e-C conçu pour le transport d'au plus
-quatre personnes assises y compris le conducteur ; 
+quatre personnes assises y compris le conducteur ;
 
 4.7.3.2. Véhicule de la sous-sous-catégorie L7e-CU : véhicule de la sous-catégorie L7e-C conçu pour le transport de
-marchandises et comportant au plus deux places assises y compris le conducteur ; 
+marchandises et comportant au plus deux places assises y compris le conducteur ;
 
-4.8. Cyclomoteur : véhicule de catégorie L1e ou L2e ; 
+4.8. Cyclomoteur : véhicule de catégorie L1e ou L2e ;
 
 4.9. Motocyclette : véhicule de catégorie L3e ou L4e ; l'adjonction d'un side-car à une motocyclette ne modifie pas le
-classement de celle-ci ; 
+classement de celle-ci ;
 
 4.9.1. Motocyclette légère : véhicule de la sous-catégorie L3e-A1 ; les motocyclettes qui, avant le 5 juillet 1996, étaient
 considérées comme motocyclettes légères ou qui avaient été réceptionnées comme telles restent classées dans ces catégories
@@ -19574,53 +19574,53 @@ après cette date, à l'exception des véhicules à deux roues à moteur dont la
 n'excède pas 45 km/ h munis d'un embrayage ou d'une boîte de vitesses non automatique qui sont des cyclomoteurs ; les
 véhicules à deux roues à moteur d'une cylindrée n'excédant pas 125 cm ³ mis en circulation sous le genre " vélomoteur " avant
 le 1er mars 1980 sont considérés comme des motocyclettes légères ; l'adjonction d'un side-car à une motocyclette légère ne
-modifie pas le classement de celle-ci ; 
+modifie pas le classement de celle-ci ;
 
-4.9.2. Motocyclette d'enduro : véhicule de la sous-sous-catégorie L3e-A1E ou L3e-A2E ou L3e-A3E ; 
+4.9.2. Motocyclette d'enduro : véhicule de la sous-sous-catégorie L3e-A1E ou L3e-A2E ou L3e-A3E ;
 
-4.9.3. Motocyclette de trial : véhicule de la sous-sous-catégorie L3e-A1T ou L3e-A2T ou L3e-A3T ; 
+4.9.3. Motocyclette de trial : véhicule de la sous-sous-catégorie L3e-A1T ou L3e-A2T ou L3e-A3T ;
 
 4.10. Tricycle à moteur : véhicule de catégorie L5e dont le poids à vide n'excède pas 1 000 kilogrammes et la charge utile
 n'excède pas 1 000 kilogrammes pour les tricycles destinés au transport de marchandises ou la valeur du poids à vide du
-véhicule pour les tricycles destinés au transport de personnes ; 
+véhicule pour les tricycles destinés au transport de personnes ;
 
 4.11. Quadricycle léger à moteur : véhicule de la sous-catégorie L6eB dont la charge utile n'excède pas 250 kilogrammes s'il
-est destiné au transport de personnes et 300 kilogrammes s'il est conçu pour le transport de marchandises ; 
+est destiné au transport de personnes et 300 kilogrammes s'il est conçu pour le transport de marchandises ;
 
 4.12. Quadricycle lourd à moteur : véhicule de catégorie L7e dont la charge utile n'excède pas 1 000 kilogrammes s'il est
-destiné au transport de marchandises ou la valeur du poids à vide du véhicule s'il est destiné au transport de personnes ; 
+destiné au transport de marchandises ou la valeur du poids à vide du véhicule s'il est destiné au transport de personnes ;
 
-4.13. Quad routier léger à moteur : quadricycle léger de la sous-catégorie L6e-A ; 
+4.13. Quad routier léger à moteur : quadricycle léger de la sous-catégorie L6e-A ;
 
-4.14. Quad routier lourd à moteur : quadricycle lourd de la sous-catégorie L7e-A ; 
+4.14. Quad routier lourd à moteur : quadricycle lourd de la sous-catégorie L7e-A ;
 
-4.15. Quad tout terrain lourd à moteur : quadricycle lourd de la sous-catégorie L7e-B ; 
+4.15. Quad tout terrain lourd à moteur : quadricycle lourd de la sous-catégorie L7e-B ;
 
 5. Véhicules agricoles ou forestiers : un véhicule destiné à l'exploitation forestière est assimilé à la catégorie
-correspondante du véhicule agricole ; 
+correspondante du véhicule agricole ;
 
 5.1. Véhicules de catégorie T (à roues) ou C (à chenilles) : véhicules agricoles à moteur conçus pour une vitesse n'excédant
-pas 40 km/ h (indice " a ") ou excédant 40 km/ h (indice " b ") ; 
+pas 40 km/ h (indice " a ") ou excédant 40 km/ h (indice " b ") ;
 
 5.1.1. Tracteur agricole : véhicule à moteur, à roues ou à chenilles, ayant au moins deux essieux et une vitesse maximale par
 construction égale ou supérieure à 6 km/ h, dont la fonction réside essentiellement dans sa puissance de traction et qui est
 spécialement conçu pour tirer, pousser, porter ou actionner certains équipements interchangeables destinés à des usages
 agricoles ou tracter des véhicules remorqués agricoles ; il peut être aménagé pour transporter une charge dans un contexte
-agricole ou forestier et/ ou peut être équipé d'un ou de plusieurs sièges passagers ; 
+agricole ou forestier et/ ou peut être équipé d'un ou de plusieurs sièges passagers ;
 
 5.1.2. Véhicule de catégorie T1 ou C1, a ou b : tracteur agricole dont la voie minimale de l'essieu le plus proche du
 conducteur est égale ou supérieure à 1 150 mm, la masse à vide en ordre de marche supérieure à 600 kilogrammes et la garde au
-sol inférieure ou égale à 1 000 mm ; 
+sol inférieure ou égale à 1 000 mm ;
 
 5.1.3. Véhicule de catégorie T2 ou C2, a ou b : tracteur agricole dont la voie minimale est inférieure à 1 150 mm, la masse à
 vide en ordre de marche supérieure à 600 kilogrammes et la garde au sol inférieure ou égale à 600 mm et dont la vitesse
 maximale par construction est limitée à 30 km/ h si la hauteur du centre de gravité du tracteur (mesurée par rapport au sol),
-divisée par la moyenne des voies minimales de chaque essieu est supérieure à 0,90 ; 
+divisée par la moyenne des voies minimales de chaque essieu est supérieure à 0,90 ;
 
 5.1.4. Véhicule de catégorie T3 ou C3, a ou b : tracteur agricole d'une masse à vide en ordre de marche inférieure ou égale à
-600 kilogrammes ; 
+600 kilogrammes ;
 
-5.1.5. Véhicule de catégorie T4 ou C4, a ou b : tracteur agricole spécial ; 
+5.1.5. Véhicule de catégorie T4 ou C4, a ou b : tracteur agricole spécial ;
 
 5.1.5.1. Véhicule de " catégorie T4. 1 " (tracteur enjambeur) : tracteur conçu pour les cultures hautes en ligne, telles que
 la vigne. Il est caractérisé par un châssis entièrement ou partiellement surélevé de telle sorte qu'il peut circuler
@@ -19629,115 +19629,114 @@ conçu pour porter ou actionner des outils qui peuvent être fixés à l'avant, 
 forme. Lorsque le tracteur est en position de travail, la garde au sol mesurée dans le plan vertical des lignes de cultures
 est supérieure à 1 000 mm. Lorsque la hauteur du centre de gravité du tracteur mesurée par rapport au sol et en utilisant des
 pneumatiques de monte normale, divisée par la moyenne des voies minimales de l'ensemble des essieux, est supérieure à 0,90,
-la vitesse maximale par construction ne doit pas dépasser 30 km/ h ; 
+la vitesse maximale par construction ne doit pas dépasser 30 km/ h ;
 
 5.1.5.2. Véhicule de la " catégorie T4. 2 " (tracteur de grande largeur) : tracteur se caractérisant par ses dimensions
-importantes plus spécialement destiné aux grandes surfaces agricoles ; 
+importantes plus spécialement destiné aux grandes surfaces agricoles ;
 
 5.1.5.3. Véhicule de la " catégorie T4. 3 " (tracteur à basse garde au sol) : tracteur à quatre roues motrices, dont les
 engins interchangeables sont destinés à l'usage agricole ou forestier, se caractérisant par un châssis porteur équipé d'une
 ou plusieurs prises de force et dont la masse techniquement admissible n'est pas supérieure à 10 tonnes, le rapport entre
 cette masse et la masse maximale à vide en ordre de marche est inférieur à 2,5 et le centre de gravité mesuré par rapport au
-sol en utilisant des pneumatiques de monte normale est inférieur à 850 mm ; 
+sol en utilisant des pneumatiques de monte normale est inférieur à 850 mm ;
 
-5.1.6. (Abrogé) ; 
+5.1.6. (Abrogé) ;
 
-5.2. Véhicules de catégorie R : véhicules agricoles remorqués : 
+5.2. Véhicules de catégorie R : véhicules agricoles remorqués :
 
 5.2.1. Remorque agricole : tout véhicule essentiellement conçu pour être tiré par un tracteur ou une machine agricole
 automotrice et principalement destiné au transport de charges ou au traitement de matières et dont le rapport entre la masse
-maximale en charge techniquement admissible et la masse à vide est égal ou supérieur à 3 ; 
+maximale en charge techniquement admissible et la masse à vide est égal ou supérieur à 3 ;
 
 5.2.2. Semi-remorque agricole : remorque agricole dont une partie de son poids et du poids de son chargement repose en partie
-sur le véhicule tracteur ; 
+sur le véhicule tracteur ;
 
-5.2.3. (Abrogé) ; 
+5.2.3. (Abrogé) ;
 
 5.2.4. Véhicule de catégorie R1a : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
-inférieur ou égal à 1 500 kilogrammes et conçue pour une vitesse inférieure ou égale à 40 km/ h ; 
+inférieur ou égal à 1 500 kilogrammes et conçue pour une vitesse inférieure ou égale à 40 km/ h ;
 
 5.2.5. Véhicule de catégorie R1b : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
-inférieur ou égal à 1 500 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ; 
+inférieur ou égal à 1 500 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ;
 
 5.2.6. Véhicule de catégorie R2a : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
 supérieur à 1 500 kilogrammes et inférieur ou égal à 3 500 kilogrammes et conçue pour une vitesse inférieure ou égale à 40
-km/ h ; 
+km/ h ;
 
 5.2.7. Véhicule de catégorie R2b : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
-supérieur à 1 500 kilogrammes et inférieur ou égal à 3 500 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ; 
+supérieur à 1 500 kilogrammes et inférieur ou égal à 3 500 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ;
 
 5.2.8. Véhicule de catégorie R3a : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
 supérieur à 3 500 kilogrammes et inférieur ou égal à 21 000 kilogrammes et conçue pour une vitesse inférieure ou égale à 40
-km/ h ; 
+km/h ;
 
 5.2.9. Véhicule de catégorie R3b : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
-supérieur à 3 500 kilogrammes et inférieur ou égal à 21 000 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ; 
+supérieur à 3 500 kilogrammes et inférieur ou égal à 21 000 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ;
 
 5.2.10. Véhicule de catégorie R4a : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
-supérieur à 21 000 kilogrammes et conçue pour une vitesse inférieure ou égale à 40 km/ h ; 
+supérieur à 21 000 kilogrammes et conçue pour une vitesse inférieure ou égale à 40 km/ h ;
 
 5.2.11. Véhicule de catégorie R4b : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux
-supérieur à 21 000 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ; 
+supérieur à 21 000 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ;
 
-5.3. Véhicules de catégorie S : machines ou instruments agricoles remorqués : 
+5.3. Véhicules de catégorie S : machines ou instruments agricoles remorqués :
 
 5.3.1. Machine ou instrument agricole remorqué : tout véhicule conçu pour être tiré par un tracteur ou par une machine
 agricole automotrice et qui modifie la fonction de ce dernier ou lui apporte une fonction nouvelle, qui comporte un outil à
 demeure ou est conçu pour le traitement de matières, qui peut comporter un plateau de chargement conçu et réalisé pour
 recevoir les outils et dispositifs nécessaires pour l'exécution des tâches et le stockage temporaire des matières produites
 ou nécessaires pendant le travail, si le rapport entre la masse maximale en charge techniquement admissible et la masse à
-vide de ce véhicule est inférieur à 3 ; 
+vide de ce véhicule est inférieur à 3 ;
 
-5.3.2. (Abrogé) ; 
+5.3.2. (Abrogé) ;
 
 5.3.3. Véhicule de catégorie S1a : machine ou instrument agricole remorqué ayant un poids maximal sur l'ensemble de ses
-essieux inférieur ou égal à 3,5 tonnes et conçu pour une vitesse inférieure ou égale à 40 km/ h ; 
+essieux inférieur ou égal à 3,5 tonnes et conçu pour une vitesse inférieure ou égale à 40 km/ h ;
 
 5.3.4. Véhicule de catégorie S1b : machine ou instrument agricole remorqué ayant un poids maximal sur l'ensemble de ses
-essieux inférieur ou égal à 3,5 tonnes et conçu pour une vitesse supérieure à 40 km/ h ; 
+essieux inférieur ou égal à 3,5 tonnes et conçu pour une vitesse supérieure à 40 km/ h ;
 
 5.3.5. Véhicule de catégorie S2a : machine ou instrument agricole remorqué ayant un poids maximal sur l'ensemble de ses
-essieux supérieur à 3,5 tonnes et conçu pour une vitesse inférieure ou égale à 40 km/ h ; 
+essieux supérieur à 3,5 tonnes et conçu pour une vitesse inférieure ou égale à 40 km/ h ;
 
 5.3.6. Véhicule de catégorie S2b : machine ou instrument agricole remorqué ayant un poids maximal sur l'ensemble de ses
-essieux supérieur à 3,5 tonnes et conçu pour une vitesse supérieure à 40 km/ h ; 
+essieux supérieur à 3,5 tonnes et conçu pour une vitesse supérieure à 40 km/ h ;
 
 5.4. Machine agricole automotrice : appareil pouvant évoluer par ses propres moyens, normalement destiné à l'exploitation
 agricole et dont la vitesse de marche par construction ne peut excéder 25 km/ h en palier ; cette vitesse est portée à 40 km/
 h pour les appareils dont la largeur est inférieure ou égale à 2,55 mètres et dont les limites de cylindrée ou de puissance
 sont supérieures à celles de la catégorie L6e. Des dispositions spéciales définies par arrêté du ministre chargé des
 transports, prises après consultation du ministre chargé de l'agriculture, sont applicables aux machines agricoles
-automotrices à un seul essieu. 
+automotrices à un seul essieu.
 
-6. Autres véhicules : 
+6. Autres véhicules :
 
 6.1. Engin de service hivernal : véhicule à moteur de transport de marchandises, d'un poids total autorisé en charge
 supérieur à 3,5 tonnes, ou tracteur agricole appartenant aux collectivités gestionnaires des voies publiques ou aux personnes
 agissant pour leur compte, lorsqu'ils sont équipés d'outils spécifiques destinés à lutter contre le verglas ou la neige sur
 les voies ouvertes à la circulation publique ; un arrêté du ministre chargé des transports définit les caractéristiques de
-ces outils ; 
+ces outils ;
 
 6.2. Engin spécial : engin automoteur ou remorqué servant à l'élévation, au gerbage ou au transport de produits de toute
 nature, à l'exclusion du transport de personnes autres que le conducteur et éventuellement un convoyeur, et dont la vitesse
-ne peut excéder par construction 25 km/ h ; 
+ne peut excéder par construction 25 km/ h ;
 
 6.3. Véhicule présentant un intérêt historique (véhicule dit de collection) : véhicule qui remplit l'ensemble des conditions
-suivantes : 
+suivantes :
 
-- il a été construit ou immatriculé pour la première fois il y a au moins trente ans ; 
+- il a été construit ou immatriculé pour la première fois il y a au moins trente ans ;
 
-- son type particulier, tel que défini par la législation pertinente de l'Union européenne ou nationale, n'est plus
-produit ; 
+- son type particulier, tel que défini par la législation pertinente de l'Union européenne ou nationale, n'est plus produit ;
 
 - il est préservé sur le plan historique et maintenu dans son état d'origine, et aucune modification essentielle n'a été
 apportée aux caractéristiques techniques de ses composants principaux ;
 
-6.4. Véhicule d'intérêt général : véhicule d'intérêt général prioritaire ou bénéficiant de facilités de passage ; 
+6.4. Véhicule d'intérêt général : véhicule d'intérêt général prioritaire ou bénéficiant de facilités de passage ;
 
 6.5. Véhicule d'intérêt général prioritaire : véhicule des services de police, de gendarmerie, des douanes, de lutte contre
 l'incendie, d'intervention des services de déminage de l'Etat, d'intervention des unités mobiles hospitalières ou, à la
 demande du service d'aide médicale urgente, affecté exclusivement à l'intervention de ces unités et du ministère de la
-justice affecté au transport des détenus ou au rétablissement de l'ordre dans les établissements pénitentiaires ; 
+justice affecté au transport des détenus ou au rétablissement de l'ordre dans les établissements pénitentiaires ;
 
 6.6. Véhicule d'intérêt général bénéficiant de facilités de passage : ambulance de transport sanitaire, véhicule
 d'intervention de sécurité des sociétés gestionnaires d'infrastructures électriques et gazières, du service de la
@@ -19745,21 +19744,21 @@ surveillance de la Société nationale des chemins de fer français, du service 
 transports parisiens, de transports de fonds de la Banque de France, des associations médicales concourant à la permanence
 des soins, des médecins lorsqu'ils participent à la garde départementale, de transports de produits sanguins et d'organes
 humains, engin de service hivernal et, sur autoroutes ou routes à deux chaussées séparées, véhicule d'intervention des
-services gestionnaires de ces voies ; 
+services gestionnaires de ces voies ;
 
 6.7. Véhicule spécialisé : véhicule de catégorie M, N, O, T ou C prévu pour une fonction qui requiert un aménagement ou un
-équipement spécifique ; 
+équipement spécifique ;
 
 6.8. Véhicule spécialisé dans les opérations de remorquage : véhicule spécialisé dont l'aménagement comporte un engin de
 levage installé à demeure permettant le remorquage d'un véhicule en panne ou accidenté avec ou sans soulèvement du train
-avant ou du train arrière de ce dernier ; 
+avant ou du train arrière de ce dernier ;
 
 6.9. Matériel de travaux publics : matériel spécialement conçu pour les travaux publics, ne servant pas normalement sur route
 au transport de marchandises ou de personnes autres que deux convoyeurs et dont la liste est établie par le ministre chargé
-des transports ; 
+des transports ;
 
 6.10. Cycle : véhicule ayant au moins deux roues et propulsé exclusivement par l'énergie musculaire des personnes se trouvant
-sur ce véhicule, notamment à l'aide de pédales ou de manivelles ; 
+sur ce véhicule, notamment à l'aide de pédales ou de manivelles ;
 
 6.11. Cycle à pédalage assisté : cycle équipé d'un moteur auxiliaire électrique d'une puissance nominale continue maximale de
 0,25 kilowatt, dont l'alimentation est réduite progressivement et finalement interrompue lorsque le véhicule atteint une
@@ -19767,17 +19766,24 @@ vitesse de 25 km/ h, ou plus tôt si le cycliste arrête de pédaler ;
 
 6.12. Bateau amphibie : bateau normalement destiné à des activités de loisirs ou de sauvetage, équipé de roues ou de
 chenilles, à caractère routier non prédominant, pouvant transporter au plus trois personnes autres que le conducteur et dont
-la vitesse maximale par construction ne peut excéder 25 km/ h. 
+la vitesse maximale par construction ne peut excéder 25 km/ h ;
 
-7. Ensembles de véhicules : 
+6.13. Navette urbaine : véhicule à moteur conçu et construit pour le transport de personnes en agglomération, ne répondant
+pas aux définitions des catégories internationales M1, M2 ou M3 et ayant la capacité de transporter, outre le conducteur,
+neuf passagers au moins et seize passagers au plus, dont quatre ou cinq peuvent être assis.
+
+7. Ensembles de véhicules :
 
 7.1. Train double : ensemble composé d'un véhicule articulé et d'une semi-remorque dont l'avant repose soit sur un avant-
-train, soit sur le train roulant arrière coulissant de la première semi-remorque qui tient alors lieu d'avant-train ; 
+train, soit sur le train roulant arrière coulissant de la première semi-remorque qui tient alors lieu d'avant-train ;
 
 7.2. Train routier : ensemble constitué d'un véhicule à moteur auquel est attelée une remorque ou une semi-remorque dont
-l'avant repose sur un avant-train ; 
+l'avant repose sur un avant-train ;
 
-7.3. Véhicule articulé : ensemble composé d'un véhicule tracteur et d'une semi-remorque.
+7.3. Véhicule articulé : ensemble composé d'un véhicule tracteur et d'une semi-remorque ;
+
+7.4. Train urbain : ensemble routier, conçu et construit pour le transport de personnes en agglomération, composé d'un
+véhicule automoteur destiné au transport de personnes tractant au plus trois véhicules non automoteurs.
 
 **Liens relatifs à cet article**
 
@@ -19941,7 +19947,7 @@ _Cité par_:
   - Code de la route. - art. R321-4-2 (V)
   - Code de la route. - art. R322-1 (V)
   - Code de la route. - art. R323-25 (V)
-  - Code de la route. - art. R323-6 (M)
+  - Code de la route. - art. R323-6 (V)
   - Code de la route. - art. R325-8 (V)
   - Code de la route. - art. R411-19 (VD)
   - Code de la route. - art. R411-19-1 (VD)
@@ -19973,8 +19979,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-15 du 6 janvier 2017 - art. 1
-  - Décret n°2017-208 du 20 février 2017 - art. 1
+  - Décret n°2018-1045 du 28 novembre 2018 - art. 1
 
 
 ###### Article R311-2
@@ -20653,61 +20658,61 @@ _Anciens textes_:
 
 ###### Article R312-11
 
-I.-La longueur des véhicules et ensembles de véhicules mesurée en comprenant les superstructures amovibles et les pièces de
+I. - La longueur des véhicules et ensembles de véhicules mesurée en comprenant les superstructures amovibles et les pièces de
 cargaison normalisées telles que les conteneurs et caisses mobiles, et toutes saillies comprises dans une section
 longitudinale quelconque, ne doit pas dépasser les valeurs suivantes, sauf dans les cas et conditions où des saillies
-excédant ce gabarit sont explicitement autorisées par arrêté du ministre chargé des transports : 
+excédant ce gabarit sont explicitement autorisées par arrêté du ministre chargé des transports :
 
 1° Cyclomoteur, motocyclette, tricycle à moteur et quadricycle à moteur autre que le quadricycle léger de la sous-catégorie
-L6e-B et le quadricycle lourd de la sous-catégorie L7e-C : 4 mètres ; 
+L6e-B et le quadricycle lourd de la sous-catégorie L7e-C : 4 mètres ;
 
-1° bis Quadricycle léger de la sous-catégorie L6e-B : 3 mètres ; 
+1° bis Quadricycle léger de la sous-catégorie L6e-B : 3 mètres ;
 
-1° ter Quadricycle lourd de la sous-catégorie L7e-C : 3,7 mètres. 
+1° ter Quadricycle lourd de la sous-catégorie L7e-C : 3,7 mètres.
 
 2° Véhicule à moteur : 12 mètres. Toutefois, la longueur des autobus ou autocars à deux essieux peut atteindre 13,50 mètres
-et celle des autobus ou autocars à plus de deux essieux peut atteindre 15 mètres ; 
+et celle des autobus ou autocars à plus de deux essieux peut atteindre 15 mètres ;
 
-3° Remorque, non compris le dispositif d'attelage : 
+3° Remorque, non compris le dispositif d'attelage :
 
-12 mètres ; 
+12 mètres ;
 
 4° Semi-remorque, 12 mètres entre le pivot d'attelage et l'arrière de la semi-remorque, et 2,04 mètres entre l'axe du pivot
-d'attelage et un point quelconque de l'avant de la semi-remorque ; 
+d'attelage et un point quelconque de l'avant de la semi-remorque ;
 
-5° Véhicule articulé : 16,5 mètres ; 
+5° Véhicule articulé : 16,5 mètres ;
 
-6° Autobus ou autocar articulé : 18,75 mètres ; 
+6° Autobus ou autocar articulé : 18,75 mètres ;
 
-7° Autobus articulé comportant plus d'une section articulée : 
+7° Autobus articulé comportant plus d'une section articulée :
 
-24,5 mètres ; 
+24,5 mètres ;
 
-8° Train routier et train double : 18,75 mètres ; 
+8° Train routier, train urbain et train double : 18,75 mètres ;
 
-9° Véhicule ou matériel de travaux publics : 15 mètres ; 
+9° Véhicule ou matériel de travaux publics : 15 mètres ;
 
-10° Ensembles de véhicules ou de matériels de travaux publics : 
+10° Ensembles de véhicules ou de matériels de travaux publics :
 
-22 mètres ; 
+22 mètres ;
 
 11° Autres ensembles de véhicules : 18 mètres ; toutefois, la longueur d'un ensemble formé par un autobus ou un autocar et sa
-remorque peut atteindre 18,75 mètres ; 
+remorque peut atteindre 18,75 mètres ;
 
-II.-Les dispositions du présent article ne sont pas applicables aux véhicules à traction animale. 
+II. - Les dispositions du présent article ne sont pas applicables aux véhicules à traction animale.
 
-III.-Le ministre chargé des transports détermine par arrêté les modalités d'application du présent article et fixe la
-longueur maximale des engins de service hivernal. 
+III. - Le ministre chargé des transports détermine par arrêté les modalités d'application du présent article et fixe la
+longueur maximale des engins de service hivernal.
 
-IV.-Le fait de ne pas respecter les longueurs fixées au présent article ou dans les dispositions prises pour son application
-est puni de l'amende prévue pour les contraventions de la quatrième classe. 
+IV. - Le fait de ne pas respecter les longueurs fixées au présent article ou dans les dispositions prises pour son
+application est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
-V.-Toutefois, lorsque les dépassements excèdent les limites réglementaires de plus de 20 %, l'amende encourue est celle
-prévue pour les contraventions de la cinquième classe. 
+V. - Toutefois, lorsque les dépassements excèdent les limites réglementaires de plus de 20 %, l'amende encourue est celle
+prévue pour les contraventions de la cinquième classe.
 
-VI.-Dans ce cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal. 
+VI. - Dans ce cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.
 
-VII.- L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
+VII. - L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 Pour l'application du présent article, la longueur d'un autobus ou d'un autocar ou d'un autobus ou d'un autocar articulé ou
 d'un ensemble formé d'un autobus ou d'un autocar et de sa remorque est mesurée non compris les perches et dispositifs
@@ -20721,7 +20726,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-16 du 6 janvier 2017 - art. 2
+  - Décret n°2018-1045 du 28 novembre 2018 - art. 1
 
 _Cité par_:
 
@@ -27133,23 +27138,26 @@ _Cité par_:
 
 I. - Les contrôles techniques prévus au présent chapitre sont effectués par les services de l'Etat ou par un contrôleur agréé
 par l'Etat ou un prestataire visé au II de l'article L. 323-1 exerçant ses fonctions, dans les conditions prévues par la
-présente section, dans des installations de contrôle agréées rattachées, le cas échéant, à un réseau de contrôle agréé. 
+présente section, dans des installations de contrôle agréées rattachées, le cas échéant, à un réseau de contrôle agréé.
 
-II. - Pour l'application du présent chapitre, sont considérés comme : 
+II. - Pour l'application du présent chapitre, sont considérés comme :
 
 1° Véhicules légers, les véhicules dont le poids total autorisé en charge est inférieur ou égal à 3,5 tonnes, de catégorie M1
 ou N1, à l'exception des véhicules tracteurs composant les ensembles de véhicules mentionnés au 7.3 de l'article R. 311-1 et
-des véhicules utilisés pour le transport de marchandises dangereuses ; 
+des véhicules utilisés pour le transport de marchandises dangereuses ;
 
-2° Véhicules lourds : 
+2° Véhicules lourds :
 
-a) Les véhicules de catégorie M2, M3, N2, N3, O3, O4 ; 
+a) Les véhicules de catégorie M2, M3, N2, N3, O3, O4 ;
 
 b) Les véhicules tracteurs composant les ensembles de véhicules mentionnés au 7.3 de l'article R. 311-1, quel que soit leur
-poids total autorisé en charge, et les véhicules utilisés pour le transport de marchandises dangereuses ; 
+poids total autorisé en charge, et les véhicules utilisés pour le transport de marchandises dangereuses ;
 
 c) Les véhicules de catégorie M1 dont le poids total autorisé en charge est supérieur à 3,5 tonnes. Pour ces véhicules, les
-périodicités de contrôle technique sont celles fixées à l'article R. 323-22.
+périodicités de contrôle technique sont celles fixées à l'article R. 323-22 ;
+
+d) Les navettes urbaines mentionnées au 6.13. de l'article R. 311-1 et les remorques de catégorie O2 affectées au transport
+de personnes.
 
 **Liens relatifs à cet article**
 
@@ -27170,7 +27178,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-208 du 20 février 2017 - art. 3
+  - Décret n°2018-1045 du 28 novembre 2018 - art. 1
 
 _Anciens textes_:
 
@@ -27181,7 +27189,7 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L323-1
-  - Code de la route. - art. R311-1
+  - Code de la route. - art. R311-1 (M)
 
 _Nouveaux textes_:
 
@@ -27942,6 +27950,8 @@ les services de l'Etat chargés de la réception des véhicules.
 
 Ces véhicules sont ensuite soumis à des contrôles techniques périodiques renouvelés tous les six mois.
 
+Ces dispositions s'appliquent également aux navettes urbaines et aux remorques affectées au transport de personnes.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -27958,11 +27968,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2005-1434 du 18 novembre 2005 - art. 2 () JORF 20 novembre 2005
+  - Décret n°2018-1045 du 28 novembre 2018 - art. 1
 
 _Anciens textes_:
 
@@ -33786,42 +33796,42 @@ _Cité par_:
 
 ###### Article R411-23-1
 
-I.-Sans préjudice des dispositions de l'article R. 411-23-2, les autobus et les autocars dont l'aménagement le prévoit
-peuvent circuler avec des passagers debout à l'intérieur des agglomérations. 
+I. - Sans préjudice des dispositions de l'article R. 411-23-2, les autobus, les autocars, les navettes urbaines et les trains
+urbains dont l'aménagement le prévoit peuvent circuler avec des passagers debout à l'intérieur des agglomérations.
 
 Toutefois les véhicules effectuant des services occasionnels de transport public ou les services privés peuvent être soumis à
-des conditions d'aménagement fixées par arrêté du ministre chargé des transports. 
+des conditions d'aménagement fixées par arrêté du ministre chargé des transports.
 
-II.-Lorsque ces véhicules sont affectés à des services publics de transport, ils sont également autorisés à circuler dans les
-limites du ressort territorial d'une autorité organisatrice de la mobilité définie à l'article L. 1231-1 du code des
-transports ou du Syndicat des transports d'Ile-de-France. 
+II. - Lorsque ces véhicules sont affectés à des services publics de transport, ils sont également autorisés à circuler dans
+les limites du ressort territorial d'une autorité organisatrice de la mobilité définie à l'article L. 1231-1 du code des
+transports ou du Syndicat des transports d'Ile-de-France.
 
 En dehors des agglomérations, l'autorité organisatrice de transports compétente définit les itinéraires empruntés sans
 préjudice du pouvoir de l'autorité de police compétente. Les conditions relatives au prolongement de ces itinéraires au-delà
 des agglomérations ou du ressort territorial d'une autorité organisatrice sont fixées par arrêté du ministre chargé des
-transports. 
+transports.
 
-III.-En dehors des agglomérations, dans les limites du ressort territorial d'une autorité organisatrice de la mobilité
+III. - En dehors des agglomérations, dans les limites du ressort territorial d'une autorité organisatrice de la mobilité
 définie à l'article L. 1231-1 du code des transports ou du Syndicat des transports d'Ile-de-France, le préfet peut à titre
 dérogatoire autoriser pour une durée déterminée des services privés à circuler avec des passagers debout au moyen des
 véhicules mentionnés au I, sur une distance maximale de 5 kilomètres. Cette autorisation fixe les conditions et limites de
 circulation, notamment l'itinéraire emprunté et la vitesse maximale à laquelle les véhicules sont autorisés à circuler. La
-demande d'autorisation adressée au préfet comporte tous les éléments nécessaires à son instruction. 
+demande d'autorisation adressée au préfet comporte tous les éléments nécessaires à son instruction.
 
-IV.-En cas d'urgence, le préfet peut autoriser de façon limitée tout service ayant recours à tout véhicule destiné au
-transport de personnes. 
+IV. - En cas d'urgence, le préfet peut autoriser de façon limitée tout service ayant recours à tout véhicule destiné au
+transport de personnes.
 
-V.-Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
-prévue pour les contraventions de la quatrième classe. 
+V. - Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe.
 
-VI.-L'immobilisation du véhicule de transport en commun de personnes peut être prescrite dans les conditions prévues aux
+VI. - L'immobilisation du véhicule de transport en commun de personnes peut être prescrite dans les conditions prévues aux
 articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1693 du 17 décembre 2015 - art. 6
+  - Décret n°2018-1045 du 28 novembre 2018 - art. 1
 
 _Cité par_:
 
