@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2018-12-01
+Version Consolidée au 2018-12-15
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -108,7 +108,7 @@ Version Consolidée au 2018-12-01
           - [Section 1 : Rétention et suspension administratives après constatation d'une infraction. (art. R224-1 à R224-19)](#105)
           - [Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation. (art. R224-20 à R224-24)](#106)
         - [Chapitre V : Enregistrement et communication des informations relatives au permis de conduire. (art. R225-1 à R225-6)](#107)
-        - [Chapitre VI : Organisation du contrôle médical de l'aptitude à la conduite (art. R226-1 à R226-4)](#108)
+        - [Chapitre VI : Organisation du contrôle médical de l'aptitude à la conduite (art. D226-3-1 à R226-4)](#108)
       - [Titre III : Comportement du conducteur. (art. R231-1 à R235-13)](#109)
         - [Chapitre Ier : Comportement en cas d'accident. (art. R231-1)](#110)
         - [Chapitre III : Comportement en cas de contrôle routier. (art. R233-1 à R233-3)](#111)
@@ -17068,6 +17068,23 @@ _Cite_:
 
 
 #### Chapitre VI : Organisation du contrôle médical de l'aptitude à la conduite<a id=108></a>
+
+###### Article D226-3-1
+
+La commission médicale primaire réalise les contrôles médicaux à la suite d'une mesure de restriction du droit de conduire
+aux seuls véhicules équipés d'un dispositif homologué d'anti-démarrage par éthylotest électronique prise en application de
+l'article R. 224-6.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1143 du 13 décembre 2018 - art. 1
+
+_Cite_:
+
+  - Code de la route. - art. R224-6
+
 
 ###### Article R226-1
 
