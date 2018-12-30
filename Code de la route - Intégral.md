@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2018-12-15
+Version Consolidée au 2018-12-31
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -9095,6 +9095,9 @@ ces entreprises dès lors que ces informations ont pour seul but d'identifier le
 accident de la circulation à condition qu'au moins un des véhicules soit assuré par le demandeur ou que ce dernier ait en
 charge l'indemnisation d'une des victimes ;
 
+8° bis Aux personnels habilités du fonds de garantie des assurances obligatoires de dommages mentionné à l'article L. 421-1
+du code des assurances en vue de mener les missions fixées au V du même article ;
+
 9° Aux autorités étrangères avec lesquelles existe un accord d'échange d'informations relatives à l'identification du
 titulaire du certificat d'immatriculation ;
 
@@ -9137,6 +9140,14 @@ III.-Les exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circul
 produire à l'appui de leur demande tous éléments utiles permettant de vérifier la réalité de la contravention pour non-
 paiement du péage.
 
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+Conformément aux dispositions du 1° du II de l'article 3 du décret 2018-644 du 20 juillet 2018, les dispositions de l'article
+L. 330-2 du code de la route entrent en vigueur le 31 décembre 2018.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -9161,14 +9172,14 @@ _Cité par_:
   - Code des douanes - art. 64 B (V)
   - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
 
+_Modifié par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
+
 _Anciens textes_:
 
   - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
   - Code de la route L36
-
-_Modifié par_:
-
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 65
 
 _Cite_:
 
