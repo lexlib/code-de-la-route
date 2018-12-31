@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2018-12-31
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -102,7 +102,7 @@ Version Consolidée au 2018-12-31
           - [Section 6 : Dérogations à l'obligation d'être titulaire du permis de conduire et conditions de délivrance (art. R221-14 à R221-21)](#99)
         - [Chapitre II : Reconnaissance et équivalences. (art. D222-8 à R222-7)](#100)
         - [Chapitre III : Permis à points. (art. R223-1 à R223-13)](#101)
-          - [Section 1 : Principes généraux. (art. R223-1 à R223-4)](#102)
+          - [Section 1 : Principes généraux. (art. R223-1 à R223-4-1)](#102)
           - [Section 2 : Des stages  de sensibilisation à la sécurité routière. (art. R223-5 à R223-13)](#103)
         - [Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation (art. R224-1 à R224-24)](#104)
           - [Section 1 : Rétention et suspension administratives après constatation d'une infraction. (art. R224-1 à R224-19)](#105)
@@ -8146,17 +8146,17 @@ territorialement compétent, les fonctionnaires de police en tenue et les milita
 par procès-verbaux les contraventions à la police de la circulation routière peuvent, en cas de besoin, ouvrir ou faire
 ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule ou le faire
 conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens autonomes de
-propulsion dont le véhicule est muni. 
+propulsion dont le véhicule est muni.
 
 La mise en fourrière peut également être prescrite par l'agent de police judiciaire adjoint, chef de la police municipale ou
 qui occupe ces fonctions, territorialement compétent et, à Paris, par les agents de police judiciaire adjoints appartenant au
-corps des contrôleurs de la préfecture de police exerçant leurs fonctions dans la spécialité voie publique. Pour
-l'application de cette disposition et sur prescription de l'agent de police judiciaire adjoint, chef de la police municipale
-ou qui occupe ces fonctions, les agents de police municipale et, à Paris, les agents de surveillance de Paris, habilités à
-constater par procès-verbal les contraventions à la police de la circulation routière peuvent, en cas de besoin, ouvrir ou
-faire ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule ou le
-faire conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens autonomes de
-propulsion dont le véhicule est muni. 
+corps des contrôleurs relevant du statut des administrations parisiennes exerçant leurs fonctions dans la spécialité voie
+publique. Pour l'application de cette disposition et sur prescription de l'agent de police judiciaire adjoint, chef de la
+police municipale ou qui occupe ces fonctions, les agents de police municipale et, à Paris, les agents de surveillance de
+Paris, habilités à constater par procès-verbal les contraventions à la police de la circulation routière peuvent, en cas de
+besoin, ouvrir ou faire ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le
+véhicule ou le faire conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens
+autonomes de propulsion dont le véhicule est muni.
 
 Dans les cas prévus aux alinéas précédents, l'assureur du propriétaire du véhicule est tenu de garantir dans les limites du
 contrat la réparation du dommage causé au tiers, sauf recours, s'il y a lieu, contre la collectivité publique qui, par son
@@ -8188,15 +8188,6 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R546-2 (VD)
   - Code général des collectivités territoriales - art. Annexe IV-I (VT)
   - Code général des collectivités territoriales - art. Annexe IV-II (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-930 du 22 septembre 2000
-  - Loi n°2003-495 du 12 juin 2003
-
-_Modifié par_:
-
-  - Loi n°2017-257 du 28 février 2017 - art. 27
 
 _Anciens textes_:
 
@@ -15872,24 +15863,34 @@ _Cite_:
 
 ###### Article R223-1
 
-I. - Le permis de conduire est affecté d'un nombre maximal de douze points.
+I.-Le permis de conduire est affecté d'un nombre maximal de douze points. 
 
-II. - A la date d'obtention du permis de conduire, celui-ci est affecté d'un nombre initial de six points.
+II.-A la date d'obtention du permis de conduire, celui-ci est affecté d'un nombre initial de six points. 
 
 Au terme de chaque année du délai probatoire défini à l'article L. 223-1, si aucune infraction ayant donné lieu à retrait de
 points n'a été commise depuis le début de la période probatoire, ce permis de conduire est majoré de deux points. Cette
-majoration est portée à trois points si le titulaire du permis a suivi un apprentissage anticipé de la conduite.
+majoration est portée à trois points si le titulaire du permis a suivi un apprentissage anticipé de la conduite. 
 
-III. - Pendant le délai probatoire, le permis de conduire ne peut être affecté d'un nombre de points supérieur à six. Ce
-nombre est augmenté de la majoration résultant de l'application du II du présent article.
+Si le titulaire d'un premier permis de conduire a suivi la formation complémentaire prévue à l'article L. 223-1, le délai
+probatoire est réduit d'une année et le permis de conduire est majoré de deux points au terme de la première année du délai
+probatoire. 
 
-IV. - A l'issue de ce délai probatoire, si aucune infraction ayant donné lieu à retrait de points n'a été commise, le permis
-de conduire est affecté du nombre maximal de douze points.
+Si le titulaire du permis de conduire a bénéficié de l'apprentissage anticipé de la conduite défini à l'article L. 211-3 et a
+suivi la formation complémentaire, le délai probatoire de deux ans est réduit de six mois et le permis de conduire est majoré
+de trois points au terme de la première année du délai probatoire ainsi réduit. 
+
+Au terme du délai probatoire réduit, le nombre de points affectés au permis est égal au nombre maximal de points prévu au I. 
+
+III.-Pendant le délai probatoire, le permis de conduire ne peut être affecté d'un nombre de points supérieur à six. Ce nombre
+est augmenté de la majoration résultant de l'application du II du présent article. 
+
+IV.-A l'issue de ce délai probatoire, si aucune infraction ayant donné lieu à retrait de points n'a été commise, le permis de
+conduire est affecté du nombre maximal de douze points. 
 
 En cas de commission d'infraction ayant donné lieu à retrait de points au cours du délai probatoire, l'affectation du nombre
-maximal de points intervient dans les conditions définies à l'article L. 223-6.
+maximal de points intervient dans les conditions définies à l'article L. 223-6. 
 
-V. - Le délai probatoire de trois ans court à compter de la date d'obtention du permis de conduire, quelle qu'en soit la
+V.-Le délai probatoire de trois ans court à compter de la date d'obtention du permis de conduire, quelle qu'en soit la
 catégorie. Ce délai est réduit à deux ans ou, s'il n'est pas achevé alors que la durée de deux ans est dépassée, prend fin
 lors de l'obtention de la catégorie B du permis de conduire dans le cadre de l'apprentissage anticipé de la conduite.
 
@@ -15897,7 +15898,7 @@ lors de l'obtention de la catégorie B du permis de conduire dans le cadre de l'
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
@@ -15906,7 +15907,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-753 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
+  - Décret n°2018-715 du 3 août 2018 - art. 2
 
 _Anciens textes_:
 
@@ -15915,8 +15916,9 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L223-1 (M)
-  - Code de la route. - art. L223-6 (M)
+  - Code de la route. - art. L211-3
+  - Code de la route. - art. L223-1
+  - Code de la route. - art. L223-6
 
 
 ###### Article R223-2
@@ -16090,6 +16092,65 @@ _Cite_:
 
   - Code de la route. - art. L223-1
   - Code de la route. - art. L223-6
+
+
+###### Article R223-4-1
+
+I.-La formation complémentaire prévue au II de l'article L. 223-1 a pour objectif de renforcer les compétences acquises par
+les conducteurs depuis le début de leur apprentissage de la conduite. 
+
+II.-Cette formation est d'une durée d'un jour. Elle a lieu entre le sixième et le douzième mois après l'obtention du permis
+de conduire et comprend : 
+
+1° Un module général qui précise les enjeux de cette formation complémentaire ; 
+
+2° Un ou plusieurs modules spécialisés afin de permettre aux conducteurs ayant une faible expérience de conduite de davantage
+percevoir les risques et mieux connaître les dangers spécifiques auxquels ils sont exposés. 
+
+III.-Cette formation est dispensée par un enseignant de la conduite et de la sécurité routière titulaire de l'autorisation
+d'enseigner, en cours de validité, mentionnée au I de l'article L. 212-2. 
+
+L'enseignant doit avoir suivi préalablement une formation spécifique. 
+
+IV.-Cette formation est dispensée dans : 
+
+1° Les établissements d'enseignement, à titre onéreux, de la conduite et de la sécurité routière agréés en application de
+l'article L. 213-1 ; 
+
+2° Les associations exerçant leur activité dans le champ de l'insertion ou de la réinsertion sociale ou professionnelle
+agréées en application de l'article L. 213-7. 
+
+Ces établissements et associations doivent disposer d'un label de qualité prévu par arrêté du ministre chargé de la sécurité
+routière au titre de l'article L. 213-9 ou d'une équivalence reconnue par ce même arrêté. 
+
+Les exploitants de ces établissements et associations délivrent une attestation de suivi de cette formation complémentaire.
+Ils transmettent un exemplaire de cette attestation au préfet du département du lieu de la formation, dans un délai de quinze
+jours à compter de la fin de celle-ci. Cette procédure peut être dématérialisée. 
+
+V.-Le contenu et l'organisation de la formation complémentaire et de la formation spécifique des enseignants, ainsi que les
+modalités de délivrance et de transmission de l'attestation de suivi des bénéficiaires sont fixés par arrêtés du ministre
+chargé de la sécurité routière.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-715 du 3 août 2018 - art. 3
+
+_Cité par_:
+
+  - Arrêté du 2 mai 2019 (V)
+  - Arrêté du 2 mai 2019 - art. 2 (V)
+  - Arrêté du 2 mai 2019 - art. 7 (V)
+  - Code de la route. - art. R225-2 (V)
+
+_Cite_:
+
+  - Code de la route. - art. L212-2
+  - Code de la route. - art. L213-1
+  - Code de la route. - art. L213-7
+  - Code de la route. - art. L213-9
+  - Code de la route. - art. L223-1
 
 
 ##### Section 2 : Des stages  de sensibilisation à la sécurité routière.<a id=103></a>
@@ -16940,10 +17001,9 @@ territoires et collectivités territoriales d'outre-mer ;
 9° Des mesures de retrait du droit de faire usage du permis de conduire prises par une autorité étrangère et communiquées aux
 autorités françaises conformément aux accords internationaux en vigueur ; 
 
-10° Des décisions portant reconstitution partielle du nombre de points du permis de conduire en application du troisième
-alinéa de l'article L. 223-6 ; 
+10° (Abrogé) ; 
 
-11° Des décisions rapportant les mesures précédentes.
+11° Des décisions rapportant les mesures précédentes. 
 
 II.-Les préfets font procéder à l'enregistrement des demandes de renouvellement ou de duplicata des permis de conduire
 perdus, volés ou détériorés ainsi qu'aux décisions de délivrance correspondantes formulées par les personnes établies à
@@ -16955,13 +17015,25 @@ correspondantes lorsque le permis perdu, volé ou détérioré est un permis de 
 de conduire français. 
 
 Les conditions et modalités de mise en œuvre des dispositions figurant aux deux alinéas précédents, sont fixées par un arrêté
-du ministre chargé de la sécurité routière pris après avis du ministre des affaires étrangères.
+du ministre chargé de la sécurité routière pris après avis du ministre des affaires étrangères. 
+
+III.-Le préfet du département du lieu de la formation complémentaire définie au deuxième alinéa de l'article L. 223-1 procède
+à l'enregistrement des attestations de suivi de la formation complémentaire prévues au IV de l'article R. 223-4-1 et réduit
+le délai probatoire du II de l'article L. 223-1 si aucune infraction donnant lieu à un retrait de points ou entraînant une
+mesure de restriction ou de suspension du droit de conduire n'a été commise. 
+
+IV.-Le préfet du lieu du stage de sensibilisation à la sécurité routière défini au quatrième alinéa de l'article L. 223-6
+procède à l'enregistrement des décisions portant reconstitution partielle du nombre de points du permis de conduire en
+application du I de l'article R. 223-8. 
+
+V.-Les procédures du III et du IV peuvent être dématérialisées.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-347 du 22 mars 2016 - art. 4
+  - Décret n°2018-715 du 3 août 2018 - art. 4
+  - Décret n°2018-715 du 3 août 2018 - art. 5
 
 _Anciens textes_:
 
@@ -16970,9 +17042,13 @@ _Anciens textes_:
 
 _Cite_:
 
+  - Code de la route. - art. L223-1
   - Code de la route. - art. L223-6
   - Code de la route. - art. L224-1
   - Code de la route. - art. L224-7
+  - Code de la route. - art. R221-1
+  - Code de la route. - art. R223-4-1
+  - Code de la route. - art. R223-8
   - Code de la route. - art. R224-6
 
 _Nouveaux textes_:
