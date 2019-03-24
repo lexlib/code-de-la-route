@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-03-25
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -658,7 +658,12 @@ _Cité par_:
 ###### Article L121-5
 
 Les règles relatives à la procédure de l'amende forfaitaire applicable à certaines infractions au présent code sont fixées
-aux articles 529-7 à 530-4 du code de procédure pénale.
+aux articles 495-17 à 495-25 et 529-7 à 530-4 du code de procédure pénale.
+
+Le recours à cette procédure, y compris en cas d'extinction de l'action publique résultant du paiement de l'amende
+forfaitaire, ne fait pas obstacle à la mise en œuvre et l'exécution des mesures administratives de rétention et de suspension
+du permis de conduire, ou d'immobilisation et de mise en fourrière du véhicule, prévues aux articles L. 224-1 à L. 224-7, L.
+325-1 et L. 325-1-2 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -669,11 +674,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 164
-
-_Cite_:
-
-  - Code de procédure pénale - art. 529-7 (V)
+  - Loi n°2019-222 du 23 mars 2019 - art. 58
 
 
 ###### Article L121-6
@@ -1009,25 +1010,17 @@ _Cite_:
 ###### Article L130-7
 
 Lorsqu'ils ne sont pas déjà assermentés, les agents qui ont compétence pour constater par procès-verbal les contraventions
-prévues à l'article L. 130-4 prêtent serment devant le juge du tribunal d'instance. 
+prévues à l'article L. 130-4 prêtent serment devant le juge du tribunal d'instance.
 
-Ce serment, dont la formule est fixée par décret en Conseil d'Etat, est renouvelé en cas de changement de lieu d'affectation
-de l'intéressé.
+Ce serment, dont la formule est fixée par décret en Conseil d'Etat, n'a pas à être renouvelé en cas de changement de lieu
+d'affectation de l'intéressé.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2003-495 2003-06-12 art. 43 IV
-
-_Créé par_:
-
-  - Loi n°2003-495 du 12 juin 2003 - art. 39 (V) JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Cité par_:
 
@@ -1037,9 +1030,13 @@ _Cité par_:
   - Code de la route. - art. R130-9 (V)
   - Code de la route. - art. R330-3 (V)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 47 (V)
+
 _Cite_:
 
-  - Code de la route. - art. L130-4 (V)
+  - Code de la route. - art. L130-4
 
 
 ###### Article L130-8
@@ -5190,35 +5187,26 @@ _Cité par_:
 
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le conducteur ou
 l'accompagnateur de l'élève conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux
-vérifications destinées à établir la preuve de l'état alcoolique. 
+vérifications destinées à établir la preuve de l'état alcoolique.
 
 Lorsque la constatation est faite par un agent de police judiciaire mentionné au 1° bis, 1° ter, 1° quater ou 2° de l'article
 21 du code de procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un état alcoolique ou du
 refus du conducteur ou de l'accompagnateur de l'élève conducteur de subir les épreuves de dépistage à tout officier de police
 judiciaire de la police nationale ou de la gendarmerie nationale territorialement compétent, qui peut alors lui ordonner sans
-délai de lui présenter sur-le-champ la personne concernée. 
+délai de lui présenter sur-le-champ la personne concernée.
 
-Les vérifications destinées à établir la preuve de l'état alcoolique sont faites soit au moyen d'analyses et examens
-médicaux, cliniques et biologiques, soit au moyen d'un appareil permettant de déterminer la concentration d'alcool par
-l'analyse de l'air expiré à la condition que cet appareil soit conforme à un type homologué.
+Les vérifications destinées à établir la preuve de l'état alcoolique sont faites soit au moyen d'analyses ou examens
+médicaux, cliniques ou biologiques, soit au moyen d'un appareil permettant de déterminer la concentration d'alcool par
+l'analyse de l'air expiré à la condition que cet appareil soit conforme à un type homologué. A cette fin, l'officier ou
+l'agent de police judiciaire peut requérir un médecin, un interne en médecine, un étudiant en médecine autorisé à exercer la
+médecine à titre de remplaçant ou un infirmier pour effectuer une prise de sang.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1062 2001-11-15 art. 71 I : application à Mayotte
-  - PILOTE_SUIVEUR: Code de la route. - art. L244-1 (V)
-  - PILOTE_SUIVEUR: Code de la route. - art. L245-1 (V)
-  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
-
-_Modifié par_:
-
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 13 () JORF 16 novembre 2001
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Cité par_:
 
@@ -5226,7 +5214,7 @@ _Cité par_:
   - Code de la route. - art. L224-1 (V)
   - Code de la route. - art. L224-2 (V)
   - Code de la route. - art. L234-8 (V)
-  - Code de la route. - art. L234-9 (M)
+  - Code de la route. - art. L234-9 (V)
   - Code de la route. - art. L243-1 (M)
   - Code de la route. - art. L244-1 (V)
   - Code de la route. - art. L245-1 (V)
@@ -5237,19 +5225,28 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L521-1 (V)
   - Code général des collectivités territoriales - art. L2213-18 (VT)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 51
+
 _Cite_:
 
-  - Code de procédure pénale - art. 21 (V)
+  - Code de procédure pénale - art. 21
 
 _Anciens textes_:
 
   - Code de la route - art. L1 (Ab)
   - Code de la route L1 I (al. 3)
 
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L244-1 (V)
+  - PILOTE_SUIVEUR: Code de la route. - art. L245-1 (V)
+
 
 ###### Article L234-5
 
-Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un échantillon est
+Lorsque les vérifications sont faites au moyen d'analyses ou examens médicaux, cliniques ou biologiques, un échantillon est
 conservé.
 
 Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air
@@ -5260,8 +5257,12 @@ contrôle est de droit lorsqu'il est demandé par l'intéressé.
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 51
 
 _Anciens textes_:
 
@@ -5442,21 +5443,21 @@ _Anciens textes_:
 
 ###### Article L234-9
 
-Les officiers de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents soit sur
-l'instruction du procureur de la République, soit à leur initiative et, sur l'ordre et sous la responsabilité de ceux-ci, les
-agents de police judiciaire et les agents de police judiciaire adjoints peuvent, même en l'absence d'infraction préalable ou
+Les officiers ou agents de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents soit
+sur l'instruction du procureur de la République, soit à leur initiative et, sur l'ordre et sous la responsabilité des
+officiers de police judiciaire, les agents de police judiciaire adjoints peuvent, même en l'absence d'infraction préalable ou
 d'accident, soumettre toute personne qui conduit un véhicule ou qui accompagne un élève conducteur à des épreuves de
-dépistage de l'imprégnation alcoolique par l'air expiré. 
+dépistage de l'imprégnation alcoolique par l'air expiré.
 
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique, les officiers ou agents de police
 judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen de l'appareil
 permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, mentionné aux articles L. 234-4 et L. 234-5
-et dans les conditions prévues par ces mêmes articles. 
+et dans les conditions prévues par ces mêmes articles.
 
 En cas d'impossibilité de subir ces épreuves résultant d'une incapacité physique attestée par le médecin requis, les
 officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique
-au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les conditions prévues par les articles L. 234-4 et
-L. 234-5. 
+au moyen d'analyses ou examens médicaux, cliniques ou biologiques, dans les conditions prévues par les articles L. 234-4 et
+L. 234-5.
 
 Lorsque la constatation est faite par un agent de police judiciaire adjoint mentionné aux 1° bis,1° ter,1° quater ou 2° de
 l'article 21 du code de procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un état alcoolique
@@ -5472,12 +5473,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 93
+  - Loi n°2019-222 du 23 mars 2019 - art. 51
 
 _Cite_:
 
   - Code de procédure pénale - art. 21
-  - Code de la route. - art. L234-4
+  - Code de la route. - art. L234-4 (V)
 
 _Anciens textes_:
 
@@ -5827,17 +5828,19 @@ d'établir si cette personne conduisait en ayant fait usage de substances ou pla
 réquisitions prévues au présent alinéa peuvent être adressées par tout moyen. Si elles sont adressées oralement, il en est
 fait mention dans le procès-verbal dressé par l'officier ou l'agent de police judiciaire.
 
-Les officiers de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents à leur initiative
-et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et les agents de police judiciaire
+Les officiers ou agents de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents à leur
+initiative et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire
 adjoints, peuvent également, même en l'absence d'accident de la circulation, d'infraction ou de raisons plausibles de
 soupçonner un usage de stupéfiants, procéder ou faire procéder, sur tout conducteur ou tout accompagnateur d'élève
 conducteur, à des épreuves de dépistage en vue d'établir si cette personne conduisait en ayant fait usage de substances ou
-plantes classées comme stupéfiants. 
+plantes classées comme stupéfiants.
 
 Si les épreuves de dépistage se révèlent positives ou lorsque le conducteur refuse ou est dans l'impossibilité de les subir,
 les officiers ou agents de police judiciaire font procéder à des vérifications consistant en des analyses ou examens
 médicaux, cliniques et biologiques, en vue d'établir si la personne conduisait en ayant fait usage de substances ou plantes
-classées comme stupéfiants.
+classées comme stupéfiants. A cette fin, l'officier ou l'agent de police judiciaire peut requérir un médecin, un interne en
+médecine, un étudiant en médecine autorisé à exercer la médecine à titre de remplaçant ou un infirmier pour effectuer une
+prise de sang.
 
 Lorsque la constatation est faite par un agent de police judiciaire adjoint mentionné aux 1° bis, 1° ter, 1° quater ou 2° de
 l'article 21 du code de procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un usage de
@@ -5877,7 +5880,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-41 du 26 janvier 2016 - art. 45
+  - Loi n°2019-222 du 23 mars 2019 - art. 51
 
 _Cite_:
 
@@ -6215,91 +6218,92 @@ _Codifié par_:
 ###### Article L243-1
 
 Pour l'application de l'article L. 225-4 en Nouvelle-Calédonie, les mots : " dans le département " sont remplacés par les
-mots : " dans la collectivité ". 
+mots : " dans la collectivité ".
 
-Les articles L. 234-1 à L. 234-9 sont applicables à la Nouvelle-Calédonie dans la rédaction suivante : 
+Les articles L. 234-1 à L. 234-9 sont applicables à la Nouvelle-Calédonie dans la rédaction suivante :
 
 Art. L. 234-1.-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
 état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par
 une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans
-d'emprisonnement et de 4 500 euros d'amende. 
+d'emprisonnement et de 4 500 euros d'amende.
 
-II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. 
+II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines.
 
 Art. L. 234-2.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
-complémentaires suivantes : 
+complémentaires suivantes :
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+l'enfance délinquante ;
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ;
 
 3° L'interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé, par un
 professionnel agréé ou par construction, d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque
 cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle
-s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine. 
+s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine.
 
 Art. L. 234-3.-Les officiers ou agents de police judiciaire et, sur l'ordre et sous la responsabilité des officiers de police
 judiciaire, les agents de police judiciaire adjoints soumettent à des épreuves de dépistage de l'imprégnation alcoolique par
 l'air expiré l'auteur présumé de l'une des infractions prévues par les dispositions applicables localement susceptibles
 d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation ayant
-occasionné un dommage corporel. 
+occasionné un dommage corporel.
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
-présumé de l'une des infractions aux prescriptions applicables localement                autres que celles mentionnées au
-premier alinéa. 
+présumé de l'une des infractions aux prescriptions applicables localement autres que celles mentionnées au premier alinéa.
 
 Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
-établir la preuve de l'état alcoolique. 
+établir la preuve de l'état alcoolique.
 
 Lorsque la constatation est faite par un agent de police judiciaire adjoint mentionné au 2° de l'article 21 du code de
 procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un état alcoolique ou du refus du
 conducteur ou de l'accompagnateur de l'élève conducteur de subir les épreuves de dépistage à tout officier de police
-judiciaire, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ la personne concernée. 
+judiciaire, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ la personne concernée.
 
-Les vérifications prévues au premier alinéa sont faites soit au moyen d'analyses et examens médicaux, cliniques et
+Les vérifications prévues au premier alinéa sont faites soit au moyen d'analyses ou examens médicaux, cliniques ou
 biologiques, soit au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, à
-la condition que cet appareil soit conforme à un type homologué. 
+la condition que cet appareil soit conforme à un type homologué. A cette fin, l'officier ou l'agent de police judiciaire peut
+requérir un médecin, un interne en médecine, un étudiant en médecine autorisé à exercer la médecine à titre de remplaçant ou
+un infirmier pour effectuer une prise de sang.
 
-Art. L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un
-échantillon est conservé. 
+Art. L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses ou examens médicaux, cliniques ou biologiques, un
+échantillon est conservé.
 
 Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air
 expiré, un second contrôle peut être immédiatement effectué, après vérification du bon fonctionnement de l'appareil ; ce
-contrôle est de droit lorsqu'il est demandé par l'intéressé. 
+contrôle est de droit lorsqu'il est demandé par l'intéressé.
 
 Art. L. 234-6.-L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
-destinées à établir l'état alcoolique. 
+destinées à établir l'état alcoolique.
 
 Art. L. 234-7.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
-dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. 
+dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6.
 
 Art. L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux
-vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende. 
+vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
-II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
+II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+l'enfance délinquante ;
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
 
-Art. L. 234-9.-Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
-initiative, et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire et
-les agents de police judiciaire adjoints peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute
-personne qui conduit un véhicule à des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. 
+“Art. L. 234-9. - Les officiers ou les agents de police judiciaire soit sur instruction du procureur de la République, soit à
+leur initiative et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire adjoints peuvent, même
+en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des épreuves de
+dépistage de l'imprégnation alcoolique par l'air expiré.
 
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique, les officiers ou agents de police
 judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen de l'appareil
 permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, mentionné aux articles L. 234-4 et L. 234-5
-et dans les conditions prévues par ces mêmes articles. 
+et dans les conditions prévues par ces mêmes articles.
 
 En cas d'impossibilité de subir ces épreuves résultant d'une incapacité physique attestée par le médecin requis, les
 officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique
-au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les conditions prévues par les articles L. 234-4 et
+au moyen d'analyses ou examens médicaux, cliniques ou biologiques, dans les conditions prévues par les articles L. 234-4 et
 L. 234-5.
 
 **Liens relatifs à cet article**
@@ -6313,7 +6317,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
+  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
 
 _Cite_:
 
@@ -6326,10 +6330,13 @@ _Cite_:
 Les 2°, 3° et 6° de l'article L. 231-2, le I et les 2°, 3° et 5° du II de l'article L. 233-1, le I et les 4° et 5° du II de
 l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les articles L. 234-16 et L. 234-17, le I, les 3° et
 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de
-l'article L. 235-4 sont applicables en Nouvelle-Calédonie. 
+l'article L. 235-4 sont applicables en Nouvelle-Calédonie.
 
-Le I de l'article L. 235-1 et l'article L. 235-2 sont applicables dans leur rédaction résultant de la loi n° 2016-41 du 26
-janvier 2016 de modernisation de notre système de santé.
+Le I de l'article L. 235-1 est applicable dans sa rédaction résultant de la loi n° 2016-41 du 26 janvier 2016 de
+modernisation de notre système de santé.
+
+L'article L. 235-2 est applicable dans sa rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation
+2018-2022 et de réforme pour la justice.
 
 **Liens relatifs à cet article**
 
@@ -6353,7 +6360,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
+  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
 
 
 ###### Article L243-3
@@ -6379,85 +6386,86 @@ _Cite_:
 ###### Article L244-1
 
 Pour l'application de l'article L. 225-4 en Polynésie française, les mots : " dans le département " sont remplacés par les
-mots : " dans la collectivité ". 
+mots : " dans la collectivité ".
 
-Les articles L. 234-1 à L. 234-9 sont applicables à la Polynésie française, dans la rédaction suivante : 
+Les articles L. 234-1 à L. 234-9 sont applicables à la Polynésie française, dans la rédaction suivante :
 
 " Art. L. 234-1.-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
 état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par
 une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans
-d'emprisonnement et de 4 500 euros d'amende. 
+d'emprisonnement et de 4 500 euros d'amende.
 
-II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. " 
+II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. "
 
 " Art. L. 234-2.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
-complémentaires suivantes : 
+complémentaires suivantes :
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+l'enfance délinquante ;
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; " 
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; "
 
 3° L'interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé, par un
 professionnel agréé ou par construction, d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque
 cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle
-s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine. 
+s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine.
 
 " Art. L. 234-3.-Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
 alcoolique par l'air expiré l'auteur présumé de l'une des infractions prévues par les dispositions applicables localement
 susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation
-ayant occasionné un dommage corporel. 
+ayant occasionné un dommage corporel.
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
-présumé de l'une des infractions aux prescriptions applicables localement                autres que celles mentionnées au
-premier alinéa. " 
+présumé de l'une des infractions aux prescriptions applicables localement autres que celles mentionnées au premier alinéa. "
 
 " Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
-établir la preuve de l'état alcoolique. 
+établir la preuve de l'état alcoolique.
 
-Ces vérifications sont faites soit au moyen d'analyses et examens médicaux, cliniques et biologiques, soit au moyen d'un
+Ces vérifications sont faites soit au moyen d'analyses ou examens médicaux, cliniques ou biologiques, soit au moyen d'un
 appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré à la condition que cet appareil
-soit conforme à un type homologué. " 
+soit conforme à un type homologué. " A cette fin, l'officier ou l'agent de police judiciaire peut requérir un médecin, un
+interne en médecine, un étudiant en médecine autorisé à exercer la médecine à titre de remplaçant ou un infirmier pour
+effectuer une prise de sang.
 
-" Art. L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un
-échantillon est conservé. 
+" Art. L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses ou examens médicaux, cliniques ou biologiques, un
+échantillon est conservé.
 
 Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air
 expiré, un second contrôle peut être immédiatement effectué, après vérification du bon fonctionnement de l'appareil ; ce
-contrôle est de droit lorsqu'il est demandé par l'intéressé. " 
+contrôle est de droit lorsqu'il est demandé par l'intéressé. "
 
 " Art. L. 234-6.-L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
-destinées à établir l'état alcoolique. " 
+destinées à établir l'état alcoolique. "
 
 " Art. L. 234-7.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
-dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. " 
+dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. "
 
 " Art. L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux
-vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende. 
+vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
-II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
+II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+l'enfance délinquante ;
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. " 
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. "
 
-" Art. L. 234-9.-Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
-initiative, et sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire
-peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des
-épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. 
+“Art. L. 234-9. - Les officiers ou les agents de police judiciaire soit sur instruction du procureur de la République, soit à
+leur initiative et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire adjoints peuvent, même
+en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des épreuves de
+dépistage de l'imprégnation alcoolique par l'air expiré.
 
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique, les officiers ou agents de police
 judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen de l'appareil
 permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, mentionné aux articles L. 234-4 et L. 234-5
-et dans les conditions prévues par ces mêmes articles. 
+et dans les conditions prévues par ces mêmes articles.
 
 En cas d'impossibilité de subir ces épreuves résultant d'une incapacité physique attestée par le médecin requis, les
 officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique
-au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les conditions prévues par les articles L. 234-4 et
+au moyen d'analyses ou examens médicaux, cliniques ou biologiques, dans les conditions prévues par les articles L. 234-4 et
 L. 234-5. "
 
 **Liens relatifs à cet article**
@@ -6470,6 +6478,10 @@ _Cite_:
   - Code pénal - art. 131-5
   - Code pénal - art. 131-8
   - Code de la route. - art. L225-4
+  - Code de la route. - art. L234-5
+  - Code de la route. - art. L234-7
+  - Code de la route. - art. L234-8
+  - Code de la route. - art. L234-9
 
 _Anciens textes_:
 
@@ -6480,7 +6492,16 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
+  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-1
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-2
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-3
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-4
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-6
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-9
 
 
 ###### Article L244-2
@@ -6489,10 +6510,13 @@ Les 2°, 3° et 6° de l'article L. 231-2, le I et les 2°, 3° et 5° du II de 
 l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les articles L. 234-16 et L. 234-17, le I, les 3° et
 4° du II et le III de l'article L. 235-1, 
 l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de l'article L. 235-4 sont applicables en
-Polynésie française. 
+Polynésie française.
 
-Le I de l'article L. 235-1 et l'article L. 235-2 sont applicables dans leur rédaction résultant de la loi n° 2016-41 du 26
-janvier 2016 de modernisation de notre système de santé.
+Le I de l'article L. 235-1 est applicable dans sa rédaction résultant de la loi n° 2016-41 du 26 janvier 2016 de
+modernisation de notre système de santé.
+
+L'article L. 235-2 est applicable dans sa rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation
+2018-2022 et de réforme pour la justice.
 
 **Liens relatifs à cet article**
 
@@ -6516,7 +6540,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
+  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
 
 
 ###### Article L244-3
@@ -6542,85 +6566,86 @@ _Cite_:
 ###### Article L245-1
 
 Pour l'application de l'article L. 225-4 dans les îles Wallis et Futuna, les mots : " dans le département " sont remplacés
-par les mots : " dans la collectivité ". 
+par les mots : " dans la collectivité ".
 
-Les articles L. 234-1 à L. 234-9 sont applicables au territoire des îles Wallis-et-Futuna dans la rédaction suivante : 
+Les articles L. 234-1 à L. 234-9 sont applicables au territoire des îles Wallis-et-Futuna dans la rédaction suivante :
 
 " Art. L. 234-1.-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
 état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par
 une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans
-d'emprisonnement et de 4 500 euros d'amende. 
+d'emprisonnement et de 4 500 euros d'amende.
 
-II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. " 
+II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. "
 
 " Art. L. 234-2.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
-complémentaires suivantes : 
+complémentaires suivantes :
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+l'enfance délinquante ;
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; " 
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; "
 
 3° L'interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé, par un
 professionnel agréé ou par construction, d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque
 cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle
-s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine. 
+s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine.
 
 " Art. L. 234-3.-Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
 alcoolique par l'air expiré l'auteur présumé de l'une des infractions prévues aux dispositions applicables localement
 susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation
-ayant occasionné un dommage corporel. 
+ayant occasionné un dommage corporel.
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
-présumé de l'une des infractions aux prescriptions applicables localement                autres que celles mentionnées au
-premier alinéa. " 
+présumé de l'une des infractions aux prescriptions applicables localement autres que celles mentionnées au premier alinéa. "
 
 " Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
-établir la preuve de l'état alcoolique. 
+établir la preuve de l'état alcoolique.
 
-Ces vérifications sont faites soit au moyen d'analyses et examens médicaux, cliniques et biologiques, soit au moyen d'un
+Ces vérifications sont faites soit au moyen d'analyses ou examens médicaux, cliniques ou biologiques, soit au moyen d'un
 appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré à la condition que cet appareil
-soit conforme à un type homologué. " 
+soit conforme à un type homologué. " A cette fin, l'officier ou l'agent de police judiciaire peut requérir un médecin, un
+interne en médecine, un étudiant en médecine autorisé à exercer la médecine à titre de remplaçant ou un infirmier pour
+effectuer une prise de sang.
 
-" Art. L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un
-échantillon est conservé. 
+" Art. L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses ou examens médicaux, cliniques ou biologiques, un
+échantillon est conservé.
 
 Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air
 expiré, un second contrôle peut être immédiatement effectué, après vérification du bon fonctionnement de l'appareil ; ce
-contrôle est de droit lorsqu'il est demandé par l'intéressé. 
+contrôle est de droit lorsqu'il est demandé par l'intéressé.
 
 " Art. L. 234-6.-L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
-destinées à établir l'état alcoolique. " 
+destinées à établir l'état alcoolique. "
 
 " Art. L. 234-7.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
-dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. " 
+dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. "
 
 " Art. L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux
-vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende. 
+vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
-II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
+II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+l'enfance délinquante ;
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. " 
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. "
 
-" Art. L. 234-9.-Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
-initiative, et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire
-peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des
-épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. 
+“Art. L. 234-9. - Les officiers ou les agents de police judiciaire soit sur instruction du procureur de la République, soit à
+leur initiative et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire adjoints peuvent, même
+en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des épreuves de
+dépistage de l'imprégnation alcoolique par l'air expiré.
 
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique, les officiers ou agents de police
 judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen de l'appareil
 permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, mentionné aux articles L. 234-4 à L. 234-6
-et dans les conditions prévues par ces mêmes articles. 
+et dans les conditions prévues par ces mêmes articles.
 
 En cas d'impossibilité de subir ces épreuves résultant d'une incapacité physique attestée par le médecin requis, les
 officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique
-au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les conditions prévues par les articles L. 234-4 à L.
+au moyen d'analyses ou examens médicaux, cliniques ou biologiques, dans les conditions prévues par les articles L. 234-4 à L.
 234-6. "
 
 **Liens relatifs à cet article**
@@ -6633,6 +6658,10 @@ _Cite_:
   - Code pénal - art. 131-5
   - Code pénal - art. 131-8
   - Code de la route. - art. L225-4
+  - Code de la route. - art. L234-2
+  - Code de la route. - art. L234-5
+  - Code de la route. - art. L234-8
+  - Code de la route. - art. L234-9
 
 _Anciens textes_:
 
@@ -6643,7 +6672,16 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
+  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-1
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-3
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-4
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-6
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-7
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-9
 
 
 ###### Article L245-2
@@ -6651,10 +6689,13 @@ _Modifié par_:
 Les 2°, 3° et 6° de l'article L. 231-2, le I et les 2°, 3° et 5° du II de l'article L. 233-1, le I et les 4° et 5° du II de
 l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les articles L. 234-16 et L. 234-17, le I, les 3° et
 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de
-l'article L. 235-4 sont applicables dans les îles Wallis et Futuna. 
+l'article L. 235-4 sont applicables dans les îles Wallis et Futuna.
 
-Le I de l'article L. 235-1 et l'article L. 235-2 sont applicables dans leur rédaction résultant de la loi n° 2016-41 du 26
-janvier 2016 de modernisation de notre système de santé.
+Le I de l'article L. 235-1 est applicable dans sa rédaction résultant de la loi n° 2016-41 du 26 janvier 2016 de
+modernisation de notre système de santé.
+
+L'article L. 235-2 est applicable dans sa rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation
+2018-2022 et de réforme pour la justice.
 
 **Liens relatifs à cet article**
 
@@ -6678,7 +6719,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
+  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
 
 
 ###### Article L245-3
@@ -8044,19 +8085,19 @@ Dès lors qu'est constatée une infraction pour laquelle une peine de confiscati
 infraction de dépassement de 50 kilomètres à l'heure ou plus de la vitesse maximale autorisée, le représentant de l'Etat dans
 le département où cette infraction a été commise peut faire procéder à titre provisoire à l'immobilisation et à la mise en
 fourrière du véhicule dont l'auteur s'est servi pour commettre l'infraction. Il en informe immédiatement, par tout moyen, le
-procureur de la République. 
+procureur de la République, sauf s'il a été recouru à la procédure de l'amende forfaitaire.
 
 Lorsque l'immobilisation ou la mise en fourrière prévue à l'article L. 325-1-1 n'est pas autorisée par le procureur de la
 République dans un délai de sept jours suivant la décision du représentant de l'Etat prise en application du premier alinéa,
-le véhicule est restitué à son propriétaire. En cas de mesures successives, le délai n'est pas prorogé. 
+le véhicule est restitué à son propriétaire. En cas de mesures successives, le délai n'est pas prorogé.
 
 Lorsqu'une peine d'immobilisation ou de confiscation du véhicule est prononcée par la juridiction, les règles relatives aux
-frais d'enlèvement et de garde en fourrière prévues à l'article L. 325-1-1 s'appliquent. 
+frais d'enlèvement et de garde en fourrière prévues à l'article L. 325-1-1 s'appliquent.
 
 Lorsque l'auteur de l'infraction visée au premier alinéa du présent article n'est pas le propriétaire du véhicule,
 l'immobilisation ou la mise en fourrière est levée dès qu'un conducteur qualifié proposé par l'auteur de l'infraction ou par
 le titulaire du certificat d'immatriculation du véhicule peut en assurer la conduite. Les frais d'enlèvement et de garde en
-fourrière sont à la charge du propriétaire. 
+fourrière sont à la charge du propriétaire.
 
 Les frais d'enlèvement et de garde du véhicule immobilisé et mis en fourrière pendant une durée maximale de sept jours en
 application du présent article ne constituent pas des frais de justice relevant de l'article 800 du code de procédure pénale.
@@ -8065,7 +8106,7 @@ application du présent article ne constituent pas des frais de justice relevant
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
+  - Loi n°2019-222 du 23 mars 2019 - art. 58
 
 _Cite_:
 
