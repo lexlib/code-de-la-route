@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -1074,16 +1074,16 @@ Lorsqu'elles sont effectuées par ou à partir des appareils de contrôle automa
 constatations relatives aux infractions dont la liste est fixée par décret en Conseil d'Etat font foi jusqu'à preuve du
 contraire. Ces constatations peuvent faire l'objet d'un procès-verbal revêtu d'une signature manuelle numérisée.
 
-Lorsque ces constatations font l'objet d'un traitement automatisé d'informations nominatives mis en oeuvre conformément aux
-dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, la durée maximale
-de conservation de ces informations ne peut excéder dix ans, sans préjudice de la possibilité pour le conducteur du véhicule
-ayant fait l'objet du contrôle de demander au procureur de la République territorialement compétent d'ordonner l'effacement
-des informations le concernant lorsqu'il a récupéré le nombre de points ayant été retirés de son permis de conduire ou
-lorsque la procédure le concernant a donné lieu à une décision définitive de relaxe.
+Lorsque ces constatations font l'objet d'un traitement automatisé de données à caractère personnel mis en oeuvre conformément
+aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, la durée
+maximale de conservation de ces données ne peut excéder dix ans, sans préjudice de la possibilité pour le conducteur du
+véhicule ayant fait l'objet du contrôle de demander au procureur de la République territorialement compétent d'ordonner
+l'effacement des données le concernant lorsqu'il a récupéré le nombre de points ayant été retirés de son permis de conduire
+ou lorsque la procédure le concernant a donné lieu à une décision définitive de relaxe.
 
-Pour l'application des dispositions relatives à l'amende forfaitaire, le lieu du traitement automatisé des informations
-nominatives concernant les constatations effectuées par ou à partir des appareils de contrôle automatisé est considéré comme
-le lieu de constatation de l'infraction.
+Pour l'application des dispositions relatives à l'amende forfaitaire, le lieu du traitement automatisé des données à
+caractère personnel concernant les constatations effectuées par ou à partir des appareils de contrôle automatisé est
+considéré comme le lieu de constatation de l'infraction.
 
 Lorsque l'excès de vitesse est constaté par le relevé d'une vitesse moyenne, entre deux points d'une voie de circulation,
 supérieure à la vitesse maximale autorisée entre ces deux points, le lieu de commission de l'infraction est celui où a été
@@ -1091,13 +1091,9 @@ réalisée la deuxième constatation, sans préjudice des dispositions du préc�
 
 **Nota:**
 
-Conformément à l'article 34 IV B de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispostions entrent en vigueur à
-la date fixée par le décret en Conseil d'Etat qu'elles mentionnent et au plus tard un an après la promulgation de la présente
-loi.
-
-Le 1° de l'article 2 du décret n° 2016-1955 du 28 décembre 2016 a fixé  au 31 décembre 2016 la date de l'entrée en vigueur
-des dispositions du  présent article dans leur rédaction issue du 4° du I de l'article 34 de la loi n° 2016-1547 du 18
-novembre 2016.
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -1126,7 +1122,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 19
 
 
 ### Titre 3 bis : Conseil national de la sécurité routière<a id=8></a>
@@ -4231,15 +4227,25 @@ _Anciens textes_:
 
 ###### Article L225-6
 
-Aucune information nominative relative au permis de conduire ne peut être divulguée en dehors des cas expressément prévus aux
-articles L. 225-3 à L. 225-5.
+Aucune donnée à caractère personnel relative au permis de conduire ne peut être divulguée en dehors des cas expressément
+prévus aux articles L. 225-3 à L. 225-5.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 19
 
 _Anciens textes_:
 
@@ -4247,7 +4253,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L225-3 (V)
+  - Code de la route. - art. L225-3
 
 
 ###### Article L225-7
@@ -4281,22 +4287,32 @@ _Cité par_:
 
 Le fait, en prenant un faux nom ou une fausse qualité, de se faire communiquer le relevé des mentions enregistrées en
 application de l'article L. 225-1 et concernant un tiers est puni de la peine prévue par l'article 781 du code de procédure
-pénale. 
+pénale.
 
-Est puni de la même peine le fait d'obtenir soit directement, soit indirectement, communication d'informations nominatives
-dont la divulgation n'est pas expressément prévue par le présent code.
+Est puni de la même peine le fait d'obtenir soit directement, soit indirectement, communication de données à caractère
+personnel dont la divulgation n'est pas expressément prévue par le présent code.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 19
 
 _Cite_:
 
-  - Code de procédure pénale - art. 781 (V)
-  - Code de la route. - art. L225-1 (V)
+  - Code de procédure pénale - art. 781
+  - Code de la route. - art. L225-1
 
 _Anciens textes_:
 
@@ -9335,37 +9351,44 @@ _Cité par_:
 
 ###### Article L330-5
 
-Sous réserve des dispositions des alinéas suivants, les informations nominatives figurant dans les pièces administratives
-exigées pour la circulation des véhicules ne peuvent être communiquées qu'aux destinataires mentionnés aux articles L. 330-2
-à L. 330-4. 
+Sous réserve des dispositions des alinéas suivants, les données à caractère personnel figurant dans les pièces
+administratives exigées pour la circulation des véhicules ne peuvent être communiquées qu'aux destinataires mentionnés aux
+articles L. 330-2 à L. 330-4. 
 
-Ces informations nominatives sont également communicables à des tiers préalablement agréés par l'autorité administrative afin
-d'être réutilisées dans les conditions prévues aux articles L. 321-1 à L. 327-1 du code des relations entre le public et
+Ces données à caractère personnel sont également communicables à des tiers préalablement agréés par l'autorité administrative
+afin d'être réutilisées dans les conditions prévues aux articles L. 321-1 à L. 327-1 du code des relations entre le public et
 l'administration :
 
 - à des fins statistiques, ou à des fins de recherche scientifique ou historique, sans qu'il soit nécessaire de recueillir
-l'accord préalable des personnes concernées mais sous réserve que les études réalisées ne fassent apparaître aucune
-information nominative ;
+l'accord préalable des personnes concernées mais sous réserve que les études réalisées ne fassent apparaître aucune donnée à
+caractère personnel ;
 
 - à des fins d'enquêtes et de prospections commerciales, sauf opposition des personnes concernées selon les modalités prévues
-au deuxième alinéa de l'article 38 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+à l'article 21 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des
+personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et
+abrogeant la directive 95/46/ CE de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
 libertés ;
 
 - à des fins de sécurisation des activités économiques qui nécessitent une utilisation de caractéristiques techniques des
-véhicules fiables, sans communication des nom, prénom et adresse des personnes concernées. 
+véhicules fiables, sans communication des nom, prénom et adresse des personnes concernées.
 
 La décision d'agrément mentionnée au deuxième alinéa peut être précédée d'une enquête administrative, dans les conditions
 prévues par l'article 17-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité,
 pour des motifs d'intérêt général liés à la protection des personnes et des biens.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 38
+  - Loi n°78-17 du 6 janvier 1978
   - Loi n°95-73 du 21 janvier 1995 - art. 17-1
-  - Code de la route. - art. L330-2
-  - Code des relations entre le public et l'adminis... - art. L321-1 (V)
+  - articles L. 321-1 à L. 327-1 du code des relations entre le public et l'administration
 
 _Cité par_:
 
@@ -9378,7 +9401,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 19
 
 _Anciens textes_:
 
@@ -9417,22 +9440,32 @@ _Cité par_:
 
 Le fait, en prenant un faux nom ou une fausse qualité, de se faire communiquer le relevé des mentions enregistrées en
 application de l'article L. 330-1 et concernant un tiers est puni de la peine prévue par l'article 781 du code de procédure
-pénale. 
+pénale.
 
-Est puni de la même peine le fait d'obtenir soit directement, soit indirectement, communication d'informations nominatives
-dont la divulgation n'est pas expressément prévue par le présent code.
+Est puni de la même peine le fait d'obtenir soit directement, soit indirectement, communication de données à caractère
+personnel dont la divulgation n'est pas expressément prévue par le présent code.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 19
 
 _Cite_:
 
-  - Code de procédure pénale - art. 781 (V)
-  - Code de la route. - art. L330-1 (V)
+  - Code de procédure pénale - art. 781
+  - Code de la route. - art. L330-1
 
 _Anciens textes_:
 
