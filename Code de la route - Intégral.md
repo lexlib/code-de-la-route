@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2019-06-24
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -19882,11 +19882,11 @@ automotrices à un seul essieu.
 
 6. Autres véhicules :
 
-6.1. Engin de service hivernal : véhicule à moteur de transport de marchandises, d'un poids total autorisé en charge
-supérieur à 3,5 tonnes, ou tracteur agricole appartenant aux collectivités gestionnaires des voies publiques ou aux personnes
-agissant pour leur compte, lorsqu'ils sont équipés d'outils spécifiques destinés à lutter contre le verglas ou la neige sur
-les voies ouvertes à la circulation publique ; un arrêté du ministre chargé des transports définit les caractéristiques de
-ces outils ;
+6.1. Engin de service hivernal : véhicule à moteur ou véhicule remorqué de transport de marchandises, d'un poids total
+autorisé en charge supérieur à 3,5 tonnes, ou tracteur agricole appartenant aux collectivités gestionnaires des voies
+publiques ou aux personnes agissant pour leur compte, lorsqu'ils sont équipés d'outils spécifiques destinés à lutter contre
+le verglas ou la neige sur les voies ouvertes à la circulation publique ; un arrêté du ministre chargé des transports définit
+les caractéristiques de ces outils ;
 
 6.2. Engin spécial : engin automoteur ou remorqué servant à l'élévation, au gerbage ou au transport de produits de toute
 nature, à l'exclusion du transport de personnes autres que le conducteur et éventuellement un convoyeur, et dont la vitesse
@@ -20118,7 +20118,7 @@ _Cité par_:
   - Code de la route. - art. R321-4-2 (V)
   - Code de la route. - art. R322-1 (V)
   - Code de la route. - art. R323-25 (V)
-  - Code de la route. - art. R323-6 (V)
+  - Code de la route. - art. R323-6 (M)
   - Code de la route. - art. R325-8 (V)
   - Code de la route. - art. R411-19 (VD)
   - Code de la route. - art. R411-19-1 (VD)
@@ -20150,7 +20150,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1045 du 28 novembre 2018 - art. 1
+  - Décret n°2019-620 du 21 juin 2019 - art. 1
 
 
 ###### Article R311-2
