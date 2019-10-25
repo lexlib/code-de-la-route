@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2019-08-24
+Version Consolidée au 2019-10-26
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -139,7 +139,7 @@ Version Consolidée au 2019-08-24
         - [Chapitre VI : Organes de manoeuvre, de direction et de visibilité. (art. R316-1 à R316-10)](#136)
         - [Chapitre VII : Dispositifs et aménagements particuliers (art. R317-1 à R317-28)](#137)
           - [Section 1 : Appareils de contrôle et de limitation de la vitesse. (art. R317-1 à R317-7)](#138)
-          - [Section 2 : Plaques et inscriptions. (art. R317-8 à R317-14)](#139)
+          - [Section 2 : Plaques et inscriptions. (art. R317-8 à R317-14-1)](#139)
           - [Section 3 : Dispositif antivol. (art. R317-15 à R317-17)](#140)
           - [Section 4 : Attelage des remorques. (art. R317-18 à R317-20)](#141)
           - [Section 5 : Remorquage des véhicules en panne ou accidentés. (art. R317-21 à R317-22)](#142)
@@ -196,52 +196,53 @@ Version Consolidée au 2019-08-24
           - [Section 4 : Sens de circulation. (art. R412-26 à R412-28-1)](#193)
           - [Section 5 : Feux de signalisation lumineux. (art. R412-29 à R412-33)](#194)
           - [Section 6 : Circulation des piétons. (art. R412-34 à R412-43)](#195)
-          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#196)
-          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#197)
-        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#198)
-          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#199)
-          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#200)
-        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#201)
-          - [Section 1 : Croisement. (art. R414-1 à R414-3-1)](#202)
-          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#203)
-        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#204)
-        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#205)
-          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#206)
-          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#207)
-          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#208)
-        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#209)
-          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#210)
-          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#211)
-        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#212)
-      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-5)](#213)
-        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-10)](#214)
-        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-5)](#215)
-      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R435-6)](#216)
-        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#217)
-        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#218)
-          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#219)
-          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#220)
-          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#221)
-        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-20)](#222)
-          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#223)
-          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#224)
-          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#225)
-          - [Section 4 : Transports de bois ronds (art. R433-9 à R433-16)](#226)
-          - [Section 5 : Accompagnement des transports exceptionnels. (art. R433-17 à R433-20)](#227)
-        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#228)
-        - [Chapitre V : Autres véhicules (art. R435-1 à R435-6)](#229)
-          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1 à R435-2)](#230)
-          - [Section 2 : Ensembles forains (art. R435-3)](#231)
-          - [Section 3 : Véhicules automoteurs spéciaux (art. R435-4 à R435-6)](#232)
-      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#233)
-        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#234)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#235)
-  - [Partie arrêtés (art. A121-1 à A143-1)](#236)
-    - [Livre 1er : Dispositions générales (art. A121-1 à A143-1)](#237)
-      - [Titre 2 : Responsabilité (art. A121-1 à A121-3)](#238)
-        - [Chapitre 1er : Responsabilité pénale (art. A121-1 à A121-3)](#239)
-      - [Titre 4 : Dispositions relatives à l'outre-mer (art. A143-1)](#240)
-        - [Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna (art. A143-1)](#241)
+          - [Section 6 bis : Circulation des engins de déplacement personnel motorisés (art. R412-43-1 à R412-43-3)](#196)
+          - [Section 7 : Circulation des animaux isolés ou en groupe. (art. R412-44 à R412-50)](#197)
+          - [Section 8 : Troubles à la circulation. (art. R412-51 à R412-52)](#198)
+        - [Chapitre III : Vitesse (art. R413-1 à R413-19)](#199)
+          - [Section 1 : Vitesses maximales autorisées. (art. R413-1 à R413-16)](#200)
+          - [Section 2 : Maîtrise de la vitesse. (art. R413-17 à R413-19)](#201)
+        - [Chapitre IV : Croisement et dépassement (art. R414-1 à R414-17)](#202)
+          - [Section 1 : Croisement. (art. R414-1 à R414-3-1)](#203)
+          - [Section 2 : Dépassement. (art. R414-4 à R414-17)](#204)
+        - [Chapitre V : Intersections et priorité de passage. (art. R415-1 à R415-15)](#205)
+        - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation (art. R416-1 à R416-20)](#206)
+          - [Section 1 : Emploi des avertisseurs. (art. R416-1 à R416-3)](#207)
+          - [Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante. (art. R416-4 à R416-16)](#208)
+          - [Section 3 : Autres dispositions. (art. R416-17 à R416-20)](#209)
+        - [Chapitre VII : Arrêt et stationnement (art. R417-1 à R417-13)](#210)
+          - [Section 1 : Dispositions générales. (art. R417-1 à R417-8)](#211)
+          - [Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif. (art. R417-9 à R417-13)](#212)
+        - [Chapitre VIII : Publicité, enseignes et préenseignes. (art. R418-1 à R418-9)](#213)
+      - [Titre II : Dispositions complémentaires applicables sur certaines voies. (art. R421-1 à R422-5)](#214)
+        - [Chapitre Ier : Autoroutes. (art. R421-1 à R421-10)](#215)
+        - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art. (art. R422-1 à R422-5)](#216)
+      - [Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules. (art. R431-1 à R435-6)](#217)
+        - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles. (art. R431-1 à R431-11)](#218)
+        - [Chapitre II : Véhicules d'intérêt général (art. R432-1 à R432-7)](#219)
+          - [Section 1 : Véhicules d'intérêt général prioritaires. (art. R432-1)](#220)
+          - [Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage. (art. R432-2 à R432-4)](#221)
+          - [Section 3 : Autres véhicules d'intérêt général. (art. R432-5 à R432-7)](#222)
+        - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque (art. R433-1 à R433-20)](#223)
+          - [Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules. (art. R433-1 à R433-6)](#224)
+          - [Section 2 : Transports exceptionnels de personnes. (art. R433-7)](#225)
+          - [Section 3 : Ensembles de véhicules comportant plus d'une remorque. (art. R433-8)](#226)
+          - [Section 4 : Transports de bois ronds (art. R433-9 à R433-16)](#227)
+          - [Section 5 : Accompagnement des transports exceptionnels. (art. R433-17 à R433-20)](#228)
+        - [Chapitre IV : Convois et véhicules à traction animale. (art. R434-1 à R434-4)](#229)
+        - [Chapitre V : Autres véhicules (art. R435-1 à R435-6)](#230)
+          - [Section 1 : Véhicules et matériels agricoles ou forestiers (art. R435-1 à R435-2)](#231)
+          - [Section 2 : Ensembles forains (art. R435-3)](#232)
+          - [Section 3 : Véhicules automoteurs spéciaux (art. R435-4 à R435-6)](#233)
+      - [Titre IV : Dispositions relatives à l'outre-mer. (art. R441-1 à R442-7)](#234)
+        - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. R441-1 à R441-5)](#235)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. R442-1 à R442-7)](#236)
+  - [Partie arrêtés (art. A121-1 à A143-1)](#237)
+    - [Livre 1er : Dispositions générales (art. A121-1 à A143-1)](#238)
+      - [Titre 2 : Responsabilité (art. A121-1 à A121-3)](#239)
+        - [Chapitre 1er : Responsabilité pénale (art. A121-1 à A121-3)](#240)
+      - [Titre 4 : Dispositions relatives à l'outre-mer (art. A143-1)](#241)
+        - [Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna (art. A143-1)](#242)
 # Partie législative<a id=1></a>
 
 ## Livre 1er : Dispositions générales<a id=2></a>
@@ -10770,15 +10771,16 @@ par des panneaux placés à cet effet le long de la route qui le traverse ou qui
 
 - aire piétonne : section ou ensemble de sections de voies en agglomération, hors routes à grande circulation, constituant
 une zone affectée à la circulation des piétons de façon temporaire ou permanente. Dans cette zone, sous réserve des
-dispositions de l'article R. 431-9, seuls les véhicules nécessaires à la desserte interne de la zone sont autorisés à
-circuler à l'allure du pas et les piétons sont prioritaires sur ceux-ci. Les entrées et sorties de cette zone sont annoncées
-par une signalisation.
+dispositions des articles R. 412-43-1 et R. 431-9, seuls les véhicules nécessaires à la desserte interne de la zone sont
+autorisés à circuler à l'allure du pas et les piétons sont prioritaires sur ceux-ci. Les entrées et sorties de cette zone
+sont annoncées par une signalisation.
 
 - arrêt : immobilisation momentanée d'un véhicule sur une route durant le temps nécessaire pour permettre la montée ou la
 descente de personnes, le chargement ou le déchargement du véhicule, le conducteur restant aux commandes de celui-ci ou à
 proximité pour pouvoir, le cas échéant, le déplacer ;
 
-- bande cyclable : voie exclusivement réservée aux cycles à deux ou trois roues sur une chaussée à plusieurs voies ;
+- bande cyclable : voie exclusivement réservée aux cycles à deux ou trois roues et aux engins de déplacement personnel
+motorisés sur une chaussée à plusieurs voies ;
 
 - bande d'arrêt d'urgence : partie d'un accotement située en bordure de la chaussée et spécialement réalisée pour permettre,
 en cas de nécessité absolue, l'arrêt ou le stationnement des véhicules ;
@@ -10787,7 +10789,7 @@ en cas de nécessité absolue, l'arrêt ou le stationnement des véhicules ;
 
 - carrefour à sens giratoire : place ou carrefour comportant un terre-plein central matériellement infranchissable, ceinturé
 par une chaussée mise à sens unique par la droite sur laquelle débouchent différentes routes et annoncé par une signalisation
-spécifique. Toutefois,   , les carrefours à sens giratoire peuvent comporter un terre-plein central matériellement
+spécifique. Toutefois,, les carrefours à sens giratoire peuvent comporter un terre-plein central matériellement
 franchissable, qui peut être chevauché par les conducteurs lorsque l'encombrement de leur véhicule rend cette manoeuvre
 indispensable ;
 
@@ -10796,27 +10798,29 @@ indispensable ;
 - intersection : lieu de jonction ou de croisement à niveau de deux ou plusieurs chaussées, quels que soient le ou les angles
 des axes de ces chaussées ;
 
-- piste cyclable : chaussée exclusivement réservée aux cycles à deux ou trois roues ;
+- piste cyclable : chaussée exclusivement réservée aux cycles à deux ou trois roues et aux engins de déplacement personnel
+motorisés ;
 
 - stationnement : immobilisation d'un véhicule sur la route hors les circonstances caractérisant l'arrêt ;
 
 - voie de circulation : subdivision de la chaussée ayant une largeur suffisante pour permettre la circulation d'une file de
 véhicules ;
 
-- voie verte : route exclusivement réservée à la circulation des véhicules non motorisés, des piétons et des cavaliers ;
+- voie verte : route exclusivement réservée à la circulation des véhicules non motorisés à l'exception des engins de
+déplacement personnel motorisés, des piétons et des cavaliers ;
 
 - zone de rencontre : section ou ensemble de sections de voies en agglomération constituant une zone affectée à la
 circulation de tous les usagers. Dans cette zone, les piétons sont autorisés à circuler sur la chaussée sans y stationner et
 bénéficient de la priorité sur les véhicules. La vitesse des véhicules y est limitée à 20 km/ h. Toutes les chaussées sont à
-double sens pour les cyclistes, sauf dispositions différentes prises par l'autorité investie du pouvoir de police. Les
-entrées et sorties de cette zone sont annoncées par une signalisation et l'ensemble de la zone est aménagé de façon cohérente
-avec la limitation de vitesse applicable.
+double sens pour les cyclistes et les conducteurs d'engins de déplacement personnel motorisés, sauf dispositions différentes
+prises par l'autorité investie du pouvoir de police. Les entrées et sorties de cette zone sont annoncées par une
+signalisation et l'ensemble de la zone est aménagé de façon cohérente avec la limitation de vitesse applicable.
 
 - zone 30 : section ou ensemble de sections de voies constituant une zone affectée à la circulation de tous les usagers. Dans
-cette zone, la vitesse des véhicules est limitée à 30 km/ h. Toutes les chaussées sont à double sens pour les cyclistes, sauf
-dispositions différentes prises par l'autorité investie du pouvoir de police. Les entrées et sorties de cette zone sont
-annoncées par une signalisation et l'ensemble de la zone est aménagé de façon cohérente avec la limitation de vitesse
-applicable.
+cette zone, la vitesse des véhicules est limitée à 30 km/ h. Toutes les chaussées sont à double sens pour les cyclistes et
+les conducteurs d'engins de déplacement personnel motorisés, sauf dispositions différentes prises par l'autorité investie du
+pouvoir de police. Les entrées et sorties de cette zone sont annoncées par une signalisation et l'ensemble de la zone est
+aménagé de façon cohérente avec la limitation de vitesse applicable.
 
 **Liens relatifs à cet article**
 
@@ -10836,7 +10840,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1390 du 12 novembre 2010 - art. 2
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 2
 
 _Anciens textes_:
 
@@ -20025,7 +20029,19 @@ la vitesse maximale par construction ne peut excéder 25 km/ h ;
 
 6.13. Navette urbaine : véhicule à moteur conçu et construit pour le transport de personnes en agglomération, ne répondant
 pas aux définitions des catégories internationales M1, M2 ou M3 et ayant la capacité de transporter, outre le conducteur,
-neuf passagers au moins et seize passagers au plus, dont quatre ou cinq peuvent être assis.
+neuf passagers au moins et seize passagers au plus, dont quatre ou cinq peuvent être assis ;
+
+6.14. Engin de déplacement personnel : engin de déplacement personnel motorisé ou non motorisé ;
+
+6.15. Engin de déplacement personnel motorisé : véhicule sans place assise, conçu et construit pour le déplacement d'une
+seule personne et dépourvu de tout aménagement destiné au transport de marchandises, équipé d'un moteur non thermique ou
+d'une assistance non thermique et dont la vitesse maximale par construction est supérieure à 6 km/h et ne dépasse pas 25 km/
+h. Il peut comporter des accessoires, comme un panier ou une sacoche de petite taille. Un gyropode, tel que défini au
+paragraphe 71 de l'article 3 du règlement (UE) n° 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à
+la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, peut être équipé d'une
+selle. Les engins exclusivement destinés aux personnes à mobilité réduite sont exclus de cette catégorie ;
+
+6.16. Engin de déplacement personnel non motorisé : véhicule de petite dimension sans moteur.
 
 7. Ensembles de véhicules :
 
@@ -20244,7 +20260,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-620 du 21 juin 2019 - art. 1
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 3
 
 
 ###### Article R311-2
@@ -21586,33 +21602,47 @@ _Anciens textes_:
 ###### Article R313-1
 
 Tout véhicule ne peut être pourvu que des dispositifs d'éclairage ou de signalisation prévus au présent code. Ceux-ci doivent
-être installés conformément aux prescriptions du présent chapitre.
+être installés conformément aux prescriptions du présent chapitre. 
 
 Ces dispositions ne concernent pas l'éclairage intérieur des véhicules sous réserve qu'il ne soit pas gênant pour les autres
-conducteurs.
+conducteurs. 
 
 Le fait, pour tout conducteur d'un véhicule à moteur ou à traction animale, de contrevenir aux dispositions du présent
-article est puni de l'amende prévue pour les contraventions de la troisième classe.
+article est puni de l'amende prévue pour les contraventions de la troisième classe. 
 
-Le fait, pour tout conducteur d'un cycle, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour
-les contraventions de la première classe.
+Le fait, pour tout conducteur d'un engin de déplacement personnel motorisé ou d'un cycle, de contrevenir aux dispositions du
+présent article est puni de l'amende prévue pour les contraventions de la première classe. 
+
+Les dispositions des articles R. 313-2, R. 313-3, R. 313-3-1 à R. 313-3-4, R. 313-4-1, R. 313-6 à R. 313-17 et R. 313-17-1 ne
+sont pas applicables aux engins de déplacement personnel motorisés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
   - Décret n°2003-416 du 30 avril 2003 - art. 2 (AbD)
   - Code de la route. - art. R130-6 (VD)
 
+_Modifié par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 6
+
 _Anciens textes_:
 
   - Code de la route - art. R239 (Ab)
   - Code de la route - art. R42 (Ab)
   - Code de la route R42 (al. 1 et 2), R239
+
+_Cite_:
+
+  - Code de la route. - art. R313-17-1
+  - Code de la route. - art. R313-2
+  - Code de la route. - art. R313-3-1
+  - Code de la route. - art. R313-6
 
 
 ###### Article R313-2
@@ -23179,27 +23209,28 @@ _Anciens textes_:
 
 ###### Article R314-1
 
-Les roues de tout véhicule à moteur et de toute remorque, à l'exception des véhicules et appareils agricoles, doivent être
-munies de pneumatiques. 
+Les roues de tout véhicule à moteur et de toute remorque, à l'exception des véhicules et appareils agricoles et des engins de
+déplacement personnel motorisés, doivent être munies de pneumatiques.
 
 Les pneumatiques, à l'exception de ceux des matériels de travaux publics, doivent présenter sur toute leur surface de
-roulement des sculptures apparentes. 
+roulement des sculptures apparentes.
 
-Aucune toile ne doit apparaître ni en surface ni à fond de sculpture des pneumatiques. 
+Aucune toile ne doit apparaître ni en surface ni à fond de sculpture des pneumatiques.
 
-En outre, ceux-ci ne doivent comporter sur leurs flancs aucune déchirure profonde. 
+En outre, ceux-ci ne doivent comporter sur leurs flancs aucune déchirure profonde.
 
-Lorsque les véhicules et appareils agricoles sont munis de pneumatiques, ceux-ci ne doivent comporter sur leurs flancs aucune
-déchirure profonde et aucune toile ne doit apparaître ni en surface ni en fond de sculpture. 
+Lorsque les véhicules et appareils agricoles et les engins de déplacement personnel motorisés sont munis de pneumatiques,
+ceux-ci ne doivent comporter sur leurs flancs aucune déchirure profonde et aucune toile ne doit apparaître ni en surface ni
+en fond de sculpture.
 
 La nature, la forme, l'état et les conditions d'utilisation des pneumatiques et autres dispositifs prévus par le présent
-article sont déterminés par arrêté du ministre chargé des transports. 
+article sont déterminés par arrêté du ministre chargé des transports.
 
 Le ministre chargé des transports peut accorder des dérogations aux obligations prévues au présent article pour les matériels
-de travaux publics. 
+de travaux publics.
 
 Le fait de contrevenir aux dispositions du présent article relatives à la nature, la forme, l'état et les conditions
-d'utilisation des pneumatiques est puni de l'amende prévue pour les contraventions de la quatrième classe. 
+d'utilisation des pneumatiques est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
@@ -23224,7 +23255,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 9
 
 _Anciens textes_:
 
@@ -23240,11 +23275,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R314-6 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R314-2
@@ -23441,32 +23472,32 @@ _Anciens textes_:
 
 ###### Article R315-1
 
-I.-Tout véhicule à moteur et toute remorque, à l'exception des véhicules et matériels agricoles ou de travaux publics, doit
-être pourvu de deux dispositifs de freinage dont les commandes sont entièrement indépendantes. L'installation de freinage
-doit être à action rapide et suffisamment puissante pour arrêter et maintenir à l'arrêt le véhicule. Sa mise en oeuvre ne
-doit pas affecter la direction du véhicule circulant en ligne droite. 
+I.-Tout véhicule à moteur et toute remorque, à l'exception des véhicules et matériels agricoles ou de travaux publics et des
+engins de déplacement personnel motorisés, doit être pourvu de deux dispositifs de freinage dont les commandes sont
+entièrement indépendantes. L'installation de freinage doit être à action rapide et suffisamment puissante pour arrêter et
+maintenir à l'arrêt le véhicule. Sa mise en oeuvre ne doit pas affecter la direction du véhicule circulant en ligne droite.
 
 II.-L'un au moins des dispositifs de freinage doit agir sur des surfaces freinées fixées aux roues rigidement ou par
-l'intermédiaire de pièces donnant une sécurité suffisante. 
+l'intermédiaire de pièces donnant une sécurité suffisante.
 
-III.-Les dispositions du présent article ne sont pas applicables : 
+III.-Les dispositions du présent article ne sont pas applicables :
 
 1° Aux remorques, dont le poids total autorisé en charge n'excède pas 80 kilogrammes, attelées à un cyclomoteur, une
-motocyclette, un tricycle ou un quadricycle à moteur ; 
+motocyclette, un tricycle ou un quadricycle à moteur ;
 
 2° Aux remorques uniques, attelées à tout autre véhicule, sous la double condition que leur poids total autorisé en charge ne
-dépasse pas 750 kilogrammes ni la moitié du poids à vide du véhicule tracteur. 
+dépasse pas 750 kilogrammes ni la moitié du poids à vide du véhicule tracteur.
 
 IV.-Le ministre chargé des transports, qui peut soumettre à homologation tout dispositif de freinage et interdire l'usage de
 dispositifs non conformes à des types ayant reçu son agrément, fixe les conditions dans lesquelles doivent être réalisées
-l'indépendance et l'efficacité du freinage des véhicules, quel qu'en soit le poids. 
+l'indépendance et l'efficacité du freinage des véhicules, quel qu'en soit le poids.
 
 V.-Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application, lorsqu'elles
 s'appliquent à des véhicules de transport en commun ou aux véhicules dont le poids total en charge excède 3,5 tonnes, est
-puni de l'amende prévue pour les contraventions de la quatrième classe. 
+puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 VI.-Toute autre infraction aux dispositions du présent article ou à celles prises pour son application est punie de l'amende
-prévue pour les contraventions de la troisième classe. 
+prévue pour les contraventions de la troisième classe.
 
 VII.-Dans tous les cas, l'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à
 L. 325-3.
@@ -23475,7 +23506,11 @@ L. 325-3.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 10
 
 _Anciens textes_:
 
@@ -23491,16 +23526,12 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-1
 
 _Cité par_:
 
   - Code de la route. - art. R130-6 (VD)
   - Code de la route. - art. R342-3 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R315-5 (V)
 
 
 ###### Article R315-2
@@ -23785,9 +23816,9 @@ _Cite_:
 ###### Article R316-4
 
 Le pare-brise des véhicules à moteur, à l'exception des cyclomoteurs à deux roues, des cyclomoteurs à trois roues non
-carrossés, des quadricycles légers à moteur non carrossés, des motocyclettes, doit être muni d'au moins un essuie-glace ayant
-une surface d'action, une puissance et une fréquence suffisantes pour que le conducteur puisse, de son siège, voir
-distinctement la route.
+carrossés, des quadricycles légers à moteur et des engins de déplacement personnel motorisés non carrossés, des
+motocyclettes, doit être muni d'au moins un essuie-glace ayant une surface d'action, une puissance et une fréquence
+suffisantes pour que le conducteur puisse, de son siège, voir distinctement la route.
 
 Le pare-brise doit également être équipé d'un dispositif lave-glace.
 
@@ -23800,7 +23831,11 @@ prévue pour les contraventions de la troisième classe.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 12
 
 _Anciens textes_:
 
@@ -23811,17 +23846,14 @@ _Anciens textes_:
   - Code de la route - art. R74 (Ab)
   - Code de la route R74, R148 (al. 5), R173 (al. 2), R188-2, R239
 
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R316-9 (V)
-
 
 ###### Article R316-5
 
-A l'exception des quadricycles non équipés de carrosserie, des véhicules à deux ou trois roues non équipés de carrosserie et
-des véhicules ou matériels agricoles ou de travaux publics autres que les tracteurs agricoles, tout véhicule à moteur dont le
-poids à vide excède 350 kilogrammes doit être muni de dispositifs de marche arrière. Le fait de contrevenir aux dispositions
-du présent article est puni de l'amende prévue pour les contraventions de la troisième classe.
+A l'exception des quadricycles non équipés de carrosserie, des véhicules à deux ou trois roues et des engins de déplacement
+personnel motorisés non équipés de carrosserie et des véhicules ou matériels agricoles ou de travaux publics autres que les
+tracteurs agricoles, tout véhicule à moteur dont le poids à vide excède 350 kilogrammes doit être muni de dispositifs de
+marche arrière. Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
+contraventions de la troisième classe.
 
 **Liens relatifs à cet article**
 
@@ -23831,7 +23863,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 29
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 12
 
 _Anciens textes_:
 
@@ -23843,12 +23875,13 @@ _Anciens textes_:
 
 ###### Article R316-6
 
-Tout véhicule à moteur, à l'exception des véhicules et appareils agricoles n'ayant pas de cabine fermée, doit être muni d'un
-ou de plusieurs    systèmes de vision indirecte, disposés de façon à permettre au conducteur de surveiller de son siège la
-route vers l'arrière du véhicule quel que soit le chargement normal de celui-ci et dont le champ de visibilité ne comporte
-pas d'angle mort notable susceptible de masquer un véhicule s'apprêtant à dépasser. 
+Tout véhicule à moteur, à l'exception des véhicules et appareils agricoles et des engins de déplacement personnel motorisés
+n'ayant pas de cabine fermée, doit être muni d'un ou de plusieurs systèmes de vision indirecte, disposés de façon à permettre
+au conducteur de surveiller de son siège la route vers l'arrière du véhicule quel que soit le chargement normal de celui-ci
+et dont le champ de visibilité ne comporte pas d'angle mort notable susceptible de masquer un véhicule s'apprêtant à
+dépasser.
 
-Le ministre chargé des transports fixe les conditions d'application du présent article. 
+Le ministre chargé des transports fixe les conditions d'application du présent article.
 
 Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
 prévue pour les contraventions de la troisième classe.
@@ -23862,7 +23895,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 30
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 12
 
 _Anciens textes_:
 
@@ -23994,8 +24027,9 @@ Indicateur de vitesse.
 
 I. - Tout véhicule à moteur, à l'exception des véhicules agricoles, hors les tracteurs enjambeurs dont la vitesse maximale
 par construction n'excède pas 30 km/ h et matériels agricoles ou de travaux publics, des cyclomoteurs, tricycles ou
-quadricycles dont la vitesse maximale par construction n'excède pas 25 km/ h, doit être muni d'un indicateur de vitesse placé
-bien en vue du conducteur et maintenu constamment en bon état de fonctionnement.
+quadricycles et des engins de déplacement personnel motorisés dont la vitesse maximale par construction n'excède pas 25 km/
+h, doit être muni d'un indicateur de vitesse placé bien en vue du conducteur et maintenu constamment en bon état de
+fonctionnement.
 
 II. - Le ministre chargé des transports détermine les spécifications auxquelles doivent répondre les indicateurs de vitesse
 ainsi que les conditions de leur mise en place et de leur contrôle.
@@ -24014,7 +24048,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 32
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 12
 
 _Anciens textes_:
 
@@ -24166,17 +24200,17 @@ _Cité par_:
 
 ###### Article R317-5
 
-Compteur kilométrique. 
+Compteur kilométrique.
 
-I.-Tout véhicule à moteur, à l'exception des véhicules et matériels agricoles    ou de travaux publics, des cyclomoteurs,
-tricycles, ou quadricycles dont la vitesse maximale par construction n'excède pas 25 km/h doit être muni d'un dispositif qui
-enregistre de façon cumulative la distance parcourue. 
+I.-Tout véhicule à moteur, à l'exception des véhicules et matériels agricoles ou de travaux publics, des cyclomoteurs,
+tricycles, ou quadricycles et des engins de déplacement personnel motorisés dont la vitesse maximale par construction
+n'excède pas 25 km/h doit être muni d'un dispositif qui enregistre de façon cumulative la distance parcourue.
 
 II.-Le ministre chargé des transports fixe par arrêté les spécifications auxquelles doit répondre ce dispositif et les
-conditions d'application du présent article aux cyclomoteurs. 
+conditions d'application du présent article aux cyclomoteurs.
 
 III.-Les dispositions du présent article ne sont applicables aux véhicules et aux matériels spéciaux des armées que si elles
-sont compatibles avec leurs caractéristiques techniques de fabrication et d'emploi. 
+sont compatibles avec leurs caractéristiques techniques de fabrication et d'emploi.
 
 IV.-Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
 prévue pour les contraventions de la troisième classe.
@@ -24189,7 +24223,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 33
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 12
 
 _Anciens textes_:
 
@@ -24581,6 +24615,21 @@ _Anciens textes_:
   - Code de la route R168, R239
 
 
+###### Article R317-14-1
+
+Les dispositions des articles R. 317-8 et R. 317-9 ne s'appliquent pas aux engins de déplacement personnel motorisés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 13
+
+_Cite_:
+
+  - Code de la route. - art. R317-8
+
+
 ##### Section 3 : Dispositif antivol.<a id=140></a>
 
 ###### Article R317-15
@@ -24618,11 +24667,17 @@ _Anciens textes_:
 Les dispositions de la présente section ne sont applicables aux véhicules et aux matériels spéciaux des armées que si elles
 sont compatibles avec leurs caractéristiques techniques de fabrication et d'emploi.
 
+Elles ne sont pas applicables aux engins de déplacement personnel motorisés.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 14
 
 _Anciens textes_:
 
@@ -24857,20 +24912,21 @@ _Anciens textes_:
 
 ###### Article R317-23-1
 
-Le fait d'utiliser un cyclomoteur muni d'un dispositif ayant pour effet de permettre à celui-ci de dépasser les limites
-réglementaires fixées à l'article R. 311-1 en matière de vitesse, de cylindrée ou de puissance maximale du moteur ou ayant
-fait l'objet d'une transformation à cette fin est puni de l'amende prévue pour les contraventions de la quatrième classe.
+Le fait d'utiliser un cyclomoteur ou un engin de déplacement personnel motorisé muni d'un dispositif ayant pour effet de
+permettre à celui-ci de dépasser les limites réglementaires fixées à l'article R. 311-1 en matière de vitesse, de cylindrée
+ou de puissance maximale du moteur ou ayant fait l'objet d'une transformation à cette fin est puni de l'amende prévue pour
+les contraventions de la quatrième classe.
 
 L'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles L. 325-1 à L.
-325-3. 
+325-3.
 
 La confiscation du véhicule peut être prononcée à titre de peine complémentaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1390 du 12 novembre 2010 - art. 7
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 15
 
 _Cite_:
 
@@ -25654,6 +25710,27 @@ _Modifié par_:
   - Décret n°2016-448 du 13 avril 2016 - art. 41
 
 
+###### Article R321-4-2
+
+Le fait de circuler sur la voie publique avec un engin de déplacement personnel motorisé dont la vitesse maximale par
+construction est supérieure à celle définie au 6.15 de l'article R. 311-1 est puni de l'amende prévue pour les contraventions
+de la cinquième classe. 
+
+La confiscation, l'immobilisation ou la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles L.
+325-1 à L. 325-9.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 16
+
+_Cite_:
+
+  - Code de la route. - art. L325-1
+  - Code de la route. - art. R311-1
+
+
 ###### Article R321-5
 
 Le ministre chargé des transports fixe par arrêté les dispositions nécessaires à la vérification de la puissance et de la
@@ -26030,30 +26107,30 @@ _Modifié par_:
 
 Avant sa mise en circulation et en l'absence de réception CE, tout véhicule à moteur, toute remorque ou tout élément de
 véhicule, toute semi-remorque doit faire l'objet d'une réception nationale effectuée soit par type à la demande du
-constructeur, soit à titre isolé à la demande du propriétaire ou de son représentant. 
+constructeur, soit à titre isolé à la demande du propriétaire ou de son représentant.
 
 Toutefois, en ce qui concerne les véhicules ou éléments de véhicules qui ne sont pas fabriqués ou assemblés sur le territoire
 d'un Etat membre de l'Union européenne, la réception par type n'est admise que si le constructeur possède en France un
 représentant spécialement accrédité auprès du ministre chargé des transports. Dans ce cas, elle a lieu sur demande dudit
-représentant. 
+représentant.
 
 Le ministre chargé des transports détermine par arrêté les éléments de véhicule soumis à réception ainsi que les conditions
 particulières auxquelles sont soumis les différents éléments de véhicule pour assurer la conformité des véhicules formés à
-partir d'éléments avec les dispositions du présent code. 
+partir d'éléments avec les dispositions du présent code.
 
 Toutefois, tout véhicule carrossé individuellement peut être mis en circulation après un contrôle de conformité initial
 effectué par un opérateur qualifié. Les catégories de véhicules soumis à ce contrôle, les modalités de ce contrôle et les
 conditions de désignation des opérateurs qualifiés sont fixées par arrêté du ministre chargé des transports.
 
 Le ministre chargé des transports fixe la liste des matériels de travaux publics, appelés à être employés normalement sur les
-routes, qui doivent faire l'objet d'une réception. 
+routes, qui doivent faire l'objet d'une réception.
 
 Les remorques ou appareils agricoles destinés à être attelés à un tracteur ou à une machine agricole automotrice, s'ils sont
 montés sur bandages pleins ou si, étant équipés de bandages pneumatiques, leur poids total autorisé en charge (PTAC) est
-inférieur à 1, 5 tonne, ne sont pas soumis à l'obligation de réception. 
+inférieur à 1, 5 tonne, ne sont pas soumis à l'obligation de réception.
 
-Les dispositions du présent article ne sont pas applicables aux véhicules de collection et aux véhicules appartenant à des
-personnes de statut diplomatique ou assimilé.
+Les dispositions du présent article ne sont pas applicables aux véhicules de collection, aux engins de déplacement personnel
+motorisés et aux véhicules appartenant à des personnes de statut diplomatique ou assimilé.
 
 **Liens relatifs à cet article**
 
@@ -26086,7 +26163,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 43
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 17
 
 _Anciens textes_:
 
@@ -26474,8 +26551,8 @@ IV. – Pour un véhicule faisant l'objet soit d'un contrat de crédit-bail, soi
 le propriétaire doit pouvoir justifier, à la demande du ministre de l'intérieur, de son identité et de l'adresse du domicile
 du locataire.
 
-V. – Les dispositions du présent article ne sont pas applicables aux véhicules ou appareils agricoles remorqués dont le poids
-total en charge est inférieur à 1,5 tonne.
+V. – Les dispositions du présent article ne sont pas applicables aux engins de déplacement personnel motorisés et aux
+véhicules ou appareils agricoles remorqués dont le poids total en charge est inférieur à 1,5 tonne.
 
 VI. – Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions
 d'application du présent article.
@@ -26519,15 +26596,15 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2017-1278 du 9 août 2017 - art. 2
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 18
 
 _Cite_:
 
-  - Code des assurances - art. L211-1 (M)
-  - Code de la route. - art. L322-1-1 (V)
-  - Code de la route. - art. R311-1 (V)
-  - Code de la route. - art. R321-15 (V)
-  - Code de la route. - art. R321-6 (V)
+  - Code des assurances - art. L211-1
+  - Code de la route. - art. L322-1-1
+  - Code de la route. - art. R311-1
+  - Code de la route. - art. R321-15
+  - Code de la route. - art. R321-6
 
 
 ###### Article R322-2
@@ -34947,34 +35024,35 @@ _Anciens textes_:
 ###### Article R412-9
 
 En marche normale, tout conducteur doit maintenir son véhicule près du bord droit de la chaussée, autant que le lui permet
-l'état ou le profil de celle-ci.
+l'état ou le profil de celle-ci. 
 
 Toutefois, un conducteur qui pénètre sur un carrefour à sens giratoire comportant plusieurs voies de circulation en vue
-d'emprunter une sortie située sur sa gauche par rapport à son axe d'entrée peut serrer à gauche.
+d'emprunter une sortie située sur sa gauche par rapport à son axe d'entrée peut serrer à gauche. 
 
 Chaque manoeuvre de changement de voie à l'intérieur du carrefour à sens giratoire reste soumise aux règles de la priorité et
-doit être signalée aux autres conducteurs.
+doit être signalée aux autres conducteurs. 
 
-Un conducteur de cycle peut s'éloigner du bord droit de la chaussée lorsqu'une trajectoire matérialisée pour les cycles,
-signalisée en application des dispositions de l'article R. 411-25, le permet.
+Un conducteur d'engin de déplacement personnel motorisé ou de cycle peut s'éloigner du bord droit de la chaussée lorsqu'une
+trajectoire matérialisée pour les cycles, signalisée en application des dispositions de l'article R. 411-25, le permet. 
 
-Sur les voies où la vitesse maximale autorisée n'excède pas 50 km/ h, un conducteur de cycle peut s'écarter des véhicules en
-stationnement sur le bord droit de la chaussée, d'une distance nécessaire à sa sécurité.
+Sur les voies où la vitesse maximale autorisée n'excède pas 50 km/ h, un conducteur d'engin de déplacement personnel motorisé
+ou de cycle peut s'écarter des véhicules en stationnement sur le bord droit de la chaussée, d'une distance nécessaire à sa
+sécurité. 
 
 Sous réserve des dispositions des quatrième et cinquième alinéas du présent article, le fait, pour tout conducteur, de ne pas
 maintenir, en marche normale, son véhicule près du bord droit de la chaussée est puni de l'amende prévue pour les
-contraventions de la deuxième classe.
+contraventions de la deuxième classe. 
 
 Le fait, pour tout conducteur, de circuler, en marche normale, sur la partie gauche d'une chaussée à double sens de
-circulation est puni de l'amende prévue pour les contraventions de la quatrième classe.
+circulation est puni de l'amende prévue pour les contraventions de la quatrième classe. 
 
 Tout conducteur coupable de cette dernière infraction encourt également la peine complémentaire de suspension du permis de
 conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle.
+professionnelle. 
 
-Cette dernière contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+Cette dernière contravention donne lieu de plein droit à la réduction de trois points du permis de conduire. 
 
-Les dispositions du présent article ne s'appliquent pas aux représentants mentionnés à l' article R. 411-31 dans les cas
+Les dispositions du présent article ne s'appliquent pas aux représentants mentionnés à l'article R. 411-31 dans les cas
 prévus à l'article R. 414-3-1 et aux conducteurs dans les cas prévus à l'article R. 412-11-1.
 
 **Liens relatifs à cet article**
@@ -34991,7 +35069,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-795 du 17 septembre 2018 - art. 10
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 19
 
 _Anciens textes_:
 
@@ -35006,6 +35084,7 @@ _Cite_:
 
   - Code de la route. - art. R411-25
   - Code de la route. - art. R411-31
+  - Code de la route. - art. R412-11-1
   - Code de la route. - art. R414-3-1
 
 
@@ -35355,20 +35434,20 @@ _Codifié par_:
 ###### Article R412-19
 
 Lorsque des lignes longitudinales continues axiales ou séparatives de voies de circulation sont apposées sur la chaussée,
-elles interdisent aux conducteurs leur franchissement ou leur chevauchement. 
+elles interdisent aux conducteurs leur franchissement ou leur chevauchement.
 
-Toutefois, leur chevauchement est autorisé pour le dépassement d'un cycle dans les conditions prévues par l'article R.
-414-4. 
+Toutefois, leur chevauchement est autorisé pour le dépassement d'un engin de déplacement personnel motorisé ou d'un cycle
+dans les conditions prévues par l'article R. 414-4.
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la quatrième classe. 
+contraventions de la quatrième classe.
 
 Tout conducteur coupable de l'une des infractions prévues au présent article encourt également la peine complémentaire de
 suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
-dehors de l'activité professionnelle. 
+dehors de l'activité professionnelle.
 
 Le franchissement d'une ligne continue axiale ou séparative de voies de circulation donne lieu de plein droit à la réduction
-de trois points du permis de conduire. 
+de trois points du permis de conduire.
 
 Sous réserve des dispositions du deuxième alinéa du présent article, le chevauchement d'une ligne continue axiale ou
 séparative de voies de circulation donne lieu de plein droit à la réduction d'un point du permis de conduire.
@@ -35388,7 +35467,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-808 du 2 juillet 2015 - art. 4
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 20
 
 _Anciens textes_:
 
@@ -35683,14 +35762,15 @@ _Anciens textes_:
 
 ###### Article R412-28-1
 
-Lorsque la vitesse maximale autorisée est inférieure ou égale à 30 km/ h, les chaussées sont à double sens pour les cyclistes
-sauf décision contraire de l'autorité investie du pouvoir de police.
+Lorsque la vitesse maximale autorisée est inférieure ou égale à 30 km/ h, les chaussées sont à double sens pour les
+conducteurs d'engins de déplacement personnel motorisés et les cyclistes sauf décision contraire de l'autorité investie du
+pouvoir de police.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-808 du 2 juillet 2015 - art. 5
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 21
 
 
 ##### Section 5 : Feux de signalisation lumineux.<a id=194></a>
@@ -35873,19 +35953,19 @@ _Cite_:
 
 I. - Lorsqu'une chaussée est bordée d'emplacements réservés aux piétons ou normalement praticables par eux, tels que
 trottoirs ou accotements, les piétons sont tenus de les utiliser, à l'exclusion de la chaussée. Ces dispositions ne
-s'appliquent pas aux aires piétonnes et aux zones de rencontre. 
+s'appliquent pas aux aires piétonnes et aux zones de rencontre.
 
 I 
   _bis_. - Les enfants de moins de huit ans qui conduisent un cycle peuvent utiliser les trottoirs ou accotements, sauf
 dispositions contraires prises par l'autorité investie du pouvoir de police, à la condition de conserver l'allure du pas et
-de ne pas occasionner de gêne aux piétons. 
+de ne pas occasionner de gêne aux piétons.
 
 II. - Sont assimilés aux piétons :
 
 1° Les personnes qui conduisent une voiture d'enfant, de malade ou d'infirme, ou tout autre véhicule de petite dimension sans
 moteur ;
 
-2° Les personnes qui conduisent à la main un cycle ou un cyclomoteur ;
+2° Les personnes qui conduisent à la main un engin de déplacement personnel motorisé, un cycle ou un cyclomoteur ;
 
 3° Les infirmes qui se déplacent dans une chaise roulante mue par eux-mêmes ou circulant à l'allure du pas.
 
@@ -35904,7 +35984,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1390 du 12 novembre 2010 - art. 11
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 22
 
 _Anciens textes_:
 
@@ -36186,7 +36266,143 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=196></a>
+##### Section 6 bis : Circulation des engins de déplacement personnel motorisés<a id=196></a>
+
+###### Article R412-43-1
+
+I.-En agglomération, les conducteurs d'engins de déplacement personnel motorisés doivent circuler sur les bandes ou pistes
+cyclables. Lorsque la chaussée est bordée de chaque côté par une piste cyclable, ils doivent emprunter celle ouverte à droite
+de la route, dans le sens de la circulation. 
+
+En l'absence de bandes ou pistes cyclables, ils peuvent également circuler : 
+
+1° Sur les routes dont la vitesse maximale autorisée est inférieure ou égale à 50 km/ h. Les conducteurs d'engins de
+déplacement personnel motorisés ne doivent jamais rouler de front sur la chaussée ; 
+
+2° Sur les aires piétonnes dans les conditions définies au quatrième alinéa de l'article R. 431-9 ; 
+
+3° Sur les accotements équipés d'un revêtement routier. 
+
+II.-Hors agglomération, la circulation des engins de déplacement personnel motorisés est interdite, sauf sur les voies vertes
+et les pistes cyclables. 
+
+III.-Par dérogation aux dispositions des I et II, l'autorité investie du pouvoir de police de la circulation peut, par
+décision motivée : 
+
+1° Interdire la circulation des engins sur certaines sections des voies mentionnées aux I et II, eu égard aux nécessités de
+sécurité et de circulation routières, de fluidité et de commodité de passage ; 
+
+2° Autoriser la circulation des engins sur le trottoir, à condition qu'ils respectent l'allure du pas et n'occasionnent pas
+de gêne pour les piétons ; 
+
+3° Autoriser la circulation sur les routes dont la vitesse maximale autorisée est inférieure ou égale à 80 km/ h, sous
+réserve que l'état et le profil de la chaussée ainsi que les conditions de trafic le permettent. 
+
+IV.-Dans le cas où il est fait application des dispositions du 3° du III : 
+
+1° Tout conducteur d'engin de déplacement personnel motorisé doit : 
+
+a) Etre coiffé d'un casque conforme à la réglementation relative aux équipements de protection individuelle, qui doit être
+attaché ; 
+
+b) Porter, soit un gilet de haute visibilité conforme à la réglementation, soit un équipement rétro-réfléchissant dont les
+caractéristiques sont fixées par arrêté du ministre chargé de la sécurité routière ; 
+
+c) Porter sur lui un dispositif d'éclairage complémentaire non éblouissant et non clignotant dont les caractéristiques sont
+fixées par arrêté du ministre chargé de la sécurité routière ; 
+
+d) Circuler, de jour comme de nuit, avec les feux de position de son engin allumés ; 
+
+2° La personne âgée d'au moins dix-huit ans qui accompagne un conducteur d'engin de déplacement personnel motorisé âgé de
+moins de dix-huit ans doit s'assurer, lorsqu'elle exerce une autorité de droit ou de fait sur ce ou ces conducteurs, que
+chacun est coiffé d'un casque dans les conditions prévues au a du 1° ci-dessus. 
+
+V.-Le fait, pour tout conducteur, de contrevenir aux dispositions du I et II ou aux restrictions de circulation édictées en
+vertu du 1° du III est puni de l'amende prévue pour les contraventions de la deuxième classe. 
+
+Dans le cas où trouvent application les dispositions du 2° du III, le fait pour tout conducteur d'engin de déplacement
+personnel motorisé de circuler sur le trottoir sans conserver l'allure du pas ou d'occasionner une gêne pour les piétons est
+puni de l'amende prévue pour les contraventions de la deuxième classe. 
+
+Dans le cas où trouvent application les dispositions du 3° du III, le fait pour tout conducteur d'engin de méconnaître les
+dispositions du b, du c et du d du 1° du IV est puni de l'amende prévue pour les contraventions de la deuxième classe. 
+
+Dans le cas où trouvent application les dispositions du 3° du III, le fait de ne pas respecter les règles relatives au casque
+fixées au a du 1° et au 2° du IV est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 23
+
+_Cité par_:
+
+  - Arrêté du 24 juin 2020 - art. 1 (V)
+  - Arrêté du 24 juin 2020 - art. 2 (V)
+  - Arrêté du 24 juin 2020 - art. 3 (V)
+  - Code de la route. - art. R412-43-3 (V)
+
+_Cite_:
+
+  - Code de la route. - art. R431-9
+
+
+###### Article R412-43-2
+
+Il est interdit aux conducteurs d'engins de déplacement personnel motorisés de pousser ou tracter une charge ou un véhicule.
+
+Il est interdit aux conducteurs d'engins de déplacement personnel de se faire remorquer par un véhicule.
+
+Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la deuxième
+classe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 23
+
+
+###### Article R412-43-3
+
+I.-Tout conducteur d'engin de déplacement personnel motorisé doit être âgé d'au moins douze ans. 
+
+II.-Sans préjudice de l'application, le cas échéant, des dispositions du IV de l'article R. 412-43-1, lorsqu'il circule la
+nuit, ou le jour lorsque la visibilité est insuffisante, tout conducteur d'un engin de déplacement personnel motorisé doit
+porter, soit un gilet de haute visibilité conforme à la réglementation, soit un équipement rétro-réfléchissant dont les
+caractéristiques sont fixées par arrêté du ministre chargé de la sécurité routière. Le conducteur peut porter un dispositif
+d'éclairage complémentaire non éblouissant et non clignotant. 
+
+III.-Les engins de déplacement personnel motorisés ne peuvent transporter qu'un conducteur. 
+
+IV.-Le fait de contrevenir aux dispositions du II est puni de l'amende prévue pour les contraventions de la deuxième classe. 
+
+Le fait de circuler sur un engin de déplacement personnel motorisé en ne respectant pas les dispositions du III est puni de
+l'amende prévue pour les contraventions de la deuxième classe. 
+
+La personne âgée d'au moins dix-huit ans accompagnant un conducteur d'engin de déplacement personnel motorisé âgé de moins de
+douze ans, lorsqu'elle exerce une autorité de droit ou de fait sur ce conducteur, est punie de l'amende prévue pour les
+contraventions de la quatrième classe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 23
+
+_Cité par_:
+
+  - Arrêté du 24 juin 2020 - art. 1 (V)
+  - Arrêté du 24 juin 2020 - art. 2 (V)
+  - Arrêté du 24 juin 2020 - art. 3 (V)
+
+_Cite_:
+
+  - Code de la route. - art. R412-43-1
+
+
+##### Section 7 : Circulation des animaux isolés ou en groupe.<a id=197></a>
 
 ###### Article R412-44
 
@@ -36380,7 +36596,7 @@ _Anciens textes_:
   - Code de la route R223, R233 (al. 1 et 2)
 
 
-##### Section 8 : Troubles à la circulation.<a id=197></a>
+##### Section 8 : Troubles à la circulation.<a id=198></a>
 
 ###### Article R412-51
 
@@ -36448,9 +36664,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Vitesse<a id=198></a>
+#### Chapitre III : Vitesse<a id=199></a>
 
-##### Section 1 : Vitesses maximales autorisées.<a id=199></a>
+##### Section 1 : Vitesses maximales autorisées.<a id=200></a>
 
 ###### Article R413-1
 
@@ -37105,7 +37321,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Maîtrise de la vitesse.<a id=200></a>
+##### Section 2 : Maîtrise de la vitesse.<a id=201></a>
 
 ###### Article R413-17
 
@@ -37243,9 +37459,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre IV : Croisement et dépassement<a id=201></a>
+#### Chapitre IV : Croisement et dépassement<a id=202></a>
 
-##### Section 1 : Croisement.<a id=202></a>
+##### Section 1 : Croisement.<a id=203></a>
 
 ###### Article R414-1
 
@@ -37388,7 +37604,7 @@ _Cité par_:
   - Code de la route. - art. R412-9 (V)
 
 
-##### Section 2 : Dépassement.<a id=203></a>
+##### Section 2 : Dépassement.<a id=204></a>
 
 ###### Article R414-4
 
@@ -37910,7 +38126,7 @@ _Cité par_:
   - Code de la route. - art. R442-2 (V)
 
 
-#### Chapitre V : Intersections et priorité de passage.<a id=204></a>
+#### Chapitre V : Intersections et priorité de passage.<a id=205></a>
 
 ###### Article R415-1
 
@@ -37944,20 +38160,21 @@ _Anciens textes_:
 Tout conducteur ne doit s'engager dans une intersection que si son véhicule ne risque pas d'y être immobilisé et d'empêcher
 le passage des véhicules circulant sur les autres voies. En particulier, un conducteur ne doit pas s'engager dans une
 intersection de routes en cas de signalement, par le conducteur d'un des véhicules d'accompagnement mentionnés à l'article R.
-433-17, du franchissement imminent de cette intersection par un transport exceptionnel mentionné à l'article R. 433-1. 
+433-17, du franchissement imminent de cette intersection par un transport exceptionnel mentionné à l'article R. 433-1.
 
-Le conducteur d'un véhicule autre qu'un cycle ne doit pas s'engager dans l'espace compris entre les deux lignes d'arrêt
-définies à l'article R. 415-15 lorsque son véhicule risque d'y être immobilisé. 
+Le conducteur d'un véhicule autre qu'un engin de déplacement personnel motorisé ou un cycle ne doit pas s'engager dans
+l'espace compris entre les deux lignes d'arrêt définies à l'article R. 415-15 lorsque son véhicule risque d'y être
+immobilisé.
 
 L'autorité investie du pouvoir de police de la circulation peut autoriser les conducteurs de cyclomoteurs à s'engager dans
-l'espace et dans les conditions prévues à l'alinéa précédent. 
+l'espace et dans les conditions prévues à l'alinéa précédent.
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du premier alinéa est puni de l'amende prévue pour les
-contraventions de la quatrième classe. 
+contraventions de la quatrième classe.
 
-Le fait, pour tout conducteur d'un véhicule autre qu'un cycle ou, en cas de bénéfice des dispositions du troisième alinéa, un
-cyclomoteur, de contrevenir aux dispositions du second alinéa est puni de l'amende prévue pour les contraventions de la
-deuxième classe.
+Le fait, pour tout conducteur d'un véhicule autre qu'un engin de déplacement personnel motorisé ou un cycle ou, en cas de
+bénéfice des dispositions du troisième alinéa, un cyclomoteur, de contrevenir aux dispositions du second alinéa est puni de
+l'amende prévue pour les contraventions de la deuxième classe.
 
 **Liens relatifs à cet article**
 
@@ -37967,7 +38184,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-16 du 6 janvier 2017 - art. 13
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 24
 
 _Anciens textes_:
 
@@ -37983,9 +38200,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la route. - art. R415-15
-  - Code de la route. - art. R433-1 (V)
-  - Code de la route. - art. R433-17 (V)
+  - Code de la route. - art. R415-15 (V)
+  - Code de la route. - art. R433-1
+  - Code de la route. - art. R433-17
 
 
 ###### Article R415-3
@@ -37996,8 +38213,8 @@ II. - Il peut toutefois emprunter la partie gauche de la chaussée lorsque le tr
 de son chargement le mettent dans l'impossibilité de tenir sa droite ; il ne doit ainsi manoeuvrer qu'à allure modérée, et
 après s'être assuré qu'il peut le faire sans danger pour autrui.
 
-III. - Il doit céder le passage aux cycles et cyclomoteurs circulant dans les deux sens sur les pistes cyclables qui
-traversent la chaussée sur laquelle il va s'engager. 
+III. - Il doit céder le passage aux engins de déplacement personnel motorisés, aux cycles et cyclomoteurs circulant dans les
+deux sens sur les pistes cyclables qui traversent la chaussée sur laquelle il va s'engager.
 
 IV. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
@@ -38006,7 +38223,7 @@ contraventions de la quatrième classe.
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 8
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 25
 
 _Anciens textes_:
 
@@ -38017,28 +38234,28 @@ _Anciens textes_:
 
 ###### Article R415-4
 
-I.-Tout conducteur s'apprêtant à quitter une route sur sa gauche doit serrer à gauche. 
+I.-Tout conducteur s'apprêtant à quitter une route sur sa gauche doit serrer à gauche.
 
 II.-Lorsque la chaussée est à double sens de circulation il ne doit pas en dépasser l'axe médian. Néanmoins, lorsque cette
 chaussée comporte un nombre impair de voies matérialisées, il doit, sauf dispositions différentes prises par l'autorité
-investie du pouvoir de police, emprunter la voie médiane. 
+investie du pouvoir de police, emprunter la voie médiane.
 
 III.-Il doit céder le passage aux véhicules venant en sens inverse sur la chaussée qu'il s'apprête à quitter ainsi qu'aux
-cycles et cyclomoteurs circulant dans les deux sens sur les pistes cyclables qui traversent la chaussée sur laquelle il va
-s'engager. 
+engins de déplacement personnel motorisés, aux cycles et cyclomoteurs circulant dans les deux sens sur les pistes cyclables
+qui traversent la chaussée sur laquelle il va s'engager.
 
-IV.-Par exception à la règle fixée au I, tout conducteur de cycle, s'apprêtant à quitter une route sur sa gauche, peut serrer
-le bord droit de la chaussée avant de s'engager sur sa gauche.
+IV.-Par exception à la règle fixée au I, tout conducteur d'engin de déplacement personnel motorisé ou de cycle, s'apprêtant à
+quitter une route sur sa gauche, peut serrer le bord droit de la chaussée avant de s'engager sur sa gauche.
 
 V.-Le fait, pour tout conducteur, de contrevenir aux dispositions des I et II ci-dessus est puni de l'amende prévue pour les
-contraventions de la deuxième classe. 
+contraventions de la deuxième classe.
 
 VI.-Le fait, pour tout conducteur, de ne pas respecter les règles de priorité fixées au III ci-dessus est puni de l'amende
-prévue pour les contraventions de la quatrième classe. 
+prévue pour les contraventions de la quatrième classe.
 
 VII.-Toute personne coupable de cette infraction aux règles de priorité encourt également la peine complémentaire de
 suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite
-en dehors de l'activité professionnelle. 
+en dehors de l'activité professionnelle.
 
 VIII.-Cette contravention aux règles de priorité donne lieu de plein droit à la réduction de quatre points du permis de
 conduire.
@@ -38047,7 +38264,7 @@ conduire.
 
 _Modifié par_:
 
-  - Décret n°2008-754 du 30 juillet 2008 - art. 9
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 26
 
 _Anciens textes_:
 
@@ -38414,21 +38631,22 @@ _Anciens textes_:
 
 ###### Article R415-15
 
-L'autorité investie du pouvoir de police peut décider de : 
+L'autorité investie du pouvoir de police peut décider de :
 
 1° Mettre en place sur les voies équipées de feux de signalisation une signalisation distincte destinée à une ou plusieurs
-catégories de véhicules ou indiquant une ou plusieurs directions ou remplissant ces deux fonctions de manière concomitante ; 
+catégories de véhicules ou indiquant une ou plusieurs directions ou remplissant ces deux fonctions de manière concomitante ;
 
 2° Mettre en place sur les voies équipées de feux de signalisation communs à toutes les catégories d'usagers deux lignes
-d'arrêt distinctes, l'une pour les cycles, l'autre pour les autres catégories de véhicules. La ligne d'arrêt pour les cycles
-peut être autorisée pour les cyclomoteurs.
+d'arrêt distinctes, l'une pour les engins de déplacement personnel motorisés et les cycles, l'autre pour les autres
+catégories de véhicules. La ligne d'arrêt pour les engins de déplacement personnel motorisés et les cycles peut être
+autorisée pour les cyclomoteurs.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
   - Arrêté du 24 novembre 1967 - art. 7 (V)
-  - Code de la route. - art. R415-2 (VD)
+  - Code de la route. - art. R415-2 (V)
 
 _Codifié par_:
 
@@ -38436,7 +38654,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-808 du 2 juillet 2015 - art. 9
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 27
 
 _Anciens textes_:
 
@@ -38444,9 +38662,9 @@ _Anciens textes_:
   - Code de la route R28-1 (al. 3 à 6)
 
 
-#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=205></a>
+#### Chapitre VI : Usage des dispositifs d'éclairage et de signalisation<a id=206></a>
 
-##### Section 1 : Emploi des avertisseurs.<a id=206></a>
+##### Section 1 : Emploi des avertisseurs.<a id=207></a>
 
 ###### Article R416-1
 
@@ -38530,7 +38748,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=207></a>
+##### Section 2 : Eclairage et signalisation de nuit, ou de jour par visibilité insuffisante.<a id=208></a>
 
 ###### Article R416-4
 
@@ -38953,7 +39171,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres dispositions.<a id=208></a>
+##### Section 3 : Autres dispositions.<a id=209></a>
 
 ###### Article R416-17
 
@@ -39110,9 +39328,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VII : Arrêt et stationnement<a id=209></a>
+#### Chapitre VII : Arrêt et stationnement<a id=210></a>
 
-##### Section 1 : Dispositions générales.<a id=210></a>
+##### Section 1 : Dispositions générales.<a id=211></a>
 
 ###### Article R417-1
 
@@ -39464,7 +39682,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=211></a>
+##### Section 2 : Arrêt ou stationnement dangereux, gênant ou abusif.<a id=212></a>
 
 ###### Article R417-9
 
@@ -39559,8 +39777,8 @@ III.-Est également considéré comme gênant la circulation publique le station
 
 1° Devant les entrées carrossables des immeubles riverains ;
 
-2° En double file, sauf en ce qui concerne les cycles à deux roues, les cyclomoteurs à deux roues et les motocyclettes sans
-side-car ;
+2° En double file, sauf en ce qui concerne les engins de déplacement personnel, les cycles à deux roues, les cyclomoteurs à
+deux roues et les motocyclettes sans side-car ;
 
 3° Devant les dispositifs destinés à la recharge en énergie des véhicules électriques ;
 
@@ -39569,7 +39787,8 @@ police peut toutefois définir par arrêté les horaires pendant lesquels le sta
 
 5° Dans les zones de rencontre, en dehors des emplacements aménagés à cet effet ;
 
-6° Dans les aires piétonnes, à l'exception des cycles sur les emplacements aménagés à cet effet ;
+6° Dans les aires piétonnes, à l'exception des engins de déplacement personnel et des cycles sur les emplacements aménagés à
+cet effet ;
 
 7° Au-dessus des accès signalés à des installations souterraines.
 
@@ -39603,7 +39822,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2015-808 du 2 juillet 2015 - art. 11
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 28
 
 _Anciens textes_:
 
@@ -39618,42 +39837,42 @@ _Anciens textes_:
 
 ###### Article R417-11
 
-I.-Est considéré comme très gênant pour la circulation publique l'arrêt ou le stationnement : 
+I.-Est considéré comme très gênant pour la circulation publique l'arrêt ou le stationnement :
 
 1° D'un véhicule sur les chaussées et voies réservées à la circulation des véhicules de transport public de voyageurs, des
-taxis ou des véhicules d'intérêt général prioritaires ; 
+taxis ou des véhicules d'intérêt général prioritaires ;
 
 2° D'un véhicule ou d'un ensemble de véhicules de plus de 20 mètres carrés de surface maximale dans les zones touristiques
-délimitée par l'autorité investie du pouvoir de police ; 
+délimitée par l'autorité investie du pouvoir de police ;
 
 3° D'un véhicule sur les emplacements réservés aux véhicules portant une carte mobilité inclusion comportant la mention “
 stationnement pour personnes handicapées ” prévue à l'article L. 241-3 du code de l'action sociale et des familles ou une
 carte de stationnement pour personnes handicapées prévues à l'article L. 241-3 du même code dans sa rédaction antérieure au
-1er janvier 2017 ; 
+1er janvier 2017 ;
 
-4° D'un véhicule sur les emplacements réservés aux véhicules de transport de fonds ou de métaux précieux ; 
+4° D'un véhicule sur les emplacements réservés aux véhicules de transport de fonds ou de métaux précieux ;
 
-5° D'un véhicule sur les passages réservés à la circulation des piétons en traversée de chaussée ; 
+5° D'un véhicule sur les passages réservés à la circulation des piétons en traversée de chaussée ;
 
 6° D'un véhicule au droit des bandes d'éveil de vigilance à l'exception de celles qui signalent le quai d'un arrêt de
-transport public ; 
+transport public ;
 
 7° D'un véhicule à proximité des signaux lumineux de circulation ou des panneaux de signalisation lorsque son gabarit est
-susceptible de masquer cette signalisation à la vue des usagers de la voie ; 
+susceptible de masquer cette signalisation à la vue des usagers de la voie ;
 
-8° D'un véhicule motorisé à l'exception des cycles à pédalage assisté : 
+8° D'un véhicule motorisé à l'exception des engins de déplacement personnel motorisés et des cycles à pédalage assisté :
 
-a) Sur les trottoirs, à l'exception des motocyclettes, tricycles à moteur et cyclomoteurs ; 
+a) Sur les trottoirs, à l'exception des motocyclettes, tricycles à moteur et cyclomoteurs ;
 
-b) Sur les voies vertes, les bandes et pistes cyclables ; 
+b) Sur les voies vertes, les bandes et pistes cyclables ;
 
 c) Sur une distance de cinq mètres en amont des passages piétons dans le sens de la circulation, en dehors des emplacements
-matérialisés à cet effet, à l'exception des motocyclettes, tricycles et cyclomoteurs ; 
+matérialisés à cet effet ;
 
-d) Au droit des bouches d'incendie. ; 
+d) Au droit des bouches d'incendie. ;
 
 II.-Tout arrêt ou stationnement très gênant pour la circulation publique prévu par le présent article est puni de l'amende
-prévue pour les contraventions de la quatrième classe. 
+prévue pour les contraventions de la quatrième classe.
 
 III.-Lorsque le conducteur ou le titulaire du certificat d'immatriculation est absent ou refuse, malgré l'injonction des
 agents, de faire cesser le stationnement très gênant pour la circulation publique, l'immobilisation et la mise en fourrière
@@ -39676,7 +39895,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1849 du 23 décembre 2016 - art. 4
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 29
+  - Décret n°2020-605 du 18 mai 2020 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2020-605 du 18 mai 2020 - art. 11
 
 _Cite_:
 
@@ -39767,7 +39991,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=212></a>
+#### Chapitre VIII : Publicité, enseignes et préenseignes.<a id=213></a>
 
 ###### Article R418-1
 
@@ -40069,9 +40293,9 @@ _Cité par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=213></a>
+### Titre II : Dispositions complémentaires applicables sur certaines voies.<a id=214></a>
 
-#### Chapitre Ier : Autoroutes.<a id=214></a>
+#### Chapitre Ier : Autoroutes.<a id=215></a>
 
 ###### Article R421-1
 
@@ -40435,7 +40659,7 @@ _Créé par_:
   - Décret n°2012-953 du 1er août 2012 - art. 1
 
 
-#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=215></a>
+#### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.<a id=216></a>
 
 ###### Article R422-1
 
@@ -40622,9 +40846,9 @@ _Créé par_:
   - Décret n°2012-953 du 1er août 2012 - art. 2
 
 
-### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=216></a>
+### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.<a id=217></a>
 
-#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=217></a>
+#### Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.<a id=218></a>
 
 ###### Article R431-1
 
@@ -41005,9 +41229,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Véhicules d'intérêt général<a id=218></a>
+#### Chapitre II : Véhicules d'intérêt général<a id=219></a>
 
-##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=219></a>
+##### Section 1 : Véhicules d'intérêt général prioritaires.<a id=220></a>
 
 ###### Article R432-1
 
@@ -41258,7 +41482,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R442-7 (V)
 
 
-##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=220></a>
+##### Section 2 : Véhicules d'intérêt général bénéficiant de facilités de passage.<a id=221></a>
 
 ###### Article R432-2
 
@@ -41586,7 +41810,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 3 : Autres véhicules d'intérêt général.<a id=221></a>
+##### Section 3 : Autres véhicules d'intérêt général.<a id=222></a>
 
 ###### Article R432-5
 
@@ -41695,9 +41919,9 @@ _Codifié par_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=222></a>
+#### Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque<a id=223></a>
 
-##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=223></a>
+##### Section 1 : Transports exceptionnels de marchandises, d'engins ou de véhicules.<a id=224></a>
 
 ###### Article R433-1
 
@@ -42138,7 +42362,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-##### Section 2 : Transports exceptionnels de personnes.<a id=224></a>
+##### Section 2 : Transports exceptionnels de personnes.<a id=225></a>
 
 ###### Article R433-7
 
@@ -42211,7 +42435,7 @@ _Cité par_:
   - Code de la route. - art. R322-2 (V)
 
 
-##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=225></a>
+##### Section 3 : Ensembles de véhicules comportant plus d'une remorque.<a id=226></a>
 
 ###### Article R433-8
 
@@ -42257,7 +42481,7 @@ _Cite_:
   - Code de la route. - art. L325-1
 
 
-##### Section 4 : Transports de bois ronds<a id=226></a>
+##### Section 4 : Transports de bois ronds<a id=227></a>
 
 ###### Article R433-9
 
@@ -42501,7 +42725,7 @@ _Cite_:
   - Code de la route. - art. L325-1
 
 
-##### Section 5 : Accompagnement des transports exceptionnels.<a id=227></a>
+##### Section 5 : Accompagnement des transports exceptionnels.<a id=228></a>
 
 ###### Article R433-17
 
@@ -42658,7 +42882,7 @@ _Cité par_:
   - Code de la route. - art. R130-6 (V)
 
 
-#### Chapitre IV : Convois et véhicules à traction animale.<a id=228></a>
+#### Chapitre IV : Convois et véhicules à traction animale.<a id=229></a>
 
 ###### Article R434-1
 
@@ -42791,9 +43015,9 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre V : Autres véhicules<a id=229></a>
+#### Chapitre V : Autres véhicules<a id=230></a>
 
-##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=230></a>
+##### Section 1 : Véhicules et matériels agricoles ou forestiers<a id=231></a>
 
 ###### Article R435-1
 
@@ -42874,7 +43098,7 @@ _Cité par_:
   - Code de la route. - art. R433-1 (VD)
 
 
-##### Section 2 : Ensembles forains<a id=231></a>
+##### Section 2 : Ensembles forains<a id=232></a>
 
 ###### Article R435-3
 
@@ -42915,7 +43139,7 @@ _Anciens textes_:
   - Code de la route. - art. R436-1 (T)
 
 
-##### Section 3 : Véhicules automoteurs spéciaux<a id=232></a>
+##### Section 3 : Véhicules automoteurs spéciaux<a id=233></a>
 
 ###### Article R435-4
 
@@ -43036,9 +43260,9 @@ _Cite_:
   - Code de la route. - art. R311-1 (V)
 
 
-### Titre IV : Dispositions relatives à l'outre-mer.<a id=233></a>
+### Titre IV : Dispositions relatives à l'outre-mer.<a id=234></a>
 
-#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=234></a>
+#### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=235></a>
 
 ###### Article R441-1
 
@@ -43168,7 +43392,7 @@ _Cite_:
   - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=235></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=236></a>
 
 ###### Article R442-1
 
@@ -43381,13 +43605,13 @@ _Cite_:
   - Code de la route. - art. R433-5 (V)
 
 
-# Partie arrêtés<a id=236></a>
+# Partie arrêtés<a id=237></a>
 
-## Livre 1er : Dispositions générales<a id=237></a>
+## Livre 1er : Dispositions générales<a id=238></a>
 
-### Titre 2 : Responsabilité<a id=238></a>
+### Titre 2 : Responsabilité<a id=239></a>
 
-#### Chapitre 1er : Responsabilité pénale<a id=239></a>
+#### Chapitre 1er : Responsabilité pénale<a id=240></a>
 
 ###### Article A121-1
 
@@ -43497,9 +43721,9 @@ _Cité par_:
   - Code de la route. - art. A143-1 (VD)
 
 
-### Titre 4 : Dispositions relatives à l'outre-mer<a id=240></a>
+### Titre 4 : Dispositions relatives à l'outre-mer<a id=241></a>
 
-#### Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna<a id=241></a>
+#### Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna<a id=242></a>
 
 ###### Article A143-1
 
