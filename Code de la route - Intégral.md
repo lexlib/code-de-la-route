@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2019-10-26
+Version Consolidée au 2019-11-07
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -27836,6 +27836,27 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°2012-1145 du 10 octobre 2012 - art. 1
+
+
+###### Article R323-13-3
+
+Le ministre chargé de l'économie ou, le cas échéant, l'organisme qu'il désigne, rend librement accessible au public, sous
+forme électronique, les prix qui lui ont été communiqués en application des dispositions de l'article R. 323-13-1, dès leur
+entrée en vigueur ou, le cas échéant, à bref délai après leur réception.
+
+Il peut également rendre publiques, sous la même forme, des données relatives aux prix en vigueur ou antérieurement
+communiqués, selon les modalités fixées par arrêté conjoint du ministre chargé de l'économie et du ministre chargé des
+transports.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1127 du 4 novembre 2019 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 29 juillet 2020 - art. 4 (V)
 
 
 ###### Article R323-14
