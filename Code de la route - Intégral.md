@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2019-12-05
+Version Consolidée au 2019-12-11
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -26001,7 +26001,7 @@ d'identification. Il remet à l'acheteur du véhicule un certificat de conformit
 entièrement conforme au type réceptionné.
 
 Le constructeur, détenteur d'une fiche de réception CE d'un type d'équipement, appose sur chaque équipement fabriqué
-conformément au type réceptionné sa marque de fabrique ou de commerce, l'indication du type ou, si la directive communautaire
+conformément au type réceptionné sa marque de produits ou de services, l'indication du type ou, si la directive communautaire
 applicable à l'équipement en cause le prévoit, le numéro ou la marque de réception.
 
 Le ministre chargé des transports fixe par arrêté les modalités de l'examen des demandes de réception CE et le modèle type
@@ -26011,7 +26011,7 @@ auquel doivent être conformes le dossier constructeur, la fiche de réception e
 
 _Modifié par_:
 
-  - Décret n°2009-497 du 30 avril 2009 - art. 10
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 14
 
 _Anciens textes_:
 
