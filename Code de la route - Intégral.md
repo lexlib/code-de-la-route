@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2019-12-11
+Version Consolidée au 2019-12-12
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -20184,18 +20184,19 @@ apportée aux caractéristiques techniques de ses composants principaux ;
 
 6.4. Véhicule d'intérêt général : véhicule d'intérêt général prioritaire ou bénéficiant de facilités de passage ;
 
-6.5. Véhicule d'intérêt général prioritaire : véhicule des services de police, de gendarmerie, des douanes, de lutte contre
-l'incendie, d'intervention des services de déminage de l'Etat, d'intervention des unités mobiles hospitalières ou, à la
-demande du service d'aide médicale urgente, affecté exclusivement à l'intervention de ces unités et du ministère de la
-justice affecté au transport des détenus ou au rétablissement de l'ordre dans les établissements pénitentiaires ;
+6.5. Véhicule d'intérêt général prioritaire : véhicule des services de police, de gendarmerie, des douanes, des services
+d'incendie et de secours et des unités militaires investies à titre permanent des missions de sécurité civile, d'intervention
+des services de déminage de l'Etat, d'intervention des unités mobiles hospitalières ou, à la demande du service d'aide
+médicale urgente, affecté exclusivement à l'intervention de ces unités et du ministère de la justice affecté au transport des
+détenus ou au rétablissement de l'ordre dans les établissements pénitentiaires ;
 
-6.6. Véhicule d'intérêt général bénéficiant de facilités de passage : ambulance de transport sanitaire, véhicule
-d'intervention de sécurité des sociétés gestionnaires d'infrastructures électriques et gazières, du service de la
-surveillance de la Société nationale des chemins de fer français, du service de la surveillance de la Régie autonome des
-transports parisiens, de transports de fonds de la Banque de France, des associations médicales concourant à la permanence
-des soins, des médecins lorsqu'ils participent à la garde départementale, de transports de produits sanguins et d'organes
-humains, engin de service hivernal et, sur autoroutes ou routes à deux chaussées séparées, véhicule d'intervention des
-services gestionnaires de ces voies ;
+6.6. Véhicule d'intérêt général bénéficiant de facilités de passage : ambulance de transport sanitaire, véhicule de premiers
+secours à personnes des associations agréées de sécurité civile, véhicule d'intervention de sécurité des sociétés
+gestionnaires d'infrastructures électriques et gazières, du service de la surveillance de la Société nationale des chemins de
+fer français, du service de la surveillance de la Régie autonome des transports parisiens, de transports de fonds de la
+Banque de France, des associations médicales concourant à la permanence des soins, des médecins lorsqu'ils participent à la
+garde départementale, de transports de produits sanguins et d'organes humains, engin de service hivernal et, sur autoroutes
+ou routes à deux chaussées séparées, véhicule d'intervention des services gestionnaires de ces voies ;
 
 6.7. Véhicule spécialisé : véhicule de catégorie M, N, O, T ou C prévu pour une fonction qui requiert un aménagement ou un
 équipement spécifique ;
@@ -20452,7 +20453,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1082 du 23 octobre 2019 - art. 3
+  - Décret n°2019-1328 du 9 décembre 2019 - art. 2
 
 
 ###### Article R311-2
@@ -36007,29 +36008,32 @@ _Codifié par_:
 
 ###### Article R412-30
 
-Tout conducteur doit marquer l'arrêt absolu devant un feu de signalisation rouge, fixe ou clignotant. 
+Tout conducteur doit marquer l'arrêt absolu devant un feu de signalisation rouge, fixe ou clignotant.
 
-L'arrêt se fait en respectant la limite d'une ligne perpendiculaire à l'axe de la voie de circulation. Lorsque cette ligne
-d'arrêt n'est pas matérialisée sur la chaussée, elle se situe à l'aplomb du feu de signalisation ou avant le passage piéton
-lorsqu'il en existe un. 
+L'arrêt se fait :
+
+1° Lorsqu'une ligne d'arrêt est matérialisée, en respectant la limite de cette ligne ;
+
+2° Lorsqu'une ligne d'arrêt n'est pas matérialisée, en respectant la limite d'une ligne située avant le passage pour piétons
+s'il précède le feu et, dans les autres cas, à l'aplomb du feu de signalisation.
 
 Sous réserve des articles R. 415-11 et R. 422-3, les dispositions du premier alinéa ne s'appliquent pas aux transports
 exceptionnels mentionnés à l'article R. 433-1 et à leurs véhicules d'accompagnement mentionnés à l'article R. 433-17
 régulièrement engagés dans une intersection équipée de feux de signalisation affichant la couleur verte au moment du
-franchissement de ces feux par le premier véhicule d'accompagnement. 
+franchissement de ces feux par le premier véhicule d'accompagnement.
 
 Lorsqu'une piste cyclable ou une trajectoire matérialisée pour les cycles, signalisée en application des dispositions de
 l'article R. 411-25, traversant la chaussée est parallèle et contiguë à un passage réservé aux piétons dont le franchissement
 est réglé par des feux de signalisation lumineux, tout conducteur empruntant cette piste ou cette trajectoire matérialisée
 est tenu, à défaut de signalisation spécifique, de respecter les feux de signalisation réglant la traversée de la chaussée
-par les piétons. 
+par les piétons.
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la quatrième classe. 
+contraventions de la quatrième classe.
 
 Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de trois
 ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle. 
+professionnelle.
 
 Cette contravention donne lieu de plein droit à la réduction de quatre points du permis de conduire.
 
@@ -36048,7 +36052,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-16 du 6 janvier 2017 - art. 10
+  - Décret n°2019-1328 du 9 décembre 2019 - art. 2
 
 _Anciens textes_:
 
@@ -36061,10 +36065,10 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. R411-25
-  - Code de la route. - art. R415-11 (V)
-  - Code de la route. - art. R422-3 (V)
-  - Code de la route. - art. R433-1 (V)
-  - Code de la route. - art. R433-17 (V)
+  - Code de la route. - art. R415-11
+  - Code de la route. - art. R422-3
+  - Code de la route. - art. R433-1
+  - Code de la route. - art. R433-17
 
 
 ###### Article R412-31
