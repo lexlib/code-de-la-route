@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2019-12-27
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -1382,21 +1382,19 @@ _Cite_:
 
 ###### Article L142-1
 
-Pour l'application des dispositions du présent livre à Mayotte, les termes énumérés ci-après sont remplacés comme suit : 
+Pour l'application des dispositions du présent livre à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
 
-1° " Cour d'appel et chambre de l'instruction " par "    Chambre d'appel de Mamoudzou " ; 
+1° " Cour d'appel et chambre de l'instruction " par " Chambre d'appel de Mamoudzou " ;
 
-2° " Procureur général " par " Procureur général près la cour d'appel " ; 
+2° " Procureur général " par " Procureur général près la cour d'appel " ;
 
-3° " Préfet " par " représentant de l'Etat " ; 
-
-4° " Tribunal de police " par " tribunal de première instance ".
+3° " Préfet " par " représentant de l'Etat ".
 
 **Nota:**
 
-Aux termes de l'alinéa 6 de l'article 12 de l'ordonnance n° 2011-337 du 29 mars 2011, la référence au tribunal de première
-instance est remplacée par celle au tribunal de grande instance ou au tribunal d'instance conformément à la répartition des
-compétences fixées entre ces juridictions par le code de l'organisation judiciaire.
+Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur
+le 1
+  <sup>er</sup> janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -1412,7 +1410,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 20
 
 
 ###### Article L142-2
@@ -16414,7 +16412,12 @@ résidence dans un délai de dix jours francs à compter de sa réception.
 S'il avait été remis à la personne un certificat en échange de son permis de conduire, en application des articles R. 131-2,
 R. 131-4, R. 131-4-1 ou R. 132-45-1 du code pénal ou des articles R. 15-33-53, R. 15-33-53-1 ou R. 17-4-1 du code de
 procédure pénale, cette personne est tenue de remettre ce certificat au préfet. Le permis de conduire détenu par le greffe du
-tribunal de grande instance en application des mêmes dispositions est remis par le greffe au préfet.
+tribunal judiciaire en application des mêmes dispositions est remis par le greffe au préfet.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -16426,18 +16429,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-198 du 16 février 2017 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Code pénal - art. R131-2
-  - Code pénal - art. R131-4 (V)
-  - Code pénal - art. R131-4-1 (V)
-  - Code de procédure pénale - art. R15-33-53 (V)
-  - Code de procédure pénale - art. R15-33-53-1 (V)
-  - Code de procédure pénale - art. R17-4-1 (V)
-  - Code de la route. - art. L223-1 (V)
-  - Code de la route. - art. L223-6 (V)
+  - Code pénal - art. R131-4
+  - Code pénal - art. R131-4-1
+  - Code de procédure pénale - art. R15-33-53 (VD)
+  - Code de procédure pénale - art. R15-33-53-1 (VD)
+  - Code de procédure pénale - art. R17-4-1
+  - Code de la route. - art. L223-1
+  - Code de la route. - art. L223-6
   - Code de la route. - art. L225-1
 
 _Anciens textes_:
@@ -17684,6 +17687,35 @@ _Cite_:
 
   - Code de la route. - art. L225-5 (V)
   - Code de la route. - art. R225-4 (V)
+
+
+###### Article R225-5-1
+
+Afin d'accéder aux informations mentionnées à l'article L. 225-5, les entreprises exerçant une activité de transport public
+routier de voyageurs ou de marchandises déclarent les personnes qu'elles emploient comme conducteur de véhicule à moteur. 
+
+Lorsque les personnels mentionnés au 4° du I de l'article R. 225-5 accèdent à ces informations, ils reçoivent une attestation
+sécurisée et datée, délivrée par voie électronique par le ministère de l'intérieur, comportant ces informations. 
+
+Un arrêté du ministre de l'intérieur et du ministre chargé des transports précise la liste des activités concernées et
+détermine les conditions de déclaration des personnes employées et les modalités de délivrance et les caractéristiques de
+l'attestation sécurisée.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 8 du décret n° 2018-795 du 17 septembre 2018, ces dispositions entrent en
+vigueur à une date fixée par arrêté du ministre de l'intérieur et au plus tard le 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-795 du 17 septembre 2018 - art. 8 (V)
+
+_Cite_:
+
+  - Code de la route. - art. L225-5
+  - Code de la route. - art. R225-5
 
 
 ###### Article R225-6
@@ -32214,21 +32246,30 @@ _Modifié par_:
 ###### Article R341-1
 
 Pour l'application des dispositions du présent livre dans la collectivité territoriale de Saint-Pierre-et-Miquelon, les
-termes énumérés ci-après sont remplacés comme suit :
+termes énumérés ci-après sont remplacés comme suit : 
 
-1° "direction régionale de l'industrie, de la recherche et de l'environnement" par "direction de l'équipement" ;
+1° " direction régionale de l'industrie, de la recherche et de l'environnement " par " direction de l'équipement " ; 
 
-2° "département" par "collectivité territoriale" ;
+2° " département " par " collectivité territoriale " ; 
 
-3° "tribunal de grande instance" par "tribunal de première instance" ;
+3° "   tribunal judiciaire " par " tribunal de première instance " ; 
 
-4° "départementale" par "territoriale".
+4° " départementale " par " territoriale ".
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 #### Chapitre II : Dispositions applicables à Mayotte.<a id=174></a>
@@ -32247,16 +32288,15 @@ véhicules" ;
 
 4° "préfecture" par "représentation de l'Etat" ;
 
-5° "tribunal de grande instance" par "tribunal de première instance" ;
+5° (Abrogé) ;
 
 6° "départementale" par "territoriale".
 
 **Nota:**
 
-Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
-territoriale de Mayotte est remplacée par la référence à Mayotte, la référence à la collectivité territoriale est remplacée
-par la référence à la collectivité départementale et la référence au représentant du Gouvernement est remplacée par la
-référence au représentant de l'Etat.
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -32267,11 +32307,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+  - Décret n°2019-913 du 30 août 2019 - art. 23
 
 
 ###### Article R342-2
