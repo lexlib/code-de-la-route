@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2019-08-24
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -17222,6 +17222,35 @@ _Cite_:
   - Code de la route. - art. R225-4 (V)
 
 
+###### Article R225-5-1
+
+Afin d'accéder aux informations mentionnées à l'article L. 225-5, les entreprises exerçant une activité de transport public
+routier de voyageurs ou de marchandises déclarent les personnes qu'elles emploient comme conducteur de véhicule à moteur. 
+
+Lorsque les personnels mentionnés au 4° du I de l'article R. 225-5 accèdent à ces informations, ils reçoivent une attestation
+sécurisée et datée, délivrée par voie électronique par le ministère de l'intérieur, comportant ces informations. 
+
+Un arrêté du ministre de l'intérieur et du ministre chargé des transports précise la liste des activités concernées et
+détermine les conditions de déclaration des personnes employées et les modalités de délivrance et les caractéristiques de
+l'attestation sécurisée.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 8 du décret n° 2018-795 du 17 septembre 2018, ces dispositions entrent en
+vigueur à une date fixée par arrêté du ministre de l'intérieur et au plus tard le 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-795 du 17 septembre 2018 - art. 8 (V)
+
+_Cite_:
+
+  - Code de la route. - art. L225-5
+  - Code de la route. - art. R225-5
+
+
 ###### Article R225-6
 
 I.-La communication au titulaire du permis de conduire, ou au conducteur mentionné au I de l'article L. 223-10, du relevé
@@ -31375,16 +31404,15 @@ véhicules" ;
 
 4° "préfecture" par "représentation de l'Etat" ;
 
-5° "tribunal de grande instance" par "tribunal de première instance" ;
+5° (Abrogé) ;
 
 6° "départementale" par "territoriale".
 
 **Nota:**
 
-Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
-territoriale de Mayotte est remplacée par la référence à Mayotte, la référence à la collectivité territoriale est remplacée
-par la référence à la collectivité départementale et la référence au représentant du Gouvernement est remplacée par la
-référence au représentant de l'Etat.
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -31395,11 +31423,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+  - Décret n°2019-913 du 30 août 2019 - art. 23
 
 
 ###### Article R342-2
