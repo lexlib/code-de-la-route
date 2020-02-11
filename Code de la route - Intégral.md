@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-02-12
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -50,7 +50,7 @@ Version Consolidée au 2020-01-01
         - [Chapitre 2 : Immatriculation. (art. L322-1 à L322-3)](#47)
         - [Chapitre 3 : Contrôle technique. (art. L323-1)](#48)
         - [Chapitre 4 : Assurance. (art. L324-1 à L324-2)](#49)
-        - [Chapitre 5 : Immobilisation et mise en fourrière. (art. L325-1 à L325-13)](#50)
+        - [Chapitre 5 : Immobilisation et mise en fourrière. (art. L325-1 à L325-14)](#50)
         - [Chapitre 6 : Organisation de la profession d'expert en automobile. (art. L326-1 à L326-9)](#51)
         - [Chapitre 7 : Véhicules endommagés. (art. L327-1 à L327-6)](#52)
         - [Chapitre 8 : Messages promotionnels (art. L328-1)](#53)
@@ -446,12 +446,13 @@ _Anciens textes_:
 
 Par dérogation aux dispositions de l'article L. 121-1, le titulaire du certificat d'immatriculation du véhicule est
 responsable pécuniairement des infractions à la réglementation sur le stationnement des véhicules ou sur l'acquittement des
-péages pour lesquelles seule une peine d'amende est encourue, à moins qu'il n'établisse l'existence d'un événement de force
-majeure ou qu'il ne fournisse des renseignements permettant d'identifier l'auteur véritable de l'infraction. 
+péages pour lesquelles seule une peine d'amende est encourue ainsi que des contraventions relatives à l'abandon d'ordures, de
+déchets, de matériaux ou d'autres objets, à moins qu'il n'établisse l'existence d'un événement de force majeure ou qu'il ne
+fournisse des renseignements permettant d'identifier l'auteur véritable de l'infraction.
 
-Dans le cas où le véhicule était loué à un tiers, cette responsabilité pèse, avec les mêmes réserves, sur le locataire. 
+Dans le cas où le véhicule était loué à un tiers, cette responsabilité pèse, avec les mêmes réserves, sur le locataire.
 
-Dans le cas où le véhicule a été cédé, cette responsabilité pèse, avec les mêmes réserves, sur l'acquéreur du véhicule. 
+Dans le cas où le véhicule a été cédé, cette responsabilité pèse, avec les mêmes réserves, sur l'acquéreur du véhicule.
 
 Lorsque le certificat d'immatriculation du véhicule est établi au nom d'une personne morale, la responsabilité pécuniaire
 prévue au premier alinéa incombe, sous les mêmes réserves, au représentant légal de cette personne morale.
@@ -479,20 +480,20 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 31
+  - Loi n°2020-105 du 10 février 2020 - art. 101
 
 _Anciens textes_:
 
   - Code de la route - art. L21-1 (Ab)
   - Code de la route L21-1
 
+_Cite_:
+
+  - Code de la route. - art. L121-1
+
 **Liens**:
 
   - SPEC_APPLI: Code de la route. - art. L121-1 (V)
-
-_Cite_:
-
-  - Code de la route. - art. L121-1 (V)
 
 
 ###### Article L121-3
@@ -8833,6 +8834,22 @@ _Modifié par_:
   - Loi n°2017-257 du 28 février 2017 - art. 27
 
 
+###### Article L325-14
+
+Dans les collectivités régies par l'article 73 de la Constitution, à défaut d'institution d'un service public local de
+fourrière, et si aucun gardien n'a pu être agréé ou si le nombre de gardiens agréés est insuffisant, il est possible, sur
+proposition du représentant de l'Etat dans le département et pour une durée définie, d'agréer comme gardien de fourrière une
+personne morale qui exerce également une activité de destruction ou de retraitement de véhicules usagés.
+
+Les conditions d'application du présent article sont précisées par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2020-105 du 10 février 2020 - art. 92
+
+
 #### Chapitre 6 : Organisation de la profession d'expert en automobile.<a id=51></a>
 
 ###### Article L326-1
@@ -9438,7 +9455,8 @@ pénale ;
 en application des dispositions du présent code ;
 
 4° bis Aux agents de police judiciaire adjoints et aux gardes champêtres, aux seules fins d'identifier les auteurs des
-infractions au présent code qu'ils sont habilités à constater ;
+infractions au présent code et aux infractions liées à l'abandon ou au dépôt illégal de déchets qu'ils sont habilités à
+constater ;
 
 5° Aux fonctionnaires habilités à constater des infractions au présent code, aux seules fins d'identifier les auteurs de ces
 infractions ;
@@ -9550,15 +9568,14 @@ _Cité par_:
   - Code des douanes - art. 64 B (V)
   - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
 
-_Modifié par_:
-
-  - Loi n°2015-992 du 17 août 2015 - art. 37 (VT)
-  - Loi n°2019-1428 du 24 décembre 2019 - art. 98 (V)
-
 _Anciens textes_:
 
   - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
   - Code de la route L36
+
+_Modifié par_:
+
+  - Loi n°2020-105 du 10 février 2020 - art. 99
 
 _Cite_:
 
@@ -9570,11 +9587,11 @@ _Cite_:
   - Code de l'environnement - art. L172-4
   - Code de l'environnement - art. L541-21-3
   - Code de la route. - art. L130-4
-  - Code de la route. - art. L130-7 (V)
+  - Code de la route. - art. L130-7
   - Code de la route. - art. L318-1
   - Code des transports - art. L2241-1
   - Code des transports - art. L4272-1
-  - Code des transports - art. L4272-2 (VD)
+  - Code des transports - art. L4272-2
   - Code des transports - art. L4321-3
   - Code des transports - art. L5243-1
   - Code des transports - art. L5337-2
