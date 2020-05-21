@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2020-02-12
+Version Consolidée au 2020-05-22
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -87,9 +87,9 @@ Version Consolidée au 2020-02-12
         - [Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna (art. R143-1)](#84)
     - [Livre II : Le conducteur. (art. R211-1 à R245-3)](#85)
       - [Titre Ier : Enseignement de la conduite et de la sécurité routière. (art. R211-1 à D214-5)](#86)
-        - [Chapitre Ier : Formation à la conduite et à la sécurité routière (art. R211-1 à R211-6)](#87)
+        - [Chapitre Ier : Formation à la conduite et à la sécurité routière (art. R211-1 à R211-7)](#87)
           - [Section 1 : Attestations et brevet de sécurité routière. (art. R211-1 à R211-2)](#88)
-          - [Section 2 : Apprentissage de la conduite. (art. R211-3 à R211-6)](#89)
+          - [Section 2 : Apprentissage de la conduite. (art. R211-3 à R211-7)](#89)
         - [Chapitre II : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière. (art. R212-1 à R212-6)](#90)
         - [Chapitre III : Etablissements d'enseignement et d'animation des stages de sensibilisation à la sécurité routière. (art. R213-1 à R213-9)](#91)
           - [Section 1 : Etablissements d'enseignement à titre onéreux et d'animation des stages de sensibilisation à la sécurité routière. (art. R213-1 à R213-6)](#92)
@@ -107,8 +107,8 @@ Version Consolidée au 2020-02-12
         - [Chapitre III : Permis à points. (art. R223-1 à R223-13)](#104)
           - [Section 1 : Principes généraux. (art. R223-1 à R223-4-1)](#105)
           - [Section 2 : Des stages  de sensibilisation à la sécurité routière. (art. R223-5 à R223-13)](#106)
-        - [Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation (art. R224-1 à R224-24)](#107)
-          - [Section 1 : Rétention et suspension administratives après constatation d'une infraction. (art. R224-1 à R224-19)](#108)
+        - [Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation (art. R. 224-19-1 à R224-24)](#107)
+          - [Section 1 : Rétention et suspension administratives après constatation d'une infraction. (art. R. 224-19-1 à R224-19)](#108)
           - [Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation. (art. R224-20 à R224-24)](#109)
         - [Chapitre V : Enregistrement et communication des informations relatives au permis de conduire. (art. R225-1 à R225-6)](#110)
         - [Chapitre VI : Organisation du contrôle médical de l'aptitude à la conduite (art. D226-3-1 à R226-4)](#111)
@@ -12532,20 +12532,27 @@ _Cite_:
 
 ###### Article R211-5-1
 
-Tout élève conducteur, inscrit dans un établissement ou une association agréés au titre de l'article L. 213-1 ou L. 213-7
-pour suivre une formation à la conduite des véhicules de la catégorie B, peut, après la validation de la formation initiale,
-accéder à une période d'apprentissage en conduite dite supervisée par un accompagnateur titulaire depuis au moins cinq ans
-sans interruption du permis de conduire de la catégorie B. 
+La période d'apprentissage en conduite dite supervisée, prévue à l'article L. 211-4, par un accompagnateur titulaire depuis
+au moins cinq ans sans interruption de la catégorie B du permis de conduire est accessible, à partir de l'âge de dix-huit
+ans :
+
+1° A tout élève conducteur, inscrit dans un établissement ou une association agréés au titre de l'article L. 213-1 ou L.
+213-7 pour suivre une formation à la conduite des véhicules de la catégorie B après la validation de la formation initiale.
 
 La formation initiale est validée si l'élève conducteur a réussi l'épreuve théorique générale de l'examen du permis de
 conduire ou est titulaire d'une catégorie du permis de conduire obtenue depuis cinq ans au plus, et s'il a réussi
-l'évaluation réalisée par l'enseignant de la conduite à la fin de cette période. 
+l'évaluation réalisée par l'enseignant de la conduite et de la sécurité routière à la fin de cette période.
 
-La période d'apprentissage en conduite supervisée est accessible à partir de l'âge de dix-huit ans. Elle commence par un
-rendez-vous pédagogique préalable entre l'enseignant de la conduite, l'accompagnateur et l'élève conducteur. 
+La période d'apprentissage en conduite supervisée commence par un rendez-vous pédagogique préalable entre l'enseignant de la
+conduite, l'accompagnateur et l'élève conducteur.
 
 Les conditions dans lesquelles les établissements d'enseignement de la conduite proposent et encadrent une phase de conduite
 supervisée sont fixées par arrêté du ministre chargé de la sécurité routière.
+
+2° Après validation, lors de l'épreuve pratique de l'examen du permis de conduire, des compétences minimales prévues par
+l'arrêté mentionné à l'article L. 211-4 par un inspecteur du permis de conduire et de la sécurité routière, par un agent
+public mentionné au quatrième alinéa de l'article D. 221-3 ou par l'un des agents publics ou contractuels mentionnés à
+l'article L. 221-5.
 
 **Liens relatifs à cet article**
 
@@ -12558,7 +12565,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1537 du 25 novembre 2015 - art. 3
+  - Décret n°2020-605 du 18 mai 2020 - art. 2
 
 _Cite_:
 
@@ -12633,6 +12640,25 @@ _Anciens textes_:
   - Code de la route - art. R233 (Ab)
   - Code de la route - art. R43-5 (Ab)
   - Code de la route R43-5 (al. 2), R123-2 (al. 5), R123-3 (al. 6), R233 (al. 1 et 2)
+
+
+###### Article R211-7
+
+Lorsqu'une mesure d'interdiction de se présenter à l'examen du permis de conduire a été prise en application de l'article L.
+211-1 A, elle est notifiée à l'intéressé par lettre recommandée avec demande d'avis de réception.
+
+L'arrêté du préfet portant interdiction de se présenter à l'examen du permis de conduire est transmis sans délai au procureur
+de la République dans le ressort duquel l'infraction a été commise.
+
+Le procureur de la République communique sans délai au préfet du lieu de l'infraction toute décision judiciaire exécutoire ou
+définitive prononcée pour une infraction punie par le présent code de la peine complémentaire d'interdiction de se présenter
+à l'examen du permis de conduire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-605 du 18 mai 2020 - art. 3
 
 
 #### Chapitre II : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière.<a id=90></a>
@@ -16832,6 +16858,35 @@ _Anciens textes_:
 
 ##### Section 1 : Rétention et suspension administratives après constatation d'une infraction.<a id=108></a>
 
+###### Article R. 224-19-1
+
+Les dispositions du 7° du I de l'article L. 224-1 et du 5° du I de l'article L. 224-2 sont applicables aux infractions aux
+règles sur :
+
+1° La conduite des véhicules prévues aux articles R. 412-9 et R. 412-10 ;
+
+2° Les distances de sécurité entre les véhicules prévues à l'article R. 412-12 ;
+
+3° Le franchissement et le chevauchement des lignes continues prévues aux articles R. 412-19 et R. 412-22 ;
+
+4° Les feux de signalisation lumineux prévues aux articles R. 412-30 et R. 412-31 ;
+
+5° Les vitesses prévues aux articles R. 413-14, R. 413-14-1 et R. 413-17 ;
+
+6° Le dépassement prévues aux articles R. 414-4, R. 414-6, R. 414-7, R. 414-11 et R. 414- 16 ;
+
+7° Les signalisations imposant l'arrêt des véhicules ou de céder le passage aux véhicules prévues aux articles R. 415-6 et R.
+415-7 ;
+
+8° La priorité de passage à l'égard du piéton prévue à l'article R. 415-11.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-605 du 18 mai 2020 - art. 6
+
+
 ###### Article R224-1
 
 Dans les cas prévus à l'article L. 224-1, la décision de rétention du permis de conduire, qu'elle soit ou non accompagnée de
@@ -16983,45 +17038,53 @@ _Anciens textes_:
 
 I. – Dans les cas prévus aux articles L. 224-2 et L. 224-7, le préfet peut restreindre le droit de conduire d'un conducteur
 ayant commis l'une des infractions prévues par les articles L. 234-1, L. 234-8 et R. 234-1, par arrêté, pour une durée qui ne
-peut excéder six mois, aux seuls véhicules équipés d'un dispositif homologué d'anti-démarrage par éthylotest électronique,
+peut excéder un an, aux seuls véhicules équipés d'un dispositif homologué d'anti-démarrage par éthylotest électronique,
 installé par un professionnel agréé ou par construction, conformément aux dispositions de l'article L. 234-17, en état de
-fonctionnement et après avoir utilisé lui-même ce dispositif sans en avoir altéré le fonctionnement. 
+fonctionnement et après avoir utilisé lui-même ce dispositif sans en avoir altéré le fonctionnement.
 
 Pendant cette durée, le permis de conduire de l'intéressé est conservé par l'administration et l'arrêté du préfet vaut permis
 de conduire au sens des articles R. 221-1-1 à D. 221-3 et titre justifiant de son autorisation de conduire au sens du I de
-l'article R. 233-1. 
+l'article R. 233-1.
 
 L'arrêté du préfet est notifié à l'intéressé soit directement s'il se présente au service indiqué dans l'avis de rétention du
-permis de conduire, soit par lettre recommandée avec demande d'avis de réception. 
+permis de conduire, soit par lettre recommandée avec demande d'avis de réception.
+
+L'arrêté du préfet portant restriction du droit de conduire en application du premier alinéa du présent I est transmis sans
+délai au procureur de la République dans le ressort duquel l'infraction a été commise.
+
+Le procureur de la République communique sans délai au préfet du lieu de l'infraction toute décision judiciaire exécutoire ou
+définitive prononcée pour une infraction punie de la peine complémentaire d'interdiction de conduire un véhicule qui n'est
+pas équipé d'un dispositif homologué d'anti-démarrage par éthylotest électronique, installé par un professionnel agréé ou par
+construction.
 
 II. – Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne ayant fait l'objet
-de l'arrêté mentionné au I : 
+de l'arrêté mentionné au I :
 
-1° De conduire un véhicule non équipé du dispositif mentionné au I ; 
+1° De conduire un véhicule non équipé du dispositif mentionné au I ;
 
 2° De conduire un véhicule équipé d'un tel dispositif soit après que celui-ci a été utilisé par un tiers pour permettre le
 démarrage, soit après l'avoir neutralisé ou détérioré ou l'avoir utilisé dans des conditions empêchant la mesure exacte de
-son état d'imprégnation alcoolique. 
+son état d'imprégnation alcoolique.
 
 III. – Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
-contravention prévue au II est puni de la même peine. 
+contravention prévue au II est puni de la même peine.
 
 IV. – Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
-suivantes : 
+suivantes :
 
 1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
-conduite en dehors de l'activité professionnelle, ni être assortie du sursis, même partiellement ; 
+conduite en dehors de l'activité professionnelle, ni être assortie du sursis, même partiellement ;
 
 2° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
-conduire n'est pas exigé, pour une durée de trois ans au plus ; 
+conduire n'est pas exigé, pour une durée de trois ans au plus ;
 
-3° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
+3° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
 
-4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. 
+4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire.
 
-V. – La récidive des contraventions prévues au présent article est réprimée conformément à l' article 132-11 du code pénal . 
+V. – La récidive des contraventions prévues au présent article est réprimée conformément à l' article 132-11 du code pénal .
 
-VI. – Ces contraventions donnent lieu de plein droit à la réduction de six points du permis de conduire. 
+VI. – Ces contraventions donnent lieu de plein droit à la réduction de six points du permis de conduire.
 
 VII. – L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
@@ -17042,7 +17105,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-795 du 17 septembre 2018 - art. 5
+  - Décret n°2020-605 du 18 mai 2020 - art. 4
 
 _Cite_:
 
@@ -17056,8 +17119,8 @@ _Cite_:
   - Code de la route. - art. L325-1
   - Code de la route. - art. L325-3
   - Code de la route. - art. R221-1-1
-  - Code de la route. - art. R233-1 (M)
-  - Code de la route. - art. R234-1 (M)
+  - Code de la route. - art. R233-1 (V)
+  - Code de la route. - art. R234-1
 
 _Anciens textes_:
 
@@ -17150,8 +17213,8 @@ _Anciens textes_:
 
 ###### Article R224-16
 
-En vue de l'application de l'alinéa 4 de l'article L. 224-9, tout arrêté du préfet portant suspension du permis de conduire
-est transmis sans délai en copie au procureur de la République dans le ressort duquel l'infraction a été commise.
+En vue de l'application du troisième alinéa de l'article L. 224-9, tout arrêté du préfet portant suspension du permis de
+conduire est transmis sans délai en copie au procureur de la République dans le ressort duquel l'infraction a été commise.
 
 **Nota:**
 
@@ -17161,11 +17224,11 @@ Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+  - Décret n°2020-605 du 18 mai 2020 - art. 5
 
 _Anciens textes_:
 
@@ -17174,7 +17237,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L224-9 (V)
+  - Code de la route. - art. L224-9
 
 
 ###### Article R224-17
@@ -17470,61 +17533,61 @@ _Nouveaux textes_:
 ###### Article R225-2
 
 I.-Le préfet de département dans lequel est domicilié le demandeur ou le titulaire du permis de conduire fait procéder à
-l'enregistrement : 
+l'enregistrement :
 
-1° Des demandes de permis de conduire, d'extension de permis de conduire et de duplicata de titres de conduite ; 
+1° Des demandes de permis de conduire, d'extension de permis de conduire et de duplicata de titres de conduite ;
 
-2° Des décisions portant délivrance, extension et prorogation de catégories du permis de conduire ; 
+2° Des décisions portant délivrance, extension et prorogation de catégories du permis de conduire ;
 
-3° Des informations relatives à la délivrance et la gestion des titres de conduite ; 
+3° Des informations relatives à la délivrance et la gestion des titres de conduite ;
 
 4° Des informations relatives aux permis de conduire délivrés par les autorités étrangères et reconnus valables sur le
 territoire national et aux échanges de titres français dans les Etats membres de la Communauté européenne dans les cas où ces
 titres seraient adressés directement aux autorités préfectorales émettrices par les autorités étrangères qui ont procédé aux
-échanges ; 
+échanges ;
 
 5° Des décisions dûment notifiées portant retrait total ou partiel de titres ou de permis de conduire obtenus irrégulièrement
-ou frauduleusement ; 
+ou frauduleusement ;
 
 6° Des décisions dûment notifiées prises sur avis des médecins agréés consultant hors commission médicale ou des commissions
 médicales en application du présent code, portant inaptitude à la conduite des véhicules d'une ou plusieurs catégories, ou
 portant prorogation, limitation de la durée de validité, suspension, annulation, rétablissement ou changement de catégories
-du permis de conduire ; 
+du permis de conduire ;
 
 7° Des mesures administratives dûment notifiées portant restriction du droit de faire usage du permis de conduire prises
 conformément aux articles L. 224-1, L. 224-2, L. 224-7, L. 224-8 et R. 224-6 à R. 224-19 à l'encontre de titulaires de permis
-français ou étrangers ainsi que des renseignements relatifs à la notification et à l'exécution de ces mesures ; 
+français ou étrangers ainsi que des renseignements relatifs à la notification et à l'exécution de ces mesures ;
 
 8° Des mesures de retrait du droit de faire usage du permis de conduire communiquées par les autorités compétentes des
-territoires et collectivités territoriales d'outre-mer ; 
+territoires et collectivités territoriales d'outre-mer ;
 
 9° Des mesures de retrait du droit de faire usage du permis de conduire prises par une autorité étrangère et communiquées aux
-autorités françaises conformément aux accords internationaux en vigueur ; 
+autorités françaises conformément aux accords internationaux en vigueur ;
 
-10° (Abrogé) ; 
+10° Des mesures administratives dûment notifiées portant interdiction de se présenter à l'examen du permis de conduire ;
 
-11° Des décisions rapportant les mesures précédentes. 
+11° Des décisions rapportant les mesures précédentes.
 
 II.-Les préfets font procéder à l'enregistrement des demandes de renouvellement ou de duplicata des permis de conduire
 perdus, volés ou détériorés ainsi qu'aux décisions de délivrance correspondantes formulées par les personnes établies à
 l'étranger définies au deuxième alinéa du III de l'article R. 221-1, avec le concours de l'autorité diplomatique ou
-consulaire territorialement compétente. 
+consulaire territorialement compétente.
 
 Le cas échéant, ils assurent l'enregistrement des demandes de rétablissement de leurs droits à conduire et les décisions
 correspondantes lorsque le permis perdu, volé ou détérioré est un permis de conduire étranger obtenu en échange d'un permis
-de conduire français. 
+de conduire français.
 
 Les conditions et modalités de mise en œuvre des dispositions figurant aux deux alinéas précédents, sont fixées par un arrêté
-du ministre chargé de la sécurité routière pris après avis du ministre des affaires étrangères. 
+du ministre chargé de la sécurité routière pris après avis du ministre des affaires étrangères.
 
 III.-Le préfet du département du lieu de la formation complémentaire définie au deuxième alinéa de l'article L. 223-1 procède
 à l'enregistrement des attestations de suivi de la formation complémentaire prévues au IV de l'article R. 223-4-1 et réduit
 le délai probatoire du II de l'article L. 223-1 si aucune infraction donnant lieu à un retrait de points ou entraînant une
-mesure de restriction ou de suspension du droit de conduire n'a été commise. 
+mesure de restriction ou de suspension du droit de conduire n'a été commise.
 
 IV.-Le préfet du lieu du stage de sensibilisation à la sécurité routière défini au quatrième alinéa de l'article L. 223-6
 procède à l'enregistrement des décisions portant reconstitution partielle du nombre de points du permis de conduire en
-application du I de l'article R. 223-8. 
+application du I de l'article R. 223-8.
 
 V.-Les procédures du III et du IV peuvent être dématérialisées.
 
@@ -17532,8 +17595,7 @@ V.-Les procédures du III et du IV peuvent être dématérialisées.
 
 _Modifié par_:
 
-  - Décret n°2018-715 du 3 août 2018 - art. 4
-  - Décret n°2018-715 du 3 août 2018 - art. 5
+  - Décret n°2020-605 du 18 mai 2020 - art. 7
 
 _Anciens textes_:
 
@@ -18070,7 +18132,7 @@ d) Fait l'objet d'une décision du préfet restreignant le droit de conduire, pe
 équipés par un professionnel agréé ou par construction, conformément aux dispositions de l'article L. 234-17, d'un dispositif
 homologué d'anti-démarrage par éthylotest électronique ;
 
-6° Un éthylotest dans les conditions prévues à l'article R. 234-7 ;
+6° (Abrogé)
 
 7° Le procès-verbal de contrôle technique périodique pour les véhicules mentionnés aux articles R. 323-23 et R. 323-25 ;
 
@@ -18081,15 +18143,15 @@ homologué d'anti-démarrage par éthylotest électronique ;
 II. – En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
 vol tient lieu de titre pendant un délai de deux mois au plus.
 
-III. – Hors le cas prévu au 6° du I, le fait de ne pas présenter immédiatement aux agents de l'autorité compétente les
-éléments exigés par le présent article est puni de l'amende prévue pour les contraventions de la première classe.
+III. – Le fait de ne pas présenter immédiatement aux agents de l'autorité compétente les éléments exigés par le présent
+article est puni de l'amende prévue pour les contraventions de la première classe.
 
 IV. – Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession de son brevet de sécurité
 routière, de ne pas présenter ce document avant l'expiration de ce délai est puni de l'amende prévue pour les contraventions
 de la deuxième classe.
 
-V. – Hors les cas prévus aux 6°, 8° et 9° du I, le fait, pour toute personne invitée à justifier dans un délai de cinq jours
-de la possession des autorisations et pièces exigées par le présent article, de ne pas présenter ces documents avant
+V. – Hors les cas prévus aux 8° et 9° du I, le fait, pour toute personne invitée à justifier dans un délai de cinq jours de
+la possession des autorisations et pièces exigées par le présent article, de ne pas présenter ces documents avant
 l'expiration de ce délai est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
@@ -18105,12 +18167,12 @@ _Cité par_:
   - Code de la route - art. R249-1 (Ab)
   - Code de la route. - art. R130-3 (M)
   - Code de la route. - art. R130-6 (V)
-  - Code de la route. - art. R224-6 (M)
+  - Code de la route. - art. R224-6 (V)
   - Code pénal - art. R131-4-1 (V)
 
 _Modifié par_:
 
-  - Décret n°2018-795 du 17 septembre 2018 - art. 6
+  - Décret n°2020-605 du 18 mai 2020 - art. 8
 
 _Cite_:
 
@@ -18122,7 +18184,7 @@ _Cite_:
   - Code de la route. - art. R221-1-1
   - Code de la route. - art. R221-8
   - Code de la route. - art. R226-1
-  - Code de la route. - art. R234-7
+  - Code de la route. - art. R234-7 (V)
   - Code de la route. - art. R323-23
   - Code de la route. - art. R416-19
 
@@ -18518,18 +18580,8 @@ _Cité par_:
 
 ###### Article R234-7
 
-Tout conducteur d'un véhicule terrestre à moteur, à l'exclusion d'un cyclomoteur, doit justifier de la possession d'un
-éthylotest, non usagé, disponible immédiatement. 
-
-L'éthylotest mentionné au premier alinéa est électronique ou chimique. Il répond selon sa nature aux exigences fixées par le
-décret n° 2008-883 du 1er septembre 2008 relatif aux éthylotests électroniques ou par le décret n° 29 juin 2015 du 29 juin
-2015 fixant les exigences de fiabilité et de sécurité relatives aux éthylotests chimiques destinés à un usage préalable à la
-conduite routière. 
-
-Sont considérés comme répondant à l'obligation prévue au premier alinéa, le conducteur d'un véhicule équipé par un
-professionnel agréé ou par construction d'un dispositif d'antidémarrage par éthylotest électronique homologué conformément à
-l'article L. 234-17 ainsi que le conducteur d'un autocar équipé d'un dispositif éthylotest antidémarrage dans les conditions
-fixées à l'article R. 317-24.
+Le fait de contrevenir aux dispositions de l'article L. 3341-4 du code de la santé publique et de ses textes d'application
+est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
@@ -18539,14 +18591,14 @@ _Cite_:
   - Code de la route. - art. L234-17
   - Code de la route. - art. R317-24
 
-_Modifié par_:
-
-  - Décret n°2015-774 du 29 juin 2015 - art. 2
-
 _Cité par_:
 
   - Décret n°2020-605 du 18 mai 2020 - art. 13
-  - Code de la route. - art. R233-1 (M)
+  - Code de la route. - art. R233-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-605 du 18 mai 2020 - art. 9
 
 
 #### Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants<a id=116></a>
@@ -35512,17 +35564,21 @@ _Cite_:
 
 ###### Article R412-6-1
 
-L'usage d'un téléphone tenu en main par le conducteur d'un véhicule en circulation est interdit. 
+L'usage d'un téléphone tenu en main par le conducteur d'un véhicule en circulation est interdit.
 
 Est également interdit le port à l'oreille, par le conducteur d'un véhicule en circulation, de tout dispositif susceptible
-d'émettre du son, à l'exception des appareils électroniques correcteurs de surdité. 
+d'émettre du son, à l'exception des appareils électroniques correcteurs de surdité.
 
 Les dispositions du deuxième alinéa ne sont pas applicables aux conducteurs des véhicules d'intérêt général prioritaire
 prévus à l'article R. 311-1, ni dans le cadre de l'enseignement de la conduite des cyclomoteurs, motocyclettes, tricycles et
-quadricycles à moteur ou de l'examen du permis de conduire ces véhicules. 
+quadricycles à moteur ou de l'examen du permis de conduire ces véhicules.
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la quatrième classe. 
+contraventions de la quatrième classe.
+
+Tout conducteur coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de trois
+ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
 
 Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
 
@@ -35532,15 +35588,15 @@ _Codifié par_:
 
   - Décret n°2001-251 du 22 mars 2001
 
-_Modifié par_:
-
-  - Décret n°2015-743 du 24 juin 2015 - art. 1
-
 _Cité par_:
 
   - Arrêté du 19 décembre 2016 - art. (V)
   - Code de la route. - art. R121-6 (V)
   - Code de la route. - art. R130-11 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-605 du 18 mai 2020 - art. 10
 
 _Cite_:
 
