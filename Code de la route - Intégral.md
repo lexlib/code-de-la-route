@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2020-06-01
+Version Consolidée au 2020-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -138,7 +138,7 @@ Version Consolidée au 2020-06-01
           - [Section 1 : Eclairage et signalisation des véhicules. (art. R313-1 à R313-32)](#135)
           - [Section 2 : Signaux d'avertissement. (art. R313-33 à R313-35)](#136)
         - [Chapitre IV : Pneumatiques. (art. R314-1 à R314-7)](#137)
-        - [Chapitre V : Freinage. (art. R315-1 à R315-6)](#138)
+        - [Chapitre V : Freinage. (art. R315-1 à R315-7 )](#138)
         - [Chapitre VI : Organes de manoeuvre, de direction et de visibilité. (art. R316-1 à R316-10)](#139)
         - [Chapitre VII : Dispositifs et aménagements particuliers (art. R317-1 à R317-28)](#140)
           - [Section 1 : Appareils de contrôle et de limitation de la vitesse. (art. R317-1 à R317-7)](#141)
@@ -21396,32 +21396,34 @@ I.-Sauf pour les machines agricoles automotrices et les machines et instruments 
 véhicules ou parties de véhicules, y compris les superstructures amovibles et les pièces de cargaison normalisées telles que
 les conteneurs et caisses mobiles, mesurée toutes saillies comprises dans une section transversale quelconque, ne doit pas
 dépasser les valeurs suivantes, sauf dans les cas et conditions où des saillies excédant ce gabarit sont explicitement
-autorisées par arrêté du ministre chargé des transports : 
+autorisées par arrêté du ministre chargé des transports :
 
 1° 2,60 mètres pour les superstructures à parois épaisses conçues pour le transport de marchandises sous température
-dirigée ; 
+dirigée ;
 
-2° 2,55 mètres pour les autres véhicules ou parties de véhicules ; 
+2° 2,55 mètres pour les autres véhicules ou parties de véhicules ;
 
-3° 2,95 mètres pour les véhicules à traction animale dont la carrosserie ou les garde-boue ne surplombent pas les roues ; 
+3° 2,95 mètres pour les véhicules à traction animale dont la carrosserie ou les garde-boue ne surplombent pas les roues ;
 
 4° 2 mètres pour les motocyclettes, les tricycles, les cyclomoteurs à trois roues et quadricycles à moteur autres que les
 quadricycles légers de la sous-catégorie L6e-B et les quadricycles lourds de la sous-catégorie L7e-C ;
 
 5° 1 mètre pour les cyclomoteurs à deux roues ;
 
-6° 1,5 mètre pour les quadricycles légers de la sous-catégorie L6e-B et les quadricycles lourds de la sous-catégorie L7e-C. 
+6° 1,5 mètre pour les quadricycles légers de la sous-catégorie L6e-B et les quadricycles lourds de la sous-catégorie L7e-C ;
+
+7° 0,90 mètres pour les engins de déplacement personnel motorisés.
 
 II.-Le ministre chargé des transports détermine par arrêté les modalités d'application du présent article, les conditions
-dérogatoires applicables à certains matériels de travaux publics et fixe la largeur maximale des engins de service hivernal. 
+dérogatoires applicables à certains matériels de travaux publics et fixe la largeur maximale des engins de service hivernal.
 
 III.-Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
-prévue pour les contraventions de la quatrième classe. 
+prévue pour les contraventions de la quatrième classe.
 
 IV.-Toutefois, lorsque les dépassements excèdent les limites réglementaires de plus de 20 %, l'amende encourue est celle
-prévue pour les contraventions de la cinquième classe. 
+prévue pour les contraventions de la cinquième classe.
 
-V.-Dans ce cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal. 
+V.-Dans ce cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.
 
 VI.-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
@@ -21431,14 +21433,14 @@ _Codifié par_:
 
   - Décret n°2001-251 du 22 mars 2001
 
-_Modifié par_:
-
-  - Décret n°2017-16 du 6 janvier 2017 - art. 2
-
 _Cité par_:
 
   - Arrêté du 17 juin 2019 (V)
   - Code de la route. - art. R130-6 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 4
 
 _Cite_:
 
@@ -21503,6 +21505,8 @@ d'attelage et un point quelconque de l'avant de la semi-remorque ;
 11° Autres ensembles de véhicules : 18 mètres ; toutefois, la longueur d'un ensemble formé par un autobus ou un autocar et sa
 remorque peut atteindre 18,75 mètres ;
 
+12° Engins de déplacement personnel motorisés : 1,35 mètre.
+
 II. - Les dispositions du présent article ne sont pas applicables aux véhicules à traction animale.
 
 III. - Le ministre chargé des transports détermine par arrêté les modalités d'application du présent article et fixe la
@@ -21528,14 +21532,14 @@ _Codifié par_:
 
   - Décret n°2001-251 du 22 mars 2001
 
-_Modifié par_:
-
-  - Décret n°2018-1045 du 28 novembre 2018 - art. 1
-
 _Cité par_:
 
   - Arrêté du 17 juin 2019 (V)
   - Code de la route. - art. R433-15 (VD)
+
+_Modifié par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 5
 
 _Cite_:
 
@@ -22369,45 +22373,45 @@ _Créé par_:
 Feux de position avant.
 
 I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur doit être muni à l'avant de deux feux de
-position émettant vers l'avant une lumière blanche, orange  ou jaune, visible la nuit, par temps clair, à une distance de 150
-mètres, sans être éblouissante pour les autres conducteurs. 
+position émettant vers l'avant une lumière blanche, orange ou jaune, visible la nuit, par temps clair, à une distance de 150
+mètres, sans être éblouissante pour les autres conducteurs.
 
 Lorsque le véhicule est équipé d'un système d'éclairage avant adaptatif tel que défini à l'article R. 313-3-2, en mode
-d'éclairage en virage, le feu de position avant peut être orienté en même temps que le feu auquel il est incorporé. 
+d'éclairage en virage, le feu de position avant peut être orienté en même temps que le feu auquel il est incorporé.
 
 II.-Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues doit être muni à
-l'avant d'un ou de deux feux de position. 
+l'avant d'un ou de deux feux de position.
 
 III.-Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur à trois roues dépasse 1, 30
-mètre, il doit être muni à l'avant de deux feux de position. 
+mètre, il doit être muni à l'avant de deux feux de position.
 
 IV.-Tout side-car équipant une motocyclette doit être muni d'un feu de position avant.
 
 V.-Les dispositions du I ci-dessus ne sont pas applicables aux cyclomoteurs à deux roues qui, toutefois, peuvent être munis
-d'un ou de deux feux de position avant. 
+d'un ou de deux feux de position avant.
 
 VI.-Tout véhicule et matériel agricole ou de travaux publics, automoteur, tout véhicule, machine ou instrument agricole
-remorqué, peut être muni de deux feux de position avant supplémentaires. 
+remorqué, peut être muni de deux feux de position avant supplémentaires.
 
 VII.-Toute remorque peut être munie à l'avant de deux feux de position émettant vers l'avant une lumière blanche non
-éblouissante. 
+éblouissante.
 
 VIII.-La présence des feux de position visés au VII ci-dessus est obligatoire lorsque la largeur hors tout de la remorque
-dépasse 1, 60 mètre. 
+dépasse 1, 60 mètre.
 
 IX.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules de travaux publics remorqués.
 
-X.-La nuit, ou le jour lorsque la visibilité est insuffisante, tout cycle doit être muni d'un feu de position émettant vers
-l'avant une lumière non éblouissante, jaune ou blanche. 
+X.-La nuit, ou le jour lorsque la visibilité est insuffisante, tout engin de déplacement personnel motorisé ou cycle doit
+être muni d'un feu de position émettant vers l'avant une lumière non éblouissante, jaune ou blanche.
 
 XI.-Le fait, pour tout conducteur d'un véhicule à moteur, de contrevenir aux dispositions du présent article est puni de
-l'amende prévue pour les contraventions de la troisième classe. 
+l'amende prévue pour les contraventions de la troisième classe.
 
 XII.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
-feux de position avant, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
+feux de position avant, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
-XIII.-Le fait pour tout conducteur d'un cycle de contrevenir aux dispositions du présent article est puni de l'amende prévue
-pour les contraventions de la première classe.
+XIII.-Le fait pour tout conducteur d'un engin de déplacement personnel motorisé ou d'un cycle de contrevenir aux dispositions
+du présent article est puni de l'amende prévue pour les contraventions de la première classe.
 
 **Liens relatifs à cet article**
 
@@ -22417,7 +22421,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 10
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 7
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -22458,49 +22463,54 @@ _Modifié par_:
 
 ###### Article R313-5
 
-Feux de position arrière. 
+Feux de position arrière.
 
 I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur ou toute remorque doit être muni à
 l'arrière de deux feux de position émettant vers l'arrière une lumière rouge non éblouissante, visible la nuit, par temps
-clair, à une distance de 150 mètres. 
+clair, à une distance de 150 mètres.
 
 II.-Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur doit être muni d'un ou de deux
-feux de position arrière. 
+feux de position arrière.
 
 III.-Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur à trois roues dépasse 1,30
-mètre, il doit être muni de deux feux de position arrière. 
+mètre, il doit être muni de deux feux de position arrière.
 
-IV.-Tout side-car équipant une motocyclette doit être muni d'un feu de position arrière. 
+IV.-Tout side-car équipant une motocyclette doit être muni d'un feu de position arrière.
 
-V.-La nuit, ou le jour lorsque la visibilité est insuffisante, tout cycle doit être muni d'un feu de position arrière. Ce feu
-doit être nettement visible de l'arrière lorsque le véhicule est monté. 
+V.-La nuit, ou le jour lorsque la visibilité est insuffisante, tout engin de déplacement personnel motorisé ou cycle doit
+être muni d'un feu de position arrière. Ce feu doit être nettement visible de l'arrière lorsque le véhicule est monté.
 
 VI.-Lorsque la remorque d'une motocyclette, d'un tricycle à moteur, d'un quadricycle à moteur, d'un cyclomoteur ou d'un
 cycle, ou son chargement, sont susceptibles de masquer les feux de position arrière du véhicule tracteur, la remorque doit
 être munie du ou des dispositifs correspondants, dont le nombre est fixé à deux obligatoirement si la largeur de la remorque
-dépasse 1,30 mètre. 
+dépasse 1,30 mètre.
 
 VII.-Tout véhicule et matériel agricole ou de travaux publics doit être muni de deux feux de position arrière. Ces feux ne
 sont pas obligatoires pour les véhicules ou appareils remorqués qui ne masquent pas ceux du véhicule tracteur. Pour ces
-derniers véhicules ou appareils, ces feux peuvent en outre être fixés sur un support amovible. 
+derniers véhicules ou appareils, ces feux peuvent en outre être fixés sur un support amovible.
 
 VIII.-Les dispositions du présent article ne sont applicables aux véhicules et matériels spéciaux des services de secours et
-de lutte contre l'incendie que si elles sont compatibles avec leurs caractéristiques techniques de fabrication ou d'emploi. 
+de lutte contre l'incendie que si elles sont compatibles avec leurs caractéristiques techniques de fabrication ou d'emploi.
 
 IX.-Le fait, pour tout conducteur d'un véhicule à moteur, de contrevenir aux dispositions du présent article est puni de
-l'amende prévue pour les contraventions de la troisième classe. 
+l'amende prévue pour les contraventions de la troisième classe.
 
 X.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
-feux de position arrière, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
+feux de position arrière, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
-XI.-Le fait, pour tout conducteur d'un cycle, de contrevenir aux dispositions du présent article est puni de l'amende prévue
-pour les contraventions de la première classe.
+XI.-Le fait, pour tout conducteur d'un engin de déplacement personnel motorisé ou d'un cycle, de contrevenir aux dispositions
+du présent article est puni de l'amende prévue pour les contraventions de la première classe.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 7
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -22517,7 +22527,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R313-6
@@ -23052,18 +23062,18 @@ deux catadioptres arrière rouges, de forme non triangulaire pour les véhicules
 remorques.
 
 Toutefois, les remorques peuvent également être munies de deux catadioptres arrière rouges, de forme non triangulaire, à
-condition qu'ils soient groupés avec les dispositifs arrière de signalisation lumineuse. 
+condition qu'ils soient groupés avec les dispositifs arrière de signalisation lumineuse.
 
-II. - Toute motocyclette, tout cyclomoteur à deux roues, tout side-car équipant une motocyclette  doit être muni à l'arrière
+II. - Toute motocyclette, tout cyclomoteur à deux roues, tout side-car équipant une motocyclette doit être muni à l'arrière
 d'un catadioptre.
 
 III. - Tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues doit être muni d'un ou de deux
 catadioptres arrière.
 
-IV. - Tout cyclomoteur à trois roues ou tricycle  ou quadricycle à moteur dont la largeur dépasse 1 mètre doit être muni de
+IV. - Tout cyclomoteur à trois roues ou tricycle ou quadricycle à moteur dont la largeur dépasse 1 mètre doit être muni de
 deux catadioptres arrière.
 
-V. - Tout cycle doit être muni d'un ou plusieurs catadioptres arrière.
+V. - Tout engin de déplacement personnel motorisé ou cycle doit être muni d'un ou plusieurs catadioptres arrière.
 
 VI. - Lorsque la remorque d'une motocyclette, d'un quadricycle à moteur, d'un tricycle à moteur, d'un cyclomoteur ou d'un
 cycle, ou son chargement, masque le ou les catadioptres du véhicule tracteur, la remorque doit être munie du ou des
@@ -23086,14 +23096,15 @@ IX. - Pour tout véhicule ou appareil agricole remorqué ou tout matériel de tr
 X. - Le fait, pour tout conducteur d'un véhicule à moteur ou à traction animale, de contrevenir aux dispositions du présent
 article est puni de l'amende prévue pour les contraventions de la troisième classe.
 
-XI. - Le fait, pour tout conducteur d'un cycle, de contrevenir aux dispositions du présent article est puni de l'amende
-prévue pour les contraventions de la première classe.
+XI. - Le fait, pour tout conducteur d'un engin de déplacement personnel motorisé ou d'un cycle, de contrevenir aux
+dispositions du présent article est puni de l'amende prévue pour les contraventions de la première classe.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 20
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 7
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -23119,18 +23130,18 @@ tout tricycle, tout quadricycle doit être muni d'au moins un ou de deux catadio
 orangée.
 
 I bis. - Les catadioptres latéraux placés dans la partie arrière des véhicules de la catégorie L1e peuvent être de couleur
-rouge. 
+rouge.
 
 II. - Tout autre véhicule à moteur peut être muni d'un ou de deux catadioptres latéraux, non triangulaires, de couleur
 orangée.
 
-III. - Tout cycle doit être muni de catadioptres orange visibles latéralement.
+III. - Tout engin de déplacement personnel motorisé ou cycle doit être muni de catadioptres orange visibles latéralement.
 
 IV. - Le fait, pour tout conducteur d'un véhicule à moteur, de contrevenir aux dispositions du présent article est puni de
 l'amende prévue pour les contraventions de la troisième classe.
 
-V. - Le fait, pour tout conducteur d'un cycle, de contrevenir aux dispositions du présent article est puni de l'amende prévue
-pour les contraventions de la première classe.
+V. - Le fait, pour tout conducteur d'un engin de déplacement personnel motorisé ou d'un cycle, de contrevenir aux
+dispositions du présent article est puni de l'amende prévue pour les contraventions de la première classe.
 
 **Liens relatifs à cet article**
 
@@ -23140,7 +23151,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 21
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 7
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -23167,7 +23179,7 @@ catadioptres.
 III. - Les pédales de tout cycle, cyclomoteur ou quadricycle léger à moteur doivent comporter des catadioptres de couleur
 orangée, sauf dans le cas des cyclomoteurs à deux roues à pédales rétractables.
 
-IV. - Tout cycle doit être muni d'un catadioptre blanc visible de l'avant.
+IV. - Tout engin de déplacement personnel motorisé ou cycle doit être muni d'un catadioptre blanc visible de l'avant.
 
 V. - Tout cycle peut comporter à l'arrière et à gauche un dispositif écarteur de danger.
 
@@ -23178,8 +23190,8 @@ avant, réfléchissant une lumière blanche.
 VII. - Le fait, pour tout conducteur d'un véhicule à moteur ou à traction animale, de contrevenir aux dispositions du présent
 article est puni de l'amende prévue pour les contraventions de la troisième classe.
 
-VIII. - Le fait, pour tout conducteur d'un cycle, de contrevenir aux dispositions du présent article est puni de l'amende
-prévue pour les contraventions de la première classe.
+VIII. - Le fait, pour tout conducteur d'un engin de déplacement personnel motorisé ou d'un cycle, de contrevenir aux
+dispositions du présent article est puni de l'amende prévue pour les contraventions de la première classe.
 
 **Liens relatifs à cet article**
 
@@ -23198,7 +23210,8 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 22
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 7
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 8
 
 
 ###### Article R313-21
@@ -23625,25 +23638,30 @@ route. Il peut être muni d'un avertisseur sonore pour l'usage urbain.
 Les dispositifs sonores sont conformes à des types homologués répondant à des spécifications déterminées par le ministre
 chargé des transports.
 
-Tout cycle doit être muni d'un appareil avertisseur constitué par un timbre ou un grelot dont le son peut être entendu à 50
-mètres au moins. L'emploi de tout autre signal sonore est interdit.
+Tout engin de déplacement personnel motorisé ou cycle doit être muni d'un appareil avertisseur constitué par un timbre ou un
+grelot dont le son peut être entendu à 50 mètres au moins. L'emploi de tout autre signal sonore est interdit.
 
 Le fait, pour tout conducteur d'un véhicule à moteur, de contrevenir aux dispositions du présent article est puni de l'amende
 prévue pour les contraventions de la troisième classe.
 
-Le fait, pour tout conducteur d'un cycle, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour
-les contraventions de la première classe.
+Le fait, pour tout conducteur d'un engin de déplacement personnel motorisé ou d'un cycle, de contrevenir aux dispositions du
+présent article est puni de l'amende prévue pour les contraventions de la première classe.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
   - Arrêté du 14 mars 2012 - art. 3 (V)
   - Code de la route. - art. R342-3 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 7
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -24181,6 +24199,21 @@ _Anciens textes_:
 **Liens**:
 
   - SPEC_APPLI: Code de la route. - art. R315-5 (V)
+
+
+###### Article R315-7 
+
+I. - Tout engin de déplacement personnel motorisé doit être muni d'un dispositif de freinage efficace, dont les
+caractéristiques sont fixées par un arrêté du ministre chargé de la sécurité routière et du ministre chargé des transports.
+
+II. - Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la première classe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1082 du 23 octobre 2019 - art. 11
 
 
 #### Chapitre VI : Organes de manoeuvre, de direction et de visibilité.<a id=139></a>
