@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2020-08-16
+Version Consolidée au 2020-08-27
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -12865,7 +12865,7 @@ _Cite_:
 ###### Article R130-6
 
 Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre
-chargé des transports peuvent constater par procès-verbal : 
+chargé des transports peuvent constater par procès-verbal :
 
 1° Les contraventions aux dispositions des articles R. 121-1 à R. 121-5, R. 221-1-1, R. 221-20, R. 233-1, R. 233-2, R. 234-6,
 R. 311-3, R. 312-2 à R. 312-6, R. 312-10 à R. 312-14, R. 312-19 à R. 312-23, R. 313-1 à R. 313-7, R. 313-9, R. 313-10, R.
@@ -12873,15 +12873,15 @@ R. 311-3, R. 312-2 à R. 312-6, R. 312-10 à R. 312-14, R. 312-19 à R. 312-23, 
 315-1, R. 315-2, R. 316-1, R. 316-3, R. 316-4, R. 316-6, R. 316-7, R. 316-8, R. 317-1, R. 317-3, R. 317-4, R. 317-5, R. 317-8
 à R. 317-14, R. 317-18, R. 317-20, R. 317-23, R. 317-24, R. 317-24-1, R. 317-26, R. 317-28, R. 318-1, R. 318-3, R. 318-4, R.
 322-1, R. 323-1, R. 323-2, R. 323-6, R. 323-22, R. 323-23 à R. 323-26, R. 325-2, R. 325-8, R. 411-17, R. 411-18, R. 411-19,
-R. 411-21, R. 411-21-1, R. 411-23, R. 411-23-1, R. 411-23-2, R. 412-1, R. 412-13, R. 412-16, R. 433-1 à R. 433-8, R. 433-11,
-R. 433-12, R. 433-14 à R. 433-16, R. 433-20, R. 435-1 et R. 435-3 ainsi que, lorsqu'elles sont commises par le conducteur
-d'un véhicule qui doit être équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux dispositions
-relatives aux vitesses maximales autorisées par le présent code ; 
+R. 411-19-1, R. 411-21, R. 411-21-1, R. 411-23, R. 411-23-1, R. 411-23-2, R. 412-1, R. 412-13, R. 412-16, R. 433-1 à R.
+433-8, R. 433-11, R. 433-12, R. 433-14 à R. 433-16, R. 433-20, R. 435-1 et R. 435-3 ainsi que, lorsqu'elles sont commises par
+le conducteur d'un véhicule qui doit être équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux
+dispositions relatives aux vitesses maximales autorisées par le présent code ;
 
 2° Toutes les autres contraventions prévues aux 1° et 2° de l'article R. 130-1 lorsqu'elles sont connexes à des infractions
 aux dispositions législatives relatives à l'accès aux professions du transport ferroviaire ou guidé et du transport routier
 et à leurs conditions d'exercice prévues au livre IV de la première partie et à la troisième partie du code des transports
-ainsi qu'aux dispositions réglementaires prises pour leur application ; 
+ainsi qu'aux dispositions réglementaires prises pour leur application ;
 
 3° Les contraventions prévues à l'article R. 211-14 du code des assurances.
 
@@ -12895,44 +12895,44 @@ _Codifié par_:
 
   - Décret n°2001-251 du 22 mars 2001
 
-_Modifié par_:
-
-  - Décret n°2017-15 du 6 janvier 2017 - art. 1
-
 _Cité par_:
 
   - Décret n°2017-198 du 16 février 2017 (V)
   - Décret n°2020-1088 du 24 août 2020 - art. 3
 
+_Modifié par_:
+
+  - Décret n°2020-1088 du 24 août 2020 - art. 3
+
 _Cite_:
 
   - Code des assurances - art. R*211-14
-  - Code de la route. - art. R121-1 (V)
-  - Code de la route. - art. R130-1 (V)
-  - Code de la route. - art. R221-1-1 (V)
-  - Code de la route. - art. R221-20 (V)
-  - Code de la route. - art. R233-1 (V)
-  - Code de la route. - art. R234-6 (V)
-  - Code de la route. - art. R311-3 (V)
-  - Code de la route. - art. R312-2 (V)
+  - Code de la route. - art. R121-1
+  - Code de la route. - art. R130-1
+  - Code de la route. - art. R221-1-1
+  - Code de la route. - art. R221-20
+  - Code de la route. - art. R233-1
+  - Code de la route. - art. R234-6
+  - Code de la route. - art. R311-3
+  - Code de la route. - art. R312-2
   - Code de la route. - art. R313-1 (V)
   - Code de la route. - art. R314-1 (V)
   - Code de la route. - art. R315-1 (V)
-  - Code de la route. - art. R316-1 (V)
+  - Code de la route. - art. R316-1
   - Code de la route. - art. R317-1 (V)
-  - Code de la route. - art. R318-1 (V)
-  - Code de la route. - art. R322-1 (V)
-  - Code de la route. - art. R323-1 (V)
-  - Code de la route. - art. R323-22 (V)
-  - Code de la route. - art. R325-2 (V)
-  - Code de la route. - art. R325-8 (V)
-  - Code de la route. - art. R411-17 (V)
-  - Code de la route. - art. R411-23 (V)
-  - Code de la route. - art. R412-1 (V)
-  - Code de la route. - art. R412-13 (V)
-  - Code de la route. - art. R412-16 (V)
-  - Code de la route. - art. R433-1 (VT)
-  - Code de la route. - art. R435-1 (V)
+  - Code de la route. - art. R318-1
+  - Code de la route. - art. R322-1
+  - Code de la route. - art. R323-1
+  - Code de la route. - art. R323-22
+  - Code de la route. - art. R325-2
+  - Code de la route. - art. R325-8
+  - Code de la route. - art. R411-17
+  - Code de la route. - art. R411-23
+  - Code de la route. - art. R412-1
+  - Code de la route. - art. R412-13
+  - Code de la route. - art. R412-16
+  - Code de la route. - art. R433-1
+  - Code de la route. - art. R435-1
   - Code de la route. - art. R435-3
 
 _Anciens textes_:
@@ -23026,16 +23026,23 @@ III. - Les chaînes, bâches et autres accessoires, mobiles ou flottants, doiven
 IV. - Le fait, pour tout conducteur, de contrevenir aux dispositions du II ou du III ci-dessus est puni de l'amende prévue
 pour les contraventions de la troisième classe.
 
+V. - L'immobilisation des véhicules qui contreviennent aux dispositions du présent article peut être prescrite dans les
+conditions prévues aux articles L. 325-1, L. 325-2 et L. 325-3.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Cité par_:
 
   - Arrêté du 23 avril 2012 - art. 1 (V)
   - Code de la route. - art. R130-6 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -23046,10 +23053,6 @@ _Anciens textes_:
   - Code de la route - art. R65 (Ab)
   - Code de la route - art. R68 (Ab)
   - Code de la route R65, R68, R146, R171, R212, R239
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R312-25 (V)
 
 
 ###### Article R312-20
@@ -23304,19 +23307,22 @@ _Anciens textes_:
 ###### Article R313-1
 
 Tout véhicule ne peut être pourvu que des dispositifs d'éclairage ou de signalisation prévus au présent code. Ceux-ci doivent
-être installés conformément aux prescriptions du présent chapitre. 
+être installés conformément aux prescriptions du présent chapitre.
 
 Ces dispositions ne concernent pas l'éclairage intérieur des véhicules sous réserve qu'il ne soit pas gênant pour les autres
-conducteurs. 
+conducteurs.
 
 Le fait, pour tout conducteur d'un véhicule à moteur ou à traction animale, de contrevenir aux dispositions du présent
-article est puni de l'amende prévue pour les contraventions de la troisième classe. 
+article est puni de l'amende prévue pour les contraventions de la troisième classe.
 
 Le fait, pour tout conducteur d'un engin de déplacement personnel motorisé ou d'un cycle, de contrevenir aux dispositions du
-présent article est puni de l'amende prévue pour les contraventions de la première classe. 
+présent article est puni de l'amende prévue pour les contraventions de la première classe.
 
 Les dispositions des articles R. 313-2, R. 313-3, R. 313-3-1 à R. 313-3-4, R. 313-4-1, R. 313-6 à R. 313-17 et R. 313-17-1 ne
 sont pas applicables aux engins de déplacement personnel motorisés.
+
+L'immobilisation des véhicules qui contreviennent aux dispositions du présent article peut être prescrite dans les conditions
+prévues aux articles L. 325-1, L.325-2 et L. 325-3.
 
 **Liens relatifs à cet article**
 
@@ -23327,11 +23333,11 @@ _Codifié par_:
 _Cité par_:
 
   - Décret n°2003-416 du 30 avril 2003 - art. 2 (AbD)
-  - Code de la route. - art. R130-6 (VD)
+  - Code de la route. - art. R130-6 (V)
 
 _Modifié par_:
 
-  - Décret n°2019-1082 du 23 octobre 2019 - art. 6
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -23342,14 +23348,14 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. R313-17-1
-  - Code de la route. - art. R313-2
+  - Code de la route. - art. R313-2 (V)
   - Code de la route. - art. R313-3-1
   - Code de la route. - art. R313-6
 
 
 ###### Article R313-2
 
-Feux de route.
+Feux de route. 
 
 I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur doit être muni à l'avant de deux ou de
 quatre feux de route émettant vers l'avant une lumière jaune ou blanche permettant d'éclairer efficacement la route la nuit,
@@ -23365,10 +23371,10 @@ III.-Tout tricycle à moteur ou quadricycle lourd à moteur, dont la largeur dé
 deux feux de route. 
 
 IV.-Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs ni aux quadricycles légers à moteur qui,
-toutefois, peuvent être munis d'un ou de deux feux de route.
+toutefois, peuvent être munis d'un ou de deux feux de route. 
 
-V.-Lorsqu'un cyclomoteur à trois roues ou un quadricycle léger à moteur, dont la largeur dépasse 1, 30 mètre, est muni de
-feux de route, ceux-ci doivent être au nombre de deux. 
+V.-Lorsqu'un cyclomoteur à trois roues ou un quadricycle léger à moteur, dont la largeur dépasse 1,30 mètre, est muni de feux
+de route, ceux-ci doivent être au nombre de deux. 
 
 VI.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et matériels agricoles ou de travaux publics,
 automoteurs, qui, toutefois, peuvent être munis de deux ou de quatre feux de route. 
@@ -23377,13 +23383,14 @@ VII.-Le fait de contrevenir aux dispositions du présent article est puni de l'a
 troisième classe. 
 
 VIII.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
-feux de route, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+feux de route, l'immobilisation peut être prescrite dans les conditions prévues aux articles          L. 325-1, L. 325-2 et
+L. 325-3.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-1095 du 28 octobre 2008 - art. 1
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -23402,13 +23409,13 @@ _Cite_:
 
 _Cité par_:
 
-  - Code de la route. - art. R313-1 (M)
+  - Code de la route. - art. R313-1 (V)
   - Code de la route. - art. R313-3-2 (V)
 
 
 ###### Article R313-3
 
-Feux de croisement.
+Feux de croisement. 
 
 I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur doit être muni à l'avant de deux feux de
 croisement, émettant vers l'avant une lumière jaune ou blanche permettant d'éclairer efficacement la route la nuit, par temps
@@ -23420,27 +23427,28 @@ adaptatif tel que défini à l'article R. 313-3-2.
 II.-Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur doit être muni à l'avant d'un ou
 de deux feux de croisement. 
 
-III.-Tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues, dont la largeur dépasse 1, 30 mètre,
+III.-Tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues, dont la largeur dépasse 1,30 mètre,
 doit être muni à l'avant de deux feux de croisement. 
 
 IV.-Tout véhicule et matériel agricole ou de travaux publics, automoteur, peut être muni de deux feux de croisement
-supplémentaires.
+supplémentaires. 
 
 V.-Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la troisième classe. 
 
 VI.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
-feux de croisement, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+feux de croisement, l'immobilisation peut être prescrite dans les conditions prévues aux articles          L. 325-1, L. 325-2
+et L. 325-3.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2008-1095 du 28 octobre 2008 - art. 2
 
 _Cité par_:
 
   - Arrêté du 14 mars 2012 - art. 3 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -23545,45 +23553,46 @@ _Créé par_:
 
 ###### Article R313-4
 
-Feux de position avant.
+Feux de position avant. 
 
 I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur doit être muni à l'avant de deux feux de
 position émettant vers l'avant une lumière blanche, orange ou jaune, visible la nuit, par temps clair, à une distance de 150
-mètres, sans être éblouissante pour les autres conducteurs.
+mètres, sans être éblouissante pour les autres conducteurs. 
 
 Lorsque le véhicule est équipé d'un système d'éclairage avant adaptatif tel que défini à l'article R. 313-3-2, en mode
-d'éclairage en virage, le feu de position avant peut être orienté en même temps que le feu auquel il est incorporé.
+d'éclairage en virage, le feu de position avant peut être orienté en même temps que le feu auquel il est incorporé. 
 
 II.-Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues doit être muni à
-l'avant d'un ou de deux feux de position.
+l'avant d'un ou de deux feux de position. 
 
-III.-Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur à trois roues dépasse 1, 30
-mètre, il doit être muni à l'avant de deux feux de position.
+III.-Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur à trois roues dépasse 1,30
+mètre, il doit être muni à l'avant de deux feux de position. 
 
-IV.-Tout side-car équipant une motocyclette doit être muni d'un feu de position avant.
+IV.-Tout side-car équipant une motocyclette doit être muni d'un feu de position avant. 
 
 V.-Les dispositions du I ci-dessus ne sont pas applicables aux cyclomoteurs à deux roues qui, toutefois, peuvent être munis
-d'un ou de deux feux de position avant.
+d'un ou de deux feux de position avant. 
 
 VI.-Tout véhicule et matériel agricole ou de travaux publics, automoteur, tout véhicule, machine ou instrument agricole
-remorqué, peut être muni de deux feux de position avant supplémentaires.
+remorqué, peut être muni de deux feux de position avant supplémentaires. 
 
 VII.-Toute remorque peut être munie à l'avant de deux feux de position émettant vers l'avant une lumière blanche non
-éblouissante.
+éblouissante. 
 
 VIII.-La présence des feux de position visés au VII ci-dessus est obligatoire lorsque la largeur hors tout de la remorque
-dépasse 1, 60 mètre.
+dépasse 1,60 mètre. 
 
-IX.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules de travaux publics remorqués.
+IX.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules de travaux publics remorqués. 
 
 X.-La nuit, ou le jour lorsque la visibilité est insuffisante, tout engin de déplacement personnel motorisé ou cycle doit
-être muni d'un feu de position émettant vers l'avant une lumière non éblouissante, jaune ou blanche.
+être muni d'un feu de position émettant vers l'avant une lumière non éblouissante, jaune ou blanche. 
 
 XI.-Le fait, pour tout conducteur d'un véhicule à moteur, de contrevenir aux dispositions du présent article est puni de
-l'amende prévue pour les contraventions de la troisième classe.
+l'amende prévue pour les contraventions de la troisième classe. 
 
 XII.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
-feux de position avant, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+feux de position avant, l'immobilisation peut être prescrite dans les conditions prévues aux articles          L. 325-1, L.
+325-2 et L. 325-3. 
 
 XIII.-Le fait pour tout conducteur d'un engin de déplacement personnel motorisé ou d'un cycle de contrevenir aux dispositions
 du présent article est puni de l'amende prévue pour les contraventions de la première classe.
@@ -23597,8 +23606,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1082 du 23 octobre 2019 - art. 7
-  - Décret n°2019-1082 du 23 octobre 2019 - art. 8
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -23639,40 +23647,41 @@ _Modifié par_:
 
 ###### Article R313-5
 
-Feux de position arrière.
+Feux de position arrière. 
 
 I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur ou toute remorque doit être muni à
 l'arrière de deux feux de position émettant vers l'arrière une lumière rouge non éblouissante, visible la nuit, par temps
-clair, à une distance de 150 mètres.
+clair, à une distance de 150 mètres. 
 
 II.-Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur doit être muni d'un ou de deux
-feux de position arrière.
+feux de position arrière. 
 
 III.-Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur à trois roues dépasse 1,30
-mètre, il doit être muni de deux feux de position arrière.
+mètre, il doit être muni de deux feux de position arrière. 
 
-IV.-Tout side-car équipant une motocyclette doit être muni d'un feu de position arrière.
+IV.-Tout side-car équipant une motocyclette doit être muni d'un feu de position arrière. 
 
 V.-La nuit, ou le jour lorsque la visibilité est insuffisante, tout engin de déplacement personnel motorisé ou cycle doit
-être muni d'un feu de position arrière. Ce feu doit être nettement visible de l'arrière lorsque le véhicule est monté.
+être muni d'un feu de position arrière. Ce feu doit être nettement visible de l'arrière lorsque le véhicule est monté. 
 
 VI.-Lorsque la remorque d'une motocyclette, d'un tricycle à moteur, d'un quadricycle à moteur, d'un cyclomoteur ou d'un
 cycle, ou son chargement, sont susceptibles de masquer les feux de position arrière du véhicule tracteur, la remorque doit
 être munie du ou des dispositifs correspondants, dont le nombre est fixé à deux obligatoirement si la largeur de la remorque
-dépasse 1,30 mètre.
+dépasse 1,30 mètre. 
 
 VII.-Tout véhicule et matériel agricole ou de travaux publics doit être muni de deux feux de position arrière. Ces feux ne
 sont pas obligatoires pour les véhicules ou appareils remorqués qui ne masquent pas ceux du véhicule tracteur. Pour ces
-derniers véhicules ou appareils, ces feux peuvent en outre être fixés sur un support amovible.
+derniers véhicules ou appareils, ces feux peuvent en outre être fixés sur un support amovible. 
 
 VIII.-Les dispositions du présent article ne sont applicables aux véhicules et matériels spéciaux des services de secours et
-de lutte contre l'incendie que si elles sont compatibles avec leurs caractéristiques techniques de fabrication ou d'emploi.
+de lutte contre l'incendie que si elles sont compatibles avec leurs caractéristiques techniques de fabrication ou d'emploi. 
 
 IX.-Le fait, pour tout conducteur d'un véhicule à moteur, de contrevenir aux dispositions du présent article est puni de
-l'amende prévue pour les contraventions de la troisième classe.
+l'amende prévue pour les contraventions de la troisième classe. 
 
 X.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
-feux de position arrière, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+feux de position arrière, l'immobilisation peut être prescrite dans les conditions prévues aux articles          L. 325-1, L.
+325-2 et L. 325-3. 
 
 XI.-Le fait, pour tout conducteur d'un engin de déplacement personnel motorisé ou d'un cycle, de contrevenir aux dispositions
 du présent article est puni de l'amende prévue pour les contraventions de la première classe.
@@ -23683,14 +23692,13 @@ _Codifié par_:
 
   - Décret n°2001-251 du 22 mars 2001
 
-_Modifié par_:
-
-  - Décret n°2019-1082 du 23 octobre 2019 - art. 7
-  - Décret n°2019-1082 du 23 octobre 2019 - art. 8
-
 _Cité par_:
 
   - Arrêté du 24 juin 2020 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -23723,6 +23731,9 @@ forestier peut être muni de ces feux.
 III. - Le fait, pour tout conducteur, de contrevenir aux dispositions du I ci-dessus est puni de l'amende prévue pour les
 contraventions de la troisième classe.
 
+IV. - L'immobilisation des véhicules qui contreviennent aux dispositions du présent article peut être prescrite dans les
+conditions prévues aux articles L. 325-1, L. 325-2 et L. 325-3.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -23731,7 +23742,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 12
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Cité par_:
 
@@ -23740,11 +23751,11 @@ _Cité par_:
 
 ###### Article R313-7
 
-Feux stop.
+Feux stop. 
 
 I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur ou toute remorque dont le poids total
-autorisé en charge est supérieur à 0, 5 tonne doit être muni à l'arrière de deux ou de trois feux stop émettant vers
-l'arrière une lumière rouge non éblouissante. 
+autorisé en charge est supérieur à 0,5 tonne doit être muni à l'arrière de deux ou de trois feux stop émettant vers l'arrière
+une lumière rouge non éblouissante. 
 
 II.-Les feux stop doivent s'allumer lors de l'entrée en action du dispositif de freinage principal. 
 
@@ -23754,27 +23765,28 @@ l'article R. 313-17-1.
 III.-Leur intensité lumineuse doit être notablement supérieure à celle des feux de position arrière tout en demeurant non
 éblouissante. 
 
-IV. - Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur doit être muni à l'arrière
-d'un, deux ou trois feux stop.
+IV.-Toute motocyclette, tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur doit être muni à l'arrière d'un,
+deux ou trois feux stop. 
 
 V.-Tout side-car équipant une motocyclette doit être muni à l'arrière d'un feu stop. 
 
-VI.-Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur à trois roues dépasse 1, 30
+VI.-Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur à trois roues dépasse 1,30
 mètre, il doit être muni à l'arrière de deux feux stop. 
 
 VII.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et matériels agricoles ou de travaux publics qui,
-toutefois, peuvent être munis à l'arrière de deux ou trois  feux stop répondant aux caractéristiques prévues par le présent
+toutefois, peuvent être munis à l'arrière de deux ou trois feux stop répondant aux caractéristiques prévues par le présent
 article. 
 
-VIII.-Lorsqu'une remorque d'un poids total autorisé en charge inférieur ou égal à 0, 5 tonne ou son chargement masque le ou
+VIII.-Lorsqu'une remorque d'un poids total autorisé en charge inférieur ou égal à 0,5 tonne ou son chargement masque le ou
 les feux stop du véhicule tracteur, la remorque doit être munie du ou des dispositifs correspondants, dont le nombre est fixé
-à deux obligatoirement si la largeur de la remorque dépasse 1, 30 mètre. 
+à deux obligatoirement si la largeur de la remorque dépasse 1,30 mètre. 
 
 IX.-Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la troisième classe.
+contraventions de la troisième classe. 
 
 X.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
-feux stop, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+feux stop, l'immobilisation peut être prescrite dans les conditions prévues aux articles          L. 325-1, L. 325-2 et L.
+325-3.
 
 **Liens relatifs à cet article**
 
@@ -23785,7 +23797,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 13
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -23901,13 +23913,14 @@ automoteurs, qui, toutefois, peuvent être munis des feux qu'il prévoit.
 
 V.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et matériels agricoles ou de travaux publics
 remorqués à l'exception des véhicules, machines ou instruments agricoles remorqués d'une largeur supérieure à 1,8 m qui
-peuvent être munis des feux qu'il prévoit.  
+peuvent être munis des feux qu'il prévoit. 
 
 VI.-Le fait, pour tout conducteur, de contrevenir aux dispositions du I ci-dessus est puni de l'amende prévue pour les
 contraventions de la troisième classe. 
 
 VII.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
-feux d'encombrement, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+feux d'encombrement, l'immobilisation peut être prescrite dans les conditions prévues aux articles          L. 325-1, L.
+325-2 et L. 325-3.
 
 **Liens relatifs à cet article**
 
@@ -23917,7 +23930,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 14
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -24024,7 +24037,8 @@ Le fait, pour tout conducteur, de contrevenir aux dispositions relatives à l'in
 réfléchissants mentionnés au présent article est puni de l'amende prévue pour les contraventions de la troisième classe. 
 
 La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité du feu
-d'éclairage du panneau D, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
+d'éclairage du panneau D, l'immobilisation peut être prescrite dans les conditions prévues aux articles          L. 325-1, L.
+325-2 et L. 325-3. 
 
 Le fait pour tout conducteur, dans les conditions visées au présent article, de circuler sans faire usage du dispositif
 d'éclairage du panneau D est puni de l'amende prévue pour les contraventions de la quatrième classe.
@@ -24033,7 +24047,11 @@ d'éclairage du panneau D est puni de l'amende prévue pour les contraventions d
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -24045,7 +24063,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-1
 
 _Cité par_:
 
@@ -24054,11 +24072,11 @@ _Cité par_:
 
 ###### Article R313-14
 
-Feux indicateurs de direction.
+Feux indicateurs de direction. 
 
-I.-Tout véhicule à moteur ou toute remorque dont le poids total autorisé en charge est supérieur à 0, 5 tonne doit être
-pourvu de feux indicateurs de direction à position fixe et à lumière clignotante. Ces dispositifs doivent émettre une lumière
-non éblouissante orangée vers l'avant et vers l'arrière. 
+I.-Tout véhicule à moteur ou toute remorque dont le poids total autorisé en charge est supérieur à 0,5 tonne doit être pourvu
+de feux indicateurs de direction à position fixe et à lumière clignotante. Ces dispositifs doivent émettre une lumière non
+éblouissante orangée vers l'avant et vers l'arrière. 
 
 Ces feux peuvent également s'activer dans les conditions du signal de détresse ou du freinage d'urgence telles que définies
 aux articles R. 313-17 et R. 313-17-1. 
@@ -24066,19 +24084,19 @@ aux articles R. 313-17 et R. 313-17-1.
 II.-Les dispositions du I ci-dessus ne sont pas applicables aux cyclomoteurs qui, toutefois, peuvent être munis de feux
 indicateurs de direction. 
 
-III.-Lorsqu'une remorque d'un poids total autorisé en charge inférieur ou égal à 0, 5 tonne ou un appareil agricole ou de
+III.-Lorsqu'une remorque d'un poids total autorisé en charge inférieur ou égal à 0,5 tonne ou un appareil agricole ou de
 travaux publics remorqué, ou son chargement masque les feux indicateurs de direction du véhicule tracteur, la remorque ou
 l'appareil doit être muni des dispositifs correspondants. 
 
 IV.-Pour tout véhicule ou matériel agricole ou de travaux publics remorqué, les feux indicateurs de direction peuvent être
-fixés sur un support amovible.
+fixés sur un support amovible. 
 
 V.-Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la troisième classe. 
 
 VI.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des
-feux indicateurs de direction, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L.
-325-3.
+feux indicateurs de direction, l'immobilisation peut être prescrite dans les conditions prévues aux articles          L.
+325-1, L. 325-2 et L. 325-3.
 
 **Liens relatifs à cet article**
 
@@ -24089,7 +24107,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 17
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -24107,7 +24125,7 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. L325-1
-  - Code de la route. - art. R313-17 (V)
+  - Code de la route. - art. R313-17
 
 
 ###### Article R313-15
@@ -24420,13 +24438,17 @@ contraventions de la troisième classe.
 
 La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des feux
 ou dispositifs exigés par le présent article, l'immobilisation peut être prescrite dans les conditions prévues aux articles
-L. 325-1 à L. 325-3.
+L. 325-1, L. 325-2 et L. 325-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -24437,7 +24459,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R313-22
@@ -24536,20 +24558,19 @@ _Cité par_:
 
 ###### Article R313-24
 
-I. - Le ministre chargé des transports fixe par arrêté les conditions dans lesquelles sont assurées les connexions
-électriques des véhicules à moteur et de leurs remorques permettant le fonctionnement des dispositifs d'éclairage et de
-signalisation. 
+I.-Le ministre chargé des transports fixe par arrêté les conditions dans lesquelles sont assurées les connexions électriques
+des véhicules à moteur et de leurs remorques permettant le fonctionnement des dispositifs d'éclairage et de signalisation. 
 
-II. - (Abrogé)
+II.-(Abrogé) 
 
-III. - (Abrogé)
+III.-(Abrogé) 
 
-IV. - Le fait de contrevenir aux dispositions prises en application du I du présent article est puni de l'amende prévue pour
+IV.-Le fait de contrevenir aux dispositions prises en application du I du présent article est puni de l'amende prévue pour
 les contraventions de la troisième classe. 
 
-V. - La nuit, ou le jour lorsque la visibilité est insuffisante, en cas de non-conformité ou de défectuosité des équipements
-exigés par le présent article, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L.
-325-3.
+V.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas de non-conformité ou de défectuosité des équipements
+exigés par le présent article, l'immobilisation peut être prescrite dans les conditions prévues aux articles          L.
+325-1, L. 325-2 et L. 325-3.
 
 **Liens relatifs à cet article**
 
@@ -24559,7 +24580,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 23
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -24704,13 +24725,17 @@ aux véhicules d'intérêt général est puni de l'amende prévue pour les contr
 
 Ces feux peuvent être saisis et confisqués. 
 
-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+L'immobilisation peut être prescrite dans les conditions prévues aux articles          L. 325-1, L. 325-2 et L. 325-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -24720,7 +24745,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R313-30
@@ -24926,29 +24951,30 @@ _Anciens textes_:
 ###### Article R314-1
 
 Les roues de tout véhicule à moteur et de toute remorque, à l'exception des véhicules et appareils agricoles et des engins de
-déplacement personnel motorisés, doivent être munies de pneumatiques.
+déplacement personnel motorisés, doivent être munies de pneumatiques. 
 
 Les pneumatiques, à l'exception de ceux des matériels de travaux publics, doivent présenter sur toute leur surface de
-roulement des sculptures apparentes.
+roulement des sculptures apparentes. 
 
-Aucune toile ne doit apparaître ni en surface ni à fond de sculpture des pneumatiques.
+Aucune toile ne doit apparaître ni en surface ni à fond de sculpture des pneumatiques. 
 
-En outre, ceux-ci ne doivent comporter sur leurs flancs aucune déchirure profonde.
+En outre, ceux-ci ne doivent comporter sur leurs flancs aucune déchirure profonde. 
 
 Lorsque les véhicules et appareils agricoles et les engins de déplacement personnel motorisés sont munis de pneumatiques,
 ceux-ci ne doivent comporter sur leurs flancs aucune déchirure profonde et aucune toile ne doit apparaître ni en surface ni
-en fond de sculpture.
+en fond de sculpture. 
 
 La nature, la forme, l'état et les conditions d'utilisation des pneumatiques et autres dispositifs prévus par le présent
-article sont déterminés par arrêté du ministre chargé des transports.
+article sont déterminés par arrêté du ministre chargé des transports. 
 
 Le ministre chargé des transports peut accorder des dérogations aux obligations prévues au présent article pour les matériels
-de travaux publics.
+de travaux publics. 
 
 Le fait de contrevenir aux dispositions du présent article relatives à la nature, la forme, l'état et les conditions
-d'utilisation des pneumatiques est puni de l'amende prévue pour les contraventions de la quatrième classe.
+d'utilisation des pneumatiques est puni de l'amende prévue pour les contraventions de la quatrième classe. 
 
-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles          L. 325-1, L. 325-2 et L.
+325-3.
 
 **Liens relatifs à cet article**
 
@@ -24966,7 +24992,7 @@ _Cité par_:
   - Arrêté du 8 août 2017 - art. 1
   - Arrêté du 9 juillet 2018 - art. 10
   - Code de la défense. - art. R2335-4 (VD)
-  - Code de la route. - art. R130-6 (VD)
+  - Code de la route. - art. R130-6 (V)
   - Code de la route. - art. R314-2 (V)
 
 _Codifié par_:
@@ -24975,7 +25001,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1082 du 23 octobre 2019 - art. 9
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -25045,13 +25071,18 @@ automoteurs.
 Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
 prévue pour les contraventions de la quatrième classe. 
 
-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles          L. 325-1, L. 325-2 et L.
+325-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -25066,11 +25097,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R314-6 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R314-4
@@ -25081,13 +25108,18 @@ auxquelles doivent répondre les bandages métalliques des véhicules ou matéri
 Le fait pour tout conducteur de contrevenir aux dispositions prises en application du présent article est puni de l'amende
 prévue pour les contraventions de la troisième classe. 
 
-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles          L. 325-1, L. 325-2 et L.
+325-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -25097,11 +25129,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R314-6 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R314-5
@@ -25191,32 +25219,32 @@ _Anciens textes_:
 I.-Tout véhicule à moteur et toute remorque, à l'exception des véhicules et matériels agricoles ou de travaux publics et des
 engins de déplacement personnel motorisés, doit être pourvu de deux dispositifs de freinage dont les commandes sont
 entièrement indépendantes. L'installation de freinage doit être à action rapide et suffisamment puissante pour arrêter et
-maintenir à l'arrêt le véhicule. Sa mise en oeuvre ne doit pas affecter la direction du véhicule circulant en ligne droite.
+maintenir à l'arrêt le véhicule. Sa mise en oeuvre ne doit pas affecter la direction du véhicule circulant en ligne droite. 
 
 II.-L'un au moins des dispositifs de freinage doit agir sur des surfaces freinées fixées aux roues rigidement ou par
-l'intermédiaire de pièces donnant une sécurité suffisante.
+l'intermédiaire de pièces donnant une sécurité suffisante. 
 
-III.-Les dispositions du présent article ne sont pas applicables :
+III.-Les dispositions du présent article ne sont pas applicables : 
 
 1° Aux remorques, dont le poids total autorisé en charge n'excède pas 80 kilogrammes, attelées à un cyclomoteur, une
-motocyclette, un tricycle ou un quadricycle à moteur ;
+motocyclette, un tricycle ou un quadricycle à moteur ; 
 
 2° Aux remorques uniques, attelées à tout autre véhicule, sous la double condition que leur poids total autorisé en charge ne
-dépasse pas 750 kilogrammes ni la moitié du poids à vide du véhicule tracteur.
+dépasse pas 750 kilogrammes ni la moitié du poids à vide du véhicule tracteur. 
 
 IV.-Le ministre chargé des transports, qui peut soumettre à homologation tout dispositif de freinage et interdire l'usage de
 dispositifs non conformes à des types ayant reçu son agrément, fixe les conditions dans lesquelles doivent être réalisées
-l'indépendance et l'efficacité du freinage des véhicules, quel qu'en soit le poids.
+l'indépendance et l'efficacité du freinage des véhicules, quel qu'en soit le poids. 
 
 V.-Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application, lorsqu'elles
 s'appliquent à des véhicules de transport en commun ou aux véhicules dont le poids total en charge excède 3,5 tonnes, est
-puni de l'amende prévue pour les contraventions de la quatrième classe.
+puni de l'amende prévue pour les contraventions de la quatrième classe. 
 
 VI.-Toute autre infraction aux dispositions du présent article ou à celles prises pour son application est punie de l'amende
-prévue pour les contraventions de la troisième classe.
+prévue pour les contraventions de la troisième classe. 
 
-VII.-Dans tous les cas, l'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à
-L. 325-3.
+VII.-Dans tous les cas, l'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles          L.
+325-1, L. 325-2 et L. 325-3.
 
 **Liens relatifs à cet article**
 
@@ -25226,7 +25254,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1082 du 23 octobre 2019 - art. 10
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -25246,7 +25274,7 @@ _Cite_:
 
 _Cité par_:
 
-  - Code de la route. - art. R130-6 (VD)
+  - Code de la route. - art. R130-6 (V)
   - Code de la route. - art. R342-3 (V)
 
 
@@ -25263,14 +25291,18 @@ III.-Le fait de contrevenir aux dispositions prises en application du I ci-dessu
 véhicules et matériels agricoles ou de travaux publics, est puni de l'amende prévue pour les contraventions de la troisième
 classe. 
 
-IV.-Dans tous les cas, l'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à
-L. 325-3.
+IV.-Dans tous les cas, l'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles          L.
+325-1, L. 325-2 et L. 325-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -25282,11 +25314,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la route. - art. R315-5 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R315-3
@@ -25530,13 +25558,13 @@ relatives aux conditions de transparence des vitres fixées à cet article ou à
 l'amende prévue pour les contraventions de la quatrième classe. Cette contravention donne lieu de plein droit à la réduction
 de trois points du permis de conduire. 
 
-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+L'immobilisation peut être prescrite dans les conditions prévues aux articles          L. 325-1, L. 325-2 et L. 325-3.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 28
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Cite_:
 
@@ -25558,6 +25586,9 @@ Le ministre chargé des transports fixe par arrêté les conditions d'applicatio
 Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
 prévue pour les contraventions de la troisième classe.
 
+L'immobilisation des véhicules qui contreviennent aux dispositions du présent article ou à celles prises pour son application
+peut être prescrite dans les conditions prévues aux articles L. 325-1, L. 325-2 et L. 325-3.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -25566,7 +25597,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1082 du 23 octobre 2019 - art. 12
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -25771,6 +25802,9 @@ elles sont compatibles avec leurs caractéristiques techniques de fabrication et
 IV. - Le fait de contrevenir aux dispositions du présent article et à celles prises pour son application est puni de l'amende
 prévue pour les contraventions de la troisième classe.
 
+V. - L'immobilisation des véhicules qui contreviennent aux dispositions du présent article ou à celles prises pour son
+application peut être prescrite dans les conditions prévues aux articles L. 325-1, L. 325-2 et L. 325-3.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -25779,7 +25813,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1082 du 23 octobre 2019 - art. 12
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -25792,7 +25826,7 @@ _Anciens textes_:
 
 _Cité par_:
 
-  - Code de la route. - art. R130-6 (VD)
+  - Code de la route. - art. R130-6 (V)
 
 
 ###### Article R317-2
@@ -25890,7 +25924,7 @@ _Cite_:
 ###### Article R317-4
 
 L'immobilisation des véhicules devant être équipés d'un appareil de contrôle permettant l'enregistrement de la vitesse peut
-être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3 : 
+être prescrite dans les conditions prévues aux articles          L. 325-1, L. 325-2 et L. 325-3 : 
 
 1° Lorsque le conducteur est en infraction aux règles relatives aux conditions de travail dans les transports routiers,
 publics ou privés ; 
@@ -25911,7 +25945,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-784 du 8 juillet 2014 - art. 7
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -25920,7 +25954,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-1
 
 _Cité par_:
 
@@ -26067,48 +26101,49 @@ _Anciens textes_:
 ###### Article R317-8
 
 I. Tout véhicule à moteur, à l'exception des matériels de travaux publics doit être muni de deux plaques d'immatriculation,
-portant le numéro assigné au véhicule et fixées en évidence d'une manière inamovible à l'avant et à l'arrière du véhicule.
+portant le numéro assigné au véhicule et fixées en évidence d'une manière inamovible à l'avant et à l'arrière du véhicule. 
 
 Toutefois, toute motocyclette, tout tricycle ou quadricycle à moteur, tout cyclomoteur, tout véhicule agricole ou forestier à
 moteur attaché à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou à une coopérative
 d'utilisation de matériel agricole, peut ne porter qu'une plaque d'immatriculation, fixée en évidence d'une manière
-inamovible à l'arrière du véhicule.
+inamovible à l'arrière du véhicule. 
 
-II. Tout véhicule ou appareil agricole remorqué dont le poids total autorisé en charge est supérieur à 1, 5 tonne, toute
-autre remorque dont le poids total autorisé en charge est supérieur à 500 kilogrammes, toute autre semi-remorque doit être
-munie d'une plaque d'immatriculation portant son numéro d'immatriculation et fixée en évidence, d'une manière inamovible, à
-l'arrière du véhicule.
+II. Tout véhicule ou appareil agricole remorqué dont le poids total autorisé en charge est supérieur à 1,5 tonne, toute autre
+remorque dont le poids total autorisé en charge est supérieur à 500 kilogrammes, toute autre semi-remorque doit être munie
+d'une plaque d'immatriculation portant son numéro d'immatriculation et fixée en évidence, d'une manière inamovible, à
+l'arrière du véhicule. 
 
 Tout véhicule ou appareil agricole remorqué attaché à une exploitation agricole ou forestière, à une entreprise de travaux
 agricoles ou à une coopérative d'utilisation de matériel agricole, lorsqu'il n'est pas soumis à cette obligation, doit être
-muni à l'arrière de la plaque d'identité prévue à l'article R. 317-12.
+muni à l'arrière de la plaque d'identité prévue à l'article R. 317-12. 
 
 Tout véhicule ou appareil agricole remorqué non attaché à une exploitation agricole ou forestière, à une entreprise de
 travaux agricoles ou à une coopérative d'utilisation de matériel agricole, toute autre remorque, toute autre semi-remorque,
 lorsqu'il n'est pas soumis à cette obligation, doit être muni à l'arrière d'une plaque d'immatriculation reproduisant la
-plaque arrière du véhicule tracteur. La plaque d'immatriculation peut, dans ce cas, être amovible.
+plaque arrière du véhicule tracteur. La plaque d'immatriculation peut, dans ce cas, être amovible. 
 
 Toutefois, toute remorque attelée à une motocyclette, à un cyclomoteur, à un quadricycle léger à moteur ou à un tricycle à
 moteur ne doit porter à l'arrière une plaque d'immatriculation reproduisant le numéro d'immatriculation du véhicule tracteur
 que si les dimensions de la remorque ou du chargement sont telles que la plaque d'immatriculation du véhicule tracteur n'est
-pas visible pour un observateur placé à l'arrière.
+pas visible pour un observateur placé à l'arrière. 
 
-III. Chaque plaque doit être maintenue dans un état d'entretien permettant la lecture des inscriptions qu'elle comporte.
+III. Chaque plaque doit être maintenue dans un état d'entretien permettant la lecture des inscriptions qu'elle comporte. 
 
 IV. Le ministre chargé des transports et le ministre de l'intérieur fixent par arrêté les caractéristiques et le mode de pose
-des plaques d'immatriculation.
+des plaques d'immatriculation. 
 
 V. Le fait de faire circuler un véhicule à moteur ou une remorque sans qu'il soit muni des plaques ou inscriptions exigées
-par le présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+par le présent article est puni de l'amende prévue pour les contraventions de la quatrième classe. 
 
 VI. Le fait de contrevenir aux dispositions du présent article relatives à l'entretien, aux caractéristiques ou au mode de
-pose des plaques d'immatriculation est puni de l'amende prévue pour les contraventions de la quatrième classe.
+pose des plaques d'immatriculation est puni de l'amende prévue pour les contraventions de la quatrième classe. 
 
-VII. L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+VII. L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles          L. 325-1, L. 325-2 et
+L. 325-3. 
 
-VIII. - Le fait d'exposer, d'offrir, de mettre en vente, de vendre, de proposer ou d'inciter à acheter ou à utiliser une
-plaque d'immatriculation non conforme aux caractéristiques visées au IV est puni de l'amende prévue pour les contraventions
-de la quatrième classe. La plaque est saisie et confisquée.
+VIII.-Le fait d'exposer, d'offrir, de mettre en vente, de vendre, de proposer ou d'inciter à acheter ou à utiliser une plaque
+d'immatriculation non conforme aux caractéristiques visées au IV est puni de l'amende prévue pour les contraventions de la
+quatrième classe. La plaque est saisie et confisquée.
 
 **Liens relatifs à cet article**
 
@@ -26126,7 +26161,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-3 du 3 janvier 2012 - art. 9
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -26607,15 +26642,18 @@ _Anciens textes_:
 
 ###### Article R317-23
 
-Tout véhicule à moteur, toute remorque, à l'exception des  matériels agricoles ou de travaux publics, doit être aménagé de
+Tout véhicule à moteur, toute remorque, à l'exception des matériels agricoles ou de travaux publics, doit être aménagé de
 manière à réduire autant que possible, en cas de collision, les risques d'accidents corporels, aussi bien pour les occupants
-du véhicule que pour les autres usagers de la route. 
+du véhicule que pour les autres usagers de la route.
 
 Le ministre chargé des transports fixe les règles auxquelles sont soumis la construction et l'équipement des véhicules
-mentionnés au présent article. 
+mentionnés au présent article.
 
 Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende
 prévue pour les contraventions de la troisième classe.
+
+L'immobilisation des véhicules qui contreviennent aux dispositions du présent article ou à celles prises pour son application
+peut être prescrite dans les conditions prévues aux articles L. 325-1, L. 325-2 et L. 325-3.
 
 **Liens relatifs à cet article**
 
@@ -26630,7 +26668,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-448 du 13 avril 2016 - art. 38
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -26646,10 +26684,10 @@ _Anciens textes_:
 Le fait d'utiliser un cyclomoteur ou un engin de déplacement personnel motorisé muni d'un dispositif ayant pour effet de
 permettre à celui-ci de dépasser les limites réglementaires fixées à l'article R. 311-1 en matière de vitesse, de cylindrée
 ou de puissance maximale du moteur ou ayant fait l'objet d'une transformation à cette fin est puni de l'amende prévue pour
-les contraventions de la quatrième classe.
+les contraventions de la quatrième classe. 
 
-L'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles L. 325-1 à L.
-325-3.
+L'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles          L. 325-1,
+L. 325-2 et L. 325-3. 
 
 La confiscation du véhicule peut être prononcée à titre de peine complémentaire.
 
@@ -26657,7 +26695,7 @@ La confiscation du véhicule peut être prononcée à titre de peine complément
 
 _Modifié par_:
 
-  - Décret n°2019-1082 du 23 octobre 2019 - art. 15
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Cite_:
 
@@ -26676,10 +26714,10 @@ sont déjà prescrites par le présent chapitre, les différentes catégories de
 Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application relatives à la solidité
 des véhicules, à leur poids, à leur mode de chargement, au nombre et à la sûreté des voyageurs, à l'indication, à l'intérieur
 des voitures, des places qu'elles contiennent et du prix des places, à l'indication, à l'extérieur, du nom du propriétaire
-est puni de l'amende prévue pour les contraventions de la quatrième classe.
+est puni de l'amende prévue pour les contraventions de la quatrième classe. 
 
 L'immobilisation du véhicule de transport en commun de personnes peut être prescrite dans les conditions prévues aux articles
-L. 325-1 à L. 325-3.
+L. 325-1, L. 325-2 et L. 325-3.
 
 **Liens relatifs à cet article**
 
@@ -26698,7 +26736,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-784 du 8 juillet 2014 - art. 7
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -26723,21 +26761,21 @@ Le fait de contrevenir aux dispositions du présent article ou à celles prises 
 prévue pour les contraventions de la quatrième classe. 
 
 L'immobilisation du véhicule de transport en commun de personnes peut être prescrite dans les conditions prévues aux articles
-L. 325-1 à L. 325-3.
+L. 325-1, L. 325-2 et L. 325-3.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-784 du 8 juillet 2014 - art. 7
 
 _Cité par_:
 
   - Décret n°2016-697 du 27 mai 2016 - art. 2 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
+
 _Cite_:
 
-  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-1
 
 
 ###### Article R317-25
@@ -30626,30 +30664,54 @@ _Cite_:
   - Code de la route. - art. R325-9 (V)
 
 
+###### Article R325-8-1 
+
+Lorsqu'un véhicule des catégories M2, M3, N2, N3, O3, O4 et T5 définies à l'article R. 311-1 paraît présenter une défaillance
+majeure ou critique affectant son état ou son équipement, une décision d'immobilisation peut être prescrite et être assortie
+de l'obligation de soumettre le véhicule à un contrôle technique routier approfondi. Un arrêté du ministre chargé des
+transports définit les défaillances majeures ou critiques affectant l'état ou l'équipement du véhicule et les modalités du
+contrôle technique routier approfondi.
+
+Une fiche de circulation provisoire, dont la durée de validité ne peut excéder sept jours, peut être établie selon la
+procédure mentionnée au II de l'article R. 325-9.
+
+Le conducteur peut également être autorisé à faire appel à un professionnel qualifié pour la prise en remorque de son
+véhicule en vue de le soumettre au contrôle technique routier approfondi. L'immobilisation devient alors effective au lieu du
+contrôle.
+
+Les pièces administratives nécessaires à la circulation du véhicule sont restituées au vu du rapport de contrôle technique
+et, le cas échéant, de la justification par tout moyen de la remise en état du véhicule lui permettant de reprendre la
+circulation sur la voie publique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
+
+
 ###### Article R325-9
 
 I.-Lorsque l'infraction qui a motivé l'immobilisation n'a pas cessé au moment où l'agent quitte le lieu où le véhicule est
-immobilisé, l'agent saisit l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police
+immobilisé, l'agent peut saisir l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police
 municipale ou occupant ces fonctions, territorialement compétent en lui remettant soit le certificat d'immatriculation du
 véhicule s'il s'agit d'un véhicule dont le poids total autorisé en charge n'excède pas 3, 5 tonnes et une fiche
 d'immobilisation, soit les pièces administratives nécessaires à la circulation du véhicule s'il s'agit d'un véhicule de
 transport de marchandises d'un poids total autorisé en charge excédant 3, 5 tonnes ou de transport en commun et la fiche
-d'immobilisation. Un double de cette fiche est remis au contrevenant. 
+d'immobilisation. Un double de cette fiche est remis au contrevenant.
 
 II.-La fiche d'immobilisation énonce les date, heure et lieu de l'immobilisation, l'infraction qui l'a motivée, les éléments
 d'identification du véhicule et du certificat d'immatriculation, les nom et adresse du contrevenant, les noms, qualités et
-affectations des agents qui la rédigent et précise la résidence de l'officier de police judiciaire ou l'agent de police
-judiciaire adjoint, chef de la police municipale ou occupant ces fonctions, qualifié pour lever la mesure. 
+affectations des agents qui la rédigent et précise la résidence de l'autorité qualifiée pour lever la mesure.
 
 III.-Par dérogation aux dispositions du I ci-dessus, si la mesure a été motivée par le franchissement d'une barrière de
-dégel, l'autorité saisie est l'    ingénieur des ponts, des eaux et des forêts  ou, s'il s'agit d'une voie communale, le
-maire.
+dégel, l'autorité saisie est l' ingénieur des ponts, des eaux et des forêts ou, s'il s'agit d'une voie communale, le maire.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1106 du 10 septembre 2009 - art. 37
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -30658,7 +30720,7 @@ _Anciens textes_:
 
 _Cité par_:
 
-  - Code de la route. - art. R325-11 (VD)
+  - Code de la route. - art. R325-11 (V)
   - Code de la route. - art. R325-14 (VD)
   - Code de la route. - art. R325-5-1 (VD)
   - Code de la route. - art. R325-6 (V)
@@ -30694,11 +30756,11 @@ _Cité par_:
 
 ###### Article R325-11
 
-I.-L'immobilisation ne peut être maintenue après que la circonstance qui l'a motivée a cessé. 
+I.-L'immobilisation ne peut être maintenue après que la circonstance qui l'a motivée a cessé.
 
-II.-Elle est levée : 
+II.-Elle est levée :
 
-1° Par l'agent qui l'a prescrite s'il est encore présent lors de la cessation de l'infraction ; 
+1° Par l'agent qui l'a prescrite ;
 
 2° Par l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
 fonctions, saisi dans les conditions prévues à l'article R. 325-9, dès que le conducteur ou l'accompagnateur de l'élève
@@ -30710,12 +30772,12 @@ la mesure. Lorsque le conducteur ou l'accompagnateur de l'élève conducteur n'a
 dans un délai de quarante-huit heures, l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la
 police municipale ou occupant ces fonctions, peut transformer l'immobilisation en une mise en fourrière ; il joint alors à
 chacun des exemplaires de la procédure de mise en fourrière qu'il adresse aux autorités mentionnées à l'article R. 325-10 un
-exemplaire ou une copie conforme de la fiche d'immobilisation ; 
+exemplaire ou une copie conforme de la fiche d'immobilisation ;
 
-3° Par la décision de l'    ingénieur des ponts, des eaux et des forêts  ou du maire supprimant les barrières de dégel,
-lorsque la mesure a été motivée par leur franchissement.L'    ingénieur des ponts, des eaux et des forêts  ou le maire peut,
-avant la suppression des barrières de dégel, autoriser l'enlèvement du véhicule dans des conditions qu'il détermine. Il
-délivre alors au contrevenant une autorisation écrite valant justification à l'égard des services de police. 
+3° Par la décision de l' ingénieur des ponts, des eaux et des forêts ou du maire supprimant les barrières de dégel, lorsque
+la mesure a été motivée par leur franchissement.L' ingénieur des ponts, des eaux et des forêts ou le maire peut, avant la
+suppression des barrières de dégel, autoriser l'enlèvement du véhicule dans des conditions qu'il détermine. Il délivre alors
+au contrevenant une autorisation écrite valant justification à l'égard des services de police.
 
 III.-Dans tous les cas, dès la cessation de l'infraction qui a motivé l'immobilisation, le véhicule peut circuler entre le
 lieu d'immobilisation et la résidence de l'autorité désignée pour lever la mesure, sous couvert du double de la fiche
@@ -30732,7 +30794,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1106 du 10 septembre 2009 - art. 37
+  - Décret n°2020-1088 du 24 août 2020 - art. 4
 
 _Anciens textes_:
 
@@ -30742,7 +30804,7 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la route. - art. R325-10
-  - Code de la route. - art. R325-9
+  - Code de la route. - art. R325-9 (V)
 
 
 ##### Section 3 : Fourrière<a id=180></a>
