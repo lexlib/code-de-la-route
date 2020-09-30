@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2020-09-01
+Version Consolidée au 2020-10-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -4041,8 +4041,7 @@ articles L. 224-1, L. 224-2 et L. 224-7.
 la conduite en dehors de l'activité professionnelle ; 
 
 3° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+prévues aux articles 131-22 à 131-24 du même code et        à l'article L. 122-1 du code de la justice pénale des mineurs ; 
 
 4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
 
@@ -4061,17 +4060,30 @@ V.-Le délit prévu au présent article, dans le cas où il a été commis à la
 du permis de conduire, donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de
 conduire.
 
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
-  - Code pénal - art. 131-22 (V)
+  - Code pénal - art. 131-22
   - Code pénal - art. 131-5
   - Code pénal - art. 131-8
-  - Code de la route. - art. L224-1 (V)
-  - Code de la route. - art. L224-7 (V)
-  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L224-1
+  - Code de la route. - art. L224-7
+  - Code de la route. - art. L325-1
 
 _Cité par_:
 
@@ -4096,7 +4108,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 70
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 _Anciens textes_:
 
@@ -4184,39 +4196,51 @@ _Cité par_:
 ###### Article L224-18
 
 I.-Le fait pour toute personne, par une fausse déclaration, d'obtenir ou de tenter d'obtenir le permis de conduire est puni
-de deux ans d'emprisonnement et de 4 500 euros d'amende. 
+de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
-II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
+II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
 1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
-conduite en dehors de l'activité professionnelle ; 
+conduite en dehors de l'activité professionnelle ;
 
 2° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+prévues aux articles 131-22 à 131-24 du même code et  à l'article L. 122-1 du code de la justice pénale des mineurs ;
 
-3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
+3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
 
 III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
-  - Code pénal - art. 131-24 (V)
-  - Code pénal - art. 131-25 (V)
-  - Code pénal - art. 131-5 (V)
-  - Code pénal - art. 131-8 (V)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-24
+  - Code pénal - art. 131-25
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 11 (V) JORF 13 juin 2003
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 _Anciens textes_:
 
@@ -4231,11 +4255,6 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de la sécurité intérieure - art. R546-2 (VD)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre  5 : Enregistrement et communication des informations relatives au permis de conduire.<a id=24></a>
