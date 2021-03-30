@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2021-01-01
+Version Consolidée au 2021-03-31
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -2710,7 +2710,7 @@ exceptions prévues par décret en Conseil d'Etat.
 Les personnes titulaires du permis de conduire prévu pour les véhicules ayant un poids total autorisé en charge inférieur à
 3,5 tonnes affectés au transport de personnes et comportant, outre le siège du conducteur, huit places assises au maximum ou
 affectés au transport de marchandises, peuvent conduire tous les véhicules et appareils agricoles ou forestiers dont la
-vitesse n'excède pas 40 kilomètres par heure, ainsi que les véhicules qui peuvent y être assimilés.
+vitesse n'excède pas 40 kilomètres par heure, ainsi que les véhicules qui peuvent y être assimilés. 
 
 Le fait de conduire un véhicule ou un ensemble de véhicules mentionnés au deuxième alinéa sans respecter les conditions d'âge
 prévues au même alinéa est puni de l'amende prévue pour les contraventions de la quatrième classe. 
@@ -2718,11 +2718,10 @@ prévues au même alinéa est puni de l'amende prévue pour les contraventions d
 II.-Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
 suivantes : 
 
-1° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ;
+1° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ; 
 
 2° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+prévues aux articles 131-22 à 131-24 du même code et        à l'article L. 122-1 du code de la justice pénale des mineurs ; 
 
 3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
 
@@ -2731,11 +2730,24 @@ conduire n'est pas exigé, pour une durée de cinq ans au plus ;
 
 5° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière. 
 
-III.-L'immobilisation peut être prescrite, dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+III.-L'immobilisation peut être prescrite, dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
 
 IV.-Dans les conditions prévues aux articles 495-17 et suivants du code de procédure pénale, l'action publique peut être
 éteinte par le versement d'une amende forfaitaire d'un montant de 800 €. Le montant de l'amende forfaitaire minorée est de
 640 € et le montant de l'amende forfaitaire majorée de 1 600 €.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
@@ -2779,7 +2791,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 36
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 _Anciens textes_:
 
@@ -2802,8 +2814,7 @@ II.-Toute personne coupable de l'infraction prévue au présent article encourt 
 propriétaire. La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée ; 
 
 2° La peine de travail d'intérêt général, selon des modalités prévues à l'article 131-8 du code pénal et dans les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+prévues aux articles 131-22 à 131-24 du même code et         à l'article L. 122-1 du code de la justice pénale des mineurs ; 
 
 3° La peine de jours-amende, dans les conditions prévues aux articles 131-5 et 131-25 du code pénal ; 
 
@@ -2817,20 +2828,33 @@ Sont également encourues les peines complémentaires prévues en matière de fa
 III.-L'immobilisation du véhicule peut être prescrite, dans les conditions prévues aux articles L. 325-1 à L. 325-3 du
 présent code.
 
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (M)
-  - Code pénal - art. 131-25 (M)
-  - Code pénal - art. 131-5 (M)
-  - Code pénal - art. 131-8 (V)
-  - Code pénal - art. 441-10 (M)
-  - Code pénal - art. 441-11 (V)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-25
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
+  - Code pénal - art. 441-10
+  - Code pénal - art. 441-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 
 ###### Article L221-3
@@ -3214,46 +3238,58 @@ _Anciens textes_:
 ###### Article L223-5
 
 I.-En cas de retrait de la totalité des points, l'intéressé reçoit de l'autorité administrative l'injonction de remettre son
-permis de conduire au préfet de son département de résidence et perd le droit de conduire un véhicule. 
+permis de conduire au préfet de son département de résidence et perd le droit de conduire un véhicule.
 
 II.-Il ne peut obtenir un nouveau permis de conduire avant l'expiration d'un délai de six mois à compter de la date de remise
 de son permis au préfet et sous réserve d'être reconnu apte après un examen ou une analyse médical, clinique, biologique et
 psychotechnique effectué à ses frais. Ce délai est porté à un an lorsqu'un nouveau retrait de la totalité des points
-intervient dans un délai de cinq ans suivant le précédent. 
+intervient dans un délai de cinq ans suivant le précédent.
 
 III.-Le fait de refuser de se soumettre à l'injonction prévue au premier alinéa du présent article est puni de deux ans
-d'emprisonnement et de 4 500 euros d'amende. 
+d'emprisonnement et de 4 500 euros d'amende.
 
-IV.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
+IV.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
 1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
-conduite en dehors de l'activité professionnelle ; 
+conduite en dehors de l'activité professionnelle ;
 
 2° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+prévues aux articles 131-22 à 131-24 du même code et  à l'article L. 122-1 du code de la justice pénale des mineurs ;
 
-3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
+3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
 
 4° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
-conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
+conduire n'est pas exigé, pour une durée de cinq ans au plus ;
 
-5° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
+5° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
 
-6° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire. 
+6° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire.
 
 V.-Le fait pour toute personne de conduire un véhicule à moteur pour la conduite duquel le permis est nécessaire, malgré
 l'injonction qui lui a été faite de remettre son permis de conduire conformément au I, est puni des peines prévues aux III et
 IV.
 
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
-  - Code pénal - art. 131-22 (V)
-  - Code pénal - art. 131-5 (V)
-  - Code pénal - art. 131-8 (V)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-22
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
 
 _Cité par_:
 
@@ -3280,12 +3316,12 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 _Anciens textes_:
 
@@ -3454,8 +3490,7 @@ IV. ― La personne coupable des délits prévus par le présent article encourt
 la conduite en dehors de l'activité professionnelle ; 
 
 2° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+prévues aux articles 131-22 à 131-24 du même code et        à l'article L. 122-1 du code de la justice pénale des mineurs ; 
 
 3° La peine de jours-amendes dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
 
@@ -3463,6 +3498,19 @@ l'enfance délinquante ;
 conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
 
 5° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
@@ -3474,9 +3522,9 @@ _Cite_:
   - Code pénal - art. 131-8
   - Code de procédure pénale - art. 529-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 77
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 
 #### Chapitre 3 bis : Points affectés au conducteur titulaire d'un permis de conduire délivré par une autorité étrangère<a id=22></a>
@@ -4127,52 +4175,64 @@ _Anciens textes_:
 
 I.-Le fait, pour toute personne ayant reçu la notification d'une décision prononçant à son encontre la suspension ou
 l'annulation du permis de conduire, de refuser de restituer le permis suspendu ou annulé à l'agent de l'autorité chargé de
-l'exécution de cette décision est puni de deux ans d'emprisonnement et de 4 500 euros d'amende. 
+l'exécution de cette décision est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 II.-Le fait pour toute personne, pendant la période pour laquelle une décision de rétention du permis de conduire lui a été
 notifiée en application de l'article L. 224-1, de refuser de restituer le permis de conduire est puni de deux ans
-d'emprisonnement et de 4 500 euros d'amende. 
+d'emprisonnement et de 4 500 euros d'amende.
 
 III.-Toute personne coupable de l'un des délits prévus au présent article encourt également les peines complémentaires
-suivantes : 
+suivantes :
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+prévues aux articles 131-22 à 131-24 du même code et  à l'article L. 122-1 du code de la justice pénale des mineurs ;
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
 
 IV.-Toute personne coupable de l'un des délits prévus au présent article, dans les cas où il a été commis à la suite d'une
-décision de suspension ou de rétention du permis de conduire, encourt également les peines complémentaires suivantes : 
+décision de suspension ou de rétention du permis de conduire, encourt également les peines complémentaires suivantes :
 
 1° La suspension, pour une durée de trois ans, du permis de conduire, cette suspension pouvant être limitée à la conduite en
-dehors de l'activité professionnelle ; 
+dehors de l'activité professionnelle ;
 
-2° L'annulation du permis, avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au plus. 
+2° L'annulation du permis, avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au plus.
 
 V.-Les délits prévus au présent article, dans les cas où ils ont été commis à la suite d'une décision de suspension ou de
 rétention du permis de conduire, donnent lieu de plein droit à la réduction de la moitié du nombre maximal de points du
 permis de conduire.
 
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
-  - Code pénal - art. 131-24 (V)
-  - Code pénal - art. 131-25 (V)
-  - Code pénal - art. 131-5 (V)
-  - Code pénal - art. 131-8 (V)
-  - Code de la route. - art. L224-1 (V)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-24
+  - Code pénal - art. 131-25
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
+  - Code de la route. - art. L224-1
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 11 (V) JORF 13 juin 2003
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 _Anciens textes_:
 
@@ -4187,11 +4247,6 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de la sécurité intérieure - art. R546-2 (VD)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L224-18
@@ -4727,43 +4782,51 @@ _Cite_:
 ###### Article L231-2
 
 Les personnes physiques coupables du délit prévu à l'article 434-10 du code pénal commis à l'occasion de la conduite d'un
-véhicule encourent également les peines complémentaires suivantes :
+véhicule encourent également les peines complémentaires suivantes : 
 
 1° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
-plus ;
+plus ; 
 
 2° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+prévues aux articles 131-22 à 131-24 du même code et       à l'article L. 122-1 du code de la justice pénale des mineurs ; 
 
-3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
+3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
 
 4° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
-conduire n'est pas exigé, pour une durée de cinq ans au plus ;
+conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
 
-5° L'obligation d'accomplir, à leurs frais, un stage de sensibilisation à la sécurité routière ;
+5° L'obligation d'accomplir, à leurs frais, un stage de sensibilisation à la sécurité routière ; 
 
 6° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
-  - Code pénal - art. 131-24 (V)
-  - Code pénal - art. 131-25 (V)
-  - Code pénal - art. 131-5 (V)
-  - Code pénal - art. 131-8 (V)
-  - Code pénal - art. 434-10 (V)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-24
+  - Code pénal - art. 131-25
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
+  - Code pénal - art. 434-10
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-_Modifié par_:
-
-  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Cité par_:
 
@@ -4775,6 +4838,10 @@ _Cité par_:
   - Code de la sécurité intérieure - art. Annexe 2 (VD)
   - Code de la sécurité intérieure - art. R546-2 (VD)
   - Code général des collectivités territoriales - art. Annexe IV-I (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 _Anciens textes_:
 
@@ -5138,10 +5205,10 @@ II.-Toute personne coupable de ce délit encourt également les peines compléme
 conduite en dehors de l'activité professionnelle ; 
 
 2° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+prévues aux articles 131-22 à 131-24 du même code et             à l'article L. 122-1 du code de la justice pénale des
+mineurs ; 
 
-3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ;
+3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
 
 4° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
 plus ; 
@@ -5151,6 +5218,19 @@ plus ;
 6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière. 
 
 III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
@@ -5167,7 +5247,7 @@ _Cité par_:
   - Décret n°85-891 du 16 août 1985 - art. 6 (VT)
   - Décret n°90-200 du 5 mars 1990 - art. 6 (Ab)
   - Décret n°99-752 du 30 août 1999 - art. 2 (VT)
-  - Code de la route. - art. L233-1-1 (V)
+  - Code de la route. - art. L233-1-1 (M)
   - Code de la route. - art. L233-1-2 (V)
   - Code de la route. - art. L243-2 (VD)
   - Code de la route. - art. L244-2 (VD)
@@ -5188,7 +5268,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-258 du 28 février 2017 - art. 26
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 _Anciens textes_:
 
@@ -5268,30 +5348,42 @@ _Cite_:
 ###### Article L233-2
 
 I.-Le fait pour tout conducteur de refuser de se soumettre à toutes vérifications prescrites concernant son véhicule ou sa
-personne est puni de trois mois d'emprisonnement et de 3 750 euros d'amende.
+personne est puni de trois mois d'emprisonnement et de 3 750 euros d'amende. 
 
-II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
+II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
 
 1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
-conduite en dehors de l'activité professionnelle ;
+conduite en dehors de l'activité professionnelle ; 
 
 2° La peine de travail d'intérêt général selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+prévues aux articles 131-22 à 131-24 du même code et       à l'article L. 122-1 du code de la justice pénale des mineurs ; 
 
-3° La peine de jours-amende, dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
+3° La peine de jours-amende, dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
 
 III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
-  - Code pénal - art. 131-24 (V)
-  - Code pénal - art. 131-25 (V)
-  - Code pénal - art. 131-5 (V)
-  - Code pénal - art. 131-8 (V)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-24
+  - Code pénal - art. 131-25
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
 
 _Cité par_:
 
@@ -5308,12 +5400,12 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 11 (V) JORF 13 juin 2003
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 _Anciens textes_:
 
@@ -5323,11 +5415,6 @@ _Anciens textes_:
   - Code de la route - art. L14 (Ab)
   - Code de la route - art. L4 (Ab)
   - Code de la route L1-1 (al. 2), L1-2, L4, L11-1 (al. 1 et 2), L14 (al. 1 et 2)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre 4 : Conduite sous l'influence de l'alcool.<a id=29></a>
@@ -5436,8 +5523,7 @@ la conduite en dehors de l'activité professionnelle ;
 plus ;
 
 3° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+prévues aux articles 131-22 à 131-24 du même code et  à l'article L. 122-1 du code de la justice pénale des mineurs ;
 
 4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ;
 
@@ -5455,11 +5541,25 @@ fixée par la juridiction, à l'issue de l'exécution de cette peine ;
 
 II.-La suspension du permis de conduire prévue au présent article ne peut être assortie du sursis, même partiellement.
 
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-22
   - Code pénal - art. 131-5
   - Code pénal - art. 131-8
   - Code de la route. - art. L234-1
@@ -5474,10 +5574,11 @@ _Cité par_:
   - Décret n°2011-1661 du 28 novembre 2011 - art. 3 (V)
   - Code de la route. - art. L234-16 (VT)
   - Code de la route. - art. L244-1 (VD)
-  - Code de la route. - art. L245-1 (V)
+  - Code de la route. - art. L245-1 (VD)
 
 _Modifié par_:
 
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
   - Loi n°2019-1428 du 24 décembre 2019 - art. 98 (V)
 
 _Anciens textes_:
@@ -5715,8 +5816,7 @@ la conduite en dehors de l'activité professionnelle ;
 plus ;
 
 3° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+prévues aux articles 131-22 à 131-24 du même code et  à l'article L. 122-1 du code de la justice pénale des mineurs ;
 
 4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ;
 
@@ -5735,6 +5835,19 @@ fixée par la juridiction, à l'issue de l'exécution de cette peine.
 III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
 
 IV.-La suspension du permis de conduire prévue au présent article ne peut être assortie du sursis, même partiellement.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
@@ -5757,10 +5870,10 @@ _Cité par_:
   - Code de la route. - art. L224-8 (V)
   - Code de la route. - art. L234-11 (Ab)
   - Code de la route. - art. L234-12 (V)
-  - Code de la route. - art. L234-13 (V)
+  - Code de la route. - art. L234-13 (M)
   - Code de la route. - art. L243-1 (V)
   - Code de la route. - art. L244-1 (VD)
-  - Code de la route. - art. L245-1 (V)
+  - Code de la route. - art. L245-1 (VD)
   - Code de la route. - art. R212-4 (V)
   - Code de la route. - art. R221-13 (V)
   - Code de la route. - art. R221-14 (V)
@@ -5780,6 +5893,7 @@ _Codifié par_:
 
 _Modifié par_:
 
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
   - Loi n°2019-1428 du 24 décembre 2019 - art. 98 (V)
 
 _Anciens textes_:
@@ -5964,8 +6078,8 @@ _Créé par_:
 
 ###### Article L234-16
 
-I. ― Le fait de contrevenir à l'interdiction prononcée sur le fondement du 7° de l'article L. 234-2, du 8° du II de l'article
-L. 234-8 ou de l'article L. 234-13 est puni de deux ans d'emprisonnement et de 4 500 € d'amende.
+I. ― Le fait de contrevenir à l'interdiction prononcée sur le fondement du 7° de l'article L. 234-2 , du 8° du II de
+l'article L. 234-8 ou de l'article L. 234-13 est puni de deux ans d'emprisonnement et de 4 500 € d'amende.
 
 II. ― Toute personne coupable de l'infraction prévue au I encourt également les peines complémentaires suivantes :
 
@@ -5976,25 +6090,39 @@ conduire n'est pas exigé, pendant une durée de cinq ans au plus ;
 plus ;
 
 3° La peine de travail d'intérêt général selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante.
+prévues aux articles 131-22 à 131-24 du même code et  à l'article L. 122-1 du code de la justice pénale des mineurs.
 
 III. ― Toute personne coupable, en état de récidive au sens de l'article 132-10 du code pénal, de l'infraction prévue au I du
 présent article encourt également la confiscation obligatoire du véhicule dont elle s'est servie pour commettre l'infraction,
 si elle en est le propriétaire. La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement
 motivée.
 
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-22
   - Code pénal - art. 131-8
   - Code pénal - art. 132-10
   - Code de la route. - art. L234-2
 
 _Modifié par_:
 
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
   - Loi n°2019-1428 du 24 décembre 2019 - art. 98 (V)
 
 _Cité par_:
@@ -6058,11 +6186,9 @@ _Cite_:
 
 I.-Toute personne qui conduit un véhicule ou qui accompagne un élève conducteur alors qu'il résulte d'une analyse sanguine ou
 salivaire qu'elle a fait usage de substances ou plantes classées comme stupéfiants est punie de deux ans d'emprisonnement et
-de 4 500 euros d'amende.
-
-Si la personne se trouvait également sous l'empire d'un état alcoolique caractérisé par une concentration d'alcool dans le
-sang ou dans l'air expiré égale ou supérieure aux taux fixés par les dispositions législatives ou réglementaires du présent
-code, les peines sont portées à trois ans d'emprisonnement et 9 000 euros d'amende.
+de 4 500 euros d'amende. Si la personne se trouvait également sous l'empire d'un état alcoolique caractérisé par une
+concentration d'alcool dans le sang ou dans l'air expiré égale ou supérieure aux taux fixés par les dispositions législatives
+ou réglementaires du présent code, les peines sont portées à trois ans d'emprisonnement et 9 000 euros d'amende.
 
 II.-Toute personne coupable des délits prévus par le présent article encourt également les peines complémentaires suivantes :
 
@@ -6073,8 +6199,7 @@ conduite en dehors de l'activité professionnelle ; elle ne peut être assortie 
 plus ;
 
 3° La peine de travail d'intérêt général selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+prévues aux articles 131-22 à 131-24 du même code et  à l'article L. 122-1 du code de la justice pénale des mineurs ;
 
 4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ;
 
@@ -6091,6 +6216,19 @@ III.-L'immobilisation du véhicule peut être prescrite dans les conditions pré
 
 IV.-Les délits prévus par le présent article donnent lieu de plein droit à la réduction de la moitié du nombre maximal de
 points du permis de conduire.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
@@ -6131,6 +6269,7 @@ _Codifié par_:
 
 _Modifié par_:
 
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
   - Loi n°2019-1428 du 24 décembre 2019 - art. 98 (V)
 
 _Anciens textes_:
@@ -6237,8 +6376,7 @@ conduite en dehors de l'activité professionnelle ; elle ne peut être assortie 
 plus ;
 
 3° La peine de travail d'intérêt général selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+prévues aux articles 131-22 à 131-24 du même code et  à l'article L. 122-1 du code de la justice pénale des mineurs ;
 
 4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ;
 
@@ -6252,6 +6390,19 @@ conduire n'est pas exigé, pour une durée de cinq ans au plus ;
 8° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire.
 
 III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
@@ -6286,6 +6437,7 @@ _Codifié par_:
 
 _Modifié par_:
 
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
   - Loi n°2019-1428 du 24 décembre 2019 - art. 98 (V)
 
 
@@ -6447,8 +6599,8 @@ prononcer cette peine par une décision spécialement motivée ;
 plus ; 
 
 4° La peine de travail d'intérêt général selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+prévues aux articles 131-22 à 131-24 du même code et                      à l'article L. 122-1 du code de la justice pénale
+des mineurs ; 
 
 5° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
 
@@ -6459,6 +6611,19 @@ conduire n'est pas exigé, pour une durée de cinq ans au plus ;
 
 L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3 du présent
 code.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
@@ -6475,9 +6640,9 @@ _Cite_:
   - Code de la route. - art. L325-1
   - Code de la route. - art. L325-3
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2018-701 du 3 août 2018 - art. 1
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 _Cité par_:
 
@@ -6556,93 +6721,106 @@ _Codifié par_:
 ###### Article L243-1
 
 Pour l'application de l'article L. 225-4 en Nouvelle-Calédonie, les mots : " dans le département " sont remplacés par les
-mots : " dans la collectivité ".
+mots : " dans la collectivité ". 
 
-Les articles L. 234-1 à L. 234-9 sont applicables à la Nouvelle-Calédonie dans la rédaction suivante :
+Les articles L. 234-1 à L. 234-9 sont applicables à la Nouvelle-Calédonie dans la rédaction suivante : 
 
 Art. L. 234-1.-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
 état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par
 une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans
-d'emprisonnement et de 4 500 euros d'amende.
+d'emprisonnement et de 4 500 euros d'amende. 
 
-II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines.
+II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. 
 
 Art. L. 234-2.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+prévues aux articles 131-22 à 131-24 du même code et                         à l'article L. 122-1 du code de la justice
+pénale des mineurs ; 
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ;
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
 
 3° L'interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé, par un
 professionnel agréé ou par construction, d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque
 cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle
-s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine.
+s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine. 
 
 Art. L. 234-3.-Les officiers ou agents de police judiciaire et, sur l'ordre et sous la responsabilité des officiers de police
 judiciaire, les agents de police judiciaire adjoints soumettent à des épreuves de dépistage de l'imprégnation alcoolique par
 l'air expiré l'auteur présumé de l'une des infractions prévues par les dispositions applicables localement susceptibles
 d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation ayant
-occasionné un dommage corporel.
+occasionné un dommage corporel. 
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
-présumé de l'une des infractions aux prescriptions applicables localement autres que celles mentionnées au premier alinéa.
+présumé de l'une des infractions aux prescriptions applicables localement autres que celles mentionnées au premier alinéa. 
 
 Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
-établir la preuve de l'état alcoolique.
+établir la preuve de l'état alcoolique. 
 
 Lorsque la constatation est faite par un agent de police judiciaire adjoint mentionné au 2° de l'article 21 du code de
 procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un état alcoolique ou du refus du
 conducteur ou de l'accompagnateur de l'élève conducteur de subir les épreuves de dépistage à tout officier de police
-judiciaire, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ la personne concernée.
+judiciaire, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ la personne concernée. 
 
 Les vérifications prévues au premier alinéa sont faites soit au moyen d'analyses ou examens médicaux, cliniques ou
 biologiques, soit au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, à
 la condition que cet appareil soit conforme à un type homologué. A cette fin, l'officier ou l'agent de police judiciaire peut
 requérir un médecin, un interne en médecine, un étudiant en médecine autorisé à exercer la médecine à titre de remplaçant ou
-un infirmier pour effectuer une prise de sang.
+un infirmier pour effectuer une prise de sang. 
 
 Art. L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses ou examens médicaux, cliniques ou biologiques, un
-échantillon est conservé.
+échantillon est conservé. 
 
 Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air
 expiré, un second contrôle peut être immédiatement effectué, après vérification du bon fonctionnement de l'appareil ; ce
-contrôle est de droit lorsqu'il est demandé par l'intéressé.
+contrôle est de droit lorsqu'il est demandé par l'intéressé. 
 
 Art. L. 234-6.-L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
-destinées à établir l'état alcoolique.
+destinées à établir l'état alcoolique. 
 
 Art. L. 234-7.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
-dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6.
+dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. 
 
 Art. L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux
-vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
+vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende. 
 
-II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
+II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+prévues aux articles 131-22 à 131-24 du même code et                         à l'article L. 122-1 du code de la justice
+pénale des mineurs ; 
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
 
-“Art. L. 234-9. - Les officiers ou les agents de police judiciaire soit sur instruction du procureur de la République, soit à
+“ Art. L. 234-9.-Les officiers ou les agents de police judiciaire soit sur instruction du procureur de la République, soit à
 leur initiative et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire adjoints peuvent, même
 en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des épreuves de
-dépistage de l'imprégnation alcoolique par l'air expiré.
+dépistage de l'imprégnation alcoolique par l'air expiré. 
 
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique, les officiers ou agents de police
 judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen de l'appareil
 permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, mentionné aux articles L. 234-4 et L. 234-5
-et dans les conditions prévues par ces mêmes articles.
+et dans les conditions prévues par ces mêmes articles. 
 
 En cas d'impossibilité de subir ces épreuves résultant d'une incapacité physique attestée par le médecin requis, les
 officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique
 au moyen d'analyses ou examens médicaux, cliniques ou biologiques, dans les conditions prévues par les articles L. 234-4 et
 L. 234-5.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
@@ -6655,7 +6833,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 _Cite_:
 
@@ -6670,11 +6848,22 @@ l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les ar
 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de
 l'article L. 235-4 sont applicables en Nouvelle-Calédonie.
 
-Le I de l'article L. 235-1 est applicable dans sa rédaction résultant de la loi n° 2016-41 du 26 janvier 2016 de
-modernisation de notre système de santé.
+Les articles L. 231-2, L. 233-1, L. 233-2, L. 234-16, L. 235-1, L. 235-3 sont applicables en Nouvelle-Calédonie dans leur
+rédaction résultant de l'ordonnance n° 2019-950 du 11 septembre 2019 portant partie législative du code de la justice pénale
+des mineurs.
 
-L'article L. 235-2 est applicable dans sa rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation
-2018-2022 et de réforme pour la justice.
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
@@ -6698,7 +6887,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 8 (VD)
 
 
 ###### Article L243-3
@@ -6707,11 +6896,27 @@ Les articles L. 236-1 à L. 236-3 sont applicables en Nouvelle-Calédonie. Pour 
 mots : “ législatives et réglementaires du présent code ” sont remplacés par les mots : “ applicables localement en matière
 de circulation routière ”.
 
+L'article L. 236-3 est applicable en Nouvelle-Calédonie dans sa rédaction résultant de l'ordonnance n° 2019-950 du 11
+septembre 2019 portant partie législative du code de la justice pénale des mineurs.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2018-701 du 3 août 2018 - art. 2 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 8 (VD)
 
 _Cite_:
 
@@ -6724,87 +6929,100 @@ _Cite_:
 ###### Article L244-1
 
 Pour l'application de l'article L. 225-4 en Polynésie française, les mots : " dans le département " sont remplacés par les
-mots : " dans la collectivité ".
+mots : " dans la collectivité ". 
 
-Les articles L. 234-1 à L. 234-9 sont applicables à la Polynésie française, dans la rédaction suivante :
+Les articles L. 234-1 à L. 234-9 sont applicables à la Polynésie française, dans la rédaction suivante : 
 
 " Art. L. 234-1.-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
 état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par
 une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans
-d'emprisonnement et de 4 500 euros d'amende.
+d'emprisonnement et de 4 500 euros d'amende. 
 
-II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. "
+II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. " 
 
 " Art. L. 234-2.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+prévues aux articles 131-22 à 131-24 du même code et          à l'article L. 122-1 du code de la justice pénale des
+mineurs ; 
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; "
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; " 
 
 3° L'interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé, par un
 professionnel agréé ou par construction, d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque
 cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle
-s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine.
+s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine. 
 
 " Art. L. 234-3.-Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
 alcoolique par l'air expiré l'auteur présumé de l'une des infractions prévues par les dispositions applicables localement
 susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation
-ayant occasionné un dommage corporel.
+ayant occasionné un dommage corporel. 
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
-présumé de l'une des infractions aux prescriptions applicables localement autres que celles mentionnées au premier alinéa. "
+présumé de l'une des infractions aux prescriptions applicables localement autres que celles mentionnées au premier alinéa. " 
 
 " Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
-établir la preuve de l'état alcoolique.
+établir la preuve de l'état alcoolique. 
 
 Ces vérifications sont faites soit au moyen d'analyses ou examens médicaux, cliniques ou biologiques, soit au moyen d'un
 appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré à la condition que cet appareil
 soit conforme à un type homologué. " A cette fin, l'officier ou l'agent de police judiciaire peut requérir un médecin, un
 interne en médecine, un étudiant en médecine autorisé à exercer la médecine à titre de remplaçant ou un infirmier pour
-effectuer une prise de sang.
+effectuer une prise de sang. 
 
 " Art. L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses ou examens médicaux, cliniques ou biologiques, un
-échantillon est conservé.
+échantillon est conservé. 
 
 Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air
 expiré, un second contrôle peut être immédiatement effectué, après vérification du bon fonctionnement de l'appareil ; ce
-contrôle est de droit lorsqu'il est demandé par l'intéressé. "
+contrôle est de droit lorsqu'il est demandé par l'intéressé. " 
 
 " Art. L. 234-6.-L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
-destinées à établir l'état alcoolique. "
+destinées à établir l'état alcoolique. " 
 
 " Art. L. 234-7.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
-dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. "
+dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. " 
 
 " Art. L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux
-vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
+vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende. 
 
-II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
+II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+prévues aux articles 131-22 à 131-24 du même code et                         à l'article L. 122-1 du code de la justice
+pénale des mineurs ; 
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. "
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. " 
 
-“Art. L. 234-9. - Les officiers ou les agents de police judiciaire soit sur instruction du procureur de la République, soit à
+“ Art. L. 234-9.-Les officiers ou les agents de police judiciaire soit sur instruction du procureur de la République, soit à
 leur initiative et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire adjoints peuvent, même
 en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des épreuves de
-dépistage de l'imprégnation alcoolique par l'air expiré.
+dépistage de l'imprégnation alcoolique par l'air expiré. 
 
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique, les officiers ou agents de police
 judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen de l'appareil
 permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, mentionné aux articles L. 234-4 et L. 234-5
-et dans les conditions prévues par ces mêmes articles.
+et dans les conditions prévues par ces mêmes articles. 
 
 En cas d'impossibilité de subir ces épreuves résultant d'une incapacité physique attestée par le médecin requis, les
 officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique
 au moyen d'analyses ou examens médicaux, cliniques ou biologiques, dans les conditions prévues par les articles L. 234-4 et
 L. 234-5. "
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
@@ -6817,13 +7035,8 @@ _Cite_:
   - Code pénal - art. 131-8
   - Code de la route. - art. L225-4
   - Code de la route. - art. L234-1
-  - Code de la route. - art. L234-2
-  - Code de la route. - art. L234-3
   - Code de la route. - art. L234-4
-  - Code de la route. - art. L234-5
   - Code de la route. - art. L234-6
-  - Code de la route. - art. L234-7
-  - Code de la route. - art. L234-8
   - Code de la route. - art. L234-9
 
 _Anciens textes_:
@@ -6835,7 +7048,16 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-2
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-3
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-5
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-7
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-8
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-9
 
 
 ###### Article L244-2
@@ -6846,11 +7068,22 @@ l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les ar
 l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de l'article L. 235-4 sont applicables en
 Polynésie française.
 
-Le I de l'article L. 235-1 est applicable dans sa rédaction résultant de la loi n° 2016-41 du 26 janvier 2016 de
-modernisation de notre système de santé.
+Les articles L. 231-2, L. 233-1, L. 233-2, L. 234-16, L. 235-1, L. 235-3 sont applicables en Polynésie française dans leur
+rédaction résultant de l'ordonnance n° 2019-950 du 11 septembre 2019 portant partie législative du code de la justice pénale
+des mineurs.
 
-L'article L. 235-2 est applicable dans sa rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation
-2018-2022 et de réforme pour la justice.
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
@@ -6874,7 +7107,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 8 (VD)
 
 
 ###### Article L244-3
@@ -6883,11 +7116,25 @@ Les articles L. 236-1 à L. 236-3 sont applicables en Polynésie française. Pou
 mots : “ législatives et réglementaires du présent code ” sont remplacés par les mots : “ applicables localement en matière
 de circulation routière ”.
 
+L'article L. 236-3 est applicable en Polynésie française dans sa rédaction résultant de l'ordonnance n° 2019-950 du 11
+septembre 2019 portant partie législative du code de la justice pénale des mineurs.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2018-701 du 3 août 2018 - art. 2 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 8 (VD)
 
 _Cite_:
 
@@ -6900,106 +7147,113 @@ _Cite_:
 ###### Article L245-1
 
 Pour l'application de l'article L. 225-4 dans les îles Wallis et Futuna, les mots : " dans le département " sont remplacés
-par les mots : " dans la collectivité ".
+par les mots : " dans la collectivité ". 
 
-Les articles L. 234-1 à L. 234-9 sont applicables au territoire des îles Wallis-et-Futuna dans la rédaction suivante :
+Les articles L. 234-1 à L. 234-9 sont applicables au territoire des îles Wallis-et-Futuna dans la rédaction suivante : 
 
 " Art. L. 234-1.-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
 état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par
 une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans
-d'emprisonnement et de 4 500 euros d'amende.
+d'emprisonnement et de 4 500 euros d'amende. 
 
-II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. "
+II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. " 
 
 " Art. L. 234-2.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+prévues aux articles 131-22 à 131-24 du même code et             à l'article L. 122-1 du code de la justice pénale des
+mineurs ; 
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; "
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; " 
 
 3° L'interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé, par un
 professionnel agréé ou par construction, d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque
 cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle
-s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine.
+s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine. 
 
 " Art. L. 234-3.-Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
 alcoolique par l'air expiré l'auteur présumé de l'une des infractions prévues aux dispositions applicables localement
 susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation
-ayant occasionné un dommage corporel.
+ayant occasionné un dommage corporel. 
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
-présumé de l'une des infractions aux prescriptions applicables localement autres que celles mentionnées au premier alinéa. "
+présumé de l'une des infractions aux prescriptions applicables localement autres que celles mentionnées au premier alinéa. " 
 
 " Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
-établir la preuve de l'état alcoolique.
+établir la preuve de l'état alcoolique. 
 
 Ces vérifications sont faites soit au moyen d'analyses ou examens médicaux, cliniques ou biologiques, soit au moyen d'un
 appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré à la condition que cet appareil
 soit conforme à un type homologué. " A cette fin, l'officier ou l'agent de police judiciaire peut requérir un médecin, un
 interne en médecine, un étudiant en médecine autorisé à exercer la médecine à titre de remplaçant ou un infirmier pour
-effectuer une prise de sang.
+effectuer une prise de sang. 
 
 " Art. L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses ou examens médicaux, cliniques ou biologiques, un
-échantillon est conservé.
+échantillon est conservé. 
 
 Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air
 expiré, un second contrôle peut être immédiatement effectué, après vérification du bon fonctionnement de l'appareil ; ce
-contrôle est de droit lorsqu'il est demandé par l'intéressé.
+contrôle est de droit lorsqu'il est demandé par l'intéressé. 
 
 " Art. L. 234-6.-L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
-destinées à établir l'état alcoolique. "
+destinées à établir l'état alcoolique. " 
 
 " Art. L. 234-7.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
-dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. "
+dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. " 
 
 " Art. L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux
-vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
+vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende. 
 
-II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
+II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
+prévues aux articles 131-22 à 131-24 du même code et                         à l'article L. 122-1 du code de la justice
+pénale des mineurs ; 
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. "
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. " 
 
-“Art. L. 234-9. - Les officiers ou les agents de police judiciaire soit sur instruction du procureur de la République, soit à
+“ Art. L. 234-9.-Les officiers ou les agents de police judiciaire soit sur instruction du procureur de la République, soit à
 leur initiative et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire adjoints peuvent, même
 en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des épreuves de
-dépistage de l'imprégnation alcoolique par l'air expiré.
+dépistage de l'imprégnation alcoolique par l'air expiré. 
 
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique, les officiers ou agents de police
 judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen de l'appareil
 permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, mentionné aux articles L. 234-4 à L. 234-6
-et dans les conditions prévues par ces mêmes articles.
+et dans les conditions prévues par ces mêmes articles. 
 
 En cas d'impossibilité de subir ces épreuves résultant d'une incapacité physique attestée par le médecin requis, les
 officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique
 au moyen d'analyses ou examens médicaux, cliniques ou biologiques, dans les conditions prévues par les articles L. 234-4 à L.
 234-6. "
 
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (VT)
   - Code pénal - art. 131-22
   - Code pénal - art. 131-25
   - Code pénal - art. 131-5
   - Code pénal - art. 131-8
   - Code de la route. - art. L225-4
-  - Code de la route. - art. L234-1
-  - Code de la route. - art. L234-2
-  - Code de la route. - art. L234-3
-  - Code de la route. - art. L234-4
-  - Code de la route. - art. L234-5
-  - Code de la route. - art. L234-6
-  - Code de la route. - art. L234-7
-  - Code de la route. - art. L234-8
+  - Code de la route. - art. L234-2 (VD)
+  - Code de la route. - art. L234-8 (VD)
   - Code de la route. - art. L234-9
 
 _Anciens textes_:
@@ -7011,7 +7265,17 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-1
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-3
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-4
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-5
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-6
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-7
+  - PILOTE_SUIVEUR: Code de la route. - art. L234-9
 
 
 ###### Article L245-2
@@ -7021,11 +7285,22 @@ l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les ar
 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de
 l'article L. 235-4 sont applicables dans les îles Wallis et Futuna.
 
-Le I de l'article L. 235-1 est applicable dans sa rédaction résultant de la loi n° 2016-41 du 26 janvier 2016 de
-modernisation de notre système de santé.
+Les articles L. 231-2, L. 233-1, L. 233-2, L. 234-16, L. 235-1, L. 235-3 sont applicables dans les îles Wallis et Futuna dans
+leur rédaction résultant de l'ordonnance n° 2019-950 du 11 septembre 2019 portant partie législative du code de la justice
+pénale des mineurs.
 
-L'article L. 235-2 est applicable dans sa rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation
-2018-2022 et de réforme pour la justice.
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
@@ -7049,7 +7324,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 8 (VD)
 
 
 ###### Article L245-3
@@ -7058,11 +7333,27 @@ Les articles L. 236-1 à L. 236-3 sont applicables dans les îles Wallis et Futu
 236-1, les mots : “ législatives et réglementaires du présent code ” sont remplacés par les mots : “ applicables localement
 en matière de circulation routière ”.
 
+L'article L. 236-3 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant de l'ordonnance n° 2019-950 du
+11 septembre 2019 portant partie législative du code de la justice pénale des mineurs.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2018-701 du 3 août 2018 - art. 2 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 8 (VD)
 
 _Cite_:
 
@@ -8620,22 +8911,34 @@ II.-Toute personne physique coupable de ce délit encourt également les peines 
 conduite en dehors de l'activité professionnelle ; 
 
 2° La peine de travail d'intérêt général selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ; 
+prévues aux articles 131-22 à 131-24 du même code et      à l'article L. 122-1 du code de la justice pénale des mineurs ; 
 
 3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
 
 III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
 
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
-  - Code pénal - art. 131-22 (V)
-  - Code pénal - art. 131-25 (V)
-  - Code pénal - art. 131-5 (V)
-  - Code pénal - art. 131-8 (V)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+  - Code pénal - art. 131-22
+  - Code pénal - art. 131-25
+  - Code pénal - art. 131-5
+  - Code pénal - art. 131-8
 
 _Cité par_:
 
@@ -8650,12 +8953,12 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 
 ###### Article L325-6
