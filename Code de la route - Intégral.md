@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2021-03-31
+Version Consolidée au 2021-04-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -8961,59 +8961,6 @@ _Modifié par_:
   - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 
-###### Article L325-6
-
-Les véhicules dont l'état ne permet pas la circulation dans les conditions normales de sécurité ou qui ne sont plus conformes
-à leur réception ne peuvent être retirés de la fourrière que par des réparateurs chargés par les propriétaires d'effectuer
-les travaux reconnus indispensables à leur remise en état ou en conformité.
-
-Ils ne peuvent ensuite être restitués à leurs propriétaires qu'après vérification de la bonne exécution des travaux.
-
-En cas de désaccord sur l'état du véhicule, un expert est désigné dans des conditions fixées par décret en Conseil d'Etat.
-S'il constate que le véhicule n'est pas en état de circuler dans des conditions normales de sécurité ou qu'il nécessite une
-mise en conformité à la réception, il détermine les travaux à effectuer avant sa remise au propriétaire.
-
-**Nota:**
-
-Conformément à l'article 2 de l'ordonnance n° 2020-773 du 24 juin 2020, ces dispositions sont abrogées à une date fixée pour
-chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021 et concernent
-les véhicules entrés en fourrière à compter de l'entrée en vigueur de ladite ordonnance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 du 12 juin 2003
-
-_Modifié par_:
-
-  - Loi n°2006-10 du 5 janvier 2006 - art. 11 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2020-773 du 24 juin 2020 - art. 1
-
-_Cité par_:
-
-  - Code de l'environnement - art. L226-7 (V)
-  - Code de l'environnement - art. L362-7 (VD)
-  - Code de l'environnement - art. R362-6 (V)
-  - Code de la route. - art. L318-4 (V)
-  - Code de la route. - art. L325-11 (V)
-  - Code de la route. - art. R325-45 (VD)
-  - Code de la route. - art. R343-4 (M)
-
-_Anciens textes_:
-
-  - Code de la route - art. L25-2 (Ab)
-  - Code de la route L25-2
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de la route. - art. L343-1 (V)
-
-
 ###### Article L325-7
 
 Sont réputés abandonnés les véhicules laissés en fourrière à l'expiration d'un délai de quinze jours à compter de la mise en
@@ -9025,17 +8972,25 @@ faite au créancier gagiste.
 
 Si le propriétaire ne peut être identifié, le délai précité court du jour où cette impossibilité a été constatée.
 
-Le délai prévu au premier alinéa est réduit à dix jours en ce qui concerne les véhicules qu'un expert désigné par
-l'administration aura estimés d'une valeur marchande inférieure à un montant fixé par arrêté interministériel et déclarés
-hors d'état de circuler dans des conditions normales de sécurité.
+Le délai prévu au premier alinéa est réduit à dix jours en ce qui concerne les véhicules estimés d'une valeur marchande
+insuffisante, compte tenu de leurs caractéristiques techniques, de leur date de première mise en circulation et, le cas
+échéant, des motifs de leur mise en fourrière s'il s'agit de ceux mentionnés au deuxième alinéa de l'article L. 325-1 et au
+troisième alinéa de l'article L. 325-12, dans les conditions fixées par arrêté conjoint du ministre chargé de la sécurité
+routière et du ministre chargé du domaine.
 
 Les véhicules visés à l'alinéa précédent sont, à l'expiration du délai de dix jours, livrés à la destruction.
+
+**Nota:**
+
+Conformément à l'article 2 de l'ordonnance n° 2020-773 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée,
+pour chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de l'entrée en vigueur de l'ordonnance.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2019-1428 du 24 décembre 2019 - art. 98 (V)
+  - Ordonnance n°2020-773 du 24 juin 2020 - art. 1
 
 _Anciens textes_:
 
@@ -9045,7 +9000,7 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de la route. - art. L325-10 (Ab)
-  - Code de la route. - art. L325-8 (V)
+  - Code de la route. - art. L325-8 (M)
   - Code de la route. - art. L343-1 (M)
   - Code de la route. - art. R325-30 (VD)
   - Code de la route. - art. R325-43 (V)
@@ -9105,8 +9060,8 @@ _Cite_:
 
 ###### Article L325-9
 
-Les frais d'enlèvement, de garde en fourrière, d'expertise et de mise en vente ou de destruction du véhicule sont à la charge
-du propriétaire.
+Les frais d'enlèvement, de garde en fourrière et de mise en vente ou de destruction du véhicule sont à la charge du
+propriétaire.
 
 Le produit de la vente, sous déduction des frais énumérés à l'alinéa précédent, est tenu à la disposition du propriétaire ou
 de ses ayants droit ou, le cas échéant, du créancier gagiste pouvant justifier de ses droits, pendant un délai de deux ans. A
@@ -9118,6 +9073,12 @@ restent débiteurs de la différence. Celle-ci est recouvrée dans les condition
 Le montant des redevances pour frais de fourrière est fixé par arrêté et tient compte des difficultés de mise en oeuvre des
 opérations d'enlèvement et de garde liées à l'importance des communes dans lesquelles ces opérations sont effectuées et à
 l'existence des problèmes de circulation et de stationnement que connaissent ces communes.
+
+**Nota:**
+
+Conformément à l'article 2 de l'ordonnance n° 2020-773 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée,
+pour chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de l'entrée en vigueur de l'ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -9134,7 +9095,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1428 du 24 décembre 2019 - art. 98 (V)
+  - Ordonnance n°2020-773 du 24 juin 2020 - art. 1
 
 _Anciens textes_:
 
@@ -9148,18 +9109,24 @@ _Anciens textes_:
 
 ###### Article L325-11
 
-Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 325-6 à L. 325-9.
+Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 325-7 à L. 325-9.
+
+**Nota:**
+
+Conformément à l'article 2 de l'ordonnance n° 2020-773 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée,
+pour chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de l'entrée en vigueur de l'ordonnance.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+  - Ordonnance n°2000-930 du 22 septembre 2000
+  - Loi n°2003-495 du 12 juin 2003
 
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 21 () JORF 7 mars 2007
+  - Ordonnance n°2020-773 du 24 juin 2020 - art. 1
 
 _Anciens textes_:
 
@@ -9170,10 +9137,6 @@ _Cité par_:
 
   - Code de la route. - art. L325-1 (V)
   - Code de la route. - art. R244-1 (M)
-
-_Cite_:
-
-  - Code de la route. - art. L325-6 (V)
 
 **Liens**:
 
@@ -9712,25 +9675,33 @@ _Cité par_:
 
 Lorsqu'en raison de la gravité des dommages qu'il a subis, un véhicule a été immobilisé en application des articles L. 325-1
 à L. 325-3, l'officier ou l'agent de police judiciaire qui procède aux constatations retire à titre conservatoire le
-certificat d'immatriculation. 
+certificat d'immatriculation. Lorsqu'en raison de la gravité des dommages qu'il a subis un véhicule a été mis en fourrière en
+application des articles L. 325-1 à L. 325-3 ou L. 325-12, l'officier ou l'agent mentionné à l'article L. 325-2 qui procède
+aux constatations retire à titre conservatoire le certificat d'immatriculation.
 
 En l'absence de remise du certificat d'immatriculation, l'autorité administrative compétente avise le propriétaire de
 l'interdiction de circulation de son véhicule et procède à l'inscription d'une opposition au transfert du certificat
-d'immatriculation jusqu'à la remise de ce document. 
+d'immatriculation jusqu'à la remise de ce document.
 
 Le véhicule n'est remis en circulation qu'au vu du rapport d'un expert en automobile certifiant que ledit véhicule est en
 état de circuler dans des conditions normales de sécurité.
 
+**Nota:**
+
+Conformément à l'article 2 de l'ordonnance n° 2020-773 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée,
+pour chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de l'entrée en vigueur de l'ordonnance.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-397 du 10 avril 2009 - art. 1
 
 _Cité par_:
 
   - Arrêté du 29 avril 2009 - art. 1 (V)
   - Code de la route. - art. R327-2 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2020-773 du 24 juin 2020 - art. 1
 
 _Cite_:
 
@@ -31266,6 +31237,30 @@ _Cité par_:
   - Code de la route. - art. R344-4 (V)
 
 
+###### Article R325-12-1
+
+Il est institué, sous l'autorité et le contrôle du ministre chargé de la sécurité routière, un système d'information
+permettant l'enregistrement, la gestion et le suivi par les autorités compétentes des procédures relatives aux véhicules mis
+en fourrière. Les collectivités territoriales ou leurs groupements qui ont mis en place un ou plusieurs services publics de
+fourrière pour automobiles en application de l'article L. 325-13 peuvent avoir recours à ce système d'information.
+
+Celui-ci centralise notamment les données enregistrées par les gardiens de fourrière en application de l'article R. 325-25.
+Il permet l'échange d'informations entre les différentes autorités concernées par la procédure de mise en fourrière des
+véhicules et leur gestion et les gardiens de fourrière.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-775 du 24 juin 2020 - art. 2
+
+
 ###### Article R325-13
 
 Toute prescription de mise en fourrière est précédée d'une vérification tendant à déterminer s'il s'agit d'un véhicule volé.
@@ -31288,29 +31283,36 @@ _Anciens textes_:
 
 ###### Article R325-14
 
-I.-Dans les cas prévus au présent code ou à la suite d'une immobilisation du véhicule, la mise en fourrière est prescrite
+I. - Dans les cas prévus au présent code ou à la suite d'une immobilisation du véhicule, la mise en fourrière est prescrite
 dans les conditions prévues à l'article R. 325-9 et au 2° de l'article R. 325-11 :
 
 - soit par un officier de police judiciaire territorialement compétent, de la police nationale ou de la gendarmerie
 nationale ;
 
 - soit par un agent de police judiciaire adjoint, chef de la police municipale ou occupant ces fonctions, territorialement
-compétent, de sa propre initiative ou sur proposition de l'agent qui a verbalisé à la suite d'une infraction justificative de
-mise en fourrière. 
+compétent, et, à Paris, par un agent de police judiciaire adjoint appartenant au corps des contrôleurs relevant du statut des
+administrations parisiennes et exerçant ses fonctions dans la spécialité voie publique de sa propre initiative ou sur
+proposition de l'agent qui a verbalisé à la suite d'une infraction justificative de mise en fourrière.
 
-II.-Lorsque le véhicule a été volé, que son propriétaire n'a pu être identifié ou lorsqu'il est muni de fausses plaques
+II. - Lorsque le véhicule a été volé, que son propriétaire n'a pu être identifié ou lorsqu'il est muni de fausses plaques
 d'immatriculation, sa mise en fourrière ne peut être prescrite que par un officier de police judiciaire de la police
 nationale ou de la gendarmerie nationale territorialement compétent, ou avec son accord préalable exprès.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2005-1148 du 6 septembre 2005 - art. 3 () JORF 13 septembre 2005
+  - Décret n°2020-775 du 24 juin 2020 - art. 3
 
 _Anciens textes_:
 
@@ -31319,8 +31321,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R325-11 (V)
-  - Code de la route. - art. R325-9 (V)
+  - Code de la route. - art. R325-11
+  - Code de la route. - art. R325-9
 
 _Cité par_:
 
@@ -31330,23 +31332,29 @@ _Cité par_:
 ###### Article R325-15
 
 En cas d'infraction aux règlements édictés pour la sauvegarde de l'esthétique des sites et des paysages classés, la mise en
-fourrière peut être également prescrite par le maire ou, à Paris, par le préfet de police. 
+fourrière peut être également prescrite par le maire ou, à Paris, par le préfet de police.
 
 Un officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
 fonctions, territorialement compétent peut être chargé d'exécuter, ou de faire exécuter, la mesure prévue à l'alinéa
-précédent. 
+précédent.
 
-Les dispositions du II de l'article R. 325-16 sont appliquées.
+Les dispositions de l'article R. 325-16 sont appliquées.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2005-1148 du 6 septembre 2005 - art. 4 () JORF 13 septembre 2005
+  - Décret n°2020-775 du 24 juin 2020 - art. 4
 
 _Anciens textes_:
 
@@ -31355,34 +31363,43 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R325-16 (V)
+  - Code de la route. - art. R325-16 (VD)
 
 
 ###### Article R325-16
 
-I.-(abrogé) 
+I.-(abrogé)
 
-II.-L'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
-fonctions, territorialement compétent, ou l'agent placé sous leur autorité : 
+II. - L'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
+fonctions, territorialement compétent et, à Paris, l'agent de police judiciaire adjoint appartenant au corps des contrôleurs
+relevant du statut des administrations parisiennes et exerçant ses fonctions dans la spécialité voie publique ou l'agent
+placé sous leur autorité :
 
 1° Désigne la fourrière dans laquelle sera transféré le véhicule, cette désignation étant matérialisée par la pose d'un signe
-distinctif sur celui-ci ; 
+distinctif sur celui-ci ;
 
 2° Dresse, si possible contradictoirement en présence du propriétaire ou du conducteur du véhicule et du préposé à
 l'enlèvement, un état sommaire, extérieur et intérieur, du véhicule, sans l'ouvrir, au moyen d'une fiche descriptive dont le
-modèle est fixé par arrêté du ministre de l'intérieur, avant que la mise en fourrière reçoive un commencement d'exécution ; 
+modèle est fixé par arrêté du ministre de l'intérieur, avant que la mise en fourrière reçoive un commencement d'exécution ;
 
-3° Remet à ce propriétaire ou ce conducteur, s'il est présent, un double de la fiche relative à l'état du véhicule et, le cas
-échéant, la fiche de circulation provisoire prévue à l'article R. 325-6 ; 
+3° Remet, le cas échéant, à ce propriétaire ou ce conducteur, s'il est présent, la fiche de circulation provisoire prévue à
+l'article R. 325-6. La fiche mentionnée au 2° relative à l'état du véhicule est transmise au conducteur ou au propriétaire, à
+sa demande, par tout moyen ;
 
 4° Relate sur le procès-verbal de constatation ou le rapport les motifs de la mise en fourrière ; il y fait mention du
 retrait provisoire du certificat d'immatriculation et de l'heure d'appel du véhicule d'enlèvement.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-773 du 8 juillet 2010 - art. 4
+  - Décret n°2020-775 du 24 juin 2020 - art. 5
 
 _Anciens textes_:
 
@@ -31391,12 +31408,12 @@ _Anciens textes_:
 
 _Cité par_:
 
-  - Code de la route. - art. R325-15 (V)
+  - Code de la route. - art. R325-15 (VD)
   - Code de la route. - art. R343-4 (M)
 
 _Cite_:
 
-  - Code de la route. - art. R325-6 (V)
+  - Code de la route. - art. R325-6
 
 
 ###### Article R325-17
@@ -31552,20 +31569,28 @@ _Anciens textes_:
 
 ###### Article R325-22
 
-I.-Lorsque le propriétaire du véhicule faisant l'objet de la mise en fourrière est domicilié ou réside dans le ressort de
+I. - Lorsque le propriétaire du véhicule faisant l'objet de la mise en fourrière est domicilié ou réside dans le ressort de
 l'officier de police judiciaire ou de l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces
-fonctions qui prescrit cette mesure, celui-ci peut faire garder le véhicule par son propriétaire, à condition que le
-certificat d'immatriculation soit immédiatement retiré. Ce document reçoit la destination prévue à l'article R. 325-34. 
+fonctions ou, à Paris, de l'agent de police judiciaire adjoint appartenant au corps des contrôleurs relevant du statut des
+administrations parisiennes exerçant ses fonctions dans la spécialité voie publique qui prescrit cette mesure, celui-ci peut
+faire garder le véhicule par son propriétaire, à condition que le certificat d'immatriculation soit immédiatement retiré. Ce
+document reçoit la destination prévue à l'article R. 325-34. 
 
-II.-Dans cette hypothèse, l'autorité dont relève la fourrière est : 
+II. - Dans cette hypothèse, l'autorité dont relève la fourrière est :
 
 1° Soit le maire, lorsque la mise en fourrière a été décidée par lui ou par un de ses adjoints agissant en qualité d'officier
-de police judiciaire ou par l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces fonctions ; 
+de police judiciaire ou par l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces fonctions ;
 
-2° Soit le préfet, dans les autres cas. 
+2° Soit le préfet, dans les autres cas.
 
-III.-Les dispositions du présent article sont applicables à la mise en fourrière prévue à l'article L. 325-1-2 lorsque le
+III. - Les dispositions du présent article sont applicables à la mise en fourrière prévue à l'article L. 325-1-2 lorsque le
 propriétaire du véhicule réside dans le département du représentant de l'Etat qui a prescrit cette mesure.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
@@ -31575,7 +31600,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-3 du 3 janvier 2012 - art. 12
+  - Décret n°2020-775 du 24 juin 2020 - art. 6
 
 _Anciens textes_:
 
@@ -31584,7 +31609,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-1-2 (V)
+  - Code de la route. - art. L325-1-2
   - Code de la route. - art. R325-34
 
 _Cité par_:
@@ -31594,76 +31619,13 @@ _Cité par_:
 
 ###### Article R325-23
 
-Le véhicule est placé sous la garde juridique du gardien de la fourrière jusqu'à la date d'effet de la mainlevée, sauf au
-cours de la sortie provisoire prévue à l'article R. 325-36.
+Le véhicule est placé sous la garde juridique du gardien de la fourrière jusqu'à la date d'effet de la mainlevée.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Anciens textes_:
-
-  - Code de la route - art. R286-4 (Ab)
-  - Code de la route R286-4
-
-_Cite_:
-
-  - Code de la route. - art. R325-36 (V)
-
-
-###### Article R325-24
-
-Le préfet agrée les gardiens de fourrière et les installations de celle-ci, après consultation de la commission
-départementale de sécurité routière. Il peut, dans les mêmes conditions, procéder au retrait de l'agrément. La décision de
-retrait n'intervient qu'après que la personne intéressée a été mise à même de présenter des observations écrites et, le cas
-échéant, sur sa demande, des observations orales. 
-
-Nul ne peut être agréé comme gardien de fourrière s'il exerce également une activité de destruction ou de retraitement de
-véhicules usagés. 
-
-La fourrière doit être clôturée. Ses installations doivent notamment satisfaire aux dispositions législatives et
-réglementaires relatives à la protection de l'environnement. 
-
-Les dispositions qui précèdent ne sont applicables ni à la personne occasionnellement requise comme gardien de fourrière ni
-au propriétaire qui garde son véhicule dans les conditions prévues à l'article R. 325-22. 
-
-Le préfet établit un rapport annuel sur les activités et le fonctionnement des fourrières de son département.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Modifié par_:
-
-  - Décret n°2005-1148 du 6 septembre 2005 - art. 9 () JORF 13 septembre 2005
-
-_Cité par_:
-
-  - Décret n°2019-1204 du 19 novembre 2019 (V)
-  - Décret n°2019-1204 du 19 novembre 2019 - art. 1 (V)
-  - Code de la route. - art. R325-19 (V)
-  - Code de la route. - art. R342-2 (V)
-  - Code de la route. - art. R343-4 (M)
-
-_Anciens textes_:
-
-  - Code de la route - art. R286-5 (Ab)
-  - Code de la route R286-5
-
-_Cite_:
-
-  - Code de la route. - art. R325-22 (V)
-
-
-###### Article R325-25
-
-Le gardien de fourrière enregistre, au fur et à mesure de leurs arrivées, les entrées des véhicules mis en fourrière, leurs
-sorties provisoires et définitives, les décisions de mainlevée de la mise en fourrière et, le cas échéant, les décisions de
-remise   à l'administration chargée des domaines ou à une entreprise de destruction.
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
@@ -31673,7 +31635,93 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-551 du 27 mai 2014 - art. 25
+  - Décret n°2020-775 du 24 juin 2020 - art. 7
+
+_Anciens textes_:
+
+  - Code de la route - art. R286-4 (Ab)
+  - Code de la route R286-4
+
+_Cite_:
+
+  - Code de la route. - art. R325-36 (VT)
+
+
+###### Article R325-24
+
+Le préfet agrée les gardiens de fourrière et les installations de celle-ci, après consultation de la commission
+départementale de sécurité routière. Il peut, dans les mêmes conditions, procéder au retrait de l'agrément. La décision de
+retrait n'intervient qu'après que la personne intéressée a été mise à même de présenter des observations écrites et, le cas
+échéant, sur sa demande, des observations orales.
+
+Nul ne peut être agréé comme gardien de fourrière s'il exerce également une activité de destruction ou de retraitement de
+véhicules usagés.
+
+La fourrière doit être clôturée. Ses installations doivent notamment satisfaire aux dispositions législatives et
+réglementaires relatives à la protection de l'environnement.
+
+Les dispositions qui précèdent ne sont applicables ni à la personne occasionnellement requise comme gardien de fourrière ni
+au propriétaire qui garde son véhicule dans les conditions prévues à l'article R. 325-22.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 du 22 mars 2001
+
+_Cité par_:
+
+  - Décret n°2019-1204 du 19 novembre 2019 (V)
+  - Décret n°2019-1204 du 19 novembre 2019 - art. 1 (V)
+  - Code de la route. - art. R325-19 (V)
+  - Code de la route. - art. R342-2 (V)
+  - Code de la route. - art. R343-4 (M)
+
+_Modifié par_:
+
+  - Décret n°2020-775 du 24 juin 2020 - art. 8
+
+_Anciens textes_:
+
+  - Code de la route - art. R286-5 (Ab)
+  - Code de la route R286-5
+
+_Cite_:
+
+  - Code de la route. - art. R325-22
+
+
+###### Article R325-25
+
+Le gardien de fourrière enregistre, au fur et à mesure de leurs arrivées, les entrées des véhicules mis en fourrière, leurs
+sorties, les décisions de mainlevée de la mise en fourrière et, le cas échéant, les décisions de remise à l'administration
+chargée des domaines ou à une entreprise de destruction.
+
+L'autorité dont relève la fourrière peut prescrire au gardien de fourrière d'enregistrer dans le système d'information prévu
+à l'article R. 325-12-1, outre les données mentionnées à l'alinéa précédent, celles relatives à l'enlèvement, la garde, la
+vente ou la destruction des véhicules. Ces données sont précisées par arrêté du ministre chargé de la sécurité routière.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-251 du 22 mars 2001
+
+_Modifié par_:
+
+  - Décret n°2020-775 du 24 juin 2020 - art. 9
 
 _Anciens textes_:
 
@@ -31696,17 +31744,23 @@ En cas d'absence du propriétaire ou du conducteur au moment de l'enlèvement du
 descriptive remplie par l'agent de constatation est adressé sans délai au responsable de la notification de mise en
 fourrière.
 
-Un autre double de cette fiche descriptive est remis au gardien de fourrière.
+Un autre double de cette fiche descriptive est remis par tout moyen au gardien de fourrière.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2005-1148 du 6 septembre 2005 - art. 10 () JORF 13 septembre 2005
+  - Décret n°2020-775 du 24 juin 2020 - art. 10
 
 _Anciens textes_:
 
@@ -31786,35 +31840,46 @@ _Cite_:
 
 ###### Article R325-29
 
-I.-Le propriétaire du véhicule est tenu de rembourser : 
+I.-Le propriétaire du véhicule est tenu de rembourser :
 
 1° Lorsque la prescription de mise en fourrière a reçu le commencement d'exécution défini à l'article R. 325-12, les frais
-d'enlèvement ainsi que, le cas échéant, les frais de garde en fourrière, d'expertise sous réserve de l'application du IV de
-l'article R. 325-30 et de l'alinéa 3 de l'article R. 325-35, et de vente ou de destruction du véhicule ; 
+d'enlèvement ainsi que, le cas échéant, les frais de garde en fourrière et de vente ou de destruction du véhicule ;
 
-2° Lorsque la prescription de mise en fourrière n'a pas reçu de commencement d'exécution, les frais afférents aux opérations
-préalables à la mise en fourrière, à condition que le véhicule d'enlèvement se soit rendu sur les lieux. 
+2° Lorsque le véhicule qui a été remis à l'administration chargée des domaines a été récupéré par son propriétaire avant son
+aliénation, les frais de mise en vente dans les conditions prévues à l'article R. 325-41 ;
 
-II.-Le propriétaire du véhicule rembourse les frais précités au gardien de la fourrière sur présentation d'une facture
-détaillée. 
+3° Lorsque la prescription de mise en fourrière n'a pas reçu de commencement d'exécution, les frais afférents aux opérations
+préalables à la mise en fourrière, à condition que le véhicule d'enlèvement se soit rendu sur les lieux.
 
-III.-Ces remboursements constituent des recettes budgétaires dans le cas de fourrières publiques. 
+II. - Le propriétaire du véhicule rembourse sur présentation d'une facture détaillée :
+
+1° Les frais mentionnés au 1° et au 3° du I au gardien de la fourrière ;
+
+2° Les frais mentionnés au 2° du I à l'administration chargée des domaines.
+
+III.-Ces remboursements constituent des recettes budgétaires dans le cas de fourrières publiques.
 
 IV.-Les taux maximaux des frais d'opérations préalables à la mise en fourrière, des frais d'enlèvement, de garde en
-fourrière, d'expertise et de destruction des véhicules sont fixés par arrêté conjoint du ministre de l'intérieur et du
-ministre chargé de l'économie et des finances, compte tenu des catégories de véhicules. 
+fourrière, de mise en vente et de destruction des véhicules sont fixés par arrêté conjoint du ministre de l'intérieur et du
+ministre chargé de l'économie et des finances, compte tenu des catégories de véhicules.
 
 V.-Les frais de vente par l'administration chargée des domaines sont fixés conformément aux dispositions de l'article A. 114
 du code du domaine de l'Etat. 
 
 VI.-Les professionnels auxquels l'autorité dont relève la fourrière fait appel dans le cadre de la mise en fourrière sont
-rémunérés par cette autorité. 
+rémunérés par cette autorité.
 
-A défaut de stipulations contractuelles, cette autorité indemnise les frais énumérés au IV dans les cas suivants : 
+A défaut de stipulations contractuelles, cette autorité indemnise les frais énumérés au IV dans les cas suivants :
 
-1° Le propriétaire du véhicule mis en fourrière s'avère inconnu, introuvable ou insolvable ; 
+1° Le propriétaire du véhicule mis en fourrière s'avère inconnu, introuvable ou insolvable ;
 
 2° La procédure ou la prescription de mise en fourrière est annulée.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
@@ -31824,14 +31889,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-551 du 27 mai 2014 - art. 25
+  - Décret n°2020-775 du 24 juin 2020 - art. 11
 
 _Cite_:
 
   - Code du domaine de l'Etat - art. A114
   - Code de la route. - art. R325-12
-  - Code de la route. - art. R325-30 (V)
-  - Code de la route. - art. R325-35 (V)
+  - Code de la route. - art. R325-30 (VD)
+  - Code de la route. - art. R325-35 (VT)
 
 _Anciens textes_:
 
@@ -31847,40 +31912,31 @@ _Cité par_:
 
 ###### Article R325-30
 
-I.-L'autorité dont relève la fourrière classe le véhicule dans l'une des trois catégories suivantes : 
+I. - L'autorité dont relève la fourrière classe le véhicule dans l'une des deux catégories suivantes :
 
-1° Véhicule pouvant être restitué en l'état à son propriétaire ou son conducteur ; 
+1° Véhicule à remettre à l'administration chargée des domaines en vue de son aliénation, à l'expiration du délai d'abandon
+prévu au premier alinéa de l'article L. 325-7 ;
 
-2° Véhicule ne pouvant être restitué à son propriétaire ou son conducteur qu'après l'exécution des travaux reconnus
-indispensables, ou après avoir satisfait aux obligations de contrôles techniques ; 
+2° Véhicule à livrer à la destruction, à l'expiration du délai d'abandon prévu au quatrième alinéa de l'article L. 325-7.
 
-3° Véhicule hors d'état de circuler dans des conditions normales de sécurité et dont la valeur marchande est inférieure à un
-montant fixé par arrêté du ministre de l'intérieur et du ministre chargé de l'économie et des finances, devant être livré à
-la destruction à l'expiration du délai d'abandon prévu au quatrième alinéa de l'article L. 325-7. 
+II. - Les véhicules réclamés par leurs propriétaires ou leurs conducteurs dans le délai de trois jours suivant la mise en
+fourrière peuvent être restitués sans avoir été classés.
 
-II.-Le classement dans les deuxième et troisième catégories prévues au I ci-dessus est décidé après avis d'un expert en
-automobile au sens de l'article L. 326-3, désigné par l'administration parmi ceux figurant sur la liste nationale. 
+**Nota:**
 
-III.-L'expert se prononce sur la capacité du véhicule à circuler dans des conditions normales de sécurité. Si le véhicule ne
-remplit pas ces conditions, l'expert définit les réparations indispensables propres à lui redonner cette capacité et fournit
-une évaluation de la valeur marchande du véhicule. 
-
-IV.-Les véhicules réclamés par leurs propriétaires ou leurs conducteurs dans le délai de trois jours suivant la mise en
-fourrière peuvent être restitués sans avoir été expertisés ni classés.
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+  - Décret n°2001-251 du 22 mars 2001
 
 _Modifié par_:
 
-  - Décret n°2001-751 du 27 août 2001 - art. 6 () JORF 28 août 2001
+  - Décret n°2020-775 du 24 juin 2020 - art. 12
 
 _Anciens textes_:
 
@@ -31890,12 +31946,12 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. L325-7 (V)
-  - Code de la route. - art. L326-3 (V)
+  - Code de la route. - art. L325-7
+  - Code de la route. - art. L326-3
 
 _Cité par_:
 
-  - Code de la route. - art. R325-29 (V)
+  - Code de la route. - art. R325-29 (VD)
   - Code de la route. - art. R325-32 (VD)
   - Code de la route. - art. R325-35 (VT)
   - Code de la route. - art. R325-36 (VT)
@@ -31905,17 +31961,25 @@ _Cité par_:
 
 ###### Article R325-31
 
-La mise en fourrière est notifiée par l'auteur de la mesure à l'adresse relevée, soit sur    le traitement automatisé mis en
-œuvre pour l'immatriculation des véhicules, soit sur le procès-verbal d'infraction ou le rapport de mise en fourrière. 
+La mise en fourrière est notifiée par l'auteur de la mesure ou, pour son compte, par le ministre chargé de la sécurité
+routière lorsque les données sont enregistrées dans le système d'information prévu à l'article R. 325-12-1 à l'adresse
+relevée, soit sur le traitement automatisé mis en œuvre pour l'immatriculation des véhicules, soit sur le procès-verbal
+d'infraction ou le rapport de mise en fourrière.
 
 Lorsque le véhicule n'est pas identifiable, il n'est pas procédé à cette formalité. Mention en est faite dans le procès-
 verbal ou dans le rapport de mise en fourrière.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 10
+  - Décret n°2020-775 du 24 juin 2020 - art. 13
 
 _Anciens textes_:
 
@@ -31930,64 +31994,67 @@ _Cité par_:
 ###### Article R325-32
 
 I.-Cette notification s'effectue par lettre recommandée avec demande d'accusé de réception, dans le délai maximal de cinq
-jours ouvrables suivant la mise en fourrière du véhicule. 
+jours ouvrables suivant la mise en fourrière du véhicule.
 
-Il y est joint un double de la fiche descriptive de l'état du véhicule mis en fourrière en cas d'absence du propriétaire ou
-du conducteur au moment de l'enlèvement pour mise en fourrière. 
-
-II.-Cette notification comporte les mentions obligatoires suivantes : 
+II.-Cette notification comporte les mentions obligatoires suivantes :
 
 1° Indication de l'auteur de la prescription, du motif de la prescription, de la fourrière désignée et de l'autorité dont
-relève cette fourrière ; 
+relève cette fourrière ;
 
-2° Décision de classement prise en application de l'article R. 325-30 et indication de la faculté de faire procéder à une
-contre-expertise conformément aux articles R. 325-35 et R. 325-36 ; 
+2° Décision de classement prise en application de l'article R. 325-30 ;
 
-3° Autorité qualifiée pour donner mainlevée de la mise en fourrière ; 
+3° Autorité qualifiée pour donner mainlevée de la mise en fourrière ;
 
 3° bis Présentation par le propriétaire ou le conducteur, afin d'obtenir la décision de mainlevée, de l'attestation
 d'assurance prévue à l'article R. 211-14 du code des assurances couvrant le véhicule et du permis de conduire en cours de
-validité correspondant à la catégorie du véhicule concerné ; 
+validité correspondant à la catégorie du véhicule concerné ;
 
 4° Injonction au propriétaire du véhicule, s'il est soumis à immatriculation, de remettre immédiatement, sous peine
 d'encourir l'amende prévue pour les contraventions de la quatrième classe, le certificat d'immatriculation à l'autorité
-qualifiée pour donner mainlevée de la mise en fourrière. 
+qualifiée pour donner mainlevée de la mise en fourrière.
 
-5° Mise en demeure au propriétaire de retirer son véhicule avant l'expiration d'un délai : 
+5° Mise en demeure au propriétaire de retirer son véhicule avant l'expiration d'un délai :
 
-a) De dix jours pour un véhicule qu'un expert aura estimé d'une valeur marchande inférieure à un montant fixé par arrêté
-interministériel et déclaré hors d'état de circuler dans des conditions normales de sécurité ; 
+a) De dix jours à compter de la date de notification pour un véhicule à livrer à la destruction ;
 
-b) De trente jours dans les autres cas, 
-
-ces délais commençant à courir un jour franc après la date de notification ; 
+b) De quinze jours à compter de la date de notification pour un véhicule à remettre à l'administration chargée des domaines
+en vue de son aliénation ;
 
 6° Avertissement au propriétaire que son absence de réponse dans les délais impartis vaudra abandon de son véhicule et que
 ledit véhicule sera, dans les conditions prévues par décret, soit remis à l'administration chargée des domaines en vue de son
-aliénation, soit livré à la destruction ; 
+aliénation, soit livré à la destruction ;
 
-7° Nature et montant des frais qu'il sera tenu de rembourser ; 
+7° Nature et montant des frais qu'il sera tenu de rembourser ;
 
-8° Enoncé des voies de recours. 
+8° Faculté de demander une copie de la fiche descriptive à l'autorité prescriptrice ;
+
+9° Enoncé des voies de recours.
 
 III.-Si le traitement automatisé mis en œuvre pour l'immatriculation des véhicule révèle l'inscription d'un gage, copie de la
-notification de mise en fourrière est adressée par l'auteur de la prescription de mise en fourrière au créancier-gagiste, par
-lettre recommandée avec demande d'accusé de réception, qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5,6
-et 7) fixant les conditions de remise à l'administration chargée des domaines des véhicules non retirés de fourrière par
-leurs propriétaires.
+notification de mise en fourrière est adressée par l'auteur de la prescription de mise en fourrière ou, pour son compte, par
+le ministre chargé de la sécurité routière lorsque les données sont enregistrées dans le système d'information prévu à
+l'article R. 325-12-1 au créancier-gagiste, par lettre recommandée avec demande d'accusé de réception, qui fait référence au
+décret n° 72-823 du 6 septembre 1972 (art. 5,6 et 7) fixant les conditions de remise à l'administration chargée des domaines
+des véhicules non retirés de fourrière par leurs propriétaires.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°72-823 du 6 septembre 1972 - art. 5
+  - Décret n°72-823 du 6 septembre 1972 - art. 5 (VD)
   - Code des assurances - art. R*211-14
   - Code de la route. - art. R325-30
   - Code de la route. - art. R325-35
 
 _Modifié par_:
 
-  - Décret n°2016-1289 du 30 septembre 2016 - art. 1
+  - Décret n°2020-775 du 24 juin 2020 - art. 14
 
 _Anciens textes_:
 
@@ -32047,121 +32114,18 @@ _Cité par_:
   - Code de la route. - art. R343-4 (V)
 
 
-###### Article R325-35
-
-En cas de désaccord sur l'état du véhicule ou sur la décision de classement visée à l'article R. 325-30, le propriétaire a la
-faculté de faire procéder à une contre-expertise. 
-
-La contre-expertise est faite par un expert choisi sur la liste visée à l'article R. 325-30. 
-
-Dans le cas où la contre-expertise confirme l'expertise initiale, les frais d'expertise et de contre-expertise sont à la
-charge du propriétaire. Dans le cas contraire, ces frais incombent à l'autorité dont relève la fourrière.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2020-775 du 24 juin 2020 - art. 15
-
-_Anciens textes_:
-
-  - Code de la route - art. R292 (Ab)
-  - Code de la route R292
-
-_Cité par_:
-
-  - Code de la route. - art. R325-29 (VD)
-  - Code de la route. - art. R325-32 (VD)
-  - Code de la route. - art. R343-4 (M)
-
-_Cite_:
-
-  - Code de la route. - art. R325-30
-
-
-###### Article R325-36
-
-L'autorité dont relève la fourrière ne peut s'opposer à la demande d'autorisation provisoire de sortie de fourrière présentée
-par le propriétaire du véhicule en vue exclusivement de faire procéder aux travaux reconnus indispensables par l'expert. Il
-en est de même lorsque le propriétaire du véhicule fait procéder à une contre-expertise, aux réparations remettant le
-véhicule en état de circuler dans des conditions normales de sécurité ainsi qu'au contrôle technique du véhicule dans un
-centre agréé. 
-
-Cette autorisation provisoire de sortie de fourrière, dont le modèle est fixé par arrêté du ministre de l'intérieur, qui
-tient lieu de pièce de circulation et qui est limitée au temps des parcours nécessaires et des opérations précitées, peut
-prescrire un itinéraire et des conditions de sécurité. 
-
-Le réparateur doit remettre au propriétaire du véhicule une facture détaillée certifiant l'exécution des travaux prescrits en
-application du 2° du I de l'article R. 325-30.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2010-773 du 8 juillet 2010 - art. 4
-
-_Cité par_:
-
-  - Arrêté du 2 mars 2017 - art. 14
-  - Code de la route. - art. R325-23 (VD)
-  - Code de la route. - art. R325-32 (V)
-  - Code de la route. - art. R325-5-1 (VD)
-  - Code de la route. - art. R325-8 (V)
-  - Code de la route. - art. R343-4 (M)
-
-_Abrogé par_:
-
-  - Décret n°2020-775 du 24 juin 2020 - art. 15
-
-_Anciens textes_:
-
-  - Code de la route - art. R292-1 (Ab)
-  - Code de la route R292-1
-
-_Cite_:
-
-  - Code de la route. - art. R325-30
-
-
-###### Article R325-37
-
-L'autorité dont relève la fourrière informe l'autorité qualifiée pour prononcer la mainlevée de la délivrance de
-l'autorisation provisoire de sortie de fourrière et de la durée de sa validité.
-
-En ce qui concerne les véhicules volés retrouvés en fourrière, l'autorité dont relève la fourrière est tenue d'informer au
-préalable les services de police ou de gendarmerie compétents de son intention de délivrer une autorisation provisoire de
-sortie de fourrière.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-_Abrogé par_:
-
-  - Décret n°2020-775 du 24 juin 2020 - art. 15
-
-_Anciens textes_:
-
-  - Code de la route - art. R292-2 (Ab)
-  - Code de la route R292-2
-
-
 ###### Article R325-38
 
-I.-Chaque prescription de mise en fourrière prend fin par une décision de mainlevée. 
+I.-Chaque prescription de mise en fourrière prend fin par une décision de mainlevée.
 
-II.-Cette décision émane de l'autorité qui a prescrit la mise en fourrière ou de l'officier de police judiciaire chargé
-d'exécuter cette mesure. 
+II. - En cas de restitution du véhicule, cette décision émane de l'autorité qui a prescrit la mise en fourrière ou de
+l'officier de police judiciaire chargé d'exécuter cette mesure. Elle est réputée donnée par la même autorité à l'issue du
+délai d'abandon prévu à l'article L. 325-7 pour les véhicules à détruire ou remis à l'administration chargée des domaines
+pour aliénation.
 
 II bis.-La décision de mainlevée ne peut être prononcée qu'après la présentation par le propriétaire ou le conducteur de
 l'attestation d'assurance prévue par l'article R. 211-14 du code des assurances couvrant le véhicule et du permis de conduire
-en cours de validité correspondant à la catégorie du véhicule concerné. 
+en cours de validité correspondant à la catégorie du véhicule concerné.
 
 Lorsque le propriétaire décide de faire appel à un professionnel qualifié pour la prise en remorque de son véhicule vers un
 lieu de son choix, la décision de mainlevée est prononcée après la présentation de la seule attestation d'assurance. Cette
@@ -32169,25 +32133,21 @@ décision mentionne que l'enlèvement est effectué par un professionnel qualifi
 
 III.-Lorsque l'autorité qualifiée pour prononcer la mainlevée est saisie en ce sens par le procureur de la République ou le
 préfet, comme il est prévu à l'article R. 325-27, elle est tenue de donner immédiatement mainlevée, sous réserve des
-dispositions du II bis. 
+dispositions du II bis.
 
-IV.-Sous réserve des dispositions du II bis, l'autorité qualifiée pour prononcer la mainlevée est tenue de le faire, de
+IV. - Sous réserve des dispositions du II bis, l'autorité qualifiée pour prononcer la mainlevée est tenue d'y procéder, de
 restituer le certificat d'immatriculation du véhicule s'il a été retiré et de délivrer une autorisation définitive de sortie
-de fourrière : 
-
-1° Sur demande du propriétaire ou du conducteur si elle concerne un véhicule classé dans la première catégorie visée à
-l'article R. 325-30 ; 
-
-2° S'il s'agit d'un véhicule classé dans la deuxième ou la troisième catégorie, sur demande du propriétaire ou du conducteur,
-accompagnée selon le cas : 
-
-a) De la facture détaillée du réparateur certifiant l'exécution des travaux reconnus indispensables par l'expert ; 
-
-b) Ou du récépissé délivré par un centre de contrôle technique agréé, postérieur à la date de mise en fourrière. 
+de fourrière sur demande du propriétaire ou du conducteur.
 
 V.-Les dispositions du IV ci-dessus ne s'appliquent pas aux véhicules volés retrouvés en fourrière ainsi qu'aux véhicules
 dont le propriétaire et l'assureur demeurent inconnus ou introuvables malgré les recherches effectuées, pour lesquels la
 mainlevée ne peut être prononcée qu'après accord préalable exprès des services de police ou de gendarmerie compétents.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
@@ -32197,7 +32157,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1289 du 30 septembre 2016 - art. 1
+  - Décret n°2020-775 du 24 juin 2020 - art. 16
 
 _Anciens textes_:
 
@@ -32285,12 +32245,21 @@ _Cité par_:
 ###### Article R325-41
 
 Le gardien de la fourrière restitue le véhicule à son propriétaire ou à son conducteur dès que ce dernier produit
-l'autorisation définitive de sortie de fourrière et s'est acquitté des frais de mise en fourrière, d'enlèvement, de garde et
-d'expertise, dans le cas où ces derniers sont à la charge du propriétaire. Ces frais sont arrêtés à la date de reprise du
-véhicule. 
+l'autorisation définitive de sortie de fourrière et s'est acquitté des frais de mise en fourrière, d'enlèvement et de garde,
+dans le cas où ces derniers sont à la charge du propriétaire. Ces frais sont arrêtés à la date de reprise du véhicule.
 
 Dans le cas prévu au deuxième alinéa du II bis de l'article R. 325-38, le véhicule n'est restitué qu'après présentation d'un
 document justifiant l'intervention du professionnel qualifié figurant sur l'autorisation définitive de sortie du véhicule.
+
+Si un propriétaire souhaite récupérer son véhicule alors que celui-ci fait l'objet d'une procédure de mise en vente, il doit,
+au préalable, s'acquitter des frais de mise en vente mentionnés à l'article R. 325-29 auprès de l'administration chargée des
+domaines et demander une mainlevée en application de l'article R. 325-38.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
@@ -32300,7 +32269,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1289 du 30 septembre 2016 - art. 1
+  - Décret n°2020-775 du 24 juin 2020 - art. 17
 
 _Anciens textes_:
 
@@ -32309,7 +32278,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la route. - art. R325-38 (VD)
+  - Code de la route. - art. R325-38
 
 
 ###### Article R325-42
@@ -32370,13 +32339,17 @@ _Cite_:
 
 ###### Article R325-44
 
-L'administration chargée des domaines informe le préfet du département ou, à Paris, le préfet de police de l'aliénation du
-véhicule ou de la nécessité de le détruire s'il n'a pas trouvé preneur. La destruction d'un véhicule ne peut être réalisée
-que dans des installations classées pour la protection de l'environnement. 
+L'administration chargée des domaines informe l'autorité dont relève la fourrière de l'aliénation du véhicule ou de la
+nécessité de le détruire s'il n'a pas trouvé preneur. La destruction d'un véhicule ne peut être réalisée que dans des
+installations exploitées conformément aux dispositions du titre Ier du livre V du code de l'environnement ou, lorsqu'il
+s'agit de véhicules soumis aux dispositions de l'article R. 543-154 du même code, que dans des centres de traitement de
+véhicules hors d'usage agréés conformément au 3° de l'article R. 543-155 de ce code.
 
-S'il s'agit d'un véhicule hors d'usage au sens de l'article 1er du décret n° 2003-727 du 1er août 2003 relatif à la
-construction des véhicules et à l'élimination des véhicules hors d'usage, la destruction doit être opérée par un démolisseur,
-ou un broyeur, agréé.
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
@@ -32384,13 +32357,9 @@ _Codifié par_:
 
   - Décret n°2001-251 du 22 mars 2001
 
-_Cite_:
-
-  - Décret n°2003-727 du 1 août 2003 - art. 1
-
 _Modifié par_:
 
-  - Décret n°2014-551 du 27 mai 2014 - art. 25
+  - Décret n°2020-775 du 24 juin 2020 - art. 18
 
 _Anciens textes_:
 
@@ -32403,56 +32372,66 @@ _Anciens textes_:
 I.-Le responsable de l'entreprise chargée de la destruction d'un véhicule prend en charge celui-ci en remettant au gardien de
 la fourrière un bon d'enlèvement délivré par l'autorité dont relève la fourrière. Il rend compte de la destruction dudit
 véhicule à l'autorité dont relève la fourrière, à l'autorité qui a prononcé la mainlevée de mise en fourrière, ainsi qu'au
-préfet du département ou, à Paris, au préfet de police. 
+préfet du département ou, à Paris, au préfet de police.
 
-II. Les autorités dont relèvent les fourrières, définies aux articles R. 325-20 et R. 325-21, peuvent passer contrat avec des
-entreprises appelées à effectuer la destruction des véhicules. 
+II. - L'autorité dont relève la fourrière peut transmettre au gardien de fourrière le bon de destruction afin que celui-ci
+puisse remettre le véhicule au responsable de l'entreprise chargée de la destruction. Le gardien de fourrière transmet à
+l'autorité dont il relève les informations relatives à cette entreprise et notamment sa raison sociale, son numéro SIREN, son
+adresse et, le cas échéant, son numéro d'agrément en tant que centre VHU.
 
-III.-Ce contrat doit comporter obligatoirement les clauses suivantes : 
+III. Les autorités dont relèvent les fourrières, définies aux articles R. 325-20 et R. 325-21, peuvent passer contrat avec
+des entreprises appelées à effectuer la destruction des véhicules.
 
-1° Obligations de l'entreprise contractante : 
+IV.-Ce contrat doit comporter obligatoirement les clauses suivantes :
 
-L'entreprise s'engage sur le territoire de (...) : 
+1° Obligations de l'entreprise contractante :
 
-a) A retirer et détruire les véhicules mis en fourrière et désignés par l'autorité dont relève cette fourrière ; 
+L'entreprise s'engage sur le territoire de (...) :
+
+a) A retirer et détruire les véhicules mis en fourrière et désignés par l'autorité dont relève cette fourrière ;
 
 b) A retirer de fourrière les véhicules ainsi désignés dans le délai maximal de quinze jours à compter de la demande de
-retrait ; 
+retrait ;
 
 c) A adresser au service de police ou de gendarmerie, dès la destruction complète du véhicule et dans le délai maximal de
 trois mois à compter de la date de la demande, le certificat d'immatriculation revêtu de la mention " Détruit " (suivie du
 cachet de l'entreprise et de la signature de son représentant) ou, si elle n'a pu entrer en possession de ce titre, une
-attestation certifiant cette impossibilité ; 
+attestation certifiant cette impossibilité ;
 
-2° Obligations de l'autorité cocontractante dont relève la fourrière 
+2° Obligations de l'autorité cocontractante dont relève la fourrière
 
-L'autorité publique s'engage : 
+L'autorité publique s'engage :
 
 a) A désigner et réserver à la seule entreprise contractante toutes opérations d'enlèvement ou de destruction de véhicules
 auxquelles elle entendra faire procéder dans les conditions prévues par les articles L. 325-1 et suivants à moins que le
 propriétaire du véhicule n'ait demandé à le faire retirer de la fourrière par un réparateur de son choix, conformément aux
-dispositions de l'article L. 325-6 ; 
+dispositions de l'article L. 325-6 ;
 
-b) Paragraphe supprimé ; 
+b) Paragraphe supprimé ;
 
-c) Paragraphe supprimé ; 
+c) Paragraphe supprimé ;
 
-3° Droits de l'entreprise contractante : 
+3° Droits de l'entreprise contractante :
 
-En contrepartie de ses obligations, l'entreprise a le droit : 
+En contrepartie de ses obligations, l'entreprise a le droit :
 
 a) De réclamer aux propriétaires des véhicules mis, sur la demande de l'autorité publique, sur son chantier le paiement,
 conformément au tarif approuvé par l'autorité publique, des frais de transfert et de garde à la condition que son chantier
-soit clôturé ou soit gardé jour et nuit. Toutefois, s'agissant des véhicules hors d'usage au sens de l'article 1er du décret
-n° 2003-727 du 1er août 2003 relatif à la construction des véhicules et à l'élimination des véhicules hors d'usage, et sous
-réserve des dispositions de l'article 5 de ce décret, seuls les frais de transfert peuvent éventuellement donner lieu à
-facturation ; 
+soit clôturé ou soit gardé jour et nuit. Toutefois, en ce qui concerne les véhicules hors d'usage mentionnés à l'article R.
+543-154 du code de l'environnement, seuls les frais de transfert peuvent éventuellement donner lieu à facturation sous
+réserve des dispositions de l'article R. 543-157 du même code ;
 
 b) En cas de démolition du véhicule, de récupérer tout accessoire et toute pièce détachée en vue de sa revente après, en cas
-de besoin, remise en état ; 
+de besoin, remise en état ;
 
 c) Après démolition et si l'entreprise effectue elle-même la destruction complète du véhicule, de disposer librement des
 matières ayant une valeur marchande (fer, cuivre, etc.).
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
 
 **Liens relatifs à cet article**
 
@@ -32475,7 +32454,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-3 du 3 janvier 2012 - art. 16
+  - Décret n°2020-775 du 24 juin 2020 - art. 19
 
 _Cité par_:
 
@@ -33327,17 +33306,17 @@ _Cite_:
 
 ###### Article R327-2
 
-I.-Lorsqu'un véhicule a été immobilisé en application des articles L. 325-1 à L. 325-3 en raison de la gravité des dommages
-qu'il a subis, l'officier ou l'agent de police judiciaire qui procède aux constatations en informe le ministre de l'intérieur
-par voie électronique. Le ministre de l'intérieur informe le titulaire que son véhicule n'est plus autorisé à circuler sur
-les voies ouvertes à la circulation publique.
+I.-Lorsqu'un véhicule a été immobilisé ou mis en fourrière en application des articles L. 325-1 à L. 325-3 ou L. 325-12 en
+raison de la gravité des dommages qu'il a subis, l'officier ou l'agent mentionné au premier alinéa de l'article L. 327-4 qui
+procède aux constatations en informe le ministre de l'intérieur par voie électronique. Le ministre de l'intérieur informe le
+titulaire que son véhicule n'est plus autorisé à circuler sur les voies ouvertes à la circulation publique.
 
 Lorsque le titulaire du certificat d'immatriculation ne remet pas son titre à l'officier ou l'agent de police judiciaire qui
 a procédé aux constatations en application de l'article L. 327-4, le ministre de l'intérieur informe le titulaire que son
 véhicule n'est plus autorisé à circuler sur les voies ouvertes à la circulation publique et procède à l'inscription d'une
 opposition au transfert du certificat d'immatriculation.
 
-II.-Lorsque le véhicule est examiné par un expert en automobile justifiant de la qualification prévue à l'article R. 326-17,
+II.-Lorsque le véhicule est examiné par un expert en automobile justifiant de la qualification prévue à l'article R. 326-11,
 afin de confirmer ou d'infirmer la présomption de dangerosité du véhicule, celui-ci établit un rapport qu'il adresse au
 ministre de l'intérieur par voie électronique.
 
@@ -33347,7 +33326,7 @@ titulaire et l'interdiction de circuler et l'opposition au transfert du certific
 Dans le cas où l'expert confirme la présomption de dangerosité, son rapport comporte la liste des réparations à effectuer si
 le véhicule est techniquement réparable.
 
-IV.-Lorsque l'expert justifiant de la qualification prévue à l'article R. 326-17, missionné par le propriétaire, atteste que
+IV.-Lorsque l'expert justifiant de la qualification prévue à l'article R. 326-11, missionné par le propriétaire, atteste que
 les réparations touchant à la sécurité prévues par le premier rapport ont été effectuées et que le véhicule est en état de
 circuler dans des conditions normales de sécurité, il adresse un rapport au ministre de l'intérieur par voie électronique.
 
@@ -33358,6 +33337,12 @@ indiquées sur le certificat d'immatriculation.
 Le certificat d'immatriculation est restitué à son titulaire et l'interdiction de circuler et l'opposition au transfert du
 certificat d'immatriculation sont levées.
 
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour
+chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles
+s'appliquent aux véhicules entrés en fourrière à compter de la même date.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -33367,7 +33352,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2017-1278 du 9 août 2017 - art. 12
+  - Décret n°2020-775 du 24 juin 2020 - art. 20
 
 _Cite_:
 
