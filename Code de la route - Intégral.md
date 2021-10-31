@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2021-04-01
+Version Consolidée au 2021-11-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -154,7 +154,7 @@ Version Consolidée au 2021-04-01
         - [Chapitre III : Eclairage et signalisations (art. R313-1 à R313-35)](#151)
           - [Section 1 : Eclairage et signalisation des véhicules. (art. R313-1 à R313-32)](#152)
           - [Section 2 : Signaux d'avertissement. (art. R313-33 à R313-35)](#153)
-        - [Chapitre IV : Pneumatiques. (art. R314-1 à R314-7)](#154)
+        - [Chapitre IV : Pneumatiques. (art. D314-8 à R314-7)](#154)
         - [Chapitre V : Freinage. (art. R315-1 à R315-7 )](#155)
         - [Chapitre VI : Organes de manoeuvre, de direction et de visibilité. (art. R316-1 à R316-10)](#156)
         - [Chapitre VII : Dispositifs et aménagements particuliers (art. R317-1 à R317-28)](#157)
@@ -25265,6 +25265,58 @@ _Anciens textes_:
 
 
 #### Chapitre IV : Pneumatiques.<a id=154></a>
+
+###### Article D314-8
+
+I. - Dans les massifs mentionnés à l'article 5 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la
+protection de la montagne, le préfet de département détermine, par arrêté pris après avis du comité de massif, la liste des
+communes sur lesquelles des obligations d'équipement des véhicules en circulation s'appliquent en période hivernale. Des
+dérogations aux obligations d'équipements peuvent être définies par arrêté du préfet de département sur certaines sections de
+routes et certains itinéraires de délestage.
+
+II. - Les obligations d'équipement en période hivernale sont les suivantes :
+
+1° Pour les véhicules de catégorie M1 et N1 : la détention de dispositifs antidérapants amovibles permettant d'équiper au
+moins deux roues motrices ou le port, sur au moins deux roues de chaque essieu, de pneumatiques “hiver” ;
+
+2° Pour les véhicules de catégorie M2 et M3 : la détention de dispositifs antidérapants amovibles permettant d'équiper au
+moins deux roues motrices ou le port, sur au moins deux roues directrices du système de direction principal et au moins deux
+roues motrices, de pneumatiques “hiver” ;
+
+3° Pour les véhicules de catégorie N2 et N3, sans remorque ni semi-remorque : la détention de dispositifs antidérapants
+amovibles permettant d'équiper au moins deux roues motrices ou le port, sur au moins deux roues directrices du système de
+direction principal et au moins deux roues motrices, de pneumatiques “hiver” ;
+
+4° Pour les véhicules de catégorie N2 et N3, avec remorque ou semi-remorque : la détention de dispositifs antidérapants
+amovibles permettant d'équiper au moins deux roues motrices.
+
+III. - Les dispositions des 1° à 4° du II ne sont pas applicables aux véhicules portant des dispositifs antidérapants
+inamovibles définis par arrêté du ministre chargé des transports.
+
+IV. - La période hivernale débute le 1er novembre et se termine le 31 mars de l'année suivante.
+
+V. - Pour l'application du présent article, les pneumatiques “hiver” sont identifiés par l'un des marquages “M+S”, “M.S” ou
+“M&S” ou par la présence conjointe du marquage du “symbole alpin” et de l'un des marquages “M+S”, “M.S” ou “M&S”.
+
+VI. - Le présent article s'applique sans préjudice des interdictions, restrictions et conditions de circulation prises par le
+préfet de département ou par l'autorité détentrice du pouvoir de police de la circulation au titre des articles R. 411-17 à
+R. 411-21-1.
+
+**Nota:**
+
+Conformément à l’article 3 du décret n° 2020-1264 du 16 octobre 2020, ces dispositions entrent en vigueur le 1er novembre
+2021.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°85-30 du 9 janvier 1985 - art. 5
+
+_Créé par_:
+
+  - Décret n°2020-1264 du 16 octobre 2020 - art. 1
+
 
 ###### Article R314-1
 
