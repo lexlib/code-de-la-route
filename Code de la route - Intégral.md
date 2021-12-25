@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2021-01-01
+Version Consolidée au 2021-12-26
 ## Contenu: 
   - [Partie législative (art. L110-1 à L444-1)](#1)
     - [Livre 1er : Dispositions générales (art. L110-1 à L143-2)](#2)
@@ -8247,27 +8247,28 @@ _Créé par_:
 ###### Article L323-1
 
 I.-Lorsqu'en application du présent code, des véhicules sont astreints à un contrôle technique, celui-ci est effectué par les
-services de l'Etat ou par des contrôleurs agréés par l'Etat. 
+services de l'Etat ou par des contrôleurs agréés par l'Etat dans des installations agréées.
 
-Cet agrément peut être délivré soit à des contrôleurs indépendants, soit à des contrôleurs organisés en réseaux d'importance
-nationale, sous réserve qu'ils n'aient fait l'objet d'aucune condamnation inscrite au bulletin n° 2 de leur casier
-judiciaire. 
+Ces agréments peuvent être délivrés soit à des contrôleurs et installations indépendants, soit à des contrôleurs et
+installations organisés en réseaux d'importance nationale, sous réserve que les contrôleurs et les personnes physiques
+assurant l'exploitation de l'installation n'aient fait l'objet d'aucune condamnation inscrite au bulletin n° 2 de leur casier
+judiciaire.
 
-Les fonctions de contrôleur ainsi que les autres fonctions exercées dans ces réseaux sont exclusives de toute autre activité
-exercée dans la réparation ou le commerce automobile. 
+Les fonctions de contrôleur ainsi que les autres fonctions exercées dans ces réseaux et installations sont exclusives de
+toute autre activité exercée dans la réparation ou le commerce automobile.
 
-Les frais de contrôle sont à la charge du propriétaire du véhicule. 
+Les frais de contrôle sont à la charge du propriétaire du véhicule.
 
 Un décret en Conseil d'Etat fixe les modalités de fonctionnement du système de contrôle et en particulier les conditions
-d'agrément des contrôleurs, des installations nécessaires au contrôle et des réseaux mentionnés au deuxième alinéa. 
+d'agrément des contrôleurs, des installations nécessaires au contrôle et des réseaux mentionnés au deuxième alinéa.
 
 II.-Par dérogation au I, tout ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace
 économique européen, légalement établi, pour l'exercice de la profession de contrôleur technique de véhicules, dans un de ces
-Etats, peut exercer cette activité de façon temporaire et occasionnelle en France. 
+Etats, peut exercer cette activité de façon temporaire et occasionnelle en France.
 
 Toutefois, lorsque cette activité ou la formation y conduisant n'est pas réglementée dans l'Etat d'établissement, le
 prestataire doit avoir exercé cette activité dans un ou plusieurs Etats membres pendant une année, à temps plein ou à temps
-partiel pendant une durée totale équivalente, au cours des dix années qui précèdent la prestation. 
+partiel pendant une durée totale équivalente, au cours des dix années qui précèdent la prestation.
 
 Lorsque le prestataire fournit pour la première fois des services en France, il en informe au préalable l'autorité compétente
 par une déclaration écrite, dans les conditions fixées par décret en Conseil d'Etat.
@@ -8296,7 +8297,7 @@ _Cité par_:
   - Arrêté du 23 février 2010 (V)
   - Arrêté du 16 juillet 2010 (V)
   - Arrêté du 27 octobre 2010 (V)
-  - Code de la route. - art. L318-1 (M)
+  - Code de la route. - art. L318-1 (V)
   - Code de la route. - art. R323-16 (V)
   - Code de la route. - art. R323-17 (V)
   - Code de la route. - art. R323-18-1 (V)
@@ -8305,7 +8306,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1809 du 22 décembre 2016 - art. 14
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 96 (V)
 
 
 #### Chapitre 4 : Assurance.<a id=50></a>
